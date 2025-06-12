@@ -1,0 +1,1754 @@
+ACCOUNTS - Final Accounts preparation
+Caseware UK (AP4) 2023.0.135
+2023.0.135
+147
+true
+true
+true
+false
+2023-09-01
+false
+No description of principal activity
+132
+true
+04696164
+2023-09-01
+2024-08-31
+04696164
+2022-09-01
+2023-08-31
+04696164
+2024-08-31
+04696164
+2023-08-31
+04696164
+2022-09-01
+04696164
+c:Director3
+2023-09-01
+2024-08-31
+04696164
+c:Director4
+2023-09-01
+2024-08-31
+04696164
+c:Director5
+2023-09-01
+2024-08-31
+04696164
+c:RegisteredOffice
+2023-09-01
+2024-08-31
+04696164
+d:Buildings
+d:ShortLeaseholdAssets
+2023-09-01
+2024-08-31
+04696164
+d:Buildings
+d:ShortLeaseholdAssets
+2024-08-31
+04696164
+d:Buildings
+d:ShortLeaseholdAssets
+2023-08-31
+04696164
+d:PlantMachinery
+2023-09-01
+2024-08-31
+04696164
+d:PlantMachinery
+2024-08-31
+04696164
+d:PlantMachinery
+2023-08-31
+04696164
+d:PlantMachinery
+d:OwnedOrFreeholdAssets
+2023-09-01
+2024-08-31
+04696164
+d:MotorVehicles
+2023-09-01
+2024-08-31
+04696164
+d:MotorVehicles
+2024-08-31
+04696164
+d:MotorVehicles
+2023-08-31
+04696164
+d:MotorVehicles
+d:OwnedOrFreeholdAssets
+2023-09-01
+2024-08-31
+04696164
+d:FurnitureFittings
+2023-09-01
+2024-08-31
+04696164
+d:FurnitureFittings
+2024-08-31
+04696164
+d:FurnitureFittings
+2023-08-31
+04696164
+d:FurnitureFittings
+d:OwnedOrFreeholdAssets
+2023-09-01
+2024-08-31
+04696164
+d:OtherPropertyPlantEquipment
+2023-09-01
+2024-08-31
+04696164
+d:OtherPropertyPlantEquipment
+2024-08-31
+04696164
+d:OtherPropertyPlantEquipment
+2023-08-31
+04696164
+d:OtherPropertyPlantEquipment
+d:OwnedOrFreeholdAssets
+2023-09-01
+2024-08-31
+04696164
+d:OwnedOrFreeholdAssets
+2023-09-01
+2024-08-31
+04696164
+d:CurrentFinancialInstruments
+2024-08-31
+04696164
+d:CurrentFinancialInstruments
+2023-08-31
+04696164
+d:Non-currentFinancialInstruments
+2024-08-31
+04696164
+d:Non-currentFinancialInstruments
+2023-08-31
+04696164
+d:CurrentFinancialInstruments
+d:WithinOneYear
+2024-08-31
+04696164
+d:CurrentFinancialInstruments
+d:WithinOneYear
+2023-08-31
+04696164
+d:Non-currentFinancialInstruments
+d:AfterOneYear
+2024-08-31
+04696164
+d:Non-currentFinancialInstruments
+d:AfterOneYear
+2023-08-31
+04696164
+d:ShareCapital
+2023-09-01
+2024-08-31
+04696164
+d:ShareCapital
+2024-08-31
+04696164
+d:ShareCapital
+2022-09-01
+2023-08-31
+04696164
+d:ShareCapital
+2023-08-31
+04696164
+d:ShareCapital
+2022-09-01
+04696164
+d:RetainedEarningsAccumulatedLosses
+2023-09-01
+2024-08-31
+04696164
+d:RetainedEarningsAccumulatedLosses
+2024-08-31
+04696164
+d:RetainedEarningsAccumulatedLosses
+2022-09-01
+2023-08-31
+04696164
+d:RetainedEarningsAccumulatedLosses
+2023-08-31
+04696164
+d:RetainedEarningsAccumulatedLosses
+2022-09-01
+04696164
+d:AcceleratedTaxDepreciationDeferredTax
+2024-08-31
+04696164
+d:AcceleratedTaxDepreciationDeferredTax
+2023-08-31
+04696164
+d:OtherDeferredTax
+2024-08-31
+04696164
+d:OtherDeferredTax
+2023-08-31
+04696164
+d:FurtherSpecificTypeProvisionContingentLiability1ComponentTotalProvisionsContingentLiabilities
+2023-09-01
+2024-08-31
+04696164
+d:FurtherSpecificTypeProvisionContingentLiability1ComponentTotalProvisionsContingentLiabilities
+2024-08-31
+04696164
+d:FurtherSpecificTypeProvisionContingentLiability1ComponentTotalProvisionsContingentLiabilities
+2023-08-31
+04696164
+c:OrdinaryShareClass1
+2023-09-01
+2024-08-31
+04696164
+c:OrdinaryShareClass1
+2024-08-31
+04696164
+c:OrdinaryShareClass1
+2023-08-31
+04696164
+c:FRS102
+2023-09-01
+2024-08-31
+04696164
+c:Audited
+2023-09-01
+2024-08-31
+04696164
+c:FullAccounts
+2023-09-01
+2024-08-31
+04696164
+c:PrivateLimitedCompanyLtd
+2023-09-01
+2024-08-31
+04696164
+d:WithinOneYear
+2024-08-31
+04696164
+d:WithinOneYear
+2023-08-31
+04696164
+d:BetweenOneFiveYears
+2024-08-31
+04696164
+d:BetweenOneFiveYears
+2023-08-31
+04696164
+d:MoreThanFiveYears
+2024-08-31
+04696164
+d:MoreThanFiveYears
+2023-08-31
+04696164
+2
+2023-09-01
+2024-08-31
+04696164
+e:PoundSterling
+2023-09-01
+2024-08-31
+iso4217:GBP
+xbrli:shares
+xbrli:pure
+Registered number:
+04696164
+Intertrain UK Ltd.
+Annual Report and Financial Statements
+For the year ended
+31 August 2024
+Intertrain UK Ltd.
+Company Information
+Directors
+K K Patel
+A S J Moss
+A N Ismail
+Registered number
+04696164
+Registered office
+Balby Court
+Carr Hill
+Doncaster
+South Yorkshire
+DN4 8DE
+Independent auditors
+Hurst Accountants Limited
+Chartered Accountants
+&
+Statutory Auditors
+3 Stockport Exchange
+Stockport
+Cheshire
+SK1 3GG
+Intertrain UK Ltd.
+Contents
+Page
+Strategic Report
+1 - 2
+Directors' Report
+3 - 4
+Independent Auditors' Report
+5 - 8
+Statement of Comprehensive Income
+9
+Balance Sheet
+10
+Statement of Changes in Equity
+11
+Analysis of Net Debt
+11
+Notes to the Financial Statements
+12 - 23
+Intertrain UK Ltd.
+Strategic Report
+For the year ended 31 August 2024
+Introduction
+The directors present their Strategic Report for the year ending 31 August 2024.
+Business review
+The Company (Intertrain) was established in 2002 and specialises in the Training in the Rail Safety Sector. In November 2019, Intertrain joined The City & Guilds of London Institute Group.  Intertrain currently operates from 13 training centres across the UK and employs over 133 employees. Through targeted development of commercial training, winning Master Vendor Contracts and government funding, Intertrain continues to grow its geographic and product portfolio. Intertrain works closely with industry regulators to ensure we are delivering the best.
+Collaborative working is a fundamental part of Intertrains ethos. The company worked intensively on the development of a sub-contracting model working with a wide range of companies in varying industries to offer customers a comprehensive service of training programmes. Intertrain currently works with over 1,000 local and national clients delivering a broad range of courses in rail safety along side Bootcamps and Apprenticeships. Many of the Bootcamps and Apprentice programmes have been developed specifically for employers or in response to Government initiatives. In developing programmes for local, national and international clients, Intertrain proactively seeks out delivery partners, thus enhancing its own capability. In all aspects of developing programmes, Intertrain responds to the needs of the client in delivering to time, quality and cost as well as adhering to rail safety compliance requirements set out by Network Rail .
+Year ended 31 August 2024
+Intertrain has continued its strong revenue growth trajectory in FY24, increasing from £10.9m in year to 31 August 2023 to £15.5m in year to 31 August 2024, but has been impacted by the control period switch from 6 to 7. This has slowed down work across the Rail industry as a whole and has been further compounded by a change in Government. This has led to a decline in commercial customer demand in the latter part of FY24, which in turn has reduced the profitability of some of Intertrain’s courses over that period. Intertrain was able to mitigate some of this hit with additional sub-contracted revenue, but this came through at a lower gross margin %.
+During the year, Intertrain have introduced a range of interventions to secure business going forward;
+∙
+Introduced a trainer retention programme, providing additional remuneration and incentives for critical trainer roles.
+∙
+Worked across new revenue streams in conjunction with deliverypartners, and enhanced our offer to our exisiting customers, based on their requirements.
+∙
+Periodic review of our pricing to ensure we're competitive within the market.
+∙
+Leveraged synergises across the City & Guilds Group to ensure our cost base is efficiently managed.
+For the future
+Intertrains high-level priorities going into FY25 are to;
+∙
+Deliver high-quality training that meets the needs of learners and employers;
+∙
+Maintain a strong reputation in the community;
+∙
+Be financially sustainable, through diverse product offering;
+∙
+Underpinned by a highly skilled and engaged workforce.
+Intertrain will continue to review its training offering based on employer demand and performance. The business will look to expand its offer to other areas in Rail Safety, Electrical, Health & Safety, Project Management and Construction. Additionally, Intertrain will continue to look for cost saving opportunities in its existing operations to ensure that operating costs remain efficient for the business.  The trainer retention initiative has had an impact with lower staff turnover resulting in lower onboarding costs.
+Intertrain will continue to work with a range of stakeholders and partners, including: the ESFA, NSAR, Network Rail, CITB, ELCAS and the DfE.
+Page 1
+Intertrain UK Ltd.
+Strategic Report (continued)
+For the year ended 31 August 2024
+Overall Intertrain, with City and Guilds’ support, is putting into place both the team and the resources necessary to effect a turnaround for FY25 and is well placed to face the future challenges of the market.
+Financial key performance indicators
+A summary of the financial key performance indicators ('KPIs') for the last two years is as follows:
+Financial KPI's
+31 August 2024
+31 August 2023
+Gross margin %
+30%
+40%
+EBITDA
+£278,790
+£282,924
+Current ratio
+2.07
+1.16
+This report was approved by the board
+and signed on its behalf
+.
+A N Ismail
+Director
+Date:
+5 February 2025
+Page 2
+Intertrain UK Ltd.
+Directors' Report
+For the year ended 31 August 2024
+The
+directors
+present
+their
+report and the
+financial statements
+for the
+year
+ended
+31 August 2024
+.
+Directors' responsibilities statement
+The
+directors
+are
+responsible for preparing the
+strategic report, the directors' report and the
+financial statements
+in accordance with
+applicable law and regulations
+.
+Company law
+requires
+the
+directors
+to prepare
+financial statements
+for each financial
+year
+. Under that law the directors have elected to prepare the financial statements in accordance with applicable law and United Kingdom Accounting Standards (United Kingdom Generally Accepted Accounting Practice), including Financial Reporting Standard 102 ‘The Financial Reporting Standard applicable in the UK and Republic of Ireland'. Under company law the directors must not approve the financial statements unless they are satisfied that they give
+a true and fair view of the state of affairs of the
+Company
+and of the
+profit or loss
+of the
+Company
+for that period.
+In preparing these financial statements, the directors are required to:
+∙
+select suitable
+accounting policies for the Company's financial statements
+and then apply them consistently;
+∙
+make
+judgements
+and accounting estimates that are reasonable and prudent;
+∙
+prepare the
+financial statements
+on the going concern basis
+unless it is inappropriate to presume that the Company will continue in business
+.
+The
+directors
+are
+responsible for keeping
+adequate
+accounting records that are sufficient to show and explain the Company's transactions and
+disclose with reasonable accuracy at any time the financial position of the
+Company
+and to enable
+them
+to ensure that the
+financial statements
+comply with the Companies Act 2006
+.
+They are
+also responsible for safeguarding the assets of the
+Company
+and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+Results and dividends
+The
+profit
+for the
+year
+, after taxation, amounted to
+£
+85,910
+(2023 -
+£
+100,698
+)
+.
+Dividends totalling £nil (
+2023: £nil
+) were paid during the year. The directors do not recommend the payment of a final dividend.
+Directors
+The
+directors
+who served during the
+year
+were:
+K K Patel
+A S J Moss
+A N Ismail
+Future developments
+Information pertaining to future developments has been included within the Strategic Report.
+Page 3
+Intertrain UK Ltd.
+Directors' Report (continued)
+For the year ended 31 August 2024
+Disclosure of information to auditors
+Each of the persons who are
+directors
+at the time when this
+directors' report
+is approved has confirmed that:
+∙
+so far as
+the director
+is aware, there is no relevant audit information of which the
+Company
+'s auditor
+s
+are
+unaware, and
+∙
+the director
+has taken all the steps that ought to have been taken as a
+director
+in order to be aware of any relevant audit information and to establish that the
+Company
+'s auditor
+s
+are
+aware of that information.
+Post balance sheet events
+There have been no significant events affecting the
+Company
+since the year end.
+Auditors
+The auditor
+s
+,
+Hurst Accountants Limited
+,
+will be proposed for reappointment in accordance with
+section 485 of the Companies Act 2006.
+This report was approved by the
+board
+and signed on
+its
+behalf.
+A N Ismail
+Director
+Date:
+5 February 2025
+Page 4
+Intertrain UK Ltd.
+Independent Auditors' Report to the Members of Intertrain UK Ltd.
+Opinion
+We
+have audited the
+financial statements
+of
+Intertrain UK Ltd. (the 'Company')
+for the
+year
+ended
+31 August 2024
+, which comprise
+the statement of comprehensive income, the balance sheet, the statement of changes in equity
+and the related notes, including a summary of significant accounting policies
+.
+The financial reporting framework that has been applied in their preparation is applicable law
+and United Kingdom Accounting Standards,
+including Financial Reporting Standard 102 ‘The Financial Reporting Standard applicable in the UK and Republic of Ireland' (United Kingdom Generally Accepted Accounting Practice).
+In
+our
+opinion
+the financial statements
+:
+∙
+give a true and fair view of the state of the
+Company's
+affairs as at
+31 August 2024
+and of
+its
+profit
+for the
+year
+then ended;
+∙
+have been properly prepared in accordance with
+United Kingdom
+Generally Accepted Accounting Practice; and
+∙
+have been prepared in accordance with the requirements of the Companies Act 2006.
+Basis for opinion
+We
+conducted
+our
+audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and applicable law.
+Our
+responsibilities under those standards are further described in the
+Auditors'
+responsibilities for the audit of the
+financial statements
+section of
+our
+report.
+We
+are
+independent of the
+Company
+in accordance with the ethical requirements that are relevant to
+our
+audit of the
+financial statements
+in the United Kingdom, including the Financial Reporting Council's Ethical Standard
+and
+we
+have fulfilled
+our
+other ethical responsibilities in accordance with these requirements.
+We
+believe that the audit evidence
+we
+have obtained is sufficient and appropriate to provide a basis for
+our
+opinion.
+Conclusions relating to going concern
+In auditing the financial statements,
+we
+have concluded that the
+directors'
+use of the going concern basis of accounting in the preparation of the financial statements is appropriate.
+Based on the work
+we
+have performed,
+we
+have not identified any material uncertainties relating to events or conditions that, individually or collectively, may cast significant doubt on the
+Company's
+ability to continue as a going concern for a period of at least twelve months from when the financial statements are authorised for issue.
+Our
+responsibilities and the responsibilities of the
+directors
+with respect to going concern are described in the relevant sections of this report.
+Other information
+The other information comprises the information included in the
+Annual Report
+other than the financial statements and
+our
+auditors' report
+thereon. The
+directors
+are
+responsible for the other information contained within the
+Annual Report
+.
+Our
+opinion on the financial statements does not cover the other information and
+, except to the extent otherwise explicitly stated in our report,
+we
+do not express any form of assurance conclusion thereon.
+Our
+responsibility is to read the other information and, in doing so, consider whether the other information is materially inconsistent with the financial statements or
+our
+knowledge obtained in the course of the audit, or otherwise appears to be materially misstated. If
+we
+identify such material inconsistencies or apparent material misstatements,
+we
+are
+required to determine whether this gives rise to a material misstatement in the financial statements themselves. If, based on the work
+we
+have performed,
+we
+conclude that there is a material misstatement of this other information,
+we
+are
+required to report that fact.
+We
+have nothing to report in this regard.
+Page 5
+Intertrain UK Ltd.
+Independent Auditors' Report to the Members of Intertrain UK Ltd. (continued)
+Opinion on other matters prescribed by the Companies Act 2006
+In
+our
+opinion, based on the work undertaken in the course of the audit:
+∙
+the information given in the
+strategic report and the directors' report
+for the financial
+year
+for which the
+financial statements
+are prepared is consistent with the
+financial statements
+; and
+∙
+the
+strategic report and the directors' report
+have
+been prepared in accordance with applicable legal requirements.
+Matters on which we are required to report by exception
+In the light of the knowledge and understanding of the
+Company
+and its environment obtained in the course of the audit,
+we
+have not identified material misstatements in the
+strategic report or the directors' report
+.
+We
+have nothing to report in respect of the following matters in relation to which
+the Companies Act 2006
+requires
+us
+to report to you if, in
+our
+opinion:
+∙
+adequate accounting records have not been
+kept
+, or returns adequate for
+our
+audit have not been received from branches not visited by
+us
+; or
+∙
+the
+financial statements
+are not in agreement with the accounting records and returns; or
+∙
+certain disclosures of
+directors
+'
+remuneration specified by law are not made; or
+∙
+we
+have not received all the information and explanations
+we
+require for
+our
+audit
+.
+Responsibilities of directors
+As explained more fully in the
+directors' responsibilities statement
+set out on page 3, the
+directors
+are
+responsible for the preparation of the
+financial statements
+and for being satisfied that they give a true and fair view, and for such internal control as the
+directors
+determine
+is necessary to enable the preparation of
+financial statements
+that are free from material misstatement, whether due to fraud or error.
+In preparing the
+financial statements
+, the
+directors
+are
+responsible for assessing the
+Company
+'s ability to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless the
+directors
+either
+intend
+to liquidate the
+Company
+or to cease operations, or have no realistic alternative but to do so.
+Auditors' responsibilities for the audit of the financial statements
+Our
+objectives are to obtain reasonable assurance about whether the
+financial statements
+as a whole are free from material misstatement, whether due to fraud or error, and to issue an
+auditors' report
+that includes
+our
+opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with ISAs (UK) will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these
+financial statements
+.
+Irregularities, including fraud, are instances of non-compliance with laws and regulations.
+We
+design procedures in line with
+our
+responsibilities, outlined above, to detect material misstatements in respect of irregularities, including fraud. The extent to which
+our
+procedures are capable of detecting irregularities, including fraud is detailed below:
+Page 6
+Intertrain UK Ltd.
+Independent Auditors' Report to the Members of Intertrain UK Ltd. (continued)
+Identifying and assessing potential risks related to irregularities
+In identifying and assessing the risks of material misstatement in respect of irregularities, including fraud and non-compliance with laws and regulations, we considered the following:
+∙
+The nature of the industry and sector in which the company operates; the control environment and business performance including key drivers for directors' remuneration, bonus levels and performance targets.
+∙
+The outcome of enquiries of local management and parent company management, including whether management was aware of any instances of non-compliance with laws and regulations, and whether management had knowledge of any actual, suspected, or alleged fraud.
+∙
+Supporting documentation relating to the Company's policies and procedures for:
+°
+Identifying, evaluating, and complying with laws and regulations
+°
+Detecting and responding to the risks of fraud
+∙
+The internal controls established to mitigate risks related to fraud or non-compliance with laws and regulations.
+∙
+The outcome of discussions amongst the engagement team regarding how and where fraud might occur in the financial statements and any potential indicators of fraud.
+∙
+The legal and regulatory framework in which the Company operates, particularly those laws and regulations which have a direct effect on the financial statements, such as the Companies Act 2006, pensions and tax legislation, or which had a fundamental effect on the operations of the Company, including General Data Protection requirements, and Anti-bribery and Corruption.
+Audit response to risks identified
+Our procedures to respond to the risks identified included the following:
+∙
+Reviewing the financial statements disclosures and testing to supporting documentation to assess compliance with the provisions of those relevant laws and regulations which have a direct effect on the financial statements.
+∙
+Discussions with management, including consideration of known or suspected instances of non-compliance with laws and regulations and fraud.
+∙
+Evaluation of the operating effectiveness of management’s controls designed to prevent and detect irregularities.
+∙
+Enquiring of management about any actual and potential litigation and claims.
+∙
+Performing analytical procedures to identify any unusual or unexpected relationships which may indicate risks of material misstatement due to fraud.
+We have also considered the risk of fraud through management override of controls by:
+∙
+Testing the appropriateness of journal entries and other adjustments. We have used data analytics software to identify accounting transactions which may pose a heightened risk of material misstatement, whether due to fraud or error.
+∙
+Challenging assumptions made by management in their significant accounting estimates, and assessing whether the judgements made in making accounting estimates are indicative of a potential bias; and
+∙
+Evaluating the business rationale of any significant transactions that are unusual or outside the normal course of business.
+Page 7
+Intertrain UK Ltd.
+Independent Auditors' Report to the Members of Intertrain UK Ltd. (continued)
+We also communicated relevant identified laws and regulations and potential fraud risks to all engagement team members and remained alert to any indications of fraud or non-compliance with laws and regulations throughout the audit.
+There are inherent limitations in the audit procedures described above, and the further removed non-compliance with laws and regulations are from the events and transactions reflected in the financial statements, the less likely we would become aware of them.  Also, the risk of not detecting a material misstatement due to fraud is higher than the risk of not detecting one resulting from error, as fraud may involve deliberate concealment by, for example, forgery or intentional misrepresentations, or through collusion.
+A further description of
+our
+responsibilities for the audit of the
+financial statements
+is located on the Financial Reporting Council's website at:
+www.frc.org.uk/auditorsresponsibilities
+. This description forms part of
+our
+auditors' report
+.
+Use of our report
+This report is made solely to the
+Company
+'s
+members, as a body,
+in accordance with Chapter 3 of Part 16 of the Companies Act 2006
+.
+Our
+audit work has been undertaken so that
+we
+might state to the
+Company
+'s
+members
+those matters
+we
+are
+required to state to them in an
+auditors' report
+and for no other purpose. To the fullest extent permitted by law,
+we
+do not accept or assume responsibility to anyone other than the
+Company
+and the
+Company
+'s
+members, as a body,
+for
+our
+audit work, for this report, or for the opinions
+we
+have formed.
+Helen Besant-Roberts
+(Senior statutory auditor)
+for and on behalf of
+Hurst Accountants Limited
+Chartered Accountants
+Statutory Auditors
+3 Stockport Exchange
+Stockport
+Cheshire
+SK1 3GG
+5 February 2025
+Page 8
+Intertrain UK Ltd.
+Statement of Comprehensive Income
+For the year ended
+31 August 2024
+2024
+2023
+Note
+£
+£
+Turnover
+4
+15,540,307
+10,880,089
+Cost of sales
+(
+10,865,779
+)
+(
+6,565,265
+)
+Gross profit
+4,674,528
+4,314,824
+Administrative expenses
+(
+4,623,862
+)
+(
+4,185,384
+)
+Other operating income
+5
+7,729
+-
+Operating profit
+58,395
+129,440
+Interest receivable and similar income
+9
+37,127
+-
+Profit before tax
+95,522
+129,440
+Tax on profit
+10
+(
+9,612
+)
+(
+28,742
+)
+Profit for the financial year
+85,910
+100,698
+The notes on pages 12 to 23 form part of these
+financial statements
+.
+Page 9
+Intertrain UK Ltd.
+Registered number:
+04696164
+Balance Sheet
+As at
+31 August 2024
+2024
+2023
+Note
+£
+£
+Fixed assets
+Tangible assets
+11
+655,826
+633,253
+Current assets
+Debtors: amounts falling due within one year
+12
+4,397,574
+2,969,693
+Cash at bank and in hand
+13
+851,149
+240,364
+5,248,723
+3,210,057
+Creditors: amounts falling due within one year
+14
+(
+2,532,254
+)
+(
+2,775,925
+)
+Net current assets
+2,716,469
+434,132
+Total assets less current liabilities
+3,372,295
+1,067,385
+Creditors: amounts falling due after more than one year
+15
+(
+2,800,000
+)
+(
+600,000
+)
+Provisions for liabilities
+Other provisions
+17
+(
+121,998
+)
+(
+102,998
+)
+Net assets
+450,297
+364,387
+Capital and reserves
+Called up share capital
+600,100
+600,100
+Profit and loss account
+(
+149,803
+)
+(
+235,713
+)
+450,297
+364,387
+The
+financial statements
+were approved and authorised for issue by the
+board
+and were signed on
+its
+behalf
+by
+:
+A N Ismail
+Director
+Date:
+5 February 2025
+The notes on pages 12 to 23 form part of these financial statements.
+Page 10
+Intertrain UK Ltd.
+Statement of Changes in Equity
+For the year ended
+31 August 2024
+Called up share capital
+Profit and loss account
+Total equity
+£
+£
+£
+At 1 September 2022
+600,100
+(
+336,411
+)
+263,689
+Comprehensive income for the year
+Profit for the year
+-
+100,698
+100,698
+Total comprehensive income for the year
+-
+100,698
+100,698
+At 1 September 2023
+600,100
+(
+235,713
+)
+364,387
+Comprehensive income for the year
+Profit for the year
+-
+85,910
+85,910
+Total comprehensive income for the year
+-
+85,910
+85,910
+At 31 August 2024
+600,100
+(
+149,803
+)
+450,297
+The notes on pages 12 to 23 form part of these
+financial statements
+.
+Analysis of Net Debt
+For the year ended 31 August 2024
+At 1 September 2023
+Cash flows
+At 31 August 2024
+£
+£
+£
+Cash at bank and in hand
+240,364
+610,785
+851,149
+240,364
+610,785
+851,149
+The notes on pages 12 to 23 form part of these
+financial statements
+.
+Page 11
+Intertrain UK Ltd.
+Notes to the Financial Statements
+For the year ended 31 August 2024
+1.
+General information
+Intertrain UK Limited is a private company limited by shares, registered in England and Wales.  The company's registered number is 04696164 and the address of the registered office is Balby Court, Carr Hill, Doncaster, South Yorkshire, DN4 8DE.
+The nature of the company's operation and principal activity is the provision of short courses, apprenticeships and bootcamps.
+2.
+Accounting policies
+2.1
+Basis of preparation of financial statements
+The
+financial statements
+have been prepared under the historical cost convention unless otherwise specified within these accounting policies and in accordance with
+Section 1A of
+Financial Reporting Standard 102, the Financial Reporting Standard applicable in
+the UK and the Republic of Ireland and the Companies Act 2006
+.
+The preparation of
+financial statements
+in compliance with FRS
+102
+requires the use of certain critical accounting estimates. It also requires management to exercise
+judgement
+in applying the
+Company
+'s
+accounting policies
+(see note 3).
+The following principal
+accounting policies
+have been applied:
+2.2
+Financial Reporting Standard 102 - reduced disclosure exemptions
+The
+Company
+has taken advantage of the following disclosure exemptions in preparing these financial statements, as permitted by the FRS 102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland":
+∙
+the requirements of Section 7 Statement of Cash Flows
+;
+∙
+the requirements of Section 3 Financial Statement Presentation paragraph 3.17(d)
+;
+∙
+the requirements of Section 33 Related Party Disclosures paragraph 33.7
+.
+This information is included in the consolidated financial statements of
+The City and Guilds of London Institute
+as at
+31 August 2024
+and these financial statements may be obtained from
+the Charity Commission.
+.
+2.3
+Presentation currency
+The Company's functional and presentational currency is GBP.
+2.4
+Going concern
+The Company currently meets its working capital requirements through its cash balances and credit facilities. Based on the Company's forecasts and projections, the directors believe they have sufficient facilities to trade through the next 12 month period.
+At the year end Intertrain UK Ltd owed The City and Guilds of London Institute £3,887,277 (
+2023: £1,740,909
+). The Company is in receipt of a letter from The City and Guilds of London Institute to confirm the total of £2,800,000 due to the parent entity will not be recalled at any time for a period of no less than 12 months from the date of approval of these financial statements.
+Therefore, the directors believe it is appropriate to prepare the accounts to 31 August 2024 on a going concern basis and there will be no adverse effect on solvency for more than 12 months after the date of approval of the financial statements
+Page 12
+Intertrain UK Ltd.
+Notes to the Financial Statements
+For the year ended 31 August 2024
+2.
+Accounting policies (continued)
+2.5
+Revenue
+Revenue
+is recognised to the extent that it is probable that the economic benefits will flow to the
+Company
+and the
+revenue
+can be reliably measured.
+Revenue
+is measured as the fair value of the consideration received or receivable, excluding discounts, rebates, value added tax and other sales taxes. The following criteria must also be met before
+revenue
+is recognised:
+Rendering of services
+Revenue
+from a contract to provide services is recognised in the period in which the services are provided in accordance with the stage of completion of the contract when all of the following conditions are satisfied:
+∙
+the amount of
+revenue
+can be measured reliably;
+∙
+it is probable that the
+Company
+will receive the consideration due under the contract;
+∙
+the stage of completion of the contract at the end of the reporting period can be measured reliably; and
+∙
+the costs incurred and the costs to complete the contract can be measured reliably.
+2.6
+Operating leases: the Company as lessee
+Rentals paid under operating leases are charged to profit or loss on a straight-line basis over the lease term.
+2.7
+Government grants
+Grants of a revenue nature are recognised in the
+statement of comprehensive income
+in the same period as the related expenditure.
+2.8
+Interest income
+Interest income is recognised in profit or loss using the effective interest method.
+2.9
+Pensions
+Defined contribution pension plan
+The
+Company
+operates a defined contribution plan for its employees. A defined contribution plan is a pension plan under which the
+Company
+pays fixed contributions into a separate entity. Once the contributions have been paid the
+Company
+has no further payment obligations.
+The contributions are recognised as an expense in profit or loss when they fall due. Amounts not paid are shown in accruals as a liability in the
+balance sheet
+. The assets of the plan are held separately from the
+Company
+in independently administered funds.
+Page 13
+Intertrain UK Ltd.
+Notes to the Financial Statements
+For the year ended 31 August 2024
+2.
+Accounting policies (continued)
+2.10
+Current and deferred taxation
+The tax expense for the year comprises current and deferred tax.
+Tax is recognised in profit or loss except that a charge attributable to an item of income and expense recognised as other comprehensive income or to an item recognised directly in equity is also recognised in other comprehensive income or directly in equity respectively.
+The current income tax charge is calculated on the basis of tax rates and laws that have been enacted or substantively enacted by the
+balance sheet date
+in the countries where the
+Company operates and generates income
+.
+Deferred tax balances are recognised in respect of all timing differences that have originated but not reversed by the
+balance sheet date
+, except that:
+∙
+The recognition of deferred tax assets is limited to the extent that it is probable that they will be recovered against the reversal of deferred tax liabilities or other future taxable profits
+; and
+∙
+Any deferred tax balances are reversed if and when all conditions for retaining associated tax allowances have been met
+.
+Deferred tax balances are not recognised in respect of permanent differences except in respect of business combinations, when deferred tax is recognised on the differences between the fair values of assets acquired and the future tax deductions available for them and the differences between the fair values of liabilities acquired and the amount that will be assessed for tax. Deferred tax is determined using tax rates and laws that have been enacted or substantively enacted by the
+balance sheet date
+.
+2.11
+Tangible fixed assets
+Tangible fixed assets under the cost model are stated at historical cost less accumulated depreciation and any accumulated impairment losses. Historical cost includes expenditure that is directly attributable to bringing the asset to the location and condition necessary for it to be capable of operating in the manner intended by management.
+Depreciation is charged so as to allocate the cost of assets less their residual value over their estimated useful lives,
+using a number of bases
+.
+Depreciation is provided on the following basis:
+Short-term leasehold property
+-
+25% straight line
+Plant and machinery
+-
+33.3% straight line
+Motor vehicles
+-
+25% reducing balance
+Fixtures and fittings
+-
+10% straight line
+Other fixed assets
+-
+20% straight line
+The assets' residual values, useful lives and depreciation methods are reviewed, and adjusted prospectively if appropriate, or if there is an indication of a significant change since the last reporting date.
+Gains and losses on disposals are determined by comparing the proceeds with the carrying amount and are recognised in profit or loss.
+Page 14
+Intertrain UK Ltd.
+Notes to the Financial Statements
+For the year ended 31 August 2024
+2.
+Accounting policies (continued)
+2.12
+Debtors
+Short-term debtors are measured at transaction price, less any impairment. Loans receivable are measured initially at fair value, net of transaction costs, and are measured subsequently at amortised cost using the effective interest method, less any impairment.
+2.13
+Cash
+Cash is represented by cash in hand and deposits with financial institutions repayable without penalty on notice of not more than 24 hours. Cash equivalents are highly liquid investments that mature in no more than three months from the date of acquisition and that are readily convertible to known amounts of cash with insignificant risk of change in value.
+2.14
+Creditors
+Short-term creditors are measured at the transaction price. Other financial liabilities, including bank loans, are measured initially at fair value, net of transaction costs, and are measured subsequently at amortised cost using the effective interest method.
+2.15
+Provisions for liabilities
+Provisions are recognised when an event has taken place that gives rise to a legal or constructive obligation, a transfer of economic benefits is probable and a reliable estimate can be made.
+Provisions are measured as the best estimate of the amount required to settle the obligation, taking into account the related risks and uncertainties.
+Increases in provisions are generally charged as an expense to profit or loss.
+2.16
+Financial instruments
+The
+Company
+has elected to apply the provisions of Section 11 “Basic Financial Instruments” of FRS 102 to all of its financial instruments.
+The
+Company
+has elected to apply the recognition and measurement provisions of IFRS 9 Financial Instruments (as adopted by the UK Endorsement Board) with the disclosure requirements of Sections 11 and 12 and the other presentation requirements of FRS 102.
+Financial instruments are recognised in the
+Company's
+balance sheet
+when the
+Company
+becomes party to the contractual provisions of the instrument.
+Financial assets and liabilities are offset, with the net amounts presented in the financial statements, when there is a legally enforceable right to set off the recognised amounts and there is an intention to settle on a net basis or to realise the asset and settle the liability simultaneously.
+Basic financial assets
+Basic financial assets, which include trade and other receivables, cash and bank balances, are initially measured at their transaction price including transaction costs and are subsequently carried at their amortised cost using the effective interest method, less any provision for impairment, unless the arrangement constitutes a financing transaction, where the transaction is measured at the present value of the future receipts discounted at a market rate of interest.
+Page 15
+Intertrain UK Ltd.
+Notes to the Financial Statements
+For the year ended 31 August 2024
+2.
+Accounting policies (continued)
+2.16
+Financial instruments (continued)
+Discounting is omitted where the effect of discounting is immaterial. The
+Company's
+cash and cash equivalents, trade and most other receivables due with the operating cycle fall into this category of financial instruments.
+Impairment of financial assets
+Financial assets are assessed for indicators of impairment at each reporting date.
+Financial assets are impaired when events, subsequent to their initial recognition, indicate the estimated future cash flows derived from the financial asset(s) have been adversely impacted. The impairment loss will be the difference between the current carrying amount and the present value of the future cash flows at the asset(s) original effective interest rate.
+If there is a favourable change in relation to the events surrounding the impairment loss then the impairment can be reviewed for possible reversal. The reversal will not cause the current carrying amount to exceed the original carrying amount had the impairment not been recognised. The impairment reversal is recognised in the profit or loss.
+Financial liabilities
+Financial liabilities and equity instruments are classified according to the substance of the contractual arrangements entered into. An equity instruments any contract that evidences a residual interest in the assets of the
+Company
+after the deduction of all its liabilities.
+Basic financial liabilities, which include trade and other payables, bank loans
+and
+other loans are initially measured at their transaction price after transaction costs. When this constitutes a financing transaction, whereby the debt instrument is measured at the present value of the future receipts discounted at a market rate of interest. Discounting is omitted where the effect of discounting is immaterial.
+Debt instruments are subsequently carried at their amortised cost using the effective interest rate method.
+Trade payables are obligations to pay for goods and services that have been acquired in the ordinary course of business from suppliers. Trade payables are classified as current liabilities if the payment is due within one year. If not, they represent non-current liabilities. Trade payables are initially recognised at their transaction price and subsequently are measured at amortised cost using the effective interest method. Discounting is omitted where the effect of discounting is immaterial.
+Derecognition of financial instruments
+Derecognition of financial assets
+Financial assets are derecognised when their contractual right to future cash flow expire, or are settled, or when the
+Company
+transfers the asset and substantially all the risks and rewards of ownership to another party. If significant risks and rewards of ownership are retained after the transfer to another party, then the
+Company
+will continue to recognise the value of the portion of the risks and rewards retained.
+Derecognition of financial liabilities
+Financial liabilities are derecognised when the
+Company's
+contractual obligations expire or are discharged or cancelled.
+Page 16
+Intertrain UK Ltd.
+Notes to the Financial Statements
+For the year ended 31 August 2024
+3.
+Judgements in applying accounting policies and key sources of estimation uncertainty
+Preparation of the financial statements requires management to make judgements and estimates that affect amounts
+recognised for the amounts of revenue and expenses incurred during the reporting period. Actual outcomes may differ from these judgements, estimates and assumptions.
+Accrued Income
+The company has assessed the carrying value of accrued income at £1,554,507 (
+2023: £1,422,271
+) and based on projections expect the amounts to be recovered in full.
+4.
+Turnover
+The whole of the turnover is attributable to provision of short courses, bootcamps and apprenticeships.
+All turnover arose
+within the United Kingdom
+.
+5.
+Other operating income
+2024
+2023
+£
+£
+Government grants receivable
+7,729
+-
+Government grants receivable relate to a bursary issued to assist ex-offenders return to work once released from prison.
+6.
+Operating profit
+The operating profit is stated after charging:
+2024
+2023
+£
+£
+Operating lease rentals
+426,460
+24,233
+7.
+Auditors' remuneration
+During the
+year
+, the
+Company
+obtained the following services from the
+Company
+'s
+auditors
+:
+2024
+2023
+£
+£
+Fees payable to the Company's auditors for the audit of the Company's financial statements
+12,635
+10,975
+The
+Company
+has taken advantage of the exemption not to disclose amounts paid for non-audit services as these are disclosed in the consolidated accounts of the parent
+Company
+.
+Page 17
+Intertrain UK Ltd.
+Notes to the Financial Statements
+For the year ended 31 August 2024
+8.
+Employees
+Staff costs were as follows:
+2024
+2023
+£
+£
+Wages and salaries
+5,266,146
+4,250,511
+Social security costs
+701,936
+525,672
+Cost of defined contribution scheme
+106,296
+46,332
+6,074,378
+4,822,515
+The average
+monthly
+number of
+employees, including the directors,
+during the
+year
+was as follows:
+2024
+2023
+No.
+No.
+Delivery Staff
+77
+76
+Non-Delivery Staff
+70
+56
+147
+132
+9.
+Interest receivable
+2024
+2023
+£
+£
+Other interest receivable
+37,127
+-
+Page 18
+Intertrain UK Ltd.
+Notes to the Financial Statements
+For the year ended 31 August 2024
+10.
+Taxation
+2024
+2023
+£
+£
+Total current tax
+-
+-
+Deferred tax
+Origination and reversal of timing differences
+9,612
+28,742
+Total deferred tax
+9,612
+28,742
+Tax on profit
+9,612
+28,742
+Factors affecting tax charge for the year
+The tax assessed for the
+year
+is
+lower than
+(2023 - lower than)
+the standard rate of corporation tax
+in the UK of
+25
+%
+(2023 -
+25
+%)
+. The differences are explained below:
+2024
+2023
+£
+£
+Profit on ordinary activities before tax
+95,522
+129,440
+Profit on ordinary activities multiplied by standard rate of corporation tax in the UK of 25% (2023 - 25   %)
+23,881
+32,360
+Effects of:
+Expenses not deductible for tax purposes, other than goodwill amortisation and impairment
+167
+606
+Capital allowances for year in excess of depreciation
+(
+14,436
+)
+(
+4,224
+)
+Total tax charge for the year
+9,612
+28,742
+Factors that may affect future tax charges
+There are carried forward losses to be utilised in future.
+Page 19
+Intertrain UK Ltd.
+Notes to the Financial Statements
+For the year ended 31 August 2024
+11.
+Tangible fixed assets
+Short-term leasehold property
+Plant and machinery
+Motor vehicles
+Fixtures and fittings
+Other fixed assets
+Total
+£
+£
+£
+£
+£
+£
+Cost
+At 1 September 2023
+403,420
+276,285
+9,930
+202,067
+603,036
+1,494,738
+Additions
+80,657
+12,692
+-
+394
+149,225
+242,968
+At 31 August 2024
+484,077
+288,977
+9,930
+202,461
+752,261
+1,737,706
+Depreciation
+At 1 September 2023
+137,310
+230,370
+9,930
+145,555
+338,320
+861,485
+Charge for the year
+86,266
+30,413
+-
+12,641
+91,075
+220,395
+At 31 August 2024
+223,576
+260,783
+9,930
+158,196
+429,395
+1,081,880
+Net book value
+At 31 August 2024
+260,501
+28,194
+-
+44,265
+322,866
+655,826
+At 31 August 2023
+266,110
+45,915
+-
+56,512
+264,716
+633,253
+12.
+Debtors
+2024
+2023
+£
+£
+Trade debtors
+1,537,305
+948,263
+Amounts owed by group undertakings
+737,127
+20,849
+Other debtors
+103,147
+340,849
+Prepayments and accrued income
+1,945,410
+1,575,535
+Deferred taxation
+74,585
+84,197
+4,397,574
+2,969,693
+Amounts owed by group undertakings includes a loan of £700,000 issued to Trade Skills 4U Limited during the year. Interest is charged at a rate of 3% above the Bank of England base rate, calculated and accrued on a periodic basis. There is no fixed repayment date, with the loan being repayable upon receipt of a written demand from the lender. The loan is secured by a general security arrangement that includes any mortgage, charge (whether fixed or floating, legal or equitable), pledge, lien, assignment by way of security, or other security interest over the assets of the borrowing entity.
+Page 20
+Intertrain UK Ltd.
+Notes to the Financial Statements
+For the year ended 31 August 2024
+13.
+Cash
+2024
+2023
+£
+£
+Cash at bank and in hand
+851,149
+240,364
+14.
+Creditors: Amounts falling due within one year
+2024
+2023
+£
+£
+Trade creditors
+965,029
+397,510
+Amounts owed to parent company
+828,985
+1,607,457
+Other taxation and social security
+230,259
+-
+Other creditors
+68,775
+48,765
+Accruals and deferred income
+439,206
+722,193
+2,532,254
+2,775,925
+15.
+Creditors: Amounts falling due after more than one year
+2024
+2023
+£
+£
+Amounts owed to parent company
+2,800,000
+600,000
+The company's parent undertaking has confirmed amounts due will not be recalled within one year.
+16.
+Deferred taxation
+2024
+2023
+£
+£
+At beginning of year
+84,197
+112,939
+Charged to profit or loss
+(
+9,612
+)
+(
+28,742
+)
+At end of year
+74,585
+84,197
+Page 21
+Intertrain UK Ltd.
+Notes to the Financial Statements
+For the year ended 31 August 2024
+16.
+Deferred taxation (continued)
+The
+deferred tax asset
+is made up as follows:
+2024
+2023
+£
+£
+Accelerated capital allowances
+(
+143,224
+)
+(
+129,441
+)
+Unutilised losses
+217,809
+213,638
+74,585
+84,197
+17.
+Provisions
+Dilapidations provision
+£
+At 1 September 2023
+102,998
+Charged to profit or loss
+19,000
+At 31 August 2024
+121,998
+The provision for dilapidations relates to the estimated costs associated with restoring leased properties to their original condition at the end of the lease term, in accordance with the obligations set out in the lease agreements. These properties are leased under several agreements with varying durations and terms.
+The key assumptions used in determining the provision include the expected costs of rectifiying dilapidations, timing of cash outflows and the extension of any lease terms. These estiamtes are subject to uncertainty due to variability in future costs and potential changes in legal or regulatory requirements relating to property dilapidations.
+The settlement of the provision is expected to occur at the conclusion of each lease, which ranges between 1 to 5 years from the reporting date.
+18.
+Share capital
+2024
+2023
+£
+£
+Allotted, called up and fully paid
+600,100
+(2023 -
+600,100
+)
+Ordinary
+shares of
+£
+1.00
+each
+600,100
+600,100
+Page 22
+Intertrain UK Ltd.
+Notes to the Financial Statements
+For the year ended 31 August 2024
+19.
+Reserves
+Profit and loss account
+Includes all current and prior period retained profits and losses.
+20.
+Pension commitments
+The company operates a defined contributions pension scheme.  The assets of the scheme are held separately from those of the company in an independently administered fund. The pension cost charge represents contributions payable by the Company to the fund and amounted to £231,473 (
+2023: £111,391
+) Contributions totalling £54,609  (
+2023: £47,507
+) were payable to the fund at the balance sheet date.
+21.
+Commitments under operating leases
+At
+31 August 2024
+the
+Company
+had future minimum lease payments due under non-cancellable operating leases for each of the following periods:
+2024
+2023
+£
+£
+Not later than 1 year
+181,164
+192,390
+Later than 1 year and not later than 5 years
+403,428
+501,774
+Later than 5 years
+-
+79,379
+584,592
+773,543
+22.
+Related party transactions
+The company's parent undertaking is The City and Guilds of London Institute. The company has taken advantage of the exemption contained in Section 33 "Related Party Transactions" not to disclose transactions with other wholly owned group companies.
+Key Management
+Key management is considered to be everyone at the Senior Manager level, who are not statutory directors. Total remuneration in the year relating to key management was £503,177 (
+2023: £442,423
+)
+23.
+Controlling party
+The ultimate controlling party at the year end is The City and Guilds of London Institute, a body incorporated by Royal Charter and registered as a charity (charity number 312832), in England.
+The City and Guilds of London Institute, registered office 1 Giltspur Street, London, EC1A 9DD, draws up consolidated accounts, copies of which can be obtained from the Charity Comission.
+Page 23

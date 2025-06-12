@@ -1,0 +1,150 @@
+Muti Immersive Ltd
+Acorah Software Products - Accounts Production
+16.2.850
+false
+true
+31 October 2023
+1 November 2022
+false
+true
+No description of principal activity
+1 November 2023
+31 October 2024
+31 October 2024
+13696836
+Mr Nicolas Young
+Ms Kate Hartoch
+iso4217:GBP
+iso4217:EUR
+iso4217:USD
+xbrli:shares
+xbrli:pure
+xbrli:pure
+13696836
+2023-10-31
+13696836
+2024-10-31
+13696836
+2023-11-01
+2024-10-31
+13696836
+frs-core:CurrentFinancialInstruments
+2024-10-31
+13696836
+frs-bus:PrivateLimitedCompanyLtd
+2023-11-01
+2024-10-31
+13696836
+frs-bus:FilletedAccounts
+2023-11-01
+2024-10-31
+13696836
+frs-bus:Micro-entities
+2023-11-01
+2024-10-31
+13696836
+frs-bus:AuditExempt-NoAccountantsReport
+2023-11-01
+2024-10-31
+13696836
+frs-bus:Director1
+2023-11-01
+2024-10-31
+13696836
+frs-bus:Director2
+2023-11-01
+2024-10-31
+13696836
+2022-10-31
+13696836
+2023-10-31
+13696836
+2022-11-01
+2023-10-31
+13696836
+frs-core:CurrentFinancialInstruments
+2023-10-31
+Registered number: 13696836
+Muti Immersive Ltd
+Unaudited Financial Statements
+For The Year Ended 31 October 2024
+Muti Immersive Ltd
+Balance Sheet
+As At
+31 October 2024
+Balance Sheet
+Registered number:
+13696836
+2024
+2023
+£
+£
+Fixed assets
+1,455
+2,087
+Current assets
+5,948
+567
+Creditors: Amounts Falling Due Within One Year
+(
+20,341
+)
+(
+13,498
+)
+NET CURRENT LIABILITIES
+(
+14,393
+)
+(
+12,931
+)
+TOTAL ASSETS LESS CURRENT LIABILITIES
+(
+12,938
+)
+(
+10,844
+)
+Accruals and deferred income
+(
+945
+)
+(
+1,134
+)
+NET LIABILITIES
+(
+13,883
+)
+(
+11,978
+)
+CAPITAL AND RESERVES
+(
+13,883
+)
+(
+11,978
+)
+Notes
+1.
+General Information
+Muti Immersive Ltd
+is a private company, limited by shares, incorporated in England & Wales, registered number
+13696836
+. The registered office is 29 Justice Road, Bristol, England, BS16 3JE.
+2.
+Average Number of Employees
+Average number of employees, including directors, during the year was:
+4 (2023: 2)
+4
+2
+For the year ending 31 October 2024 the company was entitled to exemption from audit under section 477 of the Companies Act 2006 relating to small companies.
+The members have not required the company to obtain an audit in accordance with section 476 of the Companies Act 2006.
+The directors acknowledge their responsibilities for complying with the requirements of the Act with respect to accounting records and the preparation of accounts.
+These accounts have been prepared in accordance with the micro-entity provisions and delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+On behalf of the board
+Mr Nicolas Young
+Director
+4th April 2025

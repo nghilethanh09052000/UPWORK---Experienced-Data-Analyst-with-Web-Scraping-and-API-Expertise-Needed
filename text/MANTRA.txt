@@ -1,0 +1,618 @@
+REGISTERED NUMBER: 02743170 (England and Wales)
+
+UNAUDITED FINANCIAL STATEMENTS FOR THE YEAR ENDED 30TH SEPTEMBER 2023
+FOR
+
+MANTRA LEARNING LIMITED
+
+MANTRA LEARNING LIMITED (REGISTERED NUMBER
+
+CONTENTS OF THE FINANCIAL STATEMENTS
+for the Year Ended 30th September 2023
+
+Company Information
+Balance Sheet
+
+Notes to the Financial Statements
+
+: 02743170)
+
+Page
+
+MANTRA LEARNING LIMITED
+
+COMPANY INFORMATION
+for the Year Ended 30th September 2023
+
+DIRECTORS: Mr M Currie
+Ms JE Currie
+
+REGISTERED OFFICE: Greengate
+Middleton
+Manchester
+M24 1RU
+
+REGISTERED NUMBER: 02743170 (England and Wales)
+
+ACCOUNTANTS: Xeinadin
+100 Barbirolli Square
+Manchester
+M2 3BD
+
+Page 1
+
+MANTRA LEARNING LIMITED (REGISTERED NUMBER: 02743170)
+
+BALANCE SHEET
+30th September 2023
+
+2023
+
+FIXED ASSETS
+Intangible assets
+Tangible assets
+Investments
+
+CURRENT ASSETS
+Debtors
+Cash at bank and in hand
+
+CREDITORS
+
+Amounts falling due within one year
+NET CURRENT ASSETS
+
+TOTAL ASSETS LESS CURRENT
+LIABILITIES
+
+CREDITORS
+Amounts falling due after more than one
+year
+
+PROVISIONS FOR LIABILITIES
+NET ASSETS
+
+CAPITAL AND RESERVES
+Called up share capital
+Revaluation reserve
+Retained earnings
+SHAREHOLDERS' FUNDS
+
+Notes
+
+nut
+
+£
+
+698,705
+1,819,028
+dt
+2,517,734
+
+1,753,870
+818,084
+2,571,954
+
+(1,479,996)
+1,091,958
+
+3,609,692
+
+(120,039)
+
+(104,579)
+3,385,074
+
+25
+4,424
+3,380,625
+— 3,385,074
+
+2022
+£
+
+904,216
+2,007,515
+—_____1
+2,911,732
+
+1,786,668
+201,329
+1,987,997
+
+(1,459,088)
+
+528,909
+
+3,440,641
+
+(212,883)
+
+(20,562)
+3,207,196
+
+25
+7,124
+3,200,047
+
+3,207,196
+
+The company is entitled to exemption from audit under Section 477 of the Companies Act 2006 for the year ended 30th September
+
+2023.
+
+The members have not required the company to obtain an audit of its financial statements for the year ended 30th September
+2023 in accordance with Section 476 of the Companies Act 2006.
+
+The directors acknowledge their responsibilities for:
+(a) ensuring that the company keeps accounting records which comply with Sections 386 and 387 of the Companies Act 2006
+
+and
+
+(b) preparing financial statements which give a true and fair view of the state of affairs of the company as at the end of each
+financial year and of its profit or loss for each financial year in accordance with the requirements of Sections 394 and 395
+and which otherwise comply with the requirements of the Companies Act 2006 relating to financial statements, so far as
+
+applicable to the company.
+
+The notes form part of these financial statements
+
+Page 2
+
+continued...
+
+MANTRA LEARNING LIMITED (REGISTERED NUMBER: 02743170)
+
+BALANCE SHEET - continued
+30th September 2023
+
+The financial statements have been prepared and delivered in accordance with the provisions applicable to companies subject to
+the small companies regime.
+In accordance with Section 444 of the Companies Act 2006, the Profit and Loss Account has not been delivered.
+
+The financial statements were approved by the Board of Directors and authorised for issue on 28th June 2024 and were signed on
+its behalf by:
+
+Mr M Currie - Director
+
+The notes form part of these financial statements
+
+Page 3
+
+MANTRA LEARNING LIMITED (REGISTERED NUMBER: 02743170)
+
+NOTES TO THE FINANCIAL STATEMENTS
+for the Year Ended 30th September 2023
+
+1. STATUTORY INFORMATION
+
+Mantra Learning Limited is a private company, limited by share capital and incorporated in England and
+Wales, registration number 02743170. The address of the registered office and principal place of business is Greengate,
+Middleton, Manchester, M24 1RU.
+
+2. ACCOUNTING POLICIES
+
+Basis of preparing the financial statements
+
+These financial statements have been prepared in accordance with Financial Reporting Standard 102 "The Financial
+Reporting Standard applicable in the UK and Republic of Ireland" including the provisions of Section 1A "Small Entities" and
+the Companies Act 2006. The financial statements have been prepared under the historical cost convention as modified by
+the revaluation of certain assets.
+
+Turnover
+
+Revenue is recognised to the extent that it is probable that the economic benefits will flow to the Company and the
+revenue can be reliably measured. Revenue is measured as the fair value of the consideration received or receivable,
+excluding discounts, rebates, value added tax and other sales taxes. The following criteria must also be met before
+revenue is recognised:
+
+Rendering of services
+
+Revenue from a contract to provide services is recognised in the period in which the services are provided in accordance
+with the stage of completion of the contract when all of the following conditions are satisfied:
+
+- the amount of revenue can be measured reliably;
+
+- it is probable that the Company will receive the consideration due under the contract;
+
+- the stage of completion of the contract at the end of the reporting period can be measured reliably; and
+
+- the costs incurred and the costs to complete the contract can be measured reliably.
+
+Intangible fixed assets
+Intangible assets are initially recognised at cost. After recognition, under the cost model, intangible assets are
+Intangible assets are represented by:
+
+- Deferred development expenditure which is capitalised where there is a clearly defined project, related
+expenditure is separately identifiable and it has been assessed for technical and commercial viability.
+
+Amortisation is calculated to write off the cost of the intangible assets over their useful life as follows:
+
+Goodwill - 10% on cost
+Development costs - 10% on cost
+
+The carrying amounts of the company's assets are reviewed for impairment when events or changes in circumstances
+
+indicate that the carrying amount of the fixed asset may not be recoverable. If any such indication exists, the asset's
+recoverable amount is estimated and an impairment provision made if appropriate.
+
+Page 4 continued...
+
+MANTRA LEARNING LIMITED (REGISTERED NUMBER: 02743170)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+
+for the Year Ended 30th September 2023
+
+2. ACCOUNTING POLICIES - continued
+
+Tangible fixed assets
+Tangible fixed assets are stated at cost less accumulated depreciation and accumulated impairment losses.
+
+Depreciation on tangible fixed assets is charged to the profit and loss so as to write off their value, over their estimated
+useful lives, using the following methods:
+
+Freehold property - not depreciated
+
+Long leasehold - over the term of the lease
+Plant and machinery - 15% reducing balance
+Fixtures and fittings - 15% reducing balance
+Motor vehicles - 25% reducing balance
+Computer equipment - 33% on cost
+
+At each balance sheet date, the Company reviews the carrying amounts of its fixed assets to determine whether there is
+any indication that any items have suffered an impairment loss. If any such indication exists, the recoverable amount of an
+asset is estimated in order to determine the extent of the impairment loss, if any. Where it is not possible to estimate the
+recoverable amount of the asset, the Company estimates the recoverable amount of the cash-generating unit to which the
+asset belongs.
+
+If the recoverable amount of an asset is estimated to be less than its carrying amount, the carrying amount of the asset is
+reduced to its recoverable amount. Impairment loss is recognised as an expense immediately.
+
+Investments in subsidiaries
+Investments in subsidiary undertakings are recognised at cost.
+
+Taxation
+Taxation for the year comprises current and deferred tax. Tax is recognised in the profit and loss account, except to the
+extent that it relates to items recognised in other comprehensive income or directly in equity.
+
+Current or deferred taxation assets and liabilities are not discounted.
+
+Current tax is recognised at the amount of tax payable using the tax rates and laws that have been enacted or
+substantively enacted by the balance sheet date.
+
+Deferred tax
+Deferred tax is recognised in respect of all timing differences that have originated but not reversed at the balance sheet
+date.
+
+Timing differences arise from the inclusion of income and expenses in tax assessments in periods different from those in
+which they are recognised in financial statements. Deferred tax is measured using tax rates and laws that have been
+enacted or substantively enacted by the year end and that are expected to apply to the reversal of the timing difference.
+
+Unrelieved tax losses and other deferred tax assets are recognised only to the extent that it is probable that they will be
+recovered against the reversal of deferred tax liabilities or other future taxable profits.
+
+Page 5 continued...
+
+MANTRA LEARNING LIMITED (REGISTERED NUMBER: 02743170)
+
+NOTES TO THE FINANCIAL STATEMENTS - continued
+for the Year Ended 30th September 2023
+
+2. ACCOUNTING POLICIES - continued
+
+Hire purchase and leasing commitments
+
+Assets that are held by the Company under leases which transfer to the Company substantially all the risks and rewards of
+ownership are classified as being held under finance leases. Leases which do not transfer substantially all the risks and
+rewards of ownership to the company are classified as operating leases.
+
+Rentals paid under operating leases are charged to profit or loss on a straight line basis over the period of the lease.
+
+Assets held under finance leases are initially recognised as assets of the Company at their fair value at the inception of the
+lease or, if lower, at the present value of the minimum lease payments. The corresponding liability to the lessor is included
+in the statements of financial position as a finance lease obligation. Lease payments are apportioned between finance
+expenses and reduction of the lease obligation so as to achieve a constant rate of interest on the remaining balance of the
+liability, finance expenses are recognised immediately in profit or loss, unless they are directly attributable to qualifying
+assets, in which case they are capitalised in accordance with the Company's policy on borrowing costs . Contingent rentals
+are recognised as expenses in the periods in which they are incurred.
+
+Pension costs and other post-retirement benefits
+The company operates a defined contribution pension scheme. Contributions payable to the company’s pension scheme are
+charged to profit or loss in the period to which they relate.
+
+Trade and other debtors
+
+Trade and other debtors are initially recognised at fair value and thereafter stated at amortised cost using the effective
+interest method, less impairment losses for bad and doubtful debts except where the effect of discounting would be
+immaterial. In such cases, the receivables are stated at cost less impairment losses for bad and doubtful debts.
+
+Cash and cash equivalents
+Cash and cash equivalents comprise cash at bank and in hand. Any bank overdrafts are shown within current liabilities,
+
+Trade and other creditors
+Trade and other creditors are initially recognised at fair value and thereafter stated at amortised cost using the effective
+interest method unless the effect of discounting would be immaterial, in which case they are stated at cost.
+
+3. EMPLOYEES AND DIRECTORS
+
+The average number of employees during the year was 125 (2022 - 117).
+
+Page 6 continued...
+
+MANTRA LEARNING LIMITED (REGISTERED NUMBER: 02743170)
+
+NOTES TO THE FINANCIAL STATEMENTS - continued
+for the Year Ended 30th September 2023
+
+4. INTANGIBLE FIXED ASSETS
+
+CcOsT
+
+At 1st October 2022
+
+and 30th September 2023
+AMORTISATION
+
+At 1st October 2022
+Amortisation for year
+Impairments
+
+At 30th September 2023
+NET BOOK VALUE
+
+At 30th September 2023
+At 30th September 2022
+
+5. TANGIBLE FIXED ASSETS
+
+COST OR VALUATION
+At 1st October 2022
+Additions
+
+Disposals
+
+Eliminations
+
+At 30th September 2023
+DEPRECIATION
+
+At 1st October 2022
+Charge for year
+Eliminated on disposal
+Eliminations
+
+At 30th September 2023
+NET BOOK VALUE
+
+At 30th September 2023
+At 30th September 2022
+
+Page 7
+
+Development
+
+Goodwill costs Totals
+£ £ £
+64,134 1,405,106 1,469,240
+64,134 500,890 565,024
+- 140,511 140,511
+: 65,000 65,000
+64,134 706,401 770,535
+- 698,705 698,705
+: 904,216 904,216
+Freehold Long Plant and
+property leasehold machinery
+£ £ £
+
+499,538 1,374,566
+
+192,129
+
+499,538 1,374,566
+
+- 436,034
+- 55,442
+
+491,476
+
+499,538 938,532
+
+192,129
+
+168,899
+3,485
+
+172,384
+
+19,745
+23,230
+
+continued...
+
+MANTRA LEARNING LIMITED (REGISTERED NUMBER: 02743170)
+
+NOTES TO THE FINANCIAL STATEMENTS - continued
+for the Year Ended 30th September 2023
+
+5.
+
+TANGIBLE FIXED ASSETS - continued
+
+Fixtures
+and Motor Computer
+fittings vehicles equipment Totals
+£ £ £ £
+COST OR VALUATION
+At 1st October 2022 512,315 448,999 256,153 3,283,700
+Additions 6,880 - 33,990 40,870
+Disposals (14,571) - (2,209) (16,780)
+Eliminations (252,811) (1,251) (76,519) (330,581)
+At 30th September 2023 251,813 447,748 211,415 2,977,209
+DEPRECIATION
+At 1st October 2022 332,132 178,341 160,779 1,276,185
+Charge for year 27,920 67,665 62,374 216,886
+Eliminated on disposal (4,088) - (221) (4,309)
+Eliminations (252,811) (1,251) (76,519) (330,581)
+At 30th September 2023 103,153 244,755 146,413 1,158,181
+NET BOOK VALUE
+At 30th September 2023 148,660 202,993 65,002 1,819,028
+At 30th September 2022 180,183 270,658 95,374 2,007,515
+Cost or Valuation at 30 September 2022 is as follows:
+Plant and
+Machinery
+£
+At cost 43,241
+Valuation in 2009 148,888
+
+192,129
+
+If the plant and machinery had not been included at valuation they would have been included under the historical cost
+convention as follows:
+
+2023 2022
+£ £
+Cost 43,241 43,241
+Accumulated deprecation (38,798) (38,013)
+4,443 5,228
+
+Plant and machinery includes warehouse equipment which was valued on an open market basis on 1 October 2009 by the
+directors. The directors have re-assessed the open market value of the plant and machinery as at 30 September 2023 and
+do not believe it is materially different to the carrying value.
+
+Page 8 continued...
+
+MANTRA LEARNING LIMITED (REGISTERED NUMBER: 02743170)
+
+NOTES TO THE FINANCIAL STATEMENTS - continued
+for the Year Ended 30th September 2023
+
+6. FIXED ASSET INVESTMENTS
+
+Shares in
+group
+undertakin
+£
+COST
+At 1st October 2022
+and 30th September 2023 1
+NET BOOK VALUE
+At 30th September 2023 1
+At 30th September 2022 1
+7. DEBTORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+2023 2022
+£ £
+Trade debtors 1,386,018 1,053,989
+Other debtors 4,895 121,806
+Prepayments and accrued income 362,957 610,873
+1,753,870 1,786,668
+8. CREDITORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+2023 2022
+E £
+Bank loans and overdrafts 22,138 22,017
+Hire purchase contracts (see note 10) 73,723 154,592
+Trade creditors 663,107 236,362
+Amounts owed to group undertakings 20,000 -
+Tax 74,053 -
+Social security and other taxes 92,201 60,544
+VAT 146,178 85,207
+Other creditors 35,080 192,430
+Accruals and deferred income 353,516 707,936
+1,479,996 1,459,088
+Bank loans are secured by way of fixed and floating charges over freehold property and other assets of the
+company.
+Net obligations under hire purchase contracts are secured upon the assets to which they relate.
+9. CREDITORS: AMOUNTS FALLING DUE AFTER MORE THAN ONE YEAR
+2023 2022
+£ £
+Bank loans - 1-2 years 22,138 22,264
+Bank loans - 2-5 years 27,551 47,343
+Hire purchase contracts (see note 10) 70,350 143,276
+120,039 212,883
+
+Page 9 continued...
+
+MANTRA LEARNING LIMITED (REGISTERED NUMBER: 02743170)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+for the Year Ended 30th September 2023
+10. LEASING AGREEMENTS
+Minimum lease payments fall due as follows:
+
+Hire purchase contracts
+
+2023 2022
+E £
+Net obligations repayable:
+Within one year 73,723 154,592
+Between one and five years 70,350 143,276
+144,073 297,868
+operating
+Non-cancellable leases
+2023 2022
+E £
+Within one year 63,043 123,611
+Between one and five years 252,171 252,171
+In more than five years 3,057,576 3,120,619
+3,372,790 3,496,401
+
+The operating lease commitments beyond five years relate entirely to the lease on the site premises occupied by Mantra
+Learning Limited. In the view of the directors, the rent payable on the lease is considered to be materially less than its
+current market rental value. The lease expires in 2077.
+
+11. PROVISIONS FOR LIABILITIES
+
+2023 2022
+
+£ £
+Deferred tax 104,579 20,562
+Deferred
+
+tax
+
+£
+Balance at 1st October 2022 20,562
+Provided during year 84,017
+Balance at 30th September 2023 104,579
+
+12. CALLED UP SHARE CAPITAL
+Allotted, issued and fully paid:
+
+Number: Class: Nominal 2023 2022
+
+value: £ £
+25 Ordinary £1.00 25 25
+
+Page 10 continued...
+
+MANTRA LEARNING LIMITED (REGISTERED NUMBER: 02743170)
+
+NOTES TO THE FINANCIAL STATEMENTS - continued
+for the Year Ended 30th September 2023
+
+13. RESERVES
+
+At 1st October 2022
+Profit for the year
+Release
+
+At 30th September 2023
+
+14. RELATED PARTY DISCLOSURES
+
+Retained Revaluation
+earnings reserve Totals
+£ £ £
+3,200,047 7,124 3,207,171
+177,878 177,878
+2,700 (2,700) :
+3,380,625 4,424 3,385,049
+
+Included in other debtors, are loans due from companies under common control amounting to ENil (2022: £121,032).
+
+Included in other creditors, are loans owed to companies under common control amounting to £72,000 (2022: ENil).
+
+Page 11
+
+This document was delivered using electronic communications and authenticated in
+accordance with the registrar's rules relating to electronic form, authentication and
+manner of delivery under section 1072 of the Companies Act 2006.
+

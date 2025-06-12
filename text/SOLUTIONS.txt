@@ -1,0 +1,126 @@
+Solutions 4 Polymers Limited - Filleted accounts
+Registered number
+06906657
+Solutions 4 Polymers Limited
+Filleted Accounts
+30 April 2024
+Solutions 4 Polymers Limited
+Registered number:
+06906657
+Balance Sheet
+as at
+30 April 2024
+2024
+2023
+£
+£
+Fixed assets
+10,705
+13,407
+Current assets
+411,395
+263,695
+Prepayments and accrued income
+-
+281
+411,395
+263,976
+Creditors: amounts falling due within one year
+(
+67,582
+)
+(
+55,531
+)
+Net current assets
+343,813
+208,445
+Total assets less current liabilities
+354,518
+221,852
+Provisions for liabilities
+(
+2,675
+)
+(
+2,547
+)
+Accruals and deferred income
+(
+733
+)
+(
+733
+)
+Net assets
+351,110
+218,572
+Capital and reserves
+351,110
+218,572
+Number
+Number
+Average number of employees
+3
+3
+The company is a private company limited by shares and incorporated in England. Its registered office is Mablen House, 43 New Road, Burntwood, Staffordshire, WS7 0BU.
+The directors are satisfied that the company is entitled to exemption from the requirement to obtain an audit under section 477 of the Companies Act 2006.
+The members have not required the company to obtain an audit in accordance with section 476 of the Act.
+The directors acknowledge their responsibilities for complying with the requirements of the Companies Act 2006 with respect to accounting records and the preparation of accounts.
+The accounts have been prepared in accordance with the micro entity provisions of the Companies Act 2006 and FRS 105, The Financial Reporting Standard applicable to the Micro-entities Regime. The accounts have been delivered in accordance with the provisions applicable to companies subject to the small companies regime. The profit and loss account has not been delivered to the Registrar of Companies.
+Mr A Barnard
+Director
+Approved by the board on
+13 September 2024
+Solutions 4 Polymers Limited
+06906657
+false
+2023-05-01
+2024-04-30
+2024-04-30
+VT Final Accounts
+April 2024
+Mr A Barnard
+No description of principal activity
+06906657
+2022-05-01
+2023-04-30
+06906657
+core:WithinOneYear
+2023-04-30
+06906657
+2023-05-01
+2024-04-30
+06906657
+bus:PrivateLimitedCompanyLtd
+2023-05-01
+2024-04-30
+06906657
+bus:AuditExemptWithAccountantsReport
+2023-05-01
+2024-04-30
+06906657
+countries:England
+2023-05-01
+2024-04-30
+06906657
+bus:Director40
+2023-05-01
+2024-04-30
+06906657
+bus:Micro-entities
+2023-05-01
+2024-04-30
+06906657
+bus:FilletedAccounts
+2023-05-01
+2024-04-30
+06906657
+2024-04-30
+06906657
+core:WithinOneYear
+2024-04-30
+06906657
+2023-04-30
+iso4217:GBP
+xbrli:pure

@@ -1,0 +1,293 @@
+Equals Training Limited
+1 August 2023
+false
+No description of principal activity
+Taxfiler
+2024.6
+09456156
+business:PrivateLimitedCompanyLtd
+2023-08-01
+2024-07-31
+09456156
+2023-07-31
+09456156
+2023-08-01
+2024-07-31
+09456156
+business:AuditExempt-NoAccountantsReport
+2023-08-01
+2024-07-31
+09456156
+business:FilletedAccounts
+2023-08-01
+2024-07-31
+09456156
+2024-07-31
+09456156
+business:Director1
+2023-08-01
+2024-07-31
+09456156
+business:Director2
+2023-08-01
+2024-07-31
+09456156
+business:RegisteredOffice
+2023-08-01
+2024-07-31
+09456156
+2023-07-31
+09456156
+core:WithinOneYear
+2024-07-31
+09456156
+core:WithinOneYear
+2023-07-31
+09456156
+core:ShareCapital
+core:PreviouslyStatedAmount
+2024-07-31
+09456156
+core:ShareCapital
+core:PreviouslyStatedAmount
+2023-07-31
+09456156
+core:RetainedEarningsAccumulatedLosses
+core:PreviouslyStatedAmount
+2024-07-31
+09456156
+core:RetainedEarningsAccumulatedLosses
+core:PreviouslyStatedAmount
+2023-07-31
+09456156
+core:PreviouslyStatedAmount
+2024-07-31
+09456156
+core:PreviouslyStatedAmount
+2023-07-31
+09456156
+business:SmallEntities
+2023-08-01
+2024-07-31
+09456156
+countries:EnglandWales
+2023-08-01
+2024-07-31
+09456156
+core:ComputerEquipment
+2023-08-01
+2024-07-31
+09456156
+core:ComputerEquipment
+2023-07-31
+09456156
+core:ComputerEquipment
+2024-07-31
+09456156
+2022-08-01
+2023-07-31
+iso4217:GBP
+xbrli:pure
+Company Registration No.
+09456156
+(England and Wales)
+Equals Training Limited
+Unaudited accounts
+for the year ended
+31 July 2024
+Equals Training Limited
+Unaudited accounts
+Contents
+Page
+Company information
+3
+Statement of financial position
+4
+Notes to the accounts
+5
+- 2 -
+Equals Training Limited
+Company Information
+for the year ended
+31 July 2024
+Directors
+Mrs Suzanne White
+Mr Gary White
+Company Number
+09456156
+(England and Wales)
+Registered Office
+6 Bessemer Suite Offices
+Ironworks House
+Warton Road
+Carnforth
+Lancashire
+LA5 9EX
+England
+- 3 -
+Equals Training Limited
+Statement of financial position
+as at
+31 July 2024
+2024
+2023
+Notes
+£
+£
+Fixed assets
+Tangible assets
+4
+6,409
+1,815
+Current assets
+Debtors
+5
+-
+20,000
+Cash at bank and in hand
+37,000
+39,154
+37,000
+59,154
+Creditors: amounts falling due within one year
+6
+(
+7,600
+)
+(
+13,967
+)
+Net current assets
+29,400
+45,187
+Net assets
+35,809
+47,002
+Capital and reserves
+Called up share capital
+1
+1
+Profit and loss account
+35,808
+47,001
+Shareholders' funds
+35,809
+47,002
+For the year ending
+31 July 2024
+the company was entitled to exemption from audit under section 477 of the Companies Act 2006 relating to small companies.
+The members have not required the company to obtain an audit in accordance with section 476 of the Companies Act 2006.
+The directors acknowledge their responsibilities for complying with the requirements of the Act with respect to accounting records and the preparation of accounts.
+These accounts have been prepared and delivered in accordance with the provisions applicable to companies subject to the small companies' regime and in accordance with the provisions of FRS 102 Section 1A - Small Entities. The profit and loss account has not been delivered to the Registrar of Companies.
+The financial statements were approved by the Board of Directors and authorised for issue on
+26 March 2025
+and were signed on its behalf by
+Mrs Suzanne White
+Director
+Company Registration No.
+09456156
+- 4 -
+Equals Training Limited
+Notes to the Accounts
+for the year ended
+31 July 2024
+1
+Statutory information
+Equals Training Limited
+is a private company, limited by shares, registered in England and Wales
+, registration number
+09456156
+. The registered office is
+6 Bessemer Suite Offices
+,
+Ironworks House
+,
+Warton Road
+,
+Carnforth
+,
+Lancashire
+,
+LA5 9EX
+, England.
+2
+Compliance with accounting standards
+The accounts have been prepared in accordance with the provisions of FRS 102 Section 1A Small Entities. There were no material departures from that standard.
+3
+Accounting policies
+The principal accounting policies adopted in the preparation of the financial statements are set out below and have remained unchanged from the previous year, and also have been consistently applied within the same accounts.
+Basis of preparation
+The accounts have been prepared under the historical cost convention as modified by the revaluation of certain fixed assets.
+Presentation currency
+The accounts are presented in £ sterling.
+Tangible fixed assets and depreciation
+Tangible assets are included at cost less depreciation and impairment. Depreciation has been provided at the following rates in order to write off the assets over their estimated useful lives:
+Computer equipment
+40% reducing balance
+4
+Tangible fixed assets
+Computer equipment
+£
+Cost or valuation
+At cost
+At 1 August 2023
+3,026
+Additions
+8,867
+At
+31 July 2024
+11,893
+Depreciation
+At 1 August 2023
+1,211
+Charge for the year
+4,273
+At
+31 July 2024
+5,484
+Net book value
+At
+31 July 2024
+6,409
+At 31 July 2023
+1,815
+5
+Debtors
+2024
+2023
+£
+£
+Amounts falling due within one year
+Amounts due from group undertakings etc.
+-
+20,000
+- 5 -
+Equals Training Limited
+Notes to the Accounts
+for the year ended
+31 July 2024
+6
+Creditors: amounts falling due within one year
+2024
+2023
+£
+£
+Taxes and social security
+6,853
+4,002
+Loans from directors
+620
+9,838
+Accruals
+127
+127
+7,600
+13,967
+7
+Average number of employees
+During the year the average number of employees was
+7
+(2023:
+7
+).
+- 6 -

@@ -1,0 +1,151 @@
+Deere_Apprenticeships_Ltd_31_Jul_2024_set_of_accounts_for_filing.html
+1 August 2023
+v2024.42.1 micro_entity_frs_105_v1_1_1 filing
+Software
+false
+true
+true
+true
+false
+No description of principal activity
+true
+xbrli:pure
+xbrli:shares
+iso4217:GBP
+07620500
+2023-08-01
+2024-07-31
+07620500
+2024-07-31
+07620500
+2023-07-31
+07620500
+core:WithinOneYear
+2024-07-31
+07620500
+core:WithinOneYear
+2023-07-31
+07620500
+core:AfterOneYear
+2024-07-31
+07620500
+core:AfterOneYear
+2023-07-31
+07620500
+bus:RegisteredOffice
+2023-08-01
+2024-07-31
+07620500
+2022-08-01
+2023-07-31
+07620500
+bus:Director1
+2023-08-01
+2024-07-31
+07620500
+1
+2023-08-01
+2024-07-31
+07620500
+countries:EnglandWales
+2023-08-01
+2024-07-31
+07620500
+bus:AuditExemptWithAccountantsReport
+2023-08-01
+2024-07-31
+07620500
+bus:PrivateLimitedCompanyLtd
+2023-08-01
+2024-07-31
+07620500
+bus:Micro-entities
+2023-08-01
+2024-07-31
+07620500
+bus:FullAccounts
+2023-08-01
+2024-07-31
+Company registration number:
+07620500
+Deere Apprenticeships Ltd
+Unaudited Filleted Financial Statements
+for the year ended
+31 July 2024
+Deere Apprenticeships Ltd
+Statement of Financial Position
+31 July 2024
+2024
+2023
+£
+£
+Current assets
+163,618
+105,061
+Creditors: amounts falling due within one year
+(
+66,916
+)
+(
+43,413
+)
+Net current assets
+96,702
+61,648
+Creditors: amounts falling due after more than one year
+(
+17,985
+)
+(
+20,023
+)
+Accruals and deferred income
+(
+950
+)
+(
+9,205
+)
+Net assets
+77,767
+32,420
+Capital and reserves
+77,767
+32,420
+Notes to the Financial Statements
+1 General information
+The company is a private company limited by shares and is registered in England and Wales. The address of the registered office is
+Pine House D
+,
+Ransom Wood Business Park
+,
+Mansfield
+,
+Nottinghamshire
+,
+NG21 0HJ
+, United Kingdom.
+2 Average number of employees
+The average number of persons employed by the company during the year was
+7
+(2023:
+6.00
+).
+3 Director's advances, credit and guarantees
+During the year the company made interest free advances to the directors amounting to £15,532 ( 2023:£15,532). These were repayable on demand.
+For the year ending
+31 July 2024
+, the company was entitled to exemption from audit under section 477 of the Companies Act 2006 relating to small companies.
+Director's responsibilities:
+The members have not required the company to obtain an audit of its financial statements for the year in question in accordance with section 476;
+The director acknowledges their responsibilities for complying with the requirements of the Act with respect to accounting records and the preparation of financial statements.
+These financial statements have been prepared in accordance with the micro-entity provisions and have been delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+These financial statements were approved by the
+board of directors
+and authorised for issue on
+18 September 2024
+, and are signed on behalf of the board by:
+Carl Hardwick
+Director
+Company registration number:
+07620500

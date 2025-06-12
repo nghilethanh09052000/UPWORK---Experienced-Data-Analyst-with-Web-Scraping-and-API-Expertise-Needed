@@ -1,0 +1,409 @@
+Registration number: 9618299
+
+Performance Learning Group Limited
+
+Mansell & Co
+
+Chartered Certified Accountants
+5 Ducketts Wharf
+
+South Street
+
+Bishop's Stortford.
+Hertfordshire
+
+CM23 3AR
+
+Unaudited Filleted Financial Statements
+for the Year Ended 30 June 2024
+
+Performance Learning Group Limited
+Contents
+
+Company Information
+Balance Sheet
+
+Notes to the Unaudited Financial Statements
+
+Iw
+
+Ima Iho dt
+
+Directors
+
+Registered office
+
+Accountants
+
+Performance Learning Group Limited
+Company Information
+
+Andrew Richard Tait
+Andrea Dodd
+Barry Stephen McNamara
+
+5 Ducketts Wharf
+South Street
+Bishops Stortford
+Herts
+
+CM23 3AR
+
+Mansell & Co
+
+Chartered Certified Accountants
+5 Ducketts Wharf
+
+South Street
+
+Bishop's Stortford
+
+Hertfordshire
+
+CM23 3AR
+
+Page |
+
+Performance Learning Group Limited
+
+(Registration number: 9618299)
+Balance Sheet as at 30 June 2024
+
+2024 2023
+Note £ £
+Fixed assets
+Tangible assets 4 821 1,394
+Current assets
+Stocks 5 67,650 -
+Debtors 6 157,794 169,682
+Cash at bank and in hand 12,272 14,188
+237,716 183,870
+Creditors: Amounts falling due within one year i (194,661) (161,076)
+Net current assets 43,055 22,794
+Total assets less current liabilities 43,876 24,188
+Creditors: Amounts falling due after more than one year i (14,167) 24,167)
+Net assets 29,709 21
+Capital and reserves
+Retained carnings 29,709 21
+Shareholders’ funds 9,709
+
+For the financial year ending 30 June 2024 the company was entitled to exemption from audit under section 477 of the Companies
+Act 2006 relating to small companies.
+
+Directors’ responsibilities:
+
+The members have not required the company to obtain an audit of its accounts for the year in question in accordance with
+section 476; and
+
+The directors acknowledge their responsibilitics for complying with the requirements of the Act with respect to accounting
+records and the preparation of accounts.
+
+These financial statements have been prepared in accordance with the special provisions relating to companies subject to the small
+companies regime within Part 15 of the Companies Act 2006.
+
+These financial statements have been delivered in accordance with the provisions applicable to companies subject to the small
+companies regime. As permitted by section 444 (SA) of the Companies Act 2006, the directors have not delivered to the registrar
+a copy of the Profit and Loss Account.
+
+Approved and authorised by the Board on 19 November 2024 and signed on its behalf by:
+
+Andrew Richard Tait Andrea Dodd Barry Stephen McNamara
+Director Director Director
+
+The notes on pages 3 to 7 form an integral part of these financial statements.
+7~ age
+
+Performance Learning Group Limited
+
+Notes to the Unaudited Financial Statements for the Year Ended 30 June 2024
+
+1 General information
+The company is a private company limited by share capital, incorporated in England and Wales.
+
+The address of its registered office is:
+5 Ducketts Wharf’
+
+South Street
+
+Bishops Stortford
+
+Herts
+
+CM23 3AR
+
+United Kingdom
+
+These financial statements were authorised for issue by the Board on 19 November 2024.
+
+2 Accounting policies
+
+Summary of significant accounting policies and key accounting estimates
+
+The principal accounting policies applied in the preparation of these financial statements are set out below. These policies have
+been consistently applied to all the years presented, unless otherwise stated.
+
+Statement of compliance
+
+These financial statements have been prepared in accordance with Financial Reporting Standard 102 Section 1A smaller entities -
+
+‘The Financial Reporting Standard applicable in the United Kingdom and Republic of Ireland’ and the Companies Act 2006 (as
+applicable to companies subject to the small companies' regime).
+
+Basis of preparation
+
+These financial statements have been prepared using the historical cost convention except that as disclosed in the accounting
+policies certain items are shown at fair value.
+
+Going concern
+
+The financial statements have been prepared on a going concern basis.
+
+Revenue recognition
+
+Turnover comprises the fair value of the consideration received or receivable for the sale of goods and provision of services in the
+ordinary course of the company’s activities. Turnover is shown net of sales/value added tax, returns, rebates and discounts.
+
+The company recognises revenue when:
+
+The amount of revenue can be reliably measured;
+
+iis probable that future economic benefils will flow to the entity;
+
+and specific criteria have been met for each of the company's activities.
+
+Tax
+
+The tax expense for the period comprises current tax. Tax is recognised in profit or loss, except that a change attributable to an
+item of income or expense recognised as other comprehensive income is also recognised directly in other comprehensive income.
+
+The current income tax charge is calculated on the basis of tax rates and laws that have been enacted or substantively enacted by
+the reporting date in the countries where the company operates and generates taxable income.
+
+Page 3
+
+Performance Learning Group Limited
+Notes to the Unaudited Financial Statements for the Year Ended 30 June 2024
+
+Tangible assets
+
+Tangible asscts are stated in the balance shect at cost, Icss any subscquent accumulated depreciation and subscquent accumulated
+impairment losses.
+
+The cost of tangible assets includes directly attributable incremental costs incurred in their acquisition and installation.
+
+Depreciation
+
+Depreciation is charged so as to write off the cost of assets, other than land and properties under construction over their estimated
+useful lives, as follows:
+
+Asset class Depreciation method and rate
+Furniture and fixtures 33.33% straight-line basis
+IT equipment 33.33% straight-line basis
+
+Cash and cash equivalents
+
+Cash and cash equivalents comprise cash on hand and call deposits, and other short-term highly liquid investments that are readily
+convertible to a known amount of cash and are subject to an insignificant risk of change in value.
+
+Trade debtors
+
+Trade debtors are amounts due from customers for merchandise sold or services performed in the ordinary course of business.
+Trade debtors are recognised initially at the transaction price. They are subsequently measured at amortised cost using the
+effective interest method, less provision for impairment. A provision for the impairment of trade debtors is established when there
+is objective evidence that the company will not be able to collect all amounts duc according to the original terms of the
+receivables.
+
+Stocks
+
+Stocks are stated at the lower of cost and estimated selling price less costs to complete and sell. Cost is determined using the
+first-in, first-out (FIFO) method.
+
+The cost of finished goods and work in progress comprises direct materials and, where applicable, direct labour costs and those
+overheads that have been incurred in bringing the inventories to their present location and condition. At each reporting date,
+stocks are assessed for impairment. If stocks are impaired, the carrying amount is reduced to its selling price less costs to
+complete and sell; the impairment loss is recognised immediately in profit or loss.
+
+Trade creditors
+
+Trade creditors are obligations to pay for goods or services that have been acquired in the ordinary course of business from
+suppliers. Accounts payable are classified as current liabilities if the company does not have an unconditional right, at the end of
+the reporting period, to defer settlement of the creditor for at least twelve months after the reporting date. If there is an
+unconditional right to defer settlement for at least twelve months after the reporting date, they are presented as non-current
+liabilities.
+
+Trade creditors are recognised initially at the transaction price and subsequently measured at amortised cost using the effective
+interest method.
+
+Borrowings
+
+Page 4
+
+Performance Learning Group Limited
+Notes to the Unaudited Financial Statements for the Year Ended 30 June 2024
+
+Interest-bearing borrowings are initially recorded at fair value, net of transaction costs. Interest-bearing borrowings are
+subsequently carried at amortised cost, with the difference between the proceeds, net of transaction costs, and the amount due on
+redemption being recognised as a charge to the profit and loss account over the period of the relevant borrowing.
+
+Interest expense is recognised on the basis of the effective interest method and is included in interest payable and similar charges.
+Borrowings are classified as current liabilities unless the company has an unconditional right to defer settlement of the liability for
+at least twelve months after the reporting date.
+
+Dividends
+
+Dividend distribution to the company’s shareholders is recognised as a liability in the financial statements in the reporting period
+in which the dividends are declared.
+
+Defined contribution pension obligation
+
+A defined contribution plan is a pension plan under which fixed contributions are paid into a pension fund and the company has
+no legal or constructive obligation to pay further contributions even if the fund does not hold sufficient assets to pay all employees
+the benefits relating to crmployce service in the current and prior periods.
+
+Contributions to defined contribution plans are recognised as employee benefit expense when they are due. If contribution
+payments exceed the contribution due for service, the excess is recognised as a prepayment.
+
+3 Staff numbers
+
+The average number of persons employed by the company (including directors) during the year, was 17 (2023 - 17).
+
+Page 5
+
+Performance Learning Group Limited
+
+Notes to the Unaudited Financial Statements for the Year Ended 30 June 2024
+
+4 Tangible assets
+
+Cost or valuation
+At | July 2023
+Additions
+
+At 30 June 2024
+
+Depreciation
+At | July 2023
+Charge for the year
+
+At 30 June 2024
+Carrying amount
+At 30 June 2024
+
+At 30 June 2023
+
+5 Stocks
+
+Work in progress
+
+6 Debtors
+
+Current
+
+Trade debtors
+Prepayments
+Other debtors
+
+7 Creditors
+
+Creditors: amounts falling due within one year
+
+Page 6
+
+Fixtures and Office
+
+fittings equipment Total
+£ £ £
+1,821 7,303 9,124
+- 600 600
+1,821 7,903 9,724
+1,821 5,909 7,730
+- 1,173 1,173
+1,821 7,082 8,903
+- 821 821
+- 1,394 1,394
+
+2024 2023
+
+£ £
+
+67,650 -
+
+2024 2023
+
+£ £
+
+- 1,509
+
+(765) -
+
+158,559 168,173
+
+157,794 169,682
+
+
+Performance Learning Group Limited
+
+Notes to the Unaudited Financial Statements for the Year Ended 30 June 2024
+
+Due within one year
+
+Loans and borrowings
+
+Trade creditors
+
+Taxation and social security
+Accruals and deferred income
+
+Other creditors
+
+Creditors: amounts falling due after more than one year
+
+Due after one year
+Loans and borrowings
+
+8 Loans and borrowings
+
+Non-current loans and borrowings
+
+Bank borrowings
+
+Current loans and borrowings
+
+Bank borrowings
+Other borrowings
+
+Page 7
+
+Note
+
+Note
+
+2024 2023
+
+£ £
+12,500 10,000
+53,985 21,609
+117,536 96,565
+2,160 27,596
+8,480 5,306
+194,661 161,076
+2024 2023
+
+£ £
+14,167 24,167
+2024 2023
+
+£ £
+14,167 24,167
+2024 2023
+
+£ £
+10,000 10,000
+2,500 -
+12,500 10,000
+
+
+This document was delivered using electronic communications and authenticated in accordance with the
+registrar's rules relating to electronic form, authentication and manner of delivery under section 1072 of
+the Companies Act 2006.
+

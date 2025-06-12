@@ -1,0 +1,487 @@
+Accounts Submission
+Company Accounts and Tax Online
+07438979
+Board of Directors
+1.12.23
+30.11.24
+30.11.24
+No description of principal activity
+false
+iso4217:GBP
+xbrli:pure
+07438979
+2022-12-01
+2023-11-30
+07438979
+2024-11-30
+07438979
+2023-12-01
+2024-11-30
+07438979
+2023-11-30
+07438979
+countries:EnglandWales
+2023-12-01
+2024-11-30
+07438979
+curr:PoundSterling
+2023-12-01
+2024-11-30
+07438979
+uk-bus:PrivateLimitedCompanyLtd
+2023-12-01
+2024-11-30
+07438979
+uk-bus:OtherStandards
+2023-12-01
+2024-11-30
+07438979
+uk-bus:AuditExempt-NoAccountantsReport
+2023-12-01
+2024-11-30
+07438979
+uk-bus:FullAccounts
+2023-12-01
+2024-11-30
+07438979
+uk-bus:RegisteredOffice
+2023-12-01
+2024-11-30
+07438979
+uk-bus:Director1
+2023-12-01
+2024-11-30
+07438979
+uk-bus:Director1
+2023-12-01
+07438979
+uk-bus:Director1
+2024-11-30
+07438979
+core:AfterOneYear
+2024-11-30
+07438979
+core:AfterOneYear
+2023-11-30
+07438979
+core:WithinOneYear
+2024-11-30
+07438979
+core:WithinOneYear
+2023-11-30
+07438979
+core:WithinOneYear
+2023-12-01
+2024-11-30
+07438979
+core:AfterOneYear
+2024-11-30
+07438979
+core:AfterOneYear
+2023-11-30
+07438979
+core:AfterOneYear
+2023-12-01
+2024-11-30
+07438979
+core:ShareCapital
+2024-11-30
+07438979
+core:ShareCapital
+2023-11-30
+07438979
+core:RevaluationReserve
+2024-11-30
+07438979
+core:RevaluationReserve
+2023-11-30
+07438979
+core:RetainedEarningsAccumulatedLosses
+2024-11-30
+07438979
+core:RetainedEarningsAccumulatedLosses
+2023-11-30
+07438979
+1
+2023-12-01
+2024-11-30
+07438979
+core:LandBuildings
+2023-12-01
+2024-11-30
+07438979
+core:LandBuildings
+2024-11-30
+07438979
+core:LandBuildings
+2022-12-01
+2023-11-30
+07438979
+core:LandBuildings
+2023-11-30
+07438979
+core:PlantMachinery
+2023-12-01
+2024-11-30
+07438979
+core:PlantMachinery
+2024-11-30
+07438979
+core:PlantMachinery
+2022-12-01
+2023-11-30
+07438979
+core:PlantMachinery
+2023-11-30
+07438979
+core:FurnitureFittingsToolsEquipment
+2023-12-01
+2024-11-30
+07438979
+core:FurnitureFittingsToolsEquipment
+2024-11-30
+07438979
+core:FurnitureFittingsToolsEquipment
+2022-12-01
+2023-11-30
+07438979
+core:FurnitureFittingsToolsEquipment
+2023-11-30
+07438979
+core:OfficeEquipment
+2023-12-01
+2024-11-30
+07438979
+core:OfficeEquipment
+2024-11-30
+07438979
+core:OfficeEquipment
+2022-12-01
+2023-11-30
+07438979
+core:OfficeEquipment
+2023-11-30
+07438979
+core:Vehicles
+2023-12-01
+2024-11-30
+07438979
+core:Vehicles
+2024-11-30
+07438979
+core:Vehicles
+2022-12-01
+2023-11-30
+07438979
+core:Vehicles
+2023-11-30
+07438979
+core:NetGoodwill
+2023-12-01
+2024-11-30
+07438979
+core:NetGoodwill
+2024-11-30
+07438979
+core:NetGoodwill
+2022-12-01
+2023-11-30
+07438979
+core:NetGoodwill
+2023-11-30
+07438979
+core:IntangibleAssetsOtherThanGoodwill
+2023-12-01
+2024-11-30
+07438979
+core:IntangibleAssetsOtherThanGoodwill
+2024-11-30
+07438979
+core:IntangibleAssetsOtherThanGoodwill
+2022-12-01
+2023-11-30
+07438979
+core:IntangibleAssetsOtherThanGoodwill
+2023-11-30
+DEBUT TRAINING ACADEMY LIMITED
+Company Registration Number:
+07438979
+(England and Wales)
+Unaudited statutory accounts for the year ended 30 November 2024
+Period of accounts
+Start date: 01 December 2023
+End date: 30 November 2024
+Page 1
+DEBUT TRAINING ACADEMY LIMITED
+Contents of the Financial Statements
+for the Period Ended 30 November 2024
+Company Information - 3
+Profit and Loss Account - 4
+Balance sheet - 5
+Additional notes - 7
+Balance sheet notes - 10
+Page 2
+DEBUT TRAINING ACADEMY LIMITED
+Company Information
+for the Period Ended 30 November 2024
+Registered office:
+38 High Street
+High Street
+Wickford
+England
+SS12 9AZ
+Company Registration Number:
+07438979
+(England and Wales)
+Page 3
+DEBUT TRAINING ACADEMY LIMITED
+Profit and Loss Account
+for the Period Ended 30 November 2024
+Notes
+2024
+£
+2023
+£
+Turnover
+1,989,392
+1,596,514
+Cost of sales
+(
+363,467
+)
+(
+260,649
+)
+Gross Profit or (Loss)
+1,625,925
+1,335,865
+Administrative Expenses
+(
+1,262,733
+)
+(
+1,209,030
+)
+Operating Profit or (Loss)
+363,192
+126,835
+Interest Receivable and Similar Income
+3,512
+1,253
+Interest Payable and Similar Charges
+-
+(
+0
+)
+Profit or (Loss) Before Tax
+366,704
+128,088
+Tax on Profit
+(
+91,676
+)
+(
+24,337
+)
+Profit or (Loss) for Period
+275,028
+103,751
+The notes form part of these financial statements
+Page 4
+DEBUT TRAINING ACADEMY LIMITED
+Balance sheet
+As at
+30 November 2024
+Notes
+2024
+£
+2023
+£
+Fixed assets
+Tangible assets:
+4
+492,842
+335,673
+Total fixed assets:
+492,842
+335,673
+Current assets
+Debtors:
+5
+132,787
+1,024
+Cash at bank and in hand:
+289,911
+260,305
+Total current assets:
+422,698
+261,329
+Creditors: amounts falling due within one year:
+6
+(
+187,680
+)
+(
+36,883
+)
+Net current assets (liabilities):
+235,018
+224,446
+Total assets less current liabilities:
+727,860
+560,119
+Total net assets (liabilities):
+727,860
+560,119
+The notes form part of these financial statements
+Page 5
+DEBUT TRAINING ACADEMY LIMITED
+Balance sheet continued
+As at 30 November 2024
+Notes
+2024
+£
+2023
+£
+Capital and reserves
+Called up share capital:
+4
+4
+Profit and loss account:
+727,856
+560,115
+Shareholders funds:
+727,860
+560,119
+For the year ending 30 November 2024 the company was entitled to exemption under section 477 of the Companies Act 2006 relating to small companies.
+The members have not required the company to obtain an audit in accordance with section 476 of the Companies Act 2006.
+The directors acknowledge their responsibilities for complying with the requirements of the Act with respect to accounting records and the preparation of accounts.
+These accounts have been prepared and delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+This report was approved by the board of directors on
+18 April 2025
+And Signed On Behalf Of The Board By:
+Name:
+Carla Hales
+Status: Director
+The notes form part of these financial statements
+Page 6
+DEBUT TRAINING ACADEMY LIMITED
+Notes to the Financial Statements
+for the Period Ended 30 November 2024
+1. Accounting policies
+Basis of measurement and preparation
+These financial statements have been prepared in accordance with Financial Reporting Standard 102 "The
+Financial Reporting Standard applicable in the UK and Republic of Ireland" including the provisions of Section
+1A "Small Entities" and the Companies Act 2006. The financial statements have been prepared under the
+historical cost convention.
+Turnover policy
+Turnover is measured at the fair value of the consideration received or receivable, excluding discounts, rebates,
+value added tax and other sales taxes.
+Page 7
+DEBUT TRAINING ACADEMY LIMITED
+Notes to the Financial Statements
+for the Period Ended 30 November 2024
+2. Employees
+2024
+2023
+Average number of employees during the period
+27
+22
+Page 8
+DEBUT TRAINING ACADEMY LIMITED
+Notes to the Financial Statements
+for the Period Ended 30 November 2024
+3. Off balance sheet disclosure
+No
+Page 9
+DEBUT TRAINING ACADEMY LIMITED
+Notes to the Financial Statements
+for the Period Ended 30 November 2024
+4. Tangible assets
+Land & buildings
+Total
+Cost
+£
+£
+At 01 December 2023
+335,673
+335,673
+Additions
+157,169
+157,169
+Disposals
+-
+-
+Revaluations
+-
+-
+Transfers
+-
+-
+At 30 November 2024
+492,842
+492,842
+Depreciation
+At 01 December 2023
+-
+-
+Charge for year
+-
+-
+On disposals
+-
+-
+Other adjustments
+-
+-
+At 30 November 2024
+-
+-
+Net book value
+At 30 November 2024
+492,842
+492,842
+At 30 November 2023
+335,673
+335,673
+Page 10
+DEBUT TRAINING ACADEMY LIMITED
+Notes to the Financial Statements
+for the Period Ended 30 November 2024
+5. Debtors
+2024
+£
+2023
+£
+Trade debtors
+11,711
+1,024
+Other debtors
+121,076
+Total
+132,787
+1,024
+Page 11
+DEBUT TRAINING ACADEMY LIMITED
+Notes to the Financial Statements
+for the Period Ended 30 November 2024
+6.Creditors: amounts falling due within one year note
+2024
+£
+2023
+£
+Bank loans and overdrafts
+38,115
+Trade creditors
+17,907
+Taxation and social security
+90,028
+36,883
+Accruals and deferred income
+25,284
+Other creditors
+16,346
+Total
+187,680
+36,883
+Page 12

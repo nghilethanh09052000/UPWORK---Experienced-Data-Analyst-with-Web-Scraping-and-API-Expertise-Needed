@@ -1,0 +1,644 @@
+Company registration number 02477635 (England and Wales}
+
+TTE TRAINING LIMITED
+FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 AUGUST 2024
+
+PAGES FOR FILING WITH REGISTRAR
+
+
+TTE TRAINING LIMITED
+
+CONTENTS
+
+Page
+
+Balance sheet 1
+
+Notes to the financial statements 2-9
+
+
+TTE TRAINING LIMITED
+
+BALANCE SHEET
+AS AT 31 AUGUST 2024
+
+Notes
+Fixed assets
+Tangible assets 5
+Invesiments 6
+
+Current assets
+Debtors 8
+Cash at bank and in hand
+
+Creditors: amounts falling due within one
+
+year 9
+Net current assets
+
+Total assets less current liabilities
+
+Creditors: amounts falling due after more
+
+than one year 10
+Provisions for liabilities 11
+Net assets
+
+Reserves
+
+Other reserves 13
+
+Income and expenditure account
+
+Total members’ funds
+
+2024
+£ £
+
+1,626,438
+1
+
+1,626,439
+
+729,228
+
+2,509,424
+
+3,238,652
+
+(645,009)
+
+2,593,643
+
+4,220,082
+
+(368,658)
+(85,684)
+
+3,765,740
+
+462,451
+3,303,289
+
+3,765,740
+
+2023
+£ £
+
+1,452,599
+1
+
+1,452,600
+
+619,564
+
+2,317,166
+
+2,936,730
+
+(557,234)
+
+2,379,496
+
+3,832,096
+
+(368,940)
+(58,619)
+
+3,404,537
+
+462,451
+2,942,086
+
+3,404,537
+
+These financial statements have been prepared and delivered in accordance with the provisions applicable to companies
+
+subject to the small companies regime.
+
+The directors of the company have elected not to include a copy of the income and expenditure account within the financial
+
+statements.
+
+The financial statements were approved by the board of directors and authorised for issue on 24 April 2025 and are signed
+
+an its behalf by:
+
+Mr A R O'Shea
+Director
+
+Company registration number 02477635 (England and Wales)
+
+
+TTE TRAINING LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 AUGUST 2024
+
+4.1
+
+1.2
+
+1.3
+
+1.4
+
+Accounting policies
+
+Company information
+TTE Training Limited is a private company limited by guarantee incorporated in England and Wales. The registered
+office is New Horizons House, New Bridge Road, Ellesmere Port, Cheshire, CH65 4LT.
+
+Accounting convention
+
+These financial statements have been prepared in accordance with FRS 102 “The Financial Reporting Standard
+applicable in the UK and Republic of Ireland” (“FRS 102") and the requirements of the Companies Act 2006 as
+applicable to companies subject to the small companies regime. The disclosure requirements of section 1A of FRS
+102 have been applied other than where additional disclosure is required to show a true and fair view.
+
+The financial statements are prepared in sterling, which is the functional currency of the company. Monetary amounts
+in these financial statements are rounded to the nearest £.
+
+The financial statements have been prepared under the historical cost convention. The principal accounting policies
+adopted are set out below.
+
+The company has taken advantage of the exemption under section 399 of the Companies Act 2006 not to prepare
+consolidated accounts, on the basis that the group of which this is the parent qualifies as a small group. The financial
+statements present information about the company as an individual entity and not about its group.
+
+Going concern
+
+At the time of approving the financial statements, the directors have a reasonable expectation that the company has
+adequate resources to continue in operational existence for the foreseeable future. Thus the directors continue to
+adopt the going concern basis of accounting in preparing the financial statements.
+
+Turnover
+
+Income from contracts is recagnised in line with the delivery on the contracted services to trainees. The recurrent
+grants from the ESFA represent the funding allocations attributable to the current financial year and are credited
+directly to the income and expenditure account. Recurrent grants are recognised in line with planned activity. Any
+undei-achievement against this planned activity is adjusted in the year and reflected in the level of recurrent grant
+recognised in the income and expenditure account. Provisions for potential clawbacks are established where it is
+anticipated that funding may be subject to clawback.
+
+Tangible fixed assets
+Tangible fixed assets are initially measured at cost and subsequently measured at cost or valuation, net of
+depreciation and any impairment losses.
+
+Depreciation is recognised so as to write off the cost or valuation of assets less their residual values over their useful
+lives on the following bases:
+
+Freehold land and buildings Nil - 2% straight line
+Leasehold improvements 10% straight line
+
+Plant and machinery 10% - 33% straight line
+Fixtures, fittings and equipment 10% straight line
+
+Freehold land is not depreciated.
+
+The gain or loss arising on the disposal of an asset is determined as the difference between the sale proceeds and the
+carrying value of the asset, and is credited or charged to surplus or deficit.
+
+
+TTE TRAINING LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 AUGUST 2024
+
+1
+
+1.5
+
+1.6
+
+1.7
+
+1.8
+
+Accounting policies (Continued)
+
+Fixed asset investments
+
+Interests in subsidiaries are initially measured at cost and subsequently measured at cost less any accumulated
+impairment losses. The investments are assessed for impairment at each reporting date and any impairment losses or
+reversals of impairment losses are recognised immediately in profit or loss.
+
+A subsidiary is an entity controlled by the company. Control is the power to govern the financial and operating policies
+of the entity so as to obtain benefits from its activities.
+
+Impairment of fixed assets
+
+At each reporting period end date, the company reviews the carrying amounts of its tangible assets to determine
+whether there is any indication that those assets have suffered an impairment loss. If any such indication exists, the
+recoverable amount of the asset is estimated in order to determine the extent of the impairment loss (if any).
+
+Recoverable amount is the higher of fair value less costs to sell and value in use. In assessing value in use, the
+estimated future cash flows are discounted to their present value using a pre-tax discount rate that reflects current
+market assessments of the time value of money and the risks specific to the asset for which the estimates of future
+cash flows have not been adjusted.
+
+If the recoverable amount of an asset is estimated to be less than its carrying amount, the carrying amount of the asset
+is reduced to its recoverable amount. An impairment loss is recognised immediately in profit or loss, unless the
+relevant asset is carried at a revalued amount, in which case the impairment loss is treated as a revaluation decrease.
+
+Cash and cash equivalents
+Cash and cash equivalents are basic financial assets and include cash in hand and deposits held at call with banks.
+
+Financial instruments
+The company has elected to apply the provisions of Section 11 ‘Basic Financial Instruments’ of FRS 102 to all of its
+financial instruments.
+
+Financial instruments are recognised in the company's balance sheet when the company becomes party to the
+contractual provisions of the instrument.
+
+Basic financial assets
+
+Basic financial assets, which include trade and other debtors, amounts owed by group undertakings and cash and
+bank balances, are initially measured at transaction price including transaction costs and are subsequently carried at
+amortised cost using the effective interest method.
+
+Classification of financial liabilities
+
+Financial liabilities and equity instruments are classified according to the substance of the contractual arrangements
+entered into. An equity instrument is any contract that evidences a residual interest in the assets of the company after
+deducting all of its liabilities.
+
+Basic financial liabilities
+Basic financial liabilities, including trade and other creditors, amounts due to group undertakings and bank loans are
+
+initially recognised at transaction price.
+
+Debt instruments are subsequently carried at amortised cost, using the effective interest rate method.
+
+
+TTE TRAINING LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 AUGUST 2024
+
+1.9
+
+Accounting policies (Continued)
+
+Equity instruments
+Equity instruments issued by the company are recorded at the proceeds received, net of transaction costs. Dividends
+payable on equity instruments are recognised as liabilities once they are no longer at the discretion of the company,
+
+Taxation
+The tax expense represents the sum of the tax currently payable and deferred tax.
+
+Current tax
+
+The tax currently payable is based on taxable profit for the year. Taxable profit differs from net profit as reported in the
+profit and loss account because it excludes items of income or expense that are taxable or deductible in other years
+and it further excludes items that are never taxable or deductible. The company’s liability for current tax is calculated
+using tax rates that have besn enacted or substantively enacted by the reporting end date.
+
+Deferred tax
+
+Deferred tax liabilities are generally recognised for all timing differences and deferred tax assets are recognised to the
+extent that it is probable that they will be recovered against the reversal of deferred tax liabilities or other future taxable
+profits. Such assets and liabilities are not recognised if the timing difference arises from goodwill or from the initial
+recognition of other assets and liabilities in a transaction that affects neither the tax profit nor the accounting profit.
+
+The carrying amount of deferred tax assets is reviewed at each reporting end date and reduced to the extent that it is
+no longer probable that sufficient taxable profits will be available to allow all or part of the asset to be recovered.
+Deferred tax is calculated at the tax rates that are expected to apply in the period when the liability is settled or the
+asset is realised. Deferred tax is charged or credited in the profit and loss account, except when it relates to items
+charged or credited directly to equity, in which case the deferred tax is also dealt with in equity. Deferred tax assets
+and liabilities are offset when the company has a legally enforceable right to offset current tax assets and liabilities and
+the deferred tax assets and liabilities relate to taxes levied by the same tax authority.
+
+Employee benefits
+The costs of short-term employee benefits are recognised as a liability and an expense.
+
+The cost of any unused holiday entitlement is recognised in the period in which the employee's services are received.
+
+Termination benefits are recognised immediately as an expense when the company is demonstrably committed to
+terminate the employment of an employee or to provide termination benefits.
+
+Retirement benefits
+
+For defined contribution schemes the amount is charged to profit and loss is the contributions payable in the year.
+Differences between contributions payable in the year and contributions actually paid are shown as either accruals or
+prepayments.
+
+Leases
+
+Rentals payable under operating leases, including any lease incentives received, are charged to profit or loss on a
+straight line basis over the term of the relevant lease except where another more systematic basis is more
+representative of the time pattern in which economic benefits from the leases asset are consumed.
+
+
+TTE TRAINING LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 AUGUST 2024
+
+Accounting policies (Continued)
+
+Government grants
+Government grants are recognised at the fair value of the asset received or receivable when there is reasonable
+assurance that the grant conditions will be met and the grants will be received.
+
+A grant that specifies performance conditions is recognised in income when the performance canditions are met.
+Where a grant does not specify performance conditions it is recognised in income when the proceeds are received or
+receivable. A grant received before the recognition criteria are satisfied is recognised as a liability.
+
+Grants relating to an asset are recognised in income systematically over the asset's expected useful life. If part of such
+a grant is deferred it is recognised as deferred income rather than being deducted from the asset's carrying amount.
+
+Judgements and key sources of estimation uncertainty
+
+In the application of the company's accounting policies, the directors are required to make judgements, estimates and
+assumptions about the carrying amount of assets and liabilities that are not readily apparent from other sources. The
+estimates and associated assumptions are based on historical experience and other factors that are considered to be
+relevant. Actual results may differ from these estimates.
+
+The estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to accounting estimates are
+recognised in the period in which the estimate is revised where the revision affects only that period, or in the period of
+the revision and future periods where the revision affects both current and future periods.
+
+Key sources of estimation uncertainty
+The estimates and assumptions which have a significant risk of causing a material adjustment to the carrying amount
+of assets and liabilities are as follows.
+
+Useful economic lives of fixed assets
+
+Depreciation is provided ta write down the assets over the estimated economic useful lives as set out in the Company's
+accounting policies. The selection of these estimated lives requires the exercise of management judgement. Useful
+lives are regularly reviewed and should management's assessment of useful lives change, then depreciation charges
+and carrying value of fixed assets in the financial statements would change accordingly.
+
+Employees
+
+The average monthly number of persons (including directors) employed by the company during the year was:
+
+2024 2023
+
+Number Number
+
+Total 46 45
+Directors’ remuneration
+
+2024 2023
+
+£ £
+
+Remuneration paid to directors 188,742 183,254
+
+
+TTE TRAINING LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 AUGUST 2024
+
+4 Directors’ remuneration (Continued)
+
+The number of directors for whom retirement benefits are accruing under defined contribution schemes amounted to 2
+(2023 - 2).
+
+5 Tangible fixed assets
+
+Freehold land Leasehold Plant andFixtures, fittings Total
+and buildings improvements machinery and equipment
+£ £ £ £ £
+Cost
+At 1 September 2023 2,064,296 170,651 214,382 1,105,566 3,554,895
+Additions 143,892 - - 105,257 249,149
+At 31 August 2024 2,208,188 170,651 214,382 1,210,823 3,804,044
+Depreciation and impairment
+At 1 September 2023 811,229 170,651 204,858 915,558 2,102,296
+Depreciation charged in the year 38,990 - 4,130 32,190 75,310
+At 31 August 2024 850,219 170,651 208,988 947,748 = 2,177,606
+Carrying amount
+At 31 August 2024 1,357,969 - 5,394 263,075 1,626,438
+At 31 August 2023 1,253,067 - 9,524 190,008 1,452,599
+6 Fixed asset investments
+2024 2023
+£ £
+Shares in group undertakings and participating interests 1 1
+
+7 Subsidiaries
+
+Details of the company's subsidiaries at 31 August 2024 are as follows:
+
+Name of undertaking Address Class of % Held
+shares held Direct
+TTE Apprenticeship Training Agency Limited i) Ordinary 100.00
+
+Registered office addresses (all UK unless otherwise indicated):
+
+(i) New Horizons House, New Bridge Road. Ellesmere Port, Merseyside, CH65 4LT
+
+
+TTE TRAINING LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 AUGUST 2024
+
+8 Debtors
+Amounts falling due within one year:
+
+Trade debtors
+Other debtors
+Prepayments and accrued income
+
+) Creditors: amounts falling due within one year
+
+Trade creditors
+
+Corporation tax
+
+Other taxation and social security
+Government grants
+
+Other creditors
+
+Accruals and deferred income
+
+10 Creditors: amounts falling due after more than one year
+
+Other creditors
+
+12
+
+2024
+
+467,682
+
+261,546
+
+729,228
+
+2024
+
+259,211
+91,095
+115,883
+282
+64,158
+114,380
+
+645,009
+
+368,658
+
+2023
+
+393,636
+122
+225,806
+
+619,564
+
+2023
+
+169,723
+81,897
+118,472
+282
+40,961
+145,899
+
+557,234
+
+368,940
+
+The directors have received written formal confirmation that the £359,761 due to Inovyn ChlorVinyls Limited held in
+
+other creditors will not be requested for payment until at least 1st September 2025.
+
+11 Provisions for liabilities
+
+Deferred tax liabilities
+Other provisions
+
+2024
+
+85,684
+
+85,684
+
+2023
+
+31,411
+27,208
+
+58,619
+
+
+TTE TRAINING LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 AUGUST 2024
+
+12 Government grants
+
+2024 2023
+£ £
+Arising from government grants 9,179 9,461
+
+Included in the financial statements as follows:
+Current liabilities 282 282
+Non-current liabilities 8,897 9,179
+9,179 9,461
+
+13 Other reserves
+Capitalreserve Guarantors’ Total
+reserve
+
+£ £ £
+At the beginning of the prior year 459,451 3,000 462,451
+At the end of the prior year 459,451 3,000 462,451
+At the end of the current year 459,451 3,000 462,451
+
+The guarantors’ reserve relates to the members’ capital contribution to the company. The capital reserve relates to a
+capitalised loan
+
+14 Company limited by guarantee
+
+The company has no share capital but is limited by guarantee. The guarantee is limited to £1 per member and extends
+twelve months after the date that member leaves.
+
+15 Audit report information
+
+As the income statement has been omitted from the filing copy of the financial statements, the following information in
+relation to the audit report on the statutory financial statements is provided in accordance with s444(5B) of the
+Companies Act 2006.
+
+The auditor's report is unqualified and includes the following:
+
+Opinion
+In our opinion the financial statements:
+® give a true and fair view of the state of the company's affairs as at 31 August 2024 and of its surplus for the year
+then ended;
+* have been properly prepared in accordance with United Kingdom Generally Accepted Accounting Practice; and
+© have been prepared in accordance with the requirements of the Companies Act 2006.
+
+Senior Statutory Auditor: Susan Harris MA ACA
+Statutory Auditor: Champion Accountants LLP
+Date of audit report: 24 April 2025
+
+
+TTE TRAINING LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+
+FOR THE YEAR ENDED 31 AUGUST 2024
+
+16
+
+17
+
+Operating lease commitments
+
+Lessee
+
+At the reporting end date the company had outstanding commitments for future minimum lease payments under
+
+non-cancellable operating leases, as follows:
+
+Within one year
+Between two and five years
+
+Related party transactions
+
+2024
+£
+
+100,384
+184,924
+
+285,308
+
+During the year the company has traded with Inovyn Chlorvinyls Limited, a member of the company.
+
+Sales invoices raised during the course of normal trading activities for Inovyn Chlorvinyls Limited amounted to
+
+£242,025 (2023: £278,650).
+
+2023
+
+100,581
+280,501
+
+381,082
+
+Amounts due to members included in accruals for sponsors’ rebates for Inovyn Chlorvinyls Limited amounted to
+
+£14,548 (2023: £14,548).
+
+Amounts due from related parties as at 31st August 2024 which are included in debtors include amounts due from
+
+Inovyn Chlorvinyls Limited of £2,100 (2023: £11,073).
+
+Amounts owed to related parties as at 31st August 2024 which are included in other creditors within ‘creditors falling
+due after more than one year’ include amounts owed to Inovyn Chlorvinyls Limited for £359,761 (2023: £359,761).
+
+
+This document was delivered using electronic communications and authenticated in accordance with the
+registrar's rules relating to electronic form, authentication and manner of delivery under section 1072 of
+the Companies Act 2006.
+

@@ -1,0 +1,516 @@
+Registered number: 02696326
+
+WOODSPEEN TRAINING LIMITED
+
+DIRECTORS’ REPORT AND AUDITED FINANCIAL STATEMENTS
+INFORMATION FOR FILING WITH THE REGISTRAR
+
+FOR THE YEAR ENDED 30 JUNE 2024
+
+MIU
+
+A10 31/03/2025 #130
+COMPANIES HOUSE
+
+MONDAY
+
+WOODSPEEN TRAINING LIMITED
+REGISTERED NUMBER:02696326
+
+BALANCE SHEET
+AS AT 30 JUNE 2024
+. 2024
+Note £
+Fixed assets .
+Tangible assets , 4 64,869
+investments 5 609,500
+674,369
+Current assets
+Debtors: amounts falling due within one year 6 836,047
+Cash at bank and in hand 62,915
+898,962
+Creditors: amounts falling due within one
+year - 7 (1,120,213)
+Net current liabilities (221,251)
+Total assets less current liabilities 453,118
+Provisions for liabilities
+Other provisions 8 (20,000)
+(20,000)
+Net assets 433,118
+Capital and reserves
+Called up share capital 20,100
+Profit and loss account 413,018
+433,118
+
+Page 1
+
+2023
+
+61,845
+610,500
+
+672,345
+
+810,490
+42,720
+
+853,210
+
+(1,126,894)
+(273,684)
+
+398,661
+
+(20,000)
+(20,000)
+
+378,661
+
+20,100
+358,561
+
+378,661
+
+WOODSPEEN TRAINING LIMITED
+REGISTERED NUMBER:02696326
+
+BALANCE SHEET (CONTINUED)
+AS AT 30 JUNE 2024
+
+The financial statements have been prepared in accordance with the provisions applicable to companies subject
+to the small companies regime and in accordance with the provisions of FRS 102 Section 1A - small entities.
+
+The financial statements have been delivered in accordance with the provisions applicable to companies subject
+to the small companies regime.
+
+The Company has opted not to file the statement of comprehensive income in accordance with provisions
+applicable to companies subject to the small companies’ regime.
+
+The financial statements were approved and authorised for issue by the board and were signed on its behalf by:
+
+Ave
+
+lram Neesa
+Director
+
+Date: 28/03/2025
+
+The notes on pages 3 to 10 form part of these financial statements.
+
+Page 2
+
+WOODSPEEN TRAINING LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 JUNE 2024
+
+General information
+
+Woodspeen Training Limited is a private company limited by shares incorporated in England and Wales.
+The registered office is 3rd Floor, 86-90 Paul Street, London, EC2A 4NE.
+
+Accounting policies
+
+2.1
+
+Basis of preparation of financial statements
+
+The financial statements have been prepared under the historical cost convention unless otherwise
+specified within these accounting policies and in accordance with FRS 102 ‘The Financial Reporting
+Standard applicable in the UK and the Republic of Ireland’ and the requirements of the Companies
+Act 2006. The disclosure requirements of Section 1A of FRS 102 have been applied other than
+where additional disclosure is required to show a true and fair view.
+
+The preparation of financial statements in compliance with FRS 102 requires the use of certain
+critical accounting estimates. It also requires management to exercise judgment in applying the
+Company's accounting policies.
+
+Exemption from preparing consolidated financial statements
+
+The Company is a parent company that is also a subsidiary included in the consolidated financial
+statements of a larger group by a parent undertaking established under the law of any part of the
+United Kingdom and is therefore exempt from the requirement to prepare consolidated financial
+statements under section 400 of the Companies Act 2006.
+
+Going concern
+
+The financial statements have been prepared on the going concern basis, notwithstanding net current
+liabilities of £221,251 (2023: £273,684), and net assets and net surplus of £433,118 (2023:
+£378,661), which the directors believe to be appropriate for the following reasons.
+
+The company is dependent for its working capital on funds provided to it by its fellow group
+companies and parent on being able to receive funds in respect of amounts due from group
+undertakings and therefore, the directors consider that this company will continue for at least 12
+months from the date of signature on the Balance Sheet.
+
+Foreign currency translation
+
+Functional and presentation currency
+
+The Company's functional and presentational currency is GBP.
+
+Transactions and balances
+
+Foreign currency transactions are translated into the functional currency using the spot exchange
+rates at the dates of the transactions.
+
+At each period end foreign currency monetary items are translated using the closing rate. Non-
+monetary items measured at historical cost are translated using the exchange rate at the date of the
+transaction and non-monetary items measured at fair value are measured using the exchange rate
+when fair value was determined.
+
+Page 3
+
+WOODSPEEN TRAINING LIMITED
+
+2.
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 JUNE 2024
+
+Accounting policies (continued)
+
+2.5
+
+Revenue
+
+Revenue is recognised at the fair value of the consideration received or receivable for services
+provided in the normal course of business, and is shown net of VAT and other sales related taxes.
+
+Revenue from contracts for the provision of consultancy and training services is recognised by
+reference to the stage of completion when the stage of completion, costs incurred and costs to
+complete can be estimated reliably. The stage of completion is calculated by comparing costs
+incurred, mainly in relation to contractual hourly staff rates and materials, as a proportion of total
+costs. Where the outcome cannot be estimated reliably, revenue is recognised only to the extent of
+the expenses recognised that it is probable will be recovered.
+
+Government grants
+
+Grants are accounted under the accruals model as permitted by FRS 102. Grants relating to
+expenditure on tangible fixed assets are credited to profit or loss at the same rate as the depreciation
+on the assets to which the grant relates. The deferred element of grants is included in creditors as
+deferred income.
+
+Grants of a revenue nature are recognised in the Statement of Comprehensive Income in the same.
+period as the related expenditure.
+
+Pensions
+Defined contribution pension plan
+
+The Company operates a defined contribution plan for its employees. A defined contribution plan is a
+pension plan under which the Company pays fixed contributions into a separate entity. Once the
+contributions have been paid the Company has no further payment obligations.
+
+The contributions are recognised as an expense in profit or loss when they fall due. Amounts not paid
+are shown in accruals as a liability in the Balance Sheet. The assets of the plan are held separately
+from the Company in independently administered funds.
+
+Taxation
+
+Tax is recognised in profit or loss except that a charge attributable to an item of income and expense
+tecognised as other comprehensive income or to an item recognised directly in equity is also
+recognised in other comprehensive income or directly in equity respectively.
+
+The current income tax charge is calculated on the basis of tax rates and laws that have been
+enacted or substantively enacted by the balance sheet date in the countries where the Company
+operates and generates income.
+
+Page 4
+
+WOODSPEEN TRAINING LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 JUNE 2024
+
+2. Accounting policies (continued)
+2.9 Leases
+
+Leases are classified as finance leases whenever the terms of the lease transfer substantially all the
+risks and rewards of ownership to the lessees. All other leases are classified as operating leases.
+
+Assets held under finance leases are recognised as assets at cost and then depreciated in line with
+the appropriate accounting policy. The related liability is included in the balance sheet as a finance
+lease obligation. Lease payments are treated as consisting of capital and interest elements. The
+interest is charged to profit or loss so as to produce a constant periodic rate of interest on the
+remaining balance of the liability.
+
+Rentals payable under operating leases, including any lease incentives received, are charged to profit
+or loss on a straight line basis over the term of the relevant lease except where another more
+systematic basis is more representative of the time pattern in which economic benefits from the
+leases asset are consumed.
+
+2.10 Tangible fixed assets
+
+Tangible fixed assets under the cost model are stated at historical cost less accumulated
+depreciation and any accumulated impairment losses. Historical cost includes expenditure that is
+directly attributable to bringing the asset to the location and condition necessary for it to be capable of
+operating in the manner intended by management.
+
+At each reporting date the Company assesses whether there is any indication of impairment. If such
+indication exists, the recoverable amount of the asset is determined which is the higher of its fair
+value less costs to sell and its value in use. An impairment loss is recognised where the carrying
+amount exceeds the recoverable amount.
+
+Depreciation is charged so as to allocate the cost of assets less their residual value over their
+estimated useful lives, using the straight-line method.
+
+Depreciation is provided on the following basis:
+
+Plant and machinery - 4 years
+Fixtures and fittings. - 4 years
+Computer equipment - 4years
+
+The assets’ residual values, useful lives and depreciation methods are reviewed, and adjusted
+prospectively if appropriate, or if there is an indication of a significant change since the last reporting
+date.
+
+Gains and losses on disposals are determined by comparing the proceeds with the carrying amount
+and are recognised in profit or loss.
+
+Page 5
+
+WOODSPEEN TRAINING LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 JUNE 2024
+
+Accounting policies (continued)
+
+2.11 Fixed asset investments
+
+Interests in subsidiaries are initially measured at cost and subsequently measured at cost less any
+accumulated impairment losses. The investments are assessed for impairment at each reporting
+date and any impairment losses or reversals of impairment losses are recognised immediately in
+profit or loss.
+
+A subsidiary is an entity controlled by the company. Control is the power to govern the financial and
+Operating policies of the entity so as to obtain benefits from its activities.
+
+2.12 Debtors
+
+Short-term debtors are measured at transaction price, less any impairment. Loans receivable are
+measured initially at fair value, net of transaction costs, and are measured subsequently at amortised
+cost using the effective interest method, less any impairment.
+
+2.13 Cash and cash equivalents
+
+Cash is represented by cash in hand and deposits with financial institutions repayable without penalty
+on notice of not more than 24 hours. Cash equivalents are highly liquid investments that mature in no
+more than three months from the date of acquisition and that are readily convertible to known
+amounts of cash with insignificant risk of change in value.
+
+2.14 Creditors
+
+Short-term creditors are measured at the transaction price. Other financial liabilities, including bank
+loans, are measured initially at fair value, net of transaction costs, and are measured subsequently at
+amortised cost using the effective interest method.
+
+2.15 Provisions for liabilities
+
+Provisions are recognised when an event has taken place that gives rise to a legal or constructive
+obligation, a transfer of economic benefits is probable and a reliable estimate can be made. :
+
+Provisions are measured as the best estimate of the amount required to settle the obligation, taking
+into account the related risks and uncertainties.
+
+Increases in provisions are generally charged as an expense to profit or loss.
+
+Employees
+
+The average monthly number of employees, including directors, during the year was 155 (2023 - 110).
+
+Page 6
+
+WOODSPEEN TRAINING LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 JUNE 2024
+
+>
+
+Tangible fixed assets
+
+Cost or valuation
+At 1 July 2023
+Additions
+
+At 30 June 2024
+Depreciation
+
+At 1 July 2023
+Charge for the year on owned assets
+
+At 30 June 2024
+
+Net book value
+
+At 30 June 2024
+
+At 30 June 2023
+
+Fixed asset investments
+
+Cost or valuation
+At 1 July 2023
+Revaluations
+
+At 30 June 2024
+
+Plant and Fixtures and
+
+machinery
+£
+
+9,786
+
+9,786
+
+9,786
+
+9,786
+
+Computer
+fittings equipment Total
+£ £ £
+111,230 26,684 147,700
+35,083 - 35,083
+146,313 26,684 182,783
+58,056 18,013 85,855
+26,099 5,960 32,059
+84,155 23,973 117,914
+162,158 2,741 64,869
+53,174 8,671 61,845
+Investments
+in
+subsidiary
+companies
+£
+610,500
+(1,000)
+609,500
+
+The revaluation above relates to shares the company held at the year end in Jarvis Employment &
+Training Group Limited and Jarvis Employment & Training Projects C.!.C. Although both companies were
+not dissolved until August 2024, the revaluation adjustment reflects the fact that both companies did not
+
+trade and the valuation of the shares at the balance sheet date.
+
+Page 7
+
+WOODSPEEN TRAINING LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 JUNE 2024
+
+Fixed asset investments (continued)
+Subsidiary undertaking
+
+The following was a subsidiary undertaking of the Company:
+
+Class of
+Name , . Registered office shares Holding
+Jarvis Training Management Limited 3rd Floor, 86-90 Paul Ordinary 100%
+Street, London, EC2A
+4NE
+Debtors
+2024 2023
+£ £
+Trade debtors 127,703 143,935
+Other debtors - 23,358 38,088
+Prepayments and accrued income 684,986 628,467
+836,047 810,490
+Creditors: Amounts falling due within one year
+2024 2023
+£ £
+Trade creditors 382,085 232,098
+Amounts owed to group undertakings 95,356 95,356
+Amounts owed to associates 116,706 149,180
+Other taxation and social security 126,596 101,947
+Other creditors 333,969 464,978
+Accruals and deferred income — 65,501 83,335
+
+1,120,213 1,126,894
+
+Amounts owed to group undertakings and associates are unsecured, interest free, have no fixed date of
+repayment and are repayable on demand.
+
+Page 8
+
+WOODSPEEN TRAINING LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 JUNE 2024
+
+»
+
+Provisions
+Other
+provision 1
+£
+At 1 July 2023 20,000
+At 30 June 2024 20,000
+
+The provision for dilapidations relates to the expected cost on termination of the rental property leases of
+bringing the premises back into the condition they were in at commencement of the lease.
+Commitments under operating leases
+
+At 30 June 2024 the Company had future minimum lease payments due under non-cancellable operating
+leases for each of the following periods:
+
+2024 2023
+
+£ ¢ £
+
+Not later than 1 year 147,840 111,306
+Later than 1 year and not later than 5 years 134,866 106,786
+
+282,706 218,092
+
+Related party transactions
+
+As a wholly owned subsidiary, the company is exempt from the requirements of FRS 102 Section 33:
+Related Party Transactions, to disclose transactions with entities that are wholly owned within the same
+group.
+
+During the year the company repaid £49,342 (2023: £480,918) to Progility Finco Limited. Progility Finco
+Limited is a connected company by virtue of having the same ultimate parent company, DNY Investment
+Holdings Limited. :
+
+At the year end the company owed £116,706 (2023: £149,180) to Progility Finco Limited and is included
+in creditors under amounts owed to associates.
+
+The amounts are unsecured, repayable on demand and no guarantees have been received.
+
+Page 9
+
+WOODSPEEN TRAINING LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 JUNE 2024
+
+Controlling party
+
+The company's ultimate parent company is DNY Investment Holdings Limited, a company registered in
+the British Virgin Islands.
+
+On 13 June 2024, the company's shares were transferred intra-group from ILX Group pic to DNY
+Investment Holdings Limited.
+
+At the balance sheet date, Alphen Trust Company AG, as trustee of the WBDL Trust, held the majority of
+the shares of DNY Investment Holdings Limited which in turn holds 100% of the share capital of the
+company, and is therefore considered to be the ultimate controlling party.
+
+The company's results up to 13 June 2024, the date the shares were transferred intra-group, are included
+in the consolidated accounts of ILX Group plc. ILX Group plc was the immediate parent company and
+therefore, the parent undertaking of the largest group, which includes the company and for which group
+accounts are prepared, is ILX Group pic. Copies of the group financial statements of ILX Group plc are
+available from its registered office; 3rd Floor, 86-90 Paul Street, London, EC2A 4NE.
+
+Auditor's information
+The auditor's report on the financial statements for the year ended 30 June 2024 was unqualified.
+
+The audit report was signed on 28 March 2025 by Zara Dunster FCA (Senior Statutory Auditor) on
+behalf of Town & Forest.
+
+Page 10
+

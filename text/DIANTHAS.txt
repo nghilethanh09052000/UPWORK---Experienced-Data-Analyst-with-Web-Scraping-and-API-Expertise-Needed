@@ -1,0 +1,516 @@
+DIANTHAS_LTD - Accounts
+Company registration number
+06780034
+(England and Wales)
+DIANTHAS LTD
+UNAUDITED FINANCIAL STATEMENTS
+FOR THE PERIOD ENDED 31 JULY 2024
+PAGES FOR FILING WITH REGISTRAR
+DIANTHAS LTD
+CONTENTS
+Page
+Balance sheet
+1 - 2
+Notes to the financial statements
+3 - 7
+DIANTHAS LTD
+BALANCE SHEET
+AS AT
+31 JULY 2024
+31 July 2024
+- 1 -
+31 July 2024
+31 March 2023
+Notes
+£
+£
+£
+£
+Fixed assets
+Tangible assets
+4
+17,406
+9,596
+Current assets
+Debtors
+5
+42,889
+28,914
+Cash at bank and in hand
+22,751
+11,863
+65,640
+40,777
+Creditors: amounts falling due within one year
+6
+(
+62,817
+)
+(
+40,938
+)
+Net current assets/(liabilities)
+2,823
+(
+161
+)
+Total assets less current liabilities
+20,229
+9,435
+Creditors: amounts falling due after more than one year
+7
+(
+10,524
+)
+-
+0
+Provisions for liabilities
+(
+610
+)
+(
+1,823
+)
+Net assets
+9,095
+7,612
+Capital and reserves
+Called up share capital
+2
+2
+Profit and loss reserves
+9,093
+7,610
+Total equity
+9,095
+7,612
+DIANTHAS LTD
+BALANCE SHEET (CONTINUED)
+AS AT
+31 JULY 2024
+31 July 2024
+- 2 -
+For the financial period ended 31 July 2024 the company was entitled to exemption from audit under section 477 of the Companies Act 2006
+relating to small companies.
+T
+he members have not required the company to obtain an audit of its financial statements for the period in question in accordance with section 476
+.
+The director acknowledges her responsibilities for complying with the requirements of the Companies Act 2006 with respect to accounting records and the preparation of financial statements.
+These financial statements have been prepared and delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+The director of the company has elected not to include a copy of the profit and loss account within the financial statements.
+true
+The financial statements were approved and signed by the director and authorised for issue on
+3 January 2025
+Miss M  Connick
+Director
+Company registration number
+06780034
+(England and Wales)
+DIANTHAS LTD
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE PERIOD ENDED 31 JULY 2024
+- 3 -
+1
+Accounting policies
+Company information
+Dianthas Ltd is a
+private
+company
+limited by shares
+incorporated in
+England and Wales
+.
+The registered office is
+27 Stanley Road, New Ferry, Wirral, Merseyside, CH62 5AR.
+1.1
+Reporting period
+The company has extended their accounting period from 31 March 2024 to 31 July 2024.
+As a result, the amounts presented in the prior period (including related notes) are not entirely comparable.
+1.2
+Accounting convention
+These financial statements have been prepared in accordance with FRS 102 “The Financial Reporting Standard applicable in the UK and Republic of Ireland” (“FRS 102”) and the requirements of the Companies Act 2006 as applicable to companies subject to the small companies regime. The disclosure requirements of section 1A of FRS 102 have been applied other than where additional disclosure is required to show a true and fair view.
+The financial statements are prepared in
+sterling
+, which is the functional currency of the company.
+Monetary a
+mounts
+in these financial statements are
+rounded to the nearest £.
+The financial statements have been prepared under the historical cost convention. The principal accounting policies adopted are set out below.
+1.3
+Turnover
+Turnover is recognised at the fair value of the consideration received or receivable for services provided in the normal course of business
+,
+Revenue from contracts for the provision of services is recognised by reference to the stage of completion when the stage of completion, costs incurred and costs to complete can be estimated reliably. The stage of completion is calculated by comparing costs incurred, mainly in relation to contractual hourly staff rates and materials, as a proportion of total costs.
+Where the outcome cannot be estimated reliably, revenue is recognised only to the extent of the expenses recognised that
+it is probable will be
+recover
+ed
+.
+1.4
+Tangible fixed assets
+Tangible fixed assets
+are initially measured at cost and subsequently measured at cost or valuation, net of depreciation and any impairment losses.
+Depreciation is recognised so as to write off the cost or valuation of assets less their residual values over their useful lives on the following bases:
+Fixtures and fittings
+25% reducing balance
+Computers
+25% reducing balance
+Motor vehicles
+25% reducing balance
+The gain or loss arising on the disposal of an asset is determined as the difference between the sale proceeds and the carrying value of the asset, and
+is credited or charged to profit or loss
+.
+1.5
+Impairment of fixed assets
+At each reporting
+period
+end date, the
+company
+reviews the carrying amounts of its tangible
+assets to determine whether there is any indication that those assets have suffered an impairment loss. If any such indication exists, the recoverable amount of the asset is estimated in order to determine the extent of the impairment loss (if any). Where it is not possible to estimate the recoverable amount of an individual asset, the
+company
+estimates the recoverable amount of the cash-generating unit to which the asset belongs.
+DIANTHAS LTD
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE PERIOD ENDED 31 JULY 2024
+1
+Accounting policies
+(Continued)
+- 4 -
+1.6
+Cash and cash equivalents
+Cash and cash equivalents
+are basic financial assets
+and
+include cash in hand, deposits held at call with banks, other short-term liquid investments with original maturities of three months or less, and bank overdrafts. Bank overdrafts are shown within borrowings in current liabilities.
+1.7
+Financial instruments
+The company has elected to apply the provisions of Section 11 ‘Basic Financial Instruments’ and Section 12 ‘Other Financial Instruments Issues’ of FRS 102 to all of its financial instruments.
+Financial instruments are recognised in the company's balance sheet when the company becomes party to the contractual provisions of the instrument.
+Financial assets and liabilities are offset
+, with
+the net amounts presented in the financial statements
+,
+when there is a legally enforceable right to set off the recognised amounts and there is an intention to settle on a net basis or to realise the asset and settle the liability simultaneously.
+Basic financial assets
+Basic financial assets, which include
+debtors
+and cash and bank balances, are initially measured at transaction price including transaction costs and are subsequently carried at amortised cost using the effective interest
+method unless the arrangement constitutes a financing transaction, where the transaction is measured at the present value of the future receipts discounted at a market rate of interest.
+Financial assets classified as receivable within one year are not amortised.
+Classification of financial liabilities
+Financial liabilities and equity instruments are classified according to the substance of the contractual arrangements entered into. An equity instrument is any contract that evidences a residual interest in the assets of the company after deducting all of its liabilities.
+Basic financial liabilities
+Basic financial liabilities, including
+creditors
+, bank loans, loans from
+fellow group companies and preference shares that are classified as debt, are
+initially recognised at transaction price unless the arrangement constitutes a
+financing transaction, where the debt instrument is measured at the present value of
+the future
+paymen
+ts discounted at a market rate of interest.
+Financial liabilities classified as payable within one year are not amortised.
+Debt instruments are subsequently carried at amortised cost, using the effective
+interest rate method.
+Trade creditors
+are obligations to pay for goods or services that have been acquired
+in the ordinary course of business from suppliers. A
+m
+ounts payable are classified as
+current liabilities if payment is due within one year or less. If not, they are presented
+as non-current liabilities.
+Trade creditors
+are recognised initially at transaction price
+and subsequently measured at amortised cost using the effective interest method.
+1.8
+Equity instruments
+Equity instruments issued by the company are recorded at the proceeds received, net of transaction costs. Dividends payable on equity instruments are recognised as liabilities once they are no longer at the discretion of the company.
+1.9
+Taxation
+The tax expense represents the sum of the tax currently payable and deferred tax.
+DIANTHAS LTD
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE PERIOD ENDED 31 JULY 2024
+1
+Accounting policies
+(Continued)
+- 5 -
+Current tax
+The tax currently payable is based on taxable profit for the year. Taxable profit differs from net profit as reported in the
+profit and loss account
+because it excludes items of income or expense that are taxable or deductible in other years and it further excludes items that are never taxable or deductible. The
+company’s
+liability for current tax is calculated using tax rates that have been enacted or substantively enacted by the reporting end date.
+Deferred tax
+Deferred tax liabilities are generally recognised for all timing differences and deferred tax assets are recognised to the extent that it is probable that they will be recovered against the reversal of deferred tax liabilities or other future taxable profits. Such assets and liabilities are not recognised if the timing difference arises from goodwill or from the initial recognition of other assets and liabilities in a transaction that affects neither the tax profit nor the accounting profit.
+1.10
+Employee benefits
+The costs of short-term employee benefits are recognised as a liability and an expense, unless those costs are required to be recognised as part of the cost of stock or
+fixed assets
+.
+The cost of any unused holiday entitlement is recognised in the period in which the employee’s services are received.
+Termination benefits are recognised immediately as an expense when the company is demonstrably committed to terminate the employment of an employee or to provide termination benefits.
+1.11
+Retirement benefits
+Payments to defined contribution retirement benefit schemes are charged as an expense as they fall due.
+1.12
+Leases
+Leases are classified as finance leases whenever the terms of the lease transfer substantially all the risks and rewards of ownership to the lessees. All other leases are classified as operating leases.
+Assets held under finance leases are recognised as assets at the lower of the assets fair
+value at the date of inception and the present value of the minimum lease payments. The related liability is included in the balance sheet as a finance lease obligation. Lease payments are treated as consisting of capital and interest elements. The interest is charged to profit or loss so as to produce a constant periodic rate of interest on the remaining balance of the liability.
+Rentals payable under operating leases,
+including
+any lease incentives received, are charged to
+profit or loss
+on a straight line basis over the term of the relevant lease except where another more systematic basis is more representative of the time pattern in which economic benefits from the lease
+s
+asset are consumed.
+2
+Judgements and key sources of estimation uncertainty
+In the application of the company’s accounting policies, the director is required to make judgements, estimates and assumptions about the carrying amount of assets and liabilities that are not readily apparent from other sources. The estimates and associated assumptions are based on historical experience and other factors that are considered to be relevant. Actual results may differ from these estimates.
+The estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to accounting estimates are recognised in the period in which the estimate is revised where the revision affects only that period, or in the period of the revision and future periods where the revision affects both current and future periods.
+DIANTHAS LTD
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE PERIOD ENDED 31 JULY 2024
+- 6 -
+3
+Employees
+The average monthly number of persons (including directors) employed by the company during the period was:
+2024
+2023
+Number
+Number
+Total
+12
+11
+4
+Tangible fixed assets
+Plant and machinery etc
+£
+Cost
+At 1 April 2023
+35,123
+Additions
+16,514
+At 31 July 2024
+51,637
+Depreciation and impairment
+At 1 April 2023
+25,527
+Depreciation charged in the period
+8,704
+At 31 July 2024
+34,231
+Carrying amount
+At 31 July 2024
+17,406
+At 31 March 2023
+9,596
+5
+Debtors
+2024
+2023
+Amounts falling due within one year:
+£
+£
+Trade debtors
+32,516
+17,343
+Other debtors
+10,373
+11,571
+42,889
+28,914
+DIANTHAS LTD
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE PERIOD ENDED 31 JULY 2024
+- 7 -
+6
+Creditors: amounts falling due within one year
+2024
+2023
+£
+£
+Trade creditors
+26,715
+4,336
+Taxation and social security
+16,905
+18,987
+Other creditors
+19,197
+17,615
+62,817
+40,938
+Finance leases (included in other creditors) totalling £2,076 (2023 : £0) are secured against the assets concerned.
+7
+Creditors: amounts falling due after more than one year
+2024
+2023
+£
+£
+Other creditors
+10,524
+-
+0
+Finance leases (included in other creditors) totalling £10,524 (2023 : £0) are secured against the assets concerned.
+8
+Operating lease commitments
+Lessee
+At the reporting end date the company had outstanding commitments for future minimum lease payments under non-cancellable operating leases, as follows:
+2024
+2023
+£
+£
+16,000
+28,800
+9
+Directors' transactions
+Description
+% Rate
+Opening balance
+Amounts advanced
+Amounts repaid
+Closing balance
+£
+£
+£
+£
+Loan
+-
+10,672
+7,787
+(
+10,672
+)
+7,787
+10,672
+7,787
+(10,672)
+7,787
+2024-07-31
+2023-04-01
+false
+false
+false
+03 January 2025
+CCH Software
+CCH Accounts Production 2024.301
+Training provider
+Miss M Connick
+06780034
+2023-04-01
+2024-07-31
+06780034
+2024-07-31
+06780034
+2023-03-31
+06780034
+core:OtherPropertyPlantEquipment
+2024-07-31
+06780034
+core:OtherPropertyPlantEquipment
+2023-03-31
+06780034
+core:CurrentFinancialInstruments
+core:WithinOneYear
+2024-07-31
+06780034
+core:CurrentFinancialInstruments
+core:WithinOneYear
+2023-03-31
+06780034
+core:Non-currentFinancialInstruments
+core:AfterOneYear
+2024-07-31
+06780034
+core:Non-currentFinancialInstruments
+core:AfterOneYear
+2023-03-31
+06780034
+core:CurrentFinancialInstruments
+2024-07-31
+06780034
+core:CurrentFinancialInstruments
+2023-03-31
+06780034
+core:ShareCapital
+2024-07-31
+06780034
+core:ShareCapital
+2023-03-31
+06780034
+core:RetainedEarningsAccumulatedLosses
+2024-07-31
+06780034
+core:RetainedEarningsAccumulatedLosses
+2023-03-31
+06780034
+bus:Director1
+2023-04-01
+2024-07-31
+06780034
+core:FurnitureFittings
+2023-04-01
+2024-07-31
+06780034
+core:ComputerEquipment
+2023-04-01
+2024-07-31
+06780034
+core:MotorVehicles
+2023-04-01
+2024-07-31
+06780034
+2022-04-01
+2023-03-31
+06780034
+core:OtherPropertyPlantEquipment
+2023-03-31
+06780034
+core:OtherPropertyPlantEquipment
+2023-04-01
+2024-07-31
+06780034
+core:WithinOneYear
+2024-07-31
+06780034
+core:WithinOneYear
+2023-03-31
+06780034
+core:Non-currentFinancialInstruments
+2024-07-31
+06780034
+core:Non-currentFinancialInstruments
+2023-03-31
+06780034
+bus:Director1
+2023-03-31
+06780034
+bus:Director1
+2024-07-31
+06780034
+bus:PrivateLimitedCompanyLtd
+2023-04-01
+2024-07-31
+06780034
+bus:SmallCompaniesRegimeForAccounts
+2023-04-01
+2024-07-31
+06780034
+bus:FRS102
+2023-04-01
+2024-07-31
+06780034
+bus:AuditExemptWithAccountantsReport
+2023-04-01
+2024-07-31
+06780034
+bus:FullAccounts
+2023-04-01
+2024-07-31
+xbrli:pure
+xbrli:shares
+iso4217:GBP

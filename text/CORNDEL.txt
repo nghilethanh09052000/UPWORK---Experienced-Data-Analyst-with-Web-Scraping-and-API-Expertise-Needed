@@ -1,0 +1,1842 @@
+Registered number: 10369857
+
+CORNDEL LIMITED
+
+ANNUAL REPORT AND FINANCIAL STATEMENTS
+
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+-
+*
+
+>
+<=
+13
+I wo
+Fs ‘ADBH3049*
+A33 12/09/2024 #3
+
+COMPANIES HOUSE
+
+seo le
+
+CORNDEL LIMITED
+
+Directors
+
+Registered number
+
+Registered office
+
+Independent auditor
+
+COMPANY INFORMATION
+
+JN Kelly
+S Cosgrove
+T JH Wethered
+
+10369857
+
+5th Floor 80 Old Street
+London
+
+England
+
+EC1V 9AZ
+
+CLA Evelyn Partners Limited
+
+Statutory Auditor & Chartered Accountants
+45 Gresham Street
+
+London
+
+EC2V 7BG
+
+CORNDEL LIMITED
+
+CONTENTS
+
+Page
+Strategic Report 1-2
+Directors’ Report 3-5
+Directors’ Responsibilities Statement 6
+Independent Auditor's Report 7-10
+Statement of Comprehensive Income 11
+Balance Sheet le
+Statement of Changes in Equity 13
+Statement of Cash Flows 14-15
+Analysis of Net Debt 16
+
+Notes to the Financial Statements 17 - 32
+
+CORNDEL LIMITED
+
+STRATEGIC REPORT
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+Introduction and principal activity
+
+Corndel is a unique, multi-award-winning UK management and technology training provider. At our heart,
+Corndel exists to provide brilliant, people-based training. This disruptive focus on training brilliance, with
+one-to-one coaching from commercial experts at its heart, has made us the go-to provider for large
+multinational clients focused on quality. Corndel is one of the Uk's largest providers of data analytics and
+management apprenticeship programmes. We use the Apprenticeship Levy to deliver this high-quality
+training with no further cost to customers.
+
+Business review
+
+The business continues to perform strongly with revenue at £37.4m, up 25.4% on last year. This has been
+achieved by continuing to build strong relationships with large corporates and providing tailored
+programmes to meet their digital and management training needs. We have won several awards for our
+training provision and growth.
+
+This led to the following improvement in KPIs for the underlying Corndel business:
+
+2023 2022 Change
+Turnover , £37.4m £29.8m 25.4%
+Net profit £5.6m £3.4m 66.4%
+Learner numbers (000s) 5.5 41 33.2%
+
+Our continued investment in sales and marketing has delivered growth in the business together with the
+launch of a number of new business initiatives. During 2023 we continued with some restructuring activities
+to assist future growth.
+
+Principal risks and uncertainties
+
+The Company's approach to risk management involves regularly identifying and reviewing material risks
+within our Senior Leadership Team. These are presented for consideration and approval at board level. This
+section highlights some of the key risks and uncertainties which affect the Company and how they are
+mitigated. :
+
+Strategic & Economic Risks
+
+We are experiencing inflationary pressure relating to staff pay, staff retention, utility and supplier costs. With
+the support of employers, we are working with government and trade bodies to uplift the funding rate for
+our core government backed funding programmes. On 31 July 2024 we received notification that two of our
+programmes would receive an uplift to their funding which will help to mitigate the inflationary cost
+pressures experienced.
+
+In July 2024 the UK elected a new government and there is potential for policy change with the levy. The
+
+Group continues to monitor developments and believes that we are in a good position if any change does
+occur,
+
+Page 1
+
+CORNDEL LIMITED
+
+STRATEGIC REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+Financial Risks
+
+The Company's financial instruments comprise of cash and cash equivalents and items such as trade
+creditors and trade debtors which arise directly from its operations. The main purpose of these financial
+instruments is to provide finance for the Company's operations.
+
+The Company's operations expose it to a variety of financial risks including credit risk, liquidity risk, and
+foreign currency exchange rate risk. The policies set by the board of directors are implemented by the
+Company's finance department.
+
+Credit risk
+The Company's credit risk is primarily attributable to its trade debtors. The vast majority of this relates to UK
+government backed debtors. The carrying amount of financial assets represents the maximum credit
+exposure.
+
+Liquidity risk
+
+The Company has no external debt. It monitors its levels of working capital to ensure that it can meet
+operational obligations as they fall due. The Company's financial liabilities (none of which are derivative
+financial liabilities) comprise trade creditors. The trade creditors are all payable within twelve months.
+
+Foreign currency exchange rate risk
+The Company is exposed to an immaterial foreign currency exchange rate risk as a result of trade creditors
+which will be settled in dollars. Accordingly, it does not hedge any of its trading activities.
+
+Operational Risks
+
+Significant cyber security breach or outage
+The Company has invested in secure IT platforms and obtained IT security accreditation, meeting the
+stringent requirements set by major investment banks as a prerequisite for delivering training to them.
+Additionally, the Company has achieved and maintains Cyber Essentials and Cyber Essentials Plus
+accreditation, which is renewed annually.
+
+Recruitment and retention of key employees
+
+The Company attracts and retains staff through a positive. hyperflexible, people led working environment:
+the majority of our staff are home-based, with a large portion working part-time to facilitate other life
+commitments. Remuneration packages include longer term incentives aligning personal success to that of
+the business.
+
+Regulatory risks :
+Internal processes and policies are designed to meet regulatory requirements, including a dedicated team
+focused on ESFA and Ofsted best practice, data protection, whistleblowing, safeguarding and other policies.
+
+This report was approved by the board and signed on its behalf.
+
+we kelly (Sep 6, = 21:11 GMT#3)
+
+JN Kelly
+Director
+
+Date: 06/09/2024
+
+
+CORNDEL LIMITED
+
+DIRECTORS’ REPORT
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+The directors present their report and the financial statements for the year ended 31 December 2023.
+Results and dividends
+The profit for the year, after taxation, amounted to £5,644,664 (2022 - £3,392,688).
+
+During the year, dividends were paid totalling £2,255,000 (2022 - £2,000,000) and declared totalling
+£2,255,000 (2022 - £2,000,000).
+
+Directors
+The directors who served during the year were:
+
+JN Kelly
+
+S Cosgrove (appointed 17 March 2023)
+K G Rose (resigned 17 March 2023)
+
+T JH Wethered (appointed 9 May 2023)
+
+Future developments
+
+The Company intends to continue to grow its highly successful apprenticeship provision. It intends to also
+expand its commercial training offering. wider education provision, and higher education provision.
+
+To further enhance the Company's programme offering, effective from 1 September 2023, Corndel Limited,
+acquired the proprietary content and operations relating to Software Developer and DevOps Engineer
+Apprenticeships, from its existing delivery partner.
+
+Engagement with employees
+
+The Company is promoting a culture of continuous improvement through investment in people at all levels
+within the Company. The Company is committed to pursuing equality and diversity in all its employment
+activities including recruitment. training, career development and promotion and ensuring there is no bias or
+discrimination in the treatment of people. Management perform a number of “Pulse” staff surveys during the
+financial year to best ascertain the concerns, aspirations and needs of the employees. Staff welfare and
+benefits policies are shaped around the feedback from the employees.
+
+Engagement with suppliers, customers and others
+The Company focuses on responding to the needs of, and building long-term relationships with, all key
+
+stakeholders in and connected to the business. We communicate continuously to ensure key stakeholder
+retention which is important to keep the business ongoing to deliver the best care for our service users.
+
+Page 3
+
+CORNDEL LIMITED
+
+DIRECTORS' REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+Disabled employees
+
+The Company is committed to being a fully accessible employer to disabled people. including job
+applicants and employees, allowing that they should be able to participate in all of the Company's activities
+fully, on an equal basis with people who are not disabled. Equity. Diversity and Inclusion are central to the
+culture at Corndel and following on from achieving our Disability Confident Employer status at the end of
+2022 we wish to improve upon the percentage of our employees who identify as having a disability. Our
+performance in this area is tracked through the BambooHR platform.
+
+In 2023 the Company has taken steps to develop the recruitment process and improve external
+communication of our company culture to increase the number of job candidates who have a disability. This
+is in addition to activity promoting our Disability Confident Employer status, providing events, training and
+resources internally to raise visibility and awareness of disability in order to educate and build belonging.
+We do this by:
+
+Providing an inclusive and accessible recruitment process:
+
+Being flexible when assessing people, so disabled job applicants have the best opportunity to
+demonstrate that they can do the job:
+
+Inviting for interview all disabled applicants who meet the minimum criteria for the role; and
+
+Making reasonable adjustments as required which are specific to the individual.
+
+Where existing employees become disabled. it is the Company's policy wherever practicable to make every
+effort to ensure that they stay in continuous employment and provide training and career development and
+promotion to disabled employees where appropriate.
+
+Streamlined Energy and Carbon Reporting (SECR)
+
+The following figures show the consumption and associated emissions for this reporting year for our
+operations. In the prior year the Company was exempt from such disclosures as it fell below the de minimis
+limit of 40,000 kw/h. As such, no comparative information has been disclosed.
+
+Methodology used
+
+Scope 1: Consumption and emissions relate to indirect emissions relating to the consumption of purchased
+electricity in day-to-day business operations.
+
+Scope 2: Consumption and emissions relate to direct combustion of natural gas, and fuels used for
+transportation operations.
+
+The total consumption (kWh) figures for energy supplies reportable by the Company are as follows:
+
+2023
+Energy Source Scope Consumption (kWh)
+Gas (e)
+Electricity Scope 1 27,848
+Transport Scope 2 21,163
+Total 49,011
+
+Page 4
+
+CORNDEL LIMITED
+
+DIRECTORS' REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+The total consumption (tCO2e) figures for energy supplies reportable by the Company are as follows:
+
+2023
+Energy Source Scope Consumption (tCO2e)
+Gas °
+Electricity Scope 1 5.77
+Transport Scope 2 492
+Total 10.69
+
+Intensity Metric
+An intensity metric of tCO2e per learner has been applied for the annual total emissions of the Company.
+
+The result of this analysis is as follows:
+
+2023
+Intensity Metric UK Intensity Metric
+tCO2e / learner 0.0020
+Total 0.0020
+
+In 2023 the Company had emissions from both electricity consumption at our Head Office and via
+employee mileage. In total the Company had 49,011 kW/h which equates to 10.7 tCO2. The Company has
+set an intensity ratio of emissions by learner which for 2023 is 0.002. The Company continues to monitor its
+emissions and looks to minimise where possible.
+
+Disclosure of information to auditor
+
+Each of the persons who are directors at the time when this Directors’ Report is approved has confirmed
+that:
+
+. so far as the director is aware, there is no relevant audit information of which the Company's auditor is
+unaware, and
+
+the director has taken all the steps that ought to have been taken as a director in order to be aware of
+any relevant audit information and to establish that the Company's auditor is aware of that information.
+
+Post balance sheet events
+Subsequent to the balance sheet date the Company declared interim dividends totaling £2,140,000.
+Auditor
+
+The auditor, CLA Evelyn Partners Limited, will be proposed for reappointment in accordance with section
+485 of the Companies Act 2006.
+
+This report was approved by the board and signed on its behalf.
+
+we Kelly (Sep 6, fy 21:11 GMT#1)
+
+JN Kelly
+Director
+
+Date, 06/09/2024
+
+Page 5
+
+CORNDEL LIMITED
+
+DIRECTORS’ RESPONSIBILITIES STATEMENT
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+The directors are responsible for preparing the Strategic Report, the Directors’ Report and the financial
+statements in accordance with applicable law and regulations.
+
+Company law requires the directors to prepare financial statements for each financial year. Under that law
+the directors have elected to prepare the financial statements in accordance with applicable law and United
+Kingdom Accounting Standards (United Kingdom Generally Accepted Accounting Practice), including
+Financial Reporting Standard 102 ‘The Financial Reporting Standard applicable in the UK and Republic of
+ireland’. Under company law the directors must not approve the financial statements unless they are
+satisfied that they give a true and fair view of the state of affairs of the Company and of the profit or loss of
+the Company for that period.
+
+In preparing these financial statements, the directors are required to:
+
+. select suitable accounting policies for the Company's financial statements and then apply them
+consistently:
+
+make judgements and accounting estimates that are reasonable and prudent:
+state whether applicable UK Accounting Standards have been followed, subject to any material
+departures disclosed and explained in the financial statements; and
+
+prepare the financial statements on the going concern basis unless it is inappropriate to presume that
+the Company will continue in business.
+
+The directors are responsible for keeping adequate accounting records that are sufficient to show and
+explain the Company's transactions and disclose with reasonable accuracy at any time the financial position
+of the Company and to enable them to ensure that the financial statements comply with the Companies Act
+2006. They are also responsible for safeguarding the assets of the Company and hence for taking
+reasonable steps for the prevention and detection of fraud and other irregularities.
+
+Page 6
+
+evelyn
+
+PARTNERS
+
+INDEPENDENT AUDITOR'S REPORT TO THE MEMBERS OF CORNDEL LIMITED
+
+Opinion
+
+We have audited the financial statements of Corndel Limited (the ‘Company’') for the year ended 31
+December 2023 which comprise the Statement of Comprehensive Income, the Balance Sheet, the
+Statement of Changes in Equity, the Statement of Cash Flows, the Analysis of Net Debt and the notes to the
+financial statements, including significant accounting policies. The financial reporting framework that has
+been applied in their preparation is applicable law and United Kingdom Accounting Standards, including
+FRS 102 “The Financial Reporting Standard applicable in the UK and Republic of Ireland” (United Kingdom
+Generally Accepted Accounting Practice).
+
+In our opinion, the financial statements:
+
+e give a true and fair view of the state of the Company's affairs as at 31 December 2023 and of its profit
+for the year then ended;
+
+. have been properly prepared in accordance with United Kingdom Generally Accepted Accounting
+Practice; and
+
+. have been prepared in accordance with the requirements of the Companies Act 2006.
+
+Basis for opinion
+
+We conducted our audit in accordance with International Standards on Auditing (UK) (ISAs (UK) and
+applicable law. Our responsibilities under those standards are further described in the Auditor's
+responsibilities for the audit of the financial statements section of our report. We are independent of the
+Company in accordance with the ethical requirements that are relevant to our audit of the financial
+statements in the UK, including the FRC's Ethical Standard, and we have fulfilled our other ethical
+responsibilities in accordance with these requirements. We believe that the audit evidence we have
+obtained is sufficient and appropriate to provide a basis for our opinion.
+
+Conclusions relating to going concern
+In auditing the financial statements, we have concluded that the directors’ use of the going concern basis of
+accounting in the preparation of the financial statements is appropriate.
+
+Based on the work we have performed, we have not identified any material uncertainties relating to events
+or conditions that, individually or collectively, may cast significant doubt on the Company's ability to
+continue as a going concern for a period of at least twelve months from when the financial statements are
+authorised for issue.
+
+Our responsibilities and the responsibilities of the directors with respect to going concern are described in
+the relevant sections of this report.
+
+Page 7
+
+CORNDEL LIMITED
+
+INDEPENDENT AUDITOR'S REPORT TO THE MEMBERS OF CORNDEL LIMITED
+
+Other information
+
+The other information comprises the information included in the Annual Report and Financial Statements,
+other than the financial statements and our auditor's report thereon. The directors are responsible for the
+other information contained within the Annual Report and Financial Statements. Our opinion on the financial
+statements does not cover the other information and, except to the extent otherwise explicitly stated in our
+report, we do not express any form of assurance conclusion thereon. Our responsibility is to read the other
+information and, in doing so, consider whether the other information is materially inconsistent with the
+financial statements or our knowledge obtained in the course of the audit or otherwise appears to be
+materially misstated. If we identify such material inconsistencies or apparent material misstatements, we are
+required to determine whether this gives rise to a material misstatement in the financial statements
+themselves. If. based on the work we have performed, we conclude that there is a material misstatement of
+this other information, we are required to report that fact.
+
+We have nothing to report in this regard.
+
+Opinions on other matters prescribed by the Companies Act 2006
+
+In our opinion, based on the work undertaken in the course of the audit:
+
+° the information given in the Strategic Report and the Directors’ Report for the financial year for which
+the financial statements are prepared is consistent with the financial statements; and
+
+. the Strategic Report and the Directors’ Report have been prepared in accordance with applicable
+legal requirements.
+
+Matters on which we are required to report by exception
+In the light of the knowledge and understanding of the Company and its environment obtained in the course
+of the audit, we have not identified material misstatements in the Strategic Report or the Directors’ Report.
+
+We have nothing to report in respect of the following matters in relation to which the Companies Act 2006
+requires us to report to you if, in our opinion:
+. adequate accounting records have not been kept, or returns adequate for our audit have not been
+received from branches not visited by us; or
+the financial statements are not in agreement with the accounting records and returns; or
+certain disclosures of directors’ remuneration specified by law are not made; or
+we have not received all the information and explanations we require for our audit.
+
+Responsibilities of directors
+
+As explained more fully in the Directors’ Responsibilities Statement set out on page 5, the directors are
+responsible for the preparation of the financial statements and for being satisfied that they give a true and
+fair view, and for such internal control as the directors determine is necessary to enable the preparation of
+financial statements that are free from material misstatement, whether due to fraud or error.
+
+in preparing the financial statements, the directors are responsible for assessing the Company's ability to
+continue as a going concern, disclosing, as applicable, matters related to going concern and using the going
+concern basis of accounting unless the directors either intend to liquidate the Company or to cease
+operations, or have no realistic alternative but to do so.
+
+Page 8
+
+CORNDEL LIMITED
+
+INDEPENDENT AUDITOR'S REPORT TO THE MEMBERS OF CORNDEL LIMITED
+
+Auditor's responsibilities for the audit of the financial statements
+
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are
+free from material misstatement. whether due to fraud or error, and to issue an auditor's report that includes
+our opinion. Reasonable assurance is a high level of assurance but is not a guarantee that an audit
+conducted in accordance with ISAs (UK) will always detect a material misstatement when it exists.
+Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate,
+they could reasonably be expected to influence the economic decisions of users taken on the basis of these
+financial statements.
+
+Irregularities, including fraud, are instances of non-compliance with laws and regulations. We design
+procedures in line with our responsibilities, outlined above, to detect material misstatements in respect of
+irregularities, including fraud. The extent to which our procedures are capable of detecting irregularities,
+including fraud is detailed below:
+
+We obtained a general understanding of the Company's legal and regulatory framework through enquiry of
+management concerning their understanding of relevant laws and regulations, the entity's policies and
+procedures regarding compliance, and how they identify, evaluate and account for litigation claims. We also
+drew on our existing understanding of the Company's industry and regulation.
+
+We understand that the Company comply with the framework through:
+
+e The directors’ close involvement in the day-to-day running of the business, meaning that any litigation
+or claims would come to their attention directly:
+Having dedicated teams responsible for monitoring any developments; and
+Subscribing to relevant updates from external experts, and making changes to internal procedures and
+controls as necessary.
+
+In the context of the audit, we considered those laws and regulations which determine the form and content
+
+of the financial statements and which are central to the Company's ability to conduct its business and where
+
+failure to comply could result in material penalties. We identified the following laws and regulations as
+
+being of significance in the context of the Company:
+
+* The Companies Act 2006 and FRS 102 in respect of the preparation and presentation of the financial
+statements.
+
+« Ofsted, and results of inspections, in respect of delivering high quality teaching and courses which is
+fundamental in the entity's ability to continue as a going concern.
+
+e Compliance with the Education & Skills Funding Agency (ESFA) rules and requirements in respect of the
+funding that is received.
+
+We performed the following specific procedures to gain evidence about compliance with the significant
+
+laws and regulations identified above:
+
+¢ We enauired with the Company's management as to the existence of litigation and no material items
+were identified;
+
+« We obtained written management representations regarding disclosure of any non-compliance with
+laws and regulations;
+
+e We reviewed board minutes of the Company to identify if there were any litigation or claims being
+discussed that had not been disclosed to us by management.
+
+e We reviewed relevant correspondence with Ofsted and the ESFA.
+
+The senior statutory auditor led a discussion with senior members of the engagement team regarding the
+susceptibility of the entity's financial statements to material misstatement, including how fraud might occur.
+The key area identified in this discussion was the manipulation of the financial statements through manual
+journal entries and incorrect recognition of revenue.
+
+Page 9
+
+CORNDEL LIMITED
+
+INDEPENDENT AUDITOR'S REPORT TO THE MEMBERS OF CORNDEL LIMITED
+
+The procedures we carried out to gain evidence in the above area included:
+
+e Testing journal entries, selected based on specific risk assessments applied based on the Company's
+processes and controls surrounding manual journals.
+
+« Testing of revenue transactions to underlying documentation.
+
+The senior statutory auditor was satisfied that the engagement team collectively had the appropriate
+competence and capabilities to identify or recognise irregularities.
+
+A further description of our responsibilities is available on the Financial Reporting Council's website at:
+www. frc.org.uk/auditorsresponsibilities. This description forms part of our auditor's report.
+
+Use of our report
+
+This report is made solely to the Company's members, as a body, in accordance with Chapter 3 of Part 16 of
+the Companies Act 2006. Our audit work has been undertaken so that we might state to the Company's
+members those matters we are required to state to them in an auditor's report and for no other purpose. To
+the fullest extent permitted by law, we do not accept or assume responsibility to anyone other than the
+Company and the Company's members as a body, for our audit work, for this report, or for the opinions we
+have formed.
+
+Timothy Adams
+Timothy Adams (Sep 6, 2024 21:13 GMT+1)
+
+Timothy Adams (Senior Statutory Auditor)
+
+for and on behalf of
+CLA Evelyn Partners Limited
+
+Statutory Auditor
+Chartered Accountants
+
+45 Gresham Street
+London
+
+EC2V 7BG
+
+Date: 06/09/2024
+
+Page 10
+
+CORNDEL LIMITED
+
+STATEMENT OF COMPREHENSIVE INCOME
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+2023
+Note £
+Turnover 4 37,408,065
+Cost of sales (19,808,427)
+Gross profit 17,599,638
+Administrative expenses (11,410,479)
+Operating profit 5 6,189,159
+Interest receivable and similar income 9 47,812
+Interest payable and similar expenses 10 (64,255)
+Profit before tax 6,172,716
+Tax on profit lt (528,052)
+Profit for the financial year 5,644,664
+
+There was no other comprehensive income for 2023 (2022 - ENiD).
+
+The notes on pages 17 to 32 form part of these financial statements.
+
+2022
+£
+
+29,824,331
+(16,147,273)
+
+13,677,058
+
+(9,528,102)
+
+4,151,956
+
+13,140
+
+4,165,096
+
+(772,408)
+
+3,392,688
+
+Page 11
+
+CORNDEL LIMITED
+REGISTERED NUMBER:10369857
+
+BALANCE SHEET
+AS AT 31 DECEMBER 2023
+2023 2022
+Note £ £
+Fixed assets
+Intangible assets 13 4,857,585 1,463,848
+Tangible assets 14 217,428 123,334
+5,075,013 1,587,182
+Current assets
+Debtors: amounts falling due within one
+year 15 6,814,381 3,347,525
+Cash at bank and in hand 3,847,726 4,752,016
+10,662,107 8,099,541
+Creditors: amounts falling due within one
+year 16 (6,946,759) (4,808,164)
+Net current assets 3,715,348 3,291,377
+Total assets less current liabilities 8,790,361 4,878,559
+Provisions for liabilities
+Deferred tax 7 (552,972) (30,834)
+Net assets 8,237,389 4,847,725
+Capital and reserves
+Called up share capital 18 100 100
+Share premium account 19 1,913,055 1,913,055
+Capital redemption reserve 19 15 15
+Capital contribution reserve 19 505,502 505,502
+Profit and loss account 19 §,818,717 2,429,053
+Shareholders’ funds 8,237,389 4,847,725
+
+The financial statements were approved and authorised for issue by the board and were signed on its
+behalf by:
+
+me kelly (Sep 6, ee 21:11 GMT#1)
+
+JN Kelly
+Director
+
+Date, 26/09/2024
+
+The notes on pages 17 to 32 form part of these financial statements.
+
+Page 12
+
+CORNDEL LIMITED
+
+At 1 January 2022
+
+Comprehensive income for the year
+Profit for the year
+
+Contributions by and distributions to owners
+Dividends: Equity capital
+At 1 January 2023
+
+Comprehensive income for the year
+Profit for the year
+
+Contributions by and distributions to owners
+Dividends: Equity capital
+
+At 31 December 2023
+
+STATEMENT OF CHANGES IN EQUITY
+
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+Share Capital Capital
+
+Called up Premium redemption contribution Profit and
+share capital account reserve reserve lossaccount Total equity
+£ £ £ £ £ £
+100 1,913,055 15 505,502 1,036,365 3,455,037
+- - 7 - 3,392,688 3,392,688
+- - - = (2,000,000) (2,000,000)
+100 1,913,055 15 605,502 2,429,053 4,847,725
+- - 7 | 5,644,664 5,644,664
+- - - - (2,255,000) (2,255,000)
+100 1,913,055 15 505,502 5,818,717 8,237,389
+
+Page 13
+
+CORNDEL LIMITED
+
+STATEMENT OF CASH FLOWS
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+Cash flows from operating activities
+
+Profit for the financial year
+Adjustments for.
+
+Amortisation of intangible assets
+Depreciation of tangible assets
+Loss on disposal of fixed assets
+Interest paid
+
+Interest received
+
+Taxation charge
+
+Increase in debtors
+
+Increase in creditors
+Corporation tax paid
+
+Net cash generated from operating activities
+
+Cash flows from investing activities
+
+Purchase of intangible fixed assets
+Transfer of intangible assets
+Purchase of tangible fixed assets
+Interest received
+
+Cash paid on business combination
+Directly attributable costs
+
+Net cash used in investing activities
+
+Cash flows from financing activities
+Dividends paid
+
+Net cash used in financing activities
+
+2023
+£
+
+5,644,664
+
+699,845
+174,116
+12,341
+64,255
+(47,812)
+528,052
+(3,440,358)
+1,320,588
+(911,66)
+
+4,044,030
+
+(554,359)
+79,878
+(280,55D
+47,812
+(1,846,000)
+(140,100)
+
+(2,693,320)
+
+(2,255,000)
+
+(2,255,000)
+
+2022
+
+3,392,688
+
+395,837
+191,566
+117,770
+(13,140)
+772,408
+(731,120)
+857,836
+(201,000)
+
+4,782,845
+
+(895,67)
+(96,635)
+13,140
+
+(979,166)
+
+(2,000,000)
+
+(2,000,000)
+
+Page 14
+
+CORNDEL LIMITED
+
+STATEMENT OF CASH FLOWS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+2023 2022
+£ £
+Net (decrease)/increase in cash and cash equivalents (904,290) 1,803,679
+Cash and cash equivalents at beginning of year 4,752,016 2,948,337
+Cash and cash equivatents at the end of year 3,847,726 4,752,016
+———=  ——————
+
+Cash and cash equivalents at the end of year comprise:
+Cash at bank and in hand 3,847,726 4,752,016
+
+Page 15
+
+CORNDEL LIMITED
+
+ANALYSIS OF NET DEBT
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+At 31
+
+At 1 January December
+2023 Cash flows 2023
+
+£ £ £
+
+Cash at bank and in hand 4,752,016 (904,290) 3,847,726
+
+ee
+Page 16
+
+CORNDEL LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+L
+
+N
+
+General information
+
+Corndel Limited is a private company, limited by shares, domiciled and incorporated in England and
+Wales (registered number: 10369857). The registered office address is 5th Floor 80 Old Street,
+London, England, EC1V 9AZ.
+
+Accounting policies
+
+21
+
+Basis of preparation of financial statements
+
+The financial statements have been prepared under the historical cost convention unless
+otherwise specified within these accounting policies and in accordance with Financial Reporting
+Standard 102, the Financial Reporting Standard applicable in the UK and the Republic of Ireland
+and the Companies Act 2006.
+
+The preparation of financial statements in compliance with FRS 102 requires the use of certain
+critical accounting estimates. It also requires management to exercise judgement in applying the
+Company's accounting policies (see note 3).
+
+The following principal accounting policies have been applied:
+Going concern
+
+As at 31 December 2023, the Company had net current assets of £3.715,348 and generated
+EBITDA in the 12 months to 31 December 2023 of £6.979,535. As at 31 December 2023 and at the
+signing of these financial statements, the Company has no external debt, it had a cash balance of
+£3,847,726 as at 31 December 2023 and is not reliant upon the financial support of third parties.
+Forecasts prepared by management show the Company is expected to remain cash generative
+and to generate positive EBITDA for the foreseeable future being a period of at least 12 months
+from the signing of these financial statements. The Company has demonstrated its resilience
+through Covid, increasing profits, and has the ability to modify its cost base if required. For this
+reason, the directors have prepared the financial statements on a going concern basis.
+
+Foreign currency translation
+
+Functional and presentation currency
+
+The Company's functional and presentational currency is GBP.
+Transactions and balances
+
+Foreign currency transactions are translated into the functional currency using the spot
+exchange rates at the dates of the transactions.
+
+At each period end foreign currency monetary items are translated using the closing rate. Non-
+monetary items measured at historical cost are transtated using the exchange rate at the date of
+the transaction and non-monetary items measured at fair value are measured using the
+exchange rate when fair value was determined.
+
+Foreign exchange gains and losses resulting from the settlement of transactions and from the
+
+translation at period-end exchange rates of monetary assets and liabilities denominated in
+foreign currencies are recognised in profit or loss.
+
+Page 17
+
+CORNDEL LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+2. Accounting policies (continued)
+2.4 Turnover
+
+Turnover is recognised to the extent that it is probable that the economic benefits will flow to the
+Company and the turnover can be reliably measured. Turnover is measured as the fair value of
+the consideration received or receivable, excluding discounts, rebates, value added tax and
+other sales taxes. The following criteria must also be met before turnover is recognised:
+
+Rendering of services
+
+Turnover from a contract to provide services is recognised in the period in which the services are
+provided in accordance with the stage of completion of the contract when all of the following
+conditions are satisfied:
+
+. the amount of turnover can be measured reliably:
+. it is probable that the Company will receive the consideration due under the contract;
+
+. the stage of completion of the contract at the end of the reporting period can be
+measured reliably; and
+
+. the costs incurred and the costs to complete the contract can be measured reliably.
+25 Operating leases: the Company as lessee
+
+Rentals paid under operating leases are charged to profit or loss on a straight-line basis over the
+lease term.
+
+Benefits received and receivable as an incentive to sign an operating lease are recognised on a
+straight-line basis over the lease term, unless another systematic basis is representative of the
+time pattern of the lessee’s benefit from the use of the leased asset.
+
+26 Interest income
+
+Interest income is recognised in profit or loss using the effective interest method.
+
+Page 18
+
+CORNDEL LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+2. Accounting policies (continued)
+
+27
+
+29
+
+Intangibte assets
+Goodwill
+
+Goodwill represents the difference between amounts paid on the cost of a business combination
+and the acquirer's interest in the fair value of its identifiable assets and liabilities of the acquiree
+at the date of acquisition. Subsequent to initial recognition, goodwill is measured at cost less
+accumulated amortisation and accumulated impairment losses. Goodwill is amortised on a
+straight line basis to the Statement of Comprehensive Income over its useful economic life of 5
+years.
+
+Other intangible assets
+
+Intangible assets are initially recognised at cost. After recognition, under the cost model,
+intangible assets are measured at cost less any accumulated amortisation and any accumulated
+impairment losses.
+
+Internally and externally generated content is capitalised as intangible fixed assets as it is an
+identifiable non-monetary asset without physical substance whose costs can be reliably
+estimated. and it is probable that future economic benefits that are attributable to the asset will
+flow to the Company.
+
+Internally and externally generated content is amortised over five years using the straight-line
+basis. The directors have estimated the five year useful life of the intangible assets. being
+educational content.
+
+impairment of intangible assets
+
+Intangible assets are assessed for indicators of impairment at each reporting date. If there is
+objective evidence of impairment, an impairment loss is recognised in profit or loss.
+
+Tangible fixed assets
+
+Tangible fixed assets under the cost model are stated at historical cost less accumulated
+depreciation and any accumulated impairment losses. Historical cost includes expenditure that is
+directly attributable to bringing the asset to the location and condition necessary for it to be
+capable of operating in the manner intended by management.
+
+Depreciation is charged so as to allocate the cost of assets less their residual value over their
+estimated useful lives, as follows.
+
+Depreciation is provided on the following basis:
+
+Computer equipment - straight-line over 2 years
+The assets’ residual values, useful lives and depreciation methods are reviewed, and adjusted
+prospectively if appropriate, or if there is an indication of a significant change since the last
+reporting date.
+
+Gains and losses on disposals are determined by comparing the proceeds with the carrying
+amount and are recognised in profit or loss.
+
+Page 19
+
+CORNDEL LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+2. Accounting policies (continued)
+2.10 Pensions
+Defined contribution pension plan
+
+The Company operates a defined contribution plan for its employees. A defined contribution plan
+is a pension plan under which the Company pays fixed contributions into a separate entity. Once
+the contributions have been paid the Company has no further payment obligations.
+
+The contributions are recognised as an expense in profit or loss when they fall due. Amounts not
+paid are shown in accruals as a liability in the Balance Sheet. The assets of the plan are held
+separately from the Company in independently administered funds.
+
+2.11 Employment benefits
+
+Short-term employee benefits including holiday pay and annual bonuses are accrued as services
+are rendered.
+
+2.12 Provisions for liabilities
+
+Provisions are made where an event has taken place that gives the Company a legal or
+constructive obligation that probably requires settlement by a transfer of economic benefit, and
+a reliable estimate can be made of the amount of the obligation.
+
+Provisions are charged as an expense to profit or loss in the year that the Company becomes
+aware of the obligation, and are measured at the best estimate at the balance sheet date of the
+expenditure required to settle the obligation, taking into account relevant risks and uncertainties.
+
+When payments are eventually made, they are charged to the provision carried in the Balance
+Sheet.
+
+2.13 Financial instruments
+
+Financial assets and financial liabilities are recognised in the Balance Sheet when the Company
+becomes a party to the contractual provisions of the instrument.
+
+Trade and other debtors and creditors are classified as basic financial instruments and measured
+at initial recognition at transaction price. A provision is established when there is objective
+evidence that the Company will not be able to collect all amounts due.
+
+Cash and cash equivalents are classified as basic financial instruments and comprise cash in
+hand and at bank, short-term bank deposits with an original maturity of three months or less and
+bank overdrafts which are an integral part of the Company's cash management.
+
+Financial liabilities and equity instruments issued by the Company are classified in accordance
+with the substance of the contractual arrangements entered into and the definitions of a financial
+liability and an equity instrument. An equity instrument is any contract that evidences a residual
+interest in the assets of the Company after deducting all of its liabilities. Equity instruments
+issued by the Company are recorded at the proceeds received, net of direct issue costs.
+
+Page 20
+
+CORNDEL LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+2. Accounting policies (continued)
+2.13 Financial instruments (continued)
+
+Interest bearing bank loans, overdrafts and other loans which meet the criteria to be classified as
+basic financial instruments are initially recorded at the present value of cash payable to the bank,
+which is ordinarily equal to the proceeds received net of direct issue costs. These liabilities are
+subsequently measured at amortised cost, using the effective interest rate method.
+
+2.14 Current and deferred taxation
+
+The tax expense for the year comprises current and deferred tax. Tax is recognised in profit or
+loss except that a charge attributable to an item of income and expense recognised as other
+comprehensive income or to an item recognised directly in equity is also recognised in other
+comprehensive income or directly in equity respectively.
+
+The current income tax charge is calculated on the basis of tax rates and laws that have been
+enacted or substantively enacted by the balance sheet date in the countries where the Company
+operates and generates income.
+
+Deferred tax balances are recognised in respect of all timing differences that have originated but
+not reversed by the balance sheet date, except that:
+
+e The recognition of deferred tax assets is limited to the extent that it is probable that they
+will be recovered against the reversal of deferred tax liabilities or other future taxable
+profits; and
+
+. Any deferred tax balances are reversed if and when all conditions for retaining associated
+tax allowances have been met.
+
+Deferred tax balances are not recognised in respect of permanent differences except in respect
+of business combinations, when deferred tax is recognised on the differences between the fair
+values of assets acquired and the future tax deductions available for them and the differences
+between the fair values of liabilities acquired and the amount that will be assessed for tax.
+Deferred tax is determined using tax rates and laws that have been enacted or substantively
+enacted by the balance sheet date.
+
+2.15 Dividends
+Equity dividends are recognised when they become legally payable. Interim equity dividends are
+
+recognised when paid. Final equity dividends are recognised when approved by the
+shareholders at an annual general meeting.
+
+Page 21
+
+CORNDEL LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+w
+
+Accounting policies (continued)
+2.16 Business Combinations
+
+Business combinations are accounted for using the acquisition method as at the acquisition date,
+which is the date on which control is transferred to the Company.
+
+The cost of a business combination is the fair values of the assets transferred, the liabilities
+incurred and the equity interests issued by the Company in exchange for control and the costs
+directly attributable to the business combination.
+
+The consideration transferred includes the estimate of any asset or liability resulting from a
+contingent consideration arrangement where the transfer of further consideration is probable
+and can be measured reliably. Identifiable assets acquired and liabilities and contingent liabilities
+assumed in the business combination are measured initially at their fair values at the acquisition
+date. Contingent liabilities are only recognised where the fair value can be measured reliably.
+
+Judgements in applying accounting policies and key sources of estimation uncertainty
+
+The preparation of financial statements in conformity with generally accepted accounting practice
+requires management to make estimates and judgements that affect the reported amounts of assets
+and liabilities as well as the disclosure of contingent assets and liabilities at the balance sheet date
+and the reported amounts of revenues and expenses during the reporting period.
+
+The directors consider that the following judgements have had the most significant effect on amounts
+recognised in the financial statements:
+
+Financial instrument classification:
+
+The classification of financial instruments as “basic” or “other” requires judgement as to whether all
+applicable conditions for classification as basic are met. This includes consideration of the form of the
+instrument and its return.
+
+The directors consider that the key sources of estimation uncertainty in preparing the financial
+statements are:
+
+Recoverability of debtors and sales provisions:
+
+The net trade debtors balance is £4,377,178 (2022 - £2,912,269) recorded in the Company's Balance
+Sheet. A full line by line review of trade debtors is carried out at the end of each month. A sales
+provision of £313,856 (2022 - £301,308) has been set off against trade debtors to reflect the estimated
+number of subsequent credits, these being represented by the Company's learners dropping out of
+courses prior to the year end. The total provision is based on actual data received regarding drop outs
+together with an estimate on past experience of learner drop out figures.
+
+Business combination: Contingent consideration and purchase price allocation
+
+On 1 September 2023 the Company acquired proprietary content and operations relating to Software
+Developer and DevOps Engineer Apprenticeships. from its existing delivery partner, Softwire, as part
+of a business combination. Consideration paid included an initial cash payment of £1.846m and further
+deferred contingent consideration amounts, with an estimated fair value of £1.832m, based on 1,001
+new learners forecast to the join the content courses, over the relevant assessment period. Should
+the forecasts change, the deferred contingent consideration amount will also change accordingly.
+The deferred contingent consideration has a present value of £1.049m based on the relevant
+weighted average rate, estimated to be 19.6%.
+
+Page 22
+
+CORNDEL LIMITED
+
+>
+
+a
+
+@
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+Turmover
+
+The whole of the turnover is attributable to the provision of digital and management learning courses.
+
+All turnover arose within the United Kingdom.
+
+Operating profit
+
+The operating profit is stated after (crediting)/charging:
+
+2023
+
+£
+
+(Profit)/loss on disposal of tangible and intangible assets (228)
+Exchange differences 12,464
+Other operating lease rentals 181,407
+
+Bad debts (2,865)
+
+Auditor's remuneration
+
+During the year, the Company obtained the following services from the Company's auditor:
+
+2023
+£
+Fees payable to the Company's auditor and its associates for the audit of
+the Company's annual financial statements 42,125
+Fees payable to the Company's auditor and its associates in respect of:
+
+Accounts preparation 3,660
+
+2022
+
+117,770
+19,255
+137,794
+8,252
+
+2022
+
+41170
+
+3,500
+
+Page 23
+
+CORNDEL LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+Employees
+
+Staff costs, including directors’ remuneration, were as follows:
+
+2023
+
+£
+
+Wages and salaries 18,771,496
+Social security costs 2,148,574
+Cost of defined contribution scheme 804,402
+
+21,724,472
+
+2022
+
+£
+15,644,337
+1,815,580
+666,591
+
+18,126,508
+
+The average monthly number of employees, including the directors, during the year was as follows:
+
+2023
+No.
+Professional Development Expert/Tutor 176
+Direct other 74
+Admin 89
+339
+
+Directors’ remuneration
+2023
+£
+Directors’ emoluments 606,960
+Company contributions to defined contribution pension schemes 21,662
+628,622
+
+2022
+No.
+
+162
+63
+79
+
+304
+
+2022
+£
+
+431811
+21,250
+
+453,061
+
+During the year retirement benefits were accruing to 3 directors (2022 - 2) in respect of defined
+
+contribution pension schemes.
+
+The highest paid director received remuneration of £376,380 (2022 - £251,668).
+
+The value of the Company's contributions paid to a defined contribution pension scheme in respect
+
+of the highest paid director amounted to £12,500 (2022 - £12,500).
+
+Page 24
+
+CORNDEL LIMITED
+
+Ko)
+
+r=
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+Interest receivable
+
+Other interest receivable
+
+Interest payable and similar expenses
+
+Other interest payable
+
+Taxation .
+
+Corporation tax
+
+Current tax on profits for the year
+Adjustments in respect of previous periods
+
+Deferred tax
+
+Origination and reversal of timing differences
+Effect of changes in tax rates
+Deferred tax on acquired content
+
+Total deferred tax
+
+Taxation on profit on ordinary activities
+
+2023
+
+47,812
+
+2023
+
+64,255
+
+64,255
+
+2023
+
+634,477
+(44,563)
+
+589,914
+
+(18,645)
+(4,300)
+(38,917)
+
+(61,862)
+
+528,052
+
+2022
+
+13,140
+
+2022
+
+2022
+
+492,787
+282,321
+
+775,108
+
+(13,29)
+10,591
+
+(2,700)
+
+772,408
+
+Page 25
+
+CORNDEL LIMITED
+
+iL
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+Taxation (continued)
+
+Factors affecting tax charge for the year
+
+The tax assessed for the year is lower than (2022 - lower than) the standard rate of corporation tax in
+the UK of 23.5% (2022 - 19%). The differences are explained below:
+
+2023 2022
+£
+
+Profit on ordinary activities before tax 6,172,716 4,165,096
+Profit on ordinary activities multiplied by standard rate of corporation tax
+in the UK of 23.5% (2022 - 19%) 1,451,857 791,368
+Effects of:
+Expenses not allowable for taxation 3,869 4,777
+Other timing differences leading to an increase in taxation - 282,178
+Fixed asset differences (1,138) 199,772
+Remeasurement of deferred tax for changes in tax rates 578 7,400
+Movement in deferred tax not recognised (28,409) (205,28)
+Adjustment in respect of prior periods (current & inter-co) (44,563) -
+Adjustment in respect of prior periods (deferred tax) (4,300) -
+Group relief claimed (810,925) (307,807)
+Unwinding of deferred tax on acquired content (38,917) -
+Unexplained differences - 1
+Total tax charge for the year 5 528,052 772,408
+
+Factors that may affect future tax charges
+
+Finance Act 2021 included legislation to increase the main rate of corporation tax from 19% to 25%
+from 1 April 2023. The effects of this increase are reflected in the above. There were no factors that
+may affect future tax charges.
+
+Dividends
+2023 2022
+£ £
+
+Ordinary dividends 2,255,000 2,000,000
+
+Page 26
+
+CORNDEL LIMITED
+
+Intangible assets
+
+Cost
+
+At 1 January 2023
+Additions
+
+Disposals
+
+Business combination
+
+At 31 December 2023
+Amortisation
+At 1 January 2023
+
+Charge for the year
+On disposals
+
+At 31 December 2023
+
+Net book value
+At 31 December 2023
+
+At 31 December 2022
+
+Disposals in the year relate to Content transferred to a group undertaking at book value.
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+Content
+£
+
+2,401,328
+
+564,360
+(84,916)
+
+2,335,000
+
+§,205,772
+
+937,480
+614,238
+(5,038)
+
+1,546,680
+
+3,659,092
+
+1,463,848
+
+Goodwill
+
+1,284,100
+
+1,284,100
+
+85,607
+
+85,607
+
+1,198,493
+
+Total
+
+2,401,328
+554,360
+(84,916)
+3,619,100
+
+6,489,872
+
+937,480
+699,845
+(5,038)
+
+1,632,287
+
+4,857,585
+
+1,463,848
+
+On 1 September 2023 the Company acquired proprietary content and operations relating to Software
+Developer and DevOps Engineer Apprenticeships, from its existing delivery partner, Softwire.
+Consideration paid included an initial cash payment and further deferred contingent consideration
+
+amounts based on the number of new learners forecast to the join the content courses.
+
+The Company used an external valuation expert to prepare a Purchase Price Allocation Report. This
+report determined the total present value of the consideration at the balance sheet date. The
+goodwill represents the difference between the present value of the consideration and the fair value
+of identifiable assets and liabilities, being the content acquired and related deferred tax liability,
+acquired. See note 20 for details.
+
+Page 27
+
+CORNDEL LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+Tangible fixed assets
+Computer
+equipment
+£
+Cost
+At 1 January 2023 651,052
+Additions 280,551
+Disposals (109,169)
+At 31 December 2023 822,434
+Depreciation
+At 1 January 2023 §27,718
+Charge for the year 174,116
+Disposals (96,828)
+At 31 December 2023 605,006
+Net book value
+At 31 December 2023 217,428
+
+At 31 December 2022 123,334
+
+£12.175 of disposals in the year relate to assets transferred to a group undertaking at book value oni
+January 2023.
+
+Debtors
+2023 2022
+£
+Trade debtors 4,377,178 2,912,269
+Amounts owed by group undertakings 1,876,588 20,492
+Other debtors 36,886 21,313
+Prepayments and accrued income 497,232 393,451
+Corporation tax debtor 26,497 -
+
+6,814,381 3,347,525
+
+Page 28
+
+CORNDEL LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+Creditors: Amounts falling due within one year
+
+Trade creditors
+
+Amounts owed to group undertakings
+Corporation tax
+
+Other taxation and social security
+Other creditors
+
+Accruals and deferred income
+Deferred contingent consideration
+
+Deferred taxation
+
+At beginning of year
+Arising on business combinations
+Charged to profit or loss
+
+At end of year
+
+The provision for deferred taxation is made up as follows:
+
+Accelerated capital altowances
+Short-term timing differences
+Arising on business combination
+
+Total deferred tax
+
+2023
+
+£
+1,142,979
+122,454
+852,642
+183,203
+3,532,225
+1,113,256
+
+6,946,759
+
+2023
+
+30,834
+(584,000)
+(61,862)
+
+552,972
+
+2023
+£
+
+49,781
+(41,892)
+545,083
+
+552,972
+
+2022
+£
+
+1371396
+295,250
+615,749
+124,951
+2,400,818
+
+4,808,164
+
+2022
+
+33,534
+
+(2,700)
+
+30,834
+
+2022
+
+30,834
+
+30,834
+
+Fixed asset timing differences are expected to be reversed in line with each corresponding fixed
+asset class and the classes depreciation rates, as noted in the accounting policies.
+
+Page 29
+
+CORNDEL LIMITED
+
+18.
+
+19.
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+Share capital
+2023 2022
+£ £
+Allotted, called up and fully paid
+
+2,000,654 Ordinary shares of £0.000050 each 100 100
+
+Each share is entitled to one vote in any circumstance. Each share is entitled pari passu to dividend
+payments or any other distribution. Each share is entitled pari passu to participate in a distribution
+arising from a winding up of the Company.
+
+Reserves
+Share premium account
+
+The share premium account is used to record the aggregate amount or value of premiums paid when
+the Company's shares are issued at an amount in excess of nominal value.
+
+Capital redemption reserve
+
+This reserve relates to the nominal value of shares that the Company has bought back.
+Capital contribution reserve
+
+This reserve relates to non-repayable amounts given to Corndel by THI Holdings GmbH.
+Profit and loss account
+
+This reserve relates to cumulative retained earnings less amounts distributed to shareholders or used
+to fund repurchase of shares.
+
+Page 30
+
+CORNDEL LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+Business combinations
+
+On 1 September 2023, the Company acquired the proprietary content and operations relating to
+Software Developer and DevOps Engineer Apprenticeships, from its existing delivery partner.
+Softwire. The acquisition price being £1.846m, with a potential further deferred consideration
+depending on certain targets being met which has an estimated fair value of £1832m. When
+discounted to present value at the balance sheet date, using a weighted average rate of 19.6%, the
+total consideration before directly attributable costs totaled £2.895m.
+
+Recognised amounts of identifiable assets acquired and liabilities assumed:
+
+Fair value
+Book value adjustments Fair value
+£ £ £
+
+Fixed Assets
+
+Intangibles (Content) - 2,335,000 2,335,000
+
+Creditors
+
+Due within one year - - -
+
+Deferred taxation - (584,000) (584,000)
+
+Total Identifiable net assets - 1,751,000 1,751,000
+£
+
+Consideration
+
+Cash 1,846,000
+
+Present value of deferred contingent consideration 1,049,000
+
+Directly attributable costs 140,100
+
+Total purchase consideration 3,035,100
+
+Pension commitments
+
+The Company operates a defined contribution pension scheme. The assets of the scheme are held
+separately from those of the Company in an independently administered fund. The pension cost
+charge represents contributions payable by the Company to the fund and amounted to £804,402
+(2022 - £666,591), Contributions totalling £167,566 (2022 - £113,638) were payable to the fund at the
+balance sheet date and are included in creditors.
+
+Page 31
+
+CORNDEL LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS.
+FOR THE YEAR ENDED 31 DECEMBER 2023
+Commitments under operating leases
+
+At 31 December the Company had future minimum lease payments due under non-cancellable
+operating leases for each of the following periods:
+
+2023 2022
+£ £
+
+Not later than 1 year 125,400 32,832
+
+Other commitments
+
+Loans of £16,978,370 (2022 - £17.812,782) extended to the parent company of Corndel Limited,
+Enterprise Training 3 Limited, are secured against the assets of the Company.
+
+Related party transactions
+
+The Company has taken advantage of the exemptions available under FRS 102 section 33.1A to not
+disclose transactions between wholly owned group entities.
+
+Key management are those persons having authority and responsibility for planning, controlling and
+directing activities of the Company. In the opinion of the board, the Company's key management are
+the directors of the Company. During the year, key management personnel compensation totalled
+£709,079 (2022 - £512,281).
+Post balance sheet events
+
+Subsequent to the balance sheet date the Company declared interim dividends totaling £2.140,000.
+
+Controlling party
+
+The immediate parent undertaking is Enterprise Training 3 Limited, a company registered in England
+and Wales.
+
+Enterprise Training 2 Limited is the immediate parent undertaking of Enterprise Training 3 Limited, a
+company registered in England and Wales, at which level group accounts incorporating Corndel
+Limited witl be prepared.
+
+The ultimate parent undertaking company as at 31 December 2023 was THI Holdings GmbH, a
+company incorporated in Germany.
+
+The largest group of undertakings for which group accounts for the year ended 31 December 2023
+
+will be drawn up, is that headed by THI Holdings GmbH. Copies of the group accounts are available
+from EberhardstraBe 65, 70173 Stuttgart, Germany.
+
+Page 32
+

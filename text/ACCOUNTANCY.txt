@@ -1,0 +1,466 @@
+Company registration number 03454405 (England and Wales)
+
+ACCOUNTANCY LEARNING LTD
+
+UNAUDITED FINANCIAL STATEMENTS
+
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+
+ACCOUNTANCY LEARNING LTD
+
+COMPANY INFORMATION
+
+Directors SN .N Deane
+PJ E Deane
+Secretary PJE Deane
+Company number 03454405
+Registered office Southernhay Lodge
+Barnfield Crescent
+Exeter
+EX1 1QT
+Accountants Bush & Co Limited
+
+2 Barnfield Crescent
+Exeter
+—X1 10T
+
+
+ACCOUNTANCY LEARNING LTD
+
+CONTENTS
+
+Page
+
+Balance sheet 1-2
+
+Notes to the financial statements 3-8
+
+
+ACCOUNTANCY LEARNING LTD
+
+BALANCE SHEET
+
+AS AT 31 DECEMBER 2023
+
+Fixed assets
+Intangible assets
+Tangible assets
+
+Current assets
+Debtors
+Cash at bank and in hand
+
+Creditors: amounts falling due within one
+
+year
+
+Net current assets
+
+Total assets less current liabilities
+
+Creditors: amounts falling due after more
+than one year
+
+Provisions for liabilities
+Net assets
+
+Capital and reserves
+Called up share capital
+Retained earnings
+
+Total equity
+
+2023
+Notes £ £
+
+3 2,233
+8,178
+
+10,411
+
+5 400,218
+603
+
+400,821
+6 (220,110)
+180,711
+
+191,122
+
+7 (21,408)
+(2,004)
+
+167,710
+
+2
+167,708
+
+167,710
+
+2022
+£ £
+9,428
+9,428
+407,439
+63
+407,502
+(190,415)
+217,087
+226,515
+(41,046)
+(2,077)
+183,392
+2
+183,390
+183,392
+
+
+ACCOUNTANCY LEARNING LTD
+
+BALANCE SHEET (CONTINUED}
+
+AS AT 31 DECEMBER 2023
+
+The directors of the company have elected not to include a copy of the income statement within the financial
+statements.
+
+For the financial year ended 31 December 2023 the company was entitled to exemption from audit under section 477
+of the Companies Act 2006 relating to small companies.
+
+The directors acknowledge their responsibilities for complying with the requirements of the Companies Act 2006 with
+respect to accounting records and the preparation of financial statements.
+
+The members have not required the company to obtain an audit of its financial statements for the year in question in
+accordance with section 476.
+
+These financial statements have been prepared and delivered in accordance with the provisions applicable to
+companies subject to the small companies regime.
+
+The financial statements were approved by the board of directors and authorised for issue on 29 July 2024 and are
+signed on its behalf by:
+
+SN N Deane
+Director
+
+Company Registration No. 03454405
+
+
+ACCOUNTANCY LEARNING LTD
+
+NOTES TO THE FINANCIAL STATEMENTS
+
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+1.1
+
+1.2
+
+1.3
+
+Accounting policies
+
+Company information
+Accountancy Learning Ltd is a private company limited by shares incorporated in England and Wales. The
+registered office is Southernhay Lodge, Barnfield Crescent, Exeter, EX1 1QT.
+
+Accounting convention
+
+These financial statements have been prepared in accordance with FRS 102 “The Financial Reporting Standard
+applicable in the UK and Republic of Ireland” (“FRS 102”) and the requirements of the Companies Act 2006 as
+applicable to companies subject to the small companies regime. The disclosure requirements of section 1A of
+FRS 102 have been applied other than where additional disclosure is required to show a true and fair view.
+
+The financial statements are prepared in sterling, which is the functional currency of the company. Monetary a
+mounts in these financial statements are rounded to the nearest £.
+
+The financial statements have been prepared under the historical cost convention. The principal accounting
+policies adopted are set out below.
+
+Turnover
+
+Turnover is recognised at the fair value of the consideration received or receivable for services provided in the
+normal course of business, and is shown net of VAT and other sales related taxes.
+
+Revenue from contracts for the provision of professional services is recognised by reference to the stage of
+completion when the stage of completion, costs incurred and costs to complete can be estimated reliably. The
+stage of completion is calculated by comparing costs incurred, mainly in relation to contractual hourly staff
+rates and materials, as a proportion of total costs. Where the outcome cannot be estimated reliably, revenue is
+recognised only to the extent of the expenses recognised that it is probable will be recovered.
+
+Intangible fixed assets other than goodwill
+
+Intangible assets acquired separately from a business are recognised at cost and are subsequently measured at
+cost less accumulated amortisation and accumulated impairment losses.
+
+Intangible assets acquired on business combinations are recognised separately from goodwill at the acquisition
+date where it is probable that the expected future economic benefits that are attributable to the asset will flow
+to the entity and the fair value of the asset can be measured reliably; the intangible asset arises from
+contractual or other legal rights; and the intangible asset is separable from the entity.
+
+Amortisation is recognised so as to write off the cost or valuation of assets less their residual values over their
+useful lives on the following bases:
+
+Software 33% straight line
+
+
+ACCOUNTANCY LEARNING LTD
+
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+1
+
+1.4
+
+15
+
+1.6
+
+Accounting policies (Continued)
+
+Tangible fixed assets
+
+Tangible fixed assets are initially measured at cost and subsequently measured at cost or valuation, net of
+depreciation and any impairment losses.
+
+Depreciation is recognised so as to write off the cost or valuation of assets less their residual values over their
+useful lives on the following bases:
+
+Fixtures and fittings 20% reducing balance
+Computers 33% straight line
+
+The gain or loss arising on the disposal of an asset is determined as the difference between the sale proceeds
+and the carrying value of the asset, and is credited or charged to profit or loss.
+
+Financial instruments
+
+The company has elected to apply the provisions of Section 11 ‘Basic Financial Instruments’ and Section 12
+‘Other Financial Instruments Issues’ of FRS 102 to all of its financial instruments.
+
+Financial instruments are recognised in the company's balance sheet when the company becomes party to the
+contractual provisions of the instrument.
+
+Financial assets and liabilities are offset, with the net amounts presented in the financial statements, when
+there is a legally enforceable right to set off the recognised amounts and there is an intention to settle on a net
+basis or to realise the asset and settle the liability simultaneously.
+
+Basic financial instruments are initially measured at transaction price including transaction costs and are
+subsequently carried at amortised cost using the effective interest method unless the arrangement constitutes
+a financing transaction, where the transaction is measured at the present value of the future receipts/payments
+discounted at a market rate of interest. Financial instruments classified as receivable or payable within one year
+are not amortised.
+
+Taxation
+The tax expense represents the sum of the tax currently payable and deferred tax.
+
+Current tax
+
+The tax currently payable is based on taxable profit for the year. Taxable profit differs from net profit as
+reported in the income statement because it excludes items of income or expense that are taxable or
+deductible in other years and it further excludes items that are never taxable or deductible. The company’s
+liability for current tax is calculated using tax rates that have been enacted or substantively enacted by the
+reporting end date.
+
+
+ACCOUNTANCY LEARNING LTD
+
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+1.7
+
+Accounting policies (Continued)
+
+Deferred tax
+
+Deferred tax liabilities are generally recognised for all timing differences and deferred tax assets are recognised
+to the extent that it is probable that they will be recovered against the reversal of deferred tax liabilities or
+other future taxable profits. Such assets and liabilities are not recognised if the timing difference arises from
+goodwill or from the initial recognition of other assets and liabilities in a transaction that affects neither the tax
+profit nor the accounting profit.
+
+The carrying amount of deferred tax assets is reviewed at each reporting end date and reduced to the extent
+that it is no longer probable that sufficient taxable profits will be available to allow all or part of the asset to be
+recovered. Deferred tax is calculated at the tax rates that are expected to apply in the period when the liability
+is settled or the asset is realised. Deferred tax is charged or credited in the income statement, except when it
+relates to items charged or credited directly to equity, in which case the deferred tax is also dealt with in equity.
+Deferred tax assets and liabilities are offset when the company has a legally enforceable right to offset current
+tax assets and liabilities and the deferred tax assets and liabilities relate to taxes levied by the same tax
+authority.
+
+Retirement benefits
+Payments to defined contribution retirement benefit schemes are charged as an expense as they fall due.
+
+Employees
+
+The average monthly number of persons (including directors) employed by the company during the year was:
+
+2023 2022
+Number Number
+Total 37 30
+
+
+ACCOUNTANCY LEARNING LTD
+
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+3 Intangible fixed assets
+
+Cost
+At 1 January 2023
+Additions
+
+At 31 December 2023
+Amortisation and impairment
+
+At 1 January 2023
+
+Amortisation charged for the year
+
+At 31 December 2023
+
+Carrying amount
+At 31 December 2023
+
+At 31 December 2022
+
+Other
+
+8,264
+3,350
+
+11,614
+
+8,264
+1,117
+
+9,381
+
+2,233
+
+
+ACCOUNTANCY LEARNING LTD
+
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+4 Tangible fixed assets
+
+Cost
+
+At 1 January 2023
+Additions
+Disposals
+
+At 31 December 2023
+Depreciation and impairment
+
+At 1 January 2023
+
+Depreciation charged in the year
+Eliminated in respect of disposals
+
+At 31 December 2023
+
+Carrying amount
+At 31 December 2023
+
+At 31 December 2022
+
+5 Debtors
+
+Amounts falling due within one year:
+
+Trade debtors
+Other debtors
+
+2023
+
+163,349
+236,869
+
+400,218
+
+Plant and
+machinery etc
+
+33,061
+5,815
+(250)
+
+38,626
+
+23,633
+6,963
+(148)
+
+30,448
+
+143,995
+263,444
+
+407,439
+
+
+ACCOUNTANCY LEARNING LTD
+
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+6 Creditors: amounts falling due within one year
+
+Bank loans
+
+Trade creditors
+
+Taxation and social security
+Other creditors
+
+7 Creditors: amounts falling due after more than one year
+
+Bank loans and overdrafts
+Other creditors
+
+2023
+
+8,800
+86,754
+57,305
+67,251
+
+220,110
+
+2023
+
+21,408
+
+21,408
+
+2022
+
+9,463
+66,173
+61,659
+53,120
+
+190,415
+
+2022
+
+33,249
+7,797
+
+41,046
+
+
+This document was delivered using electronic communications and authenticated in accordance with the
+registrar's rules relating to electronic form, authentication and manner of delivery under section 1072 of
+the Companies Act 2006.
+

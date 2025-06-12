@@ -1,0 +1,623 @@
+Clear Quality Limited - Period Ending 2024-03-31
+Clear Quality Limited
+10688487
+false
+2023-04-01
+2024-03-31
+2024-03-31
+The principal activity of the company is that of providers of ISO consultancy and quality related secondary education.
+Digita Accounts Production Advanced
+6.30.9574.0
+true
+10688487
+2023-04-01
+2024-03-31
+10688487
+2024-03-31
+10688487
+bus:Director1
+1
+2024-03-31
+10688487
+core:RetainedEarningsAccumulatedLosses
+2024-03-31
+10688487
+core:ShareCapital
+2024-03-31
+10688487
+core:HirePurchaseContracts
+core:CurrentFinancialInstruments
+2024-03-31
+10688487
+core:HirePurchaseContracts
+core:Non-currentFinancialInstruments
+2024-03-31
+10688487
+core:CurrentFinancialInstruments
+2024-03-31
+10688487
+core:CurrentFinancialInstruments
+core:WithinOneYear
+2024-03-31
+10688487
+core:Non-currentFinancialInstruments
+2024-03-31
+10688487
+core:Non-currentFinancialInstruments
+core:AfterOneYear
+2024-03-31
+10688487
+core:BetweenTwoFiveYears
+2024-03-31
+10688487
+core:WithinOneYear
+2024-03-31
+10688487
+core:FurnitureFittingsToolsEquipment
+2024-03-31
+10688487
+core:MotorVehicles
+2024-03-31
+10688487
+bus:SmallEntities
+2023-04-01
+2024-03-31
+10688487
+bus:AuditExemptWithAccountantsReport
+2023-04-01
+2024-03-31
+10688487
+bus:FilletedAccounts
+2023-04-01
+2024-03-31
+10688487
+bus:SmallCompaniesRegimeForAccounts
+2023-04-01
+2024-03-31
+10688487
+bus:RegisteredOffice
+2023-04-01
+2024-03-31
+10688487
+bus:Director1
+2023-04-01
+2024-03-31
+10688487
+bus:Director1
+1
+2023-04-01
+2024-03-31
+10688487
+bus:PrivateLimitedCompanyLtd
+2023-04-01
+2024-03-31
+10688487
+core:ComputerEquipment
+2023-04-01
+2024-03-31
+10688487
+core:FurnitureFittings
+2023-04-01
+2024-03-31
+10688487
+core:FurnitureFittingsToolsEquipment
+2023-04-01
+2024-03-31
+10688487
+core:MotorVehicles
+2023-04-01
+2024-03-31
+10688487
+countries:EnglandWales
+2023-04-01
+2024-03-31
+10688487
+2023-03-31
+10688487
+bus:Director1
+1
+2023-03-31
+10688487
+core:FurnitureFittingsToolsEquipment
+2023-03-31
+10688487
+core:MotorVehicles
+2023-03-31
+10688487
+2022-04-01
+2023-03-31
+10688487
+2023-03-31
+10688487
+bus:Director1
+1
+2023-03-31
+10688487
+core:RetainedEarningsAccumulatedLosses
+2023-03-31
+10688487
+core:ShareCapital
+2023-03-31
+10688487
+core:HirePurchaseContracts
+core:CurrentFinancialInstruments
+2023-03-31
+10688487
+core:HirePurchaseContracts
+core:Non-currentFinancialInstruments
+2023-03-31
+10688487
+core:CurrentFinancialInstruments
+2023-03-31
+10688487
+core:CurrentFinancialInstruments
+core:WithinOneYear
+2023-03-31
+10688487
+core:CurrentFinancialInstruments
+core:WithinOneYear
+core:PreviouslyStatedAmount
+2023-03-31
+10688487
+core:Non-currentFinancialInstruments
+2023-03-31
+10688487
+core:Non-currentFinancialInstruments
+core:AfterOneYear
+2023-03-31
+10688487
+core:BetweenTwoFiveYears
+2023-03-31
+10688487
+core:WithinOneYear
+2023-03-31
+10688487
+core:FurnitureFittingsToolsEquipment
+2023-03-31
+10688487
+core:MotorVehicles
+2023-03-31
+10688487
+core:PreviouslyStatedAmount
+2023-03-31
+10688487
+bus:Director1
+1
+2022-04-01
+2023-03-31
+10688487
+bus:Director1
+1
+2022-03-31
+iso4217:GBP
+xbrli:pure
+Registration number:
+10688487
+Clear Quality Limited
+Unaudited Filleted Financial Statements
+for the Year Ended 31 March 2024
+Clear Quality Limited
+Contents
+Balance Sheet
+1
+to
+2
+Notes to the Unaudited Financial Statements
+3
+to
+9
+Clear Quality Limited
+(Registration number: 10688487)
+Balance Sheet as at 31 March 2024
+Note
+2024
+£
+2023
+£
+Fixed assets
+Tangible assets
+4
+76,582
+14,433
+Current assets
+Debtors
+5
+150,394
+90,752
+Cash at bank and in hand
+18,144
+11,339
+168,538
+102,091
+Creditors
+: Amounts falling due within one year
+6
+(
+174,212
+)
+(
+73,385
+)
+Net current
+(liabilities)/assets
+(
+5,674
+)
+28,706
+Total assets less current liabilities
+70,908
+43,139
+Creditors
+: Amounts falling due after more than one year
+6
+(
+41,794
+)
+(
+10,833
+)
+Provisions for liabilities
+(
+9,227
+)
+(
+3,608
+)
+Net
+assets
+19,887
+28,698
+Capital and reserves
+Called up share capital
+100
+100
+Retained earnings
+19,787
+28,598
+Shareholders' funds
+19,887
+28,698
+For the financial year ending 31 March 2024 the company was entitled to exemption from audit under section 477 of the Companies Act 2006 relating to small companies.
+Directors' responsibilities:
+•
+The members have not required the company to obtain an audit of its accounts for the year in question in accordance with section 476
+; and
+•
+The directors acknowledge their responsibilities for complying with the requirements of the Act with respect to accounting records and the preparation of accounts.
+These financial statements have been prepared in accordance with the special provisions relating to companies subject to the small companies regime within Part 15 of the Companies Act 2006.
+These financial statements have been delivered in accordance with the provisions applicable to companies subject to the small companies regime. As permitted by section 444 (5A) of the Companies Act 2006, the director has not delivered to the registrar a copy of the Profit and Loss Account.
+Approved and authorised by the
+Board
+on
+1 October 2024
+and signed on its behalf by:
+The notes on pages
+3
+to
+9
+form an integral part of these financial statements.
+Page 1
+Clear Quality Limited
+(Registration number: 10688487)
+Balance Sheet as at 31 March 2024
+.........................................
+Mrs D Whitehead
+Director
+The notes on pages
+3
+to
+9
+form an integral part of these financial statements.
+Page 2
+Clear Quality Limited
+Notes to the Unaudited Financial Statements for the Year Ended 31 March 2024
+1
+General information
+The company is a private company limited by share capital, incorporated in England and Wales.
+The address of its registered office is:
+Unit 3 Concept Court
+Manvers
+Rotherham
+S63 5BD
+These financial statements were authorised for issue by the
+Board
+on
+1 October 2024
+.
+2
+Accounting policies
+Summary of significant accounting policies and key accounting estimates
+The principal accounting policies applied in the preparation of these financial statements are set out below. These policies have been consistently applied to all the years presented, unless otherwise stated.
+Statement of compliance
+These financial statements have been prepared in accordance with Financial Reporting Standard 102 Section 1A smaller entities - 'The Financial Reporting Standard applicable in the United Kingdom and Republic of Ireland' and the Companies Act 2006 (as applicable to companies subject to the small companies' regime).
+Basis of preparation
+These financial statements have been prepared using the historical cost convention except that as disclosed in the accounting policies certain items are shown at fair value.
+Revenue recognition
+Turnover comprises the fair value of the consideration received or receivable for the sale of goods and provision of services in the ordinary course of the company’s activities. Turnover is shown net of sales/value added tax, returns, rebates and discounts.
+The company recognises revenue when:
+The amount of revenue can be reliably measured;
+it is probable that future economic benefits will flow to the entity;
+and specific criteria have been met for each of the company's activities.
+Government grants
+Government grants are recognised at the fair value of the asset received or receivable when there is reasonable assurance that the company will comply with conditions attaching to them and the grants will be received using the accrual model.
+Page 3
+Clear Quality Limited
+Notes to the Unaudited Financial Statements for the Year Ended 31 March 2024
+Tax
+The tax expense for the period comprises current and deferred tax. Tax is recognised in profit or loss, except that a change attributable to an item of income or expense recognised as other comprehensive income is also recognised directly in other comprehensive income.
+The current income tax charge is calculated on the basis of tax rates and laws that have been enacted or substantively enacted by the reporting date in the countries where the company operates and generates taxable income.
+Deferred tax is recognised in respect of all timing differences between taxable profits and profits reported in the financial statements.
+Unrelieved tax losses and other deferred tax assets are recognised when it is probable that they will be recovered against the reversal of deferred tax liabilities or other future taxable profits.
+Deferred tax is measured using the tax rates and laws that have been enacted or substantively enacted by the reporting date and that are expected to apply to the reversal of the timing difference.
+Tangible assets
+Tangible assets are stated in the balance sheet at cost, less any subsequent accumulated depreciation and subsequent accumulated impairment losses.
+The cost of tangible assets includes directly attributable incremental costs incurred in their acquisition and installation.
+Depreciation
+Depreciation is charged so as to write off the cost of assets, other than land and properties under construction over their estimated useful lives, as follows:
+Asset class
+Depreciation method and rate
+Fixtures and fittings
+10% Straight line basis
+Computer equipment
+33% Straight line basis
+Cash and cash equivalents
+Cash and cash equivalents comprise cash on hand and call deposits, and other short-term highly liquid investments that are readily convertible to a known amount of cash and are subject to an insignificant risk of change in value.
+Trade debtors
+Trade debtors are amounts due from customers for merchandise sold or services performed in the ordinary course of business.
+Trade debtors are recognised initially at the transaction price. They are subsequently measured at amortised cost using the effective interest method, less provision for impairment. A provision for the impairment of trade debtors is established when there is objective evidence that the company will not be able to collect all amounts due according to the original terms of the receivables.
+Page 4
+Clear Quality Limited
+Notes to the Unaudited Financial Statements for the Year Ended 31 March 2024
+Trade creditors
+Trade creditors are obligations to pay for goods or services that have been acquired in the ordinary course of business from suppliers. Accounts payable are classified as current liabilities if the company does not have an unconditional right, at the end of the reporting period, to defer settlement of the creditor for at least twelve months after the reporting date. If there is an unconditional right to defer settlement for at least twelve months after the reporting date, they are presented as non-current liabilities.
+Trade creditors are recognised initially at the transaction price and subsequently measured at amortised cost using the effective interest method.
+Borrowings
+Interest-bearing borrowings are initially recorded at fair value, net of transaction costs. Interest-bearing borrowings are subsequently carried at amortised cost, with the difference between the proceeds, net of transaction costs, and the amount due on redemption being recognised as a charge to the profit and loss account over the period of the relevant borrowing.
+Interest expense is recognised on the basis of the effective interest method and is included in interest payable and similar charges.
+Borrowings are classified as current liabilities unless the company has an unconditional right to defer settlement of the liability for at least twelve months after the reporting date.
+Leases
+Leases in which substantially all the risks and rewards of ownership are retained by the lessor are classified as operating leases. Payments made under operating leases are charged to profit or loss on a straight-line basis over the period of the lease.
+Leases are classified as finance leases whenever the terms of the lease transfer substantially all the risks and rewards of ownership to the lessee.
+Assets held under finance leases are recognised at the lower of their fair value at inception of the lease and the present value of the minimum lease payments. These assets are depreciated on a straight-line basis over the shorter of the useful life of the asset and the lease term. The corresponding liability to the lessor is included in the balance sheet as a finance lease obligation.
+Lease payments are apportioned between finance costs in the profit and loss account and reduction of the lease obligation so as to achieve a constant periodic rate of interest on the remaining balance of the liability.
+Share capital
+Ordinary shares are classified as equity. Equity instruments are measured at the fair value of the cash or other resources received or receivable, net of the direct costs of issuing the equity instruments. If payment is deferred and the time value of money is material, the initial measurement is on a present value basis.
+Dividends
+Dividend distribution to the company’s shareholders is recognised as a liability in the financial statements in the reporting period in which the dividends are declared.
+Page 5
+Clear Quality Limited
+Notes to the Unaudited Financial Statements for the Year Ended 31 March 2024
+Defined contribution pension obligation
+A defined contribution plan is a pension plan under which fixed contributions are paid into a pension fund and the company has no legal or constructive obligation to pay further contributions even if the fund does not hold sufficient assets to pay all employees the benefits relating to employee service in the current and prior periods.
+Contributions to defined contribution plans are recognised as employee benefit expense when they are due. If contribution payments exceed the contribution due for service, the excess is recognised as a prepayment.
+Page 6
+Clear Quality Limited
+Notes to the Unaudited Financial Statements for the Year Ended 31 March 2024
+3
+Staff numbers
+The average number of persons employed by the company (including directors) during the year, was
+20
+(2023 -
+14
+).
+4
+Tangible assets
+Furniture, fittings and equipment
+£
+Motor vehicles
+£
+Total
+£
+Cost or valuation
+At 1 April 2023
+40,475
+-
+40,475
+Additions
+29,726
+57,948
+87,674
+Disposals
+(
+30,952
+)
+-
+(
+30,952
+)
+At 31 March 2024
+39,249
+57,948
+97,197
+Depreciation
+At 1 April 2023
+26,042
+-
+26,042
+Charge for the year
+5,605
+9,237
+14,842
+Eliminated on disposal
+(
+20,269
+)
+-
+(
+20,269
+)
+At 31 March 2024
+11,378
+9,237
+20,615
+Carrying amount
+At 31 March 2024
+27,871
+48,711
+76,582
+At 31 March 2023
+14,433
+-
+14,433
+5
+Debtors
+2024
+£
+2023
+£
+Trade debtors
+129,122
+42,633
+Other debtors
+3,041
+7,535
+Prepayments
+18,231
+4,191
+Accrued income
+-
+36,393
+150,394
+90,752
+Page 7
+Clear Quality Limited
+Notes to the Unaudited Financial Statements for the Year Ended 31 March 2024
+6
+Creditors
+Creditors: amounts falling due within one year
+Note
+2024
+£
+2023
+£
+Due within one year
+Loans and borrowings
+7
+16,987
+5,000
+Trade creditors
+64,078
+9,510
+Taxation and social security
+50,850
+23,827
+Corporation tax
+5,755
+10,839
+Other creditors
+6,766
+7,246
+Accrued expenses
+29,776
+16,963
+174,212
+73,385
+Creditors: amounts falling due after more than one year
+Note
+2024
+£
+2023
+£
+Due after one year
+Loans and borrowings
+7
+41,794
+10,833
+7
+Loans and borrowings
+Current loans and borrowings
+2024
+£
+2023
+£
+Bank borrowings
+5,000
+5,000
+Hire purchase contracts
+11,987
+-
+16,987
+5,000
+Non-current loans and borrowings
+2024
+£
+2023
+£
+Bank borrowings
+5,833
+10,833
+Hire purchase contracts
+35,961
+-
+41,794
+10,833
+8
+Obligations under leases and hire purchase contracts
+Operating leases
+The total of future minimum lease payments is as follows:
+Page 8
+Clear Quality Limited
+Notes to the Unaudited Financial Statements for the Year Ended 31 March 2024
+2024
+£
+2023
+£
+Not later than one year
+20,500
+-
+Later than one year and not later than five years
+40,606
+-
+61,106
+-
+The amount of non-cancellable operating lease payments recognised as an expense during the year was £
+394
+(2023 - £
+Nil
+).
+9
+Related party transactions
+Transactions with directors
+2024
+At 1 April 2023
+£
+Advances to director
+£
+Repayments by director
+£
+At 31 March 2024
+£
+Mrs D Whitehead
+Director's current account
+(
+7,535
+)
+(
+5,345
+)
+9,840
+(
+3,040
+)
+2023
+At 1 April 2022
+£
+Advances to director
+£
+Repayments by director
+£
+At 31 March 2023
+£
+Mrs D Whitehead
+Director's current account
+(
+3,958
+)
+(
+9,705
+)
+6,128
+(
+7,535
+)
+Page 9

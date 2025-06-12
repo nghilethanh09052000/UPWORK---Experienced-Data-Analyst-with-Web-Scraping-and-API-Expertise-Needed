@@ -1,0 +1,1925 @@
+ACCOUNTS - Final Accounts
+Caseware UK (AP4) 2023.0.135
+2023.0.135
+2024-07-31
+2024-07-31
+405
+true
+false
+true
+true
+314
+2023-08-01
+false
+false
+02673518
+2023-08-01
+2024-07-31
+02673518
+2022-08-01
+2023-07-31
+02673518
+2024-07-31
+02673518
+2023-07-31
+02673518
+2022-08-01
+02673518
+1
+2023-08-01
+2024-07-31
+02673518
+1
+2022-08-01
+2023-07-31
+02673518
+d:Exceptional
+2023-08-01
+2024-07-31
+02673518
+d:Exceptional
+2022-08-01
+2023-07-31
+02673518
+e:Director1
+2023-08-01
+2024-07-31
+02673518
+e:Director2
+2023-08-01
+2024-07-31
+02673518
+e:Director3
+2023-08-01
+2024-07-31
+02673518
+e:Director3
+2024-07-31
+02673518
+e:Director4
+2023-08-01
+2024-07-31
+02673518
+e:Director4
+2024-07-31
+02673518
+e:RegisteredOffice
+2023-08-01
+2024-07-31
+02673518
+d:FurnitureFittings
+2023-08-01
+2024-07-31
+02673518
+d:FurnitureFittings
+2024-07-31
+02673518
+d:FurnitureFittings
+2023-07-31
+02673518
+d:FurnitureFittings
+d:OwnedOrFreeholdAssets
+2023-08-01
+2024-07-31
+02673518
+d:OfficeEquipment
+2023-08-01
+2024-07-31
+02673518
+d:OfficeEquipment
+2024-07-31
+02673518
+d:OfficeEquipment
+2023-07-31
+02673518
+d:OfficeEquipment
+d:OwnedOrFreeholdAssets
+2023-08-01
+2024-07-31
+02673518
+d:ComputerEquipment
+2023-08-01
+2024-07-31
+02673518
+d:OwnedOrFreeholdAssets
+2023-08-01
+2024-07-31
+02673518
+d:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2023-08-01
+2024-07-31
+02673518
+d:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2024-07-31
+02673518
+d:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2023-07-31
+02673518
+d:CurrentFinancialInstruments
+2024-07-31
+02673518
+d:CurrentFinancialInstruments
+2023-07-31
+02673518
+d:Non-currentFinancialInstruments
+2024-07-31
+02673518
+d:Non-currentFinancialInstruments
+2023-07-31
+02673518
+d:CurrentFinancialInstruments
+d:WithinOneYear
+2024-07-31
+02673518
+d:CurrentFinancialInstruments
+d:WithinOneYear
+2023-07-31
+02673518
+d:ReportableOperatingSegment1
+2023-08-01
+2024-07-31
+02673518
+d:ReportableOperatingSegment1
+2022-08-01
+2023-07-31
+02673518
+d:ReportableOperatingSegment2
+2023-08-01
+2024-07-31
+02673518
+d:ReportableOperatingSegment2
+2022-08-01
+2023-07-31
+02673518
+d:ReportableOperatingSegment3
+2023-08-01
+2024-07-31
+02673518
+d:ReportableOperatingSegment3
+2022-08-01
+2023-07-31
+02673518
+d:ReportableOperatingSegment5
+2023-08-01
+2024-07-31
+02673518
+d:ReportableOperatingSegment5
+2022-08-01
+2023-07-31
+02673518
+d:UKTax
+2023-08-01
+2024-07-31
+02673518
+d:UKTax
+2022-08-01
+2023-07-31
+02673518
+d:ShareCapital
+2023-08-01
+2024-07-31
+02673518
+d:ShareCapital
+2024-07-31
+02673518
+d:ShareCapital
+2022-08-01
+2023-07-31
+02673518
+d:ShareCapital
+2023-07-31
+02673518
+d:ShareCapital
+2022-08-01
+02673518
+d:RetainedEarningsAccumulatedLosses
+2023-08-01
+2024-07-31
+02673518
+d:RetainedEarningsAccumulatedLosses
+2024-07-31
+02673518
+d:RetainedEarningsAccumulatedLosses
+2022-08-01
+2023-07-31
+02673518
+d:RetainedEarningsAccumulatedLosses
+2023-07-31
+02673518
+d:RetainedEarningsAccumulatedLosses
+2022-08-01
+02673518
+d:AcceleratedTaxDepreciationDeferredTax
+2024-07-31
+02673518
+d:AcceleratedTaxDepreciationDeferredTax
+2023-07-31
+02673518
+d:RetirementBenefitObligationsDeferredTax
+2024-07-31
+02673518
+d:RetirementBenefitObligationsDeferredTax
+2023-07-31
+02673518
+d:OtherDeferredTax
+2024-07-31
+02673518
+d:OtherDeferredTax
+2023-07-31
+02673518
+d:FurtherSpecificTypeProvisionContingentLiability1ComponentTotalProvisionsContingentLiabilities
+2023-08-01
+2024-07-31
+02673518
+d:FurtherSpecificTypeProvisionContingentLiability1ComponentTotalProvisionsContingentLiabilities
+2024-07-31
+02673518
+e:OrdinaryShareClass2
+2023-08-01
+2024-07-31
+02673518
+e:OrdinaryShareClass2
+2024-07-31
+02673518
+e:OrdinaryShareClass2
+2023-07-31
+02673518
+e:FRS102
+2023-08-01
+2024-07-31
+02673518
+e:Audited
+2023-08-01
+2024-07-31
+02673518
+e:FullAccounts
+2023-08-01
+2024-07-31
+02673518
+e:PrivateLimitedCompanyLtd
+2023-08-01
+2024-07-31
+02673518
+d:WithinOneYear
+2024-07-31
+02673518
+d:WithinOneYear
+2023-07-31
+02673518
+d:BetweenOneFiveYears
+2024-07-31
+02673518
+d:BetweenOneFiveYears
+2023-07-31
+02673518
+d:DevelopmentCostsCapitalisedDevelopmentExpenditure
+d:ExternallyAcquiredIntangibleAssets
+2023-08-01
+2024-07-31
+02673518
+4
+2023-08-01
+2024-07-31
+02673518
+d:DevelopmentCostsCapitalisedDevelopmentExpenditure
+d:OwnedIntangibleAssets
+2023-08-01
+2024-07-31
+02673518
+f:PoundSterling
+2023-08-01
+2024-07-31
+xbrli:shares
+iso4217:GBP
+xbrli:pure
+Registered number:
+02673518
+BABINGTON BUSINESS COLLEGE LIMITED
+ANNUAL REPORT AND FINANCIAL STATEMENTS
+FOR THE YEAR ENDED
+31 JULY 2024
+BABINGTON BUSINESS COLLEGE LIMITED
+COMPANY INFORMATION
+Directors
+J E Bramley
+T E Smith
+M R Basham
+(appointed
+18 July 2023
+, resigned
+8 February 2024
+)
+M A Blackburn
+(appointed
+8 February 2024
+, resigned
+10 June 2024
+)
+Registered number
+02673518
+Registered office
+55 Colmore Row
+Birmingham
+B3 2AA
+Independent auditors
+PKF Smith Cooper Audit Limited
+Prospect House
+1 Prospect Place
+Millennium Way
+Derby
+DE24 8HG
+BABINGTON BUSINESS COLLEGE LIMITED
+CONTENTS
+Page
+Strategic report
+1 - 4
+Directors' report
+5 - 7
+Independent auditors' report
+8 - 11
+Statement of comprehensive income
+12
+Balance sheet
+13
+Statement of changes in equity
+14
+Notes to the financial statements
+15 - 27
+BABINGTON BUSINESS COLLEGE LIMITED
+STRATEGIC REPORT
+FOR THE YEAR ENDED 31 JULY 2024
+The Directors present the Strategic Report of Babington Business College Limited (the “Company”) for the year-ended 31 July 2024.
+Principal activities of the business
+Babington seeks to develop better futures for organisations, individuals and the communities in which we operate. We seek to achieve this by supporting organisations and individuals unlock potential and perform at their very best.
+Babington Business College Limited is a national training provider, delivering apprenticeships and commercial training across the UK funded by the Government through the Education and Skills Funding Agency (“ESFA”), Skills Development Scotland (“SDS”) and via a subcontracting agreement, the Department for the Economy Northern Ireland.
+As one of the largest and most established apprenticeship providers in the UK, we’re an organisation of learning experts. Our national delivery and learner support teams have a diverse range of both education and industry backgrounds, allowing them to draw upon technical expertise and practical experience to provide optimal training solutions and learner engagement.
+All Babington’s accredited programmes take a learner-centric and people-focused approach, ensuring active participation in new learning and sought-after skills are well developed. Through hands on activities, collaborative projects and high quality facilitated learning Babington equip learners with the necessary skills and competencies to excel within their respective roles and future careers.
+Business review
+During the year ended 31 July 2024, the business undertook an extensive programme of activities to restructure and improve the underlying financial and operational performance of the Group.
+Turnover reduced by 19.6% (£4.5m) from £23.2m in FY23 to £18.6m in FY24;
+∙
+Gross margin remained broadly unchanged at 30% in FY24, compared to 31% in FY23; and
+∙
+EBITDA (adjusted for one-off restructuring activities) improved by 62.3% (£1.9m) from £(3.0)m in FY23 to £(1.3)m in FY24.
+In June 2023, in response to the worsening financial performance of the Group, the business commenced an extensive programme of activities to restructure business operations to increase focus, innovation and operational best practice aligned to a streamlined set of core apprenticeship programmes.
+Whilst the end-to-end programme of restructuring activities is not expected to be completed until early 2026, initial steps taken in June and July 2023 saw the organisation simplify, strengthen and refocus its operations to deliver market-leading learning experiences to support critical skills development aligned to market demand.
+As a result, the organisational restructure saw the Company focus on apprenticeships, professional qualifications and commercial programmes across five professional service specialisms: Accountancy, HR and L&D; Leadership & Management, Data and IT, and Business Administration and Customer Services.
+Consequently, Babington exited its existing Adult Education Budget (“AEB”) portfolio, including its digital skills bootcamps and sector work academy programme (“SWAP”) courses, as well as its England apprenticeships training offering within Property Services, Financial Services and Insurance; and Retail Apprenticeship Standards.
+Despite the move to exit certain Apprenticeship Standards, Babington has remained committed to safeguard and ensure continuity for all current and committed learners across affected programmes.
+Page 1
+BABINGTON BUSINESS COLLEGE LIMITED
+STRATEGIC REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 JULY 2024
+Business review - continued
+During the year ended 31 July 2024, both the Operational Improvement Plan and Financial Turnaround Plan were significantly progressed. With fifty years’ experience delivering high-impact learning programmes, the business leveraged its deep foundations, passionate colleagues and quality programmes to successfully execute the planned restructuring activities and return the business to positive and sustainable profitability and growth.
+As a result of these activities, the Company’s operating loss for the year ended 31 July 2024 reduced by 47.8% (adjusting for one-off restructuring costs) and the Company returned to sustainable profitability and cash generation in Q4 FY24.
+As a result of restructuring activities outlined above, overall revenue reduced by 19.6%:
+∙
+62% of the year-on-year reduction in revenue is attributable to the exit of its Adult Education Budget (“AEB”) portfolio, including its digital skills bootcamps and sector work academy programme (“SWAP”) courses; and
+∙
+38% of the year-on-year reduction in revenue is attributable to the cessation of England apprenticeships training offering within Property Services, Financial Services and Insurance; and Retail Apprenticeship Standards; partially offset by 9% growth in Continuing England apprenticeships training and 4% growth in Continuing Devolved Nations apprenticeships training.
+Alongside the purposeful and managed reduction in revenue, successful implementation of the Operational Improvement Plan, supported by a restructure of the Company’s central service departments, resulted in a 6.9ppts uplift to underlying EBITDA (adjusting for one-off restructuring costs).
+This uplift in underlying financial performance was delivered alongside improvements to Apprenticeship Learner Outcomes (i.e. Qualification Achievement Rates) and Apprenticeship Learner Retention Rates, as well as uplifts to both Customer and Employee satisfaction scores.
+As part of the restructuring plan, in September 2023, aligned to Babington’s commitment to safeguard and ensure continuity for all current and committed learners across affected programmes, Babington entered into an agreement with Davies Group that saw all existing customers and learners in affected Financial Services and Insurance Apprenticeship Standards offered the option to transfer and complete their learning with Davies
+In January 2024, the Office for Standards in Education (“Ofsted”) awarded Babington ‘Good’ across all five core inspection categories: Quality of education, Behaviour and Attitudes, Personal Development, Leadership and Management and Apprenticeships.
+Subsequently, Babington received Satisfactory gradings from both an ESFA Funding Assurance Review and SDS Funding Compliance Review conducted in 2024.
+Also in January 2024, the Company restructured its approach to curriculum design and programme delivery; adopting a learner centric approach with the stated objectives of improving learner engagement and application of knowledge, as well as improved contextualisation of curriculum within workplace settings; to uplift both the academic and practical outcomes of Apprenticeship learning for both learners and their employers. By January 2025, 55% of Babington’s Apprenticeship programmes have commenced redesign and relaunch of curriculum materials under the new design principles; whilst 100% of Babington’s Apprenticeship programmes have seen their delivery and learner support approach adapted to the revised approach.
+Following successful implementation of the Operational Improvement Plan and restructure of both Central Services and Programme Development departments, Babington’s Customer Engagement team was also restructured in Jul-24, transitioning the team to industry aligned verticals to better support Babington’s customers and support them to develop tailored strategies to address their learning and development requirements through a blend of funded and commercial solutions. .
+Page 2
+BABINGTON BUSINESS COLLEGE LIMITED
+STRATEGIC REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 JULY 2024
+Post Balance Sheet Events
+In November 2024, Babington was notified by ESFA of investigations relating to funding received in the academic years 2019/20 and 2020/21 for traineeship provision that Babington had subcontracted to third-party providers. The investigation relates to claims of learner data manipulation and recycled learner details by subcontractor providers.
+As Babington is the primary contracting party with ESFA, any funds recovery / clawback for subcontractor errors or wrongdoing, would be claimed against Babington. At the current time, ESFA investigations have not been concluded, however the total funding received under the traineeship agreements for provision subcontracted to the third-parties under investigation is held on balance sheet as a provision and relevant insurers have been notified. See note 17 for more details.
+Future developments
+Despite the financial challenges, the business continues to invest for the long-term and the Directors do not envisage any material change to the Group’s principal activities. As such, the financial statements have been prepared on a going concern basis as set out in the Directors’ Report.
+With almost fifty years’ experience delivering high-impact learning programmes, the business is leveraging its deep foundations, passionate colleagues and quality programmes to successfully execute the planned restructuring activities and return the business to positive and sustainable profitability and growth.
+Key performance indicators
+The performance of the business is monitored at various levels through a range of operational, commercial and financial metrics. Detailed management financial statements are produced on a monthly basis; analysed by individuals, teams and departments with accountability for the performance.
+The key financial performance measures considered by the Board and management are turnover, gross profit, gross margin, EBITDA and Free Cash Flow (“FCF”).
+To contextualise the financial performance of the business, other non-financial key performance indicators are monitored by the business, including (but not limited to) learner enrolment volumes by programme, timeliness of learner progression, learner retention and achievement rates, and both learner and customer satisfaction scores.
+Section 172 Statement
+It is a requirement that the Directors of the Company act in accordance with Section 172 (1) (a) to (f) of the Companies Act 2006 to promote the success of the Company for the benefit of its members as whole.
+We recognise the critically important role that our employees play in the success of the business and ensure that the health, safety and wellbeing of Babington employees is a top priority of the Board. We also ensure that dealings with learners, customers, suppliers and other stakeholders are fair and transparent, as we recognise that they are a critical factor in the success of the business.
+We behave responsibly and ensure that management operate the business in a responsible manner too, operating within the high standards of business conduct and good governance. The Directors understand that they must act in a way that is most likely to promote the success of the Company for the benefit of its members.
+Page 3
+BABINGTON BUSINESS COLLEGE LIMITED
+STRATEGIC REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 JULY 2024
+Principal risks and uncertainties
+Babington is principally funded by the Government through the Education and Skills Funding Agency (“ESFA”), Skills Development Scotland (“SDS”) and via a subcontracting agreement, the Department for the Economy Northern Ireland.
+As a result, the principal risks and uncertainties affecting the Group are considered to be related to changes to its contractual relationships with these Government Bodies, together with the strength of the UK’s economy and economic outlook and the willingness of employers to enrol and support employees on apprenticeship programmes.
+As such, the Directors manage this risk through regular and open dialogue with these funding bodies and through continuously monitoring and adapting to changes in Government policies, priorities and funding availability, and associated changes to the political and regulatory environment.
+Due to the complexity of the funding rules within which the Company operates, Babington continues to invest in its funding and compliance team who ensure funding submissions are accurate and complete, whilst also providing guidance and training to colleagues across the business to ensure adherence to funding rules and application of best practice in day-to-day decision making.
+Quality is central to both operational and strategic decision-making, formalised in 2023 by the creation of Quality & Compliance Governance Board, with non-executive chair and representatives to monitor and advise on all aspects of quality and compliance within the business.
+This report was approved by the board on
+7 March 2025
+and signed on its behalf
+.
+J E Bramley
+Director
+Page 4
+BABINGTON BUSINESS COLLEGE LIMITED
+DIRECTORS' REPORT
+FOR THE YEAR ENDED 31 JULY 2024
+The
+directors
+present
+their
+report and the
+financial statements
+for the
+year
+ended
+31 July 2024
+.
+Directors' responsibilities statement
+The
+directors
+are
+responsible for preparing the
+Strategic report, the Directors' report and the
+financial statements
+in accordance with
+applicable law and regulations
+.
+Company law
+requires
+the
+directors
+to prepare
+financial statements
+for each financial
+year
+. Under that law the directors have elected to prepare the financial statements in accordance with applicable law and United Kingdom Accounting Standards (United Kingdom Generally Accepted Accounting Practice), including Financial Reporting Standard 102 ‘The Financial Reporting Standard applicable in the UK and Republic of Ireland'. Under company law the directors must not approve the financial statements unless they are satisfied that they give
+a true and fair view of the state of affairs of the
+Company
+and of the
+profit or loss
+of the
+Company
+for that period.
+In preparing these financial statements, the directors are required to:
+∙
+select suitable
+accounting policies for the Company's financial statements
+and then apply them consistently;
+∙
+make
+judgments
+and accounting estimates that are reasonable and prudent;
+∙
+prepare the
+financial statements
+on the going concern basis
+unless it is inappropriate to presume that the Company will continue in business
+.
+The
+directors
+are
+responsible for keeping
+adequate
+accounting records that are sufficient to show and explain the Company's transactions and
+disclose with reasonable accuracy at any time the financial position of the
+Company
+and to enable
+them
+to ensure that the
+financial statements
+comply with the Companies Act 2006
+.
+They are
+also responsible for safeguarding the assets of the
+Company
+and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+Principal activity
+Babington Business College Limited is a national training provider, delivering apprenticeships and commercial training across the UK funded by the Government through the Education and Skills Funding Agency (“ESFA”), Skills Development Scotland (“SDS”) and via a subcontracting agreement, the Department for the Economy Northern Ireland.
+Results and dividends
+The
+loss
+for the
+year
+, after taxation, amounted to
+£
+5,169,001
+(2023 -
+loss
+£
+3,816,292
+)
+.
+The directors do not recommend the payment of a dividend (2023: £Nil).
+Directors
+The
+directors
+who served during the
+year
+were:
+J E Bramley
+T E Smith
+M R Basham
+(appointed
+18 July 2023
+, resigned
+8 February 2024
+)
+M A Blackburn
+(appointed
+8 February 2024
+, resigned
+10 June 2024
+)
+Page 5
+BABINGTON BUSINESS COLLEGE LIMITED
+DIRECTORS' REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 JULY 2024
+Going concern
+Notwithstanding the Company’s operating loss for the year ended 31 July 2024 of £5.1m, the financial statements have been prepared on a going concern basis, which the Directors consider to be appropriate for the following reasons.
+The Directors have prepared detailed profit and loss and cash flow forecasts for the period to 31 July 2026, which forecasts a return to both profitability and cash generation for the Group whilst the funding required to deliver the base case, together with contingency for substantial downside scenarios, has been committed by Unigestion SA.
+Whilst these loans are subject to interest, signed confirmation has been provided that no interest will be paid, nor any capital repayments made, on these loans prior to 12 August 2025.
+Following careful consideration of the assumptions and underlying drivers of the financial information, the Board is satisfied that the Company has adequate resources to continue in operational existence for the foreseeable future and to meet its current liabilities as they fall due. As such, the Directors believe that it remains appropriate to prepare the financial statements on a going concern basis
+Future developments
+Details of future developments and post balance sheet events are outlined in the Strategic Report.
+Financial risk management
+The principal financial instruments used by the Company comprise bank balances, trade creditors, trade debtors and loans to and from other companies in the Group. The management of these instruments provides finance for the Company’s operations.
+As a result, main risks arising from the Company’s financial instruments are credit risk, interest rate risk and liquidity risk.
+Credit risk
+Trade debtors are managed by policies concerning the credit offered to customers and regular monitoring of amounts outstanding for both time and credit limits.
+As the principal trade debtors of the Company are the Education and Skills Funding Agency (“ESFA”) and Skills Development Scotland (“SDS”), the risk of significant bad debtors is deemed to be low; however the risk is further mitigated through close scrutiny of the accuracy and completeness of funding claim submissions to reduce potential clawback of funds in future periods.
+Liquidity risk
+The Company forecasts cash flows on a weekly basis to monitor the likely cash requirements of the business over a 13-week forecast period. The forecast is used to ensure that there are sufficient funds available within the business to meet amounts as they fall due.
+Liquidity is managed through regular monitoring of short-term cash flows as well as medium and long-term scenario planning.
+Interest rate risk
+Interest rate risk is mitigated through loans held by the Company being agreed at a fixed interest rate.
+Page 6
+BABINGTON BUSINESS COLLEGE LIMITED
+DIRECTORS' REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 JULY 2024
+Engagement with employees
+The Company's employment policies have been designed to meet the needs of the Company and follow best practice, whilst complying with all applicable and relevant legislation. These policies are applied consistently throughout the Company and provide a fair and transparent framework within which employees operate.
+The Company is firmly committed to ensuring that the manner in which it employs staff is fair and equitable. Its equal opportunities policy is designed to ensure that no person or group of individuals will be treated less favourably because of their race, colour, ethnic origin, gender or sexual orientation, age, disability or marital status.
+The Directors are committed to maintaining a policy of regular communication, consultation and discussion with Company employees on a wide range of issues that are likely to affect their interests, ensuring employees are provided with information on matters of concern to them as employees, including the commercial, operational and financial factors affecting the performance of the Company.
+Disabled employees
+The Company is committed to a policy of recruitment and promotion on the basis of aptitude and ability without discrimination of any kind. As such, the Company gives full and fair consideration to applications for employment by disabled persons.
+In the event of employees becoming disabled whilst in the service of the Company, all reasonable efforts are made to ensure that they have the opportunity for continued employment with the Company; including transfer to alternative duties if required and by provision of such retraining as appropriate.
+Engagement with stakeholders
+The Directors have placed great importance on maintaining and nurturing relationships with key external stakeholders, including customers, partners, suppliers and others; and the impact of principal decisions taken by the Company during the financial year.
+Disclosure of information to auditors
+Each of the persons who are
+directors
+at the time when this
+Directors' report
+is approved has confirmed that:
+∙
+so far as
+the director
+is aware, there is no relevant audit information of which the
+Company
+'s auditor
+s
+are
+unaware, and
+∙
+the director
+has taken all the steps that ought to have been taken as a
+director
+in order to be aware of any relevant audit information and to establish that the
+Company
+'s auditor
+s
+are
+aware of that information.
+Auditors
+Under
+section 487(2) of the Companies Act 2006
+,
+PKF Smith Cooper Audit Limited
+will be deemed to have been reappointed as auditor
+s
+28 days after these
+financial statements
+were sent to members or 28 days after the latest date prescribed for filing the accounts with the registrar, whichever is earlier.
+This report was approved by the
+board
+on
+7 March 2025
+and signed on
+its
+behalf.
+J E Bramley
+Director
+Page 7
+BABINGTON BUSINESS COLLEGE LIMITED
+INDEPENDENT AUDITORS' REPORT TO THE MEMBERS OF BABINGTON BUSINESS COLLEGE LIMITED
+Opinion
+We
+have audited the
+financial statements
+of
+BABINGTON BUSINESS COLLEGE LIMITED (the 'Company')
+for the
+year
+ended
+31 July 2024
+, which comprise
+the Statement of comprehensive income, the Balance sheet, the Statement of changes in equity
+and the related notes, including a summary of significant accounting policies
+.
+The financial reporting framework that has been applied in their preparation is applicable law
+and United Kingdom Accounting Standards,
+including Financial Reporting Standard 102 ‘The Financial Reporting Standard applicable in the UK and Republic of Ireland' (United Kingdom Generally Accepted Accounting Practice).
+In
+our
+opinion
+the financial statements
+:
+∙
+give a true and fair view of the state of the
+Company's
+affairs as at
+31 July 2024
+and of
+its
+loss
+for the
+year
+then ended;
+∙
+have been properly prepared in accordance with
+United Kingdom
+Generally Accepted Accounting Practice; and
+∙
+have been prepared in accordance with the requirements of the Companies Act 2006.
+Basis for opinion
+We
+conducted
+our
+audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and applicable law.
+Our
+responsibilities under those standards are further described in the
+Auditors'
+responsibilities for the audit of the
+financial statements
+section of
+our
+report.
+We
+are
+independent of the
+Company
+in accordance with the ethical requirements that are relevant to
+our
+audit of the
+financial statements
+in the United Kingdom, including the Financial Reporting Council's Ethical Standard
+and
+we
+have fulfilled
+our
+other ethical responsibilities in accordance with these requirements.
+We
+believe that the audit evidence
+we
+have obtained is sufficient and appropriate to provide a basis for
+our
+opinion.
+Conclusions relating to going concern
+In auditing the financial statements,
+we
+have concluded that the
+directors'
+use of the going concern basis of accounting in the preparation of the financial statements is appropriate.
+Based on the work
+we
+have performed,
+we
+have not identified any material uncertainties relating to events or conditions that, individually or collectively, may cast significant doubt on the
+Company's
+ability to continue as a going concern for a period of at least twelve months from when the financial statements are authorised for issue.
+Our
+responsibilities and the responsibilities of the
+directors
+with respect to going concern are described in the relevant sections of this report.
+Other information
+The other information comprises the information included in the
+Annual Report
+other than the financial statements and
+our
+Auditors' report
+thereon. The
+directors
+are
+responsible for the other information contained within the
+Annual Report
+.
+Our
+opinion on the financial statements does not cover the other information and
+, except to the extent otherwise explicitly stated in our report,
+we
+do not express any form of assurance conclusion thereon.
+Our
+responsibility is to read the other information and, in doing so, consider whether the other information is materially inconsistent with the financial statements or
+our
+knowledge obtained in the course of the audit, or otherwise appears to be materially misstated. If
+we
+identify such material inconsistencies or apparent material misstatements,
+we
+are
+required to determine whether this gives rise to a material misstatement in the financial statements themselves. If, based on the work
+we
+have performed,
+we
+conclude that there is a material misstatement of this other information,
+we
+are
+required to report that fact.
+We
+have nothing to report in this regard.
+Page 8
+BABINGTON BUSINESS COLLEGE LIMITED
+INDEPENDENT AUDITORS' REPORT TO THE MEMBERS OF BABINGTON BUSINESS COLLEGE LIMITED (CONTINUED)
+Opinion on other matters prescribed by the Companies Act 2006
+In
+our
+opinion, based on the work undertaken in the course of the audit:
+∙
+the information given in the
+Strategic report and the Directors' report
+for the financial
+year
+for which the
+financial statements
+are prepared is consistent with the
+financial statements
+; and
+∙
+the
+Strategic report and the Directors' report
+have
+been prepared in accordance with applicable legal requirements.
+Matters on which we are required to report by exception
+In the light of the knowledge and understanding of the
+Company
+and its environment obtained in the course of the audit,
+we
+have not identified material misstatements in the
+Strategic report or the Directors' report
+.
+We
+have nothing to report in respect of the following matters in relation to which
+the Companies Act 2006
+requires
+us
+to report to you if, in
+our
+opinion:
+∙
+adequate accounting records have not been
+kept
+, or returns adequate for
+our
+audit have not been received from branches not visited by
+us
+; or
+∙
+the
+financial statements
+are not in agreement with the accounting records and returns; or
+∙
+certain disclosures of
+directors
+'
+remuneration specified by law are not made; or
+∙
+we
+have not received all the information and explanations
+we
+require for
+our
+audit
+.
+Responsibilities of directors
+As explained more fully in the
+Directors' responsibilities statement
+set out on page 5, the
+directors
+are
+responsible for the preparation of the
+financial statements
+and for being satisfied that they give a true and fair view, and for such internal control as the
+directors
+determine
+is necessary to enable the preparation of
+financial statements
+that are free from material misstatement, whether due to fraud or error.
+In preparing the
+financial statements
+, the
+directors
+are
+responsible for assessing the
+Company
+'s ability to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless the
+directors
+either
+intend
+to liquidate the
+Company
+or to cease operations, or have no realistic alternative but to do so.
+Page 9
+BABINGTON BUSINESS COLLEGE LIMITED
+INDEPENDENT AUDITORS' REPORT TO THE MEMBERS OF BABINGTON BUSINESS COLLEGE LIMITED (CONTINUED)
+Auditors' responsibilities for the audit of the financial statements
+Our
+objectives are to obtain reasonable assurance about whether the
+financial statements
+as a whole are free from material misstatement, whether due to fraud or error, and to issue an
+Auditors' report
+that includes
+our
+opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with ISAs (UK) will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these
+financial statements
+.
+Irregularities, including fraud, are instances of non-compliance with laws and regulations.
+We
+design procedures in line with
+our
+responsibilities, outlined above, to detect material misstatements in respect of irregularities, including fraud. The extent to which
+our
+procedures are capable of detecting irregularities, including fraud is detailed below:
+Based on our understanding of the Company and industry, we identify the key laws and regulations affecting the Company which include compliance with ESFA and OFSTED regulations.
+We identified that the principal risk of fraud or noncompliance with laws and regulations related to:
+• management bias in respect of accounting estimates and judgements made;
+• management override of control;
+• posting of unusual journals or transactions
+We focused on those areas that could give rise to a material misstatement in the Company financial statements.
+Our procedures included, but were not limited to:
+• Enquiry of management and those charged with governance/review of correspondence around actual and   potential litigation and claims, including instances of non-compliance with laws and regulations and fraud;
+• Reviewing minutes of meetings of those charged with governance where available;
+• Reviewing legal expenditure in the year to identify instances of non-compliance with laws and regulations   and fraud/ and enquiries with third party advisors about potential claims;
+• Reviewing financial statement disclosures and testing to supporting documentation to assess compliance   with applicable laws and regulations.
+• Performing audit work over the risk of management override of controls, including testing of journal entries  and other adjustments for appropriateness, evaluating the business rationale of significant transactions    outside the normal course of business and reviewing accounting estimates for bias. In particular, review of  revenue recognition and the useful economic lives of assets /analytical procedures to identify any     unexpected or unusual relationships that might indicate material misstatement due to fraud.
+It is the primary responsibility of management, with the oversight of those charged with governance, to ensure that the entity's operations are conducted in accordance with the provisions of laws and regulations and for the prevention and detection of fraud
+Because of the inherent limitations of an audit, there is a risk that
+we
+will not detect all irregularities, including those leading to a material misstatement in the
+financial statements
+or non-compliance with regulation. This risk increases the more that compliance with a law or regulation is removed from the events and transactions reflected in the
+financial statements
+, as
+we
+will be less likely to become aware of instances of non-compliance. The risk is also greater regarding irregularities occurring due to fraud rather than error, as fraud involves intentional concealment, forgery, collusion, omission or misrepresentation.
+A further description of
+our
+responsibilities for the audit of the
+financial statements
+is located on the Financial Reporting Council's website at:
+www.frc.org.uk/auditorsresponsibilities
+. This description forms part of
+our
+Auditors' report
+.
+Page 10
+BABINGTON BUSINESS COLLEGE LIMITED
+INDEPENDENT AUDITORS' REPORT TO THE MEMBERS OF BABINGTON BUSINESS COLLEGE LIMITED (CONTINUED)
+Use of our report
+This report is made solely to the
+Company
+'s
+members, as a body,
+in accordance with Chapter 3 of Part 16 of the Companies Act 2006
+.
+Our
+audit work has been undertaken so that
+we
+might state to the
+Company
+'s
+members
+those matters
+we
+are
+required to state to them in an
+Auditors' report
+and for no other purpose. To the fullest extent permitted by law,
+we
+do not accept or assume responsibility to anyone other than the
+Company
+and the
+Company
+'s
+members, as a body,
+for
+our
+audit work, for this report, or for the opinions
+we
+have formed.
+James Delve
+(Senior statutory auditor)
+for and on behalf of
+PKF Smith Cooper Audit Limited
+Statutory Auditors
+Prospect House
+1 Prospect Place
+Millennium Way
+Derby
+DE24 8HG
+7 March 2025
+Page 11
+BABINGTON BUSINESS COLLEGE LIMITED
+STATEMENT OF COMPREHENSIVE INCOME
+FOR THE YEAR ENDED
+31 JULY 2024
+2024
+2023
+Note
+£
+£
+Turnover
+4
+18,635,592
+23,168,073
+Cost of sales
+(
+13,079,334
+)
+(
+16,013,907
+)
+Gross profit
+5,556,258
+7,154,166
+Administrative expenses
+(
+7,368,733
+)
+(
+10,626,670
+)
+Exceptional administrative expenses
+10
+(
+3,300,951
+)
+(
+517,342
+)
+Operating loss
+5
+(
+5,113,426
+)
+(
+3,989,846
+)
+Tax on loss
+9
+(
+55,575
+)
+173,554
+Loss for the financial year
+(
+5,169,001
+)
+(
+3,816,292
+)
+There was no other comprehensive income for
+2024
+(
+2023
+:
+£
+NIL
+).
+The notes on pages 15 to 27 form part of these
+financial statements
+.
+Page 12
+BABINGTON BUSINESS COLLEGE LIMITED
+REGISTERED NUMBER:
+02673518
+BALANCE SHEET
+AS AT
+31 JULY 2024
+2024
+2023
+Note
+£
+£
+Fixed assets
+Intangible assets
+11
+631,009
+909,737
+Tangible assets
+12
+25,554
+28,935
+656,563
+938,672
+Current assets
+Debtors: amounts falling due after more than one year
+13
+956,209
+4,538,017
+Debtors: amounts falling due within one year
+13
+2,599,756
+3,013,604
+Cash at bank and in hand
+14
+410,501
+468,845
+3,966,466
+8,020,466
+Creditors: amounts falling due within one year
+15
+(
+2,702,200
+)
+(
+3,833,891
+)
+Net current assets
+1,264,266
+4,186,575
+Total assets less current liabilities
+1,920,829
+5,125,247
+Provisions for liabilities
+Other provisions
+17
+(
+1,964,583
+)
+-
+Net (liabilities)/assets
+(
+43,754
+)
+5,125,247
+Capital and reserves
+Called up share capital
+18
+105
+105
+Profit and loss account
+19
+(
+43,859
+)
+5,125,142
+(
+43,754
+)
+5,125,247
+The
+financial statements
+were approved and authorised for issue by the
+board
+and were signed on
+its
+behalf
+on
+7 March 2025
+.
+J E Bramley
+Director
+The notes on pages 15 to 27 form part of these financial statements.
+Page 13
+BABINGTON BUSINESS COLLEGE LIMITED
+STATEMENT OF CHANGES IN EQUITY
+FOR THE YEAR ENDED
+31 JULY 2024
+Called up share capital
+Profit and loss account
+Total equity
+£
+£
+£
+At 1 August 2022
+105
+8,941,434
+8,941,539
+Comprehensive income for the year
+Loss for the year
+-
+(
+3,816,292
+)
+(
+3,816,292
+)
+Total comprehensive income for the year
+-
+(
+3,816,292
+)
+(
+3,816,292
+)
+At 1 August 2023
+105
+5,125,142
+5,125,247
+Comprehensive income for the year
+Loss for the year
+-
+(
+5,169,001
+)
+(
+5,169,001
+)
+Total comprehensive income for the year
+-
+(
+5,169,001
+)
+(
+5,169,001
+)
+At 31 July 2024
+105
+(
+43,859
+)
+(
+43,754
+)
+The notes on pages 15 to 27 form part of these
+financial statements
+.
+Page 14
+BABINGTON BUSINESS COLLEGE LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2024
+1.
+General information
+The Company is a company limited by shares and is incorporated in England and Wales and details of its registered office are set out in the company information page. The Company's activities are disclosed in the Directors' report.
+2.
+Accounting policies
+2.1
+Basis of preparation of financial statements
+The
+financial statements
+have been prepared under the historical cost convention unless otherwise specified within these accounting policies and in accordance with
+Financial Reporting Standard 102, the Financial Reporting Standard applicable in
+the UK and the Republic of Ireland and the Companies Act 2006
+.
+The preparation of
+financial statements
+in compliance with FRS
+102
+requires the use of certain critical accounting estimates. It also requires management to exercise
+judgment
+in applying the
+Company
+'s
+accounting policies
+(see note 3).
+The financial statements have been prepared in £ sterling and have been rounded to the nearest £.
+The following principal
+accounting policies
+have been applied:
+2.2
+Financial Reporting Standard 102 - reduced disclosure exemptions
+The
+Company
+has taken advantage of the following disclosure exemptions in preparing these financial statements, as permitted by the FRS 102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland":
+∙
+the requirements of Section 7 Statement of Cash Flows
+;
+∙
+the requirements of Section 3 Financial Statement Presentation paragraph 3.17(d)
+;
+∙
+the requirements of Section 33 Related Party Disclosures paragraph 33.7
+.
+This information is included in the consolidated financial statements of
+Babington Business Limited
+as at
+31 July 2024
+and these financial statements may be obtained from
+Companies House
+.
+2.3
+Going concern
+The directors have prepared forecasts for the Group and Company based on conservative assumptions for the period to 31 July 2026, including new starts and success rates, as well as on-going cost levels. These forecasts include detailed cashflow forecasts through to 31 July 2026 showing that the Group and Company will have sufficient funds over this period to satisfy all liabilities as they fall due for payment. The Group and Company's cashflow needs will be met as required, from funds committed by Unigestion Direct II SCS-SICAV-RAIF (Compartment-Europe) ("Unigestion"), with an additional facility to cover the anticipated cashflow requirements identified by the forecasting exercise, including a contingency for any deviation for actual performance variance to budget. These loans are subject to interest, but signed confirmation has been provided that no interest will be paid nor any capital repayments made on these loans prior to 12 August 2026.
+As noted above, the Group and Company have received a letter of continued commitment from Unigestion confirming that they will continue to make these funds available to enable the Group and Company to meet its liabilities as they fall due for a period of at least 12 months from the date of signing of these financial statements. Therefore, the directors consider that they have a reasonable expectation that the Group and Company has adequate resources to continue in operational existence for the foreseeable future and to meet its current liabilities as they fall due. The Company therefore continues to adopt the going concern basis in preparing its financial statements.
+Page 15
+BABINGTON BUSINESS COLLEGE LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2024
+2.
+Accounting policies (continued)
+2.4
+Revenue
+Revenue
+is recognised to the extent that it is probable that the economic benefits will flow to the
+Company
+and the
+revenue
+can be reliably measured.
+Revenue
+is measured as the fair value of the consideration received or receivable, excluding discounts, rebates, value added tax and other sales taxes. The following criteria must also be met before
+revenue
+is recognised:
+Rendering of services
+Revenue
+from a contract to provide services is recognised in the period in which the services are provided in accordance with the stage of completion of the contract when all of the following conditions are satisfied:
+∙
+the amount of
+revenue
+can be measured reliably;
+∙
+it is probable that the
+Company
+will receive the consideration due under the contract;
+∙
+the stage of completion of the contract at the end of the reporting period can be measured reliably; and
+∙
+the costs incurred and the costs to complete the contract can be measured reliably.
+Revenue arising from the provision of educational services are recognised over the period of the delivery to a learner. The Company recognises revenue when services have been provided and contract conditions have been met in relation to these services. Therefore, the Company make a provision against revenue for instances where funding has to be returned to the ESFA when certain conditions are not met.
+2.5
+Operating leases: the Company as lessee
+Rentals paid under operating leases are charged to profit or loss on a straight-line basis over the lease term.
+2.6
+Research and development
+In the research phase of an internal project it is not possible to demonstrate that the project will generate future economic benefits and hence all expenditure on research shall be recognised as an expense when it is incurred. Intangible assets are recognised from the development phase of a project if and only if certain specific criteria are met in order to demonstrate the asset will generate probable future economic benefits and that its cost can be reliably measured. The capitalised development costs are subsequently amortised on a straight-line basis over their useful economic lives, which is 3 years.
+If it is not possible to distinguish between the research phase and the development phase of an internal project, the expenditure is treated as if it were all incurred in the research phase only.
+2.7
+Pensions
+Defined contribution pension plan
+The
+Company
+operates a defined contribution plan for its employees. A defined contribution plan is a pension plan under which the
+Company
+pays fixed contributions into a separate entity. Once the contributions have been paid the
+Company
+has no further payment obligations.
+The contributions are recognised as an expense in profit or loss when they fall due. Amounts not paid are shown in accruals as a liability in the
+Balance sheet
+. The assets of the plan are held separately from the
+Company
+in independently administered funds.
+Page 16
+BABINGTON BUSINESS COLLEGE LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2024
+2.
+Accounting policies (continued)
+2.8
+Current and deferred taxation
+The tax expense for the year comprises current and deferred tax.
+Tax is recognised in profit or loss except that a charge attributable to an item of income and expense recognised as other comprehensive income or to an item recognised directly in equity is also recognised in other comprehensive income or directly in equity respectively.
+The current income tax charge is calculated on the basis of tax rates and laws that have been enacted or substantively enacted by the
+balance sheet date
+in the countries where the
+Company operates and generates income
+.
+Deferred tax balances are recognised in respect of all timing differences that have originated but not reversed by the
+balance sheet date
+, except that:
+∙
+The recognition of deferred tax assets is limited to the extent that it is probable that they will be recovered against the reversal of deferred tax liabilities or other future taxable profits
+; and
+∙
+Any deferred tax balances are reversed if and when all conditions for retaining associated tax allowances have been met
+.
+Deferred tax balances are not recognised in respect of permanent differences except in respect of business combinations, when deferred tax is recognised on the differences between the fair values of assets acquired and the future tax deductions available for them and the differences between the fair values of liabilities acquired and the amount that will be assessed for tax. Deferred tax is determined using tax rates and laws that have been enacted or substantively enacted by the
+balance sheet date
+.
+2.9
+Exceptional items
+Exceptional items are transactions that fall within the ordinary activities of the
+Company
+but are presented separately due to their size or incidence.
+2.10
+Intangible assets
+Intangible assets,which comprise the development of training course content and delivery, are initially recognised at cost. After recognition, under the cost model, intangible assets are measured at cost less any accumulated amortisation and any accumulated impairment losses.
+At each reporting date the company assesses whether there is any indication of impairment. If such indication exists, the recoverable amount of the asset is determined which is the higher of its fair value less costs to sell and its value in use. An impairment loss is recognised where the carrying amount exceeds the recoverable amount.
+All intangible assets are considered to have a finite useful life. If a reliable estimate of the useful life cannot be made, the useful life shall not exceed ten years.
+The estimated useful lives range as follows:
+Development expenditure
+-
+33% straight line
+2.11
+Tangible fixed assets
+Tangible fixed assets under the cost model are stated at historical cost less accumulated depreciation and any accumulated impairment losses. Historical cost includes expenditure that is directly attributable to bringing the asset to the location and condition necessary for it to be capable of operating in the manner intended by management.
+Page 17
+BABINGTON BUSINESS COLLEGE LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2024
+2.
+Accounting policies (continued)
+2.11
+Tangible fixed assets (continued)
+Depreciation is charged so as to allocate the cost of assets less their residual value over their estimated useful lives,
+using the straight-line method
+.
+Depreciation is provided on the following basis:
+Fixtures and fittings
+-
+20
+%
+Computer equipment
+-
+33
+%
+The assets' residual values, useful lives and depreciation methods are reviewed, and adjusted prospectively if appropriate, or if there is an indication of a significant change since the last reporting date.
+Gains and losses on disposals are determined by comparing the proceeds with the carrying amount and are recognised in profit or loss.
+2.12
+Debtors
+Short term debtors are measured at transaction price, less any impairment.
+2.13
+Cash and cash equivalents
+Cash is represented by cash in hand and deposits with financial institutions repayable without penalty on notice of not more than 24 hours.
+2.14
+Creditors
+Short-term creditors are measured at the transaction price. Other financial liabilities, including bank loans, are measured initially at fair value, net of transaction costs, and are measured subsequently at amortised cost using the effective interest method.
+2.15
+Provisions for liabilities
+Provisions are recognised when an event has taken place that gives rise to a legal or constructive obligation, a transfer of economic benefits is probable and a reliable estimate can be made.
+Provisions are measured as the best estimate of the amount required to settle the obligation, taking into account the related risks and uncertainties.
+Increases in provisions are generally charged as an expense to profit or loss.
+2.16
+Financial instruments
+The Company has elected to apply the provisions of Section 11 “Basic Financial Instruments” of FRS102 to all of its financial instruments.
+Basic financial assets, which include trade and other receivables, cash and bank balances, are initially measured at their transaction price including transaction costs and are subsequently carried at their amortised cost using the effective interest method, less any provision for impairment, unless the arrangement constitutes a financing transaction, where the transaction is measured at the present value of the future receipts discounted at a market rate of interest.
+Discounting is omitted where the effect of discounting is immaterial. The Company's cash and cash equivalents, trade and most other receivables due with the operating cycle fall into this category of financial instruments.Financial liabilities are classified according to the substance of the contractual arrangements entered into.
+Page 18
+BABINGTON BUSINESS COLLEGE LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2024
+2.
+Accounting policies (continued)
+2.16
+Financial instruments (continued)
+Basic financial liabilities, which include trade and other payables, bank loans and other loans are initially measured at their transaction price after transaction costs. When this constitutes a financing transaction, whereby the debt instrument is measured at the present value of the future receipts discounted at a market rate of interest. Discounting is omitted where the effect of discounting is immaterial.
+Trade payables are obligations to pay for goods and services that have been acquired in the ordinary course of business from suppliers. Trade payables are classified as current liabilities if the payment is due within one year. If not, they represent non-current liabilities. Trade payables are initially recognised at their transaction price and subsequently are measured at amortised cost using the effective interest method. Discounting is omitted where the effect of discounting is immaterial.
+3.
+Judgments in applying accounting policies and key sources of estimation uncertainty
+Estimates and judgments are continually evaluated and are based on historical experience and other factors, including expectations of future events that are believed to be reasonable under the circumstances. The key areas of judgment relate to revenue recognition and the useful economic lives of tangible and intangible fixed assets:
+Revenue recognition
+The Company recognises revenue when services have been provided and contract conditions have been met in relation to these services. Therefore, the Company make a provision against revenue for instances where funding has to be returned to the ESFA when certain conditions are not met.
+Useful economic lives of fixed assets
+The annual charges for depreciation and amortisation of tangible and intangible fixed assets are sensitive to changes in the estimated economic useful lives of the asset. These are re-assessed annually and amended when necessary to reflect any changes arising from economic utilisation, future investments and their physical condition.
+4.
+Turnover
+An analysis of turnover by class of business is as follows:
+2024
+2023
+£
+£
+Apprenticeship & Commercial Programmes
+18,291,978
+19,489,530
+AEB Programmes
+37,731
+1,944,703
+Bootcamp Programmes
+62,779
+1,407,621
+Services Revenue
+243,104
+326,219
+18,635,592
+23,168,073
+All turnover arose
+within the United Kingdom
+.
+Page 19
+BABINGTON BUSINESS COLLEGE LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2024
+5.
+Operating loss
+The operating loss is stated after charging:
+2024
+2023
+£
+£
+Depreciation of fixed assets
+21,207
+31,612
+Amortisation of intangible fixed assets
+566,245
+594,327
+Other operating lease rentals
+174,955
+423,700
+6.
+Auditors' remuneration
+During the
+year
+, the
+Company
+obtained the following services from the
+Company
+'s
+auditors
+:
+2024
+2023
+£
+£
+Fees payable to the Company's auditors for the audit of the Company's financial statements
+30,250
+29,500
+7.
+Employees
+Staff costs
+, including directors' remuneration,
+were as follows:
+2024
+2023
+£
+£
+Wages and salaries
+10,885,058
+13,942,412
+Social security costs
+1,123,693
+1,440,976
+Cost of defined contribution scheme
+280,395
+367,616
+12,289,146
+15,751,004
+There were additional salary costs of £1,175,475 (2023: £308,993) which have been disclosed within exceptional costs. Also, included in intangible fixed asset additions (see note 11), £173,188 wages cost have been capitalised during the year (2023: £288,837).
+The average
+monthly
+number of
+employees, including the directors,
+during the
+year
+was as follows:
+2024
+2023
+No.
+No.
+Operational
+314
+405
+Page 20
+BABINGTON BUSINESS COLLEGE LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2024
+8.
+Directors' remuneration
+2024
+2023
+£
+£
+Directors' emoluments
+480,175
+195,533
+Company contributions to defined contribution pension schemes
+11,108
+7,000
+491,283
+202,533
+During the
+year
+retirement benefits were accruing to
+2
+directors
+(2023 -
+2
+)
+in respect of defined contribution pension schemes.
+The highest paid
+director
+received remuneration of
+£
+235,833
+(2023 - £
+105,909
+)
+.
+The value of the
+Company
+'s contributions paid to a defined benefit pension scheme in respect of the highest paid
+director
+amounted to
+£
+7,250
+(2023 - £
+3,000
+)
+.
+9.
+Taxation
+2024
+2023
+£
+£
+Corporation tax
+Adjustments in respect of previous periods
+-
+(
+174,120
+)
+Total current tax
+-
+(
+174,120
+)
+Deferred tax
+Origination and reversal of timing differences
+55,575
+566
+Total deferred tax
+55,575
+566
+Tax on loss
+55,575
+(
+173,554
+)
+Page 21
+BABINGTON BUSINESS COLLEGE LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2024
+9.
+Taxation (continued)
+Factors affecting tax charge for the year
+The tax assessed for the
+year
+is
+higher than
+(2023 - higher than)
+the standard rate of corporation tax
+in the UK of
+25
+%
+(2023 -
+21.01
+%)
+. The differences are explained below:
+2024
+2023
+£
+£
+Loss on ordinary activities before tax
+(
+5,113,426
+)
+(
+3,989,846
+)
+Loss on ordinary activities multiplied by standard rate of corporation tax in the UK of 25% (2023 - 21.01%)
+(
+1,278,357
+)
+(
+838,086
+)
+Effects of:
+Expenses not deductible for tax purposes, other than goodwill amortisation and impairment
+45,978
+3,321
+Remeasurement of deferred tax for changes in tax rates
+-
+(
+255,961
+)
+Adjustments to tax charge in respect of prior periods
+-
+(
+174,120
+)
+Other timing differences leading to an increase (decrease) in taxation
+125
+-
+Non-taxable income
+-
+(
+512,375
+)
+Unrelieved tax losses carried forward unrecognised in deferred tax
+1,287,829
+1,602,517
+Group relief
+-
+1,150
+Total tax charge for the year
+55,575
+(
+173,554
+)
+Factors that may affect future tax charges
+There are approximately £10,369,234 (2023: £6,405,562) of taxable losses which have not been recognised as a deferred tax asset. In addition, other timing differences of £170,719, which represent deferred tax assets have not been recognised.
+10.
+Exceptional items
+2024
+2023
+£
+£
+Exiting premises costs
+-
+109,655
+Additional one off staff costs
+-
+215,273
+ESFA provision
+1,964,583
+-
+Payroll costs relating to restructuring
+731,326
+-
+Consultancy costs relating to restructure
+127,620
+48,095
+Redundancy costs
+444,149
+96,841
+Other exceptional costs
+33,273
+47,478
+3,300,951
+517,342
+Page 22
+BABINGTON BUSINESS COLLEGE LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2024
+11.
+Intangible assets
+Development expenditure
+£
+Cost
+At 1 August 2023
+2,721,580
+Additions
+318,562
+Disposals
+(
+747,983
+)
+At 31 July 2024
+2,292,159
+Amortisation
+At 1 August 2023
+1,811,843
+Charge for the year on owned assets
+566,245
+On disposals
+(
+716,938
+)
+At 31 July 2024
+1,661,150
+Net book value
+At 31 July 2024
+631,009
+At 31 July 2023
+909,737
+Intangible fixed asset additions include £173,188 of wages costs which have been capitalised during the year (2023: £288,837).
+Page 23
+BABINGTON BUSINESS COLLEGE LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2024
+12.
+Tangible fixed assets
+Fixtures and fittings
+Computer equipment
+Total
+£
+£
+£
+Cost
+At 1 August 2023
+25,838
+95,526
+121,364
+Additions
+-
+21,148
+21,148
+Disposals
+(
+25,838
+)
+(
+30,782
+)
+(
+56,620
+)
+At 31 July 2024
+-
+85,892
+85,892
+Depreciation
+At 1 August 2023
+24,053
+68,376
+92,429
+Charge for the year on owned assets
+744
+20,463
+21,207
+Disposals
+(
+24,797
+)
+(
+28,501
+)
+(
+53,298
+)
+At 31 July 2024
+-
+60,338
+60,338
+Net book value
+At 31 July 2024
+-
+25,554
+25,554
+At 31 July 2023
+1,785
+27,150
+28,935
+13.
+Debtors
+2024
+2023
+£
+£
+Due after more than one year
+Amounts owed by group undertakings
+956,209
+4,538,017
+2024
+2023
+£
+£
+Due within one year
+Trade debtors
+1,413,802
+1,855,140
+Amounts owed by group undertakings
+648,825
+164,953
+Other debtors
+111,867
+194,783
+Prepayments and accrued income
+425,262
+743,153
+Deferred taxation
+-
+55,575
+2,599,756
+3,013,604
+,At the 30 June 2024. there was a provision against trade debtors of £581,223 (2023: £571,858).
+Page 24
+BABINGTON BUSINESS COLLEGE LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2024
+14.
+Cash and cash equivalents
+2024
+2023
+£
+£
+Cash at bank and in hand
+410,501
+468,845
+15.
+Creditors: Amounts falling due within one year
+2024
+2023
+£
+£
+Trade creditors
+413,291
+1,608,726
+Amounts owed to group undertakings
+180,516
+-
+Other taxation and social security
+380,857
+439,633
+Other creditors
+785,404
+1,443,651
+Accruals and deferred income
+942,132
+341,881
+2,702,200
+3,833,891
+Amounts owed to group undertakings are unsecured, interest free, have no fixed date of repayment and are repayable on demand.
+16.
+Deferred taxation
+2024
+£
+At beginning of year
+55,575
+Charged to profit or loss
+(
+55,575
+)
+At end of year
+-
+The
+deferred tax asset
+is made up as follows:
+2024
+2023
+£
+£
+Accelerated capital allowances
+36,626
+44,760
+Other timing differences
+6,054
+10,815
+Deferred tax asset not recognised
+(
+42,680
+)
+-
+-
+55,575
+Page 25
+BABINGTON BUSINESS COLLEGE LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2024
+16.
+Deferred taxation (continued)
+The expected net reversal of deferred tax assets and liabilities is not expected to be material.
+There are £10,369,234 (2023: 6,405,562) of taxable losses which have not been recognised as a deferred tax asset.
+17.
+Provisions
+Clawback Provision
+£
+Charged to profit or loss
+1,964,583
+At 31 July 2024
+1,964,583
+The provision is in respect of funds/clawback by the ESFA following investigations into traineeship provision that Babington had subcontracted to third-party providers. The amount provided is management's estimation of the potential maximum liability to the Company and it is currently in discussions with the ESFA to settle the issue. Further detail is included in the Strategic  report.
+18.
+Share capital
+2024
+2023
+£
+£
+Allotted, called up and fully paid
+105
+(2023 -
+105
+)
+A Ordinary
+shares of
+£
+1.00
+each
+105
+105
+19.
+Reserves
+Profit and loss account
+The profit and loss account consists of the Company's distributable reserves. There are no restrictions on the distribution of the profit and loss account.
+20.
+Pension commitments
+The Company operates a defined contributions pension scheme. The assets of the scheme are held separately from those of the Company  in an independently administered fund. The pension cost charge represents contributions payable by the Company to the fund and amounted to £280,395 (2023: £367,616). Contributions totalling £55,347 (2023: £71,384) were payable to the fund at the balance sheet date and are included in creditors.
+Page 26
+BABINGTON BUSINESS COLLEGE LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2024
+21.
+Commitments under operating leases
+At
+31 July 2024
+the
+Company
+had future minimum lease payments due under non-cancellable operating leases for each of the following periods:
+2024
+2023
+£
+£
+Not later than 1 year
+166,594
+147,864
+Later than 1 year and not later than 5 years
+73,943
+179,410
+240,537
+327,274
+22.
+Related party transactions
+The Company has taken advantage of the exemption available within the FRS102 not to disclose details of any transactions between itself and its fellow group undertakings on the basis that it is a subsidiary undertaking where 100% of the voting rights are controlled within the group whose consolidated financial statements are publicly available.
+Key management personnel received emoluments during the year of £134,693 (2023: £602,469). Details of directors' emoluments are included in note 8 to the financial statements.
+23.
+Controlling party
+At 31 July 2024, the immediate parent undertaking is Babington Business Limited, a company incorporated in England and Wales, the.smallest group for which consolidated accounts are prepared.which are available from Companies House, Crown Way, Cardiff, CF14 3UZ.. The ultimate parent undertaking is Marshal Topco Limited, a company incorporated in England & Wales.
+Marshal Topco Limited is considered to be under the control of funds managed by an affiliate of Unigestion SA.
+The directors consider that there is no one ultimate controlling party by virtue of there being no majority shareholder within the ultimate parent entity.
+Page 27

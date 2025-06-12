@@ -1,0 +1,640 @@
+Chiltern Training Limited - Accounts to registrar (filleted) - small 24.3
+IRIS Accounts Production
+v25.1.0.734
+03257566
+Board of Directors
+1.8.23
+31.7.24
+31.7.24
+false
+true
+false
+false
+true
+false
+iso4217:GBP
+iso4217:USD
+iso4217:EUR
+xbrli:shares
+xbrli:pure
+utr:tonnes
+utr:kWh
+03257566
+2023-07-31
+03257566
+2024-07-31
+03257566
+2023-08-01
+2024-07-31
+03257566
+2022-07-31
+03257566
+2022-08-01
+2023-07-31
+03257566
+2023-07-31
+03257566
+ns15:EnglandWales
+2023-08-01
+2024-07-31
+03257566
+ns14:PoundSterling
+2023-08-01
+2024-07-31
+03257566
+ns10:Director1
+2023-08-01
+2024-07-31
+03257566
+ns10:PrivateLimitedCompanyLtd
+2023-08-01
+2024-07-31
+03257566
+ns10:SmallEntities
+2023-08-01
+2024-07-31
+03257566
+ns10:AuditExemptWithAccountantsReport
+2023-08-01
+2024-07-31
+03257566
+ns10:SmallCompaniesRegimeForDirectorsReport
+2023-08-01
+2024-07-31
+03257566
+ns10:SmallCompaniesRegimeForAccounts
+2023-08-01
+2024-07-31
+03257566
+ns10:FullAccounts
+2023-08-01
+2024-07-31
+03257566
+ns10:Director2
+2023-08-01
+2024-07-31
+03257566
+ns10:RegisteredOffice
+2023-08-01
+2024-07-31
+03257566
+ns5:CurrentFinancialInstruments
+2024-07-31
+03257566
+ns5:CurrentFinancialInstruments
+2023-07-31
+03257566
+ns5:Non-currentFinancialInstruments
+2024-07-31
+03257566
+ns5:Non-currentFinancialInstruments
+2023-07-31
+03257566
+ns5:ShareCapital
+2024-07-31
+03257566
+ns5:ShareCapital
+2023-07-31
+03257566
+ns5:RetainedEarningsAccumulatedLosses
+2024-07-31
+03257566
+ns5:RetainedEarningsAccumulatedLosses
+2023-07-31
+03257566
+ns5:LeaseholdImprovements
+2023-08-01
+2024-07-31
+03257566
+ns5:FurnitureFittings
+2023-08-01
+2024-07-31
+03257566
+ns5:ComputerEquipment
+2023-08-01
+2024-07-31
+03257566
+ns5:LeaseholdImprovements
+2023-07-31
+03257566
+ns5:FurnitureFittings
+2023-07-31
+03257566
+ns5:ComputerEquipment
+2023-07-31
+03257566
+ns5:LeaseholdImprovements
+2024-07-31
+03257566
+ns5:FurnitureFittings
+2024-07-31
+03257566
+ns5:ComputerEquipment
+2024-07-31
+03257566
+ns5:LeaseholdImprovements
+2023-07-31
+03257566
+ns5:FurnitureFittings
+2023-07-31
+03257566
+ns5:ComputerEquipment
+2023-07-31
+03257566
+ns5:WithinOneYear
+ns5:CurrentFinancialInstruments
+2024-07-31
+03257566
+ns5:WithinOneYear
+ns5:CurrentFinancialInstruments
+2023-07-31
+03257566
+ns5:BetweenOneTwoYears
+ns5:Non-currentFinancialInstruments
+2024-07-31
+03257566
+ns5:BetweenOneTwoYears
+ns5:Non-currentFinancialInstruments
+2023-07-31
+REGISTERED NUMBER:
+03257566
+(England and Wales)
+CHILTERN TRAINING LIMITED
+FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2024
+Azets
+Accountants
+Titanium 1
+King's Inch Place
+Renfrew
+PA4 8WF
+CHILTERN TRAINING LIMITED (REGISTERED NUMBER: 03257566)
+CONTENTS OF THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2024
+Page
+Company Information
+1
+Balance Sheet
+2
+to
+3
+Notes to the Financial Statements
+4
+to
+9
+Accountants' Report
+10
+CHILTERN TRAINING LIMITED
+COMPANY INFORMATION
+FOR THE YEAR ENDED 31 JULY 2024
+DIRECTORS:
+K L Edwards
+J E Cunningham
+REGISTERED OFFICE:
+One Valpy
+20 Valpy Street
+Reading
+RG1 1AR
+REGISTERED NUMBER:
+03257566
+(England and Wales)
+ACCOUNTANTS:
+Azets
+Accountants
+Titanium 1
+King's Inch Place
+Renfrew
+PA4 8WF
+Page 1
+CHILTERN TRAINING LIMITED (REGISTERED NUMBER: 03257566)
+BALANCE SHEET
+31 JULY 2024
+31/7/24
+31/7/23
+Notes
+£
+£
+£
+FIXED ASSETS
+Tangible assets
+4
+429
+827
+CURRENT ASSETS
+Debtors
+5
+526,270
+539,591
+Cash at bank and in hand
+6,556
+5,807
+532,826
+545,398
+CREDITORS
+Amounts falling due within one year
+6
+140,914
+206,313
+NET CURRENT ASSETS
+391,912
+339,085
+TOTAL ASSETS LESS CURRENT
+LIABILITIES
+392,341
+339,912
+CREDITORS
+Amounts falling due after more than one
+year
+7
+179,135
+6,794
+NET ASSETS
+213,206
+333,118
+CAPITAL AND RESERVES
+Called up share capital
+1,000
+1,000
+Retained earnings
+212,206
+332,118
+SHAREHOLDERS' FUNDS
+213,206
+333,118
+The company is entitled to exemption from audit under Section 477 of the Companies Act 2006 for the year ended 31 July 2024.
+The members have not required the company to obtain an audit of its financial statements for the year ended 31 July 2024 in accordance with Section 476 of the Companies Act 2006.
+The directors acknowledge their responsibilities for:
+(a)
+ensuring that the company keeps accounting records which comply with Sections 386 and 387 of the Companies
+Act 2006 and
+(b)
+preparing financial statements which give a true and fair view of the state of affairs of the company as at the end of
+each financial year and of its profit or loss for each financial year in accordance with the requirements of Sections
+394 and 395 and which otherwise comply with the requirements of the Companies Act 2006 relating to financial
+statements, so far as applicable to the company.
+The notes form part of these financial statements
+Page 2
+continued...
+CHILTERN TRAINING LIMITED (REGISTERED NUMBER: 03257566)
+BALANCE SHEET - continued
+31 JULY 2024
+The financial statements have been prepared and delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+In accordance with Section 444 of the Companies Act 2006, the Statement of Income and Retained Earnings has not been delivered.
+The financial statements were approved by the Board of Directors and authorised for issue on
+17 April 2025
+and were
+signed on its behalf by:
+K L Edwards
+- Director
+The notes form part of these financial statements
+Page 3
+CHILTERN TRAINING LIMITED (REGISTERED NUMBER: 03257566)
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2024
+1.
+STATUTORY INFORMATION
+Chiltern Training Limited is a private company, limited by shares, registered in England and Wales. The
+Company's registered number is 03257566 and registered office address is One Valpy, 20 Valpy Street, Reading,
+Berkshire, RG1 1AR.
+The nature of the Company's operations and its principal activities for the year under review was that of the
+provision of National Vocational Qualification training.
+2.
+ACCOUNTING POLICIES
+Basis of preparing the financial statements
+These financial statements have been prepared in accordance with Financial Reporting Standard 102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland" including the provisions of Section 1A "Small Entities" and the Companies Act 2006. The financial statements have been prepared under the historical cost convention.
+The financial statements are prepared in sterling, which is the functional currency of the Company. Monetary
+amounts in these financial statements are rounded to the nearest £.
+Going concern
+At the time of approving the financial statements, the directors have a reasonable expectation that the Company
+has adequate resources to continue in operational existence for the foreseeable future. Thus the directors
+continue to adopt the going concern basis of accounting in preparing the financial statements.
+Critical accounting judgements and key sources of estimation uncertainty
+In preparing these financial statements, the directors have made the following judgements:
+Tangible fixed assets are depreciated over their useful lives taking into account residual values, where
+appropriate. The actual
+lives of
+the assets
+and residual
+values are assessed annually and may vary depending
+on a
+number
+of factors. In re-assessing
+asset
+lives,
+factors
+such as technological innovation, product life
+cycles and maintenance programmes are taken into account. Residual value assessments consider issues such as
+future market conditions, the remaining life of the asset and projected disposal values.
+Assets are considered for indications of impairment. If required an impairment review
+will be carried out and a
+decision made on possible impairment. Factors taken into consideration in reaching such a decision include the
+economic viability and expected future financial performance of the asset and where it is a component of a larger
+cash-generating unit, the viability and expected future performance of that unit.
+Bad debts are provided for where objective evidence of the need for a provision exists.
+Turnover
+Revenue is recognised to the extent that it is probable that the economic benefits will flow to the Company and
+the revenue can be reliably measured. Consideration is given to the point at which the Company is entitled to
+receive the income, excluding discounts, rebates, value added tax and other sales taxes. The following criteria
+must also be met before revenue is recognised:
+Revenue from the provision of services is recognised in the period in which the services are provided when all of
+the following conditions are satisfied:
+- the amount of revenue can be measured reliably;
+- it is probable that the Company will receive the consideration due;
+- the costs incurred can be measured reliably.
+Page 4
+continued...
+CHILTERN TRAINING LIMITED (REGISTERED NUMBER: 03257566)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+FOR THE YEAR ENDED 31 JULY 2024
+2.
+ACCOUNTING POLICIES - continued
+Tangible fixed assets
+Depreciation is provided at the following annual rates in order to write off each asset over its estimated useful life.
+Improvements to property
+-
+10% on cost
+Fixtures and fittings
+-
+25% on reducing balance
+Computer equipment
+-
+33% on cost
+Financial instruments
+The Company has elected to apply the provisions of Section 11 'Basic Financial Instruments' and Section 12 '
+Other Financial Instruments Issues' of FRS 102 to all of its financial instruments. Financial instruments are
+recognised in the Company's balance sheet when the Company becomes party to the contractual provisions of the
+instrument. Financial assets and liabilities are offset, with the net amounts presented in the financial statements,
+when there is a legally enforceable right to set off the recognised amounts and there is an intention to settle on a
+net basis or to realise the asset and settle the liability simultaneously.
+Basic financial assets
+Basic financial assets, which include debtors and cash and bank balances, are initially measured at transaction
+price including transactions costs and are subsequently carried at amortised cost using the effective interest
+method unless the arrangement constitutes a financing transaction, where the transaction is measured at the
+present value of the future receipts discounted at a market rate of interest. Financial assets classified as
+receivable within one year are not amortised.
+Derecognition of financial assets
+Financial assets are derecognised only when the contractual rights to the cash flows from the asset expire or are
+settled, or when the Company transfers the financial asset and substantially all the risks and rewards of
+ownership to another entity, or if some significant risks and rewards of ownership are retained but control of the
+asset has transferred to another party that is able to sell the asset in its entirety to an unrelated third party.
+Classification of financial liabilities
+Financial liabilities and equity instruments are classified according to the substance of the contractual
+arrangements entered into. An equity instrument is any contract that evidences a residual interest in the assets of
+the Company after deducting all of its liabilities.
+Basic financial liabilities
+Basic financial liabilities, including creditors, are initially recognised at transaction price unless the arrangement
+constitutes a financing transaction, where the debt instrument is measured at the present value of the future
+payments discounted at a market rate of interest. Financial liabilities classified as payable within one year are not
+amortised.
+Page 5
+continued...
+CHILTERN TRAINING LIMITED (REGISTERED NUMBER: 03257566)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+FOR THE YEAR ENDED 31 JULY 2024
+2.
+ACCOUNTING POLICIES - continued
+Taxation
+Current tax is recognised for the amount of income tax payable in respect of the taxable profit for the current or
+past reporting periods using the tax rates and laws that have been enacted or substantively enacted by the
+reporting date.
+Deferred tax is recognised in respect of all timing differences at the reporting date, except as otherwise indicated.
+Deferred tax assets are only recognised to the extent that it is probable that they will be recovered against the
+reversal of deferred tax liabilities or other future taxable profits.
+If and when all conditions for retaining tax allowances for the cost of a fixed asset have been met, the deferred
+tax is reversed.
+Deferred tax is calculated using the tax rates and laws that have been enacted or substantively enacted by the
+reporting date that are expected to apply to the reversal of the timing difference.
+With the exception of changes arising on the initial recognition of a business combination, the tax expense
+(income) is presented either in profit or loss, other comprehensive income or equity depending on the transaction
+that resulted in the tax expense (income).
+Deferred tax liabilities are presented within provisions for liabilities and deferred tax assets within debtors.
+Deferred tax assets and deferred tax liabilities are offset only if the deferred tax assets and deferred tax liabilities
+relate to income taxes levied by the same taxation authority on either the same taxable entity or different taxable
+entities which intend either to settle current tax liabilities and assets on a net basis, or to realise the assets and
+settle the liabilities simultaneously.
+Pension costs and other post-retirement benefits
+The company operates a defined contribution pension scheme.
+Contributions payable to the company's pension
+scheme are charged to profit or loss in the period to which they relate.
+Cash and cash equivalents
+Cash and cash equivalents are basic financial assets and include cash in hand, deposits held at call with banks
+and other short-term liquid investments with original maturities of three months or less.
+Page 6
+continued...
+CHILTERN TRAINING LIMITED (REGISTERED NUMBER: 03257566)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+FOR THE YEAR ENDED 31 JULY 2024
+2.
+ACCOUNTING POLICIES - continued
+Impairment of assets
+Assets, other than those measured at fair value, are assessed for indicators of impairment at each balance sheet
+date. If there is objective evidence of impairment, an impairment loss is recognised in profit or loss as described
+below.
+Non-financial assets
+An asset is impaired where there is objective evidence that, as a result of one or more events that occurred after
+initial recognition, the estimated recoverable value of the asset has been reduced. The recoverable amount of an
+asset is the higher of its fair value less costs to sell and its value in use.
+Where indicators exist for a decrease in impairment loss, the prior impairment loss is tested to determine
+reversal. An impairment loss is reversed on an individual impaired asset to the extent that the revised recoverable
+value does not
+lead to a revised carrying amount higher than the carrying value had no impairment
+been
+recognised.
+Financial assets
+For financial assets carried at amortised cost, the amount of impairment is the difference between the asset's
+carrying amount and the present value of estimated future cash flows, discounted at the financial asset's original
+effective interest rate.
+For financial assets carried at cost less impairment, the impairment loss is the difference between the asset's
+carrying amount and the best estimate of the amount that would be received for the asset if it were to be sold at
+the reporting date.
+Where indicators exist for a decrease in impairment loss, and the decrease can be related objectively to an event
+occurring after the impairment was recognised, the prior impairment loss is tested to determine reversal.
+An impairment loss is reversed on an individual impaired financial asset to the extent that the revised recoverable
+value does not lead to a revised carrying amount higher than the carrying value had no impairment been
+recognised.
+3.
+EMPLOYEES AND DIRECTORS
+The average number of employees during the year was
+20
+(2023 -
+21
+) .
+Page 7
+continued...
+CHILTERN TRAINING LIMITED (REGISTERED NUMBER: 03257566)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+FOR THE YEAR ENDED 31 JULY 2024
+4.
+TANGIBLE FIXED ASSETS
+Improvements
+Fixtures
+to
+and
+Computer
+property
+fittings
+equipment
+Totals
+£
+£
+£
+£
+COST
+At 1 August 2023
+26,704
+28,770
+14,018
+69,492
+Disposals
+(
+26,704
+)
+-
+-
+(
+26,704
+)
+At 31 July 2024
+-
+28,770
+14,018
+42,788
+DEPRECIATION
+At 1 August 2023
+26,701
+28,357
+13,607
+68,665
+Charge for year
+-
+101
+294
+395
+Eliminated on disposal
+(
+26,701
+)
+-
+-
+(
+26,701
+)
+At 31 July 2024
+-
+28,458
+13,901
+42,359
+NET BOOK VALUE
+At 31 July 2024
+-
+312
+117
+429
+At 31 July 2023
+3
+413
+411
+827
+5.
+DEBTORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+31/7/24
+31/7/23
+£
+£
+Trade debtors
+75,643
+63,845
+Amounts owed by group undertakings
+445,625
+454,707
+Prepayments
+5,002
+21,039
+526,270
+539,591
+6.
+CREDITORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+31/7/24
+31/7/23
+£
+£
+Bank loans and overdrafts
+6,794
+12,500
+Trade creditors
+53,412
+157,588
+Social security and other taxes
+10,309
+10,047
+Other creditors
+60,000
+16,597
+Accrued expenses
+10,399
+9,581
+140,914
+206,313
+7.
+CREDITORS: AMOUNTS FALLING DUE AFTER MORE THAN ONE
+YEAR
+31/7/24
+31/7/23
+£
+£
+Bank loans - 1-2 years
+-
+6,794
+Other creditors
+179,135
+-
+179,135
+6,794
+Page 8
+continued...
+CHILTERN TRAINING LIMITED (REGISTERED NUMBER: 03257566)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+FOR THE YEAR ENDED 31 JULY 2024
+8.
+RELATED PARTY DISCLOSURES
+Included in debtors at 31st July 2024 is £445,625 due from the parent company Chiltern Training Group Limited
+(2023 £454,707).
+9.
+ULTIMATE CONTROLLING PARTY
+There is no ultimate controlling party as the shares in the parent company Chiltern Training Group Limited are
+owned equally by 4 shareholders.
+Page 9
+ACCOUNTANTS' REPORT TO THE BOARD OF DIRECTORS
+ON THE UNAUDITED FINANCIAL STATEMENTS OF
+CHILTERN TRAINING LIMITED
+The following reproduces the text of the report prepared for the directors in respect of the company's annual
+unaudited financial statements. In accordance with the Companies Act 2006, the company is only required to file
+a Balance Sheet. Readers are cautioned that the Income Statement and certain other primary statements and the
+Report of the Directors are not required to be filed with the Registrar of Companies.
+In order to assist you to fulfil your duties under the Companies Act 2006, we have prepared for your approval the
+financial statements of Chiltern Training Limited for the year ended 31 July 2024 which comprise the Statement of
+Income and Retained Earnings, Balance Sheet and the related notes from the company's accounting records and from
+information and explanations you have given us.
+This report is made solely to the Board of Directors of Chiltern Training Limited, as a body, in accordance with our
+terms of engagement. Our work has been undertaken solely to prepare for your approval the financial statements of
+Chiltern Training Limited
+and state those matters that we have agreed to state to the Board of Directors of Chiltern
+Training Limited, as a body, in this report in accordance with ICAEW Technical Release 07/16AAF. To the fullest
+extent permitted by law, we do not accept or assume responsibility to anyone other than Chiltern Training Limited and
+its Board of Directors, as a body, for our work or for this report.
+It is your duty to ensure that Chiltern Training Limited has kept adequate accounting records and to prepare statutory
+financial statements that give a true and fair view of the assets, liabilities, financial position and loss of Chiltern Training
+Limited. You consider that Chiltern Training Limited
+is exempt from the statutory audit requirement for the year.
+We have not been instructed to carry out an audit or a review of the financial statements of Chiltern Training Limited.
+For this reason, we have not verified the accuracy or completeness of the accounting records or information and
+explanations you have given to us and we do not, therefore, express any opinion on the statutory financial statements.
+Azets
+Accountants
+Titanium 1
+King's Inch Place
+Renfrew
+PA4 8WF
+17 April 2025
+This page does not form part of the statutory financial statements
+Page 10

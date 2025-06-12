@@ -1,0 +1,311 @@
+COMPETENCE DEVELOPMENT LIMITED
+REPORT OF THE DIRECTORS AND
+UNAUDITED FINANCIAL STATEMENTS
+
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+THURSDAY
+
+Page 1
+
+wil ait
+
+oao7me024 #239 |
+
+COMPANIES HOUSE
+
+J
+
+COMPETENCE DEVELOPMENT LIMITED
+
+CONTENTS OF THE FINANCIAL STATEMENTS
+
+For the Year Ended 31 December 2023
+
+Page
+Company Information 3
+Report of the Directors 4
+Statement of Comprehensive Income 5
+Statement of Financial Position 6
+Notes to the Financial Statements 7
+
+
+COMPETENCE DEVELOPMENT LIMITED
+COMPANY INFORMATION
+
+For the Year Ended 31 December 2023
+
+DIRECTORS: W Joyce (Resigned 1 March 2023)
+DJ Moore (Resigned 31 December 2023)
+A Lenagan (Appointed 31 December 2023)
+D Smith (Appointed 31 March 2024)
+
+REGISTERED OFFICE: Robin Park Arena
+Loire Drive
+Wigan
+WNS OUH
+REGISTERED NUMBER: 07422326 (England and Wales)
+
+Page 3
+
+
+COMPETENCE DEVELOPMENT LIMITED
+REPORT OF THE DIRECTORS
+
+For the Year Ended 31 December 2023
+
+The director presents hisr report with the financial statements of the company for the year ended 31 December 2023.
+PRINCIPAL ACTIVITY
+The principal activities of the company in the year under review was that of education provision of study programmes at further
+
+education level and apprenticeships.
+
+DIRECTORS
+The director shown below held office during the whole of the period from 1 January 2022 to the date of this report:
+
+D Moore
+This report has been prepared in accordance with the provisions of Part 15 of the Companies Act 2006 relating to small
+companies. ,
+
+ON BEHALF OF THE BOARD:
+
+D Smith — Director
+
+Date: 16 May 2024......
+
+Page 4
+
+
+COMPETENCE DEVELOPMENT LIMITED
+STATEMENT OF COMPREHENSIVE INCOME
+
+For the Year Ended 31 December 2023
+
+31 Dec 31 Dec
+2023 2022
+Notes £ £
+
+TURNOVER 1,449,254 921,582
+Administrative expenses 1,375,137 1,363,533
+OPERATING (LOSS / PROFIT 74,117 (441,951)
+Interest payable and similar expenses - :
+(LOSS) / PROFIT BEFORE TAXATION 74,117 (441,951)
+Tax on profit , 119,533 -
+(LOSS) / PROFIT FOR THE FINANCIAL 193,650 (441,951)
+YEAR
+OTHER COMPREHENSIVE INCOME -
+TOTAL COMPREHENSIVE (LOSS) /
+INCOME FOR THE YEAR 193,650 (441,951)
+
+Page 5
+
+COMPETENCE DEVELOPMENT LIMITED
+STATEMENT OF FINANCIAL POSITION
+
+31 December 2023
+31 December 2023 31 December 2022
+Notes £ £ £ £
+
+FIXED ASSETS
+Intangible assets 4 689,906 424,748
+Tangible assets 5 11,716 18,396
+CURRENT ASSETS
+Debtors 6 291,600 528,751
+Cash at bank and in hand 874,594 42,874
+
+1,166,194 571,625
+CURRENT LIABILITIES
+Creditors 7 (181,217) (754,130)
+NET CURRENT ASSETS / LIABILITIES 984,977 (182,505)
+TOTAL ASSETS LESS CURRENT LIABILITIES 1,686,599 260,639
+NON-CURRENT LIABILITIES
+Financial Liabilities 7 (1,836,318) (603,992)
+NET ASSETS / (LIABILITIES) (149,719) (343,353)
+CAPITAL AND RESERVES
+Called up share capital 8 8
+Retained earnings (149,711) (343,361)
+SHAREHOLDERS’ FUNDS (149,719) (343,353)
+
+The company is entitled to exemption from audit under Section 477 of the Companies Act 2006 for the year ended 31 December 2023.
+
+The members have not required the company to obtain an audit of its financial statements for the year ended 31 December 2023 in
+accordance with Section 476 of the Companies Act 2006.
+The directors acknowledge their responsibilities for:
+
+(a) Ensuring that the company keeps accounting records which comply with Sections 387 and 387 of the Companies Act 2006 and
+{b) Preparing financial statements which give a true and fair view of the state of affairs of the company as at the end of each financial
+year and of its surplus or deficit for each financial year in accordance with the requirements of Sections 394 and 395 and which
+otherwise comply with the requirements of the Companies Act 2006 relating to financial statements, so far as applicable to the
+company.
+The financial statements have been prepared in accordance with the provisions of Part 15 of the Companies Act 2006 relating to small
+companies.
+
+D Smith — Director
+
+Page 6
+
+1,
+
+COMPETENCE DEVELOPMENT LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+
+For the Year Ended 31 December 2023
+STATUTORY INFORMATION
+
+Competence Development Limited is a private company, limited by shares, registered in England and Wales. The company’s registered
+number and registered office address can be found on the Company Information page.
+
+ACCOUNTING POLICIES
+
+Basis of preparing the financial statements
+
+These financial statements have been prepared in accordance with the provisions of Section 1A “Small Entities” of Financial Reporting
+Standard 102 “The Financial Reporting Standard applicable in the UK and Republic of ireland” and the Companies Act 2006. The financial
+statements have been prepared under the historical cost convention.
+
+Revenue
+Turnover is measured at the fair value of the consideration received or receivable in respect of services provided. Revenue is recognised
+on a straight line basis over the duration of the contract with the education provider.
+
+Intangible fixed assets
+Amortisation of intangible fixed assets only commences when the relevant development is commercially ready for sale. Only those costs
+
+which relate directly to the development of commercially viable software are held as intangible fixed assets.
+
+Amortisation is provided at the following annual rates in order to write off the cost less estimated residual value of intangible assets over
+the estimated useful life:
+
+Software development — 20% on cost
+Intangible fixed assets are stated at cost less amortisation
+
+Tangible fixed assets
+Depreciation is provided at the following annual rates in order to write off the cost less estimated residual value of each asset over its
+
+estimated useful life.
+
+Improvements to property — 10% on cost
+Office equipment — 33% on cost
+
+Tangible fixed assets are stated at cost less depreciation.
+
+teasing commitments
+Rentals paid under operating leases are charged to the income statement on a straight line basis over the period of the lease.
+
+impairment of assets
+
+At each reporting date assets are reviewed to determine whether there is any indication that those assets have suffered an impairment
+loss. If there is an indication of possible impairment, the recoverable amount of any affected asset is estimated and compared with its
+carrying amount. If the estimated recoverable amount is lower the carrying amount is reduced to its estimated recoverable amount and
+
+an impairment loss is recognised immediately in profit or loss.
+
+Where an impairment loss subsequently reverses, the carrying amount of the asset is increased to the revised estimate of its recoverable
+amount, to the extent that the increased carrying amount does not exceed the carrying amount that would have been determined {net of
+depreciation) had no impairment loss been recognised for the asset in its prior years. A reversal of an impairment loss is recognised as
+income immediately.
+
+Page 7
+
+COMPETENCE DEVELOPMENT LIMITED
+NOTES TO THE FINANCIAL STATEMENTS - continued
+For the Year Ended 31 December 2023
+2. ACCOUNTING POLICIES - continued
+Financial instruments
+Short term financial assets are measured at transaction price less any impairment. Short terms financial liabilities are measured at
+transaction price.
+
+Financial liabilities that have no stated interest rate and are payable within one year are measured at the undiscounted amount due.
+
+Associated undertaking loans payable and receivable are measured at the undiscounted amount due as they are deemed to be repayable
+on demand.
+
+Taxation
+Taxation for the period comprises current and deferred tax. Tax is recognised in the statement of comprehensive income, except to the
+
+extent that it relates to items recognised in other comprehensive income or directly in equity.
+
+Current tax is recognised at the amount of tax payable using the tax rates and laws that have been enacted or substantively enacted by
+the statement of financial position date.
+
+Pensions
+The company operates a defined contribution pension scheme through The People’s Pension, and the pension charge represents the
+amounts payable by the company to the fund in respect of the period.
+
+3. EMPLOYEES AND DIRECTORS
+
+The average monthly number of employees during the period was ** (2022 —**)
+
+4. INTANGIBLE FIXED ASSETS
+
+Software
+Development Totals
+£ £
+cost
+At 1 January 2023 438,463 438,463
+Additions 352,851 352,851
+Disposals : :
+At 31 December 2023 791,314 791,314
+AMORTISATION
+At LJanuary 2023 13,715 13,715
+Charge for year 87,693 87,693
+Eliminated on disposal
+At 31 December 2023 101,408 101,408
+NET BOOK VALUE
+At 31 December 2023 689,906 689,906
+At 31 December 2022 424,748 424,748
+
+Page 8
+
+COMPETENCE DEVELOPMENT LIMITED
+NOTES TO THE FINANCIAL STATEMENTS - continued
+
+, For the Year Ended 31 December 2023
+5. TANGIBLE FIXED ASSETS
+
+Office
+equipment Totals
+£ £
+COsT
+At 1 January 2023 . 48,421 48,421
+Additions 2,994 2,994
+Disposals .
+At 31 December 2023 51,415 $1,415
+DEPRECIATION
+At 1 January 2023 30,025 30,025
+Charge for year 9,674 9,674
+Eliminated on disposal ,
+At 31 December 2023 39,699 39,699
+NET BOOK VALUE
+At 31 December 2023 11,716 11,716
+At 31 December 2022 18,396 18,396
+6. DEBTORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+December December
+2023 2022
+£ £
+Trade debtors 53,282 320,898
+Other debtors 110,778 203,403
+Corporation and other taxes 119,533
+Prepayments and accrued income 8,007 4,450
+291,600 528,751
+7. CREDITORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+: December December
+2023 2022
+£ £
+Trade creditors 55,000 39,016
+Social security and other taxes 21,755 271,874
+Other creditors 7,894 218,473
+Deferred Income 81,680 127,437
+Accrued expenses 14,888
+
+181,217 754,130
+
+CREDITORS: AMOUNTS FALLING DUE AFTER ONE YEAR
+
+December December
+2023 2022
+£ £
+Loan account 1,836,318 603,992
+
+Page 9
+

@@ -1,0 +1,462 @@
+xbrl
+06752547
+false
+that of the provision of HGV driver training services
+2023-05-01
+2024-04-30
+http://www.companieshouse.gov.uk/
+2023-04-30
+http://www.companieshouse.gov.uk/
+pt:PlantMachinery
+2023-04-30
+http://www.companieshouse.gov.uk/
+pt:ShareCapital
+2023-04-30
+http://www.companieshouse.gov.uk/
+cd:Director1
+2023-05-01
+2024-04-30
+http://www.companieshouse.gov.uk/
+pt:PlantMachinery
+2024-04-30
+http://www.companieshouse.gov.uk/
+pt:ShareCapital
+2024-04-30
+http://www.companieshouse.gov.uk/
+cd:Director2
+2023-05-01
+2024-04-30
+http://www.companieshouse.gov.uk/
+pt:FurnitureFittings
+2023-04-30
+http://www.companieshouse.gov.uk/
+cd:Director3
+2023-05-01
+2024-04-30
+http://www.companieshouse.gov.uk/
+pt:ToolsEquipment
+2023-04-30
+http://www.companieshouse.gov.uk/
+pt:FurnitureFittings
+2024-04-30
+http://www.companieshouse.gov.uk/
+cd:Director4
+2023-05-01
+2024-04-30
+http://www.companieshouse.gov.uk/
+cd:OrdinaryShareClass1
+2023-05-01
+2024-04-30
+http://www.companieshouse.gov.uk/
+pt:ToolsEquipment
+2024-04-30
+http://www.companieshouse.gov.uk/
+cd:RegisteredOffice
+2023-05-01
+2024-04-30
+http://www.companieshouse.gov.uk/
+cd:OrdinaryShareClass2
+2023-05-01
+2024-04-30
+http://www.companieshouse.gov.uk/
+cd:OrdinaryShareClass3
+2023-05-01
+2024-04-30
+http://www.companieshouse.gov.uk/
+pt:NetGoodwill
+2024-04-30
+http://www.companieshouse.gov.uk/
+cd:AuditExemptWithAccountantsReport
+2023-05-01
+2024-04-30
+http://www.companieshouse.gov.uk/
+cd:OrdinaryShareClass4
+2023-05-01
+2024-04-30
+http://www.companieshouse.gov.uk/
+cd:OrdinaryShareClass5
+2023-05-01
+2024-04-30
+http://www.companieshouse.gov.uk/
+pt:CurrentFinancialInstruments
+2024-04-30
+http://www.companieshouse.gov.uk/
+pt:NetGoodwill
+2023-05-01
+2024-04-30
+http://www.companieshouse.gov.uk/
+pt:CurrentFinancialInstruments
+2023-04-30
+http://www.companieshouse.gov.uk/
+2023-05-01
+2024-04-30
+http://www.companieshouse.gov.uk/
+2023-04-30
+http://www.companieshouse.gov.uk/
+cd:FRS102
+2023-05-01
+2024-04-30
+http://www.companieshouse.gov.uk/
+2024-04-30
+http://www.companieshouse.gov.uk/
+cd:FullAccounts
+2023-05-01
+2024-04-30
+http://www.companieshouse.gov.uk/
+cd:PrivateLimitedCompanyLtd
+2023-05-01
+2024-04-30
+iso4217:GBP
+xbrli:shares
+xbrli:pure
+Registered number: 06752547
+2 Start Limited
+ACCOUNTS
+FOR THE YEAR ENDED
+30/04/2024
+Prepared By:
+Victor Stewart
+The White House
+164 Bridge Road
+Sarisbury Green, Southampton
+Hampshire
+SO31 7EH
+2 Start Limited
+ACCOUNTS
+FOR THE YEAR ENDED 30/04/2024
+DIRECTORS
+Paul Moon
+Caroline Moon
+Daisy Udy (resigned 14/07/23)
+Roy Chambers
+REGISTERED OFFICE
+Unit 4 Shawcross Industrial Park
+Acworth Road, Hilsea
+Portsmouth
+Hampshire
+PO3 5HU
+COMPANY DETAILS
+Private company limited by shares registered in EW - England and Wales, registered number 06752547
+ACCOUNTANTS
+Victor Stewart
+The White House
+164 Bridge Road
+Sarisbury Green, Southampton
+Hampshire
+SO31 7EH
+2 Start Limited
+ACCOUNTS
+FOR THE
+YEAR
+ENDED
+30/04/2024
+CONTENTS
+Page
+Directors' Report
+-
+Accountants' Report
+-
+Statement Of Comprehensive Income
+-
+Balance Sheet
+3
+Notes To The Accounts
+4
+The following do not form part of the statutory financial statements:
+Trading And Profit And Loss Account
+-
+Profit And Loss Account Summaries
+-
+2 Start Limited
+BALANCE SHEET AT
+30/04/2024
+2024
+2023
+Notes
+£
+£
+FIXED ASSETS
+Tangible assets
+3
+61,607
+72,639
+CURRENT ASSETS
+Debtors
+5
+376,976
+313,013
+Cash at bank and in hand
+501,690
+517,496
+878,666
+830,509
+CREDITORS: Amounts falling due within one year
+6
+608,083
+562,605
+NET CURRENT ASSETS
+270,583
+267,904
+TOTAL ASSETS LESS CURRENT LIABILITIES
+332,190
+340,543
+PROVISIONS FOR LIABILITIES AND CHARGES
+8
+8,938
+7,296
+NET ASSETS
+323,252
+333,247
+CAPITAL AND RESERVES
+Called up share capital
+9
+104
+104
+Profit and loss account
+323,148
+333,143
+SHAREHOLDERS' FUNDS
+323,252
+333,247
+For the year ending 30/04/2024 the company was entitled to exemption under section 477 of the Companies Act 2006 relating to small companies.
+The members have not required the company to obtain an audit in accordance with section 476 of the Companies Act 2006.
+The directors acknowledge their responsibilities for complying with the requirements of the Act with respect to accounting records and the preparation of accounts.
+These accounts have been prepared and delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+The directors have decided not to deliver to the registrar a copy of the company's profit and loss account.
+Approved by the board on
+10/01/2024
+and signed on their behalf by
+.............................
+Paul Moon
+Director
+2 Start Limited
+NOTES TO THE ACCOUNTS
+FOR THE YEAR ENDED 30/04/2024
+1. ACCOUNTING POLICIES
+1a. Basis Of Accounting
+The accounts have been prepared under the historical cost convention.
+The accounts have been prepared in accordance with FRS102 - The Financial Reporting Standard applicable in the UK and Republic of Ireland and the Companies Act 2006 .
+1b. Depreciation
+Depreciation has been provided at the following rates in order to write off the assets over their estimated useful lives.
+Plant and Machinery
+25%
+Fixtures and Fittings
+25%
+Equipment
+25%
+1c. Investment Properties
+Investment properties are included in the financial statements at open market value.
+No depreciation is provided on such property in compliance with the Financial Reporting Standard for Smaller Entities.
+This departure from Companies Act requirements is necessary to show a true and fair view.
+1d. Pension Costs
+The company operates a defined contribution pension scheme. The pension charge represents the amounts payable by the company to the fund in respect of the year.
+1e. Goodwill
+Goodwill arising in connection with the acquisition of businesses is capitalised and amortised over its estimated economic life to a maximum of 20 years. Goodwill is reviewed annually for impairment if events or changes in circumstances indicate that the carrying value may not be recoverable.
+2 Start Limited
+2. INTANGIBLE FIXED ASSETS
+Purchased
+Goodwill
+Total
+£
+£
+Cost
+At 01/05/2023
+10,000
+10,000
+At 30/04/2024
+10,000
+10,000
+Depreciation
+At 01/05/2023
+10,000
+10,000
+At 30/04/2024
+10,000
+10,000
+Net Book Amounts
+At 30/04/2024
+-
+-
+3. TANGIBLE FIXED ASSETS
+Plant and
+Fixtures
+Machinery
+and Fittings
+Equipment
+Total
+£
+£
+£
+£
+Cost
+At 01/05/2023
+36,103
+132,359
+65,762
+234,224
+Additions
+480
+-
+8,913
+9,393
+Disposals
+-
+-
+(425)
+(425)
+At 30/04/2024
+36,583
+132,359
+74,250
+243,192
+Depreciation
+At 01/05/2023
+19,942
+99,354
+42,289
+161,585
+Disposals
+-
+-
+(401)
+(401)
+For the year
+4,160
+8,251
+7,990
+20,401
+At 30/04/2024
+24,102
+107,605
+49,878
+181,585
+Net Book Amounts
+At 30/04/2024
+12,481
+24,754
+24,372
+61,607
+At 30/04/2023
+16,161
+33,005
+23,473
+72,639
+4. INVESTMENT PROPERTIES
+Fair value
+At 30/04/2024
+2 Start Limited
+5. DEBTORS
+2024
+2023
+£
+£
+Amounts falling due within one year
+Trade debtors
+36,573
+194,125
+Other debtors
+261,133
+61,793
+Prepayments
+79,270
+56,914
+376,976
+312,832
+6. CREDITORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+2024
+2023
+£
+£
+Corporation tax
+14,749
+14,383
+VAT
+54,140
+53,787
+PAYE
+25,075
+34,047
+Credit card
+2,853
+-
+Payments received on account
+262,951
+372,173
+Trade creditors
+240,297
+82,807
+Other creditors
+2,578
+4,440
+Accruals and accrued income
+5,440
+968
+608,083
+562,605
+7. EMPLOYEES
+2024
+2023
+No.
+No.
+Average number of employees
+40
+45
+8. PROVISIONS FOR LIABILITIES
+2024
+2023
+£
+£
+Pensions
+8,938
+7,296
+8,938
+7,296
+2 Start Limited
+9. SHARE CAPITAL
+2024
+2023
+£
+£
+Allotted, issued and fully paid:
+100
+Ordinary shares
+of £
+1
+each
+100
+100
+1
+Non voting management A shares
+of £
+1
+each
+1
+1
+1
+Non voting management B shares
+of £
+1
+each
+1
+1
+1
+Non voting management C shares
+of £
+1
+each
+1
+1
+1
+Non voting management D shares
+of £
+1
+each
+1
+1
+104
+104
+10. RELATED PARTY
+TRANSACTIONS
+During the period 2 Start Group Limited provided services to the value of £639,149 (2023: £823,468) to 2 Start Limited.
+During the period 2 Start Limited paid rent to the value of £28,065 (2023: £NIL) to 2 Start Group Limited.
+The balance of £128,784 (2023: -£47,745) was outstanding as at the balance sheet date. Mr Paul Moon is sole director of 2 Start Group Limited, and owns sixty seven percent of the issued ordinary share capital.

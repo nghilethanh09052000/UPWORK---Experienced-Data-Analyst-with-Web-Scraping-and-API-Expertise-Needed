@@ -1,0 +1,112 @@
+xbrl
+05063170
+false
+Management consultancy
+2023-05-01
+2024-04-30
+http://www.companieshouse.gov.uk/
+2023-04-30
+http://www.companieshouse.gov.uk/
+cd:Director1
+2023-05-01
+2024-04-30
+http://www.companieshouse.gov.uk/
+cd:AuditExemptWithAccountantsReport
+2023-05-01
+2024-04-30
+http://www.companieshouse.gov.uk/
+pt:CurrentFinancialInstruments
+2024-04-30
+http://www.companieshouse.gov.uk/
+pt:CurrentFinancialInstruments
+2023-04-30
+http://www.companieshouse.gov.uk/
+2023-05-01
+2024-04-30
+http://www.companieshouse.gov.uk/
+2023-04-30
+http://www.companieshouse.gov.uk/
+2024-04-30
+http://www.companieshouse.gov.uk/
+cd:FullAccounts
+2023-05-01
+2024-04-30
+http://www.companieshouse.gov.uk/
+cd:PrivateLimitedCompanyLtd
+2023-05-01
+2024-04-30
+http://www.companieshouse.gov.uk/
+cd:Micro-entities
+2023-05-01
+2024-04-30
+iso4217:GBP
+xbrli:shares
+xbrli:pure
+Registered number: 05063170
+Alan Hester Associates Limited
+ACCOUNTS
+FOR THE YEAR ENDED
+30/04/2024
+Prepared By:
+Harmonea Limited
+3 Forge House
+Summerleys Road
+Princes Risborough
+Buckinghamshire
+HP27 9DT
+Alan Hester Associates Limited
+Registered Number: 05063170
+BALANCE SHEET AT
+30/04/2024
+2024
+2023
+£
+£
+Fixed assets
+1
+1
+Current assets
+29,814
+20,145
+Creditors: amounts falling due within one year
+(
+17,599
+)
+(
+12,850
+)
+Net Current Assets
+12,215
+7,295
+Total assets less current liabilities
+12,216
+7,296
+Provisions for liabilities
+233
+-
+Accruals and deferred income
+600
+600
+Net Assets
+11,383
+6,696
+Capital and reserves
+11,383
+6,696
+Average Number of Employees
+During the year the average number of employees was
+3
+.
+Company information
+Private company limited by shares registered in EW - England and Wales, registered number 05063170. Registered office 3 Forge House, Summerleys Road, Princes Risborough, Buckinghamshire, HP27 9DT, United Kingdom
+For the year ending 30/04/2024 the company was entitled to exemption under section 477 of the Companies Act 2006 relating to small companies.
+The members have not required the company to obtain an audit in accordance with section 476 of the Companies Act 2006.
+The directors acknowledge their responsibilities for complying with the requirements of the Act with respect to accounting records and the preparation of accounts.
+These accounts have been prepared in accordance with the provisions applicable to companies subject to the micro-entities regime.
+These accounts have been delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+Approved by the board on
+03/07/2024
+and signed on their behalf by
+.............................
+Alan Hester
+Director

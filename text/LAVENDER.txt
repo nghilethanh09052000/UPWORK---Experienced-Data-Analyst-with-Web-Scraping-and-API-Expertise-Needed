@@ -1,0 +1,383 @@
+egistration number:
+Lavender International NDT Consultancy Services
+
+[a wn |
+eR He aWwso ns
+
+
+Lavender International NDT Consultancy Services Limited
+(Registration number: 01872624)
+
+Balance Sheet as at 31 March 2024
+
+2024 2023
+Note £ £
+
+Fixed assets
+Tangible assets 3 688,899 609,701
+Investments 4 39,603 40,426
+
+728,502 650,127
+
+Current assets
+
+Stocks 5 14,513 13,510
+Debtors 6 1,155,220 827,779
+Cash at bank and in hand 1,266,533 1,258,310
+2,436,266 2,099,599
+Creditors: Amounts falling due within one year 7 (1,032,913) (943,564)
+Net current assets , 1,403,353 __ 1,156,035
+Total assets less current liabilities : 2,131,855 1,806,162
+Creditors: Amounts falling due after more than one year 7 (36,068) (42,741)
+Provisions for liabilities (401,000) (96,000)
+Net assets 1,994,787 1,667,421
+Capital and reserves
+Called up share capital 100 100
+Profit and loss account 1,994,687 1,667,321
+Shareholders’ funds 1,994,787 1,667,421
+
+These financial statements have been delivered in accordance with the provisions applicable to
+companies subject to the small companies regime and the option not to file the Directors' Report and
+the Profit and Loss Account has been taken.
+
+Audit report
+The Independent Auditor's Report was unqualified. The name of the Senior Statutory Auditor who
+signed the audit report on .......7Z., aby. 2024 sessasevucenees was Simon Bladen, who signed for and on
+
+behalf of Hawsons Chartered Accountants.
+
+These financial statements, which have been prepared in accordance with the special provisions
+relating to companies subject to the small companies regime within Part 15 of the Companies Act
+2006 and in accordance with the provisions of FRS 102 Section 1A Small Entities, were approved and
+authorised for issue by the Board on 4%. (6 [toy and signed on its behalf by:
+
+f
+
+The notes on pages 2 to 8 form an integral part of these financial statements.
+Page 1
+
+Lavender International NDT Consultancy Services Limited
+
+Notes to the Financial Statements for the Year Ended 31 March 2024
+
+1 Accounting policies
+
+Statutory information
+
+Lavender International NDT Consultancy Services Limited is a private company, limited by shares,
+domiciled in England and Wales, company number 01872624. The registered office is at Unit 7,
+Penistone Station, Penistone, Sheffield, S36 6HP.
+
+Summary of significant accounting policies and key accounting estimates
+
+The principal accounting policies applied in the preparation of these financial statements are set out
+below. These policies have been consistently applied to all the years presented, unless otherwise
+stated.
+
+Statement of compliance
+
+These financial statements have been prepared in accordance with Financial Reporting Standard 102
+Section 1A - ‘The Financial Reporting Standard applicable in the UK and Republic of Ireland’ and the
+Companies Act 2006. There has been no material departure from this standard.
+
+Basis of preparation
+
+These financial statements have been prepared using the historical cost convention except that as
+disclosed in the accounting policies certain items are shown at fair value. The presentation currency is
+United Kingdom pounds sterling.
+
+Going concern
+After due consideration of all relevant factors, the directors have a reasonable expectation that the
+company has adequate resources to continue in operational existence for the foreseeable future.
+
+‘Accordingly, they continue to adopt the going concern basis in preparing the annual report and
+
+accounts,
+
+Revenue recognition
+
+Turnover comprises the fair value of the consideration received or receivable for the sale of goods
+and provision of services in the ordinary course of the company's activities. Turnover is shown net of
+sales/value added tax, returns, rebates and discounts and after eliminating sales within the company.
+
+Government grants
+
+Grants that do not impose specified future performance-related conditions are recognised in income
+when the grant proceeds are received or receivable. Grants that impose specified future
+performance-related conditions are recognised in income only when the performance-related
+conditions are met. Grants received before the revenue recognition criteria are satisfied are
+recognised as a liability.
+
+Foreign currency transactions and balances
+
+Transactions in foreign currencies are recorded at the exchange rate ruling at the date of the
+transaction. Monetary assets and liabilities denominated in foreign currencies are retranslated at the
+closing rates at the balance sheet date. All exchange differences are included in the profit and loss
+
+account.
+
+Tax
+
+The tax expense for the period comprises current and deferred tax. Tax is recognised in profit or loss,
+except that a change attributable to an item of income or expense recognised as other comprehensive
+income is also recognised directly in other comprehensive income.
+
+Page 2
+
+Lavender International NDT Consultancy Services Limited
+
+Notes to the Financial Statements for the Year Ended 31 March 2024
+(continued)
+
+1 Accounting policies (continued)
+
+The current income tax charge is calculated on the basis of tax rates and laws that have been
+enacted or substantively enacted by the reporting date in the countries where the company operates
+and generates taxable income.
+
+Deferred tax shall be recognised in respect of all timing differences at the reporting date, except as
+otherwise required by FRS102. Timing differences are differences between taxable profits and total
+comprehensive income as stated in the financial statements that arise from the inclusion of income
+and expenses in tax assessments in periods different from those in which they are recognised in
+
+financial statements. Deferred income tax is determined using tax rates and laws that have been
+
+enacted or substantively enacted by the reporting date.
+
+Unrelieved tax losses and other deferred tax assets shall be recognised only to the extent that it is
+probable that they will be recovered against the reversal of deferred tax liabilities or other future
+taxable profits.
+
+Depreciation
+Depreciation is charged so as to write off the cost of assets, other than land and properties under
+construction over their estimated useful lives, as follows:
+
+Asset class Depreciation method and rate
+Leasehold improvements 4- 10% straight line
+Plant and machinery : 25% straight line
+
+. 25% straight line or over the term of
+Motor vehicles lease
+Office equipment 20-25% straight line
+
+Investments
+Fixed asset investments are stated at historical cost less provision for any diminution in value.
+
+Stocks
+
+Stock is valued at the lower of cost and net realisable value, after due regard for obsolete and slow
+moving stocks. Net realisable value is based on selling price less anticipated costs to completion and
+selling costs.
+
+- Leases
+
+Leases are classified as finance leases whenever the terms of the lease transfer substantially all the
+tisks and rewards of ownership to the lessee.
+
+Assets held under finance leases are recognised at the lower of their fair value at inception of the
+lease and the present value of the minimum lease payments. These assets are depreciated on a
+straight-line basis over the shorter of the useful life of the asset and the lease term. The
+corresponding liability to the lessor is included in the Balance Sheet as a finance lease obligation.
+
+Lease payments are apportioned between finance costs in the Profit and Loss Account and reduction
+of the lease obligation so as to achieve a constant periodic rate of interest on the remaining balance
+of the liability.
+
+Defined contribution pension obligation :
+
+Contributions to defined contribution plans are recognised as employee benefit expense when they
+are due. If contribution payments exceed the contribution due for service, the excess is recognised as
+a prepayment.
+
+Page'3
+
+Lavender International NDT Consultancy Services Limited
+
+Notes to the Financial Statements for the Year Ended 31 March 2024
+(continued)
+
+1 Accounting policies (continued)
+
+Financial instruments |
+
+Financial instruments are classified and accounted for, according to the substance of the contractual
+arrangement, as financial assets, financial liabilities or equity instruments. An equity instrument is any
+contract that evidences a residual interest in the assets of the company after deducting all of its
+liabilities. Where shares are issued, any component that creates a financial liability of the company is
+presented as a liability in the balance sheet. The corresponding dividends relating to the liability
+component are charged as interest expense in the statement of comprehensive income.
+
+Employee Ownership Trust .
+
+The company has an Employee Ownership Trust ("EOT"). The assets and liabilities of the EOT are
+consolidated within the company's financial statements. in the event of a winding up of the company,
+neither the shareholders nor the creditors would be entitled to the assets of the EOT.
+
+Any income or expenditure incurred by the EOT is recognised in the company's financial statements.
+
+2 Staff numbers
+
+The average number of persons employed by the company (including directors) during the year, was
+53 (2023 - 42).
+
+Page 4
+
+Lavender International NDT Consultancy Services Limited |
+
+Notes to the Financial Statements for the Year Ended 31 March 2024 (continued)
+
+3 Tangible assets
+
+Leasehold Plant and Office : Motor
+improvements machinery equipment vehicles | Total
+£ £ £ £
+
+Cost or valuation
+At 1 April 2023 323,006 1,050,150 201,301 229,813 1,804,270
+Additions 87,820 92,519 32,148 57,644 270,131
+Disposals = : = (24,195) (24,195)
+At 31 March 2024 410,826 “4,142,669 233,449 263,262 2,050,206
+Depreciation F
+At 1 April 2023 135,106 761,159 170,102 128,202 1,194,569
+Charge for the year 17,673 110,561 20,206 42,493 190,933
+Eliminated on disposal : = - (24,195) (24,195)
+At 31 March 2024 152,779 871,720 190,308 146,500 1,361,307
+Carrying amount :
+At 31 March 2024 258,047 270,949 43,141 116,762 688,899
+At 31 March 2023 187,900 288,991 31,199, 101,611 609,701
+
+Page 5
+
+Lavender International NDT Consultancy Services Limited
+
+Notes to the Financial Statements for the Year Ended 31 March 2024
+(continued)
+
+4 Investments
+
+2024 2023
+£ £
+
+Investments in subsidiaries 39,603 40,426
+Subsidiaries , £
+Cost or valuation :
+At 1 April 2023 ; 40,426
+Exchange movement (823)
+At 31 March 2024 39,603
+Carrying amount
+At 31 March 2024 39,603
+At 31 March 2023 40,426
+
+Details of undertakings
+
+Details of the investments in which ‘the company holds 20% or more of the nominal value of any class
+of share capital are as follows: :
+
+Country of Proportion of voting
+Undertaking incorporation Holding rights and shares held
+2024 2023
+Subsidiary undertakings
+Lavender International NDT USALLC USA 100% 100%
+
+Subsidiary undertakings
+The principal activity of Lavender International NDT USA LLC is the provision of non-destructive
+testing services.
+
+5 Stocks
+2024 2023
+. . £ £
+Stock 14,513 13,510.
+
+Page 6
+
+Lavender International NDT Consultancy Services Limited
+
+Notes to the Financial Statements for the Year Ended 31 March 2024
+
+6 Debtors
+
+Trade debtors
+
+Amounts owed by related parties
+Prepayments and accrued income
+Other debtors
+
+7 Creditors
+
+Due within one year
+
+HP and finance lease liabilities
+Trade creditors
+
+Other creditors
+
+Taxation and social security
+
+Oue after one year
+HP and finance lease liabilities
+
+(continued) ©
+
+HP and finance lease liabilities are secured against the assets to which they relate.
+
+8 Financial commitments, guarantees and contingencies
+
+2024 2023
+£ £
+969,388 755,721
+55,028 -
+127,077 64,843
+3,727 7,215
+1,155,220 827,779
+2024 2023
+£ £
+7,280 7,280
+247,739 158,298
+447,965 478,694
+329,929 _ 299,202,
+1,032,913 943,564
+2024 2023
+£ £
+36,068 42,741.
+
+At the balance sheet date, the total amount of non cancellable operating lease commitments not
+
+included in the balance sheet is £366,291 (2023 - £130,316).
+
+9 Related party transactions
+
+The company has taken advantage of the exemption under FRS 102 s33.1A to not disclose
+transactions between wholly owned group companies.
+
+Page 7
+
+Lavender international NDT Consultancy Services Limited
+
+Notes to the Financial Statements for the Year Ended 31 March 2024
+(continued)
+
+10 Employee Ownership Trust
+
+The company has established the Lavender International NDT Consultancy Services Limited
+Employee Ownership Trust (the “EOT") as part of the company's employee incentive arrangements.
+The potential beneficiaries of the EOT include the employees of the company.
+
+During 2016 the ordinary shares were transferred to the Lavender International NDT Consultancy
+Services Employee Ownership Trust for a deferred consideration of £2,000,000 payable over a
+maximum of ten years. During the year to 31 March 2024 payments of Enil (2023 - £200,000) were
+made against this balance.
+
+Total payments to 31 March 2024 equate to £2,000,000 (2023 - £2,000,000). At 31 March 2024 £nil
+(2023 - £nil) of the deferred consideration is outstanding.
+
+In accordance with UK GAAP any assets held in the EOT have been included in the company's
+balance sheet and the deferred consideration payable by the EOT on the acquisition of shares in the
+company will be deducted from the company's profit and loss reserve and shareholder's funds.
+
+At the balance sheet date, the EOT held 100 ordinary shares of £1 each in the company (2023 - 100)
+
+that have not vested unconditionally in employees. None of these shares are under option to
+employees or have been conditionally gifted to employees.
+
+Page 8
+

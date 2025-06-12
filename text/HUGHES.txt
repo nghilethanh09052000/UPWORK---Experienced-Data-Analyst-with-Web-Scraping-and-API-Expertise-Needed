@@ -1,0 +1,459 @@
+Hughes Driver Training Limited - Accounts to registrar (filleted) - small 23.2.5
+IRIS Accounts Production
+v24.1.4.33
+04948484
+Board of Directors
+1.11.22
+31.10.23
+31.10.23
+false
+true
+false
+false
+false
+true
+false
+iso4217:GBP
+iso4217:USD
+iso4217:EUR
+xbrli:shares
+xbrli:pure
+utr:tonnes
+utr:kWh
+04948484
+2022-10-31
+04948484
+2023-10-31
+04948484
+2022-11-01
+2023-10-31
+04948484
+2021-10-31
+04948484
+2021-11-01
+2022-10-31
+04948484
+2022-10-31
+04948484
+ns15:EnglandWales
+2022-11-01
+2023-10-31
+04948484
+ns14:PoundSterling
+2022-11-01
+2023-10-31
+04948484
+ns10:Director1
+2022-11-01
+2023-10-31
+04948484
+ns10:PrivateLimitedCompanyLtd
+2022-11-01
+2023-10-31
+04948484
+ns10:SmallEntities
+2022-11-01
+2023-10-31
+04948484
+ns10:AuditExemptWithAccountantsReport
+2022-11-01
+2023-10-31
+04948484
+ns10:SmallCompaniesRegimeForDirectorsReport
+2022-11-01
+2023-10-31
+04948484
+ns10:SmallCompaniesRegimeForAccounts
+2022-11-01
+2023-10-31
+04948484
+ns10:FullAccounts
+2022-11-01
+2023-10-31
+04948484
+1
+2022-11-01
+2023-10-31
+04948484
+ns10:Director2
+2022-11-01
+2023-10-31
+04948484
+ns10:RegisteredOffice
+2022-11-01
+2023-10-31
+04948484
+ns5:CurrentFinancialInstruments
+2023-10-31
+04948484
+ns5:CurrentFinancialInstruments
+2022-10-31
+04948484
+ns5:ShareCapital
+2023-10-31
+04948484
+ns5:ShareCapital
+2022-10-31
+04948484
+ns5:CapitalRedemptionReserve
+2023-10-31
+04948484
+ns5:CapitalRedemptionReserve
+2022-10-31
+04948484
+ns5:RetainedEarningsAccumulatedLosses
+2023-10-31
+04948484
+ns5:RetainedEarningsAccumulatedLosses
+2022-10-31
+04948484
+ns5:IntangibleAssetsOtherThanGoodwill
+2022-11-01
+2023-10-31
+04948484
+ns5:NetGoodwill
+2022-10-31
+04948484
+ns5:NetGoodwill
+2022-11-01
+2023-10-31
+04948484
+ns5:NetGoodwill
+2023-10-31
+04948484
+ns5:NetGoodwill
+2022-10-31
+04948484
+ns5:FurnitureFittings
+2022-10-31
+04948484
+ns5:FurnitureFittings
+2022-11-01
+2023-10-31
+04948484
+ns5:FurnitureFittings
+2023-10-31
+04948484
+ns5:FurnitureFittings
+2022-10-31
+04948484
+ns5:CurrentFinancialInstruments
+ns5:WithinOneYear
+2023-10-31
+04948484
+ns5:CurrentFinancialInstruments
+ns5:WithinOneYear
+2022-10-31
+REGISTERED NUMBER:
+04948484
+(England and Wales)
+Unaudited Financial Statements for the Year Ended 31 October 2023
+for
+Hughes Driver Training Limited
+Hughes Driver Training Limited (Registered number: 04948484)
+Contents of the Financial Statements
+for the Year Ended 31 October 2023
+Page
+Company Information
+1
+Balance Sheet
+2
+Notes to the Financial Statements
+4
+Chartered Certified Accountants' Report
+7
+Hughes Driver Training Limited
+Company Information
+for the Year Ended 31 October 2023
+DIRECTORS:
+C R Hughes
+M Hughes
+REGISTERED OFFICE:
+284 Gipsy Lane
+Leicester
+Leicestershire
+LE4 9BX
+REGISTERED NUMBER:
+04948484
+(England and Wales)
+ACCOUNTANTS:
+Charnwood Accountants & Business Advisors LLP
+The Point
+Granite Way
+Mountsorrel
+Loughborough
+Leicestershire
+LE12 7TZ
+Page 1
+Hughes Driver Training Limited (Registered number: 04948484)
+Balance Sheet
+31 October 2023
+31.10.23
+31.10.22
+Notes
+£
+£
+£
+£
+FIXED ASSETS
+Intangible assets
+4
+10,000
+-
+Tangible assets
+5
+29,078
+34,321
+39,078
+34,321
+CURRENT ASSETS
+Debtors
+6
+676,636
+1,925,687
+Cash at bank and in hand
+2,153,038
+1,778,535
+2,829,674
+3,704,222
+CREDITORS
+Amounts falling due within one year
+7
+2,526,307
+3,406,139
+NET CURRENT ASSETS
+303,367
+298,083
+TOTAL ASSETS LESS CURRENT
+LIABILITIES
+342,445
+332,404
+PROVISIONS FOR LIABILITIES
+2,440
+2,690
+NET ASSETS
+340,005
+329,714
+CAPITAL AND RESERVES
+Called up share capital
+200
+200
+Capital redemption reserve
+99
+99
+Retained earnings
+339,706
+329,415
+SHAREHOLDERS' FUNDS
+340,005
+329,714
+The company is entitled to exemption from audit under Section 477 of the Companies Act 2006 for the year ended 31 October 2023.
+The members have not required the company to obtain an audit of its financial statements for the year ended 31 October 2023 in accordance with Section 476 of the Companies Act 2006.
+The directors acknowledge their responsibilities for:
+(a)
+ensuring that the company keeps accounting records which comply with Sections 386 and 387 of the Companies Act
+2006 and
+(b)
+preparing financial statements which give a true and fair view of the state of affairs of the company as at the end of
+each financial year and of its profit or loss for each financial year in accordance with the requirements of Sections 394
+and 395 and which otherwise comply with the requirements of the Companies Act 2006 relating to financial
+statements, so far as applicable to the company.
+The notes form part of these financial statements
+Page 2
+continued...
+Hughes Driver Training Limited (Registered number: 04948484)
+Balance Sheet - continued
+31 October 2023
+The financial statements have been prepared and delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+In accordance with Section 444 of the Companies Act 2006, the Income Statement has not been delivered.
+The financial statements were approved by the Board of Directors and authorised for issue on
+2 July 2024
+and were signed
+on its behalf by:
+C R Hughes
+- Director
+The notes form part of these financial statements
+Page 3
+Hughes Driver Training Limited (Registered number: 04948484)
+Notes to the Financial Statements
+for the Year Ended 31 October 2023
+1.
+STATUTORY INFORMATION
+Hughes Driver Training Limited is a
+private company, limited by shares
+, registered in England and Wales. The
+company's registered number and registered office address can be found on the Company Information page.
+2.
+ACCOUNTING POLICIES
+Basis of preparing the financial statements
+These financial statements have been prepared in accordance with Financial Reporting Standard 102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland" including the provisions of Section 1A "Small Entities" and the Companies Act 2006. The financial statements have been prepared under the historical cost convention.
+Turnover
+The turnover shown in the profit and loss account represents amounts invoiced during the period, excluding value
+added tax, and excluding amounts invoiced in advance.
+Intangible assets
+Intangible assets are initially measured at cost. After initial recognition, intangible assets are measured at cost less
+any accumulated amortisation and any accumulated impairment losses.
+Tangible fixed assets
+Depreciation is provided at the following annual rates in order to write off each asset over its estimated useful life.
+Plant and machinery - 25% reducing balance
+Fixtures and fittings - 25%
+straight line on cost
+Taxation
+Taxation for the year comprises current and deferred tax. Tax is recognised in the Income Statement, except to the
+extent that it relates to items recognised in other comprehensive income or directly in equity.
+Current or deferred taxation assets and liabilities are not discounted.
+Current tax is recognised at the amount of tax payable using the tax rates and laws that have been enacted or
+substantively enacted by the balance sheet date.
+Deferred tax
+Deferred tax is recognised in respect of all timing differences that have originated but not reversed at the balance
+sheet date.
+Timing differences arise from the inclusion of income and expenses in tax assessments in periods different from
+those in which they are recognised in financial statements. Deferred tax is measured using tax rates and laws that
+have been enacted or substantively enacted by the year end and that are expected to apply to the reversal of the
+timing difference.
+Unrelieved tax losses and other deferred tax assets are recognised only to the extent that it is probable that they will
+be recovered against the reversal of deferred tax liabilities or other future taxable profits.
+Page 4
+continued...
+Hughes Driver Training Limited (Registered number: 04948484)
+Notes to the Financial Statements - continued
+for the Year Ended 31 October 2023
+2.
+ACCOUNTING POLICIES - continued
+Hire purchase and leasing commitments
+Assets obtained under hire purchase contracts or finance leases are capitalised in the balance sheet.
+Those held
+under hire purchase contracts are depreciated over their estimated useful lives.
+Those held under finance leases are
+depreciated over their estimated useful lives or the lease term, whichever is the shorter.
+The interest element of these obligations is charged to profit or loss over the relevant period. The capital element of
+the future payments is treated as a liability.
+Rentals paid under operating leases are charged to profit or loss on a straight line basis over the period of the lease.
+Pension costs and other post-retirement benefits
+The company operates a defined contribution pension scheme.
+Contributions payable to the company's pension
+scheme are charged to profit or loss in the period to which they relate.
+3.
+EMPLOYEES AND DIRECTORS
+The average number of employees during the year was
+84
+(2022 -
+71
+) .
+4.
+INTANGIBLE FIXED ASSETS
+Goodwill
+£
+COST
+At 1 November 2022
+17,500
+Additions
+10,000
+At 31 October 2023
+27,500
+AMORTISATION
+At 1 November 2022
+and 31 October 2023
+17,500
+NET BOOK VALUE
+At 31 October 2023
+10,000
+At 31 October 2022
+-
+Page 5
+continued...
+Hughes Driver Training Limited (Registered number: 04948484)
+Notes to the Financial Statements - continued
+for the Year Ended 31 October 2023
+5.
+TANGIBLE FIXED ASSETS
+Fixtures
+and
+fittings
+£
+COST
+At 1 November 2022
+59,627
+Additions
+6,290
+At 31 October 2023
+65,917
+DEPRECIATION
+At 1 November 2022
+25,306
+Charge for year
+11,533
+At 31 October 2023
+36,839
+NET BOOK VALUE
+At 31 October 2023
+29,078
+At 31 October 2022
+34,321
+6.
+DEBTORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+31.10.23
+31.10.22
+£
+£
+Trade debtors
+412,514
+820,463
+Amounts owed by associates
+101,176
+1,027,370
+Other debtors
+162,946
+77,854
+676,636
+1,925,687
+7.
+CREDITORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+31.10.23
+31.10.22
+£
+£
+Trade creditors
+250,794
+299,855
+Amounts owed to associates
+26,093
+-
+Taxation and social security
+492,527
+168,617
+Other creditors
+1,756,893
+2,937,667
+2,526,307
+3,406,139
+8.
+ULTIMATE CONTROLLING PARTY
+The controlling party is
+C R Hughes Holdings Ltd.
+Page 6
+Chartered Certified Accountants' Report to the Board of Directors
+on the Unaudited Financial Statements of
+Hughes Driver Training Limited
+The following reproduces the text of the report prepared for the directors in respect of the company's annual
+unaudited financial statements. In accordance with the Companies Act 2006, the company is only required to file a
+Balance Sheet. Readers are cautioned that the Income Statement and certain other primary statements and the
+Report of the Directors are not required to be filed with the Registrar of Companies.
+In order to assist you to fulfil your duties under the Companies Act 2006, we have prepared for your approval the financial
+statements of Hughes Driver Training Limited for the year ended 31 October 2023 which comprise the Income Statement,
+Balance Sheet and the related notes from the company's accounting records and from information and explanations you have
+given us.
+As a practising member firm of the Association of Chartered Certified Accountants, we are subject to its ethical and other professional requirements which are detailed at http://www.accaglobal.com/rulebook.
+This report is made solely to the Board of Directors of Hughes Driver Training Limited, as a body, in accordance with our terms of engagement. Our work has been undertaken solely to prepare for your approval the financial statements of Hughes Driver Training Limited and state those matters that we have agreed to state to the Board of Directors of Hughes Driver Training Limited, as a body, in this report in accordance with the requirements of the Association of Chartered Certified Accountants as detailed at http://www.accaglobal.com/factsheet163. To the fullest extent permitted by law, we do not accept or assume responsibility to anyone other than the company and its Board of Directors, as a body, for our work or for this report.
+It is your duty to ensure that Hughes Driver Training Limited has kept adequate accounting records and to prepare statutory financial statements that give a true and fair view of the assets, liabilities, financial position and profit of Hughes Driver Training Limited. You consider that Hughes Driver Training Limited is exempt from the statutory audit requirement for the year.
+We have not been instructed to carry out an audit or a review of the financial statements of Hughes Driver Training Limited. For this reason, we have not verified the accuracy or completeness of the accounting records or information and explanations you have given to us and we do not, therefore, express any opinion on the statutory financial statements.
+Charnwood Accountants & Business Advisors LLP
+The Point
+Granite Way
+Mountsorrel
+Loughborough
+Leicestershire
+LE12 7TZ
+2 July 2024
+This page does not form part of the statutory financial statements
+Page 7

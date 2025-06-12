@@ -1,0 +1,569 @@
+GLP Training Ltd - Accounts to registrar (filleted) - small 24.3
+IRIS Accounts Production
+v25.1.0.734
+08931484
+director
+1.8.23
+31.7.24
+31.7.24
+false
+true
+false
+false
+true
+false
+Ordinary
+1.00000
+iso4217:GBP
+iso4217:USD
+iso4217:EUR
+xbrli:shares
+xbrli:pure
+utr:tonnes
+utr:kWh
+08931484
+2023-07-31
+08931484
+2024-07-31
+08931484
+2023-08-01
+2024-07-31
+08931484
+2022-07-31
+08931484
+2022-08-01
+2023-07-31
+08931484
+2023-07-31
+08931484
+ns15:EnglandWales
+2023-08-01
+2024-07-31
+08931484
+ns14:PoundSterling
+2023-08-01
+2024-07-31
+08931484
+ns10:Director1
+2023-08-01
+2024-07-31
+08931484
+ns10:PrivateLimitedCompanyLtd
+2023-08-01
+2024-07-31
+08931484
+ns10:SmallEntities
+2023-08-01
+2024-07-31
+08931484
+ns10:AuditExempt-NoAccountantsReport
+2023-08-01
+2024-07-31
+08931484
+ns10:SmallCompaniesRegimeForDirectorsReport
+2023-08-01
+2024-07-31
+08931484
+ns10:SmallCompaniesRegimeForAccounts
+2023-08-01
+2024-07-31
+08931484
+ns10:FullAccounts
+2023-08-01
+2024-07-31
+08931484
+ns10:OrdinaryShareClass1
+2023-08-01
+2024-07-31
+08931484
+ns10:RegisteredOffice
+2023-08-01
+2024-07-31
+08931484
+ns5:CurrentFinancialInstruments
+2024-07-31
+08931484
+ns5:CurrentFinancialInstruments
+2023-07-31
+08931484
+ns5:Non-currentFinancialInstruments
+2024-07-31
+08931484
+ns5:Non-currentFinancialInstruments
+2023-07-31
+08931484
+ns5:ShareCapital
+2024-07-31
+08931484
+ns5:ShareCapital
+2023-07-31
+08931484
+ns5:RetainedEarningsAccumulatedLosses
+2024-07-31
+08931484
+ns5:RetainedEarningsAccumulatedLosses
+2023-07-31
+08931484
+ns5:PlantMachinery
+2023-08-01
+2024-07-31
+08931484
+ns5:FurnitureFittings
+2023-08-01
+2024-07-31
+08931484
+ns5:ComputerEquipment
+2023-08-01
+2024-07-31
+08931484
+ns5:LeaseholdImprovements
+2023-07-31
+08931484
+ns5:PlantMachinery
+2023-07-31
+08931484
+ns5:FurnitureFittings
+2023-07-31
+08931484
+ns5:ComputerEquipment
+2023-07-31
+08931484
+ns5:LeaseholdImprovements
+2023-08-01
+2024-07-31
+08931484
+ns5:LeaseholdImprovements
+2024-07-31
+08931484
+ns5:PlantMachinery
+2024-07-31
+08931484
+ns5:FurnitureFittings
+2024-07-31
+08931484
+ns5:ComputerEquipment
+2024-07-31
+08931484
+ns5:LeaseholdImprovements
+2023-07-31
+08931484
+ns5:PlantMachinery
+2023-07-31
+08931484
+ns5:FurnitureFittings
+2023-07-31
+08931484
+ns5:ComputerEquipment
+2023-07-31
+08931484
+ns5:WithinOneYear
+ns5:CurrentFinancialInstruments
+2024-07-31
+08931484
+ns5:WithinOneYear
+ns5:CurrentFinancialInstruments
+2023-07-31
+08931484
+ns5:BetweenOneTwoYears
+ns5:Non-currentFinancialInstruments
+2024-07-31
+08931484
+ns5:BetweenOneTwoYears
+ns5:Non-currentFinancialInstruments
+2023-07-31
+08931484
+ns5:WithinOneYear
+2024-07-31
+08931484
+ns5:WithinOneYear
+2023-07-31
+08931484
+ns5:BetweenOneFiveYears
+2024-07-31
+08931484
+ns5:BetweenOneFiveYears
+2023-07-31
+08931484
+ns5:MoreThanFiveYears
+2024-07-31
+08931484
+ns5:MoreThanFiveYears
+2023-07-31
+08931484
+ns5:AllPeriods
+2024-07-31
+08931484
+ns5:AllPeriods
+2023-07-31
+08931484
+ns10:OrdinaryShareClass1
+2024-07-31
+REGISTERED NUMBER:
+08931484
+(England and Wales)
+GLP TRAINING LTD
+Unaudited Financial Statements for the Year Ended 31 July 2024
+GLP TRAINING LTD (REGISTERED NUMBER: 08931484)
+Contents of the Financial Statements
+for the year ended 31 July 2024
+Page
+Company Information
+1
+Balance Sheet
+2
+to
+3
+Notes to the Financial Statements
+4
+to
+6
+GLP TRAINING LTD
+Company Information
+for the year ended 31 July 2024
+Director:
+G L Parsons
+Registered office:
+Security House
+Barbourne Road
+Worcester
+Worcestershire
+WR1 1RS
+Registered number:
+08931484
+(England and Wales)
+Page 1
+GLP TRAINING LTD (REGISTERED NUMBER: 08931484)
+Balance Sheet
+31 July 2024
+2024
+2023
+Notes
+£
+£
+£
+Fixed assets
+Tangible assets
+4
+168,698
+54,256
+Current assets
+Debtors
+5
+648,170
+476,265
+Cash at bank and in hand
+862,663
+20,611
+1,510,833
+496,876
+Creditors
+Amounts falling due within one year
+6
+452,773
+180,082
+Net current assets
+1,058,060
+316,794
+Total assets less current liabilities
+1,226,758
+371,050
+Creditors
+Amounts falling due after more than one year
+7
+758,607
+30,659
+Net assets
+468,151
+340,391
+Capital and reserves
+Called up share capital
+9
+100
+100
+Retained earnings
+468,051
+340,291
+Shareholders' funds
+468,151
+340,391
+The notes form part of these financial statements
+Page 2
+continued...
+GLP TRAINING LTD (REGISTERED NUMBER: 08931484)
+Balance Sheet - continued
+31 July 2024
+The company is entitled to exemption from audit under Section 477 of the Companies Act 2006 for the year ended 31 July 2024.
+The members have not required the company to obtain an audit of its financial statements for the year ended 31 July 2024 in accordance with Section 476 of the Companies Act 2006.
+The director acknowledges her responsibilities for:
+(a)
+ensuring that the company keeps accounting records which comply with Sections 386 and 387 of the Companies Act 2006
+and
+(b)
+preparing financial statements which give a true and fair view of the state of affairs of the company as at the end of each
+financial year and of its profit or loss for each financial year in accordance with the requirements of Sections 394 and 395
+and which otherwise comply with the requirements of the Companies Act 2006 relating to financial statements, so far as
+applicable to the company.
+The financial statements have been prepared and delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+In accordance with Section 444 of the Companies Act 2006, the Income Statement has not been delivered.
+The financial statements were approved by the director and authorised for issue on
+29 April 2025
+and were signed by:
+G L Parsons
+- Director
+The notes form part of these financial statements
+Page 3
+GLP TRAINING LTD (REGISTERED NUMBER: 08931484)
+Notes to the Financial Statements
+for the year ended 31 July 2024
+1.
+Statutory information
+GLP Training Ltd is a
+private company, limited by shares
+, registered in England and Wales. The company's registered
+number and registered office address can be found on the Company Information page.
+2.
+Accounting policies
+Basis of preparing the financial statements
+These financial statements have been prepared in accordance with Financial Reporting Standard 102 "The Financial
+Reporting Standard applicable in the UK and Republic of Ireland" including the provisions of Section 1A "Small Entities"
+and the Companies Act 2006. The financial statements have been prepared under the historical cost convention.
+Turnover
+Turnover is recognised to the extent that it is probable that the economic benefits will flow to the company and the
+revenue can be reliably measured. Turnover is measured as the fair value of the consideration received or receivable,
+excluding discounts, rebates, value added tax and other sales taxes. The following criteria must also be met before
+revenue is recognised:
+Rendering of services
+Turnover from a contract to provide services is recognised in the period in which the services are provided in accordance
+with the stage of completion of the contract when all of the following conditions are satisfied:
+- the amount of turnover can be measured reliably;
+- it is probable that the company will receive the consideration due under the contract;
+- the stage of completion of the contract at the end of the reporting period can be measured reliably; and
+- the costs incurred and the costs to complete the contract can be measured reliably.
+Tangible fixed assets
+Depreciation is provided at the following annual rates in order to write off each asset over its estimated useful life.
+Plant and machinery
+-
+25% on reducing balance
+Fixtures and fittings
+-
+15% on reducing balance
+Computer equipment
+-
+33% on cost
+Financial instruments
+The company only enters into basic financial instrument transactions that result in the recognition of financial assets and
+liabilities such as trade and other debtors and creditors, loans from banks and other third parties, loans with related
+parties and investments in ordinary shares.
+All financial assets and liabilities are initially measured at transaction price and subsequently measured at amortised
+cost.
+For financial assets measured at cost less impairment, the impairment loss is measured as the difference between an
+asset's carrying amount and best estimate of the recoverable amount, which is an approximation of the amount that the
+company would receive for the asset if it were to be sold at the balance sheet date.
+Taxation
+Taxation for the year comprises current and deferred tax. Tax is recognised in the Income Statement, except to the
+extent that it relates to items recognised in other comprehensive income or directly in equity.
+Current or deferred taxation assets and liabilities are not discounted.
+Current tax is recognised at the amount of tax payable using the tax rates and laws that have been enacted or
+substantively enacted by the balance sheet date.
+Deferred tax
+Deferred tax is recognised in respect of all timing differences that have originated but not reversed at the balance sheet
+date.
+Timing differences arise from the inclusion of income and expenses in tax assessments in periods different from those in
+which they are recognised in financial statements. Deferred tax is measured using tax rates and laws that have been
+enacted or substantively enacted by the year end and that are expected to apply to the reversal of the timing difference.
+Unrelieved tax losses and other deferred tax assets are recognised only to the extent that it is probable that they will be
+recovered against the reversal of deferred tax liabilities or other future taxable profits.
+Page 4
+continued...
+GLP TRAINING LTD (REGISTERED NUMBER: 08931484)
+Notes to the Financial Statements - continued
+for the year ended 31 July 2024
+2.
+Accounting policies - continued
+Leasing commitments
+Rentals paid under operating leases are charged to profit or loss on a straight line basis over the period of the lease.
+Pension costs and other post-retirement benefits
+The company operates a defined contribution pension scheme.
+Contributions payable to the company's pension scheme
+are charged to profit or loss in the period to which they relate.
+3.
+Employees and directors
+The average number of employees during the year was
+41
+(2023 -
+36
+) .
+4.
+Tangible fixed assets
+Fixtures
+Improvements
+Plant and
+and
+Computer
+to property
+machinery
+fittings
+equipment
+Totals
+£
+£
+£
+£
+£
+Cost
+At 1 August 2023
+38,437
+10,677
+23,610
+62,539
+135,263
+Additions
+39,619
+7,290
+28,901
+48,209
+124,019
+At 31 July 2024
+78,056
+17,967
+52,511
+110,748
+259,282
+Depreciation
+At 1 August 2023
+-
+9,740
+15,339
+55,928
+81,007
+Charge for year
+-
+362
+1,612
+7,603
+9,577
+At 31 July 2024
+-
+10,102
+16,951
+63,531
+90,584
+Net book value
+At 31 July 2024
+78,056
+7,865
+35,560
+47,217
+168,698
+At 31 July 2023
+38,437
+937
+8,271
+6,611
+54,256
+5.
+Debtors: amounts falling due within one year
+2024
+2023
+£
+£
+Trade debtors
+432,351
+222,958
+Other debtors
+123,736
+98,989
+Directors' current accounts
+65,104
+65,104
+VAT
+22,039
+32,316
+Prepayments
+4,940
+4,398
+Accrued income
+-
+52,500
+648,170
+476,265
+6.
+Creditors: amounts falling due within one year
+2024
+2023
+£
+£
+Bank loans and overdrafts
+5,561
+6,791
+Trade creditors
+152,867
+117,789
+Tax
+38,792
+20,312
+Social security and other taxes
+39,838
+28,144
+Other creditors
+6,096
+4,546
+Accrued expenses
+209,619
+2,500
+452,773
+180,082
+Page 5
+continued...
+GLP TRAINING LTD (REGISTERED NUMBER: 08931484)
+Notes to the Financial Statements - continued
+for the year ended 31 July 2024
+7.
+Creditors: amounts falling due after more than one year
+2024
+2023
+£
+£
+Bank loans - 1-2 years
+27,955
+30,659
+Accruals and deferred income
+730,652
+-
+758,607
+30,659
+8.
+Leasing agreements
+Minimum lease payments under non-cancellable operating leases fall due as follows:
+2024
+2023
+£
+£
+Within one year
+93,700
+-
+Between one and five years
+374,800
+-
+In more than five years
+843,300
+-
+1,311,800
+-
+9.
+Called up share capital
+Allotted, issued and fully paid:
+Number:
+Class:
+Nominal
+2024
+2023
+value:
+£
+£
+100
+Ordinary
+1
+100
+100
+Page 6

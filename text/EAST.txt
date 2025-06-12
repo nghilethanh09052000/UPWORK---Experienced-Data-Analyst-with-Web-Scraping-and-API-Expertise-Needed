@@ -1,0 +1,1509 @@
+East Coast Trains Limited
+Registered number: 08765536
+
+Annual report and financial
+statements
+
+For the year ended 31 March 2024
+
+TUESDAY
+
+*ADGO8D9M*
+ag #246 ©
+
+26/11/2024
+COMPANIES HOUSE
+
+East Coast Trains Limited
+
+Contents
+
+Page
+Strategic report 1
+Directors’ report 6
+Directors’ responsibilities statement 8
+Independent auditors’ report 9
+Profit and loss account : 13
+Statement of comprehensive income ; 13
+Balance sheet 14
+Statement of changes in equity 15
+
+Notes to the financial statements 16
+
+East Coast Trains Limited
+
+Strategic report
+
+The directors, in preparing this strategic report, have complied with s414C of the Companies Act 2006.
+
+Principal activities
+
+East Coast Trains Limited (“Lumo”) is a non-franchised, open access intercity train company, which from October
+2021 started to operate a high-speed service between London King’s Cross and Edinburgh, calling at Stevenage,
+Newcastle and Morpeth, using a new fleet of five, five-car, all-electric Hitachi class 803 trains. It operates under the
+brand name Lumo.
+
+Business review and future prospects
+
+Lumo has now carried more than 2.5m passengers since its October 2021 launch. It has consistently recorded some of
+the lowest levels of operator-related cancellations in the industry, which was recognised by a gold award for minimising
+delay minutes at the Modern Railways ‘Golden Whistle’ awards in March 2024.
+
+Lumo continues to offer competitive fares and value to customers, many of whom would otherwise have flown between
+London and Newcastle or Edinburgh at a far greater environmental cost. Lumo’s services result in 95% fewer carbon
+emissions than when people fly between the two capital cities and a journey on Lumo emits 21 times less carbon than a
+journey by petro! car. Its passenger revenues increased by 28.5% in the year ended 31 March 2024, driven by effective
+yield and demand management.
+
+Lumo has developed a culture of innovation and customer focus. It launched the UK’s first semi-flex ticket in August
+2023, which parallels the freedom and flexibility often given by airline tickets including a fee-free change of journey
+and a pre-departure refund if plans change, which is another step towards encouraging a greener alternative to flying.
+
+Lumo is trialling new ways to promote accessibility. It has embraced digitalisation to improve accessibility through the
+publishing of an interactive 360° virtual tour of its train carriages to support customers who may require additional
+support or wish to familiarise themselves with the carriage environment ahead of their travels.
+
+Lumo carries out regular Your Voice surveys giving employees the opportunity to share their views on the way they
+are managed, and how likely they are to recommend FirstGroup as an employer. Lumo achieved a 100% response rate
+and an engagement score of 79%. .
+
+The company is a member of an industry buying group in order to mitigate the long-term impact of electricity costs.
+Electricity costs represent a material proportion of the company’s total costs and these increased in the year ended 31
+March 2024, which explains why the Network Rail charges in note 6 increased from £5.9m to £10.0m. Electricity costs
+will fall in year ending 31 March 2025 reflecting the market price falls.
+
+Lumo continues to work with Network Rail to deliver consistent and reliable services to our customers. This includes
+working together on the East Coast digital re-signalling programme.
+
+Network Rail’s engineering work in the current year has again triggered the thresholds for sustained planned disruption
+set out in Lumo’s track access agreement. This has resulted in £4,05 1k (2023: £5,665k) in compensation from Network
+Rail for revenue losses, net of costs, due to operating amended passenger service timetables.
+
+Lumo supported The People’s Kitchen this year. The charity provides meals for vulnerable people in Newcastle and
+Lumo delivered volunteering days to support the efforts of the kitchen. In the forthcoming year, Lumo will be
+supporting the charity, The Charlie and Carter Foundation, which provides financial support to the parents of children
+with life-limiting illnesses.
+
+The directors are satisfied with the performance of the company for the year.
+
+Lumo has submitted formal applications to the Office of Rail and Road for the extension of some of its services to
+Glasgow, an additional sixth return service from Newcastle to London King’s Cross and six new daily return services
+between Rochdale and London. This would restore a direct link from Rochdale to London, via Manchester Victoria
+which last ran in 2000. It is estimated that this new service would provide 1.6m people in the North West with a
+convenient and competitively priced direct rail service to London from stations that are more local to them. If the
+application is approved, it is anticipated that services could begin in calendar year 2027.
+
+Financial matters
+
+The results for the year are given in the profit and loss account on page 13, which shows an overall profit for the
+financial year of £14,767k (2023: £11,948k) on turnover of £50,509k (2023: £39,673k). The directors declared and paid
+an interim dividend of £14,500k (2023: £nil) and no final dividend was recommended (2023: £nil). Net assets on the
+balance sheet at 31 March 2024 were £1,739k (2023: £1,472k).
+
+East Coast Trains Limited
+
+Strategic report
+
+Key performance indicators
+
+The key financial performance indicators are shown above in the paragraph on Financial matters. The Performance
+Punctuality Monitor (PPM) moving annual average was 76.1% (2023: 79.7%). PPM is the percentage of trains reaching
+destination within 9 minutes 59 seconds of the timetabled arrival time. The company commissioned a passenger survey
+led by the TAS Partnership transport consultancy. Lumo achieved a 96% overall satisfaction rate among its passengers.
+Principal risks and uncertainties
+
+We have a well-established risk management methodology which we use throughout the business to allow us to identify
+and manage the principal risks which could:
+
+adversely impact the safety and security of Lumo’s employees, customers and assets;
+
+have a material impact on the financial or operational performance of the company;
+
+impede achievement of our strategic objectives and financial targets; and/or
+
+adversely impact the company’s reputation or stakeholder expectations.
+
+Lumo’s principal risks are set out below; these risks have been assessed considering their potential impact’ (both
+financial and reputational), the likelihood of occurrence and any change to this compared to the prior year and the
+residual risk after the implementation of controls.
+
+Environment and sustainability
+
+The key risk facing the company in this area relates to reducing the environmental impact of the business with a
+focus on reducing waste and energy usage across its trains and office. A number of initiatives are in place, which
+are being led by the Safety Management Group to meet our customers’ requirements in this area. The key initiative
+has been the investment in a fleet of five electric only Hitachi trains. An emissions avoidance study conducted by
+Lumo found that travelling on their 100% electric network rather than flying, saves up to 95% of emissions on
+certain routes. A one-way Lumo trip between Edinburgh and London emits approximately 7 kgCO2e while the
+equivalent journey flying emits 149 kgCO,¢.
+
+Compliance, litigation and claims, health and safety
+
+Lumo’s operations are subject to a wide range of legislation and regulation. Failure to comply can lead to litigation,
+claims, damages, fines and penalties. The company has three main risks: third party injury and other claims arising
+from general operations, employee injuries and property damage. A higher volume of litigation and claims can lead to
+increased costs and reputational impact.
+
+We have a very strong focus on safety, and it is one of our five values. The company self-insures third party and
+employee injury claims up to a certain level commensurate with the predicted risk profile. We purchase insurance above
+these limits from reputable global insurance firms. Claims are managed by experienced claims handlers. Non-insured
+claims are managed by FirstGroup ple’s dedicated in-house legal teams with external assistance as appropriate.
+
+The company successfully secured a 5 year safety certificate from the Office of Rail and Road, the maximum permitted
+period, which will need to be renewed in 2026.
+
+Employee engagement, retention and capability
+
+The company employed an average of 107 employees during the year. Our employees are critical to the success of our
+business. Maintaining good relations with employees and investing in their training and development is essential to the
+efficiency and sustainability of the company’s operations. The company’s employment policies and remuneration and
+benefits packages are regularly reviewed and designed to be competitive with other companies, as well as providing
+employees with fulfilling career opportunities. Employee surveys, performance reviews and regular communication of
+business activities are some of the methods the company uses to understand and respond to employees’ needs. Processes
+are also in place to identify talent and actively manage succession planning throughout the business. The 2024 employee
+engagement survey saw a 100% response rate and an engagement score of 79%, The emotional climate of the survey
+demonstrated that the majority of staff felt positive with the dominant emotions of feeling committed and happy.
+Economic conditions
+
+Changing economic conditions affect our business in different ways. A less positive economic outlook affects the
+number of train journeys taken by passengers in the UK. Changes in economic activity may impact upon the passenger
+numbers and hence our operations. Improving economic conditions may result in a tightening of labour markets,
+resulting in employee shortages, pressure to increase pay, or affect the availability of public funding for transport
+services. The same factors could also affect our key suppliers.
+
+To mitigate these risks, we continue to focus on building revenue streams and controlling costs to ensure we remain
+competitive.
+
+East Coast Trains Limited
+
+Strategic report
+
+Principal risks and uncertainties (continued)
+
+Competition
+
+Lumo’s main competitors include domestic airlines, coach, private car and other public and private transport operators
+across our network. Increased competition can result in lost business, revenue and reduced profitability. To mitigate
+this risk the company will focus on service quality, performance and innovation as priorities in making our service
+attractive to passengers and other customers. We have a dedicated Customer Experience Team focused on improving
+our service to customers and improving access to our services.
+
+Information technology
+
+The company relies on information technology in all aspects of its business. Any significant disruption or failure, caused
+by external factors, denial of service, computer viruses or human error, could result in a service interruption, accident
+or misappropriation of confidential information (including credit card data). Process failure, security breach or other
+operational difficulties may also lead to revenue loss. Extensive security controls are in place, which, in conjunction
+with policy and procedures, are designed to enhance the resilience and security of the company's information technology
+systems and the data they contain.
+
+The company has made a substantial investment in digital systems to improve the customer and employee experience
+and assist in driving a lower cost operation through automation.
+
+Data security (including cyber security and GDPR)
+
+All business sectors are targeted by increasingly sophisticated cyber security attacks. Across our business we are seeing
+increased use of mobile and internet sales channels which gather large amounts of data and therefore the risk of
+unauthorised access to, or loss of, data in respect of employees or our customers is growing. A failure to comply with
+the General Data Protection Regulation (GDPR), which came into force in May 2018, could result in significant
+penalties and could have an adverse impact on consumer confidence in our business.
+
+We have threat detection systems across our business but continue to remain vigilant to security improvements when
+identified.
+
+Political and regulatory issues
+
+Our business is subject to numerous laws and regulations covering a wide range of matters including health and safety,
+equipment, employment (including working time, wage and hour, mandatory breaks and holiday pay), competition and
+anti-trust, data protection and security, bribery and corruption, environment, insurance coverage, consumer protection,
+and other operational issues. Failure to comply could have financial or reputational implications, could result in
+increased litigation and claims and have a negative impact on the company. These laws and regulations are constantly
+subject to change, the impact of which could include increased compliance costs and/or a reduction in operational
+flexibility and efficiency.
+
+To help mitigate the risk of legislative or regulatory changes the company and FirstGroup plc have embedded operating
+policies and procedures to ensure compliance with existing legislation and regulation. FirstGroup plc actively engages
+with the relevant bodies and policy makers to help ensure that we are properly positioned to respond to any proposed
+changes.
+
+Disruption to infrastructure/operations
+
+Across our network, we are experiencing greater and more frequent disruption due to adverse weather conditions which
+impacts our service levels. Severe weather can reduce profits, for example, through lower demand for our services,
+increased costs and business disruption. We have severe weather action plans and procedures to manage the impact on
+our operations.
+
+The threat from terrorism is enduring and continues to exist. Public transport continues to be regarded as an attractive
+and viable target. Across our business, we take all reasonable steps to help guard against such activity on the services
+we operate. An attack, or threat of attack, could lead to reduced public confidence in public transportation, and/or our
+security and safety record. This could reduce demand for our services, increase costs and security requirements and
+cause operational disruption.
+
+The company has a Head of Safety who is responsible for improved security awareness, the application of good practice
+in the implementation of security measures, and the development and training of our employees so that they can respond -
+effectively to any perceived threat or incident.
+
+Customer service
+
+The company's revenues are at risk if it does not continue to provide the level of service expected by customers. Relevant
+customer facing staff undertake intensive training programmes to ensure they are aware of and abide by the levels of
+service that are required by our customers. The company’s ethos is built around giving the customer the very best
+service possible.
+
+East Coast Trains Limited
+
+Strategic report
+
+Principal risks and uncertainties (continued)
+
+Electricity costs
+
+Electricity prices can be influenced significantly by international, political and economic circumstances. Higher
+electricity prices could adversely impact the company’s operating results. To mitigate the risks of rising electricity costs
+the company works with its key supplier, Network Rail, to buy electricity at fixed prices. In addition, the company
+seeks to limit the impact of unexpected electricity price rises through efficiency measures.
+
+Financial risk management objectives and policies
+
+The company’s activities expose it to a number of financial risks including credit risk, cash flow risk and liquidity risk.
+The use of financial derivatives is governed by the company’s policies approved by the board of directors, which
+provide written principles on the use of financial derivatives to manage these risks. The company does not use derivative
+financial instruments for speculative purposes.
+
+Cash flow and liquidity risk
+
+The company continues to have an acceptable level of liquidity as, in the rail industry, the vast majority of turnover
+transactions are paid for in advance.
+
+The company undertakes detailed regular cash re-forecasting processes and considers that the group facilities it has
+access to, and the letter of support provided by FirstGroup ple detailed in the going concern section on pages 6 to 7 of
+the Directors’ report, provide sufficient liquidity to meet its obligations.
+
+Credit risk
+
+The company’s principal financial assets are trade and other debtors.
+
+The company’s credit risk is primarily attributable to its trade receivables. The amounts presented in the balance sheet
+are net of allowances for doubtful receivables. An allowance for impairment is made where there is an identified loss
+event which, based on previous experience, is evidence of a reduction in the recoverability of the cash flows.
+
+The company has no significant concentration of credit risk, with exposure spread over a large number of counterparties
+and customers.
+
+Companies Act 2006 Section 172(1) Statement ;
+The directors have a duty to promote the success of the company for the benefit of its members as a whole. The Board
+
+understands the need to act fairly between the members of the company when assessing the consequences of a decision
+over the longer term. The Board believes that its key stakeholders are:
+
+Customers
+Investors (First Rait Holdings Limited and, ultimately, FirstGroup plc)
+Government and political stakeholders
+Our People
+Communities
+« Strategic partners and suppliers
+The Board believe that strong engagement, collaboration and dialogue are critical to the effectiveness of our long-term
+relationships with key stakeholders. The Board has adopted the FirstGroup processes, policies and governance
+structures that are relevant to our business and contributes to their development and refinement.
+
+Engaging ethically
+
+In line with our values and the expectations of our customers and partners, we are committed to conducting our
+relationships with our stakeholders with high ethical and moral standards in all our interactions. Our values and ethical
+commitment shape not only what we do, but also how we do it.
+
+The company has adopted the FirstGroup Code of Ethics which applies to everybody working for, or on behalf of, the
+company. The code sets out the standards that our customers and stakeholders expect of us, and which we expect of
+each other. It is supported by detailed policies and procedures which are implemented and managed by the senior
+management team, including our Code of Conduct on Anti-Slavery and Human Trafficking Prevention and our Anti-
+Bribery Policy.
+
+We are committed to recognising human rights. We are committed to the prevention of modern slavery and human
+trafficking in all its forms, which extends to all business dealings and transactions in which we are involved. We have
+a zero-tolerance approach to any violations within the company or by business partners.
+
+We have a zero-tolerance approach to bribery, and never offer or accept any form of payment or incentive intended to
+improperly influence a business decision. Equally, we support free and open competition, gaining our competitive
+advantage by providing the highest level of service, not through unethical or illegal business practices. We have internal
+control systems and procedures in place to counter bribery and corruption.
+
+East Coast Trains Limited
+
+Strategic report
+Companies Act 2006 Section 172(1) Statement (continued)
+Engaging ethically (continued)
+Similarly, we respect and protect the privacy of our customers, employees and stakeholders, and are committed to
+conducting our business in accordance with all applicable data protection legislation, including the General Data
+Protection Regulation and the UK Data Protection Act. We have an externally managed whistleblowing service for
+colleagues available with a helpline (online and phone-based) for the anonymous reporting of suspected wrongdoing
+or dangers at work. All reported issues or concerns to the hotline are taken seriously and investigated as appropriate,
+ensuring that confidentiality is respected at all times.
+The primary methods in which the company engages with its stakeholders are outlined below:
+Customers
+e Regular customer and passenger satisfaction surveys to identify what we do well and where we can improve
+¢ Robust customer feedback processes through online and traditional channels
+¢ Ongoing dialogue with customer representative groups
+
+Investors
+
+¢ Alignment of strategy and the governance structure to deliver the strategy
+« Agreement on budgets and forecasts and the reporting of actual performance
+
+Government and political stakeholders
+
+¢ Engagement with industry forums
+¢ Direct engagement with policymakers
+¢ — Strong links with regional governments
+Our People
+Regular ‘Your Voice’ employee engagement surveys
+Dialogue with employee representatives
+Inductions, onboarding sessions and employee handbooks
+Multiple internal communications channels, including our intranet, briefings, newsletters and our employee
+
+mobile apps
+« Individual performance reviews and development discussions or Time with Your Manager meetings
+
+Communities
+
+¢ Targeted engagement plans and activities
+¢ Regular dialogue, events and direct engagement activities
+© Community investment, charitable engagement and employee volunteering
+
+Strategic partners and suppliers
+
+e Regular dialogue with key partners, including Network Rail and Hitachi
+¢ Collaboration in cross-industry forums
+
+¢ Certified systems for collaborative supplier relationships
+
+¢ Clear ethical and sustainability standards
+
+Below we describe the effect of having regard to Section 172(1) on the company’s decisions and strategies during the
+financial year:
+« Having sufficient room to stow luggage on board has been an issue for our customers. Installations of floor
+mounted luggage racks were completed over summer 2024, which has improved their comfort and safety.
+« Lumo continues to closely manage its yield strategy to maximise revenue per train.
+Lumo has submitted applications to the ORR to extend its services to Glasgow, add an additional return service
+between Newcastle and London and introduce new services between Rochdale and London.
+e  Arail safety awareness campaign has been launched at Gateshead’s Metrocentre to educate people to stay safe
+by staying behind the yellow line at railway stations when trains arrive and depart.
+
+Approved by the Board of Directors and signed on its behalf by:
+
+M Gilbert A | {
+
+Director
+25 October 2024
+8th Floor, The Point, 37 North Wharf Road, London W2 1AF
+
+East Coast Trains Limited
+
+Directors’ report
+
+The directors have pleasure in submitting their annual report and the audited financial statements for the year ended 31
+March 2024. A review of the business and the future developments are set out in the Strategic report, along with the
+key performance indicators and principal risks and uncertainties.
+
+Directors
+
+The directors who held office throughout the year and up to the date of signing, except as noted, were as follows:
+
+H Clancy (resigned 4 August 2023)
+
+M Gilbert
+
+A James
+
+A Mellors (resigned 20 November 2023)
+
+S Montgomery (appointed 16 May 2024)
+
+D Statham (appointed 19 June 2023 and resigned 16 May 2024))
+
+Dividends
+
+During the year, the company declared and paid an interim dividend to its parent company, First Rail Holdings Limited,
+of £14,500k (2023: £nil). No final dividend is proposed (2023: £nil).
+
+Going concern
+
+At 31 March 2024 the company had cash at bank of £13,455k (2023: £5,189k) and net assets of £1,739k (2023:
+£1,472k). Amounts owed to group undertakings increased year on year to £9,670k at 31 March 2024 (2023: £6,012k).
+The company directors are required to state whether they consider it appropriate to adopt the going concern basis of
+accounting in preparing the financial statements and identify any material uncertainties to the company’s ability to
+continue to do so over a period of at least twelve months from the date of approval of the financial statements.
+Background for going concern
+
+As explained in the Strategic report, passenger revenues in the current year showed strong growth of 28.5%. Where
+engineering works restricted passenger services, the company’s track access agreement with Network Rail compensated
+it for lost revenue, net of cost savings, of £4,051k (2023: £5,665k) (see note 7). This positive trading position has
+enabled the company to report in the current year another strong profit after tax margin of 29.2% (2023: 30.1%).
+
+The company participates in a notional cash pool arrangement and overdraft facility with its ultimate parent company,
+FirstGroup plc, and other group companies. The company has jointly and severally guaranteed the liabilities of the other
+parties under these arrangements. Due to these arrangements, the company is dependent on its ultimate parent,
+FirstGroup plc, for support.
+
+The company is focussed predominantly on the leisure market, which has remained buoyant since 31 March 2024.
+The directors used the financial forecasts prepared for business modelling and liquidity purposes as the basis for their
+assessment of the company’s ability to continue as a going concern for the twelve months from the date of the financial
+statements. .
+
+The major assumptions and key areas of judgement incorporated in the modelling included:
+
++ the potential impacts on financial and trading performance given the current economic backdrop; and
+
++ the timing of working capital flows
+
+These financial forecasts assume continued support from FirstGroup plc due to the cash pooling arrangements. Given
+the extent to which current FirstGroup ple support underpins the business, it was not considered necessary to run
+alternative stress tests.
+
+The company is dependent on its ultimate parent company, FirstGroup ple, for ongoing financial support. This has
+been taken into account in the going concern assessment for the company (see below).
+
+Significant going concern judgements
+
+In using these financial forecasts for the going concern assessment, the company directors have made significant
+judgements in the passenger revenue forecasts, which are based on demand growing in line with the general economy
+and yields reflecting longer term inflation forecasts.
+
+FirstGroup ple has provided the directors of the company with a letter confirming that it will provide support to the
+company, such that it is able to meet its obligations for a period of at least 12 months from the date of signing of these
+financial statements. The directors have made enquiries and understand that the parent company has adequate resources
+to be able to provide this financial support.
+
+East Coast Trains Limited
+
+Directors’ report
+
+Going concern (continued)
+
+Going concern statement
+
+Based on their review of the financial forecasts, the support to the company from FirstGroup ple and having regard to
+the risks and uncertainties to which the company is exposed, the company directors believe that the company has
+adequate resources to continue in operational existence for the 12-month period from the date on which the financial
+statements were approved. Accordingly, the financial statements have been prepared on a going concern basis.
+Financial risk management
+
+Financial risk management has been considered by the directors within the Strategic report on page 4.
+
+Employee involvement
+
+Communication with employees is effected mainly through regular briefing and meetings between the directors, the
+senior management and employee representatives. The briefing meetings enable senior management to consult
+employees and to ascertain their views on matters likely to affect their interests. An official forum, “Vox”, for
+employees to raise and discuss issues has been established and includes a panel of employee and management
+representatives.
+
+Disabled persons
+
+The company recognises its obligations to give disabled people full and fair consideration for all vacancies within the
+statutory medical requirement, which have to be met for certain grades of staff. Wherever reasonable and practicable,
+the company will retain newly disabled employees and at the same time provide full and fair opportunities for the career
+development of disabled people.
+
+Directors’ indemnity
+
+The company’s parent company, FirstGroup plc, has made qualifying third-party indemnity provisions for the benefit
+of the company’s directors which were made during the year and remain in force at the date of this report.
+
+Audit information
+Each of the persons who is a director at the date of the approval of this report confirms that:
+
+e So far as the director is aware, there is no relevant audit information of which the company’s auditors are
+unaware; and
+
+e the director has taken all the steps that he ought to have taken as a director in order to make himself aware of
+any relevant audit information and to establish that the company’s auditors are aware of that information.
+
+This confirmation is given and should be interpreted in accordance with the provisions of s418 of the Companies Act
+2006.
+
+Independent Auditors
+
+The auditors, PricewaterhouseCoopers LLP, have indicated their willingness to continue in office and a resolution
+concerning their re-appointment was passed at FirstGroup ple’s Annual General Meeting on 26 July 2024.
+
+Approved by the Board of Directors and signed on its behalf by:
+
+AIL
+
+M Gilbert
+
+Director
+
+25 October 2024
+
+8th Floor, The Point, 37 North Wharf Road, London W2 1AF
+
+East Coast Trains Limited
+Directors’ responsibilities statement
+
+The directors are responsible for preparing the Annual Report and the financial statements in accordance with applicable
+law and regulation. ‘
+
+Company law requires the directors to prepare financial statements for each financial year. Under that law the directors
+have prepared the financial statements in accordance with United Kingdom Generally Accepted Accounting Practice
+(United Kingdom Accounting Standards, comprising FRS 102 “The Financial Reporting Standard applicable in the UK
+and Republic of Ireland”, and applicable law).
+
+‘ Under company law, directors must not approve the financial statements unless they are satisfied that they give a true
+and fair view of the state of affairs of the company and of the profit or loss of the company for that period. In preparing
+the financial statements, the directors are required to:
+
+e — select suitable accounting policies and then apply them consistently;
+
+e state whether applicable United Kingdom Accounting Standards, comprising FRS 102 have been followed,
+subject to any material departures disclosed and explained in the financial statements;
+
+« make judgements and accounting estimates that are reasonable and prudent; and
+
+¢ prepare the financial statements on the going concern basis unless it is inappropriate to presume that the
+company will continue in business.
+
+The directors are responsible for safeguarding the assets of the company and hence for taking reasonable steps for the
+prevention and detection of fraud and other irregularities.
+
+The directors are also responsible for keeping adequate accounting records that are sufficient to show and explain the
+company’s transactions and disclose with reasonable accuracy at any time the financial position of the company and
+enable them to ensure that the financial statements comply with the Companies Act 2006.
+
+Approved by the Board of Directors and signed on its behalf by:
+
+MUL
+
+M Gilbert
+
+Director
+
+25 October 2024
+
+8th Floor, The Point, 37 North Wharf Road, London W2 1AF
+
+East Coast Trains Limited
+Independent auditors’ report
+
+Independent auditors’ report to the
+
+members of East Coast Trains Limited
+Report on the audit of the financial statements
+
+Opinion
+In our opinion, East Coast Trains Limited’s financial statements:
+
+e give a true and fair view of the state of the company’s affairs as at 31 March 2024 and of its profit for
+the year then ended;
+
+e ‘have been properly prepared in accordance with United Kingdom Generally Accepted Accounting
+Practice (United Kingdom Accounting Standards, including FRS 102 “The Financial Reporting Standard
+applicable in the UK and Republic of treland”, and applicable law); and
+
+e have been prepared in accordance with the requirements of the Companies Act 2006.
+
+We have audited the financial statements, included within the Annual report and financial statements (the
+
+“Annual Report”), which comprise: the Balance sheet as at 31 March 2024; the Profit and loss Account, the
+
+Statement of comprehensive income and Statement of changes in equity for the year then ended; and the
+
+notes to the financial statements, which include a description of the significant accounting policies.
+
+Basis for opinion
+
+We conducted our audit in accordance with International Standards on Auditing (UK) (“ISAs (UK)”) and
+applicable law. Our responsibilities under ISAs (UK) are further described in the Auditors’ responsibilities
+for the audit of the financial statements section of our report. We believe that the audit evidence we have
+obtained is sufficient and appropriate to provide a basis for our opinion.
+
+Independence :
+
+We remained independent of the company in accordance with the ethical requirements that are relevant
+to our audit of the financial statements in the UK, which includes the FRC’s Ethical Standard, and we have
+fulfilled our other ethical responsibilities in accordance with these requirements.
+
+Conclusions relating to going concern
+
+Based on the work we have performed, we have not identified any material uncertainties relating to events
+or conditions that, individually or collectively, may cast significant doubt on the company’s ability to
+continue as a going concern for a period of at least twelve months from when the financial statements are
+authorised for issue.
+
+In auditing the financial statements, we have concluded that the directors’ use of the going concern basis
+of accounting in the preparation of the financial statements is appropriate.
+
+However, because not all future events or conditions can be predicted, this conclusion is not a guarantee
+as to the company’s ability to continue as a going concern.
+
+Our responsibilities and the responsibilities of the directors with respect to going concern are described in
+the relevant sections of this report.
+
+East Coast Trains Limited
+
+Independent auditors’ report
+
+Reporting on other information
+
+The other information comprises all of the information in the Annual Report other than the financial
+statements and our auditors’ report thereon. The directors are responsible for the other information. Our
+opinion on the financial statements does not cover the other information and, accordingly, we do not
+express an audit opinion or, except to the extent otherwise explicitly stated in this report, any form of
+assurance thereon.
+
+In connection with our audit of the financial statements, our responsibility is to read the other information
+and, in doing so, consider whether the other information is materially inconsistent with the financial
+statements or our knowledge obtained in the audit, or otherwise appears to be materially misstated. If we
+identify an apparent material inconsistency or material misstatement, we are required to perform
+procedures to conclude whether there is a material misstatement of the financial statements or a material
+misstatement of the other information. If, based on the work we have performed, we conclude that there
+is a material misstatement of this other information, we are required to report that fact. We have nothing
+to report based on these responsibilities.
+
+With respect to the Strategic report and Directors’ report, we also considered whether the disclosures
+required by the UK Companies Act 2006 have been included.
+
+Based on our work undertaken in the course of the audit, the Companies Act 2006 requires us also to report
+certain opinions and matters as described below.
+
+Strategic report and Directors’ report
+
+In our opinion, based on the work undertaken in the course of the audit, the information given in the
+Strategic report and Directors’ report for the year ended 31 March 2024 is consistent with the financial
+statements and has been prepared in accordance with applicable legal requirements.
+
+In light of the knowledge and understanding of the company and its environment obtained in the course
+of the audit, we did not identify any material misstatements in the Strategic report and Directors’ report.
+
+Responsibilities for the financial statements and the audit
+
+Responsibilities of the directors for the financial statements
+
+As explained more fully in the Directors’ responsibilities statement, the directors are responsible for the
+preparation of the financial statements in accordance with the applicable framework and for being satisfied
+that they give a true and fair view. The directors are also responsible for such internal control as they
+determine is necessary to enable the preparation of financial statements that are free from material
+misstatement, whether due to fraud or error.
+
+In preparing the financial statements, the directors are responsible for assessing the company’s ability to
+continue as a going concern, disclosing, as applicable, matters related to going concern and using the going
+concern basis of accounting unless the directors either intend to liquidate the company or to cease
+operations, or have no realistic alternative but to do so.
+
+10
+
+East Coast Trains Limited
+
+Independent auditors’ report
+
+Auditors’ responsibilities for the audit of the financial statements
+
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are
+free from material misstatement, whether due to fraud or error, and to issue an auditors’ report that
+includes our opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an audit
+conducted in accordance with ISAs (UK) will always detect a material misstatement when it exists.
+Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate,
+they could reasonably be expected to influence the economic decisions of users taken on the basis of these
+financial statements.
+
+Irregularities, including fraud, are instances of non-compliance with laws and regulations. We design
+procedures in line with our responsibilities, outlined above, to detect material misstatements in respect of
+irregularities, including fraud. The extent to which our procedures are capable of detecting irregularities,
+including fraud, is detailed below.
+
+Based on our understanding of the company and industry, we identified that the principal risks of non-
+compliance with laws and regulations related to employment legislation, environmental legislation, data
+protection legislation, health and safety regulations under the Health and Safety at Work Act and The
+Railway Safety Levy Regulations 2006, and we considered the extent to which non-compliance might have
+a material effect on the financial statements. We also considered those laws and regulations that have a
+direct impact on the financial statements such as Companies Act 2006 and UK tax regulations. We
+evaluated management's incentives and opportunities for fraudulent manipulation of the financial
+statements (including the risk of override of controls), and determined that the principal risks were related
+to posting manual journal entries to manipulate financial performance. Audit procedures performed by the-
+engagement team included:
+
+e Enquiry with management and those charged with governance around any known or suspected
+instances of non-compliance with laws and regulations or fraud;
+
+e Identifying and testing journal entries, in particular any journal entries posted with unusual account
+combinations in relation to revenue and cash;
+
+® Understanding of management's tax compliance controls along with review of correspondence with
+tax authorities and understanding of the applicable tax laws;
+
+e Reviewing minutes of meetings of those charged with governance;
+
+e Reviewing financial statement disclosures and testing to supporting documentation, where
+appropriate, to assess compliance with applicable laws and regulations; and
+
+e Incorporating unpredictable procedures.
+
+There are inherent limitations in the audit procedures described above. We are less likely to become aware
+
+of instances of non-compliance with laws and regulations that are not closely related to events and
+
+transactions reflected in the financial statements. Also, the risk of not detecting a material misstatement
+
+due to fraud is higher than the risk of not detecting one resulting from error, as fraud may involve deliberate
+
+concealment by, for example, forgery or intentional misrepresentations, or through collusion.
+
+A further description of our responsibilities for the audit of the financial statements is located on the FRC’s
+website at: www.frc.org.uk/auditorsresponsibilities. This description forms part of our auditors’ report.
+
+Use of this report
+
+This report, including the opinions, has been prepared for and only for the company’s members as a body
+in accordance with Chapter 3 of Part 16 of the Companies Act 2006 and for no other purpose. We do not,
+in giving these opinions, accept or assume responsibility for any other purpose or to any other person to
+whom this report is shown or into whose hands it may come save where expressly agreed by our prior
+consent in writing.
+
+1
+
+East Coast Trains Limited
+Independent auditors’ report
+
+Other required reporting
+
+Companies Act 2006 exception reporting
+Under the Companies Act 2006 we are required to report to you if, in our opinion:
+
+© we have not obtained all the information and explanations we require for our audit; or
+
+® adequate accounting records have not been kept by the company, or returns adequate for our audit
+have not been received from branches not visited by us; or
+
+¢ certain disclosures of directors’ remuneration specified by law are not made; or
+
+e the financial statements are not in agreement with the accounting records and returns.
+
+We have no exceptions to report arising from this responsibility.
+
+5,
+
+Sophie Pearce (Senior Statutory Auditor)
+
+for and on behalf of PricewaterhouseCoopers LLP
+Chartered Accountants and Statutory Auditors
+Southampton
+
+25 October 2024
+
+East Coast Trains Limited
+Profit and loss account
+Year ended 31 March 2024
+
+Notes 2024 2023
+: £000. ____ £000
+Turnover 5 50,509 39,673
+Operating costs . 6 (36,865) (31,398)
+Other operating income 7 6,063 6,428
+Operating profit [ 19,707 14,703 ]
+Profit before tax . 10 19,707, 14,703
+Tax on profit 11 (4,940) (2,755)
+Profit for the financial year [ 14,767 11,948 ]
+Statement of comprehensive income
+For the year ended 31 March 2024
+2024 2023
+£'000 £000
+Profit for the financial year 14,767 11,948
+
+Total comprehensive income for the financial year | 14,767 11,948 |
+
+East Coast Trains Limited
+Balance sheet
+As at 31 March 2024
+
+Fixed assets
+Intangible assets
+Tangible assets
+
+Current assets
+Debtors
+Cash at bank and in hand
+
+Creditors: amounts falling due within one year
+
+Net current assets
+
+Total assets less current liabilities
+
+Creditors: amounts falling due after more than one year
+Provisions for liabilities
+
+Net assets
+
+Capital and reserves
+
+Called up share capital
+Profit and loss account
+
+Total shareholder’s funds
+
+Notes
+
+12
+
+13
+
+14
+
+15
+
+15
+
+17
+
+18
+
+2024 2023
+£000 £000.
+95 27
+1,069 791
+1,164 1,064
+7,771 10,434
+13,455. «5,189
+21,232 15,623
+
+(19,722) : (14,986)
+
+1,510 637
+(496) -
+(439) (229)
+
+[ 1,739 1,472]
+
+1,739 1,472
+
+[ 1,739 1,472]
+
+The accompanying notes on pages 16 to 24 are an integral part of these financial statements.
+
+These financial statements of East Coast Trains Limited on pages 13 to 24, registered number 08765536 were approved
+by the Board of Directors on 25 October 2024 and were signed on its behalf by:
+
+ML
+
+M Gilbert
+Director
+
+14
+
+East Coast Trains Limited
+Statement of changes in equity
+For the year ended 31 March 2024
+
+Called up
+share
+capital
+
+£°000
+
+Balance at 1 April 2022 -
+
+Profit and total comprehensive income for the financial year -
+
+Balance at 31 March 2023 -
+
+Profit and total comprehensive income for the financial year -
+Dividends paid (note 18) -
+
+Balance at 31 March 2024 -
+
+Profit and
+loss
+account
+£7000
+
+(10,476)
+11,948
+
+1,472
+
+14,767
+(14,500)
+
+1,739
+
+(10,476)
+14,948
+
+1,472
+
+14,767
+(14,500)
+
+1,739
+
+15
+
+East Coast Trains Limited
+Notes to the financial statements
+For the year ended 31 March 2024
+
+1. General information
+
+East Coast Trains Limited is a private company limited by shares, incorporated in the United Kingdom under the
+Companies Act 2006 and registered in England. The registered office address is 8th Floor, The Point, 37 North Wharf
+Road, London W2 1 AF. The nature of the company’s operations and its principal activities are set out in the Strategic
+report on page 1.
+
+2. Statement of compliance
+
+The financial statements of East Coast Trains Limited have been prepared in compliance with United Kingdom
+Accounting Standards, including Financial Reporting Standard 102, ‘The Financial Reporting Standard applicable in
+the United Kingdom and the Republic of Ireland’ (‘FRS 102’) and the Companies Act 2006.
+
+3. Principal accounting policies
+
+The following accounting policies have been applied consistently throughout the current and preceding year.
+
+a. Basis of preparation
+
+These financial statements are prepared on a going concern basis, under the historical cost convention, modified to
+include certain items at fair value in accordance with FRS 102.
+
+The functional currency of East Coast Trains Limited is considered to be pounds sterling because that is the currency
+of the primary economic environment in which the company operates.
+
+b. Going concern
+
+The company currently meets its day-to-day working capital requirements through its bank overdraft and support from
+its ultimate parent, FirstGroup plc. The company’s business modelling forecasts and projections, taking account of
+reasonably possible changes in trading performance, show that the company is able to operate within the level of its
+current facilities. After making enquiries, the directors have a reasonable expectation that the company has adequate
+resources to continue in operational existence for the foreseeable future. The company therefore continues to adopt the
+going concern basis in preparing its financial statements.
+
+c. Exemptions for qualifying entities under FRS 102
+
+The company meets the definition of a qualifying entity under FRS102 and has therefore taken advantage of the
+disclosure exemptions in relation to share-based payments (Section 26 of FRS102 and paragraphs 26.18(b), 26.19-
+26.21, 26.23), financial instruments (Sections 11 and 12 of FRS102 and paragraphs 11.42, 11.44, 11.45, 11.47,
+11.48(a)(iii), 11.48(a)(iv), 11.48(b), 11.48(c), 12.26, 12.27, 12.29(a), 12.29(b) and 12.29A), intra-group transactions
+(Section 33 of FRS102 paragraph 33.1A), remuneration of key management personnel (Section 33 of FRS102 and
+paragraph 33.7) and presentation of a cash flow statement (Section 7 of FRS102 and paragraph 3.17(d)), which have
+been disclosed in FirstGroup plc’s financial statements.
+
+The company is included in the consolidated financial statements of FirstGroup ple which can be obtained on request
+from its registered office 395 King Street, Aberdeen AB24 5RP.
+
+d. Tangible and intangible fixed assets
+
+Tangible and intangible fixed assets are stated at cost, net of depreciation/amortisation and any provision for
+impairment. Depreciation/amortisation is provided to write off the cost less residual value of fixed assets over their
+estimated useful economic lives:
+
+Leasehold improvements - 5 years straight-line
+Other plant and equipment - 3 to 5 years straight-line
+Computer software - 3 years straight-line
+
+Assets under construction are stated at cost. These assets are not depreciated until they are available for use.
+
+The assets’ residual values and useful lives are reviewed, and adjusted, if appropriate, at the end of each reporting
+period. The effect of any change is accounted for prospectively.
+
+16
+
+East Coast Trains Limited
+Notes to the financial statements
+For the year ended 31 March 2024
+
+3. Principal accounting policies (continued)
+e. Impairment of intangible and tangible fixed assets
+
+At each balance sheet date, the company reviews the carrying amounts of its fixed assets to determine whether there is
+any indication that those assets have suffered an impairment loss. If any such indication exists, the recoverable amount
+of the asset is estimated in order to determine the extent of the impairment loss (if any).
+
+If the recoverable amount of an asset is estimated to be less than the carrying amount, the carrying amount of the asset
+is reduced to the recoverable amount. An impairment loss is recognised as an expense immediately.
+
+If an impairment loss is subsequently reversed, the carrying amount of the asset is increased to the revised estimate of
+its recoverable amount, but only to the extent that the revised carrying amount does not exceed the carrying amount
+that would have been determined (net of depreciation or amortisation) had no impairment loss been recognised in prior
+periods. A reversal of an impairment loss is recognised in the profit and loss account.
+
+f. Leases and hire purchase
+
+All leases are operating leases and the rental charges are taken to the profit and loss account on a straight-line basis
+over the life of the lease.
+
+g. Grants
+
+Grants relating to assets are recognised in “other operating income” within profit or loss on a systematic basis over the
+expected useful life of the assets concerned. All other grants are recognised in “other operating income” within profit
+or loss in the same period as the related expenditure.
+
+h. Financial assets and liabilities
+
+All financial assets and liabilities are measured at transaction price (including transaction cost). All the financial assets
+and liabilities are classified as ‘basic’ under Section 1] and Section 12 of FRS 102. Instruments classified as ‘basic’
+financial instruments are measured subsequently at amortised cost using the effective interest method.
+
+i. Taxation
+
+UK corporation tax is provided at amounts expected to be paid (or recovered) using tax rates and laws that have been
+enacted or substantively enacted by the balance sheet date.
+
+The taxation liability is reduced wholly or in part by the surrender of losses by group undertakings. The tax benefits
+arising from group relief are recognised in the financial statements of the surrendering undertaking.
+
+The charge for taxation is based on the profit for the year and takes into account taxation deferred because of timing
+differences between the treatment of certain items for taxation and accounting purposes. Deferred tax assets are
+recognised to the extent that it is regarded as more likely than not that they will be recovered. Deferred tax assets and
+liabilities are not discounted.
+
+j. Impairment of financial assets
+
+For financial assets carried at amortised cost, the amount of an impairment is the difference between the asset’s carrying ©
+amount and the present value of estimated future cash flows, discounted at the financial asset’s original effective interest
+rate.
+
+Where indicators exist for a decrease in impairment loss, and the decrease can be related objectively to an event
+occurring after the impairment was recognised, the prior impairment loss is tested to determine reversal. An impairment
+loss is reversed on an individual impaired financial asset to the extent that the revised recoverable value does not lead
+to a revised carrying amount higher than the carrying value had no impairment been recognised.
+
+k. Turnover
+
+Turnover (Revenue) is recognised at the fair value of the consideration received or receivable for services provided in
+the normal course of business and is shown net of VAT where appropriate.
+
+Passenger revenue
+
+The company has one principal class of business, namely, the provision of passenger transport services. Passenger
+revenues primarily relate to ticket sales and is attributable to the company predominantly based on models of route
+usage, by the Railway Settlement Plan. Passenger revenue is recognised at both a point in time and over time. Ticket
+sales for season tickets, travel cards and open-return tickets are initially deferred then recognised over the period
+covered by the relevant ticket. Concessionary amounts are recognised in the period in which the service is provided.
+
+17
+
+East Coast Trains Limited
+
+Notes to the financial statements
+For the year ended 31 March 2024
+3. Principal accounting policies (continued)
+
+k. Turnover (continued)
+
+Other revenue
+
+The company recognises other revenue when (a) the significant risks and rewards of ownership have been transferred
+to the buyer; (b) the company retains no continuing involvement or control over the goods; (c) the amount of revenue
+can be measured reliably; (d) it is probable that future economic benefits will flow to the entity; and (e) when the
+specific criteria relating to the each of company’s sales channels have been met.
+
+Turnover from non-passenger receipts include commission on ticket sales, catering income and other sundry income.
+1. Future ticket deferral ‘
+
+Where season tickets or railcards are issued in excess of one week’s duration, the attributable share of income is deferred
+within creditors and is recognised in the profit and loss account over the period covered by the season ticket or railcard.
+Income from advanced purchase and other ticket types is recognised in the profit and loss account on the date of travel.
+m. Pension costs
+
+Company specific scheme
+
+The company operates a defined contribution pension scheme. The assets of the scheme are held separately from those
+of the company in an independently administered fund. The amount charged to the profit and loss account represents
+the contributions payable to the scheme in respect of the accounting period.
+
+n. Share-based payments
+
+The company’s parent issues equity-settled share-based payments to certain employees. Equity-settled share-based
+payments are measured at fair value at the date of grant. The fair value determined at the grant date of the equity-settled
+share-based payments is expensed on a straight-line basis over the vesting period, based on the group’s estimate of
+share that will eventually vest and is adjusted for the effects of non-market based vesting conditions.
+
+Fair value is measured by use of a Black-Scholes model or other appropriate valuation models. The expected life used
+in the model has been adjusted, based on management’s best estimate, for the effects of non-transferability, exercise
+restrictions, and behavioural considerations.
+
+o. Provisions
+
+Provisions are recognised when the company has a present obligation as a result of a past event and it is probable that
+the company will be required to settle the obligation at the balance sheet date and are discounted to present value where
+the effect is material.
+
+4. Critical accounting judgements and key sources of estimation uncertainty
+
+In the process of applying the company’s accounting policies as described above, management have made no critical
+accounting judgements. There are no key sources of estimation uncertainty.
+
+5. Turnover
+
+Passenger revenue : . 49,484 38,504
+
+Catering income 767 757
+Commission from ticket sales . 246 258
+
+Other income 12 154
+
+[ 50,509 39,673, ]
+
+18
+
+East Coast Trains Limited
+Notes to the financial statements
+For the year ended 31 March 2024
+
+6. Operating costs
+
+2024 2023
+£1000. £000
+Raw materials and consumables 720 690
+Staff costs Note 8 8,227 6,787
+Network Rail charges 9,972 5,873
+Rolling stock charges 4,801 5,299
+Train maintenance 5,002 4,080
+Other external charges 7,669 8,084
+Depreciation Note 13 296 190
+Amortisation Note 12 178 395
+36,865, 31,398
+
+7. Other operating income
+2024 2023
+£:000. £000
+Off-charging of operating costs 1,911 763
+Restriction of use claims 4,051 5,665
+Grant income 101 -
+
+6,063, 6,428
+
+Off-charging of operating costs of £1,911k (2023: £763k) results from various recharges to Network Rail in relation to
+their East Coast digital programme and to fellow group undertakings. Restriction of use claims of £4,051k (2023:
+£5,665k) is compensation from Network Rail for revenue losses, net of costs, for engineering possessions, which result
+in amended passenger service timetables. Grant income of £101k (2023: £nil) is amortisation of a capital grant received
+from Network Rail in relation to their East Coast digital programme.
+
+8. Employee numbers and costs
+
+The monthly average number of persons employed by the company (including directors) during the year was as follows:
+
+2024 2023
+Number_____ Number
+
+Operations . 87 88
+Administration 20 13
+
+107 101
+The aggregate. payroll costs of these persons were as follows: £000 £'000
+Wages and salaries 6,987 5,828
+Social security costs 843 645
+Other pension costs Note 20 397 314
+
+[ 8,227 6,787
+
+9. Directors’ remuneration
+
+Four (2023: three) directors received remuneration from another group company, First Rail Holdings Limited, details
+of which are disclosed in their financial statements. To the extent they are employed by First Rail Holdings Limited as
+an employee, their remuneration is included in that company’s wages and salaries. Services provided by those directors
+are considered incidental to East Coast Trains Limited.
+
+2024 2023
+£'000 £1000.
+
+The remuneration of the other director, the highest paid during the year, was as follows:
+
+Aggregate emoluments (excluding pension contributions) 130 89
+Company pension contributions 5 4
+135 93,
+
+19
+
+East Coast Trains Limited
+Notes to the financial statements
+
+For the year ended 31 March 2024
+10. Profit before tax
+
+2024 2023
+£000. £'000,
+Profit before tax is stated after charging:
+Auditors’ remuneration for audit of the annual financial statements 76 25
+Depreciation charge on own assets Note 13 296 190
+Amortisation of intangible assets Note 12 178 395
+Rentals payable under operating leases
+- plant and machinery 4,801 5,299
+- other operating leases 252 213
+11. Tax on profit
+2024 2023
+£'000. £000.
+Current taxation .
+Group relief payable 5,027 2,892
+Adjustment in respect of prior years (4) (249)
+
+Total current taxation [ 5,023 2,643. ]
+
+Deferred taxation
+
+Origination and reversal of timing differences . (h15) (123)
+Adjustment in respect of prior years 32 235
+Total deferred taxation (83) 112
+
+Total tax charge [ 4,940 2,755,
+
+The standard rate of taxation for the year, based on the UK standard rate of corporation tax, is 25% (2023: 19%).
+Deferred tax has been provided for at 25% (2023: 25%).
+
+There may be an impact, from 2025 onwards, of the UK’s enactment of the Organisation for Economic Co-operation
+and Development’s Global Anti-Base Erosion Model Rules (Pillar Two). The company has applied the temporary
+exemption issued by the Financial Reporting Council from the accounting for deferred taxes under FRS 102.
+Accordingly, the company neither recognises nor discloses information about deferred tax assets and liabilities related
+to Pillar Two income taxes.
+
+In the period commencing | April 2024, the reduction in the deferred tax liability is expected to increase the corporation
+tax charge for the period by £59,000. This is primarily due to depreciation and capital allowances.
+
+The tax charge for the current year differed from the standard rate for the reasons set out in the following reconciliation:
+
+2024 2023
+£000 £1000
+Profit before tax ’ 19,707 14,703
+Profit before tax multiplied by the standard rate of Corporation Tax in the UK
+of 25% (2023: 19%) 4,927 2,794
+Factors affecting charge
+- Expenses not deductible for tax purposes 5 5
+- Tax rélief on employee share awards (20) -
+- Impact of rate change on origination and reversal of timing differences - (30)
+- Adjustment in respect of prior years 28 (14)
+
+Total tax charge on profit . [ 4,940 2,755.
+
+20
+
+East Coast Trains Limited
+Notes to the financial statements
+For the year ended 31 March 2024
+
+12. Intangible assets
+
+Computer Computer
+
+software software
+2024 2023
+£000 £'000,
+
+Cost
+At 1 April 788 788
+Additions - :
+At 31 March 788 788
+
+Accumulated amortisation
+
+At 1 April 515 120
+Charge for year 178 395
+
+At 31 March 693 515
+
+Net book value
+
+At 31 March ; 95, 273
+Computer software is recognised separately as an intangible asset and is carried at cost less accumulated amortisation.
+Costs include software licences, website development, costs attributable to the development, design and implementation
+of the computer software and internal costs directly attributable to software.
+
+13. Tangible assets
+
+ther Other
+. Leasehold plant and Total . Leasehold plant and
+improvements . improvements . Total
+equipment equipment
+2024 2024 2024 2023 2023 2023
+£000 £:000 £7000 £000. £000 £1000.
+Cost
+At 1 April 504 565 1,069 487 - 296 783
+Additions 298 276 | 574 17 269 286
+At 31 March 802 841 1,643 504 565 1,069
+Accumulated
+depreciation
+At 1 April 143 135 278 45 43 88
+Charge for year 183 113 296 98 92 190
+At31 March 326 248 574 143 135 278
+Net book value
+At 31 March 476. 593, 1,069. 361 430 791
+
+14. Debtors
+
+2024 2023
+£1000 £1000
+
+Amounts due within one year
+
+Trade debtors 3,408 3,196
+Amounts owed by group undertakings 64 ~ 230
+Other debtors 3,900 5,587
+Prepayments and accrued income 405 1,421
+
+[ 4111 10,434 |
+
+Amounts owed by group undertakings are unsecured, repayable on demand and do not attract interest.
+
+Other debtors includes £357k (2023: £673k) in respect of VAT and £3,543k (2023: £4,914k) in respect of amounts due
+from Network Rail.
+
+21
+
+East Coast Trains Limited
+Notes to the financial statements
+For the year ended 31 March 2024
+
+15. Creditors: amounts falling due within one year
+
+2024 2023
+
+£000 £000.
+Trade creditors 1,279 1,749
+Amounts owed to group undertakings 9,670 6,012
+Taxation and social security 228 163
+Other creditors 51 -
+Capital grants 245 -
+Accruals and deferred income 8,249 7,062
+
+[ 19,722 14,986
+
+Amounts owed to group undertakings are unsecured, repayable on demand and do not attract interest.
+Creditors: amounts falling due after more than one year
+
+2024 2023
+£000 £000
+Capital grants 496 -
+
+Capital grants have been received from Network Rail in relation to their East Coast digital programme.
+16. Deferred tax
+
+2024 2023
+£000 £000.
+At I April . 104 (8)
+(Credited) / charged to the profit and loss account (83) 112
+
+At31 March
+
+Deferred tax breakdown:
+
+Capital allowances in excess of depreciation 37 104
+Other timing differences (16) -
+Total included in Provisions for liabilities Note 17 21 104
+17. Provisions for liabilities
+Deferred tax Dilapidations aes Total
+£000 £000. £1000 £000
+At 1 April 2023 . 104 - 125 229
+(Credited) / charged to the profit and loss account (83) 311 - 228
+Utilised during the year : : (18) (18)
+At 31 March 2024 21 311 107 439
+
+Dilapidations are in respect of rolling stock and office facilities and are expected to crystallise at the end of the lease
+terms — see note 19. Legal and other liabilities relate to insurance claims, which are expected to be settled by 31 March
+2025.
+
+22
+
+East Coast Trains Limited
+Notes to the financial statements
+
+For the year ended 31 March 2024
+18. Called up share capital
+
+2024 2023
+£ £
+Authorised:
+1 (2023: 1) ordinary share of £1 each
+Allotted, called up and fully paid:
+1 (2023: 1) ordinary share of £1 each
+The share carries no right to fixed income nor confers any rights of redemption.
+2024 2023
+£:000, £000
+
+Dividend
+Interim dividend paid of £14,500,000 (2023: £nil) per ordinary share . [ 14,500 : ]
+19. Operating leases
+
+The total of future minimum lease payments under non-cancellable operating leases for each of the following periods
+are as follows:
+
+2024 2023
+Land & Land &
+
+Buildings Other Buildings
+£'000, £'000. £000
+
+Less than one year 189 4,788 4,788
+Between one and five years 758 19,151 19,151
+Over five years 442 13,165 17,954
+
+1,389, 37,104 41,893
+
+20. Pension scheme
+Defined contribution scheme
+
+The company operates a defined contribution retirement benefit scheme for all qualifying employees. The total expense
+charged to the profit and loss account in the year ended 31 March 2024 was £397k (2023: £3 14k). Included within other
+creditors for defined contribution payments payable was £nil (2023: £nil).
+
+21. Share based payments
+
+Share-based payment expense comprises costs arising from FirstGroup plc shares schemes including Save as you earn,
+Buy as you earn, Executive Share Plan, Deferred Bonus Shares and Long-Term Incentive Plan. Further details on
+these share schemes can be found in the FirstGroup plc Annual Report and Accounts 2024.
+
+Save as you earn (SAYE)
+
+FirstGroup plc operates an HMRC approved savings-related share option scheme and at the start of the year there were
+no outstanding options. The scheme is based on eligible employees being granted options and their agreement to
+opening a Sharesave account with a nominated savings carrier and to save weekly or monthly over a specified period.
+Sharesave accounts are held with Computershare. The right to exercise the option is at the employee’s discretion at the
+end of the period previously chosen for a period of six months. The plan rules set out the treatment of those who leave
+employment before the end of the savings contract. Details of the share options outstanding are disclosed in the
+published Annual Report and Accounts of FirstGroup plc.
+
+Buy as you earn (BAYE)
+
+BAYE enables eligible employees to purchase shares from their gross income. The company provides two matching
+shares for every three shares bought by employees, subject to a maximum company contribution of shares to the value
+of.£20 per employee per month. If the shares are held in trust for five years or more, no income tax and national
+insurance will be payable. The matching shares will be forfeited if the corresponding partnership shares are removed
+from trust within three years of award.
+
+The group has allocated the expense amongst its trading subsidiary undertakings based on the number of employees
+participating in the scheme. The company has recognised a total expense of £63k (2023: £nil) relating to equity-settled
+share-based payment transactions.
+
+23
+
+East Coast Trains Limited
+Notes to the financial statements
+
+For the year ended 31 March 2024
+21. Share based payments (continued)
+
+2024 2023
+
+£2000 £000.
+
+Total expense recognised in the profit and loss account : 63. =
+Contribution paid to First Rail Holdings Limited (parent company) (63) -
+
+Credited to shareholder’s funds Cc]
+
+22. Contingent liabilities
+
+The company participates in a notional cash pool arrangement and overdraft facility with its ultimate parent company,
+FirstGroup ple, and other group companies. The company has jointly and severally guaranteed the liabilities of the other
+parties under these arrangements.
+
+23. Ultimate parent company and controlling party
+
+The directors regard FirstGroup ple, a company incorporated in the United Kingdom and registered in Scotland, as the
+ultimate parent and controlling company, which is the smallest and d largest group that includes the company’s results
+and for which group financial statements are prepared.
+
+The company’s immediate controlling party is First Rail Holdings Limited.
+
+Copies of the financial statements of FirstGroup plc can be obtained on request from 8th Floor, The Point, 37 North
+Wharf Road, London W2 1AF. .
+
+24
+

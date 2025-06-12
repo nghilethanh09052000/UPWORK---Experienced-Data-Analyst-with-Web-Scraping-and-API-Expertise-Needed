@@ -1,0 +1,360 @@
+Primary Goal Ltd
+1 August 2023
+false
+No description of principal activity
+Taxfiler
+2024.6
+09655435
+business:PrivateLimitedCompanyLtd
+2023-08-01
+2024-07-31
+09655435
+2023-07-31
+09655435
+2023-08-01
+2024-07-31
+09655435
+business:AuditExempt-NoAccountantsReport
+2023-08-01
+2024-07-31
+09655435
+business:FilletedAccounts
+2023-08-01
+2024-07-31
+09655435
+2024-07-31
+09655435
+business:Director1
+2023-08-01
+2024-07-31
+09655435
+business:Director2
+2023-08-01
+2024-07-31
+09655435
+business:RegisteredOffice
+2023-08-01
+2024-07-31
+09655435
+2023-07-31
+09655435
+core:WithinOneYear
+2024-07-31
+09655435
+core:WithinOneYear
+2023-07-31
+09655435
+core:ShareCapital
+core:PreviouslyStatedAmount
+2024-07-31
+09655435
+core:ShareCapital
+core:PreviouslyStatedAmount
+2023-07-31
+09655435
+core:CapitalRedemptionReserve
+core:PreviouslyStatedAmount
+2024-07-31
+09655435
+core:CapitalRedemptionReserve
+core:PreviouslyStatedAmount
+2023-07-31
+09655435
+core:RetainedEarningsAccumulatedLosses
+core:PreviouslyStatedAmount
+2024-07-31
+09655435
+core:RetainedEarningsAccumulatedLosses
+core:PreviouslyStatedAmount
+2023-07-31
+09655435
+core:PreviouslyStatedAmount
+2024-07-31
+09655435
+core:PreviouslyStatedAmount
+2023-07-31
+09655435
+business:SmallEntities
+2023-08-01
+2024-07-31
+09655435
+countries:EnglandWales
+2023-08-01
+2024-07-31
+09655435
+core:FurnitureFittings
+2023-08-01
+2024-07-31
+09655435
+core:ComputerEquipment
+2023-08-01
+2024-07-31
+09655435
+core:FurnitureFittings
+2023-07-31
+09655435
+core:ComputerEquipment
+2023-07-31
+09655435
+core:FurnitureFittings
+2024-07-31
+09655435
+core:ComputerEquipment
+2024-07-31
+09655435
+core:AfterOneYear
+2024-07-31
+09655435
+core:AfterOneYear
+2023-07-31
+09655435
+2022-08-01
+2023-07-31
+iso4217:GBP
+xbrli:pure
+Company Registration No.
+09655435
+(England and Wales)
+Primary Goal Ltd
+Unaudited accounts
+for the year ended
+31 July 2024
+Primary Goal Ltd
+Unaudited accounts
+Contents
+Page
+Company information
+3
+Statement of financial position
+4
+Notes to the accounts
+5
+- 2 -
+Primary Goal Ltd
+Company Information
+for the year ended
+31 July 2024
+Directors
+Louise Campton
+Tim Hughes
+Company Number
+09655435
+(England and Wales)
+Registered Office
+1 Chester Court
+High Street
+Knowle
+B93 0LL
+United Kingdom
+Accountants
+AJS Accounting Services Ltd
+1 Chester Court
+High Street, Knowle
+Solihull
+West Midlands
+B93 0LL
+- 3 -
+Primary Goal Ltd
+Statement of financial position
+as at
+31 July 2024
+2024
+2023
+Notes
+£
+£
+Fixed assets
+Tangible assets
+4
+13,592
+10,836
+Current assets
+Debtors
+5
+61,684
+88,578
+Cash at bank and in hand
+464,781
+276,291
+526,465
+364,869
+Creditors: amounts falling due within one year
+6
+(
+85,728
+)
+(
+29,856
+)
+Net current assets
+440,737
+335,013
+Net assets
+454,329
+345,849
+Capital and reserves
+Called up share capital
+100
+100
+Capital redemption reserve
+549,900
+549,900
+Profit and loss account
+(
+95,671
+)
+(
+204,151
+)
+Shareholders' funds
+454,329
+345,849
+For the year ending
+31 July 2024
+the company was entitled to exemption from audit under section 477 of the Companies Act 2006 relating to small companies.
+The members have not required the company to obtain an audit in accordance with section 476 of the Companies Act 2006.
+The directors acknowledge their responsibilities for complying with the requirements of the Act with respect to accounting records and the preparation of accounts.
+These accounts have been prepared and delivered in accordance with the provisions applicable to companies subject to the small companies' regime and in accordance with the provisions of FRS 102 Section 1A - Small Entities. The profit and loss account has not been delivered to the Registrar of Companies.
+The financial statements were approved by the Board of Directors and authorised for issue on
+28 February 2025
+and were signed on its behalf by
+Tim Hughes
+Director
+Company Registration No.
+09655435
+- 4 -
+Primary Goal Ltd
+Notes to the Accounts
+for the year ended
+31 July 2024
+1
+Statutory information
+Primary Goal Ltd
+is a private company, limited by shares, registered in England and Wales
+, registration number
+09655435
+. The registered office is
+1 Chester Court
+,
+High Street
+,
+Knowle
+,
+B93 0LL
+, United Kingdom.
+2
+Compliance with accounting standards
+The accounts have been prepared in accordance with the provisions of FRS 102 Section 1A Small Entities. There were no material departures from that standard.
+3
+Accounting policies
+The principal accounting policies adopted in the preparation of the financial statements are set out below and have remained unchanged from the previous year, and also have been consistently applied within the same accounts.
+Basis of preparation
+The accounts have been prepared under the historical cost convention as modified by the revaluation of certain fixed assets.
+Presentation currency
+The accounts are presented in £ sterling.
+Tangible fixed assets and depreciation
+Tangible assets are included at cost less depreciation and impairment. Depreciation has been provided at the following rates in order to write off the assets over their estimated useful lives:
+Fixtures & fittings
+25% reducing balance method
+Computer equipment
+33% straight line method
+4
+Tangible fixed assets
+Fixtures & fittings
+Computer equipment
+Total
+£
+£
+£
+Cost or valuation
+At cost
+At cost
+At 1 August 2023
+1,645
+43,677
+45,322
+Additions
+-
+12,331
+12,331
+At
+31 July 2024
+1,645
+56,008
+57,653
+Depreciation
+At 1 August 2023
+1,390
+33,096
+34,486
+Charge for the year
+64
+9,511
+9,575
+At
+31 July 2024
+1,454
+42,607
+44,061
+Net book value
+At
+31 July 2024
+191
+13,401
+13,592
+At 31 July 2023
+255
+10,581
+10,836
+- 5 -
+Primary Goal Ltd
+Notes to the Accounts
+for the year ended
+31 July 2024
+5
+Debtors
+2024
+2023
+£
+£
+Amounts falling due within one year
+VAT
+13,261
+13,756
+Accrued income and prepayments
+46,952
+74,818
+Other debtors
+200
+-
+60,413
+88,574
+Amounts falling due after more than one year
+Trade debtors
+1,271
+4
+6
+Creditors: amounts falling due within one year
+2024
+2023
+£
+£
+Trade creditors
+50,465
+21,796
+Taxes and social security
+35,235
+8,032
+Other creditors
+28
+28
+85,728
+29,856
+7
+Average number of employees
+During the year the average number of employees was
+32
+(2023:
+26
+).
+- 6 -

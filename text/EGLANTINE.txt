@@ -1,0 +1,167 @@
+EGLANTINE CATERING LIMITED
+Silverfin
+false
+false
+31/08/2024
+31/08/2024
+01/09/2023
+no description of principal activity
+Susan Richardson
+11/11/1994
+02946389
+2024-08-31
+02946389
+bus:Director1
+2024-08-31
+02946389
+2023-08-31
+02946389
+core:CurrentFinancialInstruments
+2024-08-31
+02946389
+core:CurrentFinancialInstruments
+2023-08-31
+02946389
+core:Non-currentFinancialInstruments
+2024-08-31
+02946389
+core:Non-currentFinancialInstruments
+2023-08-31
+02946389
+2023-09-01
+2024-08-31
+02946389
+bus:Micro-entities
+2023-09-01
+2024-08-31
+02946389
+bus:AbridgedAccounts
+2023-09-01
+2024-08-31
+02946389
+bus:AuditExemptWithAccountantsReport
+2023-09-01
+2024-08-31
+02946389
+bus:PrivateLimitedCompanyLtd
+2023-09-01
+2024-08-31
+02946389
+bus:Director1
+2023-09-01
+2024-08-31
+02946389
+2022-09-01
+2023-08-31
+iso4217:GBP
+xbrli:pure
+Company No:
+02946389
+(England and Wales)
+EGLANTINE CATERING LIMITED
+Abridged Unaudited Financial Statements
+For the financial year ended 31 August 2024
+EGLANTINE CATERING LIMITED
+ABRIDGED UNAUDITED FINANCIAL STATEMENTS
+For the financial year ended 31 August 2024
+Contents
+Company Information
+Balance Sheet
+Notes to the Abridged Financial Statements
+EGLANTINE CATERING LIMITED
+COMPANY INFORMATION
+For the financial year ended 31 August 2024
+EGLANTINE CATERING LIMITED
+COMPANY INFORMATION (continued)
+For the financial year ended 31 August 2024
+DIRECTOR
+Susan Richardson
+REGISTERED OFFICE
+42 Eridge Road
+Tunbridge Wells
+TN4 8HR
+United Kingdom
+COMPANY NUMBER
+02946389 (England and Wales)
+ACCOUNTANT
+Synergee
+Pluto House
+6 Vale Avenue
+Tunbridge Wells
+TN1 1DJ
+EGLANTINE CATERING LIMITED
+BALANCE SHEET
+As at 31 August 2024
+EGLANTINE CATERING LIMITED
+BALANCE SHEET (continued)
+For the financial year ended 31 August 2024
+2024
+2023
+£
+£
+Fixed assets
+4,186
+4,957
+Current assets
+39,833
+38,974
+Prepayments and accrued income
+1,300
+1,637
+Creditors: amounts falling due within one year
+(
+13,408
+)
+(
+9,792
+)
+Net current assets
+27,725
+30,819
+Total assets less current liabilities
+31,911
+35,776
+Creditors: amounts falling due after more than one year
+(
+10,605
+)
+(
+15,470
+)
+Net assets
+21,306
+20,306
+Capital and reserves
+21,306
+20,306
+For the financial year ending 31 August 2024 the Company was entitled to exemption from audit under section 477 of the Companies Act 2006 relating to small companies.
+Director's responsibilities:
+The members have not required the Company to obtain an audit of its financial statements for the financial year in accordance with section 476;
+The director acknowledges their responsibilities for complying with the requirements of the Companies Act 2006 with respect to accounting records and the preparation of financial statements;
+These financial statements have been prepared in accordance with the micro-entity provisions of the Companies Act 2006 and FRS 105
+The Financial Reporting Standard applicable to the Micro-entities Regime.
+The financial statements of Eglantine Catering Limited (registered number: 02946389) were approved and authorised for issue by
+the director
+on
+28 April 2025
+and were signed on its behalf by:
+Susan Richardson
+Director
+EGLANTINE CATERING LIMITED
+NOTES TO THE ABRIDGED FINANCIAL STATEMENTS
+For the financial year ended 31 August 2024
+EGLANTINE CATERING LIMITED
+NOTES TO THE ABRIDGED FINANCIAL STATEMENTS (continued)
+For the For the financial year ended 31 August 2024
+1. Employees
+2024
+2023
+Number
+Number
+Monthly average number of persons employed by the Company during the financial year, including the director
+1
+1
+2. Directors’ benefits: advances, credit and guarantees
+Advances
+As at 31 August 2024, the directors owed £5,664 (2023: £nil) to the company. In the year then ended, £5,664 was advanced, £nil has been repaid, £nil has been written off, and £nil has been waived.
+Amounts advanced to directors are unsecured, interest-free and repayable on demand.

@@ -1,0 +1,445 @@
+a
+
+x
+
+> Docusign Envelope ID: 03F 38F0A-4C03-4F C7-9CAD-A45D2FD75B4D
+
+Company Registration No. 04799102 (England and Wales)
+
+Aspire Training Team Limited
+
+Audited financial statements
+for the year ended 31 March 2024
+
+Pages for filing with the Registrar
+
+*ADZ65UI3*
+A02 #74
+
+26/03/2025
+COMPANIES HOUSE
+
+WEDNESDAY
+
+Docusign Envelope 1D: 03F38F0A-4C03-4FC7-9CAD-A45D2FD75B4D
+
+Aspire Training Team Limited
+
+Contents
+
+Statement of financial position
+
+Notes to the financial statements
+
+Page
+
+>. Docusign Envelope ID: 03F38F0A-4C03-4FC7-9CAD-A45D2FD75B4D
+
+Aspire Training Team Limited
+
+Statement of financial position (continued)
+
+As at 31 March 2024
+2024 2023
+Notes £ £ £ £
+Fixed assets
+intangible assets 3 - -
+Current assets
+Debtors 4 151,737 123,371
+Cash at bank and in hand 371,528 236,783
+523,265 360,154
+Creditors: amounts falling due within one year 5 (169,081) (169,305)
+Net current assets 354,184 190,849
+Total assets less current liabilities . 354,184 190,849
+Net assets . 354,184 190,849
+Capital and reserves
+Called up share capital 100 100
+Profit and loss reserves 354,084 190,749
+Total equity 354,184 190,849
+
+The directors of the company have elected not to include a copy of the income statement within the financial
+statements.
+
+These financial statements have been prepared and delivered in accordance with the provisions applicable to
+companies subject to the small companies regime.
+
+20 March 2025
+The financial statements were approved by the board of directors and authorised for isSUC ON ......essesserseesrenes
+
+and are signed on its behalf by:
+
+‘Signed by:
+
+Ondnrew Nearotey
+BEE3508473 15488...
+Andrew Dearsley
+
+Director
+
+Company Registration No.04799102
+
+Page 2
+
+Docusign Envelope ID: 03F 38F0A-4C03-4FC7-SCAD-A45D2FD7584D
+
+Aspire Training Team Limited
+
+Notes to the financial statements
+For the year ended 31 March 2024
+
+1
+
+1,1
+
+1.2
+
+1.3
+
+1.4
+
+Accounting policies
+
+Company information
+Aspire Training Team Limited is a private company limited by shares incorporated in England and Wales.
+The registered office is 3 Wollaston Road, Bournemouth, BH6 4AR. .
+
+Accounting convention
+
+These financial statements have been prepared in accordance with FRS 102 “The Financial Reporting
+Standard applicable in the UK and Republic of Ireland” (“FRS 102”) and the requirements of the
+Companies Act 2006 as applicable to companies subject to the small companies regime. The disclosure
+requirements of section 1A of FRS 102 have been applied other than where additional disclosure is
+required to show a true and fair view.
+
+The financial statements are prepared in sterling, which is the functional currency of the company.
+Monetary amounts in these financial statements are rounded to the nearest £.
+
+The financial statements have been prepared under the historical cost convention. The principal
+accounting policies adopted are set out below.
+
+Reporting period
+The current financial statements are prepared for the year ended 31 March 2024.
+
+Turnover
+
+Turnover is recognised at the fair value of the consideration received or receivable for services provided
+in the normal course of business, and is shown net of VAT and other sales related taxes. The fair value
+of consideration takes into account trade discounts, settlement discounts and volume rebates.
+
+Intangible fixed assets other than goodwill
+Intangible assets acquired separately from a business are recognised at cost and are subsequently
+measured at cost less accumulated amortisation and accumulated impairment losses.
+
+Amortisation is recognised so as to write off the cost or valuation of assets less their residual values over
+their useful lives on the following bases:
+
+Computer Software 25% straight line basis
+
+Page 3
+
+V
+
+Docusign Envelope ID: 03F 38F0A-4C03-4FC7-9CAD-A45D2FD75B4D
+
+Aspire Training Team Limited
+
+Notes to the financial statements (continued)
+For the year ended 31 March 2024
+
+1
+
+1.5
+
+1.6
+
+Accounting policies (continued)
+
+Impairment of fixed assets
+
+At each reporting period end date, the company reviews the carrying amounts of its tangible and
+intangible assets to determine whether there is any indication that those assets have suffered an
+impairment loss. If any such indication exists, the recoverable amount of the asset is estimated in order
+to determine the extent of the impairment loss (if any). Where it is not possible to estimate the
+recoverable amount of an individual asset, the company estimates the recoverable amount of the cash-
+generating unit to which the asset belongs.
+
+Recoverable amount is the higher of fair value less costs to sell and vatue in use. In assessing value in
+use, the estimated future cash flows are discounted to their present value using a pre-tax discount rate
+that reflects current market assessments of the time value of money and the risks specific to the asset
+for which the estimates of future cash flows have not been adjusted.
+
+If the recoverable amount of an asset (or cash-generating unit) is estimated to be less than its carrying
+amount, the carrying amount of the asset (or cash-generating unit) is reduced to its recoverable amount.
+An impairment loss is recognised immediately in profit.or loss, unless the relevant asset is carried at a
+revalued amount, in which case the impairment loss is treated as a revaluation decrease.
+
+Recognised impairment losses are reversed if, and only if, the reasons for the impairment loss have
+ceased to apply. Where an impairment loss subsequently reverses, the carrying amount of the asset (or
+cash-generating unit) is increased to the revised estimate of its recoverable amount, but so that the
+increased carrying amount does not exceed the carrying amount that would have been determined had
+no impairment loss been recognised for the asset (or cash-generating unit) in prior years. A reversal of
+an impairment loss is recognised immediately in profit or loss, unless the relevant asset is carried at a
+revalued amount, in which case the reversal of the impairment loss is treated as a revaluation increase.
+
+Cash and cash equivalents
+
+Cash and cash equivalents are basic financial assets and include cash in hand, deposits held at call with
+banks, other short-term liquid investments with original maturities of three months or less, and bank
+overdrafts. Bank overdrafts are shown within borrowings in current liabilities.
+
+Page 4
+
+Docusign Envelope ID: 03F38FOA-4C03-4F C7-9CAD-A45D2FD75B4D
+
+Aspire Training Team Limited
+
+Notes to the financial statements (continued)
+For the year ended 31 March 2024
+
+1.7
+
+1.8
+
+Accounting policies (continued)
+
+Financial instruments
+The company has elected to apply the provisions of Section 11 ‘Basic Financial Instruments’ and Section
+12 ‘Other Financial Instruments Issues’ of FRS 102 to all of its financial instruments.
+
+Financial instruments are recognised in the company's statement of financial position when the
+company becomes party to the contractual provisions of the instrument.
+
+Financial assets and liabilities are offset, with the net amounts presented in the financial statements,
+when there is a legally enforceable right to set off the recognised amounts and there is an intention to
+settle on a net basis or to realise the asset and settle the liability simultaneously.
+
+Basic financial assets
+
+Basic financial assets, which include debtors, are initially measured at transaction price including
+transaction costs and are subsequently carried at amortised cost using the effective interest method
+unless the arrangement constitutes a financing transaction, where the transaction is measured at the
+present value of the future receipts discounted at a market rate of interest. Financial assets classified as
+receivable within one year are not amortised.
+
+Classification of financial liabilities
+
+Financial liabilities and equity instruments are classified according to the substance of the contractual
+arrangements entered into. An equity instrument is any contract that evidences a residual interest in the
+assets of the company after deducting all of its liabilities.
+
+Basic financial liabilities
+
+Basic financial liabilities, including creditors, bank loans, loans from fellow group companies and
+preference shares that are classified as debt, are initially recognised at transaction price unless the
+arrangement constitutes a financing transaction, where the debt instrument is measured at the present
+value of the future payments discounted at a market rate of interest. Financial liabilities classified as
+payable within one year are not amortised.
+
+Debt instruments are subsequently carried at amortised cost, using the effective interest rate method.
+
+Trade creditors are obligations to pay for goods or services that have been acquired in the ordinary
+course of business from suppliers. Amounts payable are classified as current liabilities if payment is due
+within one year or less. If not, they are presented as non-current liabilities. Trade creditors are
+recognised initially at transaction price and subsequently measured at amortised cost using the effective
+interest method.
+
+Equity instruments
+
+Equity instruments issued by the company are recorded at the proceeds received, net of transaction
+costs. Dividends payable on equity instruments are recognised as liabilities once they are no longer at
+the discretion of the company.
+
+Page 5
+
+v
+
+a Docusign Envelope ID: 03F38F0A-4C03-4FC7-9CAD-A45D2FD75B4D
+
+Aspire Training Team Limited
+
+Notes to the financial statements (continued)
+For the year ended 31 March 2024
+
+1s Accounting policies (continued)
+
+1.9 Taxation
+The tax expense represents the sum of the tax currently payable and deferred tax.
+
+Current tax
+
+The tax currently payable is based on taxable profit for the year. Taxable profit differs from net profit as
+reported in the income statement because it excludes items of income or expense that are taxable or
+deductible in other years and it further excludes items that are never taxable or deductible. The
+company’s liability for current tax is calculated using tax rates that have been enacted or substantively
+enacted by the reporting end date.
+
+Deferred tax
+
+Deferred tax liabilities are generally recognised for all timing differences and deferred tax assets are
+recognised to the extent that it is probable that they will be recovered against the reversal of deferred
+tax liabilities or other future taxable profits. Such assets and liabilities are not recognised if the timing
+difference arises from goodwill or from the initial recognition of other assets and liabilities in a
+transaction that affects neither the tax profit nor the accounting profit.
+
+The carrying amount of deferred tax assets is reviewed at each reporting end date and reduced to the
+extent that it is no longer probable that sufficient taxable profits will be available to allow all or part of
+the asset to be recovered. Deferred tax is calculated at the tax rates that are expected to apply in the
+period when the liability is settled, or the asset is realised. Where items recognised in other
+comprehensive income or equity are chargeable to or deductible for tax purposes, the resulting current
+or deferred tax expense or income is presented in the same component of comprehensive income or
+equity as the transaction or other event that resulted iri the tax expense or income. Deferred tax assets
+and liabilities are offset when the company has a legally enforceable right to offset current tax assets
+and liabilities and the deferred tax assets and liabilities relate to taxes levied by the same tax authority.
+
+1.10 Employee benefits
+The costs of short-term employee benefits are recognised as a liability and an expense, unless those
+costs are required to be recognised as part of the cost of stock or fixed assets.
+
+The cost of any unused holiday entitlement is recognised in the period in which the employee’s services
+are received.
+
+Termination benefits are recognised immediately as an expense when the company is demonstrably
+committed to terminate the employment of an employee or to provide termination benefits.
+
+1.11 Retirement benefits
+Payments to defined contribution retirement benefit schemes are charged as an expense as they fall
+due.
+
+1.12 Leases
+Rentals payable under operating leases, including any lease incentives received, are charged to profit or
+loss on a straight line basis over the term of the relevant lease except where another more systematic
+basis is more representative of the time pattern in which economic benefits from the leases asset are
+consumed. : ,
+
+Page 6
+
+Docusign Envelope ID: 03F38F0A-4C03-4FC7-9CAD-A45D2FD75B4D
+
+Aspire Training Team Limited
+
+Notes to the financial statements (continued)
+For the year ended 31 March 2024
+
+1 Employees
+
+The average monthly number of persons (including directors) employed by the company during the year
+
+was:
+2024 2023
+Number Number
+Total ‘ 31 29
+2 Intangible fixed assets
+Computer
+software
+£
+Cost .
+At 1 April 2023 and 31 March 2024 5,000
+
+Amortisation and impairment
+At 1 April 2023 5,000
+Depreciation charged in the year -
+
+At 31 March 2024 5,000 -
+
+Carrying amount
+At 31 March 2024 ; -
+
+At 31 March 2023 : -
+
+Page 7
+
+y
+
+Docusign Envelope ID: 03F38F0A-4C03-4FC7-9CAD-A45D2FD75B4D
+
+Aspire Training Team Limited
+
+Notes to the financial statements (continued)
+For the year ended 31 March 2024
+
+3 Debtors
+
+2024 2023
+Amounts falling due within one year: £ £
+Trade debtors 150,722 122,035
+Other debtors 1,015 1,336
+151,737 123,371
+
+4 = Creditors
+2024 2023
+Amounts falling due within one year: £ £
+Trade creditors 4,413 368
+Amounts owed by group undertakings 23,142 -
+Corporation tax 54,494 79,036
+Other taxation and social security 19,338 16,270
+Other creditors 67,694 73,631
+
+"169,081 169,305
+
+5 Dividends
+2024 2023
+£ £
+Interim paid - 483,949
+
+The Directors do not recommend payment of a final dividend.
+
+6 Audit report information
+As the income statement has been omitted from the filing copy of the financial statements, the following
+information in relation to the audit report on the statutory financial statements is provided in
+
+accordance with s444(5B) of the Companies Act 2006:
+
+The auditor’s report was unqualified.
+
+Senior Statutory Auditor: Casidhe Baleri
+
+Statutory Auditors: Saffery LLP
+
+Date of audit report: 25 March 2025
+7 Financial commitments, guarantees and contingent liabilities
+
+During the year the company has provided an unlimited guarantee (2023: unlimited guarantee) in
+respect of the bank loans of Hadland Care Group Limited, a company controlled by a director.
+
+Page 8
+
+Docusign Envelope ID: 03F38F0A-4C03-4FC7-9CAD-A45D2FD75B4D Vv
+q Aspire Training Team Limited
+
+Notes to the financial statements (continued)
+For the year ended 31 March 2024
+
+8 Related partytransactions
+
+The company is wholly owned subsidiary of Hadland Sustainable Education Group Limited, a company
+incorporated in England and Wales, and has taken advantage of the exemption available in Section 33
+
+FRS 102 'Related Party Disclosures’ that allows it not to disclose transactions with wholly owned group
+companies.
+
+9 Ultimate controlling party
+
+On the18 March 2024, Calypso Holdings Limited acquired 100% of the share capital of Hadland Care
+Group Limited, the immediate parent company to Aspire Training Team Limited.
+
+On the 19 March 2024, Hadtand Care Group Limited sold 100% of the share capital of Aspire Training
+Team Limited to Calypso Holdings Limited.
+
+On the 30 March 2024, Calypso Holdings Limited sold 100% of the share capital of Aspire Training Team
+Limited to Hadland Sustainable Education Group Limited.
+
+Calypso Holdings Limited and Hadland Sustainable Education Group Limited are related by virtue of being
+controlled by Cheryl Hadland, a director of Aspire Training Team Limited.
+
+Cheryl Hadland is the ultimate controlling party at 31 March 2024 due to her majority shareholding in
+Hadland Sustainable Education Group Limited.
+
+8 Post balance sheet events
+
+On 4 April 2024, the Hadland Care Employee Ownership Trust acquired 82% of the share capital of
+Hadland Sustainable Education Group Limited. The acquisition was facilitated via Hadland Care Trustees
+Limited, a company limited by guarantee which is acting in capacity as trustee of the Hadland Care
+Employee Ownership Trust.
+
+Page 9
+

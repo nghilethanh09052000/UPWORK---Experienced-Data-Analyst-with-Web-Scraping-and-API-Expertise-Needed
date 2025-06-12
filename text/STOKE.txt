@@ -1,0 +1,104 @@
+Dormant Company Accounts - STOKE ON TRENT COLLEGE
+Companies House
+true
+2023-08-01
+2024-07-31
+false
+08043731
+uk-bus:Director1
+2023-08-01
+2024-07-31
+08043731
+uk-bus:Director2
+2023-08-01
+2024-07-31
+08043731
+2023-08-01
+2024-07-31
+08043731
+2024-07-31
+08043731
+uk-bus:EntityHasNeverTraded
+2023-08-01
+2024-07-31
+08043731
+uk-bus:FRS102
+2023-08-01
+2024-07-31
+08043731
+uk-bus:FullAccounts
+2023-08-01
+2024-07-31
+08043731
+uk-bus:AuditExempt-NoAccountantsReport
+2023-08-01
+2024-07-31
+08043731
+2023-07-31
+08043731
+uk-bus:OrdinaryShareClass1
+2023-08-01
+2024-07-31
+08043731
+uk-bus:OrdinaryShareClass2
+2023-08-01
+2024-07-31
+08043731
+uk-bus:OrdinaryShareClass3
+2023-08-01
+2024-07-31
+08043731
+uk-bus:PreferenceShareClass1
+2023-08-01
+2024-07-31
+08043731
+uk-bus:PreferenceShareClass2
+2023-08-01
+2024-07-31
+08043731
+uk-bus:PreferenceShareClass3
+2023-08-01
+2024-07-31
+08043731
+uk-core:ShareCapitalPreferenceShares
+2024-07-31
+08043731
+uk-core:ShareCapitalPreferenceShares
+2023-07-31
+iso4217:GBP
+iso4217:GBP
+xbrli:shares
+xbrli:shares
+Registered Number
+08043731
+STOKE ON TRENT COLLEGE
+Dormant Accounts
+31 July 2024
+STOKE ON TRENT COLLEGE
+Registered Number 08043731
+Balance Sheet as at
+31 July 2024
+2024
+2023
+£
+£
+Net assets
+0
+0
+Reserves
+0
+0
+STATEMENTS
+For the year ending 31 July 2024 the company was entitled to exemption under section 480 of the Companies Act 2006 relating to dormant companies.
+The members have not required the company to obtain an audit in accordance with section 476 of the Companies Act 2006.
+The directors acknowledge their responsibilities for complying with the requirements of the Act with respect to accounting records and the preparation of accounts.
+These accounts have been prepared in accordance with the provisions applicable to companies subject to the small companies regime.
+Approved by the Board on
+12 December 2024
+And signed on their behalf by:
+Jeremy Cartwright
+, Director
+Antoinette Lythgoe
+, Director
+NOTES
+Company is limited by guarantee.

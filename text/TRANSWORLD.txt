@@ -1,0 +1,385 @@
+COMPANY REGISTRATION NUMBER: 02554472
+
+Transworld Publications Services Limited
+Filleted Unaudited Abridged Financial Statements
+For the year ended
+31 July 2024
+
+*ADWNO789*
+
+A05 18/02/2025 #192
+COMPANIES HOUSE
+
+g
+
+TUESDAY
+
+Transworld Publications Services Limited
+Abridged Financial Statements
+
+Year ended 31 July 2024
+
+Contents Pages
+Abridged statement of financial position 1to2
+
+Notes to the abridged financial statements 3to7
+
+Transworld Publications Services Limited
+
+Abridged Statement of Financial Position
+
+31 July 2024
+2024 2023
+Note £ £ £
+Fixed assets
+Tangible assets 5 16,535 22,047
+Investments 6 100 100
+16,635 22,147
+
+Current assets
+Debtors 1,196,474 1,099,326
+Cash at bank and in hand 1,274 44,688
+
+1,197,748 1,144,014
+Creditors: amounts falling due within one year 53,511 32,692
+Net current assets 1,144,237 1,111,322
+Total assets less current liabilities 1,160,872 1,133,469
+Creditors: amounts falling due after more than one
+year 12,144 15,787
+Net assets 1,148,728 1,117,682
+Capital and reserves
+Cailed up share capital 1,000 1,000
+Profit and loss account 1,147,728 1,116,682
+Shareholders funds 1,148,728 1,117,682
+
+These abridged financial statements have been prepared and delivered in accordance with the
+provisions applicable to companies subject to the small companies’ regime and in accordance with
+Section 1A of FRS 102 ‘The Financial Reporting Standard applicable in the UK and Republic of
+Ireland’.
+
+In accordance with section 444 of the Companies Act 2006, the abridged statement of income and
+retained earnings has not been delivered.
+
+For the year ending 31 July 2024 the company was entitled to exemption from audit under section 477
+of the Companies Act 2006 relating to small companies.
+
+Director's responsibilities:
+
+° The members have not required the company to obtain an audit of its abridged financial
+statements for the year in question in accordance with section 476;
+
+e The director acknowledges her responsibilities for complying with the requirements of the Act with
+respect to accounting records and the preparation of abridged financial statements.
+
+All of the members have consented to the preparation of the abridged statement of income and
+retained earnings and the abridged statement of financial position for the year ending 31 July 2024 in
+accordance with Section 444(2A) of the Companies Act 2006.
+
+The abridged statement of financial position
+continues on the following page.
+
+The notes on pages 3 to 7 form part of these abridged financial statements.
+
+-1-
+
+Transworld Publications Services Limited
+Abridged Statement of Financial Position (continueg)
+
+31 July 2024
+
+These abridged financial statements were approved by the board of directors and authorised for issue
+on 12 February 2025, and are signed on behalf of the board by:
+
+an A Tipton
+Susan A Tipton (Feb 13, 2025 14:56 GMT)
+
+Ms SA Tipton
+Director
+
+Company registration number: 02554472
+
+The notes on pages 3 to 7 form part of these abridged financial statements.
+
+-2-
+
+Transworld Publications Services Limited
+Notes to the Abridged Financial Statements
+Year ended 31 July 2024
+
+General information
+
+The company is a private company limited by shares, registered in England and Wales. The
+address of the registered office is The Old Guild House, New Market Street, Birmingham, B3
+2NH, England.
+
+Statement of compliance
+
+These abridged financial statements have been prepared in compliance with Section 1A of FRS
+102, ‘The Financial Reporting Standard applicable in the UK and the Republic of freland’.
+
+Accounting policies
+Basis of preparation
+
+The abridged financial statements have been prepared on the historical cost basis, as modified
+by the revaluation of certain financial assets and liabilities and investment properties measured at
+fair value through profit or loss.
+
+The abridged financial statements are prepared in sterling, which is the functional currency of the
+entity.
+
+Disclosure exemptions
+
+The entity satisfies the criteria of being a qualifying entity as defined in FRS 102. As such,
+advantage has been taken of the following disclosure exemptions available under paragraph 1.12
+of FRS 102:
+
+(a) Disclosures in respect of each class of share capital have not been presented.
+
+(b) No cash flow statement has been presented for the company.
+
+(c) Disclosures in respect of financial instruments have not been presented.
+
+(d) Disclosures in respect of share-based payments have not been presented.
+
+(e) No disclosure has been given for the aggregate remuneration of key management personnel.
+
+Consolidation
+
+The company has taken advantage of the option not to prepare consolidated abridged financial
+statements contained in Section 398 of the Companies Act 2006 on the basis that the company
+and its subsidiary undertakings comprise a small group.
+
+Revenue recognition
+
+Turnover is measured at the fair value of the consideration received or receivable for goods
+supplied and services rendered, net of discounts and Value Added Tax.
+
+Revenue from the sale of goods is recognised when the significant risks and rewards of
+ownership have transferred to the buyer (usually on despatch of the goods); the amount of
+revenue can be measured reliably; it is probable that the associated economic benefits will flow to
+the entity; and the costs incurred or to be incurred in respect of the transactions can be measured
+reliably.
+
+Transworld Publications Services Limited
+Notes to the Abridged Financial Statements (continuea)
+
+Year ended 31 July 2024
+
+Accounting policies (continued)
+Income tax
+
+The taxation expense represents the aggregate amount of current and deferred tax recognised in
+the reporting period. Tax is recognised in profit or loss, except to the extent that it relates to items
+recognised in other comprehensive income or directly in equity. In this case, tax is recognised in
+other comprehensive income or directly in equity, respectively.
+
+Current tax is recognised on taxable profit for the current and past periods. Current tax is
+measured at the amounts of tax expected to pay or recover using the tax rates and laws that
+have been enacted or substantively enacted at the reporting date.
+
+Deferred tax is recognised in respect of all timing differences at the reporting date. Unrelieved
+tax losses and other deferred tax assets are recognised to the extent that it is probable that they
+will be recovered against the reversal of deferred tax liabilities or other future taxable profits.
+Deferred tax is measured using the tax rates and laws that have been enacted or substantively
+enacted by the reporting date that are expected to apply to the reversal of the timing difference.
+
+Tangible assets
+
+Tangible assets are initially recorded at cost, and subsequently stated at cost less any
+accumulated depreciation and impairment losses. Any tangible assets carried at revalued
+amounts are recorded at the fair value at the date of revaluation less any subsequent
+accumulated depreciation and subsequent accumulated impairment losses.
+
+An increase in the carrying amount of an asset as a result of a revaluation, is recognised in other
+comprehensive income and accumulated in equity, except to the extent it reverses a revaluation
+decrease of the same asset previously recognised in profit or loss. A decrease in the carrying
+amount of an asset as a result of revaluation, is recognised in other comprehensive income to the
+extent of any previously recognised revaluation increase accumulated in equity in respect of that
+asset. Where a revaluation decrease exceeds the accumulated revaluation gains accumulated in
+equity in respect of that asset, the excess shall be recognised in profit or loss.
+
+Depreciation
+
+Depreciation is calculated so as to write off the cost or valuation of an asset, less its residual
+value, over the useful economic life of that asset as follows:
+
+Motor Vehicles - 25% reducing balance
+Investments
+
+Fixed asset investments are initially recorded at cost, and subsequently stated at cost less any
+accumulated impairment losses.
+
+Listed investments are measured at fair value with changes in fair value being recognised in profit
+or loss.
+
+Transworld Publications Services Limited
+Notes to the Abridged Financial Statements (continueg)
+
+Year ended 31 July 2024
+
+Accounting policies (continued)
+Impairment of fixed assets
+
+A review for indicators of impairment is carried out at each reporting date, with the recoverable
+amount being estimated where such indicators exist. Where the carrying value exceeds the
+recoverable amount, the asset is impaired accordingly. Prior impairments are also reviewed for
+possible reversal at each reporting date.
+
+For the purposes of impairment testing, when it is not possible to estimate the recoverable
+amount of an individual asset, an estimate is made of the recoverable amount of the cash-
+generating unit to which the asset belongs. The cash-generating unit is the smallest identifiable
+group of assets that includes the asset and generates cash inflows that largely independent of the
+cash inflows from other assets or groups of assets.
+
+For impairment testing of goodwill, the goodwill acquired in a business combination is, from the
+acquisition date, allocated to each of the cash-generating units that are expected to benefit from
+the synergies of the combination, irrespective of whether other assets or liabilities of the company
+are assigned to those units.
+
+Finance leases and hire purchase contracts
+
+Assets held under finance leases and hire purchase contracts are recognised in the abridged
+statement of financial position as assets and liabilities at the lower of the fair value of the assets
+and the present value of the minimum lease payments, which is determined at the inception of
+the lease term. Any initial direct costs of the lease are added to the amount recognised as an
+asset.
+
+Lease payments are apportioned between the finance charges and reduction of the outstanding
+lease liability using the effective interest method. Finance charges are allocated to each period so
+as to produce a constant rate of interest on the remaining balance of the liability.
+
+Transworld Publications Services Limited
+Notes to the Abridged Financial Statements (continueg)
+
+Year ended 31 July 2024
+
+Accounting policies (continued)
+Financial instruments
+
+A financial asset or a financial liability is recognised only when the entity becomes a party to the
+contractual provisions of the instrument.
+
+Basic financial instruments are initially recognised at the transaction price, unless the
+arrangement constitutes a financing transaction, where it is recognised at the present value of the
+future payments discounted at a market rate of interest for a similar debt instrument.
+
+Debt instruments are subsequently measured at amortised cost.
+
+Where investments in non-convertible preference shares and non-puttable ordinary shares or
+preference shares are publicly traded or their fair value can otherwise be measured reliably, the
+investment is subsequently measured at fair value with changes in fair value recognised in profit
+or loss. All other such investments are subsequently measured at cost less impairment.
+
+Other financial instruments, including derivatives, are initially recognised at fair value, unless
+payment for an asset is deferred beyond normal business terms or financed at a rate of interest
+that is not a market rate, in which case the asset is measured at the present value of the future
+payments discounted at a market rate of interest for a similar debt instrument.
+
+Other financial instruments are subsequently measured at fair value, with any changes
+recognised in profit or loss, with the exception of hedging instruments in a designated hedging
+relationship (see hedge accounting policy).
+
+Financial assets that are measured at cost or amortised cost are reviewed for objective evidence
+of impairment at the end of each reporting date. If there is objective evidence of impairment, an
+impairment loss is recognised in profit or loss immediately.
+
+For all equity instruments regardless of significance, and other financial assets that are
+individually significant, these are assessed individually for impairment. Other financial assets are
+either assessed individually or grouped on the basis of similar credit risk characteristics.
+
+Any reversals of impairment are recognised in profit or loss immediately, to the extent that the
+reversal does not result in a carrying amount of the financial asset that exceeds what the carrying
+amount would have been had the impairment not previously been recognised.
+
+Defined contribution plans
+
+Contributions to defined contribution plans are recognised as an expense in the period in which
+the related service is provided. Prepaid contributions are recognised as an asset to the extent
+that the prepayment will lead to a reduction in future payments or a cash refund.
+
+When contributions are not expected to be settled wholly within 12 months of the end of the
+reporting date in which the employees render the related service, the liability is measured on a
+discounted present value basis. The unwinding of the discount is recognised as a finance cost in
+profit or loss in the period in which it arises.
+
+Employee numbers
+
+The average number of persons employed by the company during the year amounted to 11
+(2023: 11).
+
+Transworld Publications Services Limited
+
+Notes to the Abridged Financial Statements (continued)
+
+Year ended 31 July 2024
+
+Tangible assets
+
+Cost
+At 1 August 2023 and 31 July 2024
+
+Depreciation
+At 1 August 2023
+Charge for the year
+
+At 31 July 2024
+
+Carrying amount
+At 31 July 2024
+
+At 31 July 2023
+
+Investments
+
+Cost
+At 1 August 2023 and 31 July 2024
+
+Impairment
+At 1 August 2023 and 31 July 2024
+
+Carrying amount
+At 31 July 2024
+
+At 31 July 2023
+
+Director's advances, credits and guarantees
+
+39,195
+
+17,148
+5,512
+
+22,660
+
+16,535
+22,047
+
+£
+
+100
+
+100
+100
+
+During the year the director entered into the following advances and credits with the company:
+
+Ms S A Tipton
+
+Ms S A Tipton
+
+2024
+Balance Advances/
+brought (credits)to the Balance
+forward director outstanding
+£ £ £
+(7,982) (17,701) (25,683)
+
+2023
+Balance Advances/
+brought (credits)tothe Balance
+forward director outstanding
+£ £ £
+
+(23,165) 15,183 (7,982)
+
+

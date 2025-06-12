@@ -1,0 +1,132 @@
+AGL Training Ltd
+Acorah Software Products - Accounts Production
+16.1.300
+false
+true
+31 July 2023
+1 August 2022
+false
+true
+No description of principal activity
+1 August 2023
+31 July 2024
+31 July 2024
+10867433
+Mr Aaron Biggam
+iso4217:GBP
+iso4217:EUR
+iso4217:USD
+xbrli:shares
+xbrli:pure
+xbrli:pure
+10867433
+2023-07-31
+10867433
+2024-07-31
+10867433
+2023-08-01
+2024-07-31
+10867433
+frs-core:CurrentFinancialInstruments
+2024-07-31
+10867433
+frs-bus:PrivateLimitedCompanyLtd
+2023-08-01
+2024-07-31
+10867433
+frs-bus:FilletedAccounts
+2023-08-01
+2024-07-31
+10867433
+frs-bus:Micro-entities
+2023-08-01
+2024-07-31
+10867433
+frs-bus:AuditExempt-NoAccountantsReport
+2023-08-01
+2024-07-31
+10867433
+frs-bus:Director1
+2023-08-01
+2024-07-31
+10867433
+2022-07-31
+10867433
+2023-07-31
+10867433
+2022-08-01
+2023-07-31
+10867433
+frs-core:CurrentFinancialInstruments
+2023-07-31
+Registered number: 10867433
+AGL Training Ltd
+Unaudited Financial Statements
+For The Year Ended 31 July 2024
+AGL Training Ltd
+Balance Sheet
+As At
+31 July 2024
+Balance Sheet
+Registered number:
+10867433
+2024
+2023
+£
+£
+Fixed assets
+1,704
+1,614
+Current assets
+4,013
+11,868
+Prepayments and accrued income
+29,818
+16,522
+Creditors: Amounts Falling Due Within One Year
+(
+27,935
+)
+(
+17,502
+)
+NET CURRENT ASSETS
+5,896
+10,888
+TOTAL ASSETS LESS CURRENT LIABILITIES
+7,600
+12,502
+Accruals and deferred income
+(
+6,819
+)
+(
+7,008
+)
+NET ASSETS
+781
+5,494
+CAPITAL AND RESERVES
+781
+5,494
+Notes
+1.
+General Information
+AGL Training Ltd
+is a private company, limited by shares, incorporated in England & Wales, registered number
+10867433
+. The registered office is Suite 9C , Pemberton House, Stafford Park 1, Telford, TF3 3BD.
+2.
+Average Number of Employees
+Average number of employees, including directors, during the year was:
+5 (2023: 9)
+5
+9
+For the year ending 31 July 2024 the company was entitled to exemption from audit under section 477 of the Companies Act 2006 relating to small companies.
+The member has not required the company to obtain an audit in accordance with section 476 of the Companies Act 2006.
+The director acknowledges his responsibilities for complying with the requirements of the Act with respect to accounting records and the preparation of accounts.
+These accounts have been prepared in accordance with the micro-entity provisions and delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+On behalf of the board
+Mr Aaron Biggam
+Director
+11 March 2025

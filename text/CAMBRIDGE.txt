@@ -1,0 +1,512 @@
+Company Registration No. 10333201 (England and Wales)
+
+CAMBRIDGE SPARK LIMITED
+
+UNAUDITED FINANCIAL STATEMENTS
+FOR THE YEAR ENDED
+31 DECEMBER 2023 ©
+
+PAGES FOR FILING WITH REGISTRAR
+
+wg
+
+COMPANIES HOUSE
+
+TUESDAY
+
+: Company Registration No. 10333201
+CAMBRIDGE SPARK LIMITED
+
+STATEMENT OF FINANCIAL POSITION
+AS AT 31 DECEMBER 2023
+
+2023 2022
+Notes £ £ £ £
+
+Fixed assets
+Tangible assets 6 83,453 124,910
+Current assets
+Debtors 7 1,966,746 1,472,357
+Cash at bank and in hand 3,119,173 1,875,235
+
+5,085,919 3,347,592
+Creditors: amounts falling due within
+one year 8 (1,637,617) (1,974,088)
+Net current assets 3,448,302 1,373,504
+Total assets less current liabilities 3,531,755 . 1,498,414
+Creditors: amounts falling due after
+more than one year 9 - (75,581)
+Provisions for liabilities 10 (2,128) (8,385)
+Net assets 3,529,627 1,414,448
+Capital and reserves
+Called up share capital 1 §3 53
+Capital redemption reserve 22 22
+Profit and loss reserves : 3,529,552 1,414,373
+Total equity 3,529,627 1,414,448
+
+The directors of the company have elected not to include a copy of the income statement within the financial
+statements.
+
+For the financial year ended 31 December 2023 the company was entitled to exemption from audit under section
+477 of the Companies Act 2006 relating to small companies.
+
+The members have not required the company to obtain an audit of its financial statements for the year in question in
+accordance with section 476.
+
+The directors acknowledge their responsibilities for complying with the requirements of the Companies Act 2006
+with respect to accounting records and the preparation of financial statements.
+
+These financial statements have been prepared and delivered in accordance with the provisions applicable to
+companies subject to the small companies’ regime.
+
+
+Company Registration No. 10333201
+CAMBRIDGE SPARK LIMITED
+
+STATEMENT OF FINANCIAL POSITION (CONTINUED)
+AS AT 31 DECEMBER 2023
+
+The financial statements were approved by the board of directors and authorised for issue on 18/08/24.......... and
+are signed on its behalf by:
+
+Raoul-Gabriet Urma
+
+RG Urma
+Director
+
+
+CAMBRIDGE SPARK LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+1 Accounting policies
+
+Company information
+
+Cambridge Spark Limited is a private company limited by shares and is registered and incorporated in
+England and Wales. The registered office is Blenheim House, Newmarket Road, Bury St Edmunds, Suffolk,
+IP33 3SB.
+
+Accounting convention
+
+These .financial statements have been prepared in accordance with FRS 102 “The Financial Reporting
+Standard applicable in the UK and Republic of Ireland” (“FRS 102”) and the requirements of the Companies
+Act 2006 as applicable to companies subject to the small companies regime. The disclosure requirements of
+section 1A of FRS 102 have been applied other than where additional disclosure is required to show a true
+and fair view. :
+
+The financial statements are prepared in sterling, which is the functional currency of the company. Monetary
+amounts in these financial statements are rounded to the nearest £.
+
+The financial statements have been prepared under the historical cost convention. The principal accounting
+policies adopted are set out below.
+
+Going concern
+
+At the time of approving the financial statements, the directors have a reasonable expectation that the
+company has adequate resources to continue in operational existence for 12 months from the signing date.
+Thus the directors continue to adopt the going concern basis of accounting in preparing the financial
+statements.
+
+The accounts do not include any adjustments, that might be found to be necessary, should it transpire that the
+going concern basis is no longer appropriate. :
+
+Turnover
+
+Turnover comprises revenue recognised by the company in respect of corporate training, apprenticeships and
+skills bootcamps. Turnover is recognised as the fair value of the consideration received or receivable.
+
+Apprenticeship revenue is earned from the provision of training and mentoring support, and the learners
+completion of the end-point assessment (EPA). Training revenue is recognised over time as the service is
+delivered on a straight line basis. EPA revenue is recognised at the point a learner commences the
+assessment on the basis of the similar nature of the arrangements and the company can reliably measure the
+historical success rate.
+
+Where the revenue is subject to potential clawback, the company makes a provision based on historical
+attrition rates and the status of individual learner progress.
+
+Corporate training and skills bootcamp revenue is recognised over time as the service is delivered using a
+milestone based approach. Where these activities are part of a wider contract and the company acts as a
+subcontractor, the company evaluates whether the terms and conditions expose it to similar risks and rewards
+as if it were the main contractor. In each case the company's assessment is that they are acting as principal.
+
+Tangible fixed assets
+Tangible fixed assets are initially measured at cost and subsequently measured at cost, net of depreciation
+and any impairment losses.
+
+
+CAMBRIDGE SPARK LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+1 Accounting policies (Continued)
+
+Tangible fixed assets (continued)
+Depreciation is recognised so as to write off the cost of assets less their residual values over their useful lives
+on the following bases:
+
+Plant and equipment 3 years straight line
+Office furniture and equipment 3 years straight line
+Fixtures and fittings 4 years straight line
+
+The gain or loss arising on the disposal of an asset is determined as the difference between the sale
+proceeds and the carrying value of the asset, and is credited or charged to profit or loss.
+
+Borrowing costs
+All borrowing costs are recognised in profit or loss in the period in which they are incurred.
+
+Cash and cash equivalents
+
+Cash is represented by cash in hand and deposits with financial institutions repayable without penalty on
+notice of not more than 24 hours. Cash equivalents are highly liquid investments that mature in no more than
+three months from the date of acquisition and that are readily convertible to known amounts of cash with
+insignificant risk of change in value.
+
+Financial instruments
+The company has elected to apply the provisions of Section 11 ‘Basic Financial Instruments’ and Section 12
+‘Other Financial Instruments Issues’ of FRS 102 to all of its financial instruments.
+
+Financial instruments are recognised when the company becomes party to the contractual provisions of the
+instrument.
+
+Financial assets and liabilities are offset, with the net amounts presented in the financial statements, when
+there is a legally enforceable right to set off the recognised amounts and there is an intention to settle on a
+net basis or to realise the asset and settle the liability simultaneously.
+
+Basic financial assets
+
+Basic financial assets, which include trade debtors, are initially measured at transaction price including
+transaction costs and are subsequently carried at amortised cost, being the transaction prices less any
+amounts settled and any impairment losses.
+
+Classification of financial liabilities
+
+Financial liabilities and equity instruments are classified according to the substance of the contractual
+arrangements entered into. An equity instrument is any contract that evidences a residual interest in the
+assets of the company after deducting all of its liabilities.
+
+Basic financial liabilities
+
+Basic financial liabilities, including trade and other creditors, amounts owed to group undertakings and
+accruals are initially recognised at transaction price and are subsequently measured at amortised costs, being
+transaction price less amounts settled.
+
+Equity instruments
+
+Equity instruments issued by the company are recorded at the fair value of proceeds received, net of
+transaction costs. Dividends payable on equity instruments are recognised as liabilities once they are no
+longer at the discretion of the company.
+
+
+CAMBRIDGE SPARK LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+1
+
+Accounting policies (Continued)
+
+Taxation
+The tax expense represents the sum of the current tax expense and deferred tax expense. Current tax assets
+are recognised when tax paid exceeds the tax payable.
+
+Current and deferred tax is charged or credited to profit or loss, except when it relates to items charged or
+credited to other comprehensive income or equity, when the tax follows the transaction or event it relates to
+and is also charged or credited to other comprehensive income, or equity.
+
+Current tax assets and current tax liabilities and deferred tax assets and deferred tax liabilities are offset, if
+and only if, there is a legally enforceable right to set off the amounts and the entity intends either to settle on
+the net basis or to realise the asset and settle the liability simultaneously.
+
+Current tax is based on taxable profit for the year. Current tax assets and liabilities are measured using tax
+tates that have been enacted or substantively enacted by the reporting date.
+
+Deferred tax is calculated at the tax rates that are expected to apply to the period when the asset is realised
+or the liability is settled based on tax rates that have been enacted or substantively enacted by the reporting
+date.
+
+Deferred tax liabilities are recognised in respect of all timing differences that exist at the reporting date. Timing
+differences are differences between taxable profits and total comprehensive income that arise from the
+inclusion of income and expenses in tax assessments in different periods from their recognition in the
+financial statements. Deferred tax assets are recognised only to the extent that it is probable that they will be
+tecovered by the reversal of deferred tax liabilities or other future taxable profits.
+
+Deferred tax is recognised on income and expenses from subsidiaries, associates, branches and interests in
+jointly controlled entities, that will be assessed to or allow for tax in a future period except where the company
+is able to control the reversal of the timing difference and it is probable that the timing difference will not
+reverse in the foreseeable future.
+
+Deferred tax is recognised on differences between the value of assets (other than goodwill) and liabilities
+tecognised in a business combination and the amounts that can be deducted or assessed for tax. The
+deferred tax recognised is adjusted against goodwill.
+
+Pensions
+
+The company operates a defined contribution plan for its employees and also contributes to the self invested
+personal pension of the director. A defined contribution plan is a pension plan under which the Company pays
+fixed contributions into a separate entity. Once the contributions have been paid the Company has no further
+payment obligations.
+
+The contributions are recognised as an expense in the profit or loss when they fall due. Amounts not paid are
+shown in other creditors as a liability in the Balance Sheet. The assets of the plan are held separately from
+the Company in independently administered funds. ,
+
+Share-based payments
+
+Equity-settled share-based payments are measured at fair value at the date of grant by reference to the fair
+value of the equity instruments granted using the Black Scholes model. The fair value determined at the
+grant date is expensed on a straightline basis over the vesting period, based on the estimate of shares that
+will eventually vest. A corresponding adjustment is made to equity.
+
+
+CAMBRIDGE SPARK LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+1
+
+Accounting policies (Continued)
+
+Share-based payments (continued)
+
+When the terms and conditions of equity-settled share-based payments at the time. they were granted are
+subsequently modified, the fair value of the share-based payment under the original terms and conditions and
+under the modified terms and conditions are both determined at the date of the modification. Any excess of
+the modified fair value over the original fair value is recognised over the remaining vesting period in addition
+to the grant date fair value of the original share-based payment. The share-based payment expense is not
+adjusted if the modified fair value is less than the original fair value. ,
+
+Cancellations or settlements (including those resulting from employee redundancies) are treated as an
+acceleration of vesting and the amount that would have been recognised over the remaining vesting period is
+recognised immediately.
+
+Leases
+Rentals payable under operating leases, are charged to profit or loss on a straight line basis over the term of
+the relevant lease.
+
+Foreign exchange
+Transactions in currencies other than the functional currency (foreign currency) are initially recorded at the
+exchange rate prevailing on the date of the transaction.
+
+Monetary assets and liabilities denominated in foreign currencies are translated at the rate of exchange ruling
+at the reporting date. Non-monetary assets and liabilities denominated in foreign currencies are translated at
+the rate ruling at the date of the transaction, or, if the asset or liability is measured at fair value, the rate when
+that fair value was determined.
+
+’ All translation differences are taken to profit or loss, except to the extent that they relate to gains or losses on
+
+non-monetary items recognised in other comprehensive income, when the related translation gain or loss is
+also recognised in other comprehensive income.
+
+Research and development
+
+Research and development costs are written off to the Profit and Loss Account in the period in which they are
+incurred. ;
+
+Employees
+
+The average monthly number of persons (including directors) employed by the company during the year was:
+
+2023 2022
+
+Number Number
+
+Total 106 71
+Directors’ remuneration
+
+2023 2022
+
+£ £
+
+Remuneration paid to directors 310,076 105,426
+
+
+CAMBRIDGE SPARK LIMITED >
+
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+4
+
+Share-based payment transactions
+Number of share options Weighted average exercise
+
+price
+2023 2022 . 2023 2022
+Number Number £ £
+Outstanding at 1 January 2023 347 403 §.73 5.73
+Forfeited - (56) - 0.01
+Outstanding at 31 December 2023 347 347 5.73 §.73
+Exercisable at 31 December 2023 . 333 195 §.73 §.73
+
+The company operates an EMI option scheme.
+
+The share options have a vesting period of between 2 and 4 years, subject to certain conditions. Options
+expire 10 years after grant.
+
+All goods and services received in exchange for the grant of any share-based payments are measured at their
+fair values.
+
+Where employees are rewarded using their share-based payments, the fair value of the employees’ services
+is determined indirectly by reference to the fair value of the equity instruments granted. This fair value is
+appraised at the grant date and excludes the impact of non-market vesting conditions.
+
+All share based remuneration is ultimately recognised as an expense in profit or loss with a corresponding
+credit to retained earnings. If vesting periods or other vesting conditions apply, the expense is allocated over
+the vesting period, based on the best available estimate of the number of share options expected to vest.
+
+Non-market vesting conditions are included in assumptions about the number of options that are expected to
+become exercisable. Estimates are subsequently revised if there is any indication that the number of share
+options expected to vest differs from previous estimates. Any adjustment to the cumulative share-based
+compensation resulting from a revision is recognised in the current period. The number of vested options
+ultimately exercised by holders does not impact the expense recorded in any period.
+
+Upon exercise of share options, the proceeds received, net of any directly attributable transaction costs, are
+allocated to share capital up to the nominal (or par) value of the shares issued with any excess being
+recorded as share premium.
+
+The directors consider that the grant of instruments under the scheme does not give rise to a material share
+based payment charge and the amount charged to the profit and loss account in the year is £nil (2022: E£nil).
+
+Taxation
+2023 2022
+£ £
+Current tax
+UK corporation tax on profits for the current period 680,287 310,623
+Adjustments in respect of prior periods 10,054 30
+
+Total current tax 690,341 310,653
+
+
+CAMBRIDGE SPARK LIMITED
+
+’ NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+5 Taxation (Continued)
+
+Deferred tax
+Origination and reversal of timing differences (6,257) (21,890)
+
+Total tax charge 684,084 288,763
+
+6 Tangible fixed assets
+
+Plant and Office Fixtures and Total
+machinery _—_ furniture fittings
+etc and
+equipment
+£ £ £ £
+Cost
+At 1 January 2023 460 177,749 209,020 387,229
+Additions - 44,581 - 44,581
+Disposals - (857) - (857)
+At 31 December 2023 460 221,473 209,020 430,953
+Depreciation and impairment
+At 1 January 2023 408 110,449 151,462 262,319
+Depreciation charged in the year 52 41,705 43,457 85,214
+Eliminated in respect of disposals - (33) - (33)
+At 31 December 2023 460 152,121 194,919 347,500
+Carrying amount
+At 31 December 2023 - 69,352 14,101 83,453
+At 31 December 2022 52 67,300 57,558 124,910
+7 Debtors
+: 2023 2022
+Amounts falling due within one year: £ £
+Trade debtors 173,539 379,876
+Corporation tax recoverable - 29,868
+Other debtors 245,110 157,836
+
+Accrued income 1,548,097 904,777
+
+1,966,746 1,472,357
+
+
+CAMBRIDGE SPARK LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+8 Creditors: amounts falling due within one year
+
+2023 2022
+
+£. £
+
+Obligations under finance leases and hire purchase contracts - 35,648
+Other borrowings - 349,131
+Trade creditors 201,862 325,033
+Corporation tax 270,543 355,876
+Other taxation and social security 388,991 254,911
+Other creditors 55,369 34,963
+Accruals and deferred income 720,852 618,526
+
+1,637,617 1,974,088
+
+Other creditors include contributions of £51,615 (2022: £34,693) payable to the Company's defined
+contribution pension scheme at the balance sheet date.
+
+Other loans secured against fixed and floating charges over the assets of the Company and bears interest at
+a fixed rate of 3.7% per annum. The loan was fully paid in the year.
+
+9 Creditors: amounts falling due after more than one year
+2023 2022
+Notes £ £
+
+Obligations under finance leases - 5,455
+Other borrowings - 70,126
+
+- 75,581
+
+Other loans are secured against fixed and floating charges over the assets of the Company and bears
+interest at a fixed rate of 3.7% per annum. The loan was fully paid in the year.
+
+10 Provisions for liabilities
+
+2023 2022
+£ £
+Deferred tax liabilities 2,128 8,385
+11 Called up share capital
+
+: 2023 2022 2023 2022
+Ordinary share capital Number Number £ £
+
+Issued and fully paid
+Ordinary shares of 1p each 5,264 5,264 53 53
+
+
+CAMBRIDGE SPARK LIMITED
+
+"NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+12
+
+Operating lease commitments
+
+Lessee
+
+At the reporting end date the company had outstanding commitments for future minimum lease payments
+
+under non-cancellable operating leases, which fall due as follows:
+
+2023
+
+Within one year 96,233
+Between one and five years : -
+96,233
+
+2022
+
+104,608
+104,252
+
+208,860
+
+-10=
+

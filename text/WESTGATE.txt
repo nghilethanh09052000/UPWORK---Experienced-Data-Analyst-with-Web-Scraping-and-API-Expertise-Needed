@@ -1,0 +1,267 @@
+Westgate Transport Training Limited - Filleted accounts
+Registered number
+06772886
+Westgate Transport Training Limited
+Filleted Accounts
+31 December 2023
+Westgate Transport Training Limited
+Registered number:
+06772886
+Balance Sheet
+as at
+31 December 2023
+Notes
+2023
+2022
+£
+£
+Fixed assets
+Tangible assets
+3
+73,635
+97,166
+Current assets
+Debtors
+4
+38,469
+85,239
+Cash at bank and in hand
+201,072
+201,033
+239,541
+286,272
+Creditors: amounts falling due within one year
+5
+(
+61,554
+)
+(
+112,392
+)
+Net current assets
+177,987
+173,880
+Net assets
+251,622
+271,046
+Capital and reserves
+Called up share capital
+1,000
+1,000
+Profit and loss account
+250,622
+270,046
+Shareholders' funds
+251,622
+271,046
+The directors are satisfied that the company is entitled to exemption from the requirement to obtain an audit under section 477 of the Companies Act 2006.
+The members have not required the company to obtain an audit in accordance with section 476 of the Act.
+The directors acknowledge their responsibilities for complying with the requirements of the Companies Act 2006 with respect to accounting records and the preparation of accounts.
+The accounts have been prepared and delivered in accordance with the special provisions applicable to companies subject to the small companies regime. The profit and loss account has not been delivered to the Registrar of Companies.
+Mrs C A Horton
+Director
+Approved by the board on
+24 September 2024
+Westgate Transport Training Limited
+Notes to the Accounts
+for the year ended
+31 December 2023
+1
+Accounting policies
+Basis of preparation
+The accounts have been prepared under the historical cost convention and in accordance with FRS 102, The Financial Reporting Standard applicable in the UK and Republic of Ireland (as applied to small entities by section 1A of the standard).
+Turnover
+Turnover is measured at the fair value of the consideration received or receivable, net of discounts and value added taxes. Turnover includes revenue earned from the sale of goods and from the rendering of services. Turnover from the sale of goods is recognised when the significant risks and rewards of ownership of the goods have transferred to the buyer. Turnover from the rendering of services is recognised by reference to the stage of completion of the contract. The stage of completion of a contract is measured by comparing the costs incurred for work performed to date to the total estimated contract costs.
+Tangible
+fixed assets
+Tangible fixed assets are measured at cost less accumulative depreciation and any accumulative impairment losses. Depreciation is provided on all tangible fixed assets, other than freehold land, at rates calculated to write off the cost, less estimated residual value, of each asset evenly over its expected useful life, as follows:
+Motor vehicles and trailers
+25% reducing balance
+Fixtures, fittings, tools and equipment
+15% reducing balance
+Debtors
+Short term debtors are measured at transaction price (which is usually the invoice price), less any impairment losses for bad and doubtful debts. Loans and other financial assets are initially recognised at transaction price including any transaction costs and subsequently measured at amortised cost determined using the effective interest method, less any impairment losses for bad and doubtful debts.
+Creditors
+Short term creditors are measured at transaction price (which is usually the invoice price). Loans and other financial liabilities are initially recognised at transaction price net of any transaction costs and subsequently measured at amortised cost determined using the effective interest method.
+Taxation
+A current tax liability is recognised for the tax payable on the taxable profit of the current and past periods. A current tax asset is recognised in respect of a tax loss that can be carried back to recover tax paid in a previous period. Deferred tax is recognised in respect of all timing differences between the recognition of income and expenses in the financial statements and their inclusion in tax assessments. Unrelieved tax losses and other deferred tax assets are recognised only to the extent that it is probable that they will be recovered against the reversal of deferred tax liabilities or other future taxable profits. Deferred tax is measured using the tax rates and laws that have been enacted or substantively enacted by the reporting date and that are expected to apply to the reversal of the timing difference, except for revalued land and investment property where the tax rate that applies to the sale of the asset is used. Current and deferred tax assets and liabilities are not discounted.
+Pensions
+Contributions to defined contribution plans are expensed in the period to which they relate.
+2
+Employees
+2023
+2022
+Number
+Number
+Average number of persons employed by the company
+5
+5
+3
+Tangible fixed assets
+Plant and machinery etc
+Motor vehicles
+Total
+£
+£
+£
+Cost
+At 1 January 2023
+20,950
+470,500
+491,450
+At 31 December 2023
+20,950
+470,500
+491,450
+Depreciation
+At 1 January 2023
+13,346
+380,938
+394,284
+Charge for the year
+1,141
+22,390
+23,531
+At 31 December 2023
+14,487
+403,328
+417,815
+Net book value
+At 31 December 2023
+6,463
+67,172
+73,635
+At 31 December 2022
+7,604
+89,562
+97,166
+4
+Debtors
+2023
+2022
+£
+£
+Trade debtors
+30,969
+84,655
+Other debtors
+7,500
+584
+38,469
+85,239
+5
+Creditors: amounts falling due within one year
+2023
+2022
+£
+£
+Bank loans and overdrafts
+-
+14,664
+Taxation and social security costs
+19,205
+57,546
+Other creditors
+42,349
+40,182
+61,554
+112,392
+6
+Other information
+Westgate Transport Training Limited is a private company limited by shares and incorporated in England. Its registered office is:
+Skate Hut
+Amber Way
+Halesowen
+B62 8AY
+Westgate Transport Training Limited
+06772886
+false
+2023-01-01
+2023-12-31
+2023-12-31
+VT Final Accounts
+April 2024
+Mrs C A Horton
+No description of principal activity
+06772886
+2022-01-01
+2022-12-31
+06772886
+core:WithinOneYear
+2022-12-31
+06772886
+core:ShareCapital
+2022-12-31
+06772886
+core:RetainedEarningsAccumulatedLosses
+2022-12-31
+06772886
+2023-01-01
+2023-12-31
+06772886
+bus:PrivateLimitedCompanyLtd
+2023-01-01
+2023-12-31
+06772886
+bus:AuditExempt-NoAccountantsReport
+2023-01-01
+2023-12-31
+06772886
+bus:Director40
+2023-01-01
+2023-12-31
+06772886
+1
+2023-01-01
+2023-12-31
+06772886
+2
+2023-01-01
+2023-12-31
+06772886
+core:PlantMachinery
+2023-01-01
+2023-12-31
+06772886
+core:Vehicles
+2023-01-01
+2023-12-31
+06772886
+countries:England
+2023-01-01
+2023-12-31
+06772886
+bus:FRS102
+2023-01-01
+2023-12-31
+06772886
+bus:FilletedAccounts
+2023-01-01
+2023-12-31
+06772886
+2023-12-31
+06772886
+core:WithinOneYear
+2023-12-31
+06772886
+core:ShareCapital
+2023-12-31
+06772886
+core:RetainedEarningsAccumulatedLosses
+2023-12-31
+06772886
+core:PlantMachinery
+2023-12-31
+06772886
+core:Vehicles
+2023-12-31
+06772886
+2022-12-31
+06772886
+core:PlantMachinery
+2022-12-31
+06772886
+core:Vehicles
+2022-12-31
+iso4217:GBP
+xbrli:pure

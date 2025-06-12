@@ -1,0 +1,498 @@
+Hull Business Training Centre Limited - Period Ending 2024-07-31
+Hull Business Training Centre Limited
+04744188
+false
+2023-08-01
+2024-07-31
+2024-07-31
+The principal activity of the company is Training providers
+Digita Accounts Production Advanced
+6.30.9574.0
+true
+04744188
+2023-08-01
+2024-07-31
+04744188
+2024-07-31
+04744188
+bus:Director1
+1
+2024-07-31
+04744188
+bus:Director4
+1
+2024-07-31
+04744188
+core:CurrentFinancialInstruments
+2024-07-31
+04744188
+core:CurrentFinancialInstruments
+core:WithinOneYear
+2024-07-31
+04744188
+core:Goodwill
+2024-07-31
+04744188
+core:FurnitureFittingsToolsEquipment
+2024-07-31
+04744188
+bus:SmallEntities
+2023-08-01
+2024-07-31
+04744188
+bus:AuditExemptWithAccountantsReport
+2023-08-01
+2024-07-31
+04744188
+bus:FilletedAccounts
+2023-08-01
+2024-07-31
+04744188
+bus:SmallCompaniesRegimeForAccounts
+2023-08-01
+2024-07-31
+04744188
+bus:RegisteredOffice
+2023-08-01
+2024-07-31
+04744188
+bus:CompanySecretaryDirector1
+2023-08-01
+2024-07-31
+04744188
+bus:Director1
+2023-08-01
+2024-07-31
+04744188
+bus:Director1
+1
+2023-08-01
+2024-07-31
+04744188
+bus:Director3
+2023-08-01
+2024-07-31
+04744188
+bus:Director4
+2023-08-01
+2024-07-31
+04744188
+bus:Director4
+1
+2023-08-01
+2024-07-31
+04744188
+bus:PrivateLimitedCompanyLtd
+2023-08-01
+2024-07-31
+04744188
+core:Goodwill
+2023-08-01
+2024-07-31
+04744188
+core:FurnitureFittings
+2023-08-01
+2024-07-31
+04744188
+core:FurnitureFittingsToolsEquipment
+2023-08-01
+2024-07-31
+04744188
+core:OfficeEquipment
+2023-08-01
+2024-07-31
+04744188
+countries:AllCountries
+2023-08-01
+2024-07-31
+04744188
+2023-07-31
+04744188
+bus:Director1
+1
+2023-07-31
+04744188
+bus:Director4
+1
+2023-07-31
+04744188
+core:Goodwill
+2023-07-31
+04744188
+core:FurnitureFittingsToolsEquipment
+2023-07-31
+04744188
+2022-08-01
+2023-07-31
+04744188
+2023-07-31
+04744188
+core:CurrentFinancialInstruments
+2023-07-31
+04744188
+core:CurrentFinancialInstruments
+core:WithinOneYear
+2023-07-31
+04744188
+core:FurnitureFittingsToolsEquipment
+2023-07-31
+iso4217:GBP
+xbrli:pure
+Registration number:
+04744188
+Hull Business Training Centre Limited
+Unaudited Filleted Financial Statements
+for the Year Ended 31 July 2024
+Hull Business Training Centre Limited
+Contents
+Company Information
+1
+Balance Sheet
+2
+Notes to the Unaudited Financial Statements
+3
+to
+7
+Hull Business Training Centre Limited
+Company Information
+Directors
+J Rudd
+JA Williams
+MA Wingfield
+C J Dolman
+Company secretary
+JA Williams
+Registered office
+2 Charlotte Street Mews
+Hull
+East Yorkshire
+HU1 3BP
+Page 1
+Hull Business Training Centre Limited
+(Registration number: 04744188)
+Balance Sheet as at 31 July 2024
+Note
+2024
+£
+2023
+£
+Fixed assets
+Tangible assets
+5
+32,419
+24,959
+Current assets
+Debtors
+6
+23,033
+9,287
+Cash at bank and in hand
+300,533
+382,377
+323,566
+391,664
+Creditors
+: Amounts falling due within one year
+7
+(
+16,840
+)
+(
+60,437
+)
+Net current
+assets
+306,726
+331,227
+Total assets less current liabilities
+339,145
+356,186
+Provisions for liabilities
+(
+6,160
+)
+(
+5,605
+)
+Net
+assets
+332,985
+350,581
+Capital and reserves
+Called up share capital
+100
+100
+Retained earnings
+332,885
+350,481
+Shareholders' funds
+332,985
+350,581
+For the financial year ending 31 July 2024 the Company was entitled to exemption from audit under section 477 of the Companies Act 2006 relating to small companies.
+Directors' responsibilities:
+•
+The members have not required the Company to obtain an audit of its accounts for the year in question in accordance with section 476
+; and
+•
+The Directors acknowledge their responsibilities for complying with the requirements of the Act with respect to accounting records and the preparation of accounts.
+These financial statements have been prepared in accordance with the special provisions relating to companies subject to the small companies regime within Part 15 of the Companies Act 2006.
+These financial statements have been delivered in accordance with the provisions applicable to companies subject to the small companies regime. As permitted by section 444 (5A) of the Companies Act 2006, the Directors have not delivered to the registrar a copy of the Profit and Loss Account.
+Approved and authorised by the
+Board
+on
+28 November 2024
+and signed on its behalf by:
+.........................................
+J Rudd
+Director
+.........................................
+C J Dolman
+Director
+.........................................
+JA Williams
+Company secretary and director
+.........................................
+MA Wingfield
+Director
+The notes on pages
+3
+to
+7
+form an integral part of these financial statements.
+Page 2
+Hull Business Training Centre Limited
+Notes to the Unaudited Financial Statements for the Year Ended 31 July 2024
+1
+General information
+The company is a private company limited by share capital incorporated in England & Wales and the company registration number is 04744188.
+The address of its registered office is:
+2 Charlotte Street Mews
+Hull
+East Yorkshire
+HU1 3BP
+These financial statements were authorised for issue by the
+Board
+on
+28 November 2024
+.
+2
+Accounting policies
+Summary of significant accounting policies and key accounting estimates
+The principal accounting policies applied in the preparation of these financial statements are set out below. These policies have been consistently applied to all the years presented, unless otherwise stated.
+Statement of compliance
+These financial statements have been prepared in accordance with Financial Reporting Standard 102 Section 1A smaller entities - 'The Financial Reporting Standard applicable in the United Kingdom and Republic of Ireland' and the Companies Act 2006 (as applicable to companies subject to the small companies' regime).
+Basis of preparation
+These financial statements have been prepared using the historical cost convention except that as disclosed in the accounting policies certain items are shown at fair value.
+The financial statements have been prepared in sterling and are rounded to the nearest pound.
+Revenue recognition
+Turnover arises from the provision of services. Turnover is measured at the fair value of the consideration received or receivable and represents amounts for the rendering of training services in the normal course of business, net of discounts and other sales-related taxes.
+Turnover from the provision of services is recognised when the service is performed.
+The company recognises revenue when:
+The amount of revenue can be reliably measured;
+it is probable that future economic benefits will flow to the entity;
+and specific criteria have been met of each of the companies activities.
+Tax
+Taxation for the period comprises current and deferred tax. Tax is recognised in the Profit and Loss Account, except that a change attributable to an item of income or expense recognised as other comprehensive income is also recognised directly in other comprehensive income.
+The current income tax charge is calculated on the basis of tax rates and laws that have been enacted or subsequently enacted by the reporting date in the countries where the company operates and generates taxable income.
+Page 3
+Hull Business Training Centre Limited
+Notes to the Unaudited Financial Statements for the Year Ended 31 July 2024
+Deferred tax represents the future tax consequences of transactions and events recognised in the financial statements of current and previous periods. It is recognised in respect of all timing differences, with certain exceptions. Timing differences are differences between taxable profits and total comprehensive income as stated in the financial statements that arise from the inclusion of income and expense in tax assessments in periods different from those in which they are recognised in the financial statements. Unrelieved tax losses and other deferred tax assets are recognised only to the extent that it is probable that they will be recovered against the reversal of deferred tax liabilities or other future taxable profits.
+Deferred tax is measured using the tax rates and laws that have been enacted or substantively enacted by the balance sheet date that are expected to apply to the reversal of timing differences. Deferred tax on revalued non-depreciable tangible fixed assets and investment properties is measure using the rates and allowances that apply to the sale of the asset.
+Tangible assets
+Tangible assets are stated in the statement of financial position at cost, less any subsequent accumulated depreciation and subsequent accumulated impairment losses.
+The cost of tangible assets includes directly attributable incremental costs incurred in their acquisition and installation.
+At each reporting date fixed assets are reviewed to determine whether there is any indication that those assets have suffered an impairment loss. If there is an indication of possible impairment, the recoverable amount of any affected asset is estimated and compared with its carrying amount. If the estimated recoverable amount is lower, the carrying amount is reduced to its estimated recoverable amount, and an impairment loss is recognised immediately in the profit and loss account.
+If an impairment loss subsequently reverses, the carrying amount of the asset is increased to the revised estimate of its recoverable amount, but not in excess of the amount that would have been determined had no impairment loss has been recognised for the asset in prior years. A reversal of an impairment loss is recognised immediately in the profit and loss account.
+Depreciation
+Depreciation is charged so as to write off the cost of assets, other than land and properties under construction over their estimated useful lives, as follows:
+Asset class
+Depreciation method and rate
+Fixtures & fittings
+25% cost and 5% cost
+Office equipment
+33% cost
+Goodwill
+Goodwill arising on the acquisition of an entity represents the excess of the cost of acquisition over the Company’s interest in the net fair value of the identifiable assets, liabilities and contingent liabilities of the entity recognised at the date of acquisition. Goodwill is initially recognised as an asset at cost and is subsequently measured at cost less accumulated amortisation and accumulated impairment losses. Goodwill is held in the currency of the acquired entity and revalued to the closing rate at each reporting period date. Goodwill is amortised over its useful life, which shall not exceed ten years if a reliable estimate of the useful life cannot be made.
+Amortisation
+Amortisation is provided on intangible assets so as to write off the cost, less any estimated residual value, over their useful life as follows:
+Asset class
+Amortisation method and rate
+Goodwill
+5% cost
+Cash and cash equivalents
+Cash and cash equivalents comprise cash on hand and call deposits, and other short-term highly liquid investments that are readily convertible to a known amount of cash and are subject to an insignificant risk of change in value.
+Page 4
+Hull Business Training Centre Limited
+Notes to the Unaudited Financial Statements for the Year Ended 31 July 2024
+Leases
+Leases in which substantially all the risks and rewards of ownership are retained by the lessor are classified as operating leases. Payments made under operating leases are charged to profit or loss on a straight-line basis over the period of the lease.
+Share capital
+Ordinary shares are classified as equity. Equity instruments are measured at the fair value of the cash or other resources received or receivable, net of the direct costs of issuing the equity instruments. If payment is deferred and the time value of money is material, the initial measurement is on a present value basis.
+Dividends
+Dividend distribution to the Company’s shareholders is recognised as a liability in the financial statements in the reporting period in which the dividends are declared.
+Defined contribution pension obligation
+A defined contribution plan is a pension plan under which fixed contributions are paid into a pension fund and the Company has no legal or constructive obligation to pay further contributions even if the fund does not hold sufficient assets to pay all employees the benefits relating to employee service in the current and prior periods.
+Contributions to defined contribution plans are recognised as employee benefit expense when they are due. If contribution payments exceed the contribution due for service, the excess is recognised as a prepayment.
+3
+Staff numbers
+The average number of persons employed by the Company (including Directors) during the year, was
+26
+(2023 -
+26
+).
+4
+Intangible assets
+Goodwill
+£
+Total
+£
+Cost or valuation
+At 1 August 2023
+180,000
+180,000
+At 31 July 2024
+180,000
+180,000
+Amortisation
+At 1 August 2023
+180,000
+180,000
+At 31 July 2024
+180,000
+180,000
+Carrying amount
+At 31 July 2024
+-
+-
+Page 5
+Hull Business Training Centre Limited
+Notes to the Unaudited Financial Statements for the Year Ended 31 July 2024
+5
+Tangible assets
+Furniture, fittings and equipment
+£
+Total
+£
+Cost or valuation
+At 1 August 2023
+203,156
+203,156
+Additions
+20,436
+20,436
+At 31 July 2024
+223,592
+223,592
+Depreciation
+At 1 August 2023
+178,197
+178,197
+Charge for the year
+12,976
+12,976
+At 31 July 2024
+191,173
+191,173
+Carrying amount
+At 31 July 2024
+32,419
+32,419
+At 31 July 2023
+24,959
+24,959
+6
+Debtors
+2024
+£
+2023
+£
+Trade debtors
+262
+1,479
+Prepayments
+7,164
+7,808
+Other debtors
+15,607
+-
+23,033
+9,287
+7
+Creditors
+Creditors: amounts falling due within one year
+Note
+2024
+£
+2023
+£
+Due within one year
+Loans and borrowings
+8
+-
+36,323
+Taxation and social security
+-
+11,388
+Accruals and deferred income
+11,563
+8,981
+Other creditors
+5,277
+3,745
+16,840
+60,437
+8
+Loans and borrowings
+Current loans and borrowings
+2024
+£
+2023
+£
+Other borrowings
+-
+36,323
+Page 6
+Hull Business Training Centre Limited
+Notes to the Unaudited Financial Statements for the Year Ended 31 July 2024
+9
+Financial commitments, guarantees and contingencies
+Amounts not provided for in the balance sheet
+The total amount of financial commitments not included in the balance sheet is £
+66,262
+(2023 - £
+78,776
+)
+.
+Amounts disclosed in the balance sheet
+Included in the balance sheet are guarantees of £
+Nil
+(2023 - £Nil)
+.
+10
+Related party transactions
+Transactions with Directors
+2024
+At 1 August 2023
+£
+Advances to Director
+£
+At 31 July 2024
+£
+J Rudd
+Unsecured, interest free, repayable on demand
+(
+11,623
+)
+16,623
+5,000
+C J Dolman
+Unsecured, interest free, repayable on demand
+(
+9,444
+)
+14,444
+5,000
+Other transactions with Directors
+At the year end, the directors owed the company £10,000 (2023: The company owed the directors £36,323). This amount is unsecured, interest free and repayable on demand.
+Page 7

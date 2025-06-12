@@ -1,0 +1,279 @@
+Accounts Submission
+Company Accounts and Tax Online
+11376498
+Board of Directors
+1.6.22
+31.8.23
+31.8.23
+No description of principal activity
+false
+iso4217:GBP
+xbrli:pure
+11376498
+2021-06-01
+2022-05-31
+11376498
+2023-08-31
+11376498
+2022-06-01
+2023-08-31
+11376498
+2022-05-31
+11376498
+countries:EnglandWales
+2022-06-01
+2023-08-31
+11376498
+curr:PoundSterling
+2022-06-01
+2023-08-31
+11376498
+uk-bus:PrivateLimitedCompanyLtd
+2022-06-01
+2023-08-31
+11376498
+uk-bus:Micro-entities
+2022-06-01
+2023-08-31
+11376498
+uk-bus:AuditExempt-NoAccountantsReport
+2022-06-01
+2023-08-31
+11376498
+uk-bus:FullAccounts
+2022-06-01
+2023-08-31
+11376498
+uk-bus:RegisteredOffice
+2022-06-01
+2023-08-31
+11376498
+uk-bus:Director1
+2022-06-01
+2023-08-31
+11376498
+uk-bus:Director1
+2022-06-01
+11376498
+uk-bus:Director1
+2023-08-31
+11376498
+core:AfterOneYear
+2023-08-31
+11376498
+core:AfterOneYear
+2022-05-31
+11376498
+core:WithinOneYear
+2023-08-31
+11376498
+core:WithinOneYear
+2022-05-31
+11376498
+core:WithinOneYear
+2022-06-01
+2023-08-31
+11376498
+core:AfterOneYear
+2023-08-31
+11376498
+core:AfterOneYear
+2022-05-31
+11376498
+core:AfterOneYear
+2022-06-01
+2023-08-31
+11376498
+core:ShareCapital
+2023-08-31
+11376498
+core:ShareCapital
+2022-05-31
+11376498
+core:RevaluationReserve
+2023-08-31
+11376498
+core:RevaluationReserve
+2022-05-31
+11376498
+core:RetainedEarningsAccumulatedLosses
+2023-08-31
+11376498
+core:RetainedEarningsAccumulatedLosses
+2022-05-31
+11376498
+1
+2022-06-01
+2023-08-31
+CTSW SKILLS LTD
+Company Registration Number:
+11376498
+(England and Wales)
+Unaudited micro entity accounts for the year ended 31 August 2023
+Period of accounts
+Start date: 01 June 2022
+End date: 31 August 2023
+Page 1
+CTSW SKILLS LTD
+Contents of the Financial Statements
+for the Period Ended 31 August 2023
+Company Information - 3
+Profit and Loss Account - 4
+Balance sheet - 5
+Footnotes to the Balance Sheet - 7
+Page 2
+CTSW SKILLS LTD
+Company Information
+for the Period Ended 31 August 2023
+Registered office:
+27
+Burrington Way
+Plymouth
+England
+PL5 3LR
+Company Registration Number:
+11376498
+(England and Wales)
+Page 3
+CTSW SKILLS LTD
+Profit and Loss Account
+for the Period Ended 31 August 2023
+15 months to
+31 Aug 2023
+£
+2022
+£
+Turnover
+430,030
+360,115
+Income from coronavirus (COVID-19) business support grants
+0
+48,991
+Other Income
+0
+0
+Cost of Materials
+(
+22,111
+)
+(
+32,300
+)
+Staff Costs
+(
+265,955
+)
+(
+240,739
+)
+Depreciation and Writeoffs
+(
+15,048
+)
+(
+4,555
+)
+Other charges
+(
+109,901
+)
+(
+124,196
+)
+Tax on Profit
+(
+3,232
+)
+(
+1,390
+)
+Profit or (Loss) for Period
+13,783
+5,926
+Page 4
+CTSW SKILLS LTD
+Balance sheet
+As at
+31 August 2023
+15 months to
+31 Aug 2023
+£
+2022
+£
+Called up share capital not paid:
+0
+0
+Fixed Assets:
+31,126
+7,257
+Current assets:
+257,186
+81,550
+Prepayments and accrued income:
+50,449
+86,510
+Creditors: amounts falling due within one year:
+(
+221,412
+)
+(
+119,418
+)
+Net current assets (liabilities):
+86,223
+48,642
+Total assets less current liabilities:
+117,349
+55,899
+Creditors: amounts falling due after more than one year:
+(
+48,239
+)
+(
+46,950
+)
+Provision for liabilities:
+(
+0
+)
+Accruals and deferred income:
+(
+33,781
+)
+(
+0
+)
+Total net assets (liabilities):
+35,329
+8,949
+Capital and reserves:
+35,329
+8,949
+Page 5
+CTSW SKILLS LTD
+Balance sheet continued
+For the year ending 31 August 2023 the company was entitled to exemption under section 477 of the Companies Act 2006 relating to small companies.
+The members have not required the company to obtain an audit in accordance with section 476 of the Companies Act 2006.
+The directors acknowledge their responsibilities for complying with the requirements of the Act with respect to accounting records and the preparation of accounts.
+These accounts have been prepared and delivered in accordance with the provisions of the small companies regime applicable to micro-entities.
+This report was approved by the board of directors on
+26 May 2024
+And Signed On Behalf Of The Board By:
+Name:
+Amanda Davey
+Status: Director
+The notes form part of these financial statements
+Page 6
+CTSW SKILLS LTD
+Footnotes to the Financial Statements
+for the Period Ended 31 August 2023
+1. Employee Information
+Average number of employees:
+10
+Page 7
+CTSW SKILLS LTD
+Footnotes to the Financial Statements
+for the Period Ended 31 August 2023
+2. Off balance sheet disclosure
+No
+Page 8

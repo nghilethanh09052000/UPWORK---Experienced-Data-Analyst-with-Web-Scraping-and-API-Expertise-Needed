@@ -1,0 +1,557 @@
+REBUS_TRAINING_LIMITED - Accounts
+Company registration number
+07224766
+(England and Wales)
+REBUS TRAINING LIMITED
+UNAUDITED FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MARCH 2024
+PAGES FOR FILING WITH REGISTRAR
+REBUS TRAINING LIMITED
+COMPANY INFORMATION
+Directors
+Mr G Jackson
+Mr J Grocock
+Company number
+07224766
+Registered office
+Unit 4 Westlake Trading Estate
+Canal Lane
+Tunstall
+Stoke-On-Trent
+Staffordshire
+ST6 4PA
+Accountants
+Geens Limited
+Graphic House
+124 City Road
+Stoke on Trent
+ST4 2PH
+REBUS TRAINING LIMITED
+CONTENTS
+Page
+Balance sheet
+1
+Notes to the financial statements
+2 - 7
+REBUS TRAINING LIMITED
+BALANCE SHEET
+AS AT
+31 MARCH 2024
+31 March 2024
+- 1 -
+2024
+2023
+Notes
+£
+£
+£
+£
+Fixed assets
+Tangible assets
+4
+19,321
+22,973
+Current assets
+Stocks
+1,450
+930
+Debtors
+5
+39,956
+59,694
+Cash at bank and in hand
+369,920
+392,818
+411,326
+453,442
+Creditors: amounts falling due within one year
+6
+(
+94,850
+)
+(
+104,284
+)
+Net current assets
+316,476
+349,158
+Total assets less current liabilities
+335,797
+372,131
+Capital and reserves
+Called up share capital
+100
+100
+Profit and loss reserves
+335,697
+372,031
+Total equity
+335,797
+372,131
+The directors of the company have elected not to include a copy of the profit and loss account within the financial statements.
+true
+For the financial year ended 31 March 2024 the company was entitled to exemption from audit under section 477 of the Companies Act 2006
+relating to small companies.
+The directors acknowledge their responsibilities for complying with the requirements of the Companies Act 2006 with respect to accounting records and the preparation of financial statements.
+T
+he members have not required the company to obtain an audit of its financial statements for the year in question in accordance with section 476
+.
+These financial statements have been prepared and delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+The financial statements were approved by the board of directors and authorised for issue on
+28 November 2024
+and are signed on its behalf by:
+Mr G Jackson
+Mr J Grocock
+Director
+Director
+Company Registration No. 07224766
+REBUS TRAINING LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MARCH 2024
+- 2 -
+1
+Accounting policies
+Company information
+Rebus Training Limited is a
+private
+company
+limited by shares
+incorporated in
+England and Wales
+.
+The registered office is
+Unit 4 Westlake Trading Estate, Canal Lane, Tunstall, Stoke-On-Trent, Staffordshire, ST6 4PA.
+1.1
+Accounting convention
+These financial statements have been prepared in accordance with FRS 102 “The Financial Reporting Standard applicable in the UK and Republic of Ireland” (“FRS 102”) and the requirements of the Companies Act 2006 as applicable to companies subject to the small companies regime. The disclosure requirements of section 1A of FRS 102 have been applied other than where additional disclosure is required to show a true and fair view.
+The financial statements are prepared in
+sterling
+, which is the functional currency of the company.
+Monetary a
+mounts
+in these financial statements are
+rounded to the nearest £.
+The financial statements have been prepared under the historical cost convention. The principal accounting policies adopted are set out below.
+1.2
+Turnover
+Turnover is recognised at the fair value of the consideration received or receivable for goods and services provided in the normal course of business
+, and
+is shown net of VAT and other sales related taxes
+.
+The fair value of consideration takes into account trade discounts, settlement discounts and volume rebates.
+When cash inflows are deferred and represent a financing arrangement, the fair value of the consideration is the present value of the future receipts. The difference between the fair value of the consideration and the nominal amount received is recognised as interest income.
+1.3
+Tangible fixed assets
+Tangible fixed assets
+are initially measured at cost and subsequently measured at cost or valuation, net of depreciation and any impairment losses.
+Depreciation is recognised so as to write off the cost or valuation of assets less their residual values over their useful lives on the following bases:
+Leasehold improvements
+25% Straight Line
+Plant and equipment
+20% Straight Line
+Fixtures and fittings
+20% Reducing Balance
+Computers
+25% Straight Line
+The gain or loss arising on the disposal of an asset is determined as the difference between the sale proceeds and the carrying value of the asset, and
+is credited or charged to profit or loss
+.
+1.4
+Impairment of fixed assets
+At each reporting
+period
+end date, the
+company
+reviews the carrying amounts of its tangible
+assets to determine whether there is any indication that those assets have suffered an impairment loss. If any such indication exists, the recoverable amount of the asset is estimated in order to determine the extent of the impairment loss (if any). Where it is not possible to estimate the recoverable amount of an individual asset, the
+company
+estimates the recoverable amount of the cash-generating unit to which the asset belongs.
+REBUS TRAINING LIMITED
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 MARCH 2024
+1
+Accounting policies
+(Continued)
+- 3 -
+Recoverable amount is the higher of fair value less costs to sell and value in use. In assessing value in use, the estimated future cash flows are discounted to their present value using a pre-tax discount rate that reflects current market assessments of the time value of money and the risks specific to the asset for which the estimates of future cash flows have not been adjusted.
+If the recoverable amount of an asset (or cash-generating unit) is estimated to be less than its carrying amount, the carrying amount of the asset (or cash-generating unit) is reduced to its recoverable amount. An impairment loss is recognised immediately in
+profit
+or
+loss
+, unless the relevant asset is carried at a revalued amount, in which case the impairment loss is treated as a revaluation decrease.
+Recognised impairment losses are reversed if, and only if, the reasons for the impairment loss have ceased to apply. Where an impairment loss subsequently reverses, the carrying amount of the asset (or cash-generating unit) is increased to the revised estimate of its recoverable amount, but so that the increased carrying amount does not exceed the carrying amount that would have been determined had no impairment loss been recognised for the asset (or cash-generating unit)
+in
+prior years. A reversal of an impairment loss is recognised immediately in
+profit
+or
+loss
+, unless the relevant asset is carried at a revalued amount, in which case the reversal of the impairment loss is treated as a revaluation increase.
+1.5
+Stocks
+Stocks are stated at the lower of cost and estimated selling price less costs to complete and sell. Cost comprises direct materials and, where applicable, direct labour costs and those overheads that have been incurred in bringing the stocks to their present location and condition.
+Stocks held for distribution at no or nominal consideration are measured at the lower of cost and replacement cost, adjusted where applicable for any loss of service potential.
+At each reporting date, an assessment is made for impairment. Any excess of the carrying amount of stocks over its estimated selling price less costs to complete and sell is recognised as an impairment loss in profit or loss. Reversals of impairment losses are also recognised in profit or loss.
+1.6
+Cash and cash equivalents
+Cash and cash equivalents
+are basic financial assets
+and
+include cash in hand, deposits held at call with banks, other short-term liquid investments with original maturities of three months or less, and bank overdrafts. Bank overdrafts are shown within borrowings in current liabilities.
+1.7
+Financial instruments
+The company has elected to apply the provisions of Section 11 ‘Basic Financial Instruments’ and Section 12 ‘Other Financial Instruments Issues’ of FRS 102 to all of its financial instruments.
+Financial instruments are recognised in the company's balance sheet when the company becomes party to the contractual provisions of the instrument.
+Financial assets and liabilities are offset
+, with
+the net amounts presented in the financial statements
+,
+when there is a legally enforceable right to set off the recognised amounts and there is an intention to settle on a net basis or to realise the asset and settle the liability simultaneously.
+Basic financial assets
+Basic financial assets, which include
+debtors
+and cash and bank balances, are initially measured at transaction price including transaction costs and are subsequently carried at amortised cost using the effective interest
+method unless the arrangement constitutes a financing transaction, where the transaction is measured at the present value of the future receipts discounted at a market rate of interest.
+Financial assets classified as receivable within one year are not amortised.
+REBUS TRAINING LIMITED
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 MARCH 2024
+1
+Accounting policies
+(Continued)
+- 4 -
+Classification of financial liabilities
+Financial liabilities and equity instruments are classified according to the substance of the contractual arrangements entered into. An equity instrument is any contract that evidences a residual interest in the assets of the company after deducting all of its liabilities.
+Basic financial liabilities
+Basic financial liabilities, including
+creditors
+, bank loans, loans from
+fellow group companies and preference shares that are classified as debt, are
+initially recognised at transaction price unless the arrangement constitutes a
+financing transaction, where the debt instrument is measured at the present value of
+the future
+paymen
+ts discounted at a market rate of interest.
+Financial liabilities classified as payable within one year are not amortised.
+Debt instruments are subsequently carried at amortised cost, using the effective
+interest rate method.
+Trade creditors
+are obligations to pay for goods or services that have been acquired
+in the ordinary course of business from suppliers. A
+m
+ounts payable are classified as
+current liabilities if payment is due within one year or less. If not, they are presented
+as non-current liabilities.
+Trade creditors
+are recognised initially at transaction price
+and subsequently measured at amortised cost using the effective interest method.
+1.8
+Equity instruments
+Equity instruments issued by the company are recorded at the proceeds received, net of transaction costs. Dividends payable on equity instruments are recognised as liabilities once they are no longer at the discretion of the company.
+1.9
+Taxation
+The tax expense represents the sum of the tax currently payable and deferred tax.
+Current tax
+The tax currently payable is based on taxable profit for the year. Taxable profit differs from net profit as reported in the
+profit and loss account
+because it excludes items of income or expense that are taxable or deductible in other years and it further excludes items that are never taxable or deductible. The
+company’s
+liability for current tax is calculated using tax rates that have been enacted or substantively enacted by the reporting end date.
+Deferred tax
+Deferred tax liabilities are generally recognised for all timing differences and deferred tax assets are recognised to the extent that it is probable that they will be recovered against the reversal of deferred tax liabilities or other future taxable profits. Such assets and liabilities are not recognised if the timing difference arises from goodwill or from the initial recognition of other assets and liabilities in a transaction that affects neither the tax profit nor the accounting profit.
+The carrying amount of deferred tax assets is reviewed at each reporting end date and reduced to the extent that it is no longer probable that sufficient taxable profits will be available to allow all or part of the asset to be recovered. Deferred tax is calculated at the tax rates that are expected to apply in the period when the liability is settled or the asset is realised. Deferred tax is charged or credited in the
+profit and loss account
+, except when it relates to items charged or credited directly to equity, in which case the deferred tax is also dealt with in equity. Deferred tax assets and liabilities are offset when the
+company
+has a legally enforceable right to offset current tax assets and liabilities and the deferred tax assets and liabilities relate to taxes levied by the same tax authority.
+REBUS TRAINING LIMITED
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 MARCH 2024
+1
+Accounting policies
+(Continued)
+- 5 -
+1.10
+Employee benefits
+The costs of short-term employee benefits are recognised as a liability and an expense, unless those costs are required to be recognised as part of the cost of stock or
+fixed assets
+.
+The cost of any unused holiday entitlement is recognised in the period in which the employee’s services are received.
+Termination benefits are recognised immediately as an expense when the company is demonstrably committed to terminate the employment of an employee or to provide termination benefits.
+1.11
+Retirement benefits
+Payments to defined contribution retirement benefit schemes are charged as an expense as they fall due.
+1.12
+Leases
+Rentals payable under operating leases,
+including
+any lease incentives received, are charged to
+profit or loss
+on a straight line basis over the term of the relevant lease except where another more systematic basis is more representative of the time pattern in which economic benefits from the lease
+s
+asset are consumed.
+1.13
+Government grants
+Government grants are recognised at the fair value of the asset receive
+d
+or receivable when there is reasonable assurance that the grant conditions will be met and the grants will be received.
+2
+Judgements and key sources of estimation uncertainty
+In the application of the company’s accounting policies, the directors are required to make judgements, estimates and assumptions about the carrying amount of assets and liabilities that are not readily apparent from other sources. The estimates and associated assumptions are based on historical experience and other factors that are considered to be relevant. Actual results may differ from these estimates.
+The estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to accounting estimates are recognised in the period in which the estimate is revised where the revision affects only that period, or in the period of the revision and future periods where the revision affects both current and future periods.
+3
+Employees
+The average monthly number of persons (including directors) employed by the company during the year was:
+2024
+2023
+Number
+Number
+Total
+29
+23
+REBUS TRAINING LIMITED
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 MARCH 2024
+- 6 -
+4
+Tangible fixed assets
+Land and buildings
+Plant and machinery etc
+Total
+£
+£
+£
+Cost
+At 1 April 2023
+52,253
+70,510
+122,763
+Additions
+-
+0
+6,633
+6,633
+Disposals
+-
+0
+(
+183
+)
+(
+183
+)
+At 31 March 2024
+52,253
+76,960
+129,213
+Depreciation and impairment
+At 1 April 2023
+52,253
+47,537
+99,790
+Depreciation charged in the year
+-
+0
+10,285
+10,285
+Eliminated in respect of disposals
+-
+0
+(
+183
+)
+(
+183
+)
+At 31 March 2024
+52,253
+57,639
+109,892
+Carrying amount
+At 31 March 2024
+-
+0
+19,321
+19,321
+At 31 March 2023
+-
+0
+22,973
+22,973
+5
+Debtors
+2024
+2023
+Amounts falling due within one year:
+£
+£
+Trade debtors
+37,767
+49,043
+Other debtors
+2,189
+10,651
+39,956
+59,694
+6
+Creditors: amounts falling due within one year
+2024
+2023
+£
+£
+Trade creditors
+21,310
+12,991
+Taxation and social security
+64,581
+82,550
+Other creditors
+8,959
+8,743
+94,850
+104,284
+REBUS TRAINING LIMITED
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 MARCH 2024
+- 7 -
+7
+Operating lease commitments
+Lessee
+At the reporting end date the company had outstanding commitments for future minimum lease payments under non-cancellable operating leases, as follows:
+2024
+2023
+£
+£
+51,444
+29,250
+2024-03-31
+2023-04-01
+false
+02 December 2024
+CCH Software
+CCH Accounts Production 2024.100
+No description of principal activity
+Mr G Jackson
+Mr J Grocock
+false
+false
+07224766
+2023-04-01
+2024-03-31
+07224766
+bus:Director1
+2023-04-01
+2024-03-31
+07224766
+bus:Director2
+2023-04-01
+2024-03-31
+07224766
+bus:RegisteredOffice
+2023-04-01
+2024-03-31
+07224766
+2024-03-31
+07224766
+2023-03-31
+07224766
+core:LandBuildings
+2024-03-31
+07224766
+core:OtherPropertyPlantEquipment
+2024-03-31
+07224766
+core:LandBuildings
+2023-03-31
+07224766
+core:OtherPropertyPlantEquipment
+2023-03-31
+07224766
+core:CurrentFinancialInstruments
+core:WithinOneYear
+2024-03-31
+07224766
+core:CurrentFinancialInstruments
+core:WithinOneYear
+2023-03-31
+07224766
+core:CurrentFinancialInstruments
+2024-03-31
+07224766
+core:CurrentFinancialInstruments
+2023-03-31
+07224766
+core:ShareCapital
+2024-03-31
+07224766
+core:ShareCapital
+2023-03-31
+07224766
+core:RetainedEarningsAccumulatedLosses
+2024-03-31
+07224766
+core:RetainedEarningsAccumulatedLosses
+2023-03-31
+07224766
+core:LeaseholdImprovements
+2023-04-01
+2024-03-31
+07224766
+core:PlantMachinery
+2023-04-01
+2024-03-31
+07224766
+core:FurnitureFittings
+2023-04-01
+2024-03-31
+07224766
+core:ComputerEquipment
+2023-04-01
+2024-03-31
+07224766
+2022-04-01
+2023-03-31
+07224766
+core:LandBuildings
+2023-03-31
+07224766
+core:OtherPropertyPlantEquipment
+2023-03-31
+07224766
+2023-03-31
+07224766
+core:LandBuildings
+2023-04-01
+2024-03-31
+07224766
+core:OtherPropertyPlantEquipment
+2023-04-01
+2024-03-31
+07224766
+core:WithinOneYear
+2024-03-31
+07224766
+core:WithinOneYear
+2023-03-31
+07224766
+bus:PrivateLimitedCompanyLtd
+2023-04-01
+2024-03-31
+07224766
+bus:SmallCompaniesRegimeForAccounts
+2023-04-01
+2024-03-31
+07224766
+bus:FRS102
+2023-04-01
+2024-03-31
+07224766
+bus:AuditExemptWithAccountantsReport
+2023-04-01
+2024-03-31
+07224766
+bus:FullAccounts
+2023-04-01
+2024-03-31
+xbrli:pure
+xbrli:shares
+iso4217:GBP

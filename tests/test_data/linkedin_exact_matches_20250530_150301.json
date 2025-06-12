@@ -1,0 +1,19 @@
+[
+  {
+    "name": {
+      "textDirection": "USER_LOCALE",
+      "text": "Solutions 4 Polymers Limited",
+      "attributesV2": [],
+      "accessibilityTextAttributesV2": [],
+      "accessibilityText": null,
+      "$recipeTypes": [
+        "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+      ],
+      "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "url": "https://www.linkedin.com/company/solutions-4-polymers-limited/",
+    "description": null,
+    "industry": null,
+    "employee_count": null
+  }
+]

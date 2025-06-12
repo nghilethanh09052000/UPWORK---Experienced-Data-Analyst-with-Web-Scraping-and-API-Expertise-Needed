@@ -1,0 +1,558 @@
+Aspire Procurement Training Ltd - Period Ending 2024-07-31
+Aspire Procurement Training Ltd
+08202879
+false
+2023-08-01
+2024-07-31
+2024-07-31
+The principal activity of the company is the provision of training services
+Digita Accounts Production Advanced
+6.30.9574.0
+true
+true
+08202879
+2023-08-01
+2024-07-31
+08202879
+2024-07-31
+08202879
+bus:Director1
+1
+2024-07-31
+08202879
+bus:Director2
+1
+2024-07-31
+08202879
+core:RetainedEarningsAccumulatedLosses
+2024-07-31
+08202879
+core:ShareCapital
+2024-07-31
+08202879
+core:CurrentFinancialInstruments
+2024-07-31
+08202879
+core:CurrentFinancialInstruments
+core:WithinOneYear
+2024-07-31
+08202879
+core:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2024-07-31
+08202879
+core:FurnitureFittingsToolsEquipment
+2024-07-31
+08202879
+bus:SmallEntities
+2023-08-01
+2024-07-31
+08202879
+bus:AuditExemptWithAccountantsReport
+2023-08-01
+2024-07-31
+08202879
+bus:FilletedAccounts
+2023-08-01
+2024-07-31
+08202879
+bus:SmallCompaniesRegimeForAccounts
+2023-08-01
+2024-07-31
+08202879
+bus:RegisteredOffice
+2023-08-01
+2024-07-31
+08202879
+bus:Director1
+2023-08-01
+2024-07-31
+08202879
+bus:Director1
+1
+2023-08-01
+2024-07-31
+08202879
+bus:Director2
+2023-08-01
+2024-07-31
+08202879
+bus:Director2
+1
+2023-08-01
+2024-07-31
+08202879
+bus:PrivateLimitedCompanyLtd
+2023-08-01
+2024-07-31
+08202879
+bus:Agent1
+2023-08-01
+2024-07-31
+08202879
+core:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2023-08-01
+2024-07-31
+08202879
+core:IntangibleAssetsOtherThanGoodwill
+2023-08-01
+2024-07-31
+08202879
+core:FurnitureFittingsToolsEquipment
+2023-08-01
+2024-07-31
+08202879
+core:OfficeEquipment
+2023-08-01
+2024-07-31
+08202879
+countries:EnglandWales
+2023-08-01
+2024-07-31
+08202879
+2023-07-31
+08202879
+bus:Director1
+1
+2023-07-31
+08202879
+bus:Director2
+1
+2023-07-31
+08202879
+core:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2023-07-31
+08202879
+core:FurnitureFittingsToolsEquipment
+2023-07-31
+08202879
+2022-08-01
+2023-07-31
+08202879
+2023-07-31
+08202879
+bus:Director1
+1
+2023-07-31
+08202879
+core:RetainedEarningsAccumulatedLosses
+2023-07-31
+08202879
+core:ShareCapital
+2023-07-31
+08202879
+core:CurrentFinancialInstruments
+2023-07-31
+08202879
+core:CurrentFinancialInstruments
+core:WithinOneYear
+2023-07-31
+08202879
+core:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2023-07-31
+08202879
+core:FurnitureFittingsToolsEquipment
+2023-07-31
+08202879
+bus:Director1
+1
+2022-08-01
+2023-07-31
+08202879
+bus:Director1
+1
+2022-07-31
+iso4217:GBP
+xbrli:pure
+Registration number:
+08202879
+Aspire Procurement Training Ltd
+Unaudited Filleted Financial Statements
+for the Year Ended 31 July 2024
+Hargreaves Brown & Benson
+Chartered Accountants
+1 Bond Street
+Colne
+Lancashire
+BB8 9DG
+Aspire Procurement Training Ltd
+Contents
+Company Information
+1
+Accountants' Report
+2
+Balance Sheet
+3
+to
+4
+Notes to the Unaudited Financial Statements
+5
+to
+9
+Aspire Procurement Training Ltd
+Company Information
+Directors
+Mr M A Parker
+Mr R D A Slater
+Registered office
+The Base
+Office 214
+Dallam Lane
+Warrington
+WA2 7NG
+Accountants
+Hargreaves Brown & Benson
+Chartered Accountants
+1 Bond Street
+Colne
+Lancashire
+BB8 9DG
+Page 1
+Chartered Accountants' Report to the Board of Directors on the Preparation of the Unaudited Statutory Accounts of
+Aspire Procurement Training Ltd
+for the Year Ended 31 July 2024
+In order to assist you to fulfil your duties under the Companies Act 2006, we have prepared for your approval the accounts of Aspire Procurement Training Ltd for the year ended 31 July 2024 as set out on pages
+3
+to
+9
+from the company's accounting records and from information and explanations you have given us.
+As a practising member firm of the Institute of Chartered Accountants in England and Wales (ICAEW), we are subject to its ethical and other professional requirements which are detailed at
+http://www.icaew.com/regulation.
+This report is made solely to the Board of Directors of Aspire Procurement Training Ltd, as a body. Our work has been undertaken solely to prepare for your approval the accounts of Aspire Procurement Training Ltd and state those matters that we have agreed to state to the Board of Directors of Aspire Procurement Training Ltd, as a body, in this report in accordance with ICAEW Technical Release 07/16 AAF. To the fullest extent permitted by law, we do not accept or assume responsibility to anyone other than Aspire Procurement Training Ltd and its Board of Directors as a body for our work or for this report.
+It is your duty to ensure that Aspire Procurement Training Ltd has kept adequate accounting records and to prepare statutory accounts that give a true and fair view of the assets, liabilities, financial position and profit
+of Aspire Procurement Training Ltd. You consider that Aspire Procurement Training Ltd is exempt from the statutory audit requirement for the year.
+We have not been instructed to carry out an audit or a review of the accounts of Aspire Procurement Training Ltd. For this reason, we have not verified the accuracy or completeness of the accounting records or information and explanations you have given to us and we do not, therefore, express any opinion on the statutory accounts.
+......................................
+Hargreaves Brown & Benson
+Chartered Accountants
+1 Bond Street
+Colne
+Lancashire
+BB8 9DG
+15 January 2025
+Page 2
+Aspire Procurement Training Ltd
+(Registration number: 08202879)
+Balance Sheet as at 31 July 2024
+Note
+2024
+£
+2023
+£
+Fixed assets
+Intangible assets
+4
+1,225
+1,925
+Tangible assets
+5
+11,592
+10,791
+12,817
+12,716
+Current assets
+Debtors
+6
+207,280
+91,854
+Cash at bank and in hand
+338,551
+594,155
+545,831
+686,009
+Creditors
+: Amounts falling due within one year
+7
+(
+495,282
+)
+(
+605,159
+)
+Net current
+assets
+50,549
+80,850
+Total assets less current liabilities
+63,366
+93,566
+Provisions for liabilities
+(
+3,204
+)
+(
+2,416
+)
+Net
+assets
+60,162
+91,150
+Capital and reserves
+Called up share capital
+1
+1
+Retained earnings
+60,161
+91,149
+Shareholders' funds
+60,162
+91,150
+The notes on pages
+5
+to
+9
+form an integral part of these financial statements.
+Page 3
+Aspire Procurement Training Ltd
+(Registration number: 08202879)
+Balance Sheet as at 31 July 2024
+For the financial year ending 31 July 2024 the company was entitled to exemption from audit under section 477 of the Companies Act 2006 relating to small companies.
+Directors' responsibilities:
+•
+The members have not required the company to obtain an audit of its accounts for the year in question in accordance with section 476
+; and
+•
+The directors acknowledge their responsibilities for complying with the requirements of the Act with respect to accounting records and the preparation of accounts.
+These financial statements have been prepared in accordance with the special provisions relating to companies subject to the small companies regime within Part 15 of the Companies Act 2006.
+These financial statements have been delivered in accordance with the provisions applicable to companies subject to the small companies regime. As permitted by section 444 (5A) of the Companies Act 2006, the directors have not delivered to the registrar a copy of the Profit and Loss Account.
+Approved and authorised by the
+Board
+on
+15 January 2025
+and signed on its behalf by:
+.........................................
+Mr M A Parker
+Director
+.........................................
+Mr R D A Slater
+Director
+The notes on pages
+5
+to
+9
+form an integral part of these financial statements.
+Page 4
+Aspire Procurement Training Ltd
+Notes to the Unaudited Financial Statements for the Year Ended 31 July 2024
+1
+General information
+The company is a private company limited by share capital, incorporated in England and Wales.
+The address of its registered office is:
+The Base
+Office 214
+Dallam Lane
+Warrington
+WA2 7NG
+These financial statements were authorised for issue by the
+Board
+on
+15 January 2025
+.
+2
+Accounting policies
+Summary of significant accounting policies and key accounting estimates
+The principal accounting policies applied in the preparation of these financial statements are set out below. These policies have been consistently applied to all the years presented, unless otherwise stated.
+Statement of compliance
+These financial statements have been prepared in accordance with Financial Reporting Standard 102 Section 1A smaller entities - 'The Financial Reporting Standard applicable in the United Kingdom and Republic of Ireland' and the Companies Act 2006 (as applicable to companies subject to the small companies' regime).
+Basis of preparation
+These financial statements have been prepared using the historical cost convention except that as disclosed in the accounting policies certain items are shown at fair value.
+Going concern
+The financial statements have been prepared on a going concern basis.
+Revenue recognition
+Turnover comprises the fair value of the consideration received or receivable for the provision of services in the ordinary course of the company’s activities. Turnover is shown net of sales/value added tax, returns, rebates and discounts.
+The company recognises revenue when:
+The amount of revenue can be reliably measured;
+it is probable that future economic benefits will flow to the entity;
+and specific criteria have been met for each of the company's activities.
+Tax
+The tax expense for the period comprises current and deferred tax. Tax is recognised in profit or loss, except that a change attributable to an item of income or expense recognised as other comprehensive income is also recognised directly in other comprehensive income.
+The current income tax charge is calculated on the basis of tax rates and laws that have been enacted or substantively enacted by the reporting date in the countries where the company operates and generates taxable income.
+Page 5
+Aspire Procurement Training Ltd
+Notes to the Unaudited Financial Statements for the Year Ended 31 July 2024
+Deferred tax is recognised in respect of all timing differences between taxable profits and profits reported in the financial statements.
+Unrelieved tax losses and other deferred tax assets are recognised when it is probable that they will be recovered against the reversal of deferred tax liabilities or other future taxable profits.
+Deferred tax is measured using the tax rates and laws that have been enacted or substantively enacted by the reporting date and that are expected to apply to the reversal of the timing difference.
+Tangible assets
+Tangible assets are stated in the balance sheet at cost, less any subsequent accumulated depreciation and subsequent accumulated impairment losses.
+The cost of tangible assets includes directly attributable incremental costs incurred in their acquisition and installation.
+Depreciation
+Depreciation is charged so as to write off the cost of assets, other than land and properties under construction over their estimated useful lives, as follows:
+Asset class
+Depreciation method and rate
+Office equipment
+15% reducing balance
+Amortisation
+Amortisation is provided on intangible assets so as to write off the cost, less any estimated residual value, over their useful life as follows:
+Asset class
+Amortisation method and rate
+Website development
+20% straight line
+Cash and cash equivalents
+Cash and cash equivalents comprise cash on hand and call deposits, and other short-term highly liquid investments that are readily convertible to a known amount of cash and are subject to an insignificant risk of change in value.
+Trade debtors
+Trade debtors are amounts due from customers for merchandise sold or services performed in the ordinary course of business.
+Trade debtors are recognised initially at the transaction price. They are subsequently measured at amortised cost using the effective interest method, less provision for impairment. A provision for the impairment of trade debtors is established when there is objective evidence that the company will not be able to collect all amounts due according to the original terms of the receivables.
+Trade creditors
+Trade creditors are obligations to pay for goods or services that have been acquired in the ordinary course of business from suppliers. Accounts payable are classified as current liabilities if the company does not have an unconditional right, at the end of the reporting period, to defer settlement of the creditor for at least twelve months after the reporting date. If there is an unconditional right to defer settlement for at least twelve months after the reporting date, they are presented as non-current liabilities.
+Trade creditors are recognised initially at the transaction price and subsequently measured at amortised cost using the effective interest method.
+Page 6
+Aspire Procurement Training Ltd
+Notes to the Unaudited Financial Statements for the Year Ended 31 July 2024
+Share capital
+Ordinary shares are classified as equity. Equity instruments are measured at the fair value of the cash or other resources received or receivable, net of the direct costs of issuing the equity instruments. If payment is deferred and the time value of money is material, the initial measurement is on a present value basis.
+Dividends
+Dividend distribution to the company’s shareholders is recognised as a liability in the financial statements in the reporting period in which the dividends are declared.
+Defined contribution pension obligation
+A defined contribution plan is a pension plan under which fixed contributions are paid into a pension fund and the company has no legal or constructive obligation to pay further contributions even if the fund does not hold sufficient assets to pay all employees the benefits relating to employee service in the current and prior periods.
+Contributions to defined contribution plans are recognised as employee benefit expense when they are due. If contribution payments exceed the contribution due for service, the excess is recognised as a prepayment.
+3
+Staff numbers
+The average number of persons employed by the company (including directors) during the year was
+10
+(2023 -
+9
+).
+4
+Intangible assets
+Internally generated software development costs
+£
+Total
+£
+Cost or valuation
+At 1 August 2023
+3,500
+3,500
+At 31 July 2024
+3,500
+3,500
+Amortisation
+At 1 August 2023
+1,575
+1,575
+Amortisation charge
+700
+700
+At 31 July 2024
+2,275
+2,275
+Carrying amount
+At 31 July 2024
+1,225
+1,225
+At 31 July 2023
+1,925
+1,925
+Page 7
+Aspire Procurement Training Ltd
+Notes to the Unaudited Financial Statements for the Year Ended 31 July 2024
+5
+Tangible assets
+Furniture, fittings and equipment
+£
+Total
+£
+Cost or valuation
+At 1 August 2023
+18,100
+18,100
+Additions
+2,847
+2,847
+At 31 July 2024
+20,947
+20,947
+Depreciation
+At 1 August 2023
+7,309
+7,309
+Charge for the year
+2,046
+2,046
+At 31 July 2024
+9,355
+9,355
+Carrying amount
+At 31 July 2024
+11,592
+11,592
+At 31 July 2023
+10,791
+10,791
+6
+Debtors
+2024
+£
+2023
+£
+Trade debtors
+54,501
+91,456
+Prepayments
+1,689
+-
+Other debtors
+151,090
+398
+207,280
+91,854
+7
+Creditors
+Creditors: amounts falling due within one year
+2024
+£
+2023
+£
+Due within one year
+Trade creditors
+15,000
+68,735
+Taxation and social security
+38,880
+48,859
+Accruals and deferred income
+418,746
+469,793
+Other creditors
+22,656
+17,772
+495,282
+605,159
+Page 8
+Aspire Procurement Training Ltd
+Notes to the Unaudited Financial Statements for the Year Ended 31 July 2024
+8
+Related party transactions
+Transactions with directors
+2024
+At 1 August 2023
+£
+Advances to director
+£
+At 31 July 2024
+£
+Mr M A Parker
+398
+572
+970
+Mr R D A Slater
+-
+150,120
+150,120
+2023
+At 1 August 2022
+£
+Advances to director
+£
+Repayments by director
+£
+At 31 July 2023
+£
+Mr M A Parker
+3,746
+398
+(
+3,746
+)
+398
+These loans are unsecured, repayable on demand and interest is charged at the official rate.
+Page 9

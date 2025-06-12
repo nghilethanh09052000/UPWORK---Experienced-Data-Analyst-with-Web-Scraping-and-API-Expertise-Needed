@@ -1,0 +1,701 @@
+TRS Training Limited - Accounts to registrar (filleted) - small 23.2.5
+IRIS Accounts Production
+v23.4.0.336
+08205251
+Board of Directors
+1.12.22
+30.11.23
+30.11.23
+false
+true
+false
+false
+false
+true
+false
+iso4217:GBP
+iso4217:USD
+iso4217:EUR
+xbrli:shares
+xbrli:pure
+utr:tonnes
+utr:kWh
+08205251
+2022-11-30
+08205251
+2023-11-30
+08205251
+2022-12-01
+2023-11-30
+08205251
+2022-03-31
+08205251
+2022-04-01
+2022-11-30
+08205251
+2022-11-30
+08205251
+ns15:EnglandWales
+2022-12-01
+2023-11-30
+08205251
+ns14:PoundSterling
+2022-12-01
+2023-11-30
+08205251
+ns10:Director1
+2022-12-01
+2023-11-30
+08205251
+ns10:PrivateLimitedCompanyLtd
+2022-12-01
+2023-11-30
+08205251
+ns10:SmallEntities
+2022-12-01
+2023-11-30
+08205251
+ns10:AuditExempt-NoAccountantsReport
+2022-12-01
+2023-11-30
+08205251
+ns10:SmallCompaniesRegimeForDirectorsReport
+2022-12-01
+2023-11-30
+08205251
+ns10:SmallCompaniesRegimeForAccounts
+2022-12-01
+2023-11-30
+08205251
+ns10:FullAccounts
+2022-12-01
+2023-11-30
+08205251
+1
+2022-12-01
+2023-11-30
+08205251
+ns10:Director2
+2022-12-01
+2023-11-30
+08205251
+ns10:Director3
+2022-12-01
+2023-11-30
+08205251
+ns10:RegisteredOffice
+2022-12-01
+2023-11-30
+08205251
+ns5:CurrentFinancialInstruments
+2023-11-30
+08205251
+ns5:CurrentFinancialInstruments
+2022-11-30
+08205251
+ns5:Non-currentFinancialInstruments
+2023-11-30
+08205251
+ns5:Non-currentFinancialInstruments
+2022-11-30
+08205251
+ns5:ShareCapital
+2023-11-30
+08205251
+ns5:ShareCapital
+2022-11-30
+08205251
+ns5:RetainedEarningsAccumulatedLosses
+2023-11-30
+08205251
+ns5:RetainedEarningsAccumulatedLosses
+2022-11-30
+08205251
+ns5:NetGoodwill
+2022-12-01
+2023-11-30
+08205251
+ns5:IntangibleAssetsOtherThanGoodwill
+2022-12-01
+2023-11-30
+08205251
+ns5:LeaseholdImprovements
+2022-12-01
+2023-11-30
+08205251
+ns5:FurnitureFittings
+2022-12-01
+2023-11-30
+08205251
+ns5:MotorVehicles
+2022-12-01
+2023-11-30
+08205251
+ns5:ComputerEquipment
+2022-12-01
+2023-11-30
+08205251
+ns5:OwnedAssets
+2022-12-01
+2023-11-30
+08205251
+ns5:OwnedAssets
+2022-04-01
+2022-11-30
+08205251
+ns5:NetGoodwill
+2022-04-01
+2022-11-30
+08205251
+ns5:NetGoodwill
+2022-11-30
+08205251
+ns5:NetGoodwill
+2023-11-30
+08205251
+ns5:NetGoodwill
+2022-11-30
+08205251
+ns5:LeaseholdImprovements
+2022-11-30
+08205251
+ns5:FurnitureFittings
+2022-11-30
+08205251
+ns5:MotorVehicles
+2022-11-30
+08205251
+ns5:ComputerEquipment
+2022-11-30
+08205251
+ns5:LeaseholdImprovements
+2023-11-30
+08205251
+ns5:FurnitureFittings
+2023-11-30
+08205251
+ns5:MotorVehicles
+2023-11-30
+08205251
+ns5:ComputerEquipment
+2023-11-30
+08205251
+ns5:LeaseholdImprovements
+2022-11-30
+08205251
+ns5:FurnitureFittings
+2022-11-30
+08205251
+ns5:MotorVehicles
+2022-11-30
+08205251
+ns5:ComputerEquipment
+2022-11-30
+08205251
+ns5:CurrentFinancialInstruments
+ns5:WithinOneYear
+2023-11-30
+08205251
+ns5:CurrentFinancialInstruments
+ns5:WithinOneYear
+2022-11-30
+08205251
+1
+ns10:Director1
+2022-11-30
+08205251
+1
+ns10:Director1
+2022-03-31
+08205251
+1
+ns10:Director1
+2022-12-01
+2023-11-30
+08205251
+1
+ns10:Director1
+2022-04-01
+2022-11-30
+08205251
+1
+ns10:Director1
+2023-11-30
+08205251
+1
+ns10:Director1
+2022-11-30
+REGISTERED NUMBER:
+08205251
+(England and Wales)
+Unaudited Financial Statements for the Year Ended 30 November 2023
+for
+TRS Training Limited
+TRS Training Limited (Registered number: 08205251)
+Contents of the Financial Statements
+for the Year Ended 30 November 2023
+Page
+Company Information
+1
+Income Statement
+2
+Balance Sheet
+3
+Notes to the Financial Statements
+5
+TRS Training Limited
+Company Information
+for the Year Ended 30 November 2023
+DIRECTORS:
+K Birch
+Mrs C A Woodward
+B Ellis
+REGISTERED OFFICE:
+Unit 4 Micklehead Business Village
+St Michaels Road
+Sutton Manor
+St. Helens
+Merseyside
+WA9 4YU
+REGISTERED NUMBER:
+08205251
+(England and Wales)
+ACCOUNTANTS:
+Myersons
+Chartered Accountants
+32 Derby Street
+Ormskirk
+Lancashire
+L39 2BY
+Page 1
+TRS Training Limited (Registered number: 08205251)
+Income Statement
+for the Year Ended 30 November 2023
+Period
+1.4.22
+Year Ended
+to
+30.11.23
+30.11.22
+Notes
+£
+£
+TURNOVER
+2,602,770
+1,572,105
+Cost of sales
+1,912,689
+1,100,199
+GROSS PROFIT
+690,081
+471,906
+Administrative expenses
+688,470
+477,023
+OPERATING PROFIT/(LOSS)
+4
+1,611
+(
+5,117
+)
+Interest receivable and similar income
+158
+1
+1,769
+(5,116
+)
+Interest payable and similar expenses
+16,774
+5,151
+LOSS BEFORE TAXATION
+(
+15,005
+)
+(
+10,267
+)
+Tax on loss
+-
+(
+8,430
+)
+LOSS FOR THE FINANCIAL YEAR
+(
+15,005
+)
+(
+1,837
+)
+The notes form part of these financial statements
+Page 2
+TRS Training Limited (Registered number: 08205251)
+Balance Sheet
+30 November 2023
+30.11.23
+30.11.22
+Notes
+£
+£
+£
+£
+FIXED ASSETS
+Intangible assets
+5
+26,478
+29,447
+Tangible assets
+6
+226,671
+179,113
+253,149
+208,560
+CURRENT ASSETS
+Debtors
+7
+360,827
+307,399
+Cash at bank
+39,895
+55,929
+400,722
+363,328
+CREDITORS
+Amounts falling due within one year
+8
+251,228
+288,011
+NET CURRENT ASSETS
+149,494
+75,317
+TOTAL ASSETS LESS CURRENT
+LIABILITIES
+402,643
+283,877
+CREDITORS
+Amounts falling due after more than one year
+9
+263,402
+129,631
+NET ASSETS
+139,241
+154,246
+CAPITAL AND RESERVES
+Called up share capital
+100
+100
+Retained earnings
+139,141
+154,146
+SHAREHOLDERS' FUNDS
+139,241
+154,246
+The company is entitled to exemption from audit under Section 477 of the Companies Act 2006 for the year ended 30 November 2023.
+The members have not required the company to obtain an audit of its financial statements for the year ended 30 November 2023 in accordance with Section 476 of the Companies Act 2006.
+The directors acknowledge their responsibilities for:
+(a)
+ensuring that the company keeps accounting records which comply with Sections 386 and 387 of the Companies Act
+2006 and
+(b)
+preparing financial statements which give a true and fair view of the state of affairs of the company as at the end of
+each financial year and of its profit or loss for each financial year in accordance with the requirements of Sections 394
+and 395 and which otherwise comply with the requirements of the Companies Act 2006 relating to financial
+statements, so far as applicable to the company.
+The notes form part of these financial statements
+Page 3
+continued...
+TRS Training Limited (Registered number: 08205251)
+Balance Sheet - continued
+30 November 2023
+The financial statements have been prepared and delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+The financial statements were approved by the Board of Directors and authorised for issue on
+26 March 2024
+and were
+signed on its behalf by:
+K Birch
+- Director
+The notes form part of these financial statements
+Page 4
+TRS Training Limited (Registered number: 08205251)
+Notes to the Financial Statements
+for the Year Ended 30 November 2023
+1.
+STATUTORY INFORMATION
+TRS Training Limited is a
+private company, limited by shares
+, registered in England and Wales. The company's
+registered number and registered office address can be found on the Company Information page.
+2.
+ACCOUNTING POLICIES
+Basis of preparing the financial statements
+These financial statements have been prepared in accordance with Financial Reporting Standard 102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland" including the provisions of Section 1A "Small Entities" and the Companies Act 2006. The financial statements have been prepared under the historical cost convention.
+Turnover
+Turnover is measured at the fair value of the consideration received or receivable, excluding discounts, rebates,
+value added tax and other sales taxes.
+Goodwill
+Goodwill, being the amount paid in connection with the acquisition of a business in 2012, is being amortised evenly over its estimated useful life of twenty years.
+Intangible assets
+Intangible assets are initially measured at cost. After initial recognition, intangible assets are measured at cost less
+any accumulated amortisation and any accumulated impairment losses.
+Tangible fixed assets
+Depreciation is provided at the following annual rates in order to write off each asset over its estimated useful life.
+Improvements to property
+-
+20% on reducing balance
+Fixtures and fittings
+-
+20% on reducing balance
+Motor vehicles
+-
+25% on reducing balance
+Computer equipment
+-
+33% on reducing balance
+Taxation
+Taxation for the year comprises current and deferred tax. Tax is recognised in the Income Statement, except to the
+extent that it relates to items recognised in other comprehensive income or directly in equity.
+Current or deferred taxation assets and liabilities are not discounted.
+Current tax is recognised at the amount of tax payable using the tax rates and laws that have been enacted or
+substantively enacted by the balance sheet date.
+Deferred tax
+Deferred tax is recognised in respect of all timing differences that have originated but not reversed at the balance
+sheet date.
+Timing differences arise from the inclusion of income and expenses in tax assessments in periods different from
+those in which they are recognised in financial statements. Deferred tax is measured using tax rates and laws that
+have been enacted or substantively enacted by the year end and that are expected to apply to the reversal of the
+timing difference.
+Unrelieved tax losses and other deferred tax assets are recognised only to the extent that it is probable that they will
+be recovered against the reversal of deferred tax liabilities or other future taxable profits.
+Page 5
+continued...
+TRS Training Limited (Registered number: 08205251)
+Notes to the Financial Statements - continued
+for the Year Ended 30 November 2023
+2.
+ACCOUNTING POLICIES - continued
+Hire purchase and leasing commitments
+Rentals paid under operating leases are charged to profit or loss on a straight line basis over the period of the lease.
+Pension costs and other post-retirement benefits
+The company operates a defined contribution pension scheme.
+Contributions payable to the company's pension
+scheme are charged to profit or loss in the period to which they relate.
+3.
+EMPLOYEES AND DIRECTORS
+The average number of employees during the year was
+41
+(2022 -
+37
+) .
+4.
+OPERATING PROFIT/(LOSS)
+The operating profit (2022 - operating loss) is stated after charging:
+Period
+1.4.22
+Year Ended
+to
+30.11.23
+30.11.22
+£
+£
+Depreciation - owned assets
+69,801
+33,706
+Goodwill amortisation
+2,969
+1,980
+5.
+INTANGIBLE FIXED ASSETS
+Goodwill
+£
+COST
+At 1 December 2022
+and 30 November 2023
+59,390
+AMORTISATION
+At 1 December 2022
+29,943
+Charge for year
+2,969
+At 30 November 2023
+32,912
+NET BOOK VALUE
+At 30 November 2023
+26,478
+At 30 November 2022
+29,447
+Page 6
+continued...
+TRS Training Limited (Registered number: 08205251)
+Notes to the Financial Statements - continued
+for the Year Ended 30 November 2023
+6.
+TANGIBLE FIXED ASSETS
+Improvements
+Fixtures
+to
+and
+Motor
+Computer
+property
+fittings
+vehicles
+equipment
+Totals
+£
+£
+£
+£
+£
+COST
+At 1 December 2022
+27,586
+49,272
+169,124
+47,197
+293,179
+Additions
+-
+-
+114,300
+3,059
+117,359
+At 30 November 2023
+27,586
+49,272
+283,424
+50,256
+410,538
+DEPRECIATION
+At 1 December 2022
+26,997
+31,537
+26,259
+29,273
+114,066
+Charge for year
+118
+4,235
+55,267
+10,181
+69,801
+At 30 November 2023
+27,115
+35,772
+81,526
+39,454
+183,867
+NET BOOK VALUE
+At 30 November 2023
+471
+13,500
+201,898
+10,802
+226,671
+At 30 November 2022
+589
+17,735
+142,865
+17,924
+179,113
+7.
+DEBTORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+30.11.23
+30.11.22
+£
+£
+Trade debtors
+336,789
+269,470
+Other debtors
+24,038
+37,929
+360,827
+307,399
+8.
+CREDITORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+30.11.23
+30.11.22
+£
+£
+Bank loans and overdrafts
+5,000
+5,000
+Hire purchase contracts
+53,654
+45,688
+Trade creditors
+70,780
+167,050
+Taxation and social security
+100,392
+39,559
+Other creditors
+21,402
+30,714
+251,228
+288,011
+9.
+CREDITORS: AMOUNTS FALLING DUE AFTER MORE THAN ONE
+YEAR
+30.11.23
+30.11.22
+£
+£
+Bank loans
+38,333
+43,333
+Hire purchase contracts
+91,465
+84,704
+Other creditors
+133,604
+1,594
+263,402
+129,631
+Page 7
+continued...
+TRS Training Limited (Registered number: 08205251)
+Notes to the Financial Statements - continued
+for the Year Ended 30 November 2023
+10.
+SECURED DEBTS
+The following secured debts are included within creditors:
+30.11.23
+30.11.22
+£
+£
+Hire purchase contracts
+145,119
+130,392
+11.
+DIRECTORS' ADVANCES, CREDITS AND GUARANTEES
+The following advances and credits to a director subsisted during the year ended 30 November 2023 and the period
+ended 30 November 2022:
+30.11.23
+30.11.22
+£
+£
+K Birch
+Balance outstanding at start of year
+4,217
+4,217
+Amounts repaid
+(
+4,217
+)
+-
+Amounts written off
+-
+-
+Amounts waived
+-
+-
+Balance outstanding at end of year
+-
+4,217
+12.
+RELATED PARTY DISCLOSURES
+Included in long term liabilities is a loan from an associated company of £91,594. This loan is interest free and is not
+repayable within the next 12 months.
+The controlling party is
+K Birch.
+Page 8

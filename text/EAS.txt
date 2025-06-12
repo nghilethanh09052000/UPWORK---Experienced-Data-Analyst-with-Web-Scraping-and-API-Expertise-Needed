@@ -1,0 +1,521 @@
+EAS_MECHANICAL_LIMITED - Accounts
+Company Registration No. 06822492 (England and Wales)
+EAS MECHANICAL LIMITED
+UNAUDITED FINANCIAL STATEMENTS
+FOR THE YEAR ENDED
+28 FEBRUARY 2025
+PAGES FOR FILING WITH REGISTRAR
+33 Boston Road South
+Holbeach
+Spalding
+Lincolnshire
+PE12 7LR
+EAS MECHANICAL LIMITED
+CONTENTS
+Page
+Balance sheet
+1 - 2
+Notes to the financial statements
+3 - 8
+EAS MECHANICAL LIMITED
+BALANCE SHEET
+AS AT
+28 FEBRUARY 2025
+28 February 2025
+- 1 -
+28 February 2025
+2024
+Notes
+£
+£
+£
+£
+Fixed assets
+Tangible assets
+4
+45,857
+46,781
+Current assets
+Debtors
+5
+32,518
+28,728
+Cash at bank and in hand
+16,072
+109,084
+48,590
+137,812
+Creditors: amounts falling due within one year
+6
+(
+11,029
+)
+(
+54,158
+)
+Net current assets
+37,561
+83,654
+Total assets less current liabilities
+83,418
+130,435
+Provisions for liabilities
+(
+5,451
+)
+(
+5,532
+)
+Net assets
+77,967
+124,903
+Capital and reserves
+Called up share capital
+100
+100
+Profit and loss reserves
+77,867
+124,803
+Total equity
+77,967
+124,903
+The directors of the company have elected not to include a copy of the profit and loss account within the financial statements.
+true
+For the financial year ended 28 February 2025 the company was entitled to exemption from audit under section 477 of the Companies Act 2006
+relating to small companies.
+The directors acknowledge their responsibilities for complying with the requirements of the Companies Act 2006 with respect to accounting records and the preparation of financial statements.
+T
+he members have not required the company to obtain an audit of its financial statements for the year in question in accordance with section 476
+.
+These financial statements have been prepared and delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+EAS MECHANICAL LIMITED
+BALANCE SHEET (CONTINUED)
+AS AT
+28 FEBRUARY 2025
+28 February 2025
+- 2 -
+The financial statements were approved by the board of directors and authorised for issue on
+8 May 2025
+and are signed on its behalf by:
+Mr E Wilson
+Mrs J E Wilson
+Director
+Director
+Company registration number
+06822492
+(England and Wales)
+EAS MECHANICAL LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 28 FEBRUARY 2025
+- 3 -
+1
+Accounting policies
+Company information
+EAS Mechanical Limited is a
+private
+company
+limited by shares
+incorporated in
+England and Wales
+.
+The registered office is
+Unit 3, 69 St James Mill Road, Northampton, NN5 5JP.
+1.1
+Accounting convention
+These financial statements have been prepared in accordance with FRS 102 “The Financial Reporting Standard applicable in the UK and Republic of Ireland” (“FRS 102”) and the requirements of the Companies Act 2006 as applicable to companies subject to the small companies regime. The disclosure requirements of section 1A of FRS 102 have been applied other than where additional disclosure is required to show a true and fair view.
+The financial statements are prepared in
+sterling
+, which is the functional currency of the company.
+Monetary a
+mounts
+in these financial statements are
+rounded to the nearest £.
+The financial statements have been prepared under the historical cost convention, [modified to include the revaluation of freehold properties and to include investment properties and certain financial instruments at fair value]. The principal accounting policies adopted are set out below.
+1.2
+Going concern
+A
+true
+t the time of approving the financial statements
+,
+t
+he directors have a reasonable expectation that the
+company
+has adequate resources to continue in operational existence for the foreseeable future. Thus
+t
+he directors continue to adopt the going concern basis of accounting in preparing the financial statements.
+1.3
+Turnover
+Turnover is recognised at the fair value of the consideration received or receivable for goods and services provided in the normal course of business
+, and
+is shown net of VAT and other sales related taxes
+.
+The fair value of consideration takes into account trade discounts, settlement discounts and volume rebates.
+When cash inflows are deferred and represent a financing arrangement, the fair value of the consideration is the present value of the future receipts. The difference between the fair value of the consideration and the nominal amount received is recognised as interest income.
+Revenue from the sale of goods is recognised when the significant risks and rewards of ownership of the goods have passed to the buyer
+(usually on dispatch of the goods)
+, the amount of revenue can be measured reliably, it is probable that the economic benefits associated with the transaction will flow to the entity and the costs incurred or to be incurred in respect of the transaction can be measured reliably.
+1.4
+Tangible fixed assets
+Tangible fixed assets
+are initially measured at cost and subsequently measured at cost or valuation, net of depreciation and any impairment losses.
+EAS MECHANICAL LIMITED
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 28 FEBRUARY 2025
+1
+Accounting policies
+(Continued)
+- 4 -
+Depreciation is recognised so as to write off the cost or valuation of assets less their residual values over their useful lives on the following bases:
+Building improvements
+No depreciation
+Fixtures and fittings
+25% straight line
+Computer equipment
+25% straight line
+The gain or loss arising on the disposal of an asset is determined as the difference between the sale proceeds and the carrying value of the asset, and
+is credited or charged to profit or loss
+.
+1.5
+Impairment of fixed assets
+At each reporting
+period
+end date, the
+company
+reviews the carrying amounts of its tangible
+assets to determine whether there is any indication that those assets have suffered an impairment loss. If any such indication exists, the recoverable amount of the asset is estimated in order to determine the extent of the impairment loss (if any). Where it is not possible to estimate the recoverable amount of an individual asset, the
+company
+estimates the recoverable amount of the cash-generating unit to which the asset belongs.
+Recoverable amount is the higher of fair value less costs to sell and value in use. In assessing value in use, the estimated future cash flows are discounted to their present value using a pre-tax discount rate that reflects current market assessments of the time value of money and the risks specific to the asset for which the estimates of future cash flows have not been adjusted.
+If the recoverable amount of an asset (or cash-generating unit) is estimated to be less than its carrying amount, the carrying amount of the asset (or cash-generating unit) is reduced to its recoverable amount. An impairment loss is recognised immediately in
+profit
+or
+loss
+, unless the relevant asset is carried at a revalued amount, in which case the impairment loss is treated as a revaluation decrease.
+Recognised impairment losses are reversed if, and only if, the reasons for the impairment loss have ceased to apply. Where an impairment loss subsequently reverses, the carrying amount of the asset (or cash-generating unit) is increased to the revised estimate of its recoverable amount, but so that the increased carrying amount does not exceed the carrying amount that would have been determined had no impairment loss been recognised for the asset (or cash-generating unit)
+in
+prior years. A reversal of an impairment loss is recognised immediately in
+profit
+or
+loss
+, unless the relevant asset is carried at a revalued amount, in which case the reversal of the impairment loss is treated as a revaluation increase.
+1.6
+Cash and cash equivalents
+Cash and cash equivalents
+are basic financial assets
+and
+include cash in hand, deposits held at call with banks, other short-term liquid investments with original maturities of three months or less, and bank overdrafts. Bank overdrafts are shown within borrowings in current liabilities.
+EAS MECHANICAL LIMITED
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 28 FEBRUARY 2025
+1
+Accounting policies
+(Continued)
+- 5 -
+1.7
+Financial instruments
+The company has elected to apply the provisions of Section 11 ‘Basic Financial Instruments’ and Section 12 ‘Other Financial Instruments Issues’ of FRS 102 to all of its financial instruments.
+Financial instruments are recognised in the company's balance sheet when the company becomes party to the contractual provisions of the instrument.
+Financial assets and liabilities are offset
+, with
+the net amounts presented in the financial statements
+,
+when there is a legally enforceable right to set off the recognised amounts and there is an intention to settle on a net basis or to realise the asset and settle the liability simultaneously.
+Basic financial assets
+Basic financial assets, which include
+debtors
+and cash and bank balances, are initially measured at transaction price including transaction costs and are subsequently carried at amortised cost using the effective interest
+method unless the arrangement constitutes a financing transaction, where the transaction is measured at the present value of the future receipts discounted at a market rate of interest.
+Financial assets classified as receivable within one year are not amortised.
+Classification of financial liabilities
+Financial liabilities and equity instruments are classified according to the substance of the contractual arrangements entered into. An equity instrument is any contract that evidences a residual interest in the assets of the company after deducting all of its liabilities.
+Basic financial liabilities
+Basic financial liabilities, including
+creditors
+, bank loans, loans from
+fellow group companies and preference shares that are classified as debt, are
+initially recognised at transaction price unless the arrangement constitutes a
+financing transaction, where the debt instrument is measured at the present value of
+the future
+paymen
+ts discounted at a market rate of interest.
+Financial liabilities classified as payable within one year are not amortised.
+Debt instruments are subsequently carried at amortised cost, using the effective
+interest rate method.
+Trade creditors
+are obligations to pay for goods or services that have been acquired
+in the ordinary course of business from suppliers. A
+m
+ounts payable are classified as
+current liabilities if payment is due within one year or less. If not, they are presented
+as non-current liabilities.
+Trade creditors
+are recognised initially at transaction price
+and subsequently measured at amortised cost using the effective interest method.
+1.8
+Equity instruments
+Equity instruments issued by the company are recorded at the proceeds received, net of transaction costs. Dividends payable on equity instruments are recognised as liabilities once they are no longer at the discretion of the company.
+1.9
+Taxation
+The tax expense represents the sum of the tax currently payable and deferred tax.
+EAS MECHANICAL LIMITED
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 28 FEBRUARY 2025
+1
+Accounting policies
+(Continued)
+- 6 -
+Current tax
+The tax currently payable is based on taxable profit for the year. Taxable profit differs from net profit as reported in the
+profit and loss account
+because it excludes items of income or expense that are taxable or deductible in other years and it further excludes items that are never taxable or deductible. The
+company’s
+liability for current tax is calculated using tax rates that have been enacted or substantively enacted by the reporting end date.
+Deferred tax
+Deferred tax liabilities are generally recognised for all timing differences and deferred tax assets are recognised to the extent that it is probable that they will be recovered against the reversal of deferred tax liabilities or other future taxable profits. Such assets and liabilities are not recognised if the timing difference arises from goodwill or from the initial recognition of other assets and liabilities in a transaction that affects neither the tax profit nor the accounting profit.
+The carrying amount of deferred tax assets is reviewed at each reporting end date and reduced to the extent that it is no longer probable that sufficient taxable profits will be available to allow all or part of the asset to be recovered. Deferred tax is calculated at the tax rates that are expected to apply in the period when the liability is settled or the asset is realised. Deferred tax is charged or credited in the
+profit and loss account
+, except when it relates to items charged or credited directly to equity, in which case the deferred tax is also dealt with in equity. Deferred tax assets and liabilities are offset when the
+company
+has a legally enforceable right to offset current tax assets and liabilities and the deferred tax assets and liabilities relate to taxes levied by the same tax authority.
+1.10
+Employee benefits
+The costs of short-term employee benefits are recognised as a liability and an expense, unless those costs are required to be recognised as part of the cost of stock or
+fixed assets
+.
+The cost of any unused holiday entitlement is recognised in the period in which the employee’s services are received.
+Termination benefits are recognised immediately as an expense when the company is demonstrably committed to terminate the employment of an employee or to provide termination benefits.
+1.11
+Retirement benefits
+Payments to defined contribution retirement benefit schemes are charged as an expense as they fall due.
+2
+Judgements and key sources of estimation uncertainty
+In the application of the company’s accounting policies, the directors are required to make judgements, estimates and assumptions about the carrying amount of assets and liabilities that are not readily apparent from other sources. The estimates and associated assumptions are based on historical experience and other factors that are considered to be relevant. Actual results may differ from these estimates.
+The estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to accounting estimates are recognised in the period in which the estimate is revised where the revision affects only that period, or in the period of the revision and future periods where the revision affects both current and future periods.
+EAS MECHANICAL LIMITED
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 28 FEBRUARY 2025
+- 7 -
+3
+Employees
+The average monthly number of persons (including directors) employed by the company during the year was:
+2025
+2024
+Number
+Number
+Total
+13
+11
+4
+Tangible fixed assets
+Building improvements
+Fixtures and fittings
+Computer equipment
+Total
+£
+£
+£
+£
+Cost
+At 1 March 2024
+68,647
+9,585
+22,482
+100,714
+Additions
+-
+0
+-
+0
+3,258
+3,258
+At 28 February 2025
+68,647
+9,585
+25,740
+103,972
+Depreciation and impairment
+At 1 March 2024
+28,905
+8,706
+16,322
+53,933
+Depreciation charged in the year
+-
+0
+691
+3,491
+4,182
+At 28 February 2025
+28,905
+9,397
+19,813
+58,115
+Carrying amount
+At 28 February 2025
+39,742
+188
+5,927
+45,857
+At 29 February 2024
+39,742
+879
+6,160
+46,781
+5
+Debtors
+2025
+2024
+Amounts falling due within one year:
+£
+£
+Trade debtors
+19,318
+15,528
+Other debtors
+13,200
+13,200
+32,518
+28,728
+EAS MECHANICAL LIMITED
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 28 FEBRUARY 2025
+- 8 -
+6
+Creditors: amounts falling due within one year
+2025
+2024
+£
+£
+Taxation and social security
+5,783
+46,970
+Other creditors
+5,246
+7,188
+11,029
+54,158
+2025-02-28
+2024-03-01
+false
+false
+false
+08 May 2025
+CCH Software
+CCH Accounts Production 2025.100
+No description of principal activity
+Mr Eamon Wilson
+Mrs Jennie E Wilson
+06822492
+2024-03-01
+2025-02-28
+06822492
+2025-02-28
+06822492
+2024-02-29
+06822492
+core:LeaseholdImprovements
+2025-02-28
+06822492
+core:FurnitureFittings
+2025-02-28
+06822492
+core:ComputerEquipment
+2025-02-28
+06822492
+core:LeaseholdImprovements
+2024-02-29
+06822492
+core:FurnitureFittings
+2024-02-29
+06822492
+core:ComputerEquipment
+2024-02-29
+06822492
+core:CurrentFinancialInstruments
+core:WithinOneYear
+2025-02-28
+06822492
+core:CurrentFinancialInstruments
+core:WithinOneYear
+2024-02-29
+06822492
+core:CurrentFinancialInstruments
+2025-02-28
+06822492
+core:CurrentFinancialInstruments
+2024-02-29
+06822492
+core:ShareCapital
+2025-02-28
+06822492
+core:ShareCapital
+2024-02-29
+06822492
+core:RetainedEarningsAccumulatedLosses
+2025-02-28
+06822492
+core:RetainedEarningsAccumulatedLosses
+2024-02-29
+06822492
+bus:Director1
+2024-03-01
+2025-02-28
+06822492
+bus:Director2
+2024-03-01
+2025-02-28
+06822492
+core:LeaseholdImprovements
+2024-03-01
+2025-02-28
+06822492
+core:FurnitureFittings
+2024-03-01
+2025-02-28
+06822492
+core:ComputerEquipment
+2024-03-01
+2025-02-28
+06822492
+2023-03-01
+2024-02-29
+06822492
+core:LeaseholdImprovements
+2024-02-29
+06822492
+core:FurnitureFittings
+2024-02-29
+06822492
+core:ComputerEquipment
+2024-02-29
+06822492
+2024-02-29
+06822492
+core:WithinOneYear
+2025-02-28
+06822492
+core:WithinOneYear
+2024-02-29
+06822492
+bus:PrivateLimitedCompanyLtd
+2024-03-01
+2025-02-28
+06822492
+bus:SmallCompaniesRegimeForAccounts
+2024-03-01
+2025-02-28
+06822492
+bus:FRS102
+2024-03-01
+2025-02-28
+06822492
+bus:AuditExemptWithAccountantsReport
+2024-03-01
+2025-02-28
+06822492
+bus:FullAccounts
+2024-03-01
+2025-02-28
+xbrli:pure
+xbrli:shares
+iso4217:GBP

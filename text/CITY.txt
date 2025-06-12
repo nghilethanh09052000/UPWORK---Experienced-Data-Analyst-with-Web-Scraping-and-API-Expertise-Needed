@@ -1,0 +1,447 @@
+City Skills Limited - Accounts
+2023-10-01
+2024-09-30
+false
+Capium Accounts Production
+1.1
+10951894
+2023-10-01
+2024-09-30
+10951894
+bus:FullAccounts
+2023-10-01
+2024-09-30
+10951894
+bus:FRS102
+2023-10-01
+2024-09-30
+10951894
+bus:AuditExempt-NoAccountantsReport
+2023-10-01
+2024-09-30
+10951894
+bus:SmallCompaniesRegimeForAccounts
+2023-10-01
+2024-09-30
+10951894
+bus:PrivateLimitedCompanyLtd
+2023-10-01
+2024-09-30
+10951894
+2023-10-01
+2024-09-30
+10951894
+2024-09-30
+10951894
+bus:RegisteredOffice
+2023-10-01
+2024-09-30
+10951894
+core:WithinOneYear
+2024-09-30
+10951894
+core:AfterOneYear
+2024-09-30
+10951894
+1
+2023-10-01
+2024-09-30
+10951894
+bus:Director1
+2023-10-01
+2024-09-30
+10951894
+bus:Director1
+2024-09-30
+10951894
+bus:Director1
+2022-10-01
+2023-09-30
+10951894
+bus:Director2
+2023-10-01
+2024-09-30
+10951894
+bus:Director2
+2024-09-30
+10951894
+bus:Director2
+2022-10-01
+2023-09-30
+10951894
+bus:Director3
+2023-10-01
+2024-09-30
+10951894
+bus:Director3
+2024-09-30
+10951894
+bus:Director3
+2022-10-01
+2023-09-30
+10951894
+bus:Director4
+2023-10-01
+2024-09-30
+10951894
+bus:Director4
+2024-09-30
+10951894
+bus:Director4
+2022-10-01
+2023-09-30
+10951894
+2022-10-01
+10951894
+bus:LeadAgentIfApplicable
+2023-10-01
+2024-09-30
+10951894
+2022-10-01
+2023-09-30
+10951894
+2023-09-30
+10951894
+core:WithinOneYear
+2023-09-30
+10951894
+core:AfterOneYear
+2023-09-30
+10951894
+bus:EntityAccountantsOrAuditors
+2022-10-01
+2023-09-30
+10951894
+core:MotorCars
+2023-10-01
+2024-09-30
+10951894
+core:MotorCars
+2024-09-30
+10951894
+core:MotorCars
+2023-09-30
+10951894
+core:FurnitureFittings
+2023-10-01
+2024-09-30
+10951894
+core:FurnitureFittings
+2024-09-30
+10951894
+core:FurnitureFittings
+2023-09-30
+10951894
+core:ComputerEquipment
+2023-10-01
+2024-09-30
+10951894
+core:ComputerEquipment
+2024-09-30
+10951894
+core:ComputerEquipment
+2023-09-30
+10951894
+core:LeasedAssetsHeldAsLessee
+core:PlantMachinery
+2024-09-30
+10951894
+core:LeasedAssetsHeldAsLessee
+core:PlantMachinery
+2023-09-30
+10951894
+core:CostValuation
+core:Non-currentFinancialInstruments
+2024-09-30
+10951894
+core:CostValuation
+core:Non-currentFinancialInstruments
+2023-09-30
+10951894
+core:AdditionsToInvestments
+core:Non-currentFinancialInstruments
+2024-09-30
+10951894
+core:DisposalsDecreaseInInvestments
+core:Non-currentFinancialInstruments
+2024-09-30
+10951894
+core:RevaluationsIncreaseDecreaseInInvestments
+core:Non-currentFinancialInstruments
+2024-09-30
+10951894
+core:Non-currentFinancialInstruments
+2024-09-30
+10951894
+core:Non-currentFinancialInstruments
+2023-09-30
+10951894
+core:ShareCapital
+2024-09-30
+10951894
+core:ShareCapital
+2023-09-30
+10951894
+core:RetainedEarningsAccumulatedLosses
+2024-09-30
+10951894
+core:RetainedEarningsAccumulatedLosses
+2023-09-30
+10951894
+dpl:Item1
+2023-10-01
+10951894
+dpl:Item1
+2024-09-30
+10951894
+dpl:Item1
+2022-10-01
+10951894
+dpl:Item1
+2023-09-30
+iso4217:GBP
+xbrli:shares
+xbrli:pure
+Registered Number:
+10951894
+England and Wales
+CITY SKILLS LIMITED
+Filleted Accounts
+Period of accounts
+Start date:
+01 October 2023
+End date:
+30 September 2024
+City Skills Limited
+Balance Sheet
+As at
+30 September 2024
+Notes
+2024
+£
+2023
+£
+Fixed assets
+Tangible fixed assets
+3
+79,855
+9,432
+79,855
+9,432
+Current assets
+Debtors
+4
+237,619
+211,533
+Cash at bank and in hand
+27,746
+70,563
+265,365
+282,096
+Creditors: amount falling due within one year
+5
+(
+146,451
+)
+(
+156,234
+)
+Net current assets
+118,914
+125,862
+Total assets less current liabilities
+198,769
+135,294
+Creditors: amount falling due after more than one year
+6
+(
+131,655
+)
+(
+53,253
+)
+Net assets
+67,114
+82,041
+Capital and reserves
+Called up share capital
+4
+4
+Profit and loss account
+67,110
+82,037
+Shareholders' funds
+67,114
+82,041
+For the year ended 30 September 2024 the company was entitled to exemption from audit under section 477 of the Companies Act 2006 relating to small companies.
+Directors' responsibilities:
+The members have not required the company to obtain an audit of its accounts for the year in question in accordance with section 476.
+The directors acknowledge their responsibilities for complying with the requirements of the Companies Act 2006 with respect to accounting records and the preparation of accounts.
+These financial statements have been prepared and delivered in accordance with the provisions applicable to companies subject to the small companies regime. In accordance with Section 444 of the Companies Act 2006, the profit and loss account has not been delivered to the Registrar of Companies.
+The financial statements were approved by the board of directors on
+25 April 2025
+and were signed on its behalf by:
+-------------------------------
+R Holmden
+Director
+1
+City Skills Limited
+Notes to the Financial Statements
+For the year ended 30 September 2024
+General Information
+City Skills Limited is a private company, limited by shares, registered in England and Wales, registration number 10951894, registration address Suite 211A Peel House, 34-44 London Road, Morden, SM4 5BT.
+The presentation currency is £ sterling.
+1.
+Accounting policies
+Significant accounting policies
+Statement of compliance
+These financial statements have been prepared in compliance with FRS 102 – The Financial Reporting Standard applicable in the UK and Republic of Ireland and the Companies Act 2006.
+Basis of preparation
+The financial statements have been prepared
+under the historical cost convention as modified by the revaluation of land and buildings and certain financial instruments measured at fair value in accordance with the accounting policies.
+The financial statements are prepared in sterling which is the functional currency of the company.
+Tangible fixed assets
+Tangible fixed assets, other than freehold land, are stated at cost or valuation less depreciation and any provision for impairment. Depreciation is provided at rates calculated to write off the cost or valuation of fixed assets, less their estimated residual value, over their expected useful lives on the following basis:
+Computer Equipment
+33.33% Reducing Balance
+Fixtures and Fittings
+25% Reducing Balance
+2.
+Average number of employees
+Average number of employees during the year was
+10
+(2023 :
+10
+).
+3.
+Tangible fixed assets
+Cost or valuation
+Motor Vehicles
+Fixtures and Fittings
+Computer Equipment
+Total
+£
+£
+£
+£
+At 01 October 2023
+-
+1,542
+26,222
+27,764
+Additions
+94,500
+-
+3,942
+98,442
+Disposals
+-
+-
+-
+-
+At 30 September 2024
+94,500
+1,542
+30,164
+126,206
+Depreciation
+At 01 October 2023
+-
+785
+17,547
+18,332
+Charge for year
+23,625
+189
+4,205
+28,019
+On disposals
+-
+-
+-
+-
+At 30 September 2024
+23,625
+974
+21,752
+46,351
+Net book values
+Closing balance as at 30 September 2024
+70,875
+568
+8,412
+79,855
+Opening balance as at 01 October 2023
+-
+757
+8,675
+9,432
+4.
+Debtors: amounts falling due within one year
+2024
+£
+2023
+£
+Trade Debtors
+222,888
+209,093
+Other Debtors
+2,440
+2,440
+Directors' Current Accounts
+12,291
+0
+237,619
+211,533
+5.
+Creditors: amount falling due within one year
+2024
+£
+2023
+£
+Trade Creditors
+55,359
+79,598
+Corporation Tax
+48,691
+50,050
+PAYE & Social Security
+39,981
+24,137
+Other Creditors
+1
+(
+1
+)
+Wages & Salaries Control Account
+0
+0
+Pension Payable
+2,419
+1,993
+Directors' Current Accounts
+0
+457
+146,451
+156,234
+6.
+Creditors: amount falling due after more than one year
+2024
+£
+2023
+£
+Loan
+3,481
+5,484
+Business Loan
+31,249
+47,769
+Small Business Loan
+14,717
+0
+Car Loan
+82,208
+0
+131,655
+53,253
+2

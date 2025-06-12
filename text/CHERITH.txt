@@ -1,0 +1,346 @@
+Cherith Simmons Learning & Development LLP
+1 August 2023
+false
+No description of principal activity
+Taxfiler
+2024.6
+OC378835
+business:LimitedLiabilityPartnershipLLP
+2023-08-01
+2024-07-31
+OC378835
+2023-07-31
+OC378835
+2023-08-01
+2024-07-31
+OC378835
+business:AuditExemptWithAccountantsReport
+2023-08-01
+2024-07-31
+OC378835
+business:FullAccounts
+2023-08-01
+2024-07-31
+OC378835
+2024-07-31
+OC378835
+business:PartnerLLP2
+2023-08-01
+2024-07-31
+OC378835
+business:PartnerLLP3
+2023-08-01
+2024-07-31
+OC378835
+business:RegisteredOffice
+2023-08-01
+2024-07-31
+OC378835
+2023-07-31
+OC378835
+core:WithinOneYear
+2024-07-31
+OC378835
+core:WithinOneYear
+2023-07-31
+OC378835
+core:AfterOneYear
+2024-07-31
+OC378835
+core:AfterOneYear
+2023-07-31
+OC378835
+business:SmallEntities
+2023-08-01
+2024-07-31
+OC378835
+core:FurnitureFittings
+2023-08-01
+2024-07-31
+OC378835
+core:ComputerEquipment
+2023-08-01
+2024-07-31
+OC378835
+countries:EnglandWales
+2023-08-01
+2024-07-31
+OC378835
+core:FurnitureFittings
+2023-07-31
+OC378835
+core:ComputerEquipment
+2023-07-31
+OC378835
+core:FurnitureFittings
+2024-07-31
+OC378835
+core:ComputerEquipment
+2024-07-31
+OC378835
+core:WithinOneYear
+2023-08-01
+2024-07-31
+OC378835
+core:AfterOneYear
+2023-08-01
+2024-07-31
+OC378835
+2022-08-01
+2023-07-31
+iso4217:GBP
+xbrli:pure
+Registered No.
+OC378835
+(England and Wales)
+Cherith Simmons Learning & Development LLP
+Unaudited accounts
+for the year ended
+31 July 2024
+Cherith Simmons Learning & Development LLP
+LLP Information
+for the year ended
+31 July 2024
+Designated members
+Mrs Cherith
+Simmons
+Mr Peter Waddell
+Registered Number
+OC378835
+(England and Wales)
+Registered Office
+135 - 137 Station Road
+Addlestone
+KT15 2AT
+Accountants
+GMT Accounting Ltd
+5 Sedcombe Close
+Sidcup
+Kent
+DA14 4QG
+- 2 -
+Cherith Simmons Learning & Development LLP
+Statement of financial position
+as at
+31 July 2024
+2024
+2023
+Notes
+£
+£
+Fixed assets
+Tangible assets
+3
+1,055
+1,406
+Current assets
+Debtors
+38,665
+12,835
+Cash at bank and in hand
+11,552
+53,003
+50,217
+65,838
+Creditors: amounts falling due within one year
+4
+(
+46,315
+)
+(
+85,314
+)
+Net current assets/(liabilities)
+3,902
+(
+19,476
+)
+Total assets less current liabilities
+4,957
+(
+18,070
+)
+Creditors: amounts falling due after more than one year
+5
+(
+9,375
+)
+(
+20,626
+)
+Net liabilities attributable to members
+(
+4,418
+)
+(
+38,696
+)
+Represented by:
+Loans and other debts due to members
+6
+(4,418)
+(38,696)
+(4,418)
+(38,696)
+Total members' interests
+Loans and other debts due to members
+(4,418)
+(38,696)
+(4,418)
+(38,696)
+For the year ending
+31 July 2024
+the LLP was entitled to exemption under section 477 of the Companies Act 2006 (as applied to LLPs) relating to small LLPs.
+The members acknowledge their responsibilities for complying with the requirements of the Companies Act 2006 (as applied to LLPs) with respect to accounting records and the preparation of accounts.
+These accounts have been prepared and delivered in accordance with the provisions applicable to LLPs subject to the small LLPs regime.
+The profit and loss account has not been delivered to the Registrar of Companies.
+Approved by the members on
+27 January 2025
+.
+Mr Peter Waddell
+Designated member
+Limited Liability Partnership Registration No.
+OC378835
+- 3 -
+Cherith Simmons Learning & Development LLP
+Notes to the Accounts
+for the year ended
+31 July 2024
+1
+Accounting policies
+Basis of preparation
+The accounts have been prepared under the historical cost convention and in accordance with FRS 102, the Financial Reporting Standard applicable in the UK and Republic of Ireland (as applied to small entities by section 1A of the standard) and the Statement of Recommended Practice (SORP), Accounting by Limited Liability Partnerships.
+Presentation currency
+The accounts are presented in £ sterling.
+Tangible fixed assets and depreciation
+Tangible assets are included at cost less depreciation and impairment. Depreciation has been provided at the following rates in order to write off the assets over their estimated useful lives:
+Fixtures & fittings
+20% reducing balance
+Computer equipment
+3 year straight line
+2
+Statutory information
+Cherith Simmons Learning & Development LLP
+is a limited liability partnership, incorporated in England and Wales
+, registration number
+OC378835
+. Its registered office is
+135 - 137 Station Road
+,
+Addlestone
+,
+KT15 2AT
+.
+3
+Tangible fixed assets
+Fixtures & fittings
+Computer equipment
+Total
+£
+£
+£
+Cost or valuation
+At cost
+At cost
+At 1 August 2023
+2,871
+409
+3,280
+At
+31 July 2024
+2,871
+409
+3,280
+Depreciation
+At 1 August 2023
+1,794
+80
+1,874
+Charge for the year
+215
+136
+351
+At
+31 July 2024
+2,009
+216
+2,225
+Net book value
+At
+31 July 2024
+862
+193
+1,055
+At 31 July 2023
+1,077
+329
+1,406
+- 4 -
+Cherith Simmons Learning & Development LLP
+Notes to the Accounts
+for the year ended
+31 July 2024
+4
+Creditors: amounts falling due within one year
+2024
+2023
+£
+£
+Bank loans and overdrafts
+11,250
+11,250
+Trade creditors
+32,494
+22,605
+Taxes and social security costs
+2,333
+2,782
+Other creditors
+238
+177
+Deferred income
+-
+48,500
+46,315
+85,314
+Bank loans and overdrafts balance is made up of:
+Coronavirus Business Interruption Loan: £11,250
+Other creditors balance is made up of:
+Pension liability: £238
+5
+Creditors: amounts falling due after more than one year
+2024
+2023
+£
+£
+Bank loans
+9,375
+20,626
+The full £9,375 noted relates to the Coronavirus Business Interruption Loan
+6
+Loans and other debts due to members
+2024
+2023
+£
+£
+Amounts due to members in respect of profits
+(4,418)
+(38,696)
+Amounts falling due within one year
+(4,418)
+(38,696)
+Represented by:
+Partners' Capital Accounts
+Preethi Gambhir: £0
+Cherith Simmons: (£2,323)
+Jeremy West: £454
+Peter Waddell: (£2,549)
+Loans and other debts due to members rank equally with debts due to other unsecured creditors in the event of a winding up.
+7
+Average number of employees
+During the year the average number of employees was
+6
+(2023:
+6
+).
+- 5 -

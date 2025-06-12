@@ -1,0 +1,200 @@
+Accounts Submission
+Company Accounts and Tax Online
+10857028
+Board of Directors
+1.1.23
+31.12.23
+31.12.23
+No description of principal activity
+false
+iso4217:GBP
+xbrli:pure
+10857028
+2022-01-01
+2022-12-31
+10857028
+2023-12-31
+10857028
+2023-01-01
+2023-12-31
+10857028
+2022-12-31
+10857028
+countries:EnglandWales
+2023-01-01
+2023-12-31
+10857028
+curr:PoundSterling
+2023-01-01
+2023-12-31
+10857028
+uk-bus:PrivateLimitedCompanyLtd
+2023-01-01
+2023-12-31
+10857028
+uk-bus:Micro-entities
+2023-01-01
+2023-12-31
+10857028
+uk-bus:AuditExempt-NoAccountantsReport
+2023-01-01
+2023-12-31
+10857028
+uk-bus:FullAccounts
+2023-01-01
+2023-12-31
+10857028
+uk-bus:RegisteredOffice
+2023-01-01
+2023-12-31
+10857028
+uk-bus:Director1
+2023-01-01
+2023-12-31
+10857028
+uk-bus:Director1
+2023-01-01
+10857028
+uk-bus:Director1
+2023-12-31
+10857028
+core:AfterOneYear
+2023-12-31
+10857028
+core:AfterOneYear
+2022-12-31
+10857028
+core:WithinOneYear
+2023-12-31
+10857028
+core:WithinOneYear
+2022-12-31
+10857028
+core:WithinOneYear
+2023-01-01
+2023-12-31
+10857028
+core:AfterOneYear
+2023-12-31
+10857028
+core:AfterOneYear
+2022-12-31
+10857028
+core:AfterOneYear
+2023-01-01
+2023-12-31
+10857028
+core:ShareCapital
+2023-12-31
+10857028
+core:ShareCapital
+2022-12-31
+10857028
+core:RevaluationReserve
+2023-12-31
+10857028
+core:RevaluationReserve
+2022-12-31
+10857028
+core:RetainedEarningsAccumulatedLosses
+2023-12-31
+10857028
+core:RetainedEarningsAccumulatedLosses
+2022-12-31
+10857028
+1
+2023-01-01
+2023-12-31
+CROSBY AVIATION TRAINING LIMITED
+Company Registration Number:
+10857028
+(England and Wales)
+Unaudited micro entity accounts for the year ended 31 December 2023
+Period of accounts
+Start date: 01 January 2023
+End date: 31 December 2023
+Page 1
+CROSBY AVIATION TRAINING LIMITED
+Contents of the Financial Statements
+for the Period Ended 31 December 2023
+Company Information - 3
+Balance sheet - 4
+Footnotes to the Balance Sheet - 6
+Page 2
+CROSBY AVIATION TRAINING LIMITED
+Company Information
+for the Period Ended 31 December 2023
+Registered office:
+The Cheviot Centre
+12 ,Padgepool Place
+Wooler
+Northumberland
+England
+NE71 6BL
+Company Registration Number:
+10857028
+(England and Wales)
+Page 3
+CROSBY AVIATION TRAINING LIMITED
+Balance sheet
+As at
+31 December 2023
+2023
+£
+2022
+£
+Fixed Assets:
+2,401
+1,274
+Current assets:
+50,756
+42,807
+Prepayments and accrued income:
+957
+Creditors: amounts falling due within one year:
+(
+20,542
+)
+(
+13,040
+)
+Net current assets (liabilities):
+31,171
+29,767
+Total assets less current liabilities:
+33,572
+31,041
+Total net assets (liabilities):
+33,572
+31,041
+Capital and reserves:
+33,572
+31,041
+Page 4
+CROSBY AVIATION TRAINING LIMITED
+Balance sheet continued
+For the year ending 31 December 2023 the company was entitled to exemption under section 477 of the Companies Act 2006 relating to small companies.
+The members have not required the company to obtain an audit in accordance with section 476 of the Companies Act 2006.
+The directors acknowledge their responsibilities for complying with the requirements of the Act with respect to accounting records and the preparation of accounts.
+These accounts have been prepared and delivered in accordance with the provisions of the small companies regime applicable to micro-entities.
+This report was approved by the board of directors on
+5 September 2024
+And Signed On Behalf Of The Board By:
+Name:
+Mark Burnhope
+Status: Director
+The notes form part of these financial statements
+Page 5
+CROSBY AVIATION TRAINING LIMITED
+Footnotes to the Financial Statements
+for the Period Ended 31 December 2023
+1. Employee Information
+Average number of employees:
+5
+Page 6
+CROSBY AVIATION TRAINING LIMITED
+Footnotes to the Financial Statements
+for the Period Ended 31 December 2023
+2. Off balance sheet disclosure
+No
+Page 7

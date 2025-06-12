@@ -1,0 +1,355 @@
+Omni Academy Of Beauty Limited - Accounts to registrar (filleted) - small 23.2.5
+IRIS Accounts Production
+v24.2.0.383
+06537974
+director
+1.7.23
+30.6.24
+30.6.24
+false
+true
+false
+false
+true
+false
+iso4217:GBP
+iso4217:USD
+iso4217:EUR
+xbrli:shares
+xbrli:pure
+utr:tonnes
+utr:kWh
+06537974
+2023-06-30
+06537974
+2024-06-30
+06537974
+2023-07-01
+2024-06-30
+06537974
+2022-06-30
+06537974
+2022-07-01
+2023-06-30
+06537974
+2023-06-30
+06537974
+ns15:EnglandWales
+2023-07-01
+2024-06-30
+06537974
+ns14:PoundSterling
+2023-07-01
+2024-06-30
+06537974
+ns10:Director1
+2023-07-01
+2024-06-30
+06537974
+ns10:PrivateLimitedCompanyLtd
+2023-07-01
+2024-06-30
+06537974
+ns10:SmallEntities
+2023-07-01
+2024-06-30
+06537974
+ns10:AuditExempt-NoAccountantsReport
+2023-07-01
+2024-06-30
+06537974
+ns10:SmallCompaniesRegimeForDirectorsReport
+2023-07-01
+2024-06-30
+06537974
+ns10:SmallCompaniesRegimeForAccounts
+2023-07-01
+2024-06-30
+06537974
+ns10:FullAccounts
+2023-07-01
+2024-06-30
+06537974
+ns10:RegisteredOffice
+2023-07-01
+2024-06-30
+06537974
+ns5:CurrentFinancialInstruments
+2024-06-30
+06537974
+ns5:CurrentFinancialInstruments
+2023-06-30
+06537974
+ns5:ShareCapital
+2024-06-30
+06537974
+ns5:ShareCapital
+2023-06-30
+06537974
+ns5:RetainedEarningsAccumulatedLosses
+2024-06-30
+06537974
+ns5:RetainedEarningsAccumulatedLosses
+2023-06-30
+06537974
+ns5:PlantMachinery
+2023-07-01
+2024-06-30
+06537974
+ns5:PlantMachinery
+2023-06-30
+06537974
+ns5:PlantMachinery
+2024-06-30
+06537974
+ns5:PlantMachinery
+2023-06-30
+06537974
+ns5:CurrentFinancialInstruments
+ns5:WithinOneYear
+2024-06-30
+06537974
+ns5:CurrentFinancialInstruments
+ns5:WithinOneYear
+2023-06-30
+REGISTERED NUMBER:
+06537974
+(England and Wales)
+Unaudited Financial Statements
+for the Year Ended 30 June 2024
+for
+Omni Academy Of Beauty Limited
+Omni Academy Of Beauty Limited (Registered number: 06537974)
+Contents of the Financial Statements
+for the Year Ended 30 June 2024
+Page
+Company Information
+1
+Balance Sheet
+2
+Notes to the Financial Statements
+4
+Omni Academy Of Beauty Limited
+Company Information
+for the Year Ended 30 June 2024
+DIRECTOR:
+Miss R F S Farbey
+REGISTERED OFFICE:
+14 Church Street
+Walton-on-Thames
+Surrey
+KT12 2QS
+REGISTERED NUMBER:
+06537974
+(England and Wales)
+ACCOUNTANTS:
+Mulberry & Co
+Chartered Certified Accountants
+& Chartered Tax Advisers
+C/O Mulberry & Co
+Eastgate House
+Dogflud Way
+Farnham
+Surrey
+GU9 7UD
+Page 1
+Omni Academy Of Beauty Limited (Registered number: 06537974)
+Balance Sheet
+30 June 2024
+30.6.24
+30.6.23
+Notes
+£
+£
+FIXED ASSETS
+Tangible assets
+4
+758
+2,047
+CURRENT ASSETS
+Debtors
+5
+10,680
+10,106
+Prepayments and accrued income
+3,154
+3,826
+Cash at bank
+48,407
+49,420
+62,241
+63,352
+CREDITORS
+Amounts falling due within one year
+6
+(
+19,008
+)
+(
+17,468
+)
+NET CURRENT ASSETS
+43,233
+45,884
+TOTAL ASSETS LESS CURRENT
+LIABILITIES
+43,991
+47,931
+ACCRUALS AND DEFERRED INCOME
+(
+7,964
+)
+(
+6,392
+)
+NET ASSETS
+36,027
+41,539
+CAPITAL AND RESERVES
+Called up share capital
+1
+1
+Retained earnings
+36,026
+41,538
+SHAREHOLDERS' FUNDS
+36,027
+41,539
+The company is entitled to exemption from audit under Section 477 of the Companies Act 2006 for the year ended 30 June 2024.
+The members have not required the company to obtain an audit of its financial statements for the year ended 30 June 2024 in accordance with Section 476 of the Companies Act 2006.
+The director acknowledges her responsibilities for:
+(a)
+ensuring that the company keeps accounting records which comply with Sections 386 and 387 of the Companies Act
+2006 and
+(b)
+preparing financial statements which give a true and fair view of the state of affairs of the company as at the end of
+each financial year and of its profit or loss for each financial year in accordance with the requirements of Sections 394
+and 395 and which otherwise comply with the requirements of the Companies Act 2006 relating to financial
+statements, so far as applicable to the company.
+The notes form part of these financial statements
+Page 2
+continued...
+Omni Academy Of Beauty Limited (Registered number: 06537974)
+Balance Sheet - continued
+30 June 2024
+The financial statements have been prepared and delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+In accordance with Section 444 of the Companies Act 2006, the Income Statement has not been delivered.
+The financial statements were approved by the director and authorised for issue on
+30 August 2024
+and were signed by:
+Miss R F S Farbey
+- Director
+The notes form part of these financial statements
+Page 3
+Omni Academy Of Beauty Limited (Registered number: 06537974)
+Notes to the Financial Statements
+for the Year Ended 30 June 2024
+1.
+STATUTORY INFORMATION
+Omni Academy Of Beauty Limited is a
+private company, limited by shares
+, registered in England and Wales. The
+company's registered number and registered office address can be found on the Company Information page.
+2.
+ACCOUNTING POLICIES
+Basis of preparing the financial statements
+These financial statements have been prepared in accordance with Financial Reporting Standard 102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland" including the provisions of Section 1A "Small Entities" and the Companies Act 2006. The financial statements have been prepared under the historical cost convention.
+Turnover
+Turnover is measured at the fair value of the consideration received or receivable, excluding discounts, rebates, value
+added tax and other sales taxes.
+Tangible fixed assets
+Depreciation is provided at the following annual rates in order to write off each asset over its estimated useful life.
+Plant and machinery etc
+-
+25% on cost and 10% on cost
+Taxation
+Taxation for the year comprises current and deferred tax. Tax is recognised in the Income Statement, except to the
+extent that it relates to items recognised in other comprehensive income or directly in equity.
+Current or deferred taxation assets and liabilities are not discounted.
+Current tax is recognised at the amount of tax payable using the tax rates and laws that have been enacted or
+substantively enacted by the balance sheet date.
+Deferred tax
+Deferred tax is recognised in respect of all timing differences that have originated but not reversed at the balance
+sheet date.
+Timing differences arise from the inclusion of income and expenses in tax assessments in periods different from those
+in which they are recognised in financial statements. Deferred tax is measured using tax rates and laws that have
+been enacted or substantively enacted by the year end and that are expected to apply to the reversal of the timing
+difference.
+Unrelieved tax losses and other deferred tax assets are recognised only to the extent that it is probable that they will
+be recovered against the reversal of deferred tax liabilities or other future taxable profits.
+Hire purchase and leasing commitments
+Rentals paid under operating leases are charged to profit or loss on a straight line basis over the period of the lease.
+Pension costs and other post-retirement benefits
+The company operates a defined contribution pension scheme.
+Contributions payable to the company's pension
+scheme are charged to profit or loss in the period to which they relate.
+3.
+EMPLOYEES AND DIRECTORS
+The average number of employees during the year was
+4
+(2023 -
+4
+) .
+Page 4
+continued...
+Omni Academy Of Beauty Limited (Registered number: 06537974)
+Notes to the Financial Statements - continued
+for the Year Ended 30 June 2024
+4.
+TANGIBLE FIXED ASSETS
+Plant and
+machinery
+etc
+£
+COST
+At 1 July 2023
+and 30 June 2024
+90,854
+DEPRECIATION
+At 1 July 2023
+88,807
+Charge for year
+1,289
+At 30 June 2024
+90,096
+NET BOOK VALUE
+At 30 June 2024
+758
+At 30 June 2023
+2,047
+5.
+DEBTORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+30.6.24
+30.6.23
+£
+£
+Trade debtors
+8,782
+6,470
+Other debtors
+1,898
+3,636
+10,680
+10,106
+6.
+CREDITORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+30.6.24
+30.6.23
+£
+£
+Trade creditors
+3,953
+9,209
+Taxation and social security
+14,228
+6,924
+Other creditors
+827
+1,335
+19,008
+17,468
+7.
+ULTIMATE CONTROLLING PARTY
+The ultimate controlling party is
+Miss R F S Farbey.
+Page 5

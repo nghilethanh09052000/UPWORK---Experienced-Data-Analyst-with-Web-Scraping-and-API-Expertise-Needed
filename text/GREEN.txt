@@ -1,0 +1,469 @@
+Green Pass Training Limited
+1 August 2023
+false
+No description of principal activity
+Taxfiler
+2024.6
+09136309
+business:PrivateLimitedCompanyLtd
+2023-08-01
+2024-07-31
+09136309
+2023-07-31
+09136309
+2023-08-01
+2024-07-31
+09136309
+business:AuditExemptWithAccountantsReport
+2023-08-01
+2024-07-31
+09136309
+business:FilletedAccounts
+2023-08-01
+2024-07-31
+09136309
+2024-07-31
+09136309
+business:Director1
+2023-08-01
+2024-07-31
+09136309
+business:RegisteredOffice
+2023-08-01
+2024-07-31
+09136309
+2023-07-31
+09136309
+core:WithinOneYear
+2024-07-31
+09136309
+core:WithinOneYear
+2023-07-31
+09136309
+core:AfterOneYear
+2024-07-31
+09136309
+core:AfterOneYear
+2023-07-31
+09136309
+core:ShareCapital
+core:PreviouslyStatedAmount
+2024-07-31
+09136309
+core:ShareCapital
+core:PreviouslyStatedAmount
+2023-07-31
+09136309
+core:SharePremium
+core:PreviouslyStatedAmount
+2024-07-31
+09136309
+core:SharePremium
+core:PreviouslyStatedAmount
+2023-07-31
+09136309
+core:RetainedEarningsAccumulatedLosses
+core:PreviouslyStatedAmount
+2024-07-31
+09136309
+core:RetainedEarningsAccumulatedLosses
+core:PreviouslyStatedAmount
+2023-07-31
+09136309
+core:PreviouslyStatedAmount
+2024-07-31
+09136309
+core:PreviouslyStatedAmount
+2023-07-31
+09136309
+business:SmallEntities
+2023-08-01
+2024-07-31
+09136309
+countries:EnglandWales
+2023-08-01
+2024-07-31
+09136309
+core:PlantMachinery
+2023-08-01
+2024-07-31
+09136309
+core:MotorVehicles
+2023-08-01
+2024-07-31
+09136309
+core:FurnitureFittings
+2023-08-01
+2024-07-31
+09136309
+core:ComputerEquipment
+2023-08-01
+2024-07-31
+09136309
+core:LandBuildings
+2023-07-31
+09136309
+core:PlantMachinery
+2023-07-31
+09136309
+core:MotorVehicles
+2023-07-31
+09136309
+core:FurnitureFittings
+2023-07-31
+09136309
+core:ComputerEquipment
+2023-07-31
+09136309
+core:LandBuildings
+2023-08-01
+2024-07-31
+09136309
+core:LandBuildings
+2024-07-31
+09136309
+core:PlantMachinery
+2024-07-31
+09136309
+core:MotorVehicles
+2024-07-31
+09136309
+core:FurnitureFittings
+2024-07-31
+09136309
+core:ComputerEquipment
+2024-07-31
+09136309
+2022-08-01
+2023-07-31
+iso4217:GBP
+xbrli:pure
+Company Registration No.
+09136309
+(England and Wales)
+Green Pass Training Limited
+Unaudited accounts
+for the year ended
+31 July 2024
+Green Pass Training Limited
+Unaudited accounts
+Contents
+Page
+Company information
+3
+Statement of financial position
+4
+Notes to the accounts
+5
+- 2 -
+Green Pass Training Limited
+Company Information
+for the year ended
+31 July 2024
+Director
+Lee Dickinson
+Company Number
+09136309
+(England and Wales)
+Registered Office
+HALLIDAYS FARM MOSS LANE
+BILSBORROW
+PRESTON
+PR3 0RU
+ENGLAND
+Accountants
+Walling Accountants
+Unit 1B Hallidays Farm
+Bilsborrow
+Preston
+PR3 0RU
+- 3 -
+Green Pass Training Limited
+Statement of financial position
+as at
+31 July 2024
+2024
+2023
+Notes
+£
+£
+Fixed assets
+Tangible assets
+4
+53,851
+59,457
+Current assets
+Debtors
+5
+23,057
+19,550
+Cash at bank and in hand
+10,334
+15,133
+33,391
+34,683
+Creditors: amounts falling due within one year
+6
+(
+38,902
+)
+(
+51,713
+)
+Net current liabilities
+(
+5,511
+)
+(
+17,030
+)
+Total assets less current liabilities
+48,340
+42,427
+Creditors: amounts falling due after more than one year
+7
+(
+15,577
+)
+(
+24,081
+)
+Provisions for liabilities
+Deferred tax
+(
+10,232
+)
+(
+6,198
+)
+Net assets
+22,531
+12,148
+Capital and reserves
+Called up share capital
+1,000
+1,000
+Share premium
+9,001
+9,001
+Profit and loss account
+12,530
+2,147
+Shareholders' funds
+22,531
+12,148
+For the year ending
+31 July 2024
+the company was entitled to exemption from audit under section 477 of the Companies Act 2006 relating to small companies.
+The members have not required the company to obtain an audit in accordance with section 476 of the Companies Act 2006.
+The director acknowledges his responsibilities for complying with the requirements of the Act with respect to accounting records and the preparation of accounts.
+These accounts have been prepared and delivered in accordance with the provisions applicable to companies subject to the small companies' regime and in accordance with the provisions of FRS 102 Section 1A - Small Entities. The profit and loss account has not been delivered to the Registrar of Companies.
+The financial statements were approved by the Board and authorised for issue on
+27 January 2025
+and were signed on its behalf by
+Lee Dickinson
+Director
+Company Registration No.
+09136309
+- 4 -
+Green Pass Training Limited
+Notes to the Accounts
+for the year ended
+31 July 2024
+1
+Statutory information
+Green Pass Training Limited
+is a private company, limited by shares, registered in England and Wales
+, registration number
+09136309
+. The registered office is
+HALLIDAYS FARM MOSS LANE
+,
+BILSBORROW
+,
+PRESTON
+,
+PR3 0RU
+, ENGLAND.
+2
+Compliance with accounting standards
+The accounts have been prepared in accordance with the provisions of FRS 102 Section 1A Small Entities. There were no material departures from that standard.
+3
+Accounting policies
+The principal accounting policies adopted in the preparation of the financial statements are set out below and have remained unchanged from the previous year, and also have been consistently applied within the same accounts.
+Basis of preparation
+The accounts have been prepared under the historical cost convention as modified by the revaluation of certain fixed assets.
+Presentation currency
+The accounts are presented in £ sterling.
+Turnover
+Turnover is measured at the fair value of the consideration received or receivable, excluding discounts, rebates, value added tax and other sales taxes. Turnover from the rendering of services is recognised by reference to the stage of completion of the contract.
+Tangible fixed assets and depreciation
+Tangible assets are included at cost less depreciation and impairment. Depreciation has been provided at the following rates in order to write off the assets over their estimated useful lives:
+Plant & machinery
+25% on cost
+Motor vehicles
+25% on reducing balance
+Fixtures & fittings
+25% on reducing balance
+Computer equipment
+33.3% on cost
+Deferred taxation
+Deferred tax arises as a result of including items of income and expenditure in taxation computations in periods different from those in which they are included in the company's accounts. Deferred tax is provided in full on timing differences which result in an obligation to pay more (or less) tax at a future date, at the average tax rates that are expected to apply when the timing differences reverse, based on current tax rates and laws.
+Deferred tax assets and liabilities are not discounted.
+Pension costs
+The company operates a defined contribution scheme for the benefit of its employees. Contributions payable are recognised in the profit and loss account when due.
+Financial instruments
+Basic financial instruments are recognised at amortised cost, except for investments in non-convertible preference and non-puttable ordinary shares which are measured at fair value, with changes recognised in profit or loss. Derivative financial instruments are initially recorded at cost and thereafter at fair value with changes recognised in profit or loss.
+- 5 -
+Green Pass Training Limited
+Notes to the Accounts
+for the year ended
+31 July 2024
+4
+Tangible fixed assets
+Land & buildings
+Plant & machinery
+Motor vehicles
+Fixtures & fittings
+Computer equipment
+Total
+£
+£
+£
+£
+£
+£
+Cost or valuation
+At cost
+At cost
+At cost
+At cost
+At cost
+At 1 August 2023
+23,125
+19,748
+45,295
+350
+3,353
+91,871
+Additions
+-
+-
+8,250
+-
+-
+8,250
+At
+31 July 2024
+23,125
+19,748
+53,545
+350
+3,353
+100,121
+Depreciation
+At 1 August 2023
+3,275
+11,246
+15,833
+186
+1,874
+32,414
+Charge for the year
+2,313
+2,126
+8,424
+41
+952
+13,856
+At
+31 July 2024
+5,588
+13,372
+24,257
+227
+2,826
+46,270
+Net book value
+At
+31 July 2024
+17,537
+6,376
+29,288
+123
+527
+53,851
+At 31 July 2023
+19,850
+8,502
+29,462
+164
+1,479
+59,457
+5
+Debtors
+2024
+2023
+£
+£
+Amounts falling due within one year
+Trade debtors
+23,057
+19,550
+6
+Creditors: amounts falling due within one year
+2024
+2023
+£
+£
+Bank loans and overdrafts
+3,861
+15,662
+VAT
+18,531
+15,174
+Obligations under finance leases and hire purchase contracts
+7,805
+8,395
+Trade creditors
+3,416
+6,922
+Taxes and social security
+2,758
+526
+Other creditors
+2,003
+4,181
+Loans from directors
+528
+685
+Accruals
+-
+168
+38,902
+51,713
+7
+Creditors: amounts falling due after more than one year
+2024
+2023
+£
+£
+Bank loans
+14,301
+-
+Obligations under finance leases and hire purchase contracts
+1,276
+9,081
+Other creditors
+-
+15,000
+15,577
+24,081
+8
+Average number of employees
+During the year the average number of employees was
+4
+(2023:
+4
+).
+- 6 -

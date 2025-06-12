@@ -1,0 +1,618 @@
+BET Limited - Accounts to registrar (filleted) - small 23.2.5
+IRIS Accounts Production
+v24.1.0.578
+02645202
+Board of Directors
+1.10.22
+30.9.23
+30.9.23
+false
+true
+false
+false
+true
+false
+iso4217:GBP
+iso4217:USD
+iso4217:EUR
+xbrli:shares
+xbrli:pure
+utr:tonnes
+utr:kWh
+02645202
+2022-09-30
+02645202
+2023-09-30
+02645202
+2022-10-01
+2023-09-30
+02645202
+2021-09-30
+02645202
+2021-10-01
+2022-09-30
+02645202
+2022-09-30
+02645202
+ns15:EnglandWales
+2022-10-01
+2023-09-30
+02645202
+ns14:PoundSterling
+2022-10-01
+2023-09-30
+02645202
+ns10:Director1
+2022-10-01
+2023-09-30
+02645202
+ns10:PrivateLimitedCompanyLtd
+2022-10-01
+2023-09-30
+02645202
+ns10:SmallEntities
+2022-10-01
+2023-09-30
+02645202
+ns10:AuditExempt-NoAccountantsReport
+2022-10-01
+2023-09-30
+02645202
+ns10:SmallCompaniesRegimeForDirectorsReport
+2022-10-01
+2023-09-30
+02645202
+ns10:SmallCompaniesRegimeForAccounts
+2022-10-01
+2023-09-30
+02645202
+ns10:FullAccounts
+2022-10-01
+2023-09-30
+02645202
+ns10:Director2
+2022-10-01
+2023-09-30
+02645202
+ns10:Director3
+2022-10-01
+2023-09-30
+02645202
+ns10:Director4
+2022-10-01
+2023-09-30
+02645202
+ns10:Director5
+2022-10-01
+2023-09-30
+02645202
+ns10:CompanySecretary1
+2022-10-01
+2023-09-30
+02645202
+ns10:RegisteredOffice
+2022-10-01
+2023-09-30
+02645202
+ns5:CurrentFinancialInstruments
+2023-09-30
+02645202
+ns5:CurrentFinancialInstruments
+2022-09-30
+02645202
+ns5:Non-currentFinancialInstruments
+2023-09-30
+02645202
+ns5:Non-currentFinancialInstruments
+2022-09-30
+02645202
+ns5:ShareCapital
+2023-09-30
+02645202
+ns5:ShareCapital
+2022-09-30
+02645202
+ns5:RetainedEarningsAccumulatedLosses
+2023-09-30
+02645202
+ns5:RetainedEarningsAccumulatedLosses
+2022-09-30
+02645202
+ns5:LeaseholdImprovements
+2022-10-01
+2023-09-30
+02645202
+ns5:FurnitureFittings
+2022-10-01
+2023-09-30
+02645202
+ns5:MotorVehicles
+2022-10-01
+2023-09-30
+02645202
+ns5:ComputerEquipment
+2022-10-01
+2023-09-30
+02645202
+ns5:LeaseholdImprovements
+2022-09-30
+02645202
+ns5:FurnitureFittings
+2022-09-30
+02645202
+ns5:MotorVehicles
+2022-09-30
+02645202
+ns5:ComputerEquipment
+2022-09-30
+02645202
+ns5:LeaseholdImprovements
+2023-09-30
+02645202
+ns5:FurnitureFittings
+2023-09-30
+02645202
+ns5:MotorVehicles
+2023-09-30
+02645202
+ns5:ComputerEquipment
+2023-09-30
+02645202
+ns5:LeaseholdImprovements
+2022-09-30
+02645202
+ns5:FurnitureFittings
+2022-09-30
+02645202
+ns5:MotorVehicles
+2022-09-30
+02645202
+ns5:ComputerEquipment
+2022-09-30
+02645202
+ns5:CurrentFinancialInstruments
+ns5:WithinOneYear
+2023-09-30
+02645202
+ns5:CurrentFinancialInstruments
+ns5:WithinOneYear
+2022-09-30
+02645202
+ns5:HirePurchaseContracts
+ns5:CurrentFinancialInstruments
+ns5:WithinOneYear
+2023-09-30
+02645202
+ns5:HirePurchaseContracts
+ns5:CurrentFinancialInstruments
+ns5:WithinOneYear
+2022-09-30
+02645202
+ns5:BetweenOneFiveYears
+ns5:HirePurchaseContracts
+2023-09-30
+02645202
+ns5:BetweenOneFiveYears
+ns5:HirePurchaseContracts
+2022-09-30
+02645202
+ns5:HirePurchaseContracts
+2023-09-30
+02645202
+ns5:HirePurchaseContracts
+2022-09-30
+02645202
+ns5:Secured
+2023-09-30
+02645202
+ns5:Secured
+2022-09-30
+REGISTERED NUMBER:
+02645202
+(England and Wales)
+BIRMINGHAM ELECTRICAL TRAINING LIMITED
+Unaudited Financial Statements for the Year Ended 30 September 2023
+Michael Dufty Partnership Limited
+59-61 Charlotte Street
+St Pauls Square
+Birmingham
+West Midlands
+B3 1PX
+BIRMINGHAM ELECTRICAL TRAINING LIMITED (REGISTERED NUMBER: 02645202)
+Contents of the Financial Statements
+for the Year Ended 30 September 2023
+Page
+Company Information
+1
+Balance Sheet
+2
+Notes to the Financial Statements
+4
+BIRMINGHAM ELECTRICAL TRAINING LIMITED
+Company Information
+for the Year Ended 30 September 2023
+DIRECTORS:
+Mr J W Sims
+Mrs S M Sims
+Mr J Sims
+Mr T Goddard
+Mrs F N Wilson
+SECRETARY:
+Mrs S M Sims
+REGISTERED OFFICE:
+34 Brearley Street
+Hockley
+Birmingham
+West Midlands
+B19 3NR
+REGISTERED NUMBER:
+02645202
+(England and Wales)
+ACCOUNTANTS:
+Michael Dufty Partnership Limited
+59-61 Charlotte Street
+St Pauls Square
+Birmingham
+West Midlands
+B3 1PX
+Page 1
+BIRMINGHAM ELECTRICAL TRAINING LIMITED (REGISTERED NUMBER: 02645202)
+Balance Sheet
+30 September 2023
+2023
+2022
+Notes
+£
+£
+£
+£
+FIXED ASSETS
+Tangible assets
+4
+535,783
+488,341
+CURRENT ASSETS
+Debtors
+5
+628,021
+543,791
+Cash at bank
+85,019
+-
+713,040
+543,791
+CREDITORS
+Amounts falling due within one year
+6
+342,078
+355,389
+NET CURRENT ASSETS
+370,962
+188,402
+TOTAL ASSETS LESS CURRENT
+LIABILITIES
+906,745
+676,743
+CREDITORS
+Amounts falling due after more than one
+year
+7
+(
+281,928
+)
+(
+198,156
+)
+PROVISIONS FOR LIABILITIES
+(
+63,991
+)
+(
+55,415
+)
+NET ASSETS
+560,826
+423,172
+CAPITAL AND RESERVES
+Called up share capital
+100
+100
+Retained earnings
+560,726
+423,072
+SHAREHOLDERS' FUNDS
+560,826
+423,172
+The company is entitled to exemption from audit under Section 477 of the Companies Act 2006 for the year ended 30 September 2023.
+The members have not required the company to obtain an audit of its financial statements for the year ended 30 September 2023 in accordance with Section 476 of the Companies Act 2006.
+The directors acknowledge their responsibilities for:
+(a)
+ensuring that the company keeps accounting records which comply with Sections 386 and 387 of the Companies
+Act 2006 and
+(b)
+preparing financial statements which give a true and fair view of the state of affairs of the company as at the end of
+each financial year and of its profit or loss for each financial year in accordance with the requirements of Sections
+394 and 395 and which otherwise comply with the requirements of the Companies Act 2006 relating to financial
+statements, so far as applicable to the company.
+The notes form part of these financial statements
+Page 2
+continued...
+BIRMINGHAM ELECTRICAL TRAINING LIMITED (REGISTERED NUMBER: 02645202)
+Balance Sheet - continued
+30 September 2023
+The financial statements have been prepared and delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+In accordance with Section 444 of the Companies Act 2006, the Income Statement has not been delivered.
+The financial statements were approved by the Board of Directors and authorised for issue on
+28 March 2024
+and were
+signed on its behalf by:
+Mr J W Sims
+- Director
+The notes form part of these financial statements
+Page 3
+BIRMINGHAM ELECTRICAL TRAINING LIMITED (REGISTERED NUMBER: 02645202)
+Notes to the Financial Statements
+for the Year Ended 30 September 2023
+1.
+STATUTORY INFORMATION
+Birmingham Electrical Training Limited is a
+private company, limited by shares
+, registered in England and
+Wales. The company's registered number and registered office address can be found on the Company
+Information page.
+2.
+ACCOUNTING POLICIES
+Basis of preparing the financial statements
+These financial statements have been prepared in accordance with Financial Reporting Standard 102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland" including the provisions of Section 1A "Small Entities" and the Companies Act 2006. The financial statements have been prepared under the historical cost convention.
+Turnover
+Turnover is measured at the fair value of the consideration received or receivable, excluding discounts, rebates,
+value added tax and other sales taxes.
+Tangible fixed assets
+Depreciation is provided at the following annual rates in order to write off each asset over its estimated useful life or, if held under a finance lease, over the lease term, whichever is the shorter.
+Improvements to property
+-
+10% on cost
+Fixtures and fittings
+-
+15% on reducing balance
+Motor vehicles
+-
+25% on reducing balance
+Computer equipment
+-
+25% on cost
+Taxation
+Taxation for the year comprises current and deferred tax. Tax is recognised in the Income Statement, except to
+the extent that it relates to items recognised in other comprehensive income or directly in equity.
+Current or deferred taxation assets and liabilities are not discounted.
+Current tax is recognised at the amount of tax payable using the tax rates and laws that have been enacted or
+substantively enacted by the balance sheet date.
+Deferred tax
+Deferred tax is recognised in respect of all timing differences that have originated but not reversed at the balance
+sheet date.
+Timing differences arise from the inclusion of income and expenses in tax assessments in periods different from
+those in which they are recognised in financial statements. Deferred tax is measured using tax rates and laws that
+have been enacted or substantively enacted by the year end and that are expected to apply to the reversal of the
+timing difference.
+Unrelieved tax losses and other deferred tax assets are recognised only to the extent that it is probable that they
+will be recovered against the reversal of deferred tax liabilities or other future taxable profits.
+Hire purchase and leasing commitments
+Assets obtained under hire purchase contracts or finance leases are capitalised in the balance sheet.
+Those held
+under hire purchase contracts are depreciated over their estimated useful lives.
+Those held under finance leases
+are depreciated over their estimated useful lives or the lease term, whichever is the shorter.
+The interest element of these obligations is charged to profit or loss over the relevant period. The capital element
+of the future payments is treated as a liability.
+Pension costs and other post-retirement benefits
+The company operates a defined contribution pension scheme.
+Contributions payable to the company's pension
+scheme are charged to profit or loss in the period to which they relate.
+Page 4
+continued...
+BIRMINGHAM ELECTRICAL TRAINING LIMITED (REGISTERED NUMBER: 02645202)
+Notes to the Financial Statements - continued
+for the Year Ended 30 September 2023
+3.
+EMPLOYEES AND DIRECTORS
+The average number of employees during the year was
+31
+(2022 -
+30
+) .
+4.
+TANGIBLE FIXED ASSETS
+Improvements
+Fixtures
+to
+and
+Motor
+Computer
+property
+fittings
+vehicles
+equipment
+Totals
+£
+£
+£
+£
+£
+COST
+At 1 October 2022
+175,669
+83,060
+345,735
+133,328
+737,792
+Additions
+4,105
+23,607
+242,365
+28,328
+298,405
+Disposals
+-
+-
+(
+199,755
+)
+-
+(
+199,755
+)
+At 30 September 2023
+179,774
+106,667
+388,345
+161,656
+836,442
+DEPRECIATION
+At 1 October 2022
+44,554
+39,648
+79,999
+85,250
+249,451
+Charge for year
+17,909
+8,539
+86,251
+22,320
+135,019
+Eliminated on disposal
+-
+-
+(
+83,811
+)
+-
+(
+83,811
+)
+At 30 September 2023
+62,463
+48,187
+82,439
+107,570
+300,659
+NET BOOK VALUE
+At 30 September 2023
+117,311
+58,480
+305,906
+54,086
+535,783
+At 30 September 2022
+131,115
+43,412
+265,736
+48,078
+488,341
+The net book value of tangible fixed assets includes £
+305,906
+(2022 - £
+265,736
+) in respect of assets held under
+hire purchase contracts.
+5.
+DEBTORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+2023
+2022
+£
+£
+Trade debtors
+40,631
+35,691
+Other debtors
+587,390
+508,100
+628,021
+543,791
+6.
+CREDITORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+2023
+2022
+£
+£
+Bank loans and overdrafts
+7,500
+47,919
+Hire purchase contracts
+(see note 8)
+39,609
+91,565
+Trade creditors
+160,631
+100,944
+Taxation and social security
+126,966
+107,906
+Other creditors
+7,372
+7,055
+342,078
+355,389
+Page 5
+continued...
+BIRMINGHAM ELECTRICAL TRAINING LIMITED (REGISTERED NUMBER: 02645202)
+Notes to the Financial Statements - continued
+for the Year Ended 30 September 2023
+7.
+CREDITORS: AMOUNTS FALLING DUE AFTER MORE THAN ONE
+YEAR
+2023
+2022
+£
+£
+Bank loans
+20,000
+27,500
+Hire purchase contracts
+(see note 8)
+261,928
+170,656
+281,928
+198,156
+8.
+LEASING AGREEMENTS
+Minimum lease payments under hire purchase fall due as follows:
+2023
+2022
+£
+£
+Net obligations repayable:
+Within one year
+39,609
+91,565
+Between one and five years
+261,928
+170,656
+301,537
+262,221
+9.
+SECURED DEBTS
+The following secured debts are included within creditors:
+2023
+2022
+£
+£
+Bank overdraft
+-
+37,919
+Hire purchase contracts
+301,537
+262,221
+301,537
+300,140
+The bank overdraft is secured by an unlimited debenture dated 19 July 2002.
+The hire purchase liability is secured on the assets to which the borrowing relates.
+10.
+RELATED PARTY DISCLOSURES
+At the balance sheet date the company was owed £469,846 (2022: £456,698) by Birmingham Training Group
+Limited.
+11.
+ULTIMATE CONTROLLING PARTY
+The ultimate controlling party is Mr & Mrs Sims by virtue of their 100% shareholding in the company's parent
+company.
+Page 6

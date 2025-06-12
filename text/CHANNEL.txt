@@ -1,0 +1,167 @@
+CHANNEL TRAINING LIMITED
+Silverfin
+false
+false
+30/09/2024
+30/09/2024
+01/10/2023
+The principal activity of the Company during the financial year was that of outdoor training.
+J Whittaker
+22/12/2011
+07890649
+2024-09-30
+07890649
+bus:Director1
+2024-09-30
+07890649
+2023-09-30
+07890649
+core:CurrentFinancialInstruments
+2024-09-30
+07890649
+core:CurrentFinancialInstruments
+2023-09-30
+07890649
+core:Non-currentFinancialInstruments
+2024-09-30
+07890649
+core:Non-currentFinancialInstruments
+2023-09-30
+07890649
+2023-10-01
+2024-09-30
+07890649
+bus:Micro-entities
+2023-10-01
+2024-09-30
+07890649
+bus:FilletedAccounts
+2023-10-01
+2024-09-30
+07890649
+bus:AuditExemptWithAccountantsReport
+2023-10-01
+2024-09-30
+07890649
+bus:PrivateLimitedCompanyLtd
+2023-10-01
+2024-09-30
+07890649
+bus:Director1
+2023-10-01
+2024-09-30
+07890649
+2022-10-01
+2023-09-30
+iso4217:GBP
+xbrli:pure
+Company No:
+07890649
+(England and Wales)
+CHANNEL TRAINING LIMITED
+Unaudited Financial Statements
+For the financial year ended 30 September 2024
+Pages for filing with the registrar
+CHANNEL TRAINING LIMITED
+UNAUDITED FINANCIAL STATEMENTS
+For the financial year ended 30 September 2024
+Contents
+Balance Sheet
+Notes to the Financial Statements
+CHANNEL TRAINING LIMITED
+BALANCE SHEET
+As at 30 September 2024
+CHANNEL TRAINING LIMITED
+BALANCE SHEET (continued)
+For the financial year ended 30 September 2024
+2024
+2023
+£
+£
+Fixed assets
+5,087
+3,418
+Current assets
+431,385
+430,329
+Prepayments and accrued income
+56,271
+41,402
+Creditors: amounts falling due within one year
+(
+95,516
+)
+(
+84,307
+)
+Net current assets
+392,140
+387,424
+Total assets less current liabilities
+397,227
+390,842
+Creditors: amounts falling due after more than one year
+(
+35,499
+)
+(
+64,423
+)
+Accruals and deferred income
+(
+3,652
+)
+(
+2,494
+)
+Net assets
+358,076
+323,925
+Capital and reserves
+358,076
+323,925
+For the financial year ending 30 September 2024 the Company was entitled to exemption from audit under section 477 of the Companies Act 2006 relating to small companies.
+Director's responsibilities:
+The members have not required the Company to obtain an audit of its financial statements for the financial year in accordance with section 476;
+The director acknowledges their responsibilities for complying with the requirements of the Companies Act 2006 with respect to accounting records and the preparation of financial statements;
+These financial statements have been prepared in accordance with the micro-entity provisions of the Companies Act 2006 and FRS 105
+The Financial Reporting Standard applicable to the Micro-entities Regime;
+These financial statements have been delivered in accordance with the small companies regime and a copy of the Profit and Loss Account has not been delivered.
+The financial statements of Channel Training Limited (registered number: 07890649) were approved and authorised for issue by
+the director
+on
+04 April 2025
+and were signed on its behalf by:
+J Whittaker
+Director
+CHANNEL TRAINING LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+For the financial year ended 30 September 2024
+CHANNEL TRAINING LIMITED
+NOTES TO THE FINANCIAL STATEMENTS (continued)
+For the For the financial year ended 30 September 2024
+1. Company information
+The Company is a private company limited by shares and is incorporated in the United Kingdom and registered in England and Wales (Company no. 07890649). The address of its registered office is Newlyn Church Street, Alcombe, Minehead, TA24 6BL, United Kingdom.
+2. Employees
+2024
+2023
+Number
+Number
+Monthly average number of persons employed by the Company during the financial year, including the director
+12
+10
+3. Directors’ benefits: advances, credit and guarantees
+Advances
+The Directors loan accounts are repayable on demand and interest is charged on overdrawn balances exceeding £10,000 at the official HMRC rates.
+At 1 October 2023, the balance owed by the directors was £Nil. During the year, £36,018 was advanced to the directors and £36,018 was repaid by the directors. At 30 September 2024, the balance owed by the director was £Nil.
+At 1 October 2022, the balance owed by the directors was £44,207. During the year, £348 was advanced to the directors and £44,555 was repaid by the directors. At 30 September 2023, the balance owed by the director was £Nil.
+4. Guarantees and other financial commitments
+Other financial commitments
+2024
+2023
+£
+£
+Total commitments under non-cancellable operating leases not provided for in the accounts
+29,683
+44,524
+The total amount of financial commitments not included in the balance sheet in respect of rents payable is £29,683 (2023 - £44,524).

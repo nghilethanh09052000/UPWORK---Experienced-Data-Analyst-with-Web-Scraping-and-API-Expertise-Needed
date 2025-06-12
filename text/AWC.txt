@@ -1,0 +1,117 @@
+AWC Training Ltd - Filleted accounts
+Registered number
+07588986
+AWC Training Ltd
+Filleted Accounts
+30 April 2024
+AWC Training Ltd
+Registered number:
+07588986
+Balance Sheet
+as at
+30 April 2024
+2024
+2023
+£
+£
+Fixed assets
+3,421
+4,312
+Current assets
+130,680
+137,987
+Creditors: amounts falling due within one year
+(
+77,787
+)
+(
+80,203
+)
+Net current assets
+52,893
+57,784
+Total assets less current liabilities
+56,314
+62,096
+Creditors: amounts falling due after more than one year
+(
+5,836
+)
+(
+10,838
+)
+Net assets
+50,478
+51,258
+Capital and reserves
+50,478
+51,258
+Number
+Number
+Average number of employees
+3
+3
+The company is a private company limited by shares and incorporated in England. Its registered office is 40 Fore Street, St Austell, PL25 5ER.
+The director is satisfied that the company is entitled to exemption from the requirement to obtain an audit under section 477 of the Companies Act 2006.
+The member has not required the company to obtain an audit in accordance with section 476 of the Act.
+The director acknowledges his responsibilities for complying with the requirements of the Companies Act 2006 with respect to accounting records and the preparation of accounts.
+The accounts have been prepared in accordance with the micro entity provisions of the Companies Act 2006 and FRS 105, The Financial Reporting Standard applicable to the Micro-entities Regime. The accounts have been delivered in accordance with the provisions applicable to companies subject to the small companies regime. The profit and loss account has not been delivered to the Registrar of Companies.
+Mr A W Clare
+Director
+Approved by the board on
+31 January 2025
+AWC Training Ltd
+07588986
+false
+2023-05-01
+2024-04-30
+2024-04-30
+VT Final Accounts
+April 2024
+Mr A W Clare
+No description of principal activity
+07588986
+core:WithinOneYear
+2023-04-30
+07588986
+core:AfterOneYear
+2023-04-30
+07588986
+2023-05-01
+2024-04-30
+07588986
+bus:PrivateLimitedCompanyLtd
+2023-05-01
+2024-04-30
+07588986
+bus:AuditExempt-NoAccountantsReport
+2023-05-01
+2024-04-30
+07588986
+countries:England
+2023-05-01
+2024-04-30
+07588986
+bus:Director40
+2023-05-01
+2024-04-30
+07588986
+bus:Micro-entities
+2023-05-01
+2024-04-30
+07588986
+bus:FilletedAccounts
+2023-05-01
+2024-04-30
+07588986
+2024-04-30
+07588986
+core:WithinOneYear
+2024-04-30
+07588986
+core:AfterOneYear
+2024-04-30
+07588986
+2023-04-30
+iso4217:GBP
+xbrli:pure

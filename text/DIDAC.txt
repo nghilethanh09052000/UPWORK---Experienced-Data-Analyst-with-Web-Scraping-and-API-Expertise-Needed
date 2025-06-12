@@ -1,0 +1,712 @@
+Didac Limited - Accounts to registrar (filleted) - small 24.3
+IRIS Accounts Production
+v24.3.2.46
+03303042
+Board of Directors
+1.1.24
+31.12.24
+31.12.24
+false
+true
+false
+false
+false
+true
+true
+true
+true
+true
+false
+iso4217:GBP
+iso4217:USD
+iso4217:EUR
+xbrli:shares
+xbrli:pure
+utr:tonnes
+utr:kWh
+03303042
+2023-12-31
+03303042
+2024-12-31
+03303042
+2024-01-01
+2024-12-31
+03303042
+2022-12-31
+03303042
+2023-01-01
+2023-12-31
+03303042
+2023-12-31
+03303042
+ns15:EnglandWales
+2024-01-01
+2024-12-31
+03303042
+ns14:PoundSterling
+2024-01-01
+2024-12-31
+03303042
+ns10:Director1
+2024-01-01
+2024-12-31
+03303042
+ns10:PrivateLimitedCompanyLtd
+2024-01-01
+2024-12-31
+03303042
+ns10:SmallEntities
+2024-01-01
+2024-12-31
+03303042
+ns10:AuditExempt-NoAccountantsReport
+2024-01-01
+2024-12-31
+03303042
+ns10:SmallCompaniesRegimeForDirectorsReport
+2024-01-01
+2024-12-31
+03303042
+ns10:SmallCompaniesRegimeForAccounts
+2024-01-01
+2024-12-31
+03303042
+ns10:FullAccounts
+2024-01-01
+2024-12-31
+03303042
+1
+2024-01-01
+2024-12-31
+03303042
+ns10:Director2
+2024-01-01
+2024-12-31
+03303042
+ns10:Director3
+2024-01-01
+2024-12-31
+03303042
+ns10:Director4
+2024-01-01
+2024-12-31
+03303042
+ns10:CompanySecretary1
+2024-01-01
+2024-12-31
+03303042
+ns10:RegisteredOffice
+2024-01-01
+2024-12-31
+03303042
+ns5:CurrentFinancialInstruments
+2024-12-31
+03303042
+ns5:CurrentFinancialInstruments
+2023-12-31
+03303042
+ns5:Non-currentFinancialInstruments
+2024-12-31
+03303042
+ns5:Non-currentFinancialInstruments
+2023-12-31
+03303042
+ns5:ShareCapital
+2024-12-31
+03303042
+ns5:ShareCapital
+2023-12-31
+03303042
+ns5:RevaluationReserve
+2024-12-31
+03303042
+ns5:RevaluationReserve
+2023-12-31
+03303042
+ns5:RetainedEarningsAccumulatedLosses
+2024-12-31
+03303042
+ns5:RetainedEarningsAccumulatedLosses
+2023-12-31
+03303042
+ns5:IntangibleAssetsOtherThanGoodwill
+2024-01-01
+2024-12-31
+03303042
+ns5:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2024-01-01
+2024-12-31
+03303042
+ns5:LandBuildings
+ns5:OwnedOrFreeholdAssets
+2024-01-01
+2024-12-31
+03303042
+ns5:PlantMachinery
+2024-01-01
+2024-12-31
+03303042
+ns5:FurnitureFittings
+2024-01-01
+2024-12-31
+03303042
+ns5:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2023-12-31
+03303042
+ns5:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2024-12-31
+03303042
+ns5:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2023-12-31
+03303042
+ns5:LandBuildings
+2023-12-31
+03303042
+ns5:PlantMachinery
+2023-12-31
+03303042
+ns5:FurnitureFittings
+2023-12-31
+03303042
+ns5:LandBuildings
+2024-01-01
+2024-12-31
+03303042
+ns5:LandBuildings
+2024-12-31
+03303042
+ns5:PlantMachinery
+2024-12-31
+03303042
+ns5:FurnitureFittings
+2024-12-31
+03303042
+ns5:LandBuildings
+2023-12-31
+03303042
+ns5:PlantMachinery
+2023-12-31
+03303042
+ns5:FurnitureFittings
+2023-12-31
+03303042
+ns5:WithinOneYear
+ns5:CurrentFinancialInstruments
+2024-12-31
+03303042
+ns5:WithinOneYear
+ns5:CurrentFinancialInstruments
+2023-12-31
+03303042
+ns5:Non-currentFinancialInstruments
+ns5:BetweenTwoFiveYears
+2024-12-31
+03303042
+ns5:Non-currentFinancialInstruments
+ns5:BetweenTwoFiveYears
+2023-12-31
+03303042
+ns5:Secured
+2024-12-31
+03303042
+ns5:Secured
+2023-12-31
+03303042
+ns5:RevaluationReserve
+2023-12-31
+REGISTERED NUMBER:
+03303042
+(England and Wales)
+Unaudited Financial Statements
+for the Year Ended 31 December 2024
+for
+Didac Limited
+Didac Limited (Registered number: 03303042)
+Contents of the Financial Statements
+for the Year Ended 31 December 2024
+Page
+Company Information
+1
+Statement of Financial Position
+2
+Notes to the Financial Statements
+4
+Didac Limited
+Company Information
+for the Year Ended 31 December 2024
+DIRECTORS:
+M P James
+Mrs E E Stanley
+G Lewis
+M Stevens
+SECRETARY:
+M P James
+REGISTERED OFFICE:
+Woodwise Training Academy
+Riverside
+Crews Hole Road
+Bristol
+BS5 8BB
+REGISTERED NUMBER:
+03303042
+(England and Wales)
+ACCOUNTANTS:
+Stanley Joseph Limited
+Chartered Accountants
+Suite 1
+Liberty House
+South Liberty Lane
+Bristol
+BS3 2ST
+BANKERS:
+Lloyds TSB
+102 Regent Street
+Kingswood
+Bristol
+BS16 1QG
+Page 1
+Didac Limited (Registered number: 03303042)
+Statement of Financial Position
+31 December 2024
+31.12.24
+31.12.23
+Notes
+£
+£
+£
+£
+FIXED ASSETS
+Intangible assets
+4
+-
+-
+Property, plant and equipment
+5
+598,343
+603,428
+598,343
+603,428
+CURRENT ASSETS
+Debtors
+6
+178,670
+195,024
+Cash at bank and in hand
+41,042
+91
+219,712
+195,115
+CREDITORS
+Amounts falling due within one year
+7
+140,089
+144,014
+NET CURRENT ASSETS
+79,623
+51,101
+TOTAL ASSETS LESS CURRENT
+LIABILITIES
+677,966
+654,529
+CREDITORS
+Amounts falling due after more than one
+year
+8
+(
+256,999
+)
+(
+342,709
+)
+PROVISIONS FOR LIABILITIES
+(
+86,994
+)
+(
+65,339
+)
+NET ASSETS
+333,973
+246,481
+The notes form part of these financial statements
+Page 2
+continued...
+Didac Limited (Registered number: 03303042)
+Statement of Financial Position - continued
+31 December 2024
+31.12.24
+31.12.23
+Notes
+£
+£
+£
+£
+CAPITAL AND RESERVES
+Called up share capital
+100
+100
+Revaluation reserve
+10
+246,087
+270,520
+Retained earnings
+87,786
+(
+24,139
+)
+SHAREHOLDERS' FUNDS
+333,973
+246,481
+The company is entitled to exemption from audit under Section 477 of the Companies Act 2006 for the year ended 31 December 2024.
+The members have not required the company to obtain an audit of its financial statements for the year ended 31 December 2024 in accordance with Section 476 of the Companies Act 2006.
+The directors acknowledge their responsibilities for:
+(a)
+ensuring that the company keeps accounting records which comply with Sections 386 and 387 of the
+Companies Act 2006 and
+(b)
+preparing financial statements which give a true and fair view of the state of affairs of the company as at
+the end of each financial year and of its profit or loss for each financial year in accordance with the
+requirements of Sections 394 and 395 and which otherwise comply with the requirements of the
+Companies Act 2006 relating to financial statements, so far as applicable to the company.
+The financial statements have been prepared and delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+In accordance with Section 444 of the Companies Act 2006, the Income Statement has not been delivered.
+The financial statements were approved by the Board of Directors and authorised for issue on
+2 April 2025
+and were signed on its behalf by:
+M P James
+- Director
+The notes form part of these financial statements
+Page 3
+Didac Limited (Registered number: 03303042)
+Notes to the Financial Statements
+for the Year Ended 31 December 2024
+1.
+STATUTORY INFORMATION
+Didac Limited is a
+private company, limited by shares
+, registered in England and Wales. The
+company's registered number and registered office address can be found on the Company Information
+page.
+2.
+ACCOUNTING POLICIES
+Basis of preparing the financial statements
+These financial statements have been prepared in accordance with Financial Reporting Standard 102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland" including the provisions of Section 1A "Small Entities" and the Companies Act 2006. The financial statements have been prepared under the historical cost convention as modified by the revaluation of certain assets.
+Turnover
+Turnover represents the amounts receivable, excluding VAT and trade discounts, by the company for
+goods and services provided during the year. All transactions arose in the United Kingdom.
+Intangible assets
+Intangible assets are initially measured at cost. After initial recognition, intangible assets are measured
+at cost less any accumulated amortisation and any accumulated impairment losses.
+Development costs are being amortised evenly over their estimated useful life of five years.
+Tangible fixed assets
+Depreciation is provided at the following annual rates in order to write off each asset over its estimated useful life.
+Freehold property
+-
+2% on cost
+Plant and machinery
+-
+15% on cost
+Fixtures and fittings
+-
+15% on cost
+Taxation
+Taxation for the year comprises current and deferred tax. Tax is recognised in the Income Statement,
+except to the extent that it relates to items recognised in other comprehensive income or directly in
+equity.
+Current or deferred taxation assets and liabilities are not discounted.
+Current tax is recognised at the amount of tax payable using the tax rates and laws that have been
+enacted or substantively enacted by the statement of financial position date.
+Page 4
+continued...
+Didac Limited (Registered number: 03303042)
+Notes to the Financial Statements - continued
+for the Year Ended 31 December 2024
+2.
+ACCOUNTING POLICIES - continued
+Deferred tax
+Deferred tax is recognised in respect of all timing differences that have originated but not reversed at
+the statement of financial position date.
+Timing differences arise from the inclusion of income and expenses in tax assessments in periods
+different from those in which they are recognised in financial statements. Deferred tax is measured
+using tax rates and laws that have been enacted or substantively enacted by the year end and that are
+expected to apply to the reversal of the timing difference.
+Unrelieved tax losses and other deferred tax assets are recognised only to the extent that it is probable
+that they will be recovered against the reversal of deferred tax liabilities or other future taxable profits.
+Hire purchase and leasing commitments
+Rentals paid under operating leases are charged to profit or loss on a straight line basis over the period
+of the lease.
+Pension costs and other post-retirement benefits
+The company operates a defined contribution pension scheme.
+Contributions payable to the
+company's pension scheme are charged to profit or loss in the period to which they relate.
+Know how under development
+Know how under development is capitalised as intellectual property. No amortisation is provided in the
+first year, and it is written off after that over 5 years.
+3.
+EMPLOYEES AND DIRECTORS
+The average number of employees during the year was
+25
+(2023 -
+32
+) .
+4.
+INTANGIBLE FIXED ASSETS
+Development
+costs
+£
+COST
+At 1 January 2024
+and 31 December 2024
+157,804
+AMORTISATION
+At 1 January 2024
+and 31 December 2024
+157,804
+NET BOOK VALUE
+At 31 December 2024
+-
+At 31 December 2023
+-
+Page 5
+continued...
+Didac Limited (Registered number: 03303042)
+Notes to the Financial Statements - continued
+for the Year Ended 31 December 2024
+4.
+INTANGIBLE FIXED ASSETS - continued
+Intangible fixed assets represents knowhow in training frameworks for woodworking machinery
+operators and the merchanting trades.
+5.
+PROPERTY, PLANT AND EQUIPMENT
+Fixtures
+Freehold
+Plant and
+and
+property
+machinery
+fittings
+Totals
+£
+£
+£
+£
+COST OR VALUATION
+At 1 January 2024
+580,000
+109,214
+126,688
+815,902
+Additions
+-
+5,350
+10,487
+15,837
+At 31 December 2024
+580,000
+114,564
+137,175
+831,739
+DEPRECIATION
+At 1 January 2024
+-
+104,364
+108,110
+212,474
+Charge for year
+11,600
+2,647
+6,675
+20,922
+At 31 December 2024
+11,600
+107,011
+114,785
+233,396
+NET BOOK VALUE
+At 31 December 2024
+568,400
+7,553
+22,390
+598,343
+At 31 December 2023
+580,000
+4,850
+18,578
+603,428
+Cost or valuation at 31 December 2024 is represented by:
+Fixtures
+Freehold
+Plant and
+and
+property
+machinery
+fittings
+Totals
+£
+£
+£
+£
+Valuation in
+2023
+287,111
+-
+-
+287,111
+Cost
+292,889
+114,564
+137,175
+544,628
+580,000
+114,564
+137,175
+831,739
+The freehold property was valued at £580,000 by Cooper and Tanner Chartered surveyors on 14
+December 2023.
+Page 6
+continued...
+Didac Limited (Registered number: 03303042)
+Notes to the Financial Statements - continued
+for the Year Ended 31 December 2024
+6.
+DEBTORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+31.12.24
+31.12.23
+£
+£
+Trade debtors
+138,474
+125,656
+Amounts owed by associates
+15,469
+30,939
+Tax
+-
+15,761
+Prepayments and accrued income
+24,727
+22,668
+178,670
+195,024
+7.
+CREDITORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+31.12.24
+31.12.23
+£
+£
+Bank loans and overdrafts
+21,920
+41,849
+Trade creditors
+9,636
+19,230
+Amounts owed to group undertakings
+3,000
+-
+Tax
+13,938
+-
+Social security and other taxes
+14,246
+18,013
+VAT
+17,734
+26,341
+Other creditors
+24,620
+38,581
+Accrued expenses
+34,995
+-
+140,089
+144,014
+8.
+CREDITORS: AMOUNTS FALLING DUE AFTER MORE THAN ONE
+YEAR
+31.12.24
+31.12.23
+£
+£
+Bank loans - 2-5 years
+5,000
+15,000
+Mortgage - 2-5 years
+57,680
+44,256
+Mortgage more than 5 years
+100,201
+126,335
+Directors' loan accounts
+94,118
+157,118
+256,999
+342,709
+Amounts falling due in more than five years:
+Repayable by instalments
+Mortgage more than 5 years
+100,201
+126,335
+Page 7
+continued...
+Didac Limited (Registered number: 03303042)
+Notes to the Financial Statements - continued
+for the Year Ended 31 December 2024
+9.
+SECURED DEBTS
+The following secured debts are included within creditors:
+31.12.24
+31.12.23
+£
+£
+Bank loans
+184,801
+206,655
+Directors loan
+94,118
+157,118
+278,919
+363,773
+The bank loan is secured with a legal charge on the company's property and a debenture on the
+company's assets. The directors loan is secured by a second charge on the company's assets
+10.
+RESERVES
+Revaluation
+reserve
+£
+At 1 January 2024
+270,520
+Deferred tax on revaluation
+(18,575
+)
+Revaluation released
+(5,858
+)
+At 31 December 2024
+246,087
+Page 8
+continued...
+Didac Limited (Registered number: 03303042)
+Notes to the Financial Statements - continued
+for the Year Ended 31 December 2024
+11.
+RELATED PARTY DISCLOSURES
+MP James
+Director
+During the year the company entered in to the following transactions with the director:
+2024
+2023
+Capital introduced/(withdrawn)
+(63,000
+)
+79,500
+At the balance sheet date the company owed Mr M James £94,118 (2023 - £157,118) in respect of his
+director's loan account.
+Didac Education LLP:
+A partnership of which M James end E Stanley are equity members
+2024
+2023
+Licence fees paid
+15,470
+18,100
+At the balance sheet date the amount due from the LLP was £15,469 (2023- £30,939).
+Page 9

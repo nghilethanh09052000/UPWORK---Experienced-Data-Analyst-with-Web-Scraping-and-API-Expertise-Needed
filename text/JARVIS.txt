@@ -1,0 +1,412 @@
+Registered number: 02354200
+
+JARVIS TRAINING MANAGEMENT LIMITED
+
+DIRECTORS’ REPORT AND AUDITED FINANCIAL STATEMENTS
+INFORMATION FOR FILING WITH THE REGISTRAR
+
+FOR THE YEAR ENDED 30 JUNE 2024
+
+S
+
+A
+
+A10 31/03/2025 #133
+COMPANIES HOUSE
+
+MONDAY
+
+JARVIS TRAINING MANAGEMENT LIMITED
+REGISTERED NUMBER:02354200
+
+BALANCE SHEET
+AS AT 30 JUNE 2024
+2024 2023
+
+Note £ £
+Current assets
+Debtors: amounts falling due within one year 5 437,219 350,978
+Cash at bank and in hand 82,018 52,473
+
+519,237 403,451
+
+Creditors: amounts falling due within one
+year 6 (291,493) (216,366)
+Net current assets 227,744 187,085
+Total assets less current liabilities 227,744 187,085
+Creditors: amounts falling due after more
+than one year 7 (29,922) (35,887)
+Net assets 197,822 151,198
+Capital and reserves
+Called up share capital : 1,000 1,000
+Profit and loss account 196,822 150,198
+
+197,822 151,198
+The financial statements have been prepared in accordance with the provisions applicable to companies subject
+to the small companies regime and in accordance with the provisions of FRS 102 Section 1A - small entities.
+
+The financial statements have been delivered in accordance with the provisions applicable to companies subject
+to the small companies regime.
+
+The Company has opted not to file the statement of comprehensive income in accordance with provisions
+applicable to companies subject to the small companies’ regime.
+
+The financial statements were approved and authorised for issue by the board and were signed on its behalf by:
+V VCO
+
+{ram Neesa
+Director
+
+Date: 28/03/2025
+
+The notes on pages 2 to 7 form part of these financial statements.
+
+
+JARVIS TRAINING MANAGEMENT LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 JUNE 2024
+
+=
+
+N
+
+General information
+
+Jarvis Training Management Limited is a private company limited by shares incorporated in England and
+Wales. The registered office is 3rd Floor, 86-90 Paul Street, London, EC2A 4NE.
+
+Accounting policies
+
+2.1
+
+Basis of preparation of financial statements
+
+The financial statements have been prepared under the historical cost convention unless otherwise
+specified within these accounting policies and in accordance with FRS 102 ‘The Financial Reporting
+Standard applicable in the UK and the Republic of Ireland’ and the requirements of the Companies
+Act 2006. The disclosure requirements of Section 1A of FRS 102 have been applied other than
+where additional disclosure is required to show a true and fair view.
+
+The preparation of financial statements in compliance with FRS 102 requires the use of certain
+critical accounting estimates. It also requires management to exercise judgment in applying the
+Company's accounting policies.
+
+Foreign currency translation
+
+Functional and presentation currency:
+
+The Company's functional and presentational currency is GBP.
+
+Transactions and balances
+
+Foreign currency transactions are translated into the functional currency using the spot exchange
+rates at the dates of the transactions.
+
+At each period end foreign currency monetary items are translated using the closing rate. Non-
+monetary items measured at historical cost are translated using the exchange rate at the date of the
+transaction and non-monetary items measured at fair value are measured using the exchange rate
+when fair value was determined.
+
+Revenue
+
+Turnover is recognised at the fair value of the consideration received or receivable for goods and
+services provided in the normal course of business, and is shown net of VAT and other sales related
+
+taxes. .
+
+The company's main source of income is from the delivery of qualifications. Income is recognised on
+an accruals basis over the duration of each learners course, making due allowance for changes in
+each learners circumstances which impacts upon the level of income due to the company from
+learners employers.
+
+Additional income has been recognised on the accruals basis from the training and mentoring of
+employers on the retention and development of apprentices.
+
+Finance costs
+Finance costs are charged to profit or loss over the term of the debt using the effective interest
+
+method so that the amount charged is at a constant rate on the carrying amount. Issue costs are
+initially recognised as a reduction in the proceeds of the associated capital instrument.
+
+Page 2
+
+JARVIS TRAINING MANAGEMENT LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 JUNE 2024
+
+2. Accounting policies (continued)
+
+25
+
+2.6
+
+Borrowing costs
+
+All borrowing costs are recognised in profit or loss in the year in which they are incurred.
+
+Pensions
+
+Defined contribution pension plan
+
+The Company operates a defined contribution plan for its employees. A defined contribution plan is a
+pension plan under which the Company pays fixed contributions into a separate entity. Once the
+contributions have been paid the Company has no further payment obligations.
+
+The contributions are recognised as an expense in profit or loss when they fall due. Amounts not paid
+are shown in accruals as a liability in the Balance Sheet. The assets of the plan are held separately
+from the Company in independently administered funds.
+
+Taxation
+
+Tax is recognised in profit or loss except that a charge attributable to an item of income and expense
+recognised as other comprehensive income or to an item recognised directly in equity is also
+recognised in other comprehensive income or directly in equity respectively.
+
+The current income tax charge is calculated on the basis of tax rates and laws that have been
+enacted or substantively enacted by the balance sheet date in the countries where the Company
+operates and generates income.
+
+Tangible fixed assets
+
+Tangible fixed assets under the cost model are stated at historical cost less accumulated
+depreciation and any accumulated impairment losses. Historical cost includes expenditure that is
+directly attributable to bringing the asset to the location and condition necessary for it to be capable of
+
+operating in the manner intended by management.
+
+Depreciation is charged so as to allocate the cost of assets less their residual value over their
+estimated useful lives, using the straight-line method.
+
+Depreciation is provided on the following basis: °
+
+Motor vehicles - 4 years
+Fixtures and fittings - 3 years
+Computer equipment - 3 years
+
+The assets’ residual values, useful lives and depreciation methods are reviewed, and adjusted
+prospectively if appropriate, or if there is an indication of a significant change since the last reporting
+date.
+
+Gains and losses on disposals are determined by comparing the proceeds with the carrying amount
+and are recognised in profit or loss.
+
+Page 3
+
+JARVIS TRAINING MANAGEMENT LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 JUNE 2024
+
+2. Accounting policies (continued)
+2.9 Debtors
+Short-term debtors are measured at transaction price, less any impairment. Loans receivable are
+measured initially at fair value, net of transaction costs, and are measured subsequently at amortised
+cost using the effective interest method, less any impairment.
+2.10 Cash and cash equivalents
+Cash is represented by cash in hand and deposits with financial institutions repayable without penalty
+on notice of not more than 24 hours. Cash equivalents are highly liquid investments that mature in no
+more than three months from the date of acquisition and that are readily convertible to known
+amounts of cash with insignificant risk of change in value.
+2.11 Creditors
+Short-term creditors are measured at the transaction price. Other financial liabilities, including bank
+loans, are measured initially at fair value, net of transaction costs, and are measured subsequently at
+amortised cost using the effective interest method.
+3. Employees
+
+The average monthly number of employees, including directors, during the year was 20 (2023 - 28).
+
+Page 4
+
+JARVIS TRAINING MANAGEMENT LIMITED
+
+>
+
+a
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 JUNE 2024
+
+Tangible fixed assets
+
+Cost or valuation
+At 1 July 2023
+Disposals
+
+At 30 June 2024
+Depreciation
+
+At 1 July 2023
+Disposals
+
+At 30 June 2024
+
+Net book value
+
+At 30 June 2024
+
+At 30 June 2023
+
+Debtors
+
+Trade debtors
+
+Amounts owed by group undertakings
+Other debtors
+
+Prepayments and accrued income
+
+Motor Fixtures and
+
+vehicles
+£
+
+8,000
+(8,000)
+
+8,000
+(8,000)
+
+fittings
+£
+5,950
+
+5,950
+
+5,950
+
+5,950
+
+Computer
+equipment
+£
+
+8,292
+
+8,292
+
+8,292
+
+8,292
+
+2024
+£
+
+6,690
+95,356
+1,640
+333,533
+
+437,219
+
+Total
+
+22,242
+(8,000)
+
+14,242
+
+22,242
+(8,000)
+
+14,242
+
+2023
+£
+
+178,190
+95,356
+1,167
+76,265
+
+350,978
+
+Amounts owed by group undertakings are unsecured, interest free, have no fixed date of repayment and
+
+are repayable on demand.
+
+Page 5
+
+JARVIS TRAINING MANAGEMENT LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 JUNE 2024
+
+Creditors: Amounts falling due within one year
+
+2024 2023
+
+| £ £
+Bank loans 5,675 5,186
+Trade creditors 100,871 19,636
+Amounts owed to associates 42,655 27,267
+Corporation tax - 10,049
+Other taxation and social security . "24,207 46,942
+Other creditors 78,219 29,347
+Accruals and deferred income 42,866 77,939
+
+291,493 216,366
+
+Amounts owed to associates are unsecured, interest free, have no fixed date of repayment and are
+repayable on demand.
+
+Creditors: Amounts falling due after more than one year
+
+2024 2023
+£ £
+Bank loans 29,922 35,887
+
+29,922 35,887
+
+Related party transactions
+
+As a wholly owned subsidiary, the company is exempt from the requirements of FRS 102 Section 33:
+Related Party Transactions, to disclose transactions with entities that are wholly owned within the same
+
+group.
+
+The company incurred tax relief charges of £15,388 (2023: £27,267) from Progility Finco Limited, a
+connected company by virtue of having the same ultimate controlling party, DNY Investments Holding
+Limited. At the balance sheet date, the company had £42,655 (2023: £27,267) owed to Progility Finco
+Limited included within creditors.
+
+Page 6
+
+JARVIS TRAINING MANAGEMENT LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 JUNE 2024
+
+Ld
+
+Controlling party
+
+Woodspeen Training Limited holds 100% of the share capital of Jarvis Training Management Limited. On
+13 June 2024, the shares of Woodspeen Training Limited were transferred intra-group from ILX Group plc
+to DNY Investment Holdings Limited.
+
+The company’s results and that of Woodspeen Training Limited up to 13 June 2024, the date the shares
+
+were transferred intra-group, are included in the consolidated accounts of ILX Group plc. ILX Group plc
+was the immediate parent company and therefore, the parent undertaking of the largest group, which
+includes the company and for which group accounts are prepared, is ILX Group pic. Copies of the group
+financial statements of ILX Group plc are available from its registered office; 3rd Floor, 86-90 Paul Street,
+London, EC2A 4NE.
+
+The company’s ultimate parent company is DNY Investments Holdings Limited, a company registered in
+the British Virgin Islands.
+
+At the balance sheet date, Alphen Trust Company AG, as trustee of the WBDL Trust, held the majority of
+the shares of DNY Investment Holdings Limited which in turn holds 100% of the share capital of the
+company, and is therefore considered to be the ultimate controlling party.
+
+Auditor's information
+
+The auditor's report on the financial statements for the year ended 30 June 2024 was unqualified.
+
+The audit report was signed on 28March 2025 by Zara Dunster FCA (Senior Statutory Auditor) on
+behalf of Town & Forest.
+
+Page 7
+

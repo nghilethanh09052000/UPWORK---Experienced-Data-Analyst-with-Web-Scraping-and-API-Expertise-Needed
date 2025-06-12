@@ -1,0 +1,164 @@
+Med Learn Training Limited - Period Ending 2023-09-30
+Med Learn Training Limited
+08210071
+false
+2022-10-01
+2023-09-30
+2023-09-30
+The principal activity of the company is First Aid Trainer
+Digita Accounts Production Advanced
+6.30.9574.0
+true
+08210071
+2022-10-01
+2023-09-30
+08210071
+2023-09-30
+08210071
+core:CurrentFinancialInstruments
+core:WithinOneYear
+2023-09-30
+08210071
+core:Non-currentFinancialInstruments
+core:AfterOneYear
+2023-09-30
+08210071
+bus:Micro-entities
+2022-10-01
+2023-09-30
+08210071
+bus:AuditExemptWithAccountantsReport
+2022-10-01
+2023-09-30
+08210071
+bus:FullAccounts
+2022-10-01
+2023-09-30
+08210071
+bus:SmallCompaniesRegimeForAccounts
+2022-10-01
+2023-09-30
+08210071
+bus:RegisteredOffice
+2022-10-01
+2023-09-30
+08210071
+bus:Director1
+2022-10-01
+2023-09-30
+08210071
+bus:PrivateLimitedCompanyLtd
+2022-10-01
+2023-09-30
+08210071
+countries:England
+2022-10-01
+2023-09-30
+08210071
+2021-10-01
+2022-09-30
+08210071
+2022-09-30
+08210071
+core:CurrentFinancialInstruments
+core:WithinOneYear
+2022-09-30
+08210071
+core:Non-currentFinancialInstruments
+core:AfterOneYear
+2022-09-30
+iso4217:GBP
+xbrli:pure
+Registration number:
+08210071
+Med Learn Training Limited
+Filleted Unaudited Financial Statements
+for the Year Ended 30 September 2023
+Med Learn Training Limited
+(Registration number: 08210071)
+Balance Sheet as at 30 September 2023
+2023
+£
+2022
+£
+Fixed assets
+11,891
+14,861
+Current assets
+24,136
+31,325
+Creditors: Amounts falling due within one year
+(
+24,197
+)
+(
+32,755
+)
+Net current liabilities
+(
+61
+)
+(
+1,430
+)
+Total assets less current liabilities
+11,830
+13,431
+Creditors: Amounts falling due after more than one year
+(
+10,333
+)
+(
+12,000
+)
+Accruals and deferred income
+(
+1,250
+)
+(
+1,250
+)
+247
+181
+Capital and reserves
+247
+181
+General information
+The company is a private company limited by share capital, incorporated in England.
+The address of its registered office is:
+Gibson House
+Gibson Road
+Hemswell Cliff
+Gainsborough
+Lincolnshire
+DN21 5TL
+Registration number: 08210071
+Basis of preparation
+The financial statements have been prepared under the historical cost convention and in accordance with FRS 105 'The Financial Reporting Standard applicable to the Micro-entities Regime'.
+Staff numbers
+The average number of persons employed by the company (including the director) during the year was
+1
+(2022 -
+1
+).
+Directors' benefits: advances, credits and guarantees
+During the year, the director repaid £8,252 of the director's loan account. Interest is being charged on this loan at the HMRC official rate of interest. The amount outstanding at the year end, which is repayable on demand and included in current assets, was £9,495 (2022 - £17,747).
+Page 1
+Med Learn Training Limited
+(Registration number: 08210071)
+Balance Sheet as at 30 September 2023
+These financial statements have been prepared in accordance with the micro-entity provisions of the Companies Act 2006 and delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+For the financial year ending 30 September 2023 the company was entitled to exemption from audit under section 477 of the Companies Act 2006 relating to small companies.
+Director's responsibilities:
+•
+The members have not required the company to obtain an audit of its accounts for the year in question in accordance with section 476
+; and
+•
+The director acknowledges his responsibilities for complying with the requirements of the Act with respect to accounting records and the preparation of accounts.
+Approved and authorised by the
+director
+on
+28 June 2024
+Mr A Hind
+Director
+Page 2

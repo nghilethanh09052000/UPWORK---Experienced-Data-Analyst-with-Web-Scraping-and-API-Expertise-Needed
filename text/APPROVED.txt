@@ -1,0 +1,327 @@
+Approved Training Limited,Ltd - AccountsLtd - Accounts
+2023-06-01
+10198995
+2024-05-31
+10198995
+2023-06-01
+2024-05-31
+10198995
+2023-05-31
+10198995
+2022-06-01
+2023-05-31
+10198995
+uk-core:WithinOneYear
+2023-05-31
+10198995
+uk-core:WithinOneYear
+2024-05-31
+10198995
+uk-core:AfterOneYear
+2023-05-31
+10198995
+uk-core:AfterOneYear
+2024-05-31
+10198995
+uk-core:ShareCapital
+2024-05-31
+10198995
+uk-core:ShareCapital
+2023-05-31
+10198995
+uk-core:RetainedEarningsAccumulatedLosses
+2024-05-31
+10198995
+uk-core:RetainedEarningsAccumulatedLosses
+2023-05-31
+10198995
+uk-bus:Director1
+2023-06-01
+2024-05-31
+iso4217:GBP
+xbrli:pure
+10198995
+uk-bus:AuditExemptWithAccountantsReport
+2023-06-01
+2024-05-31
+10198995
+uk-bus:FRS102
+2023-06-01
+2024-05-31
+10198995
+uk-bus:FullAccounts
+2023-06-01
+2024-05-31
+10198995
+uk-bus:PrivateLimitedCompanyLtd
+2023-06-01
+2024-05-31
+Approved Training Limited
+Registered Number
+:
+10198995
+For the year ended
+31 May 2024
+England and Wales
+Unaudited Financial Statements
+2
+For the year ended 31 May 2024
+Approved Training Limited
+Contents Page
+1
+Statement of Financial Position
+2 to 3
+Notes to the Financial Statements
+3
+Registered Number
+:
+10198995
+As at
+31 May 2024
+Approved Training Limited
+Statement of Financial Position
+£
+£
+2023
+2024
+Notes
+Fixed assets
+Property
+,
+plant and equipment
+11,734
+-
+2
+11,734
+-
+Current assets
+Trade and other receivables
+22,243
+84,228
+3
+2,156
+Cash and cash equivalents
+1,560
+85,788
+24,399
+Trade and other payables
+:
+amounts falling due within one year
+(
+15,903
+)
+(
+34,857
+)
+4
+8,496
+50,931
+Net current assets
+Total assets less current liabilities
+62,665
+8,496
+Trade and other payables
+:
+amounts falling due after more than one
+year
+-
+(
+44,755
+)
+5
+17,910
+Net assets
+8,496
+Capital and reserves
+Called up share capital
+500
+500
+Retained earnings
+17,410
+7,996
+17,910
+8,496
+Shareholders' funds
+For the year ended 31 May 2024 the company was entitled to exemption from audit under Section 477 of the Companies Act 2006 relating to small companies.
+The members have not required the company to obtain an audit of its financial statements for the year ended 31 May 2024 in accordance with Section 476 of the Companies Act 2006
+The directors acknowledge their responsibilities for:a) ensuring that the company keeps proper accounting records which comply with Sections 386 and 387 of the Companies Act 2006 and
+b
+)
+preparing financial statements which give a true and fair view of the state of affairs of the company as at the end of each
+financial year and of its profit or loss for each financial year in accordance with the requirements of Section
+394
+and
+395
+and
+which otherwise comply with the requirements of the Companies Act
+2006
+relating to financial statements
+,
+so far as applicable
+to the company
+.
+In accordance with Section
+444
+of the Companies Act
+2006
+,
+the Income Statement has not been delivered
+.
+The financial statements have been prepared and delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+Bethany Lawrence-Cronin
+Director
+These financial statements were approved and authorised for issue by the Board on
+25 February 2025
+and were signed by:
+The notes form part of these financial statements
+1 of 3
+4
+For the year ended 31 May 2024
+Approved Training Limited
+Notes to the Financial Statements
+Statutory Information
+Approved Training Limited is a private limited company
+,
+limited by shares
+,
+domiciled in England and Wales
+,
+registration number
+10198995
+.
+Registered address
+:
+The Studio
+1 Comberton Road
+Kidderminster
+Worcestershire
+DY10 1UA
+The presentation currency is £ sterling
+.
+1
+.
+Accounting policies
+Basis of preparing the financial statements
+These financial statements have been prepared in accordance with the provisions of Section
+1
+A of Financial Reporting Standard
+102
+''
+The Financial Reporting Standard applicable in the UK and Republic of Ireland
+''
+and the Companies Act
+2006
+.
+The
+financial statements have been prepared under the historical costs convention as modified by the revaluation of certain assets
+.
+2
+.
+Property
+,
+plant and equipment
+Computer
+Equipment
+£
+Cost or valuation
+16,144
+Additions
+At
+31
+May
+2024
+16,144
+Provision for depreciation and impairment
+Charge for year
+4,410
+At
+31
+May
+2024
+4,410
+At
+31
+May
+2024
+Net book value
+11,734
+2 of 3
+5
+For the year ended 31 May 2024
+Approved Training Limited
+Notes to the Financial Statements Continued
+3
+.
+Trade and other receivables
+2023
+2024
+£
+£
+Trade debtors
+11,959
+20,287
+Amounts owed by group undertakings and participating interests
+66,903
+-
+Other debtors
+5,366
+1,956
+22,243
+84,228
+The debtors above include the following amounts falling due after more than one year
+:
+Trade debtors
+-
+20,287
+Other debtors
+-
+1,956
+-
+22,243
+4
+.
+Trade and other payables
+:
+amounts falling due within one year
+2023
+2024
+£
+£
+Trade creditors
+23,147
+12,952
+Taxation and social security
+10,815
+2,951
+Other creditors
+895
+-
+34,857
+15,903
+5
+.
+Trade and other payables
+:
+amounts falling due after more than one year
+2023
+2024
+£
+£
+Amounts owed to group undertaking and undertaking in which the company
+has a participating interest
+24,755
+-
+Other creditors
+20,000
+-
+44,755
+-
+6
+.
+Average number of persons employed
+During the year the average number of employees was
+0
+(2023 :
+2
+)
+3 of 3

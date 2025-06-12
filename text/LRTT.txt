@@ -1,0 +1,1422 @@
+LRTT_LIMITED - Accounts
+Company registration number
+04633192
+(England and Wales)
+LRTT LIMITED
+ANNUAL REPORT AND FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2023
+LRTT LIMITED
+COMPANY INFORMATION
+Directors
+Mr I Fitzpatrick
+Mr S Bruinsma
+Mr J Price
+Secretary
+Mr J Thyra
+Company number
+04633192
+Registered office
+Eden House
+Hartlebury Trading Estate Hartebury
+Kidderminster
+Worcestershire
+DY10 4JB
+Auditor
+Afford Bond Holdings Limited
+Enterprise House
+97 Alderley Road
+Wilmslow
+Cheshire
+SK9 1PT
+LRTT LIMITED
+CONTENTS
+Page
+Strategic report
+2 - 3
+Directors' report
+1
+Directors' responsibilities statement
+4
+Independent auditor's report
+5 - 7
+Profit and loss account
+8
+Statement of comprehensive income
+9
+Balance sheet
+10
+Statement of changes in equity
+11
+Notes to the financial statements
+12 - 22
+LRTT LIMITED
+DIRECTORS' REPORT
+FOR THE YEAR ENDED 31 DECEMBER 2023
+- 1 -
+The directors present their annual report and financial statements for the year ended 31 December 2023.
+Principal activities
+The principal activity of the company continued to be that of
+approved EASA and UKCAA training solutions.
+Results and dividends
+The results for the year are set out on page 8.
+No ordinary dividends were paid. The directors do not recommend payment of a final dividend.
+Directors
+The directors who held office during the year and up to the date of signature of the financial statements were as follows:
+Mr I Fitzpatrick
+Mr S Bruinsma
+Mr J Price
+Auditor
+Afford Bond Holdings Limited were appointed as auditor to the company and in accordance with section 485 of the Companies Act 2006, a resolution proposing that they be re-appointed will be put at a General Meeting.
+Statement of disclosure to auditor
+So far as each person who was a director at the date of approving this report is aware, there is no relevant audit information of which the company’s
+auditor
+is unaware. Additionally, the directors individually have taken all the necessary steps that they ought to have taken as directors in order to make themselves aware of all relevant audit information and to establish that the company’s
+auditor
+is aware of that information.
+Medium-sized companies exemption
+This report has been prepared in accordance with the provisions applicable to companies entitled to the medium-sized companies exemption.
+By order of the board
+Mr J Thyra
+Secretary
+17 May 2024
+LRTT LIMITED
+STRATEGIC REPORT
+FOR THE YEAR ENDED 31 DECEMBER 2023
+- 2 -
+The directors present the strategic report for the year ended 31 December 2023.
+Review of the business
+The company's key financial and other performance indicators during the year were as follows:
+2023
+2022
+£
+£
+Turnover
+8,408,997
+6,416,045
+Total operating profit/(loss)
+227,861
+44,356
+Profit/(loss) after tax
+32,238
+328,798
+Shareholders' funds
+2,986,099
+2,953,861
+Turnover for the year increased by 31% compared to 2022. Operating
+Profit
+improved to
+£2
+27,861
+versus prior year due to
+volume growth
+, and continued recovery following the adverse impact of Covid-19 in 2021.
+Operational efficiency has improved with the record intake of apprentice numbers in the final quarter of 2023 and uptake of spaces on open courses as profuse demand returns. The business has also not only increased business with its existing portfolio of blue-chip customers but also expanded the client base both in the UK and overseas
+.
+Principal risks and uncertainties
+Under normal economic conditions, the company's principal risks relate to interest rates, pricing, credit risk, liquidity and foreign currency. These are described later in this section. As the company emerges from the Covid-19 pandemic, liquidity is no longer a major concern. However, recovery is not yet complete, and financial vigilance
+during this rapid growth phase
+remains imperative. The impact of Brexit on the company’s trading has not been significant.
+Liquidity
+While the risks are no longer as severe as during the height of the Covid-19 pandemic, vigilance is ongoing with regard to the working capital management. The company actively manages its cash flow.
+The directors believe that the cash reserves and its facilities are sufficient to continue trading for the foreseeable future.
+LRTT LIMITED
+STRATEGIC REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2023
+- 3 -
+Principal risks and uncertainties
+Competitive risk
+The company operates in a competitive market.
+It has long term contracts and relationships and has developed training materials and excellence in training to
+help keep the company ahead of the competition
+.
+In
+t
+erest rate risk
+Bank
+balances
+are used on a short-term basis and bear interest at floating rates. Interest is charged at market rates on group loans.
+Price risk
+The company seeks to minimise any significant exposure to changes in price by
+operating long term contracts,
+together with competitive tendering where appropriate.
+Credit risk
+The company aims to mitigate external credit risk by selling to a
+blue chip
+customer base in different geographical markets
+.
+Liquidity risk
+Cash flows are closely monitored and controlled, including commitments to new
+contracts
+and capital expenditure. The company operates within a wider group treasury function and group facility
+.
+In the course of trading the company
+trades using m
+ainly trades using mainly British Pounds and Euros
+.
+There are also group loans denominated in foreign currencies
+including British Pounds, Euros and Swiss Francs
+which
+are hedged by netting balances owing between group companies.
+Impact of Brexit
+While
+the company
+continue
+s
+to deal with the impact of Covid-19, it is difficult to assess the impact of Brexit in isolation. The company’s diverse business model in terms of
+service
+and market geography, mitigates the impact of a localised factor such as Brexit.The training business is seeing a divergence of EASA and UKCAA standards and while this will add additional cost and complexity to the business, it also represents an opportunity for the businesses’ flexible digital products including the Part 66 courseware and exam services.
+Impact of Covid-19
+The Covid-19 pandemic ha
+s had an
+adverse impact on the company’s operations
+in recent years.
+Despite this, the company
+has returned to
+profitab
+ility
+during th
+e period
+, and has recovered strongly as relative normality has returned.
+By order of the board
+Mr J Thyra
+Secretary
+17 May 2024
+LRTT LIMITED
+DIRECTORS' RESPONSIBILITIES STATEMENT
+FOR THE YEAR ENDED 31 DECEMBER 2023
+- 4 -
+The directors are responsible for preparing the annual report and the financial statements in accordance with applicable law and regulations.
+Company law requires the directors to prepare financial statements for each financial year. Under that law the directors have elected to prepare the financial statements in accordance with United Kingdom Generally Accepted Accounting Practice (United Kingdom Accounting Standards and applicable law). Under company law the directors must not approve the financial statements unless they are satisfied that they give a true and fair view of the state of affairs of the company and of the profit or loss of the company for that period. In preparing these financial statements, the directors are required to:
+select suitable accounting policies and then apply them consistently;
+make judgements and accounting estimates that are reasonable and prudent;
+prepare the financial statements on the going concern basis unless it is inappropriate to presume that the company will continue in business.
+The directors are responsible for keeping adequate accounting records that are sufficient to show and explain the company’s transactions and disclose with reasonable accuracy at any time the financial position of the company and enable them to ensure that the financial statements comply with the Companies Act 2006.
+They are also responsible for safeguarding the assets of the company and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+LRTT LIMITED
+INDEPENDENT AUDITOR'S REPORT
+TO THE MEMBERS OF LRTT LIMITED
+- 5 -
+Opinion
+We have audited the financial statements of LRTT Limited (the 'company') for the year ended 31 December 2023 which comprise the profit and loss account, the statement of comprehensive income, the balance sheet, the statement of changes in equity and notes to the financial statements, including significant accounting policies.
+The financial reporting framework that has been applied in their preparation is applicable law and United Kingdom Accounting Standards, including Financial Reporting Standard 102
+The Financial Reporting Standard applicable in the UK and Republic of Ireland
+(United Kingdom Generally Accepted Accounting Practice).
+In our opinion the financial statements:
+give a true and fair view of the state of the company's affairs as at 31 December 2023 and of its profit for the year then ended;
+have been properly prepared in accordance with United Kingdom Generally Accepted Accounting Practice; and
+have been prepared in accordance with the requirements of the Companies Act 2006.
+Basis for opinion
+We conducted our audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and applicable law. Our responsibilities under those standards are further described in the
+Auditor's
+responsibilities for the audit of the
+financial statements
+section of our report. We are independent of the
+company
+in accordance with the ethical requirements that are relevant to our audit of the
+financial statements
+in the UK, including the FRC’s Ethical Standard
+, and we have fulfilled our other ethical responsibilities in accordance with these requirements. We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our opinion.
+Conclusions relating to going concern
+In auditing the financial statements, we have concluded that the directors' use of the going concern basis of accounting in the preparation of the financial statements is appropriate.
+Based on the work we have performed, we have not identified any material uncertainties relating to events or conditions that, individually or collectively, may cast significant doubt on the company's ability to continue as a going concern for a period of at least twelve months from when the financial statements are authorised for issue.
+Our responsibilities and the responsibilities of the directors with respect to going concern are described in the relevant sections of this report.
+Other information
+The other information comprises the information included in the annual report other than the financial statements and our auditor's report thereon. The directors are responsible for the other information contained within the annual report. Our opinion on the financial statements does not cover the other information and, except to the extent otherwise explicitly stated in our report, we do not express any form of assurance conclusion thereon. Our responsibility is to read the other information and, in doing so, consider whether the other information is materially inconsistent with the financial statements or our knowledge obtained in the course of the audit, or otherwise appears to be materially misstated. If we identify such material inconsistencies or apparent material misstatements, we are required to determine whether this gives rise to a material misstatement in the financial statements themselves. If, based on the work we have performed, we conclude that there is a material misstatement of this other information, we are required to report that fact.
+We have nothing to report in this regard.
+Opinions on other matters prescribed by the Companies Act 2006
+In our opinion, based on the work undertaken in the course of our audit
+:
+the information given in the strategic report and the directors'
+r
+eport for the financial year for which the financial statements are prepared is consistent with the financial statements
+; and
+the strategic report and the directors' report have been prepared in accordance with applicable legal requirements.
+LRTT LIMITED
+INDEPENDENT AUDITOR'S REPORT (CONTINUED)
+TO THE MEMBERS OF LRTT LIMITED
+- 6 -
+Matters on which we are required to report by exception
+In the light of the knowledge and understanding of the company and its environment obtained in the course of the audit, we have not identifie
+d
+material misstatements in the strategic report or the directors'
+r
+eport
+.
+We have nothing to report in respect of the following matters in relation to which the Companies Act 2006 requires us to report to you if, in our opinion:
+adequate accounting records have not been kept, or returns adequate for our audit have not been received from branches not visited by us; or
+the financial statements are not in agreement with the accounting records and returns; or
+certain disclosures of
+remuneration specified by law are not made; or
+we have not received all the information and explanations we require for our audit.
+Responsibilities of directors
+As explained more fully in the directors'
+r
+esponsibilities
+s
+tatement, the directors are responsible for the preparation of the financial statements and for being satisfied that they give a true and fair view, and for such internal control as the directors determine is necessary to enable the preparation of
+financial statements
+that are free from material misstatement, whether due to fraud or error. In preparing the
+financial statements
+, the
+directors are
+responsible for assessing the company
+'
+s ability to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless the directors either intend to liquidate the company or to cease operations, or have
+no realistic alternative but to do so.
+Auditor's responsibilities for the audit of the financial statements
+Our objectives are to obtain reasonable assurance about whether the
+financial statements
+as a whole are free from material misstatement, whether due to fraud or error, and to issue an
+auditor's
+report that includes our opinion. Reasonable assurance is a high level of assurance but is not a guarantee that an audit conducted in accordance with
+ISAs (UK)
+will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these
+financial statements
+.
+The extent to which our procedures are capable of detecting irregularities, including fraud, is detailed below
+.
+The auditor’s explanation of its audit response will depend on the risks identified but may include:
+- Enquiry of management, those charged with governance and the entity’s solicitors (or in-house legal team) around actual and potential litigation and claims.
+- Enquiry of entity staff in tax and compliance functions to identify any instances of non-compliance with laws and regulations.
+- Reviewing minutes of meetings of those charged with governance.
+- Reviewing internal audit reports.
+- Reviewing financial statement disclosures and testing to supporting documentation to assess compliance with applicable laws and regulations.
+- Auditing the risk of management override of controls, including through testing journal entries and other adjustments for appropriateness, and evaluating the business rationale of significant transactions outside the normal course of business.
+A further description of our responsibilities is available on the Financial Reporting Council’s website at: https://www.frc.org.uk/auditorsresponsibilities. This description forms part of our auditor's report.
+Use of our report
+This report is made solely to the company's members, as a body, in accordance with Chapter 3 of Part 16 of the Companies Act 2006. Our audit work has been undertaken so that we might state to the company's members those matters we are required to state to them in an auditor's report and for no other purpose. To the fullest extent permitted by law, we do not accept or assume responsibility to anyone other than the company and the company's members as a body, for our audit work, for this report, or for the opinions we have formed.
+LRTT LIMITED
+INDEPENDENT AUDITOR'S REPORT (CONTINUED)
+TO THE MEMBERS OF LRTT LIMITED
+- 7 -
+Thomas Hornbuckle BA(Hons) FCA
+Senior Statutory Auditor
+For and on behalf of
+Afford Bond Holdings Limited
+17 May 2024
+Chartered Accountants
+Statutory Auditor
+Enterprise House
+97 Alderley Road
+Wilmslow
+Cheshire
+SK9 1PT
+LRTT LIMITED
+PROFIT AND LOSS ACCOUNT
+FOR THE YEAR ENDED 31 DECEMBER 2023
+- 8 -
+2023
+2022
+Notes
+£
+£
+Turnover
+3
+8,408,997
+6,416,045
+Cost of sales
+(
+4,219,348
+)
+(
+2,927,929
+)
+Gross profit
+4,189,649
+3,488,116
+Administrative expenses
+(
+3,961,788
+)
+(
+3,443,760
+)
+Operating profit
+5
+227,861
+44,356
+Interest receivable and similar income
+7
+1,675
+28,796
+Interest payable and similar expenses
+8
+(
+15,266
+)
+-
+0
+Profit before taxation
+214,270
+73,152
+Tax on profit
+9
+(
+182,032
+)
+255,646
+Profit for the financial year
+32,238
+328,798
+The profit and loss account has been prepared on the basis that all operations are continuing operations.
+LRTT LIMITED
+STATEMENT OF COMPREHENSIVE INCOME
+FOR THE YEAR ENDED 31 DECEMBER 2023
+- 9 -
+2023
+2022
+£
+£
+Profit for the year
+32,238
+328,798
+Other comprehensive income
+-
+-
+Total comprehensive income for the year
+32,238
+328,798
+LRTT LIMITED
+BALANCE SHEET
+AS AT
+31 DECEMBER 2023
+31 December 2023
+- 10 -
+2023
+2022
+Notes
+£
+£
+£
+£
+Fixed assets
+Intangible assets
+11
+2,153,395
+2,429,284
+Tangible assets
+10
+461,772
+423,522
+2,615,167
+2,852,806
+Current assets
+Debtors
+12
+3,310,380
+4,647,254
+Cash at bank and in hand
+676,359
+633,622
+3,986,739
+5,280,876
+Creditors: amounts falling due within one year
+13
+(
+3,440,913
+)
+(
+5,086,674
+)
+Net current assets
+545,826
+194,202
+Total assets less current liabilities
+3,160,993
+3,047,008
+Provisions for liabilities
+Deferred tax liability
+14
+166,428
+80,380
+(166,428)
+(80,380)
+Deferred income
+15
+(
+8,466
+)
+(
+12,767
+)
+Net assets
+2,986,099
+2,953,861
+Capital and reserves
+Called up share capital
+17
+268,289
+268,289
+Profit and loss reserves
+2,717,810
+2,685,572
+Total equity
+2,986,099
+2,953,861
+These financial statements have been prepared in accordance with the provisions relating to medium-sized companies.
+The financial statements were approved by the board of directors and authorised for issue on
+17 May 2024
+and are signed on its behalf by:
+Mr I Fitzpatrick
+Director
+Company registration number
+04633192
+(England and Wales)
+LRTT LIMITED
+STATEMENT OF CHANGES IN EQUITY
+FOR THE YEAR ENDED 31 DECEMBER 2023
+- 11 -
+Share capital
+Profit and loss reserves
+Total
+£
+£
+£
+Balance at 1 January 2022
+268,289
+2,356,774
+2,625,063
+Year ended 31 December 2022:
+Profit and total comprehensive income for the year
+-
+328,798
+328,798
+Balance at 31 December 2022
+268,289
+2,685,572
+2,953,861
+Year ended 31 December 2023:
+Profit and total comprehensive income for the year
+-
+32,238
+32,238
+Balance at 31 December 2023
+268,289
+2,717,810
+2,986,099
+LRTT LIMITED
+STATEMENT OF CHANGES IN EQUITY (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2023
+- 12 -
+1
+Judgements and key sources of estimation uncertainty
+In the application of the company’s accounting policies, the directors are required to make judgements, estimates and assumptions about the carrying amount of assets and liabilities that are not readily apparent from other sources. The estimates and associated assumptions are based on historical experience and other factors that are considered to be relevant. Actual results may differ from these estimates.
+The estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to accounting estimates are recognised in the period in which the estimate is revised where the revision affects only that period, or in the period of the revision and future periods where the revision affects both current and future periods.
+2
+Accounting policies
+Company information
+LRTT Limited is a
+private
+company
+limited by shares
+incorporated in
+England and Wales
+.
+The registered office is
+Eden House, Hartlebury Trading Estate Hartebury, Kidderminster, Worcestershire, DY10 4JB.
+2.1
+Accounting convention
+These financial statements have been prepared in accordance with FRS 102 “The Financial Reporting Standard applicable in the UK and Republic of Ireland” (“FRS 102”) and the requirements of the Companies Act 2006.
+The financial statements are prepared in
+sterling
+, which is the functional currency of the company.
+Monetary a
+mounts
+in these financial statements are
+rounded to the nearest £.
+The financial statements have been prepared under the historical cost convention. The principal accounting policies adopted are set out below.
+This company is a qualifying entity for the purposes of FRS 102, being a member of a group where the parent of that group prepares
+publicly available consolidated financial statements
+, including this company,
+which are
+intended to give a true and fair view of the assets, liabilities,
+financial position and profit or loss
+of the group
+.
+T
+he company has
+therefore
+taken advantage of
+e
+xemptions from the following disclosure requirements:
+Section 7 ‘Statement of Cash Flows’: Presentation of a statement of cash flow and related notes and disclosures;
+Section 11 ‘Basic Financial Instruments’ and Section 12 ‘Other Financial Instrument Issues
+: Interest income/expense and net gains/losses for financial instruments not measured at fair value; basis of determining fair values; details of collateral, loan defaults or breaches, details of hedges, hedging fair value changes recognised in profit or loss and in other comprehensive income;
+Section 26 ‘Share based Payment’
+:
+Share-based payment expense charged to profit or loss, reconciliation of opening and closing number and weighted average exercise price of share options, how the fair value of options granted was measured, measurement and carrying amount of liabilities for cash-settled share-based payments, explanation of modifications to arrangements
+;
+Section 33 ‘Related Party Disclosures’
+:
+Compensation for key management personnel
+.
+The financial statements of the company are consolidated in the financial statements of Resource International Group Investments AG (incorporated in Switzerland). These consolidated financial statements are available from its registered office, Turmstrasse, 30 Steinhausen 6312 CH.
+2.2
+Going concern
+A
+true
+t the time of approving the financial statements
+,
+t
+he directors have a reasonable expectation that the
+company
+has adequate resources to continue in operational existence for the foreseeable future. Thus
+t
+he directors continue to adopt the going concern basis of accounting in preparing the financial statements.
+LRTT LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2023
+2
+Accounting policies
+(Continued)
+- 13 -
+2.3
+Turnover
+Turnover is recognised at the fair value of the consideration received or receivable for services provided in the normal course of business
+, and
+is shown net of VAT and other sales related taxes
+.
+The fair value of consideration takes into account trade discounts, settlement discounts and volume rebates.
+When cash inflows are deferred and represent a financing arrangement, the fair value of the consideration is the present value of the future receipts. The difference between the fair value of the consideration and the nominal amount received is recognised as interest income.
+The total turnover recorded in respect of long term contracts in the profit and loss of all accounting periods since the inception of the contract is compared with total payments on account. If the turnover exceeds payments on account an “ amounts recoverable on contracts “ is established and separately disclosed within debtors . If payments on account are greater than turnover to date , the excess is classified as a deduction from any balance on that contract, with the residual balance in excess of costs being classified within creditors.
+Where the outcome of a long term can be estimated reliably, revenue and costs are recognized by reference to the stage of completion. This is measured by the proportion that contract costs incurred to date bear to the estimated contract costs.
+Where the outcome cannot be estimated reliably, contract revenue is recognised only to the extent of the expenses recognised that
+it is probable will be
+recover
+ed
+.Contract costs are recognized as expenses in the period in which they are incurred.
+When it is probable that the total contract costs will exceed total contract revenue, the expected loss is recognised as an expense immediately.
+2.4
+Research and development expenditure
+Research expenditure is written off against profits in the year in which it is incurred. Identifiable development expenditure is capitalised to the extent that the technical, commercial and financial feasibility can be demonstrated
+.
+2.5
+Intangible fixed assets other than goodwill
+Intangible assets acquired separately from a business are recognised at cost and are subsequently measured at cost less accumulated amortisation and accumulated impairment losses.
+Amortisation is recognised so as to write off the cost or valuation of assets less their residual values over their useful lives on the following bases:
+Development costs
+Straight line over 10 years
+2.6
+Tangible fixed assets
+Tangible fixed assets
+are initially measured at cost and subsequently measured at cost or valuation, net of depreciation and any impairment losses.
+Depreciation is recognised so as to write off the cost or valuation of assets less their residual values over their useful lives on the following bases:
+Leasehold improvements
+10% on cost
+Plant and equipment
+20% on cost
+Fixtures and fittings
+10% on cost
+Computers
+20% to 33% on cost
+LRTT LIMITED
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2023
+2
+Accounting policies
+(Continued)
+- 14 -
+The gain or loss arising on the disposal of an asset is determined as the difference between the sale proceeds and the carrying value of the asset, and
+is credited or charged to profit or loss
+.
+2.7
+Impairment of fixed assets
+At each reporting
+period
+end date, the
+company
+reviews the carrying amounts of its tangible
+and intangible assets to determine whether there is any indication that those assets have suffered an impairment loss. If any such indication exists, the recoverable amount of the asset is estimated in order to determine the extent of the impairment loss (if any). Where it is not possible to estimate the recoverable amount of an individual asset, the
+company
+estimates the recoverable amount of the cash-generating unit to which the asset belongs.
+Recoverable amount is the higher of fair value less costs to sell and value in use. In assessing value in use, the estimated future cash flows are discounted to their present value using a pre-tax discount rate that reflects current market assessments of the time value of money and the risks specific to the asset for which the estimates of future cash flows have not been adjusted.
+If the recoverable amount of an asset (or cash-generating unit) is estimated to be less than its carrying amount, the carrying amount of the asset (or cash-generating unit) is reduced to its recoverable amount. An impairment loss is recognised immediately in
+profit
+or
+loss
+, unless the relevant asset is carried at a revalued amount, in which case the impairment loss is treated as a revaluation decrease.
+Recognised impairment losses are reversed if, and only if, the reasons for the impairment loss have ceased to apply. Where an impairment loss subsequently reverses, the carrying amount of the asset (or cash-generating unit) is increased to the revised estimate of its recoverable amount, but so that the increased carrying amount does not exceed the carrying amount that would have been determined had no impairment loss been recognised for the asset (or cash-generating unit)
+in
+prior years. A reversal of an impairment loss is recognised immediately in
+profit
+or
+loss
+, unless the relevant asset is carried at a revalued amount, in which case the reversal of the impairment loss is treated as a revaluation increase.
+2.8
+Cash and cash equivalents
+Cash and cash equivalents
+are basic financial assets
+and
+include cash in hand, deposits held at call with banks, other short-term liquid investments with original maturities of three months or less, and bank overdrafts. Bank overdrafts are shown within borrowings in current liabilities.
+2.9
+Financial instruments
+The company has elected to apply the provisions of Section 11 ‘Basic Financial Instruments’ and Section 12 ‘Other Financial Instruments Issues’ of FRS 102 to all of its financial instruments.
+Financial instruments are recognised in the company's balance sheet when the company becomes party to the contractual provisions of the instrument.
+Financial assets and liabilities are offset
+, with
+the net amounts presented in the financial statements
+,
+when there is a legally enforceable right to set off the recognised amounts and there is an intention to settle on a net basis or to realise the asset and settle the liability simultaneously.
+Basic financial assets
+Basic financial assets, which include
+debtors
+and cash and bank balances, are initially measured at transaction price including transaction costs and are subsequently carried at amortised cost using the effective interest
+method unless the arrangement constitutes a financing transaction, where the transaction is measured at the present value of the future receipts discounted at a market rate of interest.
+Financial assets classified as receivable within one year are not amortised.
+LRTT LIMITED
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2023
+2
+Accounting policies
+(Continued)
+- 15 -
+Other financial assets
+Other financial assets, including investments in equity instruments which are not subsidiaries, associates or joint ventures, are initially measured at fair value, which is normally the transaction price. Such assets are subsequently carried at fair value and the changes in fair value are recognised in
+profit
+or
+loss
+, except that investments in equity instruments that are not publicly traded and whose fair values cannot be measured reliably are measured at cost less impairment.
+Impairment of financial assets
+Financial assets, other than those
+held
+at
+fair value through profit and loss
+, are assessed for indicators of impairment at each reporting end date.
+Financial assets are impaired where there is objective evidence that, as a result of one or more events that occurred after the initial recognition of the financial asset, the estimated future cash flows have been affected.
+If an asset is impaired, the impairment loss is the difference between the carrying amount and the present value of the estimated cash flows discounted at the asset’s original effective interest rate. The impairment loss is recognised in profit or loss.
+If there is a decrease in the impairment loss arising from an event occurring after the impairment was recognised, the impairment is reversed. The reversal is such that the current carrying amount does not exceed what the carrying amount would have been, had the impairment not previously been recognised. The impairment reversal is recognised in profit or loss.
+Derecognition of financial assets
+Financial assets are derecognised only when the contractual rights to the cash flows from the asset expire or are settled, or when
+the company
+transfers the financial asset and substantially all the risks and rewards of ownership to another entity, or if some significant risks and rewards of ownership are retained but control of the asset has transferred to another party that is able to sell the asset in its entirety to an unrelated third party.
+Classification of financial liabilities
+Financial liabilities and equity instruments are classified according to the substance of the contractual arrangements entered into. An equity instrument is any contract that evidences a residual interest in the assets of the company after deducting all of its liabilities.
+Basic financial liabilities
+Basic financial liabilities, including
+creditors
+, bank loans, loans from
+fellow group companies and preference shares that are classified as debt, are
+initially recognised at transaction price unless the arrangement constitutes a
+financing transaction, where the debt instrument is measured at the present value of
+the future
+paymen
+ts discounted at a market rate of interest.
+Financial liabilities classified as payable within one year are not amortised.
+Debt instruments are subsequently carried at amortised cost, using the effective
+interest rate method.
+Trade creditors
+are obligations to pay for goods or services that have been acquired
+in the ordinary course of business from suppliers. A
+m
+ounts payable are classified as
+current liabilities if payment is due within one year or less. If not, they are presented
+as non-current liabilities.
+Trade creditors
+are recognised initially at transaction price
+and subsequently measured at amortised cost using the effective interest method.
+Derecognition of financial liabilities
+Financial liabilities are derecognised when the company’s contractual obligations
+expire or are discharged or cancelled.
+LRTT LIMITED
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2023
+2
+Accounting policies
+(Continued)
+- 16 -
+2.10
+Equity instruments
+Equity instruments issued by the company are recorded at the proceeds received, net of transaction costs. Dividends payable on equity instruments are recognised as liabilities once they are no longer at the discretion of the company.
+2.11
+Taxation
+The tax expense represents the sum of the tax currently payable and deferred tax.
+Current tax
+The tax currently payable is based on taxable profit for the year. Taxable profit differs from net profit as reported in the
+profit and loss account
+because it excludes items of income or expense that are taxable or deductible in other years and it further excludes items that are never taxable or deductible. The
+company’s
+liability for current tax is calculated using tax rates that have been enacted or substantively enacted by the reporting end date.
+Deferred tax
+Deferred tax liabilities are generally recognised for all timing differences and deferred tax assets are recognised to the extent that it is probable that they will be recovered against the reversal of deferred tax liabilities or other future taxable profits. Such assets and liabilities are not recognised if the timing difference arises from goodwill or from the initial recognition of other assets and liabilities in a transaction that affects neither the tax profit nor the accounting profit.
+The carrying amount of deferred tax assets is reviewed at each reporting end date and reduced to the extent that it is no longer probable that sufficient taxable profits will be available to allow all or part of the asset to be recovered. Deferred tax is calculated at the tax rates that are expected to apply in the period when the liability is settled or the asset is realised. Deferred tax is charged or credited in the
+profit and loss account
+, except when it relates to items charged or credited directly to equity, in which case the deferred tax is also dealt with in equity. Deferred tax assets and liabilities are offset when the
+company
+has a legally enforceable right to offset current tax assets and liabilities and the deferred tax assets and liabilities relate to taxes levied by the same tax authority.
+2.12
+Employee benefits
+The costs of short-term employee benefits are recognised as a liability and an expense, unless those costs are required to be recognised as part of the cost of stock or
+fixed assets
+.
+The cost of any unused holiday entitlement is recognised in the period in which the employee’s services are received.
+Termination benefits are recognised immediately as an expense when the company is demonstrably committed to terminate the employment of an employee or to provide termination benefits.
+2.13
+Retirement benefits
+Payments to defined contribution retirement benefit schemes are charged as an expense as they fall due.
+2.14
+Leases
+Rentals payable under operating leases,
+including
+any lease incentives received, are charged to
+profit or loss
+on a straight line basis over the term of the relevant lease except where another more systematic basis is more representative of the time pattern in which economic benefits from the lease
+s
+asset are consumed.
+LRTT LIMITED
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2023
+- 17 -
+3
+Turnover and other revenue
+2023
+2022
+£
+£
+Other revenue
+Interest income
+1,675
+28,796
+4
+Employees
+The average monthly number of persons (including directors) employed by the company during the year was:
+2023
+2022
+Number
+Number
+Administration
+81
+70
+Their aggregate remuneration comprised:
+2023
+2022
+£
+£
+Wages and salaries
+3,675,927
+2,501,737
+Social security costs
+317,507
+244,939
+Pension costs
+126,250
+121,017
+4,119,684
+2,867,693
+5
+Operating profit
+2023
+2022
+Operating profit for the year is stated after charging/(crediting):
+£
+£
+Exchange (gains)/losses
+(
+311
+)
+28,875
+Government grants released
+(4,302)
+(4,302)
+Fees payable to the company's auditor for the audit of the company's financial statements
+12,900
+12,000
+Depreciation of owned tangible fixed assets
+131,556
+157,125
+Amortisation of intangible assets
+275,889
+89,944
+Operating lease charges
+968,074
+900,652
+6
+Directors' remuneration
+2023
+2022
+£
+£
+Remuneration for qualifying services
+156,871
+113,153
+Company pension contributions to defined contribution schemes
+4,935
+4,416
+161,806
+117,569
+LRTT LIMITED
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2023
+- 18 -
+7
+Interest receivable and similar income
+2023
+2022
+£
+£
+Interest income
+Interest receivable from group companies
+-
+0
+28,796
+Other interest income
+1,675
+-
+0
+Total income
+1,675
+28,796
+8
+Interest payable and similar expenses
+2023
+2022
+£
+£
+Interest payable to group undertakings
+15,266
+-
+0
+9
+Taxation
+2023
+2022
+£
+£
+Current tax
+UK corporation tax on profits for the current period
+95,984
+(
+235,944
+)
+Deferred tax
+Origination and reversal of timing differences
+86,048
+(
+19,702
+)
+Total tax charge/(credit)
+182,032
+(
+255,646
+)
+The actual charge/(credit) for the year can be reconciled to the expected charge for the year based on the profit or loss and the standard rate of tax as follows:
+2023
+2022
+£
+£
+Profit before taxation
+214,270
+73,152
+Expected tax charge based on the standard rate of corporation tax in the UK of 23.50% (2022: 19.00%)
+50,353
+13,899
+Tax effect of expenses that are not deductible in determining taxable profit
+1,631
+24,006
+Tax effect of income not taxable in determining taxable profit
+-
+0
+(
+14,314
+)
+Capital allowances in excess of depreciation
+130,048
+(
+32,863
+)
+Research and development tax credit
+-
+0
+(
+277,491
+)
+Tax losses surrended
+-
+0
+31,117
+Taxation charge/(credit) for the year
+182,032
+(255,646)
+LRTT LIMITED
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2023
+- 19 -
+10
+Tangible fixed assets
+Leasehold improvements
+Plant and equipment
+Fixtures and fittings
+Computers
+Total
+£
+£
+£
+£
+£
+Cost
+At 1 January 2023
+263,771
+1,088,239
+640,029
+538,995
+2,531,034
+Additions
+2,581
+68,833
+57,484
+40,908
+169,806
+At 31 December 2023
+266,352
+1,157,072
+697,513
+579,903
+2,700,840
+Depreciation and impairment
+At 1 January 2023
+210,475
+1,055,810
+332,479
+508,748
+2,107,512
+Depreciation charged in the year
+9,529
+33,193
+57,321
+31,513
+131,556
+At 31 December 2023
+220,004
+1,089,003
+389,800
+540,261
+2,239,068
+Carrying amount
+At 31 December 2023
+46,348
+68,069
+307,713
+39,642
+461,772
+At 31 December 2022
+53,296
+32,429
+307,550
+30,247
+423,522
+11
+Intangible fixed assets
+Development costs
+£
+Cost
+At 1 January 2023 and 31 December 2023
+2,880,631
+Amortisation and impairment
+At 1 January 2023
+451,347
+Amortisation charged for the year
+275,889
+At 31 December 2023
+727,236
+Carrying amount
+At 31 December 2023
+2,153,395
+At 31 December 2022
+2,429,284
+LRTT LIMITED
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2023
+- 20 -
+12
+Debtors
+2023
+2022
+Amounts falling due within one year:
+£
+£
+Trade debtors
+2,433,752
+1,831,834
+Corporation tax recoverable
+-
+0
+353,436
+Amounts owed by group undertakings
+390,000
+2,003,618
+Other debtors
+28,231
+-
+0
+Prepayments and accrued income
+458,397
+458,366
+3,310,380
+4,647,254
+13
+Creditors: amounts falling due within one year
+2023
+2022
+£
+£
+Payments received on account
+906,678
+1,188,432
+Trade creditors
+851,188
+843,150
+Amounts owed to group undertakings
+1,329,566
+2,736,682
+Corporation tax
+95,984
+-
+0
+Other taxation and social security
+93,125
+140,411
+Other creditors
+31,601
+27,560
+Accruals and deferred income
+132,771
+150,439
+3,440,913
+5,086,674
+14
+Deferred taxation
+The following are the major deferred tax liabilities and assets recognised by the company and movements thereon:
+Liabilities
+Liabilities
+2023
+2022
+Balances:
+£
+£
+Accelerated capital allowances
+166,428
+80,380
+2023
+Movements in the year:
+£
+Liability at 1 January 2023
+80,380
+Charge to profit or loss
+86,048
+Liability at 31 December 2023
+166,428
+LRTT LIMITED
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2023
+- 21 -
+15
+Deferred income
+2023
+2022
+£
+£
+Other deferred income
+8,466
+12,767
+16
+Retirement benefit schemes
+2023
+2022
+Defined contribution schemes
+£
+£
+Charge to profit or loss in respect of defined contribution schemes
+126,250
+121,017
+The company operates a defined contribution pension scheme for all qualifying employees.
+The assets of the scheme are held separately from those of the company in an independently administered fund.
+17
+Share capital
+2023
+2022
+2023
+2022
+Ordinary share capital
+Number
+Number
+£
+£
+Issued and fully paid
+Of 67.07p each
+400,000
+400,000
+268,289
+268,289
+18
+Financial commitments, guarantees and contingent liabilities
+There was a cross corporate guarantee in place for
+certain
+UK group companies
+(including Contractair Limited)
+at 31 December 2022. Credit Suisse (Switzerland)
+AG
+had a fixed charge over the receivables of the company which was created on 2 August 2017.
+T
+he Credit Suisse charges have been satisfied/removed on 4
+April 2
+023.
+These were replaced with the ability to pledge shares for LRTT
+Limited
+to finance providers. LRTT
+Limited's
+shares
+were p
+ledged to UBS Group AG
+in the event of default on the Group facilities.
+Separately,
+LRTT Limited has received a claim from HMRC for repayment of the Research & Development (R&D) tax relief it received for the accounting year 2021 and 2022. HMRC reject the R&D (SME scheme) claims on the basis of insufficient evidence that the R&D activity undertaken in these years does not qualify for tax purposes under BEIS Guideline 2004.
+HMRC will not be pursuing any penalties but requested repayment of the R&D tax relief of £160,81
+3
+(2021) and £198,77
+4
+(2022).
+Management will be pursuing these claims as being eligible for R&D tax relief and valid within the scope of the BEIS Guidelines 2004, under the Alternative Dispute Resolution (ADR) process with HMRC. LRTT Limited h
+as
+requested that the repayments are suspended pending the outcome of LRTT Limited’s appeal and any future ADR process. Therefore, as Management recognise that a repayment may be possible if their request for suspension and ultimately an appeal is unsuccessful,
+we
+do not believe this to be the probable outcome at the date these accounts were signed and consequently no provision for repayments and interest charges has been made.
+LRTT LIMITED
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2023
+- 22 -
+19
+Operating lease commitments
+Lessee
+At the reporting end date the company had outstanding commitments for future minimum lease payments under non-cancellable operating leases, which fall due as follows:
+2023
+2022
+£
+£
+Within one year
+406,517
+459,017
+Between two and five years
+1,486,000
+1,486,000
+In over five years
+650,125
+1,021,625
+2,542,642
+2,966,642
+20
+Ultimate controlling party
+The ultimate controlling party is Resource International Group Investments AG.
+2023-12-31
+2023-01-01
+false
+CCH Software
+CCH Accounts Production 2024.100
+Mr I Fitzpatrick
+Mr S Bruinsma
+Mr J Price
+Mr J Thyra
+false
+false
+04633192
+2023-01-01
+2023-12-31
+04633192
+bus:Director1
+2023-01-01
+2023-12-31
+04633192
+bus:Director2
+2023-01-01
+2023-12-31
+04633192
+bus:Director3
+2023-01-01
+2023-12-31
+04633192
+bus:CompanySecretaryDirector1
+2023-01-01
+2023-12-31
+04633192
+bus:CompanySecretary1
+2023-01-01
+2023-12-31
+04633192
+bus:RegisteredOffice
+2023-01-01
+2023-12-31
+04633192
+2023-12-31
+04633192
+2022-01-01
+2022-12-31
+04633192
+core:RetainedEarningsAccumulatedLosses
+2022-01-01
+2022-12-31
+04633192
+core:RetainedEarningsAccumulatedLosses
+2023-01-01
+2023-12-31
+04633192
+core:OtherResidualIntangibleAssets
+2023-12-31
+04633192
+core:OtherResidualIntangibleAssets
+2022-12-31
+04633192
+core:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2023-12-31
+04633192
+core:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2022-12-31
+04633192
+2022-12-31
+04633192
+core:LeaseholdImprovements
+2023-12-31
+04633192
+core:PlantMachinery
+2023-12-31
+04633192
+core:FurnitureFittings
+2023-12-31
+04633192
+core:ComputerEquipment
+2023-12-31
+04633192
+core:LeaseholdImprovements
+2022-12-31
+04633192
+core:PlantMachinery
+2022-12-31
+04633192
+core:FurnitureFittings
+2022-12-31
+04633192
+core:ComputerEquipment
+2022-12-31
+04633192
+core:CurrentFinancialInstruments
+core:WithinOneYear
+2023-12-31
+04633192
+core:CurrentFinancialInstruments
+core:WithinOneYear
+2022-12-31
+04633192
+core:CurrentFinancialInstruments
+2023-12-31
+04633192
+core:CurrentFinancialInstruments
+2022-12-31
+04633192
+core:ShareCapital
+2023-12-31
+04633192
+core:ShareCapital
+2022-12-31
+04633192
+core:RetainedEarningsAccumulatedLosses
+2023-12-31
+04633192
+core:RetainedEarningsAccumulatedLosses
+2022-12-31
+04633192
+core:ShareCapital
+2021-12-31
+04633192
+core:RetainedEarningsAccumulatedLosses
+2021-12-31
+04633192
+core:IntangibleAssetsOtherThanGoodwill
+2023-01-01
+2023-12-31
+04633192
+core:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2023-01-01
+2023-12-31
+04633192
+core:LeaseholdImprovements
+2023-01-01
+2023-12-31
+04633192
+core:PlantMachinery
+2023-01-01
+2023-12-31
+04633192
+core:FurnitureFittings
+2023-01-01
+2023-12-31
+04633192
+core:ComputerEquipment
+2023-01-01
+2023-12-31
+04633192
+core:UKTax
+2023-01-01
+2023-12-31
+04633192
+core:UKTax
+2022-01-01
+2022-12-31
+04633192
+1
+2023-01-01
+2023-12-31
+04633192
+1
+2022-01-01
+2022-12-31
+04633192
+core:LeaseholdImprovements
+2022-12-31
+04633192
+core:PlantMachinery
+2022-12-31
+04633192
+core:FurnitureFittings
+2022-12-31
+04633192
+core:ComputerEquipment
+2022-12-31
+04633192
+2022-12-31
+04633192
+core:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2022-12-31
+04633192
+core:WithinOneYear
+2023-12-31
+04633192
+core:WithinOneYear
+2022-12-31
+04633192
+core:BetweenTwoFiveYears
+2023-12-31
+04633192
+core:BetweenTwoFiveYears
+2022-12-31
+04633192
+core:MoreThanFiveYears
+2023-12-31
+04633192
+core:MoreThanFiveYears
+2022-12-31
+04633192
+bus:PrivateLimitedCompanyLtd
+2023-01-01
+2023-12-31
+04633192
+bus:FRS102
+2023-01-01
+2023-12-31
+04633192
+bus:Audited
+2023-01-01
+2023-12-31
+04633192
+bus:FullAccounts
+2023-01-01
+2023-12-31
+xbrli:pure
+xbrli:shares
+iso4217:GBP

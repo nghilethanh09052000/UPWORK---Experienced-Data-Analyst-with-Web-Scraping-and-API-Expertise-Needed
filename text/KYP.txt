@@ -1,0 +1,116 @@
+Micro-entity Accounts - KYP KNOW YOUR POTENTIAL CONSULTANCY LTD
+Companies House
+2022-11-01
+2023-10-31
+false
+07400806
+2023-10-31
+07400806
+2022-11-01
+2023-10-31
+07400806
+2021-11-01
+2022-10-31
+07400806
+uk-bus:Director1
+2022-11-01
+2023-10-31
+07400806
+uk-bus:Director2
+2022-11-01
+2023-10-31
+07400806
+2022-11-01
+2023-10-31
+07400806
+uk-bus:Micro-entities
+2022-11-01
+2023-10-31
+07400806
+uk-bus:FullAccounts
+2022-11-01
+2023-10-31
+07400806
+uk-bus:AuditExempt-NoAccountantsReport
+2022-11-01
+2023-10-31
+07400806
+2022-10-31
+07400806
+uk-core:WithinOneYear
+2023-10-31
+07400806
+uk-core:WithinOneYear
+2022-10-31
+07400806
+uk-core:AfterOneYear
+2023-10-31
+07400806
+uk-core:AfterOneYear
+2022-10-31
+iso4217:GBP
+Registered Number
+07400806
+KYP KNOW YOUR POTENTIAL CONSULTANCY LTD
+Micro-entity Accounts
+31 October 2023
+KYP KNOW YOUR POTENTIAL CONSULTANCY LTD
+Registered Number 07400806
+Micro-entity Balance Sheet as at
+31 October 2023
+Notes
+2023
+2022
+£
+£
+Fixed Assets
+12,348
+16,464
+Current Assets
+168,603
+173,572
+Creditors: amounts falling due within one year
+(
+29,826
+)
+(
+30,754
+)
+Net current assets (liabilities)
+138,777
+142,818
+Total assets less current liabilities
+151,125
+159,282
+Creditors: amounts falling due after more than one year
+(
+26,465
+)
+(
+35,833
+)
+Total net assets (liabilities)
+124,660
+123,449
+Capital and reserves
+124,660
+123,449
+For the year ending 31 October 2023 the company was entitled to exemption under section 477 of the Companies Act 2006 relating to small companies.
+The members have not required the company to obtain an audit in accordance with section 476 of the Companies Act 2006.
+The directors acknowledge their responsibilities for complying with the requirements of the Companies Act 2006 with respect to accounting records and the preparation of accounts.
+The accounts have been prepared in accordance with the micro-entity provisions and delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+Approved by the Board on
+30 July 2024
+And signed on their behalf by:
+J CARALL
+, Director
+KYP KNOW YOUR POTENTIAL CONSULTANCY LTD
+Registered Number 07400806
+Notes to the Micro-entity Accounts for the period ended 31 October 2023
+1
+Employees
+2023
+2022
+Average number of employees during the period
+10
+12

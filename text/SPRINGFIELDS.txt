@@ -1,0 +1,3276 @@
+Registered number: 03857770.
+
+Springfields Fuels Limited
+
+Annual report and financial statements
+
+for the year ended 31 December 2023
+
+coe ——
+
+wu un
+
+oovo9r024 #259
+COMPANIES HOUSE _
+
+1
+|
+|
+‘
+}
+
+‘Springfields Fuels Limited
+
+Contents
+Page ,
+Company information , : 1
+Strategic report , 2
+Directors’ report a ; 7
+Statement of directors’ responsibilities a 11
+Independent auditor’s report to the members of Springfields Fuels Limited ; 12
+Profit and loss account : 15
+Statement of comprehensive income . ; 16
+Balance sheet : , 17
+Statement of changes in equity 18
+
+Notes to the financial statements : : , 19
+
+Springfields Fuels Limited
+
+Company information
+
+Directors
+
+Registered office
+
+Independent auditor
+
+Bankers
+
+Craig Boothby _
+David Eaves
+Paul Lomas
+
+* Raphael Kuyler
+
+Sophie Lemaire
+
+Springfields
+Salwick
+
+Preston
+Lancashire
+
+PR4 OXI
+United Kingdom
+
+Deloitte LLP
+
+100 Embankment
+Cathedral Approach
+Manchester
+
+M3 7FB
+
+United Kingdom
+
+Barclays Bank Plc
+1 Churchill Place
+London
+
+‘E14 SHP
+
+Springfields Fuels Limited
+
+Strategic report
+For the year ended 31 December 2023
+
+The directors present their Strategic report for the financial year ended 31 December 2023.
+The directors, in preparing this Strategic report, have complied with Section 414C of the Companies Act 2006. -
+
+Principal activities and fair review of the business :
+The principal activities of Springfields Fuels Limited (“SFL”) are the manufacture of fuel for nuclear power stations,
+related conversion processes, processing of residues and transporting of uranium.
+
+SFL trades at the Springfields site at Salwick near Preston in Lancashire and is a wholly owned subsidiary of
+_ Westinghouse Electric UK Holdings Limited (““WEC Holdings”), whose ultimate parent company is Watt New
+Aggregator L.P. (Cayman), which is a Joint Venture between Brookfield Renewable Partners’ and Cameco Corporation.
+
+On 7 November 2023, Brookfield Renewable Partners’ and Cameco Corporation acquired Westinghouse Electric
+Company (“Westinghouse”) from Brookfield Corporation. This will bring Westinghouse’s best-in-class clean power
+technologies under Brookfield Renewable Partner’s cutting- -edge hydroelectric, wind, solar energy storage and
+distributed generation portfolio, alongside Cameco ‘Corporation’ s expertise in front-end uranium fuel capabilities. It
+will further strengthen Westinghouse’s presence in nuclear technology globally and provide a long-term path for the
+company’s strategic growth to the benefi it of customers.
+
+The borrowing requirements for WEC Holdings and its subsidiaries are arranged by the Westinghouse Global Treasury
+department. During the year WEC Holdings and some of its subsidiaries, including SFL, entered into a multi-currency
+notional cash pool arrangement and the company can borrow cash to offset against positive cash balances held by
+subsidiaries included in the facility.
+
+The company’s Key Financial Performance Indicators (“KPIs”) during the year were as follows:
+
+% Change
+
+31 December 2023, 31 December 2022 increase /
+
+£000 £000 (decrease)
+
+Turnover 194,566 . 154,466 26.0%
+Operating profit 26,396 : 15,554 69.7%
+Profit for the financial year , 19,752 10,051 96.5%
+Total shareholders’ funds: 112,174 100,265 11.9%
+Current assets to current liabilities ratio 1.24:1 1.08:1 14.8%
+
+The company recorded turnover of £194,566,000 (2022: £154,466,000) mainly from the manufacture and sale of
+Advanced Gas Reactor (“AGR”) fuel and associated services. The reported operating profit (note 5) for the year was
+£26,396,000 (2022: £15,554,000). The increase in turnover is mainly due to the increase in customer demand for AGR
+fuel and associated product sales and increased residues. :
+
+Results
+
+The profit for the financial year amounted to £19,752,000 (2022: £10,051,000). The increase in profit is mainly due to
+increased turnover as described above, operating cost savings, an increase in bank interest receivable due to the
+commencement of Westinghouse’s cash pool arrangement and pension fund interest. The tax on profit amounted to a
+charge of £7,011,000 (2022: £2,609,000) (note 10).
+
+Principal risks and uncertainties
+
+The company continues to have a lifetime contract for the supply of nuclear fuel to Britain’s fleet of Advanced Gas
+Cooled Reactors. The company continues to improve production efficiencies and seeks opportunities to increase its
+LWR-Fuel] load and to provide services to the nuclear market. The company continues to strengthen its relationship
+with the Nuclear Decommissioning Authority (“NDA”) and Ministry of Defence (“MOD”) for uranium recovery work.
+
+Springfields Fuels Limited
+
+Strategic report
+For the year ended 31 December 2023 (continued)
+
+Section 172 statement’
+
+This section describes how the directors have had regards to the matters set out in Section 172(1) (a) to (f) of the
+Companies Act 2006 (Section 172) in exercising their duty to promote the success of the company for the benefit of its
+members as a whole. During the year the directors were mindful of their duties under Section 172. The board met on a
+quarterly basis and board meetings are held in a spirit that encourages active participation from all directors, careful
+deliberation, and challenge. Directors receive briefing packs in advance of the meeting, including input from senior
+management as to the potential impact on relevant stakeholders of the proposals to be reviewed and considered at the
+meeting.
+
+Our stakeholders
+
+The directors consider that the following groups are the company’s key stakeholders: our workforce, our customers,
+nuclear and environmental regulatory bodies, our owners, the wider community and our suppliers. The board seeks to
+understand the respective interests of such stakeholder groups so that they may be properly considered in the board’s
+decisions. This is done through various methods, including direct engagement by board members; receiving reports and
+updates from members of management who engage with such groups on a regular basis; and. coverage in our board
+papers of relevant stakeholder interests with regard to proposed courses of action.
+
+The strength of our business is built on the hard work and dedication of the SFL workforce. We also consider the
+interests of former employees who are members of a pension scheme sponsored by SFL. The vast majority of our
+employees are represented by established national union bodies and fall under a collective bargaining agreement. SFL
+works in partnership with the local union leadership to share business challenges and opportunities and to identify and
+support the changes required to ensure a long-term sustainable business.
+
+Our customers are the reason we exist. It is essential to our future that we safely and consistently deliver products and
+services on time, in full and without complaint, and continue to design safe, cost-effective products and services to
+serve new and existing customers at competitive prices.
+
+As a Licensed Nuclear site, SFL is regulated by the Office for Nuclear Regulation (“ONR”) and the Environment
+Agency (“EA”). Regular communication through liaison meetings and scheduled themed inspections form the core of
+our relationship and engagement. We seek a constructive and cooperative relationship with our regulatory bodies that
+authorise and regulate our business activities. This helps us maintain a reputation for high standards of business conduct.
+They expect us to comply with all applicable laws, regulations, licence and permit conditions.
+
+The board is conscious of its duty to act in the best interests of the (direct and indirect) members of the company over
+the long-term. We rely on our owners for the provision of debt funding as an essential source of capital to further our
+business objectives. They rely on us to protect and manage their investment in a responsible and sustainable way that
+generates value for them.
+
+- Communities and the wider public expect us to act as a responsible company and neighbour, to provide high quality
+employment and to minimise any adverse impact on local communities and the environment. One way in which SFL
+engages with the wider community is-via the Site Stakeholder Group (“SSG”). The SSG meets twice per year and is
+chaired by a member of the public. The meetings are attended by representatives of the company (including at least one
+director) along with members of the local community, council members, regulators, customers, and the unions.
+
+We rely on our suppliers to provide components, consumables, product distribution and to provide essential services
+we need to operate our business. Our suppliers rely on us to generate revenue and employment for them. SFL has long
+standing relationships with many suppliers, particularly in the fuel component supply chain. SFL has a team dedicated
+to managing these key supply agreements and important relationships. This is achieved through regular communication
+regarding demand, quality, and delivery performance feedback (including a supplier score card), along with frequent
+visits to supplier sites.
+
+Springfields Fuels Limited
+
+' Strategic report
+For the year ended 31 December 2023 (continued)
+
+Section 172 statement (continued)
+Having regard to the likely consequences of any decision in the long-term
+
+The board remains mindful that its strategic decisions can have long-term implications for the business and its
+stakeholders, and these implications are carefully assessed. The most prevalent examples of this during 2023 were
+decisions made by the board with regards to engage studies for the return of conversion services at Springfields,
+following a hiatus from this product line since 2014, mainly due to the dominance of Russia in this market, the geo-
+political situation has evolved this sector of the market to make it viable. The board has balanced the need for being a
+competitive supplier of products and services’ whilst ensuring continued high levels of safety and operational
+performance. The company has an objective to increase market share, supported by diversification and growth across
+nuclear net zero opportunities in line with the UK Government’s vision.
+
+Having regard to the interests of the company’s employees
+
+The board takes active steps to ensure the suggestions, views and interests of the workforce are captured and considered
+in decision making. Most of.the directors themselves have each served the company as employees for over 20 years.
+They all therefore perform a high degree of personal oversight and engagement in the company’s affairs. This
+knowledge of the business and active style of engagement ensures our executive directors maintain a strong insight into
+the mood, culture, and views of the workforce which they are then better able to consider as a board. SFL’s five-year
+business plan includes the ambition of being 1) re-entering the conversion services market, 2) diversifying the product
+ranges manufactured at Springfields to increase customer base and opportunities post AGR and 3) a long-term viable
+business with sustainable employment. This ambition is underpinned by delivering an industry leading safety and
+quality performance and includes key business objectives to 1) energise people and culture; 2) stabilise production and
+increase efficiency; and 3) deliver business growth and diversification.
+
+Employee engagement
+
+The company has numerous effective workforce engagement mechanisms in place. Employees are kept informed of
+performance and strategy through regular presentations and updates from members of the board and executive lead
+team. The directors attend key management meetings throughout the year including monthly communication meetings,
+capital expenditure meetings and they present financial results to employees.
+
+Regular employee engagement surveys are undertaken.
+
+The board also pays careful regard to the health, safety and wellbeing of employees and receives updates from the Site
+Director (head of site) and Environment Health and Safety Director which includes safety performance and mental
+health wellbeing initiatives.
+
+Diversity
+
+SFL is committed to developing a culture that fosters honest, open conversations and makes space for everyone to be
+themselves and thrive. Our goal is to create a company in which diversity and inclusion is an integral part of our DNA.
+In 2019, SFL established the seven connected theme framework for employee engagement. The seven themes address
+the following areas: 1) Talent attraction and retention; 2) Engagement; 3) Performance development and growth; 4)
+Recognising and rewarding excellence; 5) Wellbeing; 6) Leadership; and 7) Equity, diversity, and inclusion (“ED&I”).
+Each theme is populated by employees and union representatives drawn from across the business. SFL is also party to
+The Princes responsible Business Trust’s Race at Work Charter with a goal of improving outcomes for minority ethic
+employees in the workplace and have made a commitment to build a diverse environment across all levels of the
+organisation which prioritises development of all employees, irrespective of background. The SFL board has a history
+of gender balance amongst directors, currently 1/5 female and 4/5 male.
+
+Springfields Fuels Limited
+
+Strategic. report
+
+For the year ended 31 December 2023 (continued)
+
+- Section 172 statement (continued)
+
+Having regard to the need to foster the company’s business relationships with suppliers, customers and others
+
+During the year the board was briefed on major contract negotiations and strategy with regard to key customers and
+suppliers. The board seeks to balance the benefits of maintaining strong partnering relationships with key suppliers
+alongside the need to obtain value for money for our investors and the required safety, quality and service levels for ~
+our customers. It is policy to pay suppliers invoices promptly in accordance with the contract terms, the maximum
+standard terms for purchase contracts are “net 60 days”, however there are other terms in use, i.e. net 30 days, 30 days
+end of month and 35 days from invoice date.
+
+The interests of customers are considered in key decisions, i.e. restructuring programmes. Suppliers are selected to
+ensure quality and safety standards are met whilst efficiencies are also sought to maximise future benefits for customers.
+
+Having regard to the impact of the company’s operations on the community and the environment
+
+The board supports the company’s goals and initiatives with regard to reducing the adverse impacts on the environment
+and supporting the wider local community.
+
+The board recognises that nuclear technology is inherently low carbon and contributes to environmental objectives by
+minimising carbon emissions. The company has a Carbon Reduction Plan to be in line with the group’s drive for ‘net
+zero’ by 2050, in line with common external standards.
+
+Our business is regulated by the EA and as a responsible company we always seek to cooperate and engage
+constructively with the Agency and meet our obligations.
+
+Having regard to the desirability of the company maintaining a reputation for high standards of business conduct
+
+The board recognises the importance of operating a robust corporate governance framework and has adopted an internal
+controls mechanism for the delegation of authority, reporting lines and the escalation of complex or high value matters.
+One such example is the Westinghouse Global Ethics Code.
+
+Key Performance Indicators
+The company monitors performance using a number of KPIs as detailed in the following table:
+
+31 December 2023 31 December 2022
+
+Operations Return on sales (operating profit divided by
+
+turnover) : 13.6% 10.1%
+Inventory Inventory turnover (raw material cost divided by 2.76 1.10
+stocks)
+Personnel Average headcount 691 641
+Safety Days Away Case Rate (“DACR”) 0.48 0.08
+Total Recordable Incident Rate (“TRIR”) 0.40 0.16
+Work-related Days sick per employee , 15.26 - 17.61
+
+These KPIs are aligned to the company’s strategy of “Safety and Quality First” and the strategy for short and medium-
+term transformation focusing on cost reduction and improving efficiency of operations.
+
+Springfields Fuels Limited
+
+Strategic report
+For the year-ended 31 December 2023 (continued)
+
+Future developments :
+
+Through the Westinghouse agreed Springfields Site strategy, the company intends to continue to manufacture fuel for
+nuclear power stations, provide related conversion processes and the recovery of uranium through residue processing.
+The company aims to be a key manufacturer of the LWR fuel products and other new niche fuel products, and to
+develop advanced nuclear technologies and materials nianagement activities at the site on behalf of Westinghouse. In
+the short-term the company aims to supply global uranium recovery services and seeks to continue to operate the
+transportation business on behalf of the Westinghouse group.
+
+Approved by the board of directors on 2} August 2024 and signed on its behalf by:
+
+Paul Lomas _
+
+Director
+
+Springfields Fuels Limited
+
+Directors’ report
+For the year ended 31 December 2023
+
+The directors present their annual report on the affairs of the company, together with the audited financial statements
+and independent auditor’s report, for the year ended 31 December 2023.
+
+Directors
+The directors of the company, who were in office during the year and up to the date of signing the financial statements,
+were as follows:
+
+Craig Boothby (appointed 20 June 2024)
+David Eaves
+
+Kirsty Armer (resigned 20 June 2024)
+Paul Lomas
+
+Raphael Kuyler (appointed 20 June 2024)
+Richard Easterling (resigned 31 July 2024)
+Sophie Lemaire (appointed 20 June 2024)
+
+Strategic report :
+
+The information that fulfils the Companies Act requirements of the business review is included in the Strategic report
+on pages 2 to 6. This includes a review of the business during the year, of its position at the end of the year and of the
+likely future developments. The strategic report also includes how the directors are fostering relationships with
+suppliers, customers and other stakeholders.
+
+Financial risk management objectives and policies
+Financial instruments
+
+During the year ended 31 December 2023 the company financed its operations from trading. The company trades with
+a number of customers, whose credit ratings have been assessed, and aged debtors are monitored on a regular basis.
+
+The main risks arising from the company’s financial instruments are interest rate risk, foreign currency risk, and
+liquidity risk. The board reviews and agrees policies for managing each of these risks and they are summarised below.
+The policies have remained unchanged since incorporation.
+
+Interest rate risk
+
+The company finances its operations through a mixture of retained profits and Westinghouse’s notional cash pool
+arrangement. Interest rates are in accordance with the rates agreed by Westinghouse and the external bank.
+
+Foreign currency risk
+
+The company buys and sells goods in currencies other than sterling. As a result, the value of the company’s non-sterling
+sales, purchases, financial liabilities and assets can be affected by movements in exchange rates. The company uses
+forward foreign currency contracts to reduce exposure to movement in exchange rates by fixing the rate of any material
+payments and receipts in foreign currency.
+
+SFL does not enter into forward foreign currency contracts directly with external banks. WEC US Holdings Ltd. (“WEC
+US”) (formerly Brookfield WEC Holdings Inc. (“BWHI’”)) enters into foreign currency contracts with external
+providers on behalf of SFL. As at 31 December 2023 there were 3 outstanding forward foreign currency contracts
+entered into by WEC US (formerly BWHI) (2022: 3) with a fair value of £5,000 net liability owed to WEC US (formerly
+BWHI) from SFL (2022: net liability of £7,000) (see note 20). Hedge accounting is not applied and the contracts are
+carried at fair value through profit and loss. The company has a master netting agreement (ISDA agreement) with WEC
+US (formerly BWHI) to enable back to back agreements to be put in place when WEC US (formerly BWHI) enters into
+forward foreign exchange contracts with external banks. .
+
+The company has foreign currency bank balances as at 31 December 2023 and as such is subject to foreign currency
+risk. Company policies ensure that an overall view of the company’s exchange exposure and foreign currency
+commitments can be done in conjunction with the Treasury Department of Westinghouse.
+
+Springfields Fuels Limited
+
+Directors’ report ;
+For the year ended 31 December 2023 (continued)
+
+Financial risk management objectives and policies (continued)
+
+Liquidity risk
+The company operates independent bank accounts locally and has the ability to borrow cash through Westinghouse’s
+notional cash pool arrangement.
+
+Multi-currency notional cash pool is a liquidity management technique whereby debit and credit balances in the multiple
+group companies in various currencies are offset. All cash pooling accounts are treated as only one account with only
+one balance even though the actual balances are in the name of the different group companies. The main purpose of
+the cash pool is to use surplus cash and at the same time reduce borrowing costs for the group. This means that all
+excess cash and borrowing requirements from the group company’s local bank accounts are concentrated in the global
+cash pool. Working capital cash requirements can be retained in the local bank accounts of the subsidiary companies.
+Each group company maintains its existing local bank relationship. Additionally, all cash pool bank accounts are
+interest bearing. As the accounts are pooled and offset, interest expense is reduced and/or interest income is increased.
+
+The company has access to cash resources to support ongoing operations and maintains a robust cash flow forecast to
+monitor the situation.
+
+Research and development
+
+During the year, the company has made modifications to the oxide process and development in uranium recovery which
+are estimated to be £1,741,000 of operating expenditure (2022: £1,309. 9,000) (note 5) and £486,000 of capital
+expenditure (2022: £386,000).
+
+Disabled employees
+
+The company is committed to a policy of equal opportunities for all employees. Great care is exercised in the company’s
+recruitment and selection procedures to ensure that there is no discrimination, and that training is given to meet
+individual needs. Applications by people with disabilities are given full and fair consideration and, wherever practical,
+provision is made for their special needs. The same criteria for training and promotion apply to people with disabilities
+as to any other employee. If an employee becomes disabled, every effort is made to ensure their continued employment.
+
+Employee involvement
+
+The company operates a framework for employee information and consultation which complies with the requirements
+of the Information and Consultation of Employees Regulations 2005. During the year, the policy of providing
+employees with information about the group has been continued through meetings, and monthly communications in
+which employees are encouraged to present their suggestions and views on the group’s performance. Regular meetings
+are held between local management and employees to allow a free flow of information and ideas.
+
+Directors' indemnities .
+
+Brookfield Corporation maintains directors’ and officers’ liability insurance, covering the defence costs of civil legal
+proceedings and the damages resulting from the unsuccessful defence of such proceedings except, in such cases, to the
+extent that a director or officer acted fraudulently or dishonestly, for all its subsidiaries. This policy i is not a third-party
+indemnity, but it is designed to defend against third-party liability.
+
+Springfields Fuels Limited
+
+Directors’ report
+For the year ended 31 December 2023 (continued)
+
+Streamlined Energy and Carbon Reporting (“SECR”)
+. 31 December 2023 31 December 2022.
+
+_ Energy consumption used to calculate emissions (kWh) 191,461,643, =———:176,941,791
+Scope 1 Direct emissions in metric tonnes CO2: , :
+— Gas & fuel oil consumption 35,771 36,287
+— Owned transport . . 17 168
+Scope 1 Total . 35,788 36,455
+Scope 2 Indirect emissions in metric tonnes CO2 — purchased electricity 506 881
+Scope 3 Other direct emissions in metric tonnes CO2 — businéss travel in
+employee owned vehicles . : 13 9
+Total gross emissions in metric tonnes CO2 36,307 37,345
+Intensity ratio — Emissions per tonne of uranium 86 92
+
+The data has been supplied to the company’s lead ESOS (Energy Savings Opportunity Scheme) assessor. UK energy
+use covers production of nuclear fuel components and the methodology used is the European Union Emissions Trading
+System (“EUETS”).
+
+The intensity ratio has reduced as emissions have reduced and fuel turnover has slightly increased. During the year we
+continued to look at reducing the site footprint and closed buildings which reduced infrastructure (i.e. reducing the
+steam main). Our-mobile worker initiative has categorised employees into anchor, mobile and remote and this has
+enabled the company to be more efficient by reducing electricity consumption on site as employees have been working
+from home. :
+
+Going concern
+The company’s business activities together with the factors likely to affect its future development, its financial position
+and financial risk management objectives are as described in the Strategic report on pages 2 to 6.
+
+The company has been profitable in the year and has increased its net asset position at 31 December 2023, strengthening
+the company’s ability to continue to operate as a going concern. Trading has continued as expected in 2024 and a year
+end profit is forecast.
+
+During the year the company was reimbursed by WEC Holdings for its loan and the company now participates in
+Westinghouse’s cash pool arrangement, which would provide funding to support the operations of the company. if
+required. ;
+
+Continuous assessments have resulted in the directors having a reasonable expectation that the company has adequate .
+resources to continue in operational existence for twelve months from the signing date, even in the event of any possible
+downside scenarios which may have an adverse impact on the performance of the company. Accordingly, they continue
+to adopt the going concern basis in preparing the annual report and financial statements.
+
+Dividends
+During the year the directors did not recommend a dividend to WEC Holdings (2022: £nil).
+
+Share Capital
+Details of movements in the’ company's share capital during the year are set out in note 22 to the financial statements.
+
+Events after the balance sheet date
+Events after the balance sheet date can be found in note 25.
+
+Springfields Fuels Limited
+
+Directors’ report
+For the year ended 31 December 2023 (continued)
+
+Statement of disclosure of information to independent auditor
+Each of the persons who is a director at the date of approval of this report confirms that:
+
+* so far as the director is aware, there is no relevant audit information of which the company's auditor are unaware;
+and
+
+e the director has taken all the steps that they ought to have taken as a director in order to make themselves aware of
+any relevant audit information and to establish that the company's auditor are aware of that information.
+
+This confirmation is given and should be interpreted in accordance with the provisions of Section 418 of the Companies
+Act 2006. ,
+
+Deloitte LLP have expressed their willingness to continue in office as auditor and appropriate arrangements are being
+made for them to be deemed reappointed as auditor under section 485 of the Companies Act 2006 in the absence of an
+annual general meeting.
+
+Approved by the board of directors on 21 August 2024 and signed on its behalf by:
+
+Paul Lomas
+
+Director
+
+10
+
+Springfields Fuels Limited
+
+Statement of directors’ responsibilities
+
+The directors are responsible for preparing the Annual report and the financial statements in accordance with
+applicable law and regulations. : :
+
+Company law requires the directors to prepare financial statements for each financial year. Under that law the
+"directors have elected to prepare the financial statements in accordance with United Kingdom Generally Accepted
+Accounting Practice (United Kingdom Accounting Standards and applicable law) including FRS 101 “Reduced
+Disclosure Framework”. Under company law the directors must not approve the financial statements unless they
+are satisfied that they give a true and fair view of the state of affairs of the company and of the profit or loss of
+the company for that period. In preparing these financial statements, the directors are required to:
+
+. select suitable accounting policies and then apply them consistently;
+. make judgements and accounting estimates that are reasonable and prudent;
++ ___ state whether applicable UK Accounting Standards have been followed, subject to any material departures
+
+disclosed and explained in the financial statements; and
+
+. prepare the financia] statements on the going concern | basis unless it is s inappropriate to presume that the
+company will continue in business. :
+
+The directors are responsible for keeping adequate accounting records that are sufficient to show and explain the
+company's transactions and disclose with reasonable accuracy at any time the financial position of the company
+
+and enable them to ensure that the financial statements comply with the Companies Act 2006.
+
+They are also responsible for safeguarding the assets of the company and hence for taking reasonable steps for
+the prevention and detection of fraud and other irregularities.
+
+1
+
+Springfields Fuels Limited
+Independent auditor’s report to the members of Springfields Fuels Limited
+
+Report on the audit of the financial statements ©
+
+Opinion
+In our opinion the financial statements of Springfields Fuels Limited (the company’):
+e give a true and fair view of the state of the company’s affairs as at 31 December 2023 and of i its profit for the
+year then ended;
+e have been properly prepared in accordance with United Kingdom Generally Accepted Accounting Practice,
+including Financial Reporting Standard 101 “Reduced Disclosure Framework”; and
+e have been prepared in accordance with the requirements of the Companies Act 2006.
+
+We have audited the financial statements which comprise:
+e the profit and loss account;
+
+the statement of comprehensive income;
+
+the balance sheet;
+
+the statement of changes in equity;
+
+the material accounting policies: and
+
+the related notes 1 to 25.
+
+The financial reporting framework that has been applied in their preparation is applicable law and United Kingdom
+Accounting Standards, including Financial Reporting Standard 101 “Reduced Disclosure Framework” (United
+Kingdom Generally Accepted Accounting Practice).
+
+Basis for opinion
+We conducted our audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and applicable law.
+Our responsibilities under those standards are further described in the auditor's responsibilities for the audit of the
+
+- financial statements section of our report.
+
+We are independent of the company in accordance with the ethical requirements that are relevant to our audit of the
+financial statements in the UK, including the Financial Reporting Council’s (the “FRC’s’) Ethical Standard, and we
+have fulfilled our other ethical responsibilities in accordance with these requirements. We believe that the audit
+evidence we have obtained is sufficient and appropriate to provide a basis for our opinion.
+
+Conclusions relating to going concern
+In auditing the financial statements, we have concluded that the directors’ use of the going concern basis of accounting
+in the preparation of the financial statements is appropriate.
+
+Based on the work we have performed, we have not identified any material uncertainties relating to events or conditions
+that, individually or collectively, may cast significant doubt on the company’s ability to continue as a going concern
+for a period of at least twelve months from when the financial statements are-authorised for issue.
+
+Our responsibilities and the responsibilities of the directors with respect to going concem are described in the relevant
+sections of this report
+
+Other information
+
+The other information comprises the information included in the annual report, other than the financial statements and
+our auditor’s report thereon. The directors are responsible for the other information contained within the annual report.
+Our opinion on the financial statements does not cover the other information and, except to the extent otherwise
+explicitly stated in our report, we do not express any form of assurance conclusion thereon.
+
+Our responsibility. is to read the other information and, in doing so, consider whether the other information is materially
+inconsistent with the financial statements or our knowledge obtained in the course of the audit, or otherwise appears
+to be materially misstated. If we identify such material inconsistencies or apparent material misstatements, we are
+required to determine whether this gives rise to a material misstatement in the financial statements themselves. If,
+based on the work we have performed, we conclude that there is a material misstatement of this other information, we
+are required to report that fact.
+
+We have nothing to report in this regard.
+. 12
+
+Springfields Fuels Limited
+Independent auditor’s report to the members of Springfields Fuels Limited (continued)
+
+Responsibilities of directors
+
+As explained more fully in the statement of directors’ responsibilities, the directors are responsible for the preparation
+of the financial statements and for. being satisfied that they give a true and fair view, and for such internal control as
+the directors determine is necessary to enable the preparation of financial statements that are free from material
+misstatement, whether due to fraud or error. :
+
+In preparing the financial statements, the directors are responsible for assessing the company’s ability to continue as a
+
+‘going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of
+accounting unless the directors either intend to liquidate the company or to cease operations, or have no realistic
+alternative but to do so.
+
+Auditor’s responsibilities for the audit of the financial statements
+
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are ‘free from
+material misstatement, whether due to fraud or error, and to issue an auditor's report that includes our opinion.
+Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with
+ISAs (UK) will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and
+are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic
+decisions of users taken on the basis of these financial statements.
+
+A further description of our responsibilities for the audit of the financial statements is located on the FRC’s website at:
+www. fre. org.uk/auditorsresponsibilities. This description forms part of our auditor’s report.
+
+Extent to which the audit was considered capable of detecting irregularities, including fraud
+
+Irregularities, including fraud, are instances of non-compliance with laws and regulations. We design procedures in
+line with our responsibilities, outlined above, to detect material misstatements: in respect of irregularities, including
+fraud. The extent to which our procedures are capable of detecting irregularities, including fraud is detailed below.
+
+We considered the nature of the company’s industry and its control environment, and reviewed the company’s
+
+documentation of their policies and procedures relating to fraud and compliance with laws and regulations. We also.
+enquired of management and the directors about their own identification and assessment of the risks of irregularities,
+
+including those that are specific to the company’s business sector.
+
+We obtained an understanding of the legal and regulatory framework that the company operates in, and identified the
+key laws and regulations that:
+e had a direct effect on the determination of material amounts and disclosures in the financial statements.
+These included the UK Companies Act, pension and tax legislation; and
+« do not have a direct effect on the financial statements but compliance with which may be fundamental to the
+company’s ability to operate or to avoid a material penalty.
+
+We discussed among the audit engagement team including relevant internal specialists such as pension and tax
+specialists regarding the opportunities and incentives that may exist within the organisation for fraud and how and
+where fraud might occur in the financial statements.
+
+As a result of performing the above, we identified the greatest potential for fraud in the following area, and our
+procedures performed to address it are described below:
+
+e the company’s main revenue stream is the manufacture and sale of Advanced Gas Reactor (“AGR”) fuel
+assemblies for one major customer. We pinpointed the risk of fraud through material misstatement to the
+pricing arrangement within the contract which is complex and could be subject to management bias. In
+addressing this risk, we performed a detailed recalculation of a sample of transactions and also obtained
+independent confirmations from the customer.
+
+In common with all audits under ISAs (UK), we are also‘required to perform specific procedures to respond to the risk
+of management override. In addressing the risk of fraud through management override of controls, we tested the
+appropriateness of journal entries and other adjustments; assessed whether the judgements made in making accounting
+estimates are indicative of a potential bias; and evaluated the business rationale of any significant transactions that are
+unusual or outside the normal course of business.
+
+13
+
+Springfields Fuels Limited
+
+Independent auditor’s report to the members of Springfields Fuels Limited (continued)
+
+Extent to which the audit was considered capable of detecting irregularities, including fraud (continued)
+In addition, to the above, our procedures to respond to the risks identified included the following: :
+¢ reviewing financial statement disclosures by testing to supporting documentation to assess compliance with
+provisions of relevant laws and regulations described.as having a direct effect on the financial statements;
+e performing analytical procedures to identify any unusual or unexpected relationships that may indicate risks
+of material misstatement due to fraud;
+_ © enquiring of management and in-house legal counsel concerning actual and potential litigation and claims,
+and instances of non-compliance with laws and regulations; and
+¢ reading minutes of meetings of those charged with governance and reviewing correspondence with any other
+relevant regulatory authorities.
+
+Report on other legal and regulatory requirements
+
+Opinions on other matters prescribed by the Companies Act 2006
+In our opinion, based on the work undertaken in the course of the audit:
+
+e the information given in the strategic report and the directors’ report for the financial year for which the
+financial statements are prepared is consistent with the financial statements; and
+
+e the strategic report and the directors’ report have been prepared in accordance with applicable legal
+requirements. :
+
+In the light of the knowledge and understanding of the company and its environment obtained in the course of the
+audit, we have not identified any material misstatements in the strategic report or the directors’ report. ,
+
+Matters on which we are required to report by exception :
+Under the Companies Act 2006 we are required to report in respect of the following matters if, in our opinion:
+
+¢ adequate accounting records have not been kept, or returns adequate for our audit have not been received from
+branches not visited by us; or
+
+e the financial statements are not in agreement with the accounting records and returns; or
+
+© certain disclosures of directors’ remuneration specified by law are not made; or
+
+¢ we have not received all the information and explanations we require for our audit.
+
+We have nothing to report in respect of these matters.
+
+Use of our report
+
+This report is made solely to the company’s members, as a body, in accordance with Chapter 3 of Part 16 of the
+Companies Act 2006. Our audit work has been undertaken so that we might state to the company’s members those °
+"matters we are required to state to them in an auditor’s report and for no other purpose. To the fullest extent permitted
+by law, we do not accept or assume responsibility to anyone other than the company and the company’s members as a
+body, for our audit work, for this report, or for the opinions we have formed.
+
+Berd Crenfod .
+
+David Crawford CA (Senior statutory auditor)
+For and on behalf of Deloitte LLP
+
+Statutory Auditor
+
+Manchester, United Kingdom
+
+21% August 2024
+
+14
+
+Springfields Fuels Limited
+
+Profit and loss account
+For the year ended 31 December 2023
+
+Turnover
+Cost of sales
+
+Gross profit
+Operating expenses
+Exceptional items
+
+Operating profit
+Interest and similar income and expense
+
+Profit before taxation
+Tax on profit
+
+Profit for the financial year
+
+The above results were derived from continuing operations.
+
+Note
+4
+
+31 December 2023
+
+31 December 2022
+
+£000 £000
+194,566 154,466
+(136,811) (102,889)
+57,755 51,577
+(31,359) (35,758)
+- (265)
+
+26,396 15,554
+367 (2,894)
+26,763 12,660
+(7,011) (2,609)
+19,752 10,051
+
+15
+
+Springfields Fuels Limited
+
+Statement of comprehensive income
+For the year ended 31 December 2023
+
+31 December 2023
+
+31 December 2022
+
+’ Note £000 - £000
+Profit for the financial year : 19,752 10,051
+Items that cannot be reclassified to profit or loss:
+Actuarial loss recognised on defined benefit pension schemes 21 (10,457) (10,800)
+Movement on deferred tax relating to pension deficit 18 2,614 2,700
+Other comprehensive expense for the period net of tax (7,843) (8,100)
+Total comprehensive income for the year attributable to the ,
+owners of the company 11,909 1,951
+
+16
+
+Springfields Fuels Limited
+
+Balance sheet
+As at 31 December 2023
+
+Fixed assets
+Intangible assets
+Tangible fixed assets
+Investments
+
+Current assets
+
+Stocks
+
+Debtors :
+Cash at bank and in hand
+
+Creditors: amounts falling due within one year
+Net current assets
+
+Total assets less current liabitities
+
+Creditors: amounts falling due after more than one year
+
+Obligations under leases
+Deferred tax liability
+Provisions for liabilities
+
+Net assets excluding pension asset
+Pension asset
+Net assets
+
+Capital and reserves
+Called up share capital
+Profit and loss account
+
+Total shareholders’ funds
+
+Note
+
+“a
+
+12
+13
+
+15
+
+16
+
+7
+18
+19
+
+21
+
+22
+
+31 December 2023
+
+31 December 2022
+
+£000 £000
+7,916 9,593
+88,866 80,940
+4,976 3,775
+101,758 94,308
+28,335 30,917
+35,979 66,331
+39,399 2,925
+103,713 ~ 100,173
+(83,698) (93,075)
+
+20,015
+
+: 121,773
+
+7,098
+
+101,406
+
+(8,154) (10,195)
+(7,369) (3,586)
+(18,599) (12,212)
+87,651 75,413
+24,523 24,852
+112,174 100,265
+30,082 30,082
+82,092 70,183
+100,265
+
+112,174
+
+The notes on pages 19 to 53 are an integral part of the financial statements.
+
+The financial statements of Springfields Fuels Limited (registration number: 03857770) on pages 15 to 53 were
+approved by the board of directors and authorised for issue on 21 August 2024.
+
+They were signed on its behalf by:
+
+Paul Lomas
+Director
+
+17
+
+Springfields Fuels Limited
+
+Statement of changes in equity
+For the year ended 31 December 2023
+
+Note
+
+At 1 January 2022
+
+Profit for the financial year
+
+Other comprehensive (expense) / income:
+Actuarial loss on defined benefit pension
+scheme - 21
+
+Tax relating to components of other
+comprehensive income - 10
+Total comprehensive income for the year
+attributable to the owners of the company
+
+At 31 December 2022
+
+Profit for the financial year
+
+Other comprehensive (expense) / income:
+Actuarial loss on defined benefit pension
+
+scheme 21
+Tax relating to components of other
+comprehensive income 10
+
+Total comprehensive income for the year
+_ attributable to the owners of the company
+At 31 December 2023
+
+Called up
+
+Profit. and
+share capital loss account Total -
+
+£000 £ 000 £000
+30,082 68,232 98,314
+- 10,051 10,051
+
+- (10,800) (10,800)
+
+- 2,700 2,700
+
+: 1,951 1,951
+30,082 70,183 100,265
+- 19,752 19,752
+
+- (10,457) (10,457)
+
+- 2,614 2,614
+
+- 11,909 11,909
+30,082 82,092 112,174
+
+18
+
+Springfields Fuels Limited
+
+Notes to the financial statements
+For the year ended 31 December 2023
+
+1. General information ;
+The company is a private company limited by share capital and is incorporated in the United Kingdom under the
+Companies Act 2006 and domiciled in England and Wales.
+The address of its registered office is:
+Springfields
+Salwick
+Preston
+Lancashire
+
+PR4 OXI
+
+United Kingdom
+
+These financial statements are presented in Pounds sterling, the presentational and functional currency, because
+that is the currency of the primary economic environment in which the company operates.
+
+The financial statements are prepared in accordance with the requirements of the Companies Act 2006 and the
+Financial Reporting Standard 101 “Reduced Disclosure Framework” (FRS 101) and applicable accounting
+standards because the company is a member of a group where the parent of the group (Watt New Aggregator L.P.
+incorporated in Cayman) prepares consolidated financial statements in which the results of the company are
+consolidated (note 23).
+
+The financial statements are prepared under the historical cost convention, except, where stated in the accounting
+policies, in accordance with applicable FRS 101.
+2. Accounting policies ~
+
+Summary of material accounting policies
+
+The material accounting policies applied in the preparation of these financial statements are set out below.
+These policies have been consistently applied to all the years presented, unless otherwise stated.
+
+Basis of accounting
+The financial statements have been prepared in accordance with FRS 101 (Financial Reporting Standard 101)
+“Reduced Disclosure Framework” as issued by the Financial Reporting Council.
+
+New standards, amendments and International Financial Reporting Interpretations Committee (IFRIC)
+interpretations
+
+There are no amendments to accounting standards, or IFRIC interpretations that are effective for the year ended 31
+December 2023 that have had a material impact on the company.
+‘Summary of disclosure exemptions
+
+As permitted by FRS 101, the company has taken advantage of the listed disclosure exemptions. Where applicable
+equivalent disclosures have been given in the financial statements of Watt New Aggregator L.P. (Cayman) into
+which it is consolidated, copies of which are publicly available on request from its registered office (note 23).
+
+‘e The requirement to prepare consolidated financial statements under section 401 of the Companies Act 2006;
+
+« the requirements of paragraphs 62, B64(d), B64(e), B64(g), B64(h), B64(j)-(m), B64(n)(ii), B64(0)(ii),
+B64(p), B64(q)(ii), B66 and B67 of IFRS 3 Business Combinations; group financial statements have not been
+presented;
+
+© the requirements of IFRS 7 Financial Instruments: Disclosures, the categories of financial instrument and
+nature and extent of risks arising on these financial instruments have not been detailed;
+
+e the requirements of paragraphs 91-99 of IFRS 13 Fair Value Measurement, the valuation techniques applied
+to assets and liabilities held at fair value have not been disclosed;
+
+e the requirements of paragraph 10(f) of IAS 1 Presentation of Financial Statements, a balance sheet has not
+been given to reflect the change in accounting policy;
+
+e the requirements of IAS 7 Statement of Cash flows, a statement of cash flows has not been presented;
+
+19
+
+Springfields Fuels Limited
+
+Notes to the financial statements (continued)
+For the year ended 31 December 2023
+
+2.
+
+Accounting policies (continued)
+
+Summary of disclosure exemptions (continued)
+
+* the requirements of paragraphs 30 and 31 of IAS 8 Accounting Policies, Changes | in Accounting Estimates
+and Errors including the list of new IFRSs that have been issued but that have yet to be applied have not been
+disclosed;
+
+e the requirements of the second sentence of paragraph 110 and paragraphs 113(a), 114,115; 118, 119(a) to (c),
+120 to 127 and 129 of IFRS 15 Revenue from Contracts with Customers;
+
+e the requirements of paragraphs 17 and 18A of IAS 24 Related Party Transactions, related party transactions
+between members of the group have not been disclosed;
+
+e the requirements of paragraphs 134 (d)-(f) and 135(c)-(e) of IAS 36 Impairment of Assets, the valuation
+techniques and assumptions used for assets held at fair value less cost to sell categorised as Level 2 and Level
+3 in accordance with IFRS 13 fair value hierarchy have not been disclosed;
+
+e the requirements of paragraph 6 of IFRS 16 Leases to capitalise leases of low value assets;
+
+e the requirement in paragraph 88 A-D of IAS 12 income taxes, disclosure of qualitative and quantitative
+information about its exposure to the Pillar Two income taxes have not been disclosed; and
+
+e the requirements of paragraphs 30 and 31 of IAS 8 Accounting Policies, Changes in Accounting Estimates
+and Errors, including the list of new IFRSs that have been issued but that have yet to be applied have not been
+disclosed.
+
+Going concern
+
+The company’s business activities together with the factors likely to affect its future development, its financial
+position and financial risk management objectives are as described in the Strategic report on pages 2 to 6.
+
+The company has been profitable in the year and:has increased its net asset position at 31 December 2023,
+strengthening the company’s ability to continue to operate as a going concern. Trading has continued as expected
+in 2024 and a year end profit is forecast.
+
+During the year the company was reimbursed by WEC Holdings for its loan and the company now participates in
+the Westinghouse’s cash pool arrangement, which would provide funding to support the operations of the company
+if required.
+
+Continuous assessments have resulted in the directors having a reasonable expectation that the company has
+adequate resources to continue in operational existence for twelve months from the signing date, even in the event _
+of any possible downside scenarios which may have an adverse impact on the performance of the company.
+Accordingly, they continue to adopt the going concern basis in preparing the annual report and financial statements.
+
+Goodwill
+
+Goodwill arising on the acquisition of a business represents the excess of the cost of acquisition over the company’s
+interest in the net fair value of the identifiable assets, liabilities and contingent liabilities of the business recognised
+at the date of acquisition. Goodwill is initially recognised as an asset at cost and is subsequently measured at cost
+less any accumulated impairment losses. Goodwill is held in the currency of the acquired business and revalued to
+the closing rate at each reporting period date.
+
+Goodwill is not subject to amortisation but is tested for impairment. Company law requires goodwill to be written
+off over a finite period. Non-amortisation of goodwill, in accordance with International Financial Reporting
+Standards, is a departure from the requirements of company law for the overriding purpose of giving a true and fair
+view. If this departure from company law had not been made, the profit for the financial year would. have been
+reduced by amortisation of goodwill. However, the amount of amortisation cannot reasonably be quantified other
+
+" than by reference to an arbitrary assumed period for amortisation.
+
+20
+
+Springfields Fuels Limited
+
+Notes to the financial statements (continued)
+For the year ended 31 December 2023
+
+2.
+
+Accounting policies (continued)
+Intangible assets acquired separately
+
+Intangible assets with finite useful lives that are acquired separately are carried at cost less accumulated
+amortisation and accumulated impairment losses. Amortisation is recognised on a straight-line basis over their
+estimated useful lives (environmental assets: 2 years). The estimated useful life and amortisation method are
+reviewed at the end of each reporting period, with the effect of any changes in estimate being accounted for on a
+prospective basis (note 11).
+
+Exceptional items
+
+The company presents as exceptional items those material itéms of income and expense which, because of the
+nature and expected infrequency of the events giving rise to them, merit separate presentation to allow
+shareholders to understand better the elements of financial performance in the year, so as to facilitate comparison
+with prior years and to assess better trends in financial performance.
+
+Tangible fixed assets
+
+Tangible fixed assets are stated at cost, net of depreciation and provision for diminution in value. Where economic
+facilities have been commissioned, the estimated cost of decommissioning the facilities is recognised, to the extent
+that it is recognised as a provision under International Accounting Standard (IAS) 37 Provisions, Contingent
+Liabilities and Contingent Assets, as part of the carrying value of the asset and depreciated over the useful life of
+the asset.
+
+Depreciation is provided on-all tangible fixed assets at rates calculated to write-off the cost, less estimated residual
+value, of each asset evenly over its expected useful life as follows: :
+
+Asset Class: Depreciation rate:
+Land and buildings 20 years
+Decommissioning assets 2 - 20 years
+
+Plant and machinery 2 - 10 years
+Fixtures, fittings and vehicles 1-5 years
+
+Assets under construction (“AUC”) are not depreciated until they are brought into use.
+Leased assets are depreciated on a straight-line basis over the term of the relevant lease.
+Freehold land is not depreciated.
+
+Stocks ;
+
+Stocks are stated at the lower of cost and net realisable value. Cost is determined using the average cost method.
+Cost comprises direct materials and where applicable, direct labour costs and those overheads that have been
+incurred in bringing the stocks to their present location and condition.
+
+Net realisable value represents the estimated selling price less all estimated costs of completion and costs to be
+incurred in marketing, selling and distribution.
+
+Business combinations
+
+Acquisitions of businesses are accounted for using the acquisition method. The consideration transferred in a
+business combination is measured at fair value, which is calculated as the sum of the acquisition-date fair value of
+assets transferred to the company less liabilities incurred by the company (note 11). Acquisition-related costs are
+recognised in profit or loss as incurred.
+
+At the acquisition date, the identifiable assets acquired, and the liabilities assumed are recognised at their fair value
+at the acquisition date, except that:
+
+e deferred tax assets or liabilities and assets or liabilities related to employee benefit arrangements are recognised
+and measured in accordance with IAS 12 and IAS 19 respectively; and
+
+21
+
+_ Springfields Fuels Limited
+
+Notes to the financial statements (continued)
+For the year ended 31 December 2023
+
+2, Accounting policies (continued)
+Business combinations (continued)
+
+¢ assets (or disposal groups) that are classified as held for sale in accordance with IFRS 5 are measured in
+accordance with that Standard.
+
+Goodwill is measured as the excess of the sum of the consideration transferred over the net of the acquisition-date
+amounts of the identifiable assets acquired and the liabilities assumed (note 11 and 12).
+
+Revenue recognition .
+The entity recognises revenue as follows:
+
+Revenue from contracts with customers °
+Revenue is recognised at an amount that reflects the consideration to which the entity is expected to be entitled in
+. exchange for transferring goods or services to a customer. For each contract with a customer, the entity: identifies
+the contract with a customer; identifies the performance obligations in the contract; determines the transaction price
+which takes into account estimates of variable consideration and the time value of money; allocates the transaction
+price to the separate performance obligations on the basis of the relative:stand-alone selling price of each distinct
+good or service to be delivered; and recognises revenue’ when or as each performance obligation is satisfied in a
+manner that depicts the transfer to the customer of the goods or services promised.
+
+Variable consideration within the transaction price, if any, reflects concessions provided to the customer such as
+discounts, rebates and refunds, any potential bonuses receivable from the customer and any other contingent events.
+Such estimates are determined using either the 'expected value’ or 'most likely amount’ method. The measurement
+of variable consideration is subject to a constraining principle whereby revenue will only be recognised to. the
+extent that it is highly probable that a significant reversal in the amount of cumulative revenue recognised will not
+occur. The measurement constraint continues until the uncertainty associated with the variable consideration is
+
+* subsequently resolved. Amounts received that are subject to the constraining principle are’ initially recognised as
+deferred revenue in the form of a separate refund liability.
+
+Sale of goods
+‘Revenue from the sale of goods is recognised at the point in time when the customer obtains control of the goods,
+which is generally at the time of delivery.
+
+Rendering of services
+Revenue from a contract to provide services is recognised over time as the work progresses based on either a fixed
+price or an hourly rate. .
+
+Interest
+
+Interest revenue is recognised as interest accrues using the effective interest method. This is a method of calculating
+the amortised cost of a financial asset and allocating the interest income over the relevant period using the effective
+interest rate, which is the rate that exactly discounts estimated future cash receipts through the expected life of the
+financial asset to the net carrying amount of the financial asset.
+
+Other revenue
+Other revenue is recognised when it is received or when the right to receive payment is established.
+
+Foreign currencies
+
+Transactions in foreign currencies are recorded at the rate ruling at the date of the transaction or at the contracted
+rate if the transaction is covered by a forward exchange contract. Monetary assets and liabilities denominated in
+foreign currencies are translated at the rate of exchange ruling at the balance sheet date, or if appropriate, at the
+forward contract rate. Exchange differences related to settled transactions are presented as operating expenses.
+Exchange differences related to unsettled balances are presented as interest income and expense.
+
+22
+
+Springfields Fuels Limited —
+
+‘Notes to the financial statements (continued)
+For the year ended 31 December 2023
+
+2. Accounting policies (continued) .
+
+Leased assets
+
+The company accounts for leases by applying IFRS 16. The company assesses whether a contract is or contains a
+lease, at inception of the contract. The company recognises a right-of-use asset and a corresponding lease liability
+with respect to all lease arrangements in which it is the lessee, except for short-term leases (defined as leases with
+a lease term of twelve months or less) and leases of low value assets (below $5,000).
+
+The lease liability is initially measured at the present value of the lease payments that are not paid at the
+commencement date, discounted by using the rate implicit in the lease. If this rate cannot be readily determined,
+the company uses its incremental borrowing rate.
+
+Lease payments included in the measurement of the lease liability comprise:
+
+fixed lease payments (including in-substance fixed payments), less any lease incentives receivable;
+variable lease payments that depend on an index or rate, initially measured using the index or rate at the
+commencement date;
+the amount expected to be payable by the lessee under residual value guarantees;
+the exercise price of purchase options, if the lessee is reasonably certain to exercise the options; and
+
+© payments of penalties for terminating the lease, if the lease term reflects the exercise of an option to terminate
+the lease.
+
+The lease liability is presented as a separate line in the balance sheet.
+
+The lease liability is subsequently measured by increasing the carrying amount to reflect interest on the lease
+liability (using the effective interest method) and by reducing the carrying amount to reflect the lease payments
+made.
+
+The company as lessee
+
+The company re-measures the lease liability (and makes a corresponding adjustment to the related right-of-use
+asset) whenever:
+
+e The lease term has changed or there is a significant event or change in circumstances resulting in a change in
+the assessment of exercise of a purchase option, in which case the lease liability is re-measured by discounting
+the revised lease payments using a revised discount rate.
+
+e The lease payments change due to changes in an index or rate or a change in expected payment under a
+guaranteed residual value, in which cases the lease liability is re-measured by discounting the revised lease
+payments using an unchanged discount rate (unless the lease payments change i is due to a change in a floating
+interest rate, in which case a revised discount rate is used). .
+
+e A lease contract is modified and the lease modification is not accounted for as a separate lease, in which case
+the lease liability is remeasured based on the lease term of the modified lease by discounting the revised lease
+payments using a revised discount rate at the effective date of the modification.
+
+The company did not make any such adjustments during the year presented.
+
+The right-of-use assets comprise the initial measurement of the corresponding lease liability, lease payments made
+at or before the commencement day, less any lease incentives received and any initial direct costs. They are
+subsequently measured at cost less accumulated depreciation and impairment losses.
+
+Whenever the company incurs an obligation for costs to dismantle and remove a leased asset, restore the site on
+which it is located or restore the underlying asset to the condition required by the terms and conditions of the lease,
+
+a provision is recognised and measured under IAS 37 Provisions, Contingent Liabilities and Contingent Assets. To
+the extent that the costs relate to a right-of-use asset, the costs are included in the related right-of-use asset, unless
+those costs are incurred to produce inventories.
+
+23
+
+Springfields Fuels Limited
+
+Notes to the financial statements (continued)
+
+2.
+
+’ For the year ended 31 December 2023
+
+Accounting policies (continued)
+Leased assets (continued)
+The company as lessee (continued)
+
+Right-of-use assets are depreciated over the shorter period of lease term-and useful life of the underlying asset. Ifa
+lease transfers ownership of the underlying asset or the cost of the right-of-use asset reflects that the company
+expects to exercise a purchase option, the related right-of-use asset is depreciated over the useful life of the
+underlying asset. The depreciation starts at the commencement date of the lease.
+
+- The right-of-use assets are presented within the tangible fixed assets line in the balance sheet.
+
+The company applies IAS 36 to determine whether a right-of-use asset is impaired and accounts for any identified
+impairment loss.
+
+Variable rents that do not depend on an index or rate are not included in the measurement the lease liability and the
+right-of-use asset. The related payments are recognised as an expense in the period in which the event or condition
+that triggers those payments occurs and are included in the other operating expenses.
+
+As a practical expedient, IFRS 16 permits a lessee not to separate non-lease components, and instead account for
+any lease and associated non-lease components as a single arrangement. The company has not used this practical
+expedient.
+
+Defined benefits pension scheme
+
+The company has Pension arrangements with the Westinghouse Electric UK Pension Plan and the Westinghouse
+Electric UK DC Plan (part of the Aegon Master Trust), a defined contribution scheme. Both pension schemes
+require contributions to be made to separately administered funds.
+
+The cost of providing benefits under the defined benefit plan is determined using the projected unit method, which
+attributes entitlement to benefits to the current period (to determine current service cost) and to the current and
+prior periods (to determine the present value of defined benefit obligations) and is based on actuarial advice. Past
+service costs are recognised in profit or loss on a straight-line basis over the vesting period or immediately if the
+benefits have vested. When a settlement or a curtailment occurs the change in the present value of the scheme
+liabilities and the fair value of the plan assets reflects the gain or loss which is recognised in the profit and loss
+account. Losses are measured at the date that the employer becomes demonstrably committed to the transaction
+and gains are measured when all parties whose consent is required are irrevocably committed to the transaction.
+
+The interest element of the defined benefit cost represents the change in present value of scheme obligations relating
+from the passage of time and is determined by applying the discount rate to the opening present value of the benefit
+obligation, taking into account material changes in the obligation during the period. The expected return on plan
+assets is based on an assessment made at the beginning of the period of long-term market returns on scheme assets,
+adjusted for the effect on the fair value of plan assets of contributions received and benefits paid during the period.
+
+The difference between the expected return on plan assets and the interest costs is recognised in the profit and loss
+account.
+
+Actuarial gains and losses are recognised in full in the statement of comprehensive income in the period in which
+they occur.
+
+The defined benefit pension asset or liability in the balance sheet comprises the total of the present value of the
+defined benefit obligation (using a discount rate based on high quality corporate bonds that have been rated at AA
+or equivalent status), less any past service cost not yet recognised and less the fair value of plan assets out of which
+the obligations are to be settled directly. Fair value is based on market price information and in the case of quoted
+securities is the published mid-market price. The value of a net pension benefit asset is limited to the amount that
+may be recovered either through reduced contributions or agreed refunds from the scheme.
+
+Employees who commenced employment after 16 October 2006 are only eligible to join the defined contribution
+section, and these are accounted for on a defined contribution basis.
+
+24
+
+Springfields Fuels Limited |
+
+Notes to the financial statements (continued)
+For the year ended 31 December 2023
+
+2. Accounting policies (continued)
+Current and deferred tax
+
+The tax charge for the period comprises current and deferred tax. Tax is recognised in the profit and loss account,
+except to the extent that it relates to items recognised in other comprehensive i income or directly in shareholders’
+funds.
+
+The current tax charge is calculated on the basis of the tax laws enacted or substantively enacted at the balance
+sheet date in the UK.
+
+Management periodically evaluates positions taken in tax returns with respect to situations in which applicable
+tax regulation is subject to interpretation. A provision is recognised for those matters for which the tax
+determination is uncertain but it is considered probable that there will be a future outflow of funds to a tax authority.
+The provisions are measured at the best estimate of the amount expected to become payable. The assessment is
+based on the judgement of tax professionals within the company supported by previous experience in respect of
+such activities and in certain cases based on specialist independent tax advice.
+
+Deferred tax is recognised on temporary differences arising between the tax bases of assets and liabilities and their
+carrying amounts in the financial statements. However, deferred tax liabilities are not recognised if they arise from
+the initial recognition of goodwill; or arise from the initial recognition of an asset or liability in a transaction other
+than a business combination that at the time of the transaction affects neither accounting nor taxable profit or loss.
+Deferred tax is determined using tax rates (and laws) that have been enacted or substantively enacted at the balance
+sheet date and are expected to apply when the deferred tax asset is realised, or the deferred income tax liability is
+settled. :
+
+Deferred tax liabilities are generally recognised for all taxable temporary differences and deferred tax assets are
+recognised to the extent that it is probable that taxable profits will be available against which deductible temporary
+differences can be utilised. The carrying amount of deferred tax assets is reviewed at each balance sheet date and
+reduced to the extent that it is no longer probable that sufficient taxable profits will be available to allow all or part
+of the asset to be recovered.
+Deferred tax assets and liabilities are offset when there is a legally enforceable right of offset for current tax assets
+against current tax liabilities and the deferred income tax assets and liabilities relate to income taxes levied by the
+same taxation authority on either the same taxable entity or different taxable entities where there is an intention to
+settle the balances on a net basis.
+Provisions
+Provisions are recognised when the company has a present obligation (legal or constructive) as a result of a past
+event, it is probable that the company will be required to settle that obligation, and a reliable estimate can be made
+of the amount of the obligation.
+The amount recognised as a provision is the best estimate of the consideration required to settle the present
+. obligation at the balance sheet date, taking into account the risks and uncertainties surrounding the obligation.
+Where a provision is measured using the cash flows estimated to settle the present obligation, its carrying amount
+is the present value of those cash flows (when the effect of the time value of money is material).
+When some or all of the economic benefits required to settle a provision are expected to be recovered from a third
+party, a receivable is recognised as an asset if it is virtually certain that reimbursement will be received, and the
+amount of the receivable can be measured reliably.
+Nuclear and decommissioning provisions
+The financial statements include provisions for the company’s obligations in respect of nuclear liabilities, being
+the costs associated with the nuclear decommissioning of production assets and also processing and disposing of
+residues. These provisions are based on the latest available technical assessments of the processes and methods
+likely to be used in the future and represent best estimates of the amount required to discharge the relevant
+obligations. The company’s obligations are reviewed on a continual basis and provisions are updated accordingly.
+Where some or all of the expenditure required to settle a provision is expected to be recovered from another party,
+in accordance with IAS 37 Provisions, Contingent Liabilities and Contingent Assets, the recoverable amount is
+treated as an asset. Amounts relating to decommissioning are included in provisions (note 19).
+
+25
+
+Springfields Fuels Limited
+
+Notes to the financial statements (continued)
+For the year ended 31 December 2023
+
+2. Accounting policies (continued)
+
+Provisions (continued) .
+
+Nuclear and decommissioning provisions (continued)
+
+Nuclear provisions are stated in the balance sheet at current price levels, discounted at an appropriate real rate of
+return to take account of the timing of payments. Each period in interest payable and similar charges in the profit
+and loss account, the movement in discounting is recognised, which reflects the need to remove one year’s
+discounting from provisions made in prior years and the restatement of these provisions to current price levels.
+Changes in estimate are accounted for in the year in which they arise. Discounting is only provided for when
+material.
+
+Restructuring provisions
+
+The financial statements include provisions for the company’s obligations in respect of restructuring, being the
+costs associated with employees leaving the company. These amounts represent best estimates of the amount
+required to discharge the relevant obligations.
+
+Operating profit .
+Operating profit is stated after charging restructuring costs but before interest and similar income and expense.
+
+Impairment of non-financial assets
+
+Non-financial assets that are not ready to use are not subject to amortisation and are tested annually for impairment.
+Assets that are subject to amortisation are reviewed for impairment whenever events or changes in circumstances
+indicate that the carrying amount might not be recoverable. An impairment loss is recognised for the amount by
+which the asset’s carrying amount exceeds its recoverable amount. The recoverable amount is the higher of an
+asset’s fair value less costs of disposal and value in use. Prior impairments of non-financial assets (other than
+goodwill) are reviewed for possible reversal at each reporting date.
+
+Investments and other financial assets
+
+Investments and other financial assets are initially measured at fair value. Transaction costs are included as part of
+the initial measurement, except for financial assets at fair value through profit or loss (“FVTPL”). All recognised
+financial assets are subsequently measured in their entirety at either amortised cost or fair value depending on their
+classification. Classification is determined based on both the business model within which such assets are held and
+the contractual cash flow characteristics of the financial asset unless, an accounting mismatch is being avoided.
+
+Financial assets are derecognised when the rights to receive cash flows have expired or have been transferred and
+the entity has transferred substantially all the risks and rewards of ownership. When there is no reasonable
+expectation of recovering part or all of a financial asset, its carrying value is written off.
+Classification of financial assets
+Debt instruments that meet the following conditions are subsequently measured at amortised cost:
+¢ the financial asset is held within a business model whose objective is to hold financial assets in order to.
+collect contractual cash flows; and
+
+¢ the contractual terms of the financial asset give rise on specified dates to cash flows that are solely
+payments of principal and interest on the principal amount outstanding.
+
+Debt instruments that meet the following conditions are subsequently measured at fair value through other
+comprehensive income (“FVTOCI”):
+e the financial asset is held within a business model whose objective is achieved by both collecting
+contractual cash flows and selling the financial assets; and
+
+* the contractual terms of the financial asset give rise on specified dates to cash flows that are solely
+payments of principal and interest on the principal amount outstanding.
+
+26
+
+Springfields Fuels Limited
+
+Notes to the financial statements (continued)
+For the year ended 31 December 2023
+
+2. Accounting policies (continued)
+Investments and other financial assets (continued)
+
+Classification of financial assets (continued)
+By default, all other financial assets are subsequently measured at FVTPL.
+
+Despite the aforegoing, the group may make the following irrevocable election / designation at initial recognition
+of a financial asset:
+
+e the group may irrevocably elect to present subsequent changes in fair value of an equity investment in
+other comprehensive income if certain criteria are met; and
+
+e the group may irrevocably designate a debt investment that meets the amortised cost or FVTOCI criteria
+as measured at FVTPL if doing so eliminates or significantly reduces an accounting mismatch.
+
+Financial assets at fair value through Profi it or loss
+
+Financial assets not measured at amortised cost or at FVTOCI are classified as financial assets at FVIPL.
+Typically, such financial assets will be either: (i) held for trading, where they are acquired for the purpose of selling
+in the short-term with an intention of making a profit, or a derivative; or (ii) designated as such upon initial
+recognition where, permitted. Fair value movements are recognised in profit or loss.
+
+Financial assets at fair value through other comprehensive income
+
+Financial assets at FVTOCI include equity investments which the entity intends to hold for the foreseeable future
+and has irrevocably elected to classify them as such upon initial recognition.
+
+Impairment of financial assets
+
+The entity recognises a loss allowance. for expected credit losses on financial assets which are either measured at
+amortised cost or FVTOCI. The measurement of the loss allowance depends upon the entity's assessment at the
+end of each reporting period as to whether the financial instrument's credit risk has increased significantly since
+initial recognition, based on reasonable and supportable information that is available, without undue cost or effort
+to obtain. :
+
+The company has historically had no bad debts for intercompany balances except for the Chapter 11 filing in 2018.
+The historical loss information for intercompany balances within the group does not indicate any pattern to establish
+any loss ratio and any defaults are very rare and specific. In the absence of any established relationship between
+intercompany balances and default, it is reasonable to monitor the total balance of receivable on reporting dates
+and determine the amounts collected / not collected for impairment using forecast position. The entity’s reasonable -
+and supportable forecasts as of 31 December 2023 indicate that these balances are expected to be paid by other
+group undertakings. .
+For extemal trade debtors, the- ‘company has historically had no bad debts. In the absence of any historical loss /
+default, it is reasonable to monitor the total balance of receivables on reporting dates and determine the amounts
+collected / not collected for impairment using a forecast position. The entity’s reasonable and supportable forecasts
+as of 31 December 2023 indicate that these balances are expected to be paid by external customers and the
+likelihood of default is expected to be £nil.
+
+Derecognition of financial assets
+
+The company derecognises a financial asset only when the contractual rights to the cash flows from the asset expire,
+or when it transfers the financial asset and substantially all the risks and rewards of ownership of the asset to another
+entity. Ifthe company neither transfers nor retains substantially all the risks and rewards of ownership and continues
+to control the transferred asset, the company recognises its retained interest in the asset and an associated liability
+for amounts it may have to pay. If the company retains substantially all the risks and rewards of ownership of a
+transferred financial asset, the company continues to recognise the financial asset and also recognises a
+collateralised borrowing for the proceeds received.
+
+27
+
+Springfields Fuels Limited
+
+Notes to the financial statements (continued)
+For the year ended 31 December 2023
+
+2.
+
+Accounting policies-(continued)
+Investments and other financial assets (continued)
+
+Derecognition of financial assets (continued)
+
+On derecognition of a financial asset measured at amortised cost, the difference between the asset’s carrying
+amount and the sum of the consideration received and receivable is recognised in profit or loss. In addition, on
+derecognition of an investment in equity instrument which the company has elected on initial recognition to
+measure at FVTOCL, the cumulative gain or loss previously accumulated in the investment’s revaluation reserve is
+not reclassified to profit or loss, but is transferred to the profit and loss account reserve.
+
+Financial liabilities and equity . :
+
+Debt and equity instruments are classified as either financial liabilities or as equity in accordance with the substance
+of the contractual arrangement.
+
+Equity instruments
+
+An equity instrument is any contract that evidences a residual interest in the assets of an entity after deducting all
+of its liabilities. Equity instruments issued by the company are recognised as the proceeds received, net of direct
+issue costs.
+
+Repurchase of the company's own equity instruments is recognised and deducted directly in equity. No gain or loss
+is recognised in the profit and loss account on the purchase, sale, issue or cancellation of the company's own equity
+instruments.
+
+Other financial liabilities :
+
+Other financial liabilities, including borrowings, are initially measured at fair value, net of transaction costs.’
+Other financial liabilities are subsequently measured at amortised cost using the effective interest method, with
+interest expense recognised on an effective yield basis.
+
+The effective interest method is a method of calculating the amortised cost of a financial liability and of allocating
+interest expense over the relevant period. The effective interest rate is the rate that exactly discounts estimated
+future cash payments through the expected life of the financial liability, or, where appropriate, a shorter period, to
+the net carrying amount on initial recognition.
+
+Derecognition of financial liabilities
+
+The company derecognises financial liabilities when, and only when, the company’s obligations are discharged,
+cancelled or they expire. The difference between the carrying amount of the financial liability derecognised and
+the consideration paid and payable is recognised in profit or loss.
+
+Derivative financial instruments
+
+The company enters into a variety of derivative financial instruments to manage its exposure to foreign exchange
+rate. risk, including forward foreign currency contracts. Further details of derivative financial instruments are
+disclosed in note 20. .
+
+Derivatives are initially recognised at fair value at the date a derivative contract is entered into and are subsequently
+remeasured to their fair value at each reporting date. The resulting gain or loss is recognised in profit or loss
+immediately.
+
+A derivative with a positive fair value is recognised as a financial asset whereas a derivative with a negative fair
+value is recognised as a financial liability. A derivative is presented as a current asset due after one year or a creditor
+due after more than one year if the remaining maturity of the instrument is more than twelve months and it is not
+expected to be realised or settled within twelve months. Other derivatives are presented as current assets or current
+liabilities.
+
+28
+
+Springfields Fuels Limited
+
+Notes to the financial statements (continued)
+For the year ended 31 December 2023
+
+2.
+
+Accounting policies (continued)
+
+Government Grants
+
+Grants received from government sources are recognised using the performance model. A grant related to property,
+plant and equipment which does not impose specified future performance conditions is presented as a reduction to
+the related asset’s carrying amount when the grant. proceeds are received or receivable. Grants related to
+compensation for expenses already incurred or for immediate financial support with no future related costs are
+recognized as a contra-expense in the period in which they are receivable. Government grants are not recognised
+until there is reasonable assurance that the group will comply with the conditions attaching to them and that the
+grants will be received. A grant received before the revenue recognition criteria are satisfied is recognised as
+deferred income
+
+Critical accounting judgements and key sources of estimation uncertainty
+
+In the application of the company’s accounting policies, which are described in note 2, the directors are required
+to make judgements, estimates and assumptions about the carrying amounts of assets and liabilities that are not
+readily apparent from other sources. The estimates and associated assumptions are based on historical experience
+and other factors that are considered to be relevant. Actual results may differ from these estimates.
+
+The estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to accounting estimates
+are recognised in the year in which the estimate is revised if the revision affects only that year or in the year of the
+revision and future years if the revision affects both current and future years.
+
+Critical judgements in applying the company’s accounting policies
+
+The company has no critical judgements to disclose, apart from those involving estimations (which are dealt with
+separately below), that the directors have made in the process of applying the company’s accounting policies and
+that have the most significant effect on the financial statements recognised in the financial statements.
+
+Key sources of estimation uncertainty :
+
+The key assumptions concerning the future, and other key sources of estimation uncertainty at the balance sheet
+date, that have a significant risk of causing a material adjustment to the carrying amounts of assets and liabilities
+within the next financial year, are discussed below.
+
+(7) Defined benefit pension scheme
+
+The company has obligations to pay pension benefits to certain employees. The pension asset and post retirement
+liability are calculated in accordance with IAS 19 Employee Benefits. The cost of these benefits and the present
+value of the obligation is sensitive to a-number of factors, including life expectancy, salary increases, asset
+valuations and a discount rate based on inflation. The company is exposed to a number of risks relating to the
+scheme, including assumptions not being borne out in practice. Some of the most significant risks are as follow,
+although the list is not exhaustive:
+
+e Asset volatility: There is a risk that a fall in asset values is not matched by a corresponding reduction in
+the value placed on the scheme’s Defined Benefit Obligation (“DBO”). The scheme holds a proportion of
+growth assets, which are expected to outperform corporate and government bond yields in the long-term,
+but gives exposure to volatility and risk in the short-term.
+
+e Change in bond yields: A decrease in corporate bond yields will increase the value placed on the scheme’s
+DBO, although this will be partially offset by an increase in the value of the scheme’s corporate bond
+holdings.
+
+e Inflation risk: The majority of the scheme’s DBO is linked to inflation, where higher inflation will lead to
+a higher value being placed on the DBO. Some of the scheme’s assets are either unaffected by inflation
+or loosely correlated with inflation (e.g. growth assets), meaning that an increase in inflation will generally
+increase the deficit.
+
+29
+
+Springfields Fuels Limited
+
+Notes to the financial statements (continued)
+For the year ended 31 December 2023
+
+3. Critical accounting judgements and key sources of estimation uncertainty (continued):
+
+Key sources of estimation uncertainty (continued)
+(7) Defined benefit pension scheme (continued)
+
+e Life expectancy: An increase in life expectancy will lead to an increased value being placed on the
+scheme’s DBO. Future mortality rates cannot be predicted with certainty.”
+
+See note 21 for the disclosures relating to the defined benefit pension scheme.
+
+4. Turnover
+
+Disaggregation of Turnover :
+Revenue from contracts with customers is disaggregated by geographical location and business unit, as it best
+depicts the nature and amount of the company’s revenue.
+
+Analysis of the company's turnover by geographical location is as follows:
+u 31 December 2023 3] December 2022
+
+; ; ; £000 £000
+United Kingdom 161,972 120,537
+Europe - EU 19,543 18,794
+Japan and Far East 7,587 8,829
+North and South America : a : 5,464 ; 6,306
+
+; 194,566 154,466
+
+An analysis of the company’s turnover by class of business is set out below:
+
+31 December 2023 31 December 2022
+
+£000 £000
+
+Oxide fuels 150,648 . 108,277
+Residues 36,861 37,221
+Transport : 525 531
+General overhead income 6,532 — 8,437
+194,566 : 154,466
+
+An analysis of the revenue disaggregated by business unit and timing of transfer:
+
+Oxide fuels Residues Transport General’ Total
+£000 — £000 : £000 overhead £000
+
+income
+
+£000
+Point in time 150,648 20,808 525 6,532 178,513
+Overtime - 16,053 - - 16,053
+Total 150,648 36,861 525, 6,532 194,566
+
+30
+
+Springfields Fuels Limited
+
+Notes to the financial statements (continued)
+For the year ended 31 December 2023
+
+4. Turnover (continued)
+Disaggregation of Turnover (continued)
+Contract balances
+The timing of révenue recognition, billings and cash collections results in billed accounts receivable, unbilled
+receivables (contract assets) and customer advances and deposits (contract liabilities) on the balance sheet.
+The following table presents significant changes in contract asset balances during the year:
+
+31 December 2023 31 December 2022
+
+£000 £000
+At | January 9,564 9,888
+Transferred to receivables : . (7,024) (8,398)
+Revenue recognised for performance obligation satisfied
+during the year for. which a receivable cannot be recognised
+-until fulfilling other obligations . 7,402 : -_ 8,074
+As at 31 December : 9,942 9,564
+
+The contract asset balances are mainly due to nuclear fuel and residues which will be transferred to receivables
+within one year from the balance sheet date (see note 15).
+
+The following table presents significant changes in trade debtors during the year:
+31 December 2023 31 December 2022 .
+
+: £000 £000
+At 1 January . 13,876 7,893
+Transferred from contract assets 8,418 9,697
+Revenue recognised for performance obligation satisfied
+during the year for which a receivable cannot be recognised (12,273) (3,714)
+As at 31 December 10,021 13,876
+
+The trade debtors balance is mainly due to nuclear fuel which will be settled within one year of the balance sheet -
+date (see note 15). °
+
+The following table represents significant changes in contract liability balances during the year:
+
+31 December 2023 31 December 2022
+
+£000 £000
+At 1 January 48,135 49,962
+Revenue recognised that was included in the contract
+liability balance (9,454) (7,407)
+Increases due to cash received, excluding amounts
+recognised as revenue during the year ; 391 . 5,580
+As at 31 December . 39,072 48,135
+
+The contract liability balance is mainly related to residues for long-term contracts which will be settled as the
+performance obligations are satisfied (see note 16).
+
+31
+
+Springfields Fuels Limited
+
+Notes to the financial statements (continued)
+For the year ended 31 December 2023
+
+5. Operating profit
+
+Operating profit has been arrived at after (crediting) / charging:
+
+£000
+
+Other income ‘ (152)
+Movement in work in progress (note 14) 123
+Raw materials and consumables recognised as an expense 78,145
+Other external operating costs 15,966
+Employee costs (note 8) 60,337
+Research and development expenditure 1,741
+Independent auditor’s remuneration for the auditing of the .
+financial statements 158
+Loss / (gain) on disposal of assets 1,040
+Depreciation for the period (note 12) 8,340
+‘ Amortisation for the period (note 11) 2,472
+
+Exceptional items (note 6)
+
+31 December 2023
+
+There are no non-audit fees included within independent auditor’s remuneration.
+
+Exceptional items
+
+Recognised in arriving at operating profit:
+
+Restructuring costs
+
+Directors’ remuneration
+
+31 December 2023
+£000
+
+31 December 2022
+£000
+
+(167)
+(5,176)
+34,082
+45,342
+52,536
+
+1,309
+
+132
+(20)
+8,497
+2,112
+265
+
+31 December 2022
+£ 000
+265
+
+265
+
+The cost of directors’ services is borne by SFL except for Kirsty Armer who was paid by Westinghouse Electric
+
+Company UK Limited (“WEC UK”).
+
+The directors’ remuneration for the year was as follows:
+
+31 December 2023
+
+£ 000
+
+Aggregate emoluments in respect of qualifying services 961
+Company contributions to money purchase pension schemes 43
+1,004
+
+31 December 2022
+£000
+
+419
+34
+453
+
+32
+
+Springfields Fuels Limited —
+
+Notes to the financial statements (continued)
+For the year ended 31 December 2023
+
+7. Directors’ remuneration (continued)
+
+"In respect of the highest paid director:
+31 December 2023
+
+£000
+Aggregate emoluments 708
+Company contributions to money purchase pension schemes 43
+
+31 December 2022
+£000
+
+184
+34
+
+During the year, the number of directors who were receiving benefits was as follows:
+
+31 December 2023 31 December 2022
+No. : No.
+Number of directors accruing benefits under defined benefit
+schemes ; , 2 2
+Number of directors with contributions to money purchase pension
+schemes : 1 1
+3 3
+
+Employee costs :
+
+The company has 636 (2022: 588) employees. ;
+
+’ WEC Holdings has 52 employees (2022: 53) who perform work on behalf of SFL.
+SFL has 4 employees (2022: 3) seconded from WEC LLC. ,
+
+SFL has 1 employee (2022: 1) who performs work on behalf of WEC UK.
+
+The aggregate remuneration for employees comprised:.
+
+31 December 2023
+
+31 December 2022
+
+£000 £000
+
+Wages and salaries : 45,105 36,435
+
+Social security costs , : . . 5,172 4,331
+Other pension costs : 10,060 11,770-
+
+, 60,337 52,536
+
+Other pensions costs mainly include the cost of the company’s two defined benefit pension schemes and three
+defined contribution pension schemes (note 21). The cost for the defined benefit schemes amounted to £4,425,000
+for the year (2022: £8,921,000) and the defined contribution schemes amounted to £4,906,000 (2022: £2,109,000).
+The company has also been charged for the WEC Holdings employees’ pension costs £222,000 (2022: £271,000).
+
+33
+
+Springfields Fuels Limited
+
+Notes to the financial statements (continued)
+For the year ended 31 December 2023
+
+8. Employee costs (continued)
+
+The average monthly number of employees and secondees (including executive directors) was:
+
+Nuclear fuel
+Support functions
+
+9. Interest and similar income and expense
+
+Interest receivable and similar income:
+
+Bank interest
+Loan interest receivable from parent company
+
+Unrealised foreign exchange gains on unsettled balances
+
+Interest income in respect of pension scheme (note 21)
+
+* Interest payable and similar expense:
+
+Bank charges
+Letter of credit fees
+
+Interest expense in respect of pension scheme (note 21)
+Unrealised foreign exchange losses on unsettled balances
+
+Finance charges payable under finance lease
+Other finance charges
+
+Net interest income and expense:
+
+Interest receivable and similar income
+Interest payable and similar expense
+
+31 December 2023
+No.
+
+644
+47
+
+691
+
+31 December 2022
+No.
+
+604
+37
+
+641
+
+31 December 2023
+
+31 December 2022
+
+£000 £000
+34 -
+1,973 851
+417 -
+7,939 4,936
+10,363 5,787
+31 December 2023 = 31 December 2022
+£000 £000
+_ (24) (10)
+(2,739) (2,335)
+(6,204) (4,274)
+- (684)
+(1,029) (1,132)
+- (246
+(9,996) (8,681)
+
+31 December 2023
+
+31 December 2022
+
+£000 | £000
+10,363 5,787
+(9,996) (8,681)
+367 (2,894)
+
+34
+
+Springfields Fuels Limited
+
+Notes to the financial statements (continued)
+For the year ended 31 December 2023
+
+10. Tax on profit
+
+Tax included in the profit and loss account:
+
+Current tax
+
+UK corporation tax at 23.52% (2022: 19%)
+Group relief payable / (receivable)
+Adjustment in respect of prior periods
+
+Deferred tax
+
+Origination and reversal of timing differences
+
+Adjustment in respect of prior periods :
+
+Effect of tax rate change adjustment in respect of prior periods
+
+Tax on profit .
+
+Tax income included in other comprehensive income:
+
+Deferred tax
+Origination and reversal of timing differences
+Total tax income included in other comprehensive income
+
+31 December 2022
+
+31 December 2023
+
+£000 £000
+690 126
+188 (647)
+(264) _(48)
+614 (569)
+5,870 2,392
+527 58
+
+- 728
+6,397 “3,178
+7,011 2,609
+
+_ 31 December 2023
+
+31 December 2022
+
+£000 £000
+(2,614) (2,700)
+(2,614) (2,700)
+
+The tax charge for the year is higher than the average rate of corporation tax in the UK for the year ended 31
+December 2023 of 23.52% (2022: 19%). The differences are explained below:
+
+Profit before taxation
+
+Profit before taxation multiplied by the average rate of corporation
+
+tax in the UK of 23.52% (2022:19%)
+
+’ Effects of:
+Remeasurement of deferred tax — change in UK tax rate
+
+Adjustments to tax charge in respect of prior periods — deferred tax
+
+Adjustments to tax charge in respect of prior periods — current tax
+Income not deductible for tax purposes
+
+Expenses not deductible for tax purposes
+
+FRS101 adjustment
+
+Fixed asset differences
+
+Tax charge
+
+31 December 2023
+
+31 December 2022
+
+£000 £000 -
+26,763 12,660
+6,295 2,405
+342 227
+527 58
+(264) (48)
+(96) (447)
+13 49
+89 89
+105 224
+7,011 2,609
+
+35
+
+Springfields Fuels Limited
+
+Notes to the financial statements (continued)
+For the year ended 31 December 2023 ‘
+
+10.
+
+11.
+
+Tax on profit (continued)
+Factors that may affect future tax charges -
+
+The UK corporation tax rate remained unchanged at 19% up to the period ended 31 March 2023 and has
+increased to 25% effective from 1 April 2023. There is no material tax impact expected following the enactment
+of Finance Act 2023. oo,
+
+Under FRS101, deferred tax is required to be calculated using rates that have been substantively enacted at the
+balance sheet date. Consequently, deferred tax has been calculated based on a rate of 25% (note 18).
+
+Intangible assets
+
+Environmental
+* Goodwill. assets Total
+£000 £000 £000
+Cost or valuation
+At | January 2023 : : 7,121 6,695 13,816
+Additions - 795 795
+Write-off . - (4,223) (4,223)
+At 31 December 2023 7,121 3,267 10,388
+_ Accumulated amortization ; . , , ,
+At 1 January 2023 - 4,223 4,223
+Charge for the year : - 2,472 2,472
+Write-off an ; - (4,223) (4,223)
+At 31 December 2023 = 2,472 2,472
+Carrying amount
+At 31 December 2022 : 7,121 2,472 9,593
+At 31 December 2023 7A 795 7,916
+
+Environmental assets relate to the EUETS regulations. In December 2021, the company purchased 54,294 units at
+
+.a cost of £4,223,000 to cover 2021 and 2022 compliance. In 2023 these units were fully amortised and written off.
+
+Also in 2023, 15,000 units were purchased and will be amortised in 2024.
+
+Goodwill relates to the purchase. from Paul Fabrications Limited of the nuclear component manufacturing section
+which SFL has renamed to Precision Fabrications on 24 June 2020. The goodwill against the transport segment
+fully impaired in prior years, has been written off. .
+
+The company tests goodwill annually or more frequently if there are indications that goodwill might be impaired.
+The company values goodwill at the recoverable amount, being the higher of the value in use basis and the fair
+value less costs to sell basis. Based on impairment testing completed, no impairment was identified in respect of
+the goodwill carrying value.
+
+36
+
+Springfields Fuels Limited
+
+Notes to the financial statements (continued)
+For the year ended 31 December 2023
+
+12. Tangible fixed assets
+
+Cost or valuation
+At | January 2023
+Additions
+Transfers
+Disposals
+
+At31 December 2023
+Accumulated depreciation
+At | January 2023
+
+Charges for the year
+Disposals
+
+At 31 December 2023
+
+Carrying amount
+At31 December 2022
+
+At 31 December 2023
+
+Right-of-use Fixtures, Decomm-
+Land and assets - Plantand —ffittingsand = Assetsunder —_issioning
+buildings vehicles machinery vehicles construction assets Total
+£000 £000 £000 £000 £000 £000 £000
+16,146 222 15,786 10,321 34,877 4107 141,459
+- 8B - : 17,193 35 17,306
+767 - 4,710 553 (6,030) 7 -
+(85) (91) (1,395), (2,740) (74) : (5,052)
+16,828 209 79,101 8,134 45,299 4,142 153,713
+3,966 4 45,234 8,593 : 2,612 60,519
+680 56 6,465 822 - 317 8,340
+(77) (91) (1,114) (2,730) - - (4,012)
+4,569 79 50,585 6,685 - 2,929 64,847
+12,180 108 30,552 1,728 34,877 1,495 80,940
+12,259 130 28,516 1,449 45,299 1,213 88,866
+
+37
+
+Springfields Fuels Limited
+
+Notes to the financial statements (continued)
+For the year ended 31 December 2023
+
+12. Tangible fixed assets (continued)
+
+13.
+
+The site lease is included within land and buildings above, depreciation of £1,854,999 (2022: £1,719,000), and net
+book value of £7,847,000 (2022: £7,982,000). Land and buildings also include the premises lease for Precision
+Fabrications based at Derby, which has depreciation of £332,000 (2022: £233,000) and net book value of £155,000
+(2022: £254,000) (note 17).
+
+The government grant receipts during the year are 2 presented as a reduction to the related asset’s carrying amount
+when the grant proceeds are received and have been included in Assets under construction and £2,210,000 (2021:
+Enil).
+
+Investments
+31 December 2023 31 December 2022
+: £000 "£000
+Loans to related parties 4,826. 3,625
+Other investments : ~- 150 ; 150
+4,976 3,775
+
+Loans to related parties due after one year of £4,826,000 (2022: £3,625,000) receivable from Springfields
+Segregated Assets Limited (“SSAL”) are for future decommissioning costs. There is no interest due on the
+outstanding amount.
+
+Other investments are monies on deposit with the bank to collateralise SFL’s HMRC duty deferment account.
+
+14, Stocks
+31 December 2023 31 December 2022
+£000 £000
+Raw materials and consumables . 13,404 11,116
+Work in progress : 10,095 9,972
+Finished goods 4,836 9,829
+28,335 30,917
+
+Stock is stated after provision for impairment of £1,738,000 (2022: £1,967,000).
+
+15. Debtors
+31 December 2023 31 December 2022 ©
+
+£000 £000
+
+Debtors: amounts falling due within one year:
+Trade debtors (note 4) 10,021 13,865
+Amounts due from group undertakings 14,116 40,931
+Contract assets (note 4) 9,942 9,564
+Derivative financial instruments (note 20) - 1
+Prepayments and other debtors : 1,900 1,970
+: 35,979 66,331
+
+38
+
+Springfields Fuels Limited
+
+Notes to the financial statements (continued)
+For the year ended 31 December 2023
+
+15.
+
+16.
+
+Debtors (continued)
+The amounts due from group undertakings within one year include the following:
+
+Corporation tax group relief receivable from Uranium Asset Management Limited (“UAM”) £497,000 (2022:
+£3,289,000), WEC Holdings, £281,000 (2022: £155,000), Inspection Consultants Limited (“Incon”) £108,000
+(2022: £nil) and WEC EMEA Holdings Ltd. (“WEH”) £6,000 (2022: £6,000), which is payable on demand,
+
+Sales from Westinghouse Electri¢ Sweden AB (“WE Sweden”) £9,192,000 (2022: £3,775,000) which is payable
+according to standard payment terms. There is no interest due on outstanding amounts.
+
+Recharges from. WEC LLC £3,121,000 (2022: £1,655,000), SSAL £642,000 (2022: £1,977,000), WEC UK
+£178,000 (2022: £363,000), Westinghouse Technical Services SA (“WTS”) £42,000 (2022: £nil), Westinghouse
+Belgium S.A“(WE Belgium”), £9,000 (2022: £37,000), Stone & Webster LLC £28,000 (2022: £nil) and
+Westinghouse Electrique France S.A.S (“WE France”), £12,000 (2022: £12,000). In the prior year there were also
+charges from Westinghouse Electric Poland LLC (“WE Poland”) £75,000. The recharges are paid according to
+standard trading terms. There is no interest due on outstanding amounts.
+
+The amounts-due from group undertakings within one year for the prior year included a loan receivable from WEC
+Holdings of £29,400,000 and accrued interest of £187,000. Interest on the loan was charged at a rate of 3 months
+LIBOR plus 225 basis points. The loan was repayable on demand.
+
+Creditors :
+31 December 2023 31 December 2022
+: £000 £000
+Creditors: amounts falling due within one year
+Trade creditors - 16,445 13,150
+Amounts owed to group undertakings 8,677 | 12,806
+Other taxes and social security costs . 2,043 672
+Accruals 15,221 : 16,792
+Derivative financial instruments (note 20) 5 8
+Obligations under lease liabilities (note 17) : 2,235 1,512
+Contract liabilities (note 4) 39,072 48,135
+: 83,698 93,075
+Creditors: amounts falling due after more than one year
+Obligations under lease liabilities (note 17) - 8,154 10,195
+Deferred tax liability (note 18) ; . 7,369 3,586
+Provisions for liabilities (note 19) 18,599 12,212
+117,820 119,068
+
+Amounts owed to group undertakings include amounts payable to UAM £188,000 (2022: £nil) for corporation tax
+group relief. The remaining balance is for recharges from WEC LLC £5,447,000 (2022: £2,907,000), WEC
+Holdings £88,000 (2022: £7,109,000), WEC UK £2,487,000 (2022: £1,592,000), SSAL £26,000 (2022: £24,000),
+WE France £80,000 (2022: £22,000), Westinghouse Electric Japan Limited £79,000 (2022: £82,000), WE Sweden
+£4,000 (2022: £96,000), WE Poland £183,000 (2022: £791,000), WTS £60,000 (2022: £45,000), Stone & Webster
+LLC £16,000 (2022: £9,000), Incon £1,000 (2022: £2,000), WE Belgium £1,000 (2022: £nil) and Westinghouse
+Industry Products International Company. Inc. £17,000 (2022: £18,000). In the prior year there were also charges
+from Westinghouse Electric Spain, S.A-U. £6,000 and Westinghouse Electric Company (China) Co. LTD
+£103,000. These recharges are payable on demand and do not incur interest in line with normal trade.
+
+Contract liabilities include amounts received from customers for which revenue cannot yet be recognised as the
+performance obligations have not been completed.
+
+39
+
+Springfiélds Fuels Limited
+
+' Notes to the financial statements (continued)
+For the year ended 31 December 2023
+17. Lease liabilities ©
+
+Analysis of lease liabilities:
+
+Amounts due for settlement:
+Between one and five years
+After five years
+
+On demand or within one year
+
+- Present value of lease obligations
+
+31 December 2023
+
+31 December 2022
+
+£000, £000
+2,510 2,032
+5,644 8,163
+8,154 10,195
+2,235 1,512
+10,389 11,707
+
+The site lease term is 150 years. For the year ended 31 December 2023, the average effective borrowing rate was 8.9
+percent (2022: 8.9 percent). Interest rates are fixed at the contract date. .
+
+The remaining lease term for the premises for Precision Fabrications is for one year and six months, and the
+corresponding liability is £137,000 (2022: £242,000). The borrowing rate is 3.75 percent.
+
+The company leases several assets (vehicles), excluding the site leases, with the average lease term being two years
+‘and nine months. These assets have a corresponding liability of £139,000 (2022: £113,000). The liability was
+calculated using the company’s incremental borrowing rate at the commencement date for the lease
+
+18. Deferred tax liability
+
+Deferred tax asset due within 12 months
+
+Total asset due within 12 months
+
+Deferred tax liability due after 12 months
+- Deferred tax asset due after 12 months
+Total liability due after 12 months
+
+Total liability.
+
+31 December 2023 31 December 2022
+
+£000 £000
+
+89 89
+
+89 89
+
+(14,298) (10,038)
+
+6,840 6,363
+(7,458) (3,675)
+
+(7,369) (3,586)
+
+40
+
+Springfields Fuels Limited
+
+Notes to the financial statements (continued)
+For the year ended 31 December 2023
+
+_ 18. Deferred tax liability (continued)
+
+Deferred tax liability:
+Accelerated
+. capital Total
+Provisions Pension Derivatives allowance£  Taxlosses provision ©
+£000 £000 | £000 ~ 000 £000 £000
+At 31 December 2022 2,671 (6,213) 200 (3,826) 3,582 (3,586)
+Charged to the profit .
+and loss account 1,297 (2,541) (89) (4,332) (732) (6,397)
+Credited directly to OCI - 2,614 - : : 2,614
+At 31 December 2023 3,968 (6,140) 111 (8,158) 2,850 (7,369)
+
+The directors have recognised a deferred tax liability of £7,369,000 (2022: liability of £3,586,000) that is considered
+to be able to be offset against the company’s taxable profits expected to arise in the future accounting years.
+Management have based their assessment on the latest budget approved by the board which reflects the trading:
+performance discussed in the Strategic Report on pages 2 to 6. Deferred tax at 3] December 2023 has been calculated
+based on the rate of 25% being the rate substantively enacted at the balance sheet date.
+
+19. Provisions for liabilities
+
+Decomm-
+
+Nuclear issioning Total
+provision provision provision
+- £000 £000 £000
+
+At 1 January 2023 .
+Current 3,040 - 3,040
+Non-current : 5,717 3,455 9,172
+Total provision ; . 8,757 3,455 12,212
+Additional provisions in the year , 9,037 (308) - 8,729
+Unwinding of discount on provision and discount changes 366 261 627
+Provisions utilised during the year (2,969) - (2,969)
+At 31 December 2023 15,191 3,408 18,599
+Current : , 4,689 - 4,689
+Non-current 10,502 3,408 : 13,910
+15,191 3,408 18,599
+
+Nuclear Provision
+
+Under the terms of the contract with the NDA, the NDA is responsible for decommissioning the facilities on site
+as at 31 March 2010. The environmental liabilities existing at 31 March 2010 also remain the responsibility of the
+NDA. However, the company is responsible for incremental decommissioning and environmental costs incurred
+post 1 April 2010. Production within the year has generated some by-products (residues) which were not processed
+through the site’s residues plants within the year. Since the production in question generated sales revenue in the
+year, the cost of processing these by-products in the following years has been provided for.
+
+41
+
+Springfields Fuels Limited
+
+Notes to the financial statements (continued)
+For the year ended 31 December 2023
+
+19.
+
+20.
+
+21.
+
+Provisions for liabilities (continued)
+
+Decommissioning provision ; .
+
+Under the lease arrangements for the occupation of the site agreed by the NDA, the company has created a provision
+to cover the increasing costs of decommissioning of any new buildings or increase to the liabilities on the site after
+1 April 2010. The cash to cover the obligation is transferred to SSAL and held as an intercompany receivable, as
+per the terms of the Segregated Fund Deed between SSAL, NDA and the company.
+
+Under the terms of the agreement with SSAL and the NDA, the cash to cover the obligation is calculated at current
+prices as though the decommissioning was to be performed immediately and increased each year by reference to
+the Retail Price Index. :
+
+The provision is discounted and will unwind until 2040 which is the current expected site decommissioning date.
+
+Discounting
+
+The provisions for short (to 5 years) to medium (6 -10 years) term have been subjected to discounting based upon
+His Majesty’s Treasury (“HMT”) Public Expenditure System discount rates, which apply to nuclear provisions
+such as those held by the NDA. The rates are dictated by HMT each year. The provisions for long-term have been
+derived by using the 20 year gilt estimate and adjusting for long-term inflation. The real discount rates applied at _
+31 December 2023 to determine the net present value of provisions are:
+
+Years Real Rate
+Short-term rate - 0-5 1.19%
+Medium-term rate : ~ 6:10 1.53%
+Long-term rate : >10 2.07 %
+
+Financial instruments
+
+The derivative financial instrument net liability of £5,000 (2022: net liability of £7,000) is owed to WEC US
+(formerly BWHI) from SFL for the mark to market fair value of forward foreign currency contracts, maturing in
+January and February 2024. They carry no interest. The company has a master netting agreement (ISDA agreement)
+with WEC US (formerly BWH]), to enable back to back agreements to be put in place when WEC US (formerly
+
+_ BWHI) enters into forward foreign exchange contracts with external banks.
+
+Pension asset
+
+The company has pension arrangements with the Westinghouse Electric UK Pension Plan, a defined benefit
+pension scheme, and the Westinghouse Electric UK DC Plan (part of the Aegon Master Trust), a defined
+contribution pension scheme, that require contributions to be made to separately administered funds.
+
+‘Defined contribution pension schemes
+
+At the start of the year the company contributed to three defined contribution schemes as detailed below. In
+September 2023 the employees in the Paul Fabrications Group Personal Pension Scheme transferred into the
+
+_ Westinghouse Electric UK DC plan: SFL2 section.
+
+42
+
+Springfields Fuels Limited
+
+Notes to the financial statements (continued)
+For the year ended 31 December 2023
+
+21. Pension asset (continued)
+Defined contribution pension schemes (continued)
+31 December 2023 31 December 2022
+
+£ 000 £ 000
+Westinghouse Electric UK DC Plan: SFL2 Section
+Cost for the period . 4,810 2,036
+Westinghouse Electric UK DC Plan: GPS SFL Section ; .
+Cost for the period , 86 4S
+Paul Fabrications Group Personal Pension Scheme . :
+Cost for the period _ 10 "28
+
+Defined benefit pension schemes
+
+The pension asset recognised in the balance sheet as at 31 December 2023 of £24,523,000 (2022: £24,852,000)
+comprises of two schemes. The Westinghouse Electric UK Pension Plan SFL2 Section (“WEUKPP SFL2”) with
+a net asset of £24,130,000 (2022: £24,934,000) and the Westinghouse Electric UK Pension Plan GPS SFL Section
+(“WEUKPP GPS SFL”) with a net asset of £393,000 (2022: net liability £82,000).
+
+ WEUKPP SFL2
+
+A full actuarial valuation of the WEC section was carried out at 31 December 2022 by a qualified independent
+actuary. Following this valuation the company’s ordinary contribution rate reduced with effect from August
+2023, from 53.7% of pensionable salaries to 26.0% representing regular contributions. In addition, to eliminate
+the WEUKPP SFL2 Section funding shortfall, the company made a one-off contribution of £725,000 in January
+2023. .
+
+On 25 August 2023 the plan became de-sectionalised as a single section plan. Pension benefits are unaffected by
+this change and a revised combined Statement of Funding Principles and combined Recovery Plan have been put
+
+in place, superseding those signed as part of the valuation process, resulting in no deficit payments being due.
+
+The company intends to monitor funding levels on a regular basis. The next valuation is due 31 December 2025.
+
+43
+
+Springfields Fuels Limited
+
+Notes to the financial statements (continued)
+For the year ended 31 December 2023
+
+21. Pension asset (continued)
+
+WEUKPP SFL2 (continued) ©.
+
+Reconciliation of scheme assets and liabilities to assets and liabilities recognised in the balance sheet
+
+The amounts recognised in the balance sheet are as follows:
+
+Equity instruments
+
+Debt instruments
+
+Real estate
+
+Derivatives
+
+Cash and cash equivalents
+Other
+
+Fair value of scheme assets.
+Present value of scheme liabilities
+
+Defined pension scheme surplus
+
+31 December 2023 31 December 2022
+
+£000 £000
+34,298 34,229
+81,955 84,829
+7418 4,416
+1,632 -
+34,884 14,355
+4,352 _- 10,159
+164,539 147,988
+( 140,409) { 123,054)
+24,130 24,934
+
+The pension scheme has not invested in any of the company's own financial instruments or in properties or other
+
+assets used by the company.
+
+All scheme assets have a quoted value in an active market in 2023, except in 2022 £925,000 contained within other
+
+which was not.
+
+Amounts recognised in the profit and loss account
+
+Amounts recognised in operating profit
+Current service cost
+
+Recognised in arriving at operating profit
+
+Amounts recognised in finance income or costs
+Interest income on pension scheme assets
+Interest expense on defined benefit obligations
+Net interest income
+
+Defined benefit cost recognised in the profit and loss account
+
+31 December 2023 31 December 2022
+£000 £000
+
+4,401 8,873
+
+4,401 8,873
+
+(7,840) (4,865)
+
+6,101 4,206
+(1,739) (659)
+2,662 8,214
+
+44
+
+Springfields Fuels Limited
+
+Notes to the financial statements (continued)
+For the year ended. 31 December 2023
+
+21. Pension asset (continued)
+WEUKPP SFL2 (continued)
+
+Amounts taken to the statement of comprehensive income
+
+Effects of changes due to experience .
+
+Effects of changes due to demographic assumptions
+
+Effects of changes in financial assumptions
+
+Return on plan assets
+
+Total loss recognised in the statement of comprehensive income
+
+Total defined benefit cost recognised in the profit and loss and
+statement of comprehensive income
+
+Principal actuarial assumptions
+
+31 December 2022
+
+31 December 2023
+
+£ 000 £000
+
+2,339 (1,825)
+
+(106) (10,248)
+
+7,887 (96,353)
+
+827 118,982
+
+10,947 10,556
+
+13,609 18,770
+
+The significant actuarial assumptions used to determine the present value of the DBO at the balance sheet date are
+
+as follows:
+
+Discount rate
+
+Rate of salary increase
+
+Rate of price inflation
+
+Rate of pension increases / deferred increases
+
+Post retirement mortality assumptions
+
+Assumed life expectations on retirement at age 65:
+Current UK pensioners at retirement age (male / female)
+Retiring in 15 years UK pensioners at retirement age (male / female)
+
+31 December 2023
+%
+
+4.75
+3.50
+3.05
+3.05
+
+. 31 December 2022
+%
+
+5.00
+2.00
+3.20
+3.20
+
+31 December 2023
+
+31 December 2022
+
+Years Years
+20.5 /23.7- 20.8 / 24.0
+21.3 /24.8 21.6 (25.1
+
+45
+
+Springfields Fuels Limited
+
+Notes to the financial statements (continued)
+For the year ended 31 December 2023
+
+21. Pension asset (continued)
+
+WEUKPP SFL2 (continued)
+
+Sensitivity analysis
+
+The following table shows a sensitivity analysis of the significant actuarial assumptions as at 31 December 2023.
+Each specified assumption and any dependent assumption has been changed in isolation:
+
+Rate DBO Difference Difference
+% — £000 £000 %
+Discount rate
+Central Assumption at 31 December 2023 4.75% _ 140,409
+-Increase by 0.10% 4.85% 138,144 © (2,265) -1.61%
+-Decrease by 0.10% ; .. 4.65% 142,732 2,322 +1.65%
+Price Inflation
+Central Assumption at 31 December 2023 3.05% 140,409
+-Increase by 0.10% 3.15% 142,716 2,307 +1.64%
+-Decrease by 0.10% : 2.95% 139,154 (2,255) . -1.61%
+Gross"
+Service
+Cost
+£000 £7000 £7000 £7000
+Mortality
+Central Assumption at 31 December 2023. ~ 4,921 140,409
+-Life Expectancy plus ! year 144,487 4,078 +2.90%
+Scheme liabilities
+
+Changes in the present value of scheme liabilities are as follows:
+
+31 December 2023. 31 December 2022 .
+
+£000 £000
+Present value at start of the year. a 123,054 222,182
+Current service cost 4,401 8,873
+Actuarial loss / (gain) . 10,120 (108,426)
+Interest expense 6,101 4,206
+Benefits paid from plan assets (3,500) (4,358)
+Participants’ contribution 233 577
+Present value at end of the year 140,409 123,054
+
+46
+
+_Springfields Fuels Limited:
+
+Notes to the financial statements (continued)
+For the year ended 31 December 2023
+
+21. Pension asset (continued)
+
+WEUKP?P SFL2 (continued)
+
+Scheme assets mo,
+Changes in the fair value of scheme assets are as follows:
+
+Fair value at start of the year
+
+Interest income
+
+Return on plan assets and interest income (recognised in other
+comprehensive income)
+
+Employer contributions
+
+Benefits paid from plan assets
+
+Participants’ contribution
+
+Fair value at end of the year
+
+Analysis of obligation
+* DBO by status:
+
+Actives
+Vested deferred
+Retirees
+
+31 December 2023. 31 December 2022
+£000 | £000
+
+147,988 246,856
+
+7,840 4,865
+
+(827) (118,982)
+
+12,805 19,030
+
+(3,500) (4,358)
+
+233 577
+
+164,539 147,988
+
+31 December 2023
+
+31 December 2022
+
+£000 £000
+71,581 56,825
+24,004 22,435
+44,824 43,794
+140,409 123,054
+
+47
+
+. Springfields Fuels Limited
+
+Notes to the financial statements (continued)
+For the year ended 31 December 2023
+
+21. Pension asset (continued)
+
+WEUKPP SFL2 (continued)
+
+Actual return on scheme's assets
+
+Return on plan assets less than discount rate and interest income
+
+Benefit obligation at end of the year
+Fair value of plan assets at end of the year
+Funded status
+
+Experience adjustments arising on scheme assets
+Experience loss / (gain) on scheme liabilities
+Total actuarial] loss
+
+31 December 2023
+£000
+
+7,013
+
+31 December 2022
+£000
+
+(114,117)
+
+31 December 2023
+
+31 December 2022
+
+£000 £000
+(140,409) (123,054)
+"164,539 147,988
+24,130 24,934
+827 118,982
+_10,120 (108,426)
+10,947 10,556
+
+The expected employer cash contributions for the next financial year are £12,805,000 and the weighted average
+
+duration of the defined benefit obligation is seventeen years.
+
+WEUKPP GPS SFL
+
+A full actuarial valuation of the total WEC section was carried out at 31 December 2022 by a qualified
+independent actuary. Following this valuation the company’s ordinary contribution rate reduced with effect from
+August 2023, from 47% of pensionable salaries to 28% representing regular contributions. In addition, to
+eliminate the deficit, the company agreed to make monthly contributions of £292,000 from 1 January 2024 until
+
+31 December 2025.
+
+On 25 August 2023 the plan became de-sectionalised as a single section plan. Pension benefits are unaffected by
+this change and a revised Combined Statement of Funding Principles and Combined Recovery Plan have been
+put in place, superseding those signed as part of the valuation process, resulting in no deficit payments being due.
+
+The company intends to monitor funding levels on a regular basis. The next valuation is due 31 December 2025.
+
+48
+
+Springfields Fuels Limited
+
+Notes to the financial statements (continued)
+For the year ended 31 December 2023
+
+21. Pension asset (continued)
+WEUKPP GPS SFL (continued)
+
+Reconciliation of scheme assets and liabilities to assets and liabilities recognised in the balance sheet
+The amounts recognised in the balance sheet are as follows:
+
+31 December 2023 31 December 2022
+
+£000 £000
+
+Equity instruments : 559 460
+Debt instruments ; 1,336 1,091
+Real estate : , 121 63
+Derivatives . 26 . -
+Cash and cash equivalents : 569 226
+Other . , : : 71 145
+Fair value of scheme assets 2,682 1,985
+Present value of scheme liabilities (2,289) (2,067)
+
+_ Defined pension scheme surplus / (deficit) recognised in the balance 393 — + (82)
+
+sheet
+
+All scheme assets have a quoted value in an active market in 2023, apart from in 2022 which had £13,000 of other
+securities contained within other.
+
+Amounts recognised in the profit and loss account
+
+31 December 2023 31 December 2022
+
+£000 £000
+Amounts recognised in operating profit
+Current service cost . 24 : 48
+Recognised in. arriving at operating profit : 24 48
+Amounts recognised in finance income or costs
+Interest income on pension scheme-assets (99) (71)
+Interest expense on defined benefit obligations _ 103 68
+Net interest income / (expense) 4 (63)
+Defined benefit cost recognised in the profit and loss account 28 45
+
+49
+
+Springfields Fuels Limited
+
+Notes to the financial statements (continued)
+For the year ended 31 December 2023
+
+21. Pension asset (continued)
+WEUKPP GPS SFL (continued)
+
+Amounts taken to the statement of comprehensive income
+
+31 December 2023 31 December 2022
+
+£000 ; £000
+Effects of changes in demographic assumptions and experience 39 (63)
+Effects of changes in financial assumptions . 81 (1,534)
+Return on plan assets, excluding amounts included in interest expense (610) 1,841
+Total (gain) / loss recognised in the statement of comprehensive ,
+income ; 490 244
+Total (gain) / loss recognised in the profit and loss account and statement :
+of comprehensive income - 462 289
+
+Principal actuarial assumptions
+
+The significant actuarial assumptioris used to determine the present value of the DBO at the balance sheet date are
+
+as follows: . . :
+31 December 2023 31 December 2022
+% , %
+Discount rate : 4.75 5.00
+Rate of salary increase . 3.50 2.00
+Rate of price inflation 3.05 3.20
+Rate of pension increases / deferred increases , 3.05 3.20
+
+Post retirement mortality assumptions
+
+31 December 2023 31 December 2022
+
+Year Year
+Assumed life expectations on retirement at age 65: . :
+Current UK pensioners at retirement age (male / female) - 20.5 / 23.7 20.08 / 24.0
+Retiring in 15 years UK pensioners at retirement age (male / female) 21.3 / 24.8 21.60 /25.1
+
+50
+
+Springfields Fuels Limited
+
+Notes to the financial statements (continued)
+For the year ended 31 December 2023
+
+21. Pension asset (continued)
+
+WEUKPP GPS SFL (continued)
+
+Sensitivity analysis
+
+The following table shows a sensitivity analysis of the significant actuarial assumptions as at 31 December 2023.
+Each specified assumption and any dependent assumption has been changed in isolation:
+
+Rate DBO Difference Difference
+% £7000 £7000 %
+Discount rate
+Central Assumption at 31 December 2023 4.75% _ 2,289
+-Increase by 0.10% ; 4.85% 2,254 (5) -1.53%
+-Decrease by 0.10% 4.65% 2,325 . 36. +1.57%
+Price Inflation
+Central Assumption at 31 December 2023 3.05% 2,289 -
+-Increase by 0.10% 3.15% __- 2,325 36 +1.57%
+-Decrease by 0.10% ; 2.95% 2,256 - 33) -1.44%
+Gross
+Service
+Cost . .
+£7000 £000 o £7000 £000
+Mortality
+Central Assumption at 31 December 2023 23 2,289
+-Life Expectancy plus ] year 2,356 67 _ +2,93%
+Scheme liabilities
+
+Changes in the present value of scheme liabilities are as follows: ;
+: 31 December 2023 31 December 2022
+
+£000 £ 000
+Present value at start of the year 2,067 3,569
+Current service cost . 24 48
+Effects of changes in demographic assumptions and experience 39 (63)
+Effect of changes in financial assumptions 81 (1,534)
+Interest expense 103 68
+Participants’ contribution - 2
+Benefits paid from plan asset (25) (23)
+Present value at end of the year 2,289 2,067
+
+51
+
+, Springfields Fuels Limited
+
+Notes to the financial statements (continued)
+For the year ended 31 December 2023 ;
+
+21. Pension asset (continued)
+WEUKPP GPS SFL (continued)
+
+Scheme assets _
+
+Fair value at start of the year
+
+Interest income
+
+Return on plan assets, excluding amounts included in income
+Employer contributions
+
+Participant’s contributions
+
+Benefit paid
+
+Fair value at end of the year:
+
+31 December 2023 31 December 2022
+£000 £000
+
+1,985 3,758
+
+99 71
+
+610 (1,841)
+
+13 18
+
+- 2
+
+(25) _(23)
+
+2,682 “1,985
+
+The pension scheme has not invested in any of the company's own financial instruments or in properties or other
+
+assets used by the company.
+
+Analysis of obligation
+
+Defined benefit obligation by status:
+Actives
+
+’ Vested deferred
+Retirees
+
+Actual return on plan assets
+
+Return on plan assets greater / (less) than discount rate and interest
+income
+
+Benefit obligation at end of the year
+Fair value of plan assets at end of the year
+
+Funded status
+Experience adjustments arising on scheme assets
+Experience loss / (gain) on scheme liabilities
+
+Total actuarial gain
+
+31 December 2023
+
+31 December 2022
+
+£000 £000
+
+623 500
+
+795 729
+
+871 838
+
+2,289 2,067
+
+31 December 2023 31 December 2022
+£000 £000
+
+709 (1,770)
+
+31 December 2023
+
+31 December 2022 ,
+
+£000 £000
+(2,289) (2,067)
+2,682 1,985
+393 (82)
+(610) 1,841
+120 (1,597)
+(490) 244
+
+The expected employer cash contributions for the next twelve months is £13,000. The weighted average duration
+
+of defined benefit obligation is sixteen years.
+
+52
+
+‘Springfields Fuels Limited _
+
+Notes to the financial statements (continued)
+For the year ended 31 December 2023.
+
+22.
+
+23.
+
+24.
+
+25.
+
+Called up share capital
+
+Authorised shares:
+
+£000 No.
+
+At 1 January 2023. 30,082 30,081,413
+
+At 31 December 2023 30,082 30,081,413
+Allotted, called up and fully paid shares:
+
+£000 No.
+
+At 1 January 2023 : __ 30,082 30,081,413
+
+At 31 December 2023 ; 30,082 30,081,413
+
+The company has one class of ordinary shares which carries no right to fixed income.
+
+During the year the directors did not recommend a dividend to WEC Holdings (2022: £nil).
+
+Controlling party
+
+The company is a subsidiary undertaking of WEC Holdings.
+The ultimate parent and controlling party of WEC Holdings was Brookfield Corporation, Canada, up until 7
+
+. November 2023 when it disposed of its investment to Watt New Aggregator L.P. (Cayman), which is a Joint
+
+Venture between Brookfield Renewable Partners’ and Cameco Corporation.
+
+The smallest and largest group in which the results of the company are consolidated is that headed by Watt New
+Aggregator L.P. (Cayman), a registered limited partnership established under the laws of Bermuda; registered
+address: C/o Maples Corporate Services Limited, PO Box 309, Ugland House, Grand Cayman, KY 1-1104, Cayman
+Islands.
+
+Contingent liabilities and capital commitments
+
+The company has contingent liabilities and has issued guarantees under the Companies Act 2006 Section 394CA
+or 479A.
+
+At 31 December 2023 the company had £10,665,000 (2022: £5,407,000) of capital commitments for work not
+
+" carried out at the year end date. Capital commitments all relate to plant and equipment.
+
+There is a contingent fiability in respect of an unlimited guarantee provided to Barclays Bank Plc. This guarantee
+relates to Westinghouse’s cash pool arrangement that includes other group companies.
+
+Post balance sheet events
+
+On 28 March 2024, WEC Holdings, approved cash contributions to its subsidiaries to fund bonuses paid to
+employees in 2023. SFL received £2,900,00 on 26 June 2024.
+
+No other items requiring adjustment or disclosure have occurred between the 31 December 2023 reporting date
+and the date of authorisation.
+
+53
+

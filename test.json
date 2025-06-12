@@ -1,0 +1,2767 @@
+{
+    "data": {
+        "data": {
+            "searchDashReusableTypeaheadByType": {
+                "metadata": {
+                    "searchId": "b72a160b-d094-4d6c-ab8a-3d9e1661d5b5",
+                    "$recipeTypes": [
+                        "com.linkedin.289f4b8f323759287d13be1c4bd0e5d2"
+                    ],
+                    "$type": "com.linkedin.voyager.dash.search.typeahead.TypeaheadMetadata"
+                },
+                "paging": {
+                    "count": 20,
+                    "start": 0,
+                    "total": 0,
+                    "$recipeTypes": [
+                        "com.linkedin.53f46303402bb1f2fc7e82160a1bd6bb"
+                    ],
+                    "$type": "com.linkedin.restli.common.CollectionMetadata"
+                },
+                "$recipeTypes": [
+                    "com.linkedin.58d963cdff02f3d71da23dd4f307f1c6"
+                ],
+                "elements": [
+                    {
+                        "image": {
+                            "attributes": [
+                                {
+                                    "scalingType": null,
+                                    "detailData": {
+                                        "profilePictureWithoutFrame": null,
+                                        "profilePictureWithRingStatus": null,
+                                        "companyLogo": null,
+                                        "icon": null,
+                                        "systemImage": null,
+                                        "nonEntityGroupLogo": null,
+                                        "vectorImage": null,
+                                        "nonEntityProfessionalEventLogo": null,
+                                        "profilePicture": null,
+                                        "imageUrl": null,
+                                        "professionalEventLogo": null,
+                                        "nonEntityCompanyLogo": {
+                                            "*company": "urn:li:fsd_company:157355",
+                                            "$recipeTypes": [
+                                                "com.linkedin.0462d4c7c6a71f1be84e6f9041a2c02a"
+                                            ],
+                                            "vectorImage": {
+                                                "digitalmediaAsset": null,
+                                                "attribution": null,
+                                                "c2paManifestData": null,
+                                                "$recipeTypes": [
+                                                    "com.linkedin.aa524cb811a38636d5624ebe87d6bb74"
+                                                ],
+                                                "artifacts": [
+                                                    {
+                                                        "width": 200,
+                                                        "$recipeTypes": [
+                                                            "com.linkedin.5a60b078564959e9f0615c5107e1b626"
+                                                        ],
+                                                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1709892270210/gameloft_logo?e=1754524800&v=beta&t=OjVeBjd918Sf4RCBcNCGc5c-XXTWCRnpOmiTFQrUd0w",
+                                                        "expiresAt": 1754524800000,
+                                                        "height": 200,
+                                                        "$type": "com.linkedin.common.VectorArtifact"
+                                                    },
+                                                    {
+                                                        "width": 100,
+                                                        "$recipeTypes": [
+                                                            "com.linkedin.5a60b078564959e9f0615c5107e1b626"
+                                                        ],
+                                                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1709892270210/gameloft_logo?e=1754524800&v=beta&t=wFWxigY91Kj3OLmcZ0bsW6TvVN2_7ujKYmgLyupt6bI",
+                                                        "expiresAt": 1754524800000,
+                                                        "height": 100,
+                                                        "$type": "com.linkedin.common.VectorArtifact"
+                                                    },
+                                                    {
+                                                        "width": 400,
+                                                        "$recipeTypes": [
+                                                            "com.linkedin.5a60b078564959e9f0615c5107e1b626"
+                                                        ],
+                                                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1709892270210/gameloft_logo?e=1754524800&v=beta&t=_C0ml2ne7T2OC5Dr6F5s294BYoCkUAXDem_wbB7T6Zc",
+                                                        "expiresAt": 1754524800000,
+                                                        "height": 400,
+                                                        "$type": "com.linkedin.common.VectorArtifact"
+                                                    }
+                                                ],
+                                                "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQFFGjiHZrfKaA/company-logo_",
+                                                "$type": "com.linkedin.common.VectorImage"
+                                            },
+                                            "$type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo"
+                                        },
+                                        "nonEntitySchoolLogo": null,
+                                        "groupLogo": null,
+                                        "schoolLogo": null,
+                                        "ghostImage": null,
+                                        "nonEntityProfilePicture": null
+                                    },
+                                    "tintColor": null,
+                                    "$recipeTypes": [
+                                        "com.linkedin.c80cc66dba8103682d37a6577e182433"
+                                    ],
+                                    "tapTargets": [],
+                                    "displayAspectRatio": null,
+                                    "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+                                }
+                            ],
+                            "editableAccessibilityText": false,
+                            "actionTarget": null,
+                            "accessibilityTextAttributes": [],
+                            "totalCount": null,
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fc1478a3bdcf6bee483c3248a8ca0601"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+                        },
+                        "trackingUrn": "urn:li:organization:157355",
+                        "subtitle": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "Company • Computer Games",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "navigationUrl": null,
+                        "title": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "Gameloft",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.5b27c6455051fec110ab3849891e2251"
+                        ],
+                        "trackingId": "´\u0012gÛÑìNÆ¹\u000B®Ü\u0000Äh",
+                        "renderStyle": null,
+                        "target": {
+                            "address": null,
+                            "gender": null,
+                            "race": null,
+                            "profile": null,
+                            "segmentAttributeValue": null,
+                            "degree": null,
+                            "professionalEvent": null,
+                            "industry": null,
+                            "*company": "urn:li:fsd_company:157355",
+                            "title": null,
+                            "profileSkill": null,
+                            "productCategory": null,
+                            "geo": null,
+                            "sexualOrientation": null,
+                            "industryV2": null,
+                            "jobFunction": null,
+                            "credential": null,
+                            "organizationProduct": null,
+                            "standardizedProduct": null,
+                            "function": null,
+                            "skill": null,
+                            "fieldOfStudy": null,
+                            "group": null,
+                            "hashtag": null
+                        },
+                        "$type": "com.linkedin.voyager.dash.search.typeahead.TypeaheadViewModel"
+                    },
+                    {
+                        "image": {
+                            "attributes": [
+                                {
+                                    "scalingType": null,
+                                    "detailData": {
+                                        "profilePictureWithoutFrame": null,
+                                        "profilePictureWithRingStatus": null,
+                                        "companyLogo": null,
+                                        "icon": null,
+                                        "systemImage": null,
+                                        "nonEntityGroupLogo": null,
+                                        "vectorImage": null,
+                                        "nonEntityProfessionalEventLogo": null,
+                                        "profilePicture": null,
+                                        "imageUrl": null,
+                                        "professionalEventLogo": null,
+                                        "nonEntityCompanyLogo": {
+                                            "*company": "urn:li:fsd_company:20078843",
+                                            "$recipeTypes": [
+                                                "com.linkedin.0462d4c7c6a71f1be84e6f9041a2c02a"
+                                            ],
+                                            "vectorImage": {
+                                                "digitalmediaAsset": null,
+                                                "attribution": null,
+                                                "c2paManifestData": null,
+                                                "$recipeTypes": [
+                                                    "com.linkedin.aa524cb811a38636d5624ebe87d6bb74"
+                                                ],
+                                                "artifacts": [
+                                                    {
+                                                        "width": 200,
+                                                        "$recipeTypes": [
+                                                            "com.linkedin.5a60b078564959e9f0615c5107e1b626"
+                                                        ],
+                                                        "fileIdentifyingUrlPathSegment": "200_200/B4DZYA80J9GkAM-/0/1743772664796/gameloftmontreal_logo?e=1754524800&v=beta&t=LCFwPTFmSAZRmKImYQilg13lbdT6ymeMhAMYFT3qivQ",
+                                                        "expiresAt": 1754524800000,
+                                                        "height": 200,
+                                                        "$type": "com.linkedin.common.VectorArtifact"
+                                                    },
+                                                    {
+                                                        "width": 400,
+                                                        "$recipeTypes": [
+                                                            "com.linkedin.5a60b078564959e9f0615c5107e1b626"
+                                                        ],
+                                                        "fileIdentifyingUrlPathSegment": "400_400/B4DZYA80J9GkAc-/0/1743772664796/gameloftmontreal_logo?e=1754524800&v=beta&t=U2w9mCJDOWZ5rJdkBtP4JR5CoUO1atsnxG51xgtSKh0",
+                                                        "expiresAt": 1754524800000,
+                                                        "height": 400,
+                                                        "$type": "com.linkedin.common.VectorArtifact"
+                                                    },
+                                                    {
+                                                        "width": 100,
+                                                        "$recipeTypes": [
+                                                            "com.linkedin.5a60b078564959e9f0615c5107e1b626"
+                                                        ],
+                                                        "fileIdentifyingUrlPathSegment": "100_100/B4DZYA80J9GkAU-/0/1743772664796/gameloftmontreal_logo?e=1754524800&v=beta&t=VjNFtr4OghIjY4PzKUKbPgrrt_PwC8aXaC_rTxVC4ls",
+                                                        "expiresAt": 1754524800000,
+                                                        "height": 100,
+                                                        "$type": "com.linkedin.common.VectorArtifact"
+                                                    }
+                                                ],
+                                                "rootUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQHcyX_qJCwLZQ/company-logo_",
+                                                "$type": "com.linkedin.common.VectorImage"
+                                            },
+                                            "$type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo"
+                                        },
+                                        "nonEntitySchoolLogo": null,
+                                        "groupLogo": null,
+                                        "schoolLogo": null,
+                                        "ghostImage": null,
+                                        "nonEntityProfilePicture": null
+                                    },
+                                    "tintColor": null,
+                                    "$recipeTypes": [
+                                        "com.linkedin.c80cc66dba8103682d37a6577e182433"
+                                    ],
+                                    "tapTargets": [],
+                                    "displayAspectRatio": null,
+                                    "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+                                }
+                            ],
+                            "editableAccessibilityText": false,
+                            "actionTarget": null,
+                            "accessibilityTextAttributes": [],
+                            "totalCount": null,
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fc1478a3bdcf6bee483c3248a8ca0601"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+                        },
+                        "trackingUrn": "urn:li:organization:20078843",
+                        "subtitle": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "Company • Computer Games",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "navigationUrl": null,
+                        "title": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "Gameloft Montreal",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.5b27c6455051fec110ab3849891e2251"
+                        ],
+                        "trackingId": "5£>bF\u0015:8øÙ\u001E",
+                        "renderStyle": null,
+                        "target": {
+                            "address": null,
+                            "gender": null,
+                            "race": null,
+                            "profile": null,
+                            "segmentAttributeValue": null,
+                            "degree": null,
+                            "professionalEvent": null,
+                            "industry": null,
+                            "*company": "urn:li:fsd_company:20078843",
+                            "title": null,
+                            "profileSkill": null,
+                            "productCategory": null,
+                            "geo": null,
+                            "sexualOrientation": null,
+                            "industryV2": null,
+                            "jobFunction": null,
+                            "credential": null,
+                            "organizationProduct": null,
+                            "standardizedProduct": null,
+                            "function": null,
+                            "skill": null,
+                            "fieldOfStudy": null,
+                            "group": null,
+                            "hashtag": null
+                        },
+                        "$type": "com.linkedin.voyager.dash.search.typeahead.TypeaheadViewModel"
+                    },
+                    {
+                        "image": {
+                            "attributes": [
+                                {
+                                    "scalingType": null,
+                                    "detailData": {
+                                        "profilePictureWithoutFrame": null,
+                                        "profilePictureWithRingStatus": null,
+                                        "companyLogo": null,
+                                        "icon": null,
+                                        "systemImage": null,
+                                        "nonEntityGroupLogo": null,
+                                        "vectorImage": null,
+                                        "nonEntityProfessionalEventLogo": null,
+                                        "profilePicture": null,
+                                        "imageUrl": null,
+                                        "professionalEventLogo": null,
+                                        "nonEntityCompanyLogo": {
+                                            "*company": "urn:li:fsd_company:86201236",
+                                            "$recipeTypes": [
+                                                "com.linkedin.0462d4c7c6a71f1be84e6f9041a2c02a"
+                                            ],
+                                            "vectorImage": {
+                                                "digitalmediaAsset": null,
+                                                "attribution": null,
+                                                "c2paManifestData": null,
+                                                "$recipeTypes": [
+                                                    "com.linkedin.aa524cb811a38636d5624ebe87d6bb74"
+                                                ],
+                                                "artifacts": [
+                                                    {
+                                                        "width": 200,
+                                                        "$recipeTypes": [
+                                                            "com.linkedin.5a60b078564959e9f0615c5107e1b626"
+                                                        ],
+                                                        "fileIdentifyingUrlPathSegment": "200_200/B4DZVBrWkEGcAM-/0/1740563639099/gameloft_barcelona_logo?e=1754524800&v=beta&t=BG1_laTqlzM6PkDIZyxGoWSO-GJBo1gHZv4AEj7-JDw",
+                                                        "expiresAt": 1754524800000,
+                                                        "height": 200,
+                                                        "$type": "com.linkedin.common.VectorArtifact"
+                                                    },
+                                                    {
+                                                        "width": 100,
+                                                        "$recipeTypes": [
+                                                            "com.linkedin.5a60b078564959e9f0615c5107e1b626"
+                                                        ],
+                                                        "fileIdentifyingUrlPathSegment": "100_100/B4DZVBrWkEGcAU-/0/1740563639099/gameloft_barcelona_logo?e=1754524800&v=beta&t=kBuH5KCIDPurs-RafRnf-qP1IJ3szailkbT9Pih9PaY",
+                                                        "expiresAt": 1754524800000,
+                                                        "height": 100,
+                                                        "$type": "com.linkedin.common.VectorArtifact"
+                                                    },
+                                                    {
+                                                        "width": 400,
+                                                        "$recipeTypes": [
+                                                            "com.linkedin.5a60b078564959e9f0615c5107e1b626"
+                                                        ],
+                                                        "fileIdentifyingUrlPathSegment": "400_400/B4DZVBrWkEGcAc-/0/1740563639099/gameloft_barcelona_logo?e=1754524800&v=beta&t=KgipLWNNcB8jbIgtmODuCL-MF0sLG_dL8TXrvaLHGXE",
+                                                        "expiresAt": 1754524800000,
+                                                        "height": 400,
+                                                        "$type": "com.linkedin.common.VectorArtifact"
+                                                    }
+                                                ],
+                                                "rootUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQG0fzi1YRHq0w/company-logo_",
+                                                "$type": "com.linkedin.common.VectorImage"
+                                            },
+                                            "$type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo"
+                                        },
+                                        "nonEntitySchoolLogo": null,
+                                        "groupLogo": null,
+                                        "schoolLogo": null,
+                                        "ghostImage": null,
+                                        "nonEntityProfilePicture": null
+                                    },
+                                    "tintColor": null,
+                                    "$recipeTypes": [
+                                        "com.linkedin.c80cc66dba8103682d37a6577e182433"
+                                    ],
+                                    "tapTargets": [],
+                                    "displayAspectRatio": null,
+                                    "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+                                }
+                            ],
+                            "editableAccessibilityText": false,
+                            "actionTarget": null,
+                            "accessibilityTextAttributes": [],
+                            "totalCount": null,
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fc1478a3bdcf6bee483c3248a8ca0601"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+                        },
+                        "trackingUrn": "urn:li:organization:86201236",
+                        "subtitle": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "Company • Computer Games",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "navigationUrl": null,
+                        "title": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "Gameloft Barcelona",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.5b27c6455051fec110ab3849891e2251"
+                        ],
+                        "trackingId": "?1EÞ¢6I\u001A¶Wª²Cüh",
+                        "renderStyle": null,
+                        "target": {
+                            "address": null,
+                            "gender": null,
+                            "race": null,
+                            "profile": null,
+                            "segmentAttributeValue": null,
+                            "degree": null,
+                            "professionalEvent": null,
+                            "industry": null,
+                            "*company": "urn:li:fsd_company:86201236",
+                            "title": null,
+                            "profileSkill": null,
+                            "productCategory": null,
+                            "geo": null,
+                            "sexualOrientation": null,
+                            "industryV2": null,
+                            "jobFunction": null,
+                            "credential": null,
+                            "organizationProduct": null,
+                            "standardizedProduct": null,
+                            "function": null,
+                            "skill": null,
+                            "fieldOfStudy": null,
+                            "group": null,
+                            "hashtag": null
+                        },
+                        "$type": "com.linkedin.voyager.dash.search.typeahead.TypeaheadViewModel"
+                    },
+                    {
+                        "image": {
+                            "attributes": [
+                                {
+                                    "scalingType": null,
+                                    "detailData": {
+                                        "profilePictureWithoutFrame": null,
+                                        "profilePictureWithRingStatus": null,
+                                        "companyLogo": null,
+                                        "icon": null,
+                                        "systemImage": null,
+                                        "nonEntityGroupLogo": null,
+                                        "vectorImage": null,
+                                        "nonEntityProfessionalEventLogo": null,
+                                        "profilePicture": null,
+                                        "imageUrl": null,
+                                        "professionalEventLogo": null,
+                                        "nonEntityCompanyLogo": {
+                                            "*company": "urn:li:fsd_company:84903918",
+                                            "$recipeTypes": [
+                                                "com.linkedin.0462d4c7c6a71f1be84e6f9041a2c02a"
+                                            ],
+                                            "vectorImage": {
+                                                "digitalmediaAsset": null,
+                                                "attribution": null,
+                                                "c2paManifestData": null,
+                                                "$recipeTypes": [
+                                                    "com.linkedin.aa524cb811a38636d5624ebe87d6bb74"
+                                                ],
+                                                "artifacts": [
+                                                    {
+                                                        "width": 200,
+                                                        "$recipeTypes": [
+                                                            "com.linkedin.5a60b078564959e9f0615c5107e1b626"
+                                                        ],
+                                                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1649747189162?e=1754524800&v=beta&t=XZfEKpCbBk9V2pddsbculVVKtHjvov5wRtOknDsQhAg",
+                                                        "expiresAt": 1754524800000,
+                                                        "height": 200,
+                                                        "$type": "com.linkedin.common.VectorArtifact"
+                                                    },
+                                                    {
+                                                        "width": 100,
+                                                        "$recipeTypes": [
+                                                            "com.linkedin.5a60b078564959e9f0615c5107e1b626"
+                                                        ],
+                                                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1649747189162?e=1754524800&v=beta&t=1LDl1VjCKy7AZ_6SoVL3EPQiuUCCvuTW45O6d4uqbGo",
+                                                        "expiresAt": 1754524800000,
+                                                        "height": 100,
+                                                        "$type": "com.linkedin.common.VectorArtifact"
+                                                    },
+                                                    {
+                                                        "width": 400,
+                                                        "$recipeTypes": [
+                                                            "com.linkedin.5a60b078564959e9f0615c5107e1b626"
+                                                        ],
+                                                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1649747189162?e=1754524800&v=beta&t=X-Qh7Gk3350xzw6NusftkPypUAWcZsnQezeqzo-IIN4",
+                                                        "expiresAt": 1754524800000,
+                                                        "height": 400,
+                                                        "$type": "com.linkedin.common.VectorArtifact"
+                                                    }
+                                                ],
+                                                "rootUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQECqJDP7RcuHw/company-logo_",
+                                                "$type": "com.linkedin.common.VectorImage"
+                                            },
+                                            "$type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo"
+                                        },
+                                        "nonEntitySchoolLogo": null,
+                                        "groupLogo": null,
+                                        "schoolLogo": null,
+                                        "ghostImage": null,
+                                        "nonEntityProfilePicture": null
+                                    },
+                                    "tintColor": null,
+                                    "$recipeTypes": [
+                                        "com.linkedin.c80cc66dba8103682d37a6577e182433"
+                                    ],
+                                    "tapTargets": [],
+                                    "displayAspectRatio": null,
+                                    "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+                                }
+                            ],
+                            "editableAccessibilityText": false,
+                            "actionTarget": null,
+                            "accessibilityTextAttributes": [],
+                            "totalCount": null,
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fc1478a3bdcf6bee483c3248a8ca0601"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+                        },
+                        "trackingUrn": "urn:li:organization:84903918",
+                        "subtitle": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "Company • Computer Games",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "navigationUrl": null,
+                        "title": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "Gameloft Brisbane",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.5b27c6455051fec110ab3849891e2251"
+                        ],
+                        "trackingId": "Kñ8sãKgcêÐ\nÔ",
+                        "renderStyle": null,
+                        "target": {
+                            "address": null,
+                            "gender": null,
+                            "race": null,
+                            "profile": null,
+                            "segmentAttributeValue": null,
+                            "degree": null,
+                            "professionalEvent": null,
+                            "industry": null,
+                            "*company": "urn:li:fsd_company:84903918",
+                            "title": null,
+                            "profileSkill": null,
+                            "productCategory": null,
+                            "geo": null,
+                            "sexualOrientation": null,
+                            "industryV2": null,
+                            "jobFunction": null,
+                            "credential": null,
+                            "organizationProduct": null,
+                            "standardizedProduct": null,
+                            "function": null,
+                            "skill": null,
+                            "fieldOfStudy": null,
+                            "group": null,
+                            "hashtag": null
+                        },
+                        "$type": "com.linkedin.voyager.dash.search.typeahead.TypeaheadViewModel"
+                    },
+                    {
+                        "image": {
+                            "attributes": [
+                                {
+                                    "scalingType": null,
+                                    "detailData": {
+                                        "profilePictureWithoutFrame": null,
+                                        "profilePictureWithRingStatus": null,
+                                        "companyLogo": null,
+                                        "icon": null,
+                                        "systemImage": null,
+                                        "nonEntityGroupLogo": null,
+                                        "vectorImage": null,
+                                        "nonEntityProfessionalEventLogo": null,
+                                        "profilePicture": null,
+                                        "imageUrl": null,
+                                        "professionalEventLogo": null,
+                                        "nonEntityCompanyLogo": {
+                                            "*company": "urn:li:fsd_company:106032517",
+                                            "$recipeTypes": [
+                                                "com.linkedin.0462d4c7c6a71f1be84e6f9041a2c02a"
+                                            ],
+                                            "vectorImage": {
+                                                "digitalmediaAsset": null,
+                                                "attribution": null,
+                                                "c2paManifestData": null,
+                                                "$recipeTypes": [
+                                                    "com.linkedin.aa524cb811a38636d5624ebe87d6bb74"
+                                                ],
+                                                "artifacts": [
+                                                    {
+                                                        "width": 100,
+                                                        "$recipeTypes": [
+                                                            "com.linkedin.5a60b078564959e9f0615c5107e1b626"
+                                                        ],
+                                                        "fileIdentifyingUrlPathSegment": "100_100/B4EZWFXlWWGgAQ-/0/1741699307402/gameloft_sofia_logo?e=1754524800&v=beta&t=aEgVNivff39Xy0Vm0XgBQX5AL85FkEaJkM6gOrT-270",
+                                                        "expiresAt": 1754524800000,
+                                                        "height": 100,
+                                                        "$type": "com.linkedin.common.VectorArtifact"
+                                                    },
+                                                    {
+                                                        "width": 400,
+                                                        "$recipeTypes": [
+                                                            "com.linkedin.5a60b078564959e9f0615c5107e1b626"
+                                                        ],
+                                                        "fileIdentifyingUrlPathSegment": "400_400/B4EZWFXlWWGgAY-/0/1741699307402/gameloft_sofia_logo?e=1754524800&v=beta&t=qqxh_Iqyb9_2eFCHCwEnNcnQ-ur7-d9ntYJFMJOnHJ8",
+                                                        "expiresAt": 1754524800000,
+                                                        "height": 400,
+                                                        "$type": "com.linkedin.common.VectorArtifact"
+                                                    },
+                                                    {
+                                                        "width": 200,
+                                                        "$recipeTypes": [
+                                                            "com.linkedin.5a60b078564959e9f0615c5107e1b626"
+                                                        ],
+                                                        "fileIdentifyingUrlPathSegment": "200_200/B4EZWFXlWWGgAI-/0/1741699307402/gameloft_sofia_logo?e=1754524800&v=beta&t=mMuFG0Yd2nYJ0J_NQaCmc5CNZ_yAhzroZOXpCkK4U54",
+                                                        "expiresAt": 1754524800000,
+                                                        "height": 200,
+                                                        "$type": "com.linkedin.common.VectorArtifact"
+                                                    }
+                                                ],
+                                                "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQEn6PSGLCbQcQ/company-logo_",
+                                                "$type": "com.linkedin.common.VectorImage"
+                                            },
+                                            "$type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo"
+                                        },
+                                        "nonEntitySchoolLogo": null,
+                                        "groupLogo": null,
+                                        "schoolLogo": null,
+                                        "ghostImage": null,
+                                        "nonEntityProfilePicture": null
+                                    },
+                                    "tintColor": null,
+                                    "$recipeTypes": [
+                                        "com.linkedin.c80cc66dba8103682d37a6577e182433"
+                                    ],
+                                    "tapTargets": [],
+                                    "displayAspectRatio": null,
+                                    "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+                                }
+                            ],
+                            "editableAccessibilityText": false,
+                            "actionTarget": null,
+                            "accessibilityTextAttributes": [],
+                            "totalCount": null,
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fc1478a3bdcf6bee483c3248a8ca0601"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+                        },
+                        "trackingUrn": "urn:li:organization:106032517",
+                        "subtitle": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "Company • Computer Games",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "navigationUrl": null,
+                        "title": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "Gameloft Sofia",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.5b27c6455051fec110ab3849891e2251"
+                        ],
+                        "trackingId": "I\båY\trD\u0003½0½\u0014EÎ",
+                        "renderStyle": null,
+                        "target": {
+                            "address": null,
+                            "gender": null,
+                            "race": null,
+                            "profile": null,
+                            "segmentAttributeValue": null,
+                            "degree": null,
+                            "professionalEvent": null,
+                            "industry": null,
+                            "*company": "urn:li:fsd_company:106032517",
+                            "title": null,
+                            "profileSkill": null,
+                            "productCategory": null,
+                            "geo": null,
+                            "sexualOrientation": null,
+                            "industryV2": null,
+                            "jobFunction": null,
+                            "credential": null,
+                            "organizationProduct": null,
+                            "standardizedProduct": null,
+                            "function": null,
+                            "skill": null,
+                            "fieldOfStudy": null,
+                            "group": null,
+                            "hashtag": null
+                        },
+                        "$type": "com.linkedin.voyager.dash.search.typeahead.TypeaheadViewModel"
+                    },
+                    {
+                        "image": {
+                            "attributes": [
+                                {
+                                    "scalingType": null,
+                                    "detailData": {
+                                        "profilePictureWithoutFrame": null,
+                                        "profilePictureWithRingStatus": null,
+                                        "companyLogo": null,
+                                        "icon": null,
+                                        "systemImage": null,
+                                        "nonEntityGroupLogo": null,
+                                        "vectorImage": null,
+                                        "nonEntityProfessionalEventLogo": null,
+                                        "profilePicture": null,
+                                        "imageUrl": null,
+                                        "professionalEventLogo": null,
+                                        "nonEntityCompanyLogo": {
+                                            "*company": "urn:li:fsd_company:82133322",
+                                            "$recipeTypes": [
+                                                "com.linkedin.0462d4c7c6a71f1be84e6f9041a2c02a"
+                                            ],
+                                            "vectorImage": {
+                                                "digitalmediaAsset": null,
+                                                "attribution": null,
+                                                "c2paManifestData": null,
+                                                "$recipeTypes": [
+                                                    "com.linkedin.aa524cb811a38636d5624ebe87d6bb74"
+                                                ],
+                                                "artifacts": [
+                                                    {
+                                                        "width": 200,
+                                                        "$recipeTypes": [
+                                                            "com.linkedin.5a60b078564959e9f0615c5107e1b626"
+                                                        ],
+                                                        "fileIdentifyingUrlPathSegment": "200_200/B4DZaGncfvGsAM-/0/1746015209876/gameloft_romania_logo?e=1754524800&v=beta&t=V7JKLSG0Qbmk9-f07J6rtEcrhPREam7Iff-dfJ71KOg",
+                                                        "expiresAt": 1754524800000,
+                                                        "height": 200,
+                                                        "$type": "com.linkedin.common.VectorArtifact"
+                                                    },
+                                                    {
+                                                        "width": 400,
+                                                        "$recipeTypes": [
+                                                            "com.linkedin.5a60b078564959e9f0615c5107e1b626"
+                                                        ],
+                                                        "fileIdentifyingUrlPathSegment": "400_400/B4DZaGncfvGsAc-/0/1746015209876/gameloft_romania_logo?e=1754524800&v=beta&t=WZzUbapkIAUQxAegls4cbMWAIT73AeVR0DVvju-xSHU",
+                                                        "expiresAt": 1754524800000,
+                                                        "height": 400,
+                                                        "$type": "com.linkedin.common.VectorArtifact"
+                                                    },
+                                                    {
+                                                        "width": 100,
+                                                        "$recipeTypes": [
+                                                            "com.linkedin.5a60b078564959e9f0615c5107e1b626"
+                                                        ],
+                                                        "fileIdentifyingUrlPathSegment": "100_100/B4DZaGncfvGsAU-/0/1746015209876/gameloft_romania_logo?e=1754524800&v=beta&t=0WU_QUsR4Ac2OwMCg2W3MeE3DW0MaZX1LsjCzh-5Rr4",
+                                                        "expiresAt": 1754524800000,
+                                                        "height": 100,
+                                                        "$type": "com.linkedin.common.VectorArtifact"
+                                                    }
+                                                ],
+                                                "rootUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQGUf53hj85dGA/company-logo_",
+                                                "$type": "com.linkedin.common.VectorImage"
+                                            },
+                                            "$type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo"
+                                        },
+                                        "nonEntitySchoolLogo": null,
+                                        "groupLogo": null,
+                                        "schoolLogo": null,
+                                        "ghostImage": null,
+                                        "nonEntityProfilePicture": null
+                                    },
+                                    "tintColor": null,
+                                    "$recipeTypes": [
+                                        "com.linkedin.c80cc66dba8103682d37a6577e182433"
+                                    ],
+                                    "tapTargets": [],
+                                    "displayAspectRatio": null,
+                                    "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+                                }
+                            ],
+                            "editableAccessibilityText": false,
+                            "actionTarget": null,
+                            "accessibilityTextAttributes": [],
+                            "totalCount": null,
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fc1478a3bdcf6bee483c3248a8ca0601"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+                        },
+                        "trackingUrn": "urn:li:organization:82133322",
+                        "subtitle": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "Company • Computer Games",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "navigationUrl": null,
+                        "title": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "Gameloft Bucharest",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.5b27c6455051fec110ab3849891e2251"
+                        ],
+                        "trackingId": "¾ç\u0014\u00037¹LC1ÑR\u001B1Ã",
+                        "renderStyle": null,
+                        "target": {
+                            "address": null,
+                            "gender": null,
+                            "race": null,
+                            "profile": null,
+                            "segmentAttributeValue": null,
+                            "degree": null,
+                            "professionalEvent": null,
+                            "industry": null,
+                            "*company": "urn:li:fsd_company:82133322",
+                            "title": null,
+                            "profileSkill": null,
+                            "productCategory": null,
+                            "geo": null,
+                            "sexualOrientation": null,
+                            "industryV2": null,
+                            "jobFunction": null,
+                            "credential": null,
+                            "organizationProduct": null,
+                            "standardizedProduct": null,
+                            "function": null,
+                            "skill": null,
+                            "fieldOfStudy": null,
+                            "group": null,
+                            "hashtag": null
+                        },
+                        "$type": "com.linkedin.voyager.dash.search.typeahead.TypeaheadViewModel"
+                    },
+                    {
+                        "image": {
+                            "attributes": [
+                                {
+                                    "scalingType": null,
+                                    "detailData": {
+                                        "profilePictureWithoutFrame": null,
+                                        "profilePictureWithRingStatus": null,
+                                        "companyLogo": null,
+                                        "icon": null,
+                                        "systemImage": null,
+                                        "nonEntityGroupLogo": null,
+                                        "vectorImage": null,
+                                        "nonEntityProfessionalEventLogo": null,
+                                        "profilePicture": null,
+                                        "imageUrl": null,
+                                        "professionalEventLogo": null,
+                                        "nonEntityCompanyLogo": {
+                                            "*company": "urn:li:fsd_company:10020417",
+                                            "$recipeTypes": [
+                                                "com.linkedin.0462d4c7c6a71f1be84e6f9041a2c02a"
+                                            ],
+                                            "vectorImage": {
+                                                "digitalmediaAsset": null,
+                                                "attribution": null,
+                                                "c2paManifestData": null,
+                                                "$recipeTypes": [
+                                                    "com.linkedin.aa524cb811a38636d5624ebe87d6bb74"
+                                                ],
+                                                "artifacts": [
+                                                    {
+                                                        "width": 200,
+                                                        "$recipeTypes": [
+                                                            "com.linkedin.5a60b078564959e9f0615c5107e1b626"
+                                                        ],
+                                                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1738815759504/gameloft_vietnam_logo?e=1754524800&v=beta&t=dR1KOFYzOgnhWydq6Fomz5UZDa_BGxKFqswSLcM_6TU",
+                                                        "expiresAt": 1754524800000,
+                                                        "height": 200,
+                                                        "$type": "com.linkedin.common.VectorArtifact"
+                                                    },
+                                                    {
+                                                        "width": 100,
+                                                        "$recipeTypes": [
+                                                            "com.linkedin.5a60b078564959e9f0615c5107e1b626"
+                                                        ],
+                                                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1738815759504/gameloft_vietnam_logo?e=1754524800&v=beta&t=x5_ibeh5aN3Kf49bOvatRrHD9xGgejsecrkZJw32PDA",
+                                                        "expiresAt": 1754524800000,
+                                                        "height": 100,
+                                                        "$type": "com.linkedin.common.VectorArtifact"
+                                                    },
+                                                    {
+                                                        "width": 400,
+                                                        "$recipeTypes": [
+                                                            "com.linkedin.5a60b078564959e9f0615c5107e1b626"
+                                                        ],
+                                                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1738815759504/gameloft_vietnam_logo?e=1754524800&v=beta&t=-uieStbAEw8jlZoJakCNAb8yHtgGYH6peeNq_PCWjPY",
+                                                        "expiresAt": 1754524800000,
+                                                        "height": 400,
+                                                        "$type": "com.linkedin.common.VectorArtifact"
+                                                    }
+                                                ],
+                                                "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQHOPiSnWF7R-g/company-logo_",
+                                                "$type": "com.linkedin.common.VectorImage"
+                                            },
+                                            "$type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo"
+                                        },
+                                        "nonEntitySchoolLogo": null,
+                                        "groupLogo": null,
+                                        "schoolLogo": null,
+                                        "ghostImage": null,
+                                        "nonEntityProfilePicture": null
+                                    },
+                                    "tintColor": null,
+                                    "$recipeTypes": [
+                                        "com.linkedin.c80cc66dba8103682d37a6577e182433"
+                                    ],
+                                    "tapTargets": [],
+                                    "displayAspectRatio": null,
+                                    "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+                                }
+                            ],
+                            "editableAccessibilityText": false,
+                            "actionTarget": null,
+                            "accessibilityTextAttributes": [],
+                            "totalCount": null,
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fc1478a3bdcf6bee483c3248a8ca0601"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+                        },
+                        "trackingUrn": "urn:li:organization:10020417",
+                        "subtitle": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "Company • Computer Games",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "navigationUrl": null,
+                        "title": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "Gameloft Vietnam",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.5b27c6455051fec110ab3849891e2251"
+                        ],
+                        "trackingId": "6+]à\u0000SCy(2os\u0007É¯",
+                        "renderStyle": null,
+                        "target": {
+                            "address": null,
+                            "gender": null,
+                            "race": null,
+                            "profile": null,
+                            "segmentAttributeValue": null,
+                            "degree": null,
+                            "professionalEvent": null,
+                            "industry": null,
+                            "*company": "urn:li:fsd_company:10020417",
+                            "title": null,
+                            "profileSkill": null,
+                            "productCategory": null,
+                            "geo": null,
+                            "sexualOrientation": null,
+                            "industryV2": null,
+                            "jobFunction": null,
+                            "credential": null,
+                            "organizationProduct": null,
+                            "standardizedProduct": null,
+                            "function": null,
+                            "skill": null,
+                            "fieldOfStudy": null,
+                            "group": null,
+                            "hashtag": null
+                        },
+                        "$type": "com.linkedin.voyager.dash.search.typeahead.TypeaheadViewModel"
+                    },
+                    {
+                        "image": {
+                            "attributes": [
+                                {
+                                    "scalingType": null,
+                                    "detailData": {
+                                        "profilePictureWithoutFrame": null,
+                                        "profilePictureWithRingStatus": null,
+                                        "companyLogo": null,
+                                        "icon": null,
+                                        "systemImage": null,
+                                        "nonEntityGroupLogo": null,
+                                        "vectorImage": null,
+                                        "nonEntityProfessionalEventLogo": null,
+                                        "profilePicture": null,
+                                        "imageUrl": null,
+                                        "professionalEventLogo": null,
+                                        "nonEntityCompanyLogo": {
+                                            "*company": "urn:li:fsd_company:99984823",
+                                            "$recipeTypes": [
+                                                "com.linkedin.0462d4c7c6a71f1be84e6f9041a2c02a"
+                                            ],
+                                            "vectorImage": {
+                                                "digitalmediaAsset": null,
+                                                "attribution": null,
+                                                "c2paManifestData": null,
+                                                "$recipeTypes": [
+                                                    "com.linkedin.aa524cb811a38636d5624ebe87d6bb74"
+                                                ],
+                                                "artifacts": [
+                                                    {
+                                                        "width": 400,
+                                                        "$recipeTypes": [
+                                                            "com.linkedin.5a60b078564959e9f0615c5107e1b626"
+                                                        ],
+                                                        "fileIdentifyingUrlPathSegment": "400_400/B56ZT.UkqzHEAY-/0/1739433593942/gameloft_indonesia_logo?e=1754524800&v=beta&t=KKRrOhDH-ra8gxAfWvRtEBfEV5ddIxwOb3SZ5Q0Xq-M",
+                                                        "expiresAt": 1754524800000,
+                                                        "height": 400,
+                                                        "$type": "com.linkedin.common.VectorArtifact"
+                                                    },
+                                                    {
+                                                        "width": 200,
+                                                        "$recipeTypes": [
+                                                            "com.linkedin.5a60b078564959e9f0615c5107e1b626"
+                                                        ],
+                                                        "fileIdentifyingUrlPathSegment": "200_200/B56ZT.UkqzHEAI-/0/1739433593942/gameloft_indonesia_logo?e=1754524800&v=beta&t=y08tUAAyeMwrRl2IVcRa7oOlwzXE2irgHsuLR8tcAbA",
+                                                        "expiresAt": 1754524800000,
+                                                        "height": 200,
+                                                        "$type": "com.linkedin.common.VectorArtifact"
+                                                    },
+                                                    {
+                                                        "width": 100,
+                                                        "$recipeTypes": [
+                                                            "com.linkedin.5a60b078564959e9f0615c5107e1b626"
+                                                        ],
+                                                        "fileIdentifyingUrlPathSegment": "100_100/B56ZT.UkqzHEAQ-/0/1739433593942/gameloft_indonesia_logo?e=1754524800&v=beta&t=Es_HoeJaCPx3_9xN6J4hv14UX6ZGMyrX4yNyg9O3VoA",
+                                                        "expiresAt": 1754524800000,
+                                                        "height": 100,
+                                                        "$type": "com.linkedin.common.VectorArtifact"
+                                                    }
+                                                ],
+                                                "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQEG5azNRg9dzg/company-logo_",
+                                                "$type": "com.linkedin.common.VectorImage"
+                                            },
+                                            "$type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo"
+                                        },
+                                        "nonEntitySchoolLogo": null,
+                                        "groupLogo": null,
+                                        "schoolLogo": null,
+                                        "ghostImage": null,
+                                        "nonEntityProfilePicture": null
+                                    },
+                                    "tintColor": null,
+                                    "$recipeTypes": [
+                                        "com.linkedin.c80cc66dba8103682d37a6577e182433"
+                                    ],
+                                    "tapTargets": [],
+                                    "displayAspectRatio": null,
+                                    "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+                                }
+                            ],
+                            "editableAccessibilityText": false,
+                            "actionTarget": null,
+                            "accessibilityTextAttributes": [],
+                            "totalCount": null,
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fc1478a3bdcf6bee483c3248a8ca0601"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+                        },
+                        "trackingUrn": "urn:li:organization:99984823",
+                        "subtitle": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "Company • Computer Games",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "navigationUrl": null,
+                        "title": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "Gameloft Indonesia",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.5b27c6455051fec110ab3849891e2251"
+                        ],
+                        "trackingId": "¤lñGõGf¨\u000B\u0003GÓ\u0013À¡",
+                        "renderStyle": null,
+                        "target": {
+                            "address": null,
+                            "gender": null,
+                            "race": null,
+                            "profile": null,
+                            "segmentAttributeValue": null,
+                            "degree": null,
+                            "professionalEvent": null,
+                            "industry": null,
+                            "*company": "urn:li:fsd_company:99984823",
+                            "title": null,
+                            "profileSkill": null,
+                            "productCategory": null,
+                            "geo": null,
+                            "sexualOrientation": null,
+                            "industryV2": null,
+                            "jobFunction": null,
+                            "credential": null,
+                            "organizationProduct": null,
+                            "standardizedProduct": null,
+                            "function": null,
+                            "skill": null,
+                            "fieldOfStudy": null,
+                            "group": null,
+                            "hashtag": null
+                        },
+                        "$type": "com.linkedin.voyager.dash.search.typeahead.TypeaheadViewModel"
+                    },
+                    {
+                        "image": {
+                            "attributes": [
+                                {
+                                    "scalingType": null,
+                                    "detailData": {
+                                        "profilePictureWithoutFrame": null,
+                                        "profilePictureWithRingStatus": null,
+                                        "companyLogo": null,
+                                        "icon": null,
+                                        "systemImage": null,
+                                        "nonEntityGroupLogo": null,
+                                        "vectorImage": null,
+                                        "nonEntityProfessionalEventLogo": null,
+                                        "profilePicture": null,
+                                        "imageUrl": null,
+                                        "professionalEventLogo": null,
+                                        "nonEntityCompanyLogo": {
+                                            "*company": "urn:li:fsd_company:84904830",
+                                            "$recipeTypes": [
+                                                "com.linkedin.0462d4c7c6a71f1be84e6f9041a2c02a"
+                                            ],
+                                            "vectorImage": {
+                                                "digitalmediaAsset": null,
+                                                "attribution": null,
+                                                "c2paManifestData": null,
+                                                "$recipeTypes": [
+                                                    "com.linkedin.aa524cb811a38636d5624ebe87d6bb74"
+                                                ],
+                                                "artifacts": [
+                                                    {
+                                                        "width": 200,
+                                                        "$recipeTypes": [
+                                                            "com.linkedin.5a60b078564959e9f0615c5107e1b626"
+                                                        ],
+                                                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1650967308810/gameloft_par_logo?e=1754524800&v=beta&t=1TPhyP-bclnPdgxQXmfStgngSuSrZRxkO1lI4AoEZNA",
+                                                        "expiresAt": 1754524800000,
+                                                        "height": 200,
+                                                        "$type": "com.linkedin.common.VectorArtifact"
+                                                    },
+                                                    {
+                                                        "width": 100,
+                                                        "$recipeTypes": [
+                                                            "com.linkedin.5a60b078564959e9f0615c5107e1b626"
+                                                        ],
+                                                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1650967308810/gameloft_par_logo?e=1754524800&v=beta&t=CxSGXIRP2f7bP8lP6riJo9W0z_BQxctdyP09XQitfBo",
+                                                        "expiresAt": 1754524800000,
+                                                        "height": 100,
+                                                        "$type": "com.linkedin.common.VectorArtifact"
+                                                    },
+                                                    {
+                                                        "width": 400,
+                                                        "$recipeTypes": [
+                                                            "com.linkedin.5a60b078564959e9f0615c5107e1b626"
+                                                        ],
+                                                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1650967308810/gameloft_par_logo?e=1754524800&v=beta&t=kK9lIaie1vwf7fhrTTR4WmZuKgsIn6ufO-DPUr_RiJM",
+                                                        "expiresAt": 1754524800000,
+                                                        "height": 400,
+                                                        "$type": "com.linkedin.common.VectorArtifact"
+                                                    }
+                                                ],
+                                                "rootUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQHuXR6ktELiHA/company-logo_",
+                                                "$type": "com.linkedin.common.VectorImage"
+                                            },
+                                            "$type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo"
+                                        },
+                                        "nonEntitySchoolLogo": null,
+                                        "groupLogo": null,
+                                        "schoolLogo": null,
+                                        "ghostImage": null,
+                                        "nonEntityProfilePicture": null
+                                    },
+                                    "tintColor": null,
+                                    "$recipeTypes": [
+                                        "com.linkedin.c80cc66dba8103682d37a6577e182433"
+                                    ],
+                                    "tapTargets": [],
+                                    "displayAspectRatio": null,
+                                    "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+                                }
+                            ],
+                            "editableAccessibilityText": false,
+                            "actionTarget": null,
+                            "accessibilityTextAttributes": [],
+                            "totalCount": null,
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fc1478a3bdcf6bee483c3248a8ca0601"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+                        },
+                        "trackingUrn": "urn:li:organization:84904830",
+                        "subtitle": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "Company • Computer Games",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "navigationUrl": null,
+                        "title": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "Gameloft Paris Studio",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.5b27c6455051fec110ab3849891e2251"
+                        ],
+                        "trackingId": "<H=\u0012¬bHµ¶UÉï\u0017]é",
+                        "renderStyle": null,
+                        "target": {
+                            "address": null,
+                            "gender": null,
+                            "race": null,
+                            "profile": null,
+                            "segmentAttributeValue": null,
+                            "degree": null,
+                            "professionalEvent": null,
+                            "industry": null,
+                            "*company": "urn:li:fsd_company:84904830",
+                            "title": null,
+                            "profileSkill": null,
+                            "productCategory": null,
+                            "geo": null,
+                            "sexualOrientation": null,
+                            "industryV2": null,
+                            "jobFunction": null,
+                            "credential": null,
+                            "organizationProduct": null,
+                            "standardizedProduct": null,
+                            "function": null,
+                            "skill": null,
+                            "fieldOfStudy": null,
+                            "group": null,
+                            "hashtag": null
+                        },
+                        "$type": "com.linkedin.voyager.dash.search.typeahead.TypeaheadViewModel"
+                    },
+                    {
+                        "image": {
+                            "attributes": [
+                                {
+                                    "scalingType": null,
+                                    "detailData": {
+                                        "profilePictureWithoutFrame": null,
+                                        "profilePictureWithRingStatus": null,
+                                        "companyLogo": null,
+                                        "icon": null,
+                                        "systemImage": null,
+                                        "nonEntityGroupLogo": null,
+                                        "vectorImage": null,
+                                        "nonEntityProfessionalEventLogo": null,
+                                        "profilePicture": null,
+                                        "imageUrl": null,
+                                        "professionalEventLogo": null,
+                                        "nonEntityCompanyLogo": {
+                                            "*company": "urn:li:fsd_company:79415515",
+                                            "$recipeTypes": [
+                                                "com.linkedin.0462d4c7c6a71f1be84e6f9041a2c02a"
+                                            ],
+                                            "vectorImage": {
+                                                "digitalmediaAsset": null,
+                                                "attribution": null,
+                                                "c2paManifestData": null,
+                                                "$recipeTypes": [
+                                                    "com.linkedin.aa524cb811a38636d5624ebe87d6bb74"
+                                                ],
+                                                "artifacts": [
+                                                    {
+                                                        "width": 200,
+                                                        "$recipeTypes": [
+                                                            "com.linkedin.5a60b078564959e9f0615c5107e1b626"
+                                                        ],
+                                                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1645660445957?e=1754524800&v=beta&t=T5DvdEV3_4j1S6F_mmFKaVALInybocbZ28c6Tsb9HCg",
+                                                        "expiresAt": 1754524800000,
+                                                        "height": 200,
+                                                        "$type": "com.linkedin.common.VectorArtifact"
+                                                    },
+                                                    {
+                                                        "width": 100,
+                                                        "$recipeTypes": [
+                                                            "com.linkedin.5a60b078564959e9f0615c5107e1b626"
+                                                        ],
+                                                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1645660445957?e=1754524800&v=beta&t=VSCRVI4nIsLUosHEQPDRQxBVUU7kEQEEcKusUuZ0kWw",
+                                                        "expiresAt": 1754524800000,
+                                                        "height": 100,
+                                                        "$type": "com.linkedin.common.VectorArtifact"
+                                                    },
+                                                    {
+                                                        "width": 400,
+                                                        "$recipeTypes": [
+                                                            "com.linkedin.5a60b078564959e9f0615c5107e1b626"
+                                                        ],
+                                                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1645660445957?e=1754524800&v=beta&t=KQoVDOj8ysn-l8ZHt5xM5VjtQVs_1cdd_iT2-B1di_4",
+                                                        "expiresAt": 1754524800000,
+                                                        "height": 400,
+                                                        "$type": "com.linkedin.common.VectorArtifact"
+                                                    }
+                                                ],
+                                                "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQEHG5bFpEansw/company-logo_",
+                                                "$type": "com.linkedin.common.VectorImage"
+                                            },
+                                            "$type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo"
+                                        },
+                                        "nonEntitySchoolLogo": null,
+                                        "groupLogo": null,
+                                        "schoolLogo": null,
+                                        "ghostImage": null,
+                                        "nonEntityProfilePicture": null
+                                    },
+                                    "tintColor": null,
+                                    "$recipeTypes": [
+                                        "com.linkedin.c80cc66dba8103682d37a6577e182433"
+                                    ],
+                                    "tapTargets": [],
+                                    "displayAspectRatio": null,
+                                    "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+                                }
+                            ],
+                            "editableAccessibilityText": false,
+                            "actionTarget": null,
+                            "accessibilityTextAttributes": [],
+                            "totalCount": null,
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fc1478a3bdcf6bee483c3248a8ca0601"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+                        },
+                        "trackingUrn": "urn:li:organization:79415515",
+                        "subtitle": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "Company • Computer Games",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "navigationUrl": null,
+                        "title": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "Gameloft Toronto",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.5b27c6455051fec110ab3849891e2251"
+                        ],
+                        "trackingId": "2Cp0F´dAíE\u0015W",
+                        "renderStyle": null,
+                        "target": {
+                            "address": null,
+                            "gender": null,
+                            "race": null,
+                            "profile": null,
+                            "segmentAttributeValue": null,
+                            "degree": null,
+                            "professionalEvent": null,
+                            "industry": null,
+                            "*company": "urn:li:fsd_company:79415515",
+                            "title": null,
+                            "profileSkill": null,
+                            "productCategory": null,
+                            "geo": null,
+                            "sexualOrientation": null,
+                            "industryV2": null,
+                            "jobFunction": null,
+                            "credential": null,
+                            "organizationProduct": null,
+                            "standardizedProduct": null,
+                            "function": null,
+                            "skill": null,
+                            "fieldOfStudy": null,
+                            "group": null,
+                            "hashtag": null
+                        },
+                        "$type": "com.linkedin.voyager.dash.search.typeahead.TypeaheadViewModel"
+                    },
+                    {
+                        "image": {
+                            "attributes": [
+                                {
+                                    "scalingType": null,
+                                    "detailData": {
+                                        "profilePictureWithoutFrame": null,
+                                        "profilePictureWithRingStatus": null,
+                                        "companyLogo": null,
+                                        "icon": null,
+                                        "systemImage": null,
+                                        "nonEntityGroupLogo": null,
+                                        "vectorImage": null,
+                                        "nonEntityProfessionalEventLogo": null,
+                                        "profilePicture": null,
+                                        "imageUrl": null,
+                                        "professionalEventLogo": null,
+                                        "nonEntityCompanyLogo": {
+                                            "*company": "urn:li:fsd_company:81344622",
+                                            "$recipeTypes": [
+                                                "com.linkedin.0462d4c7c6a71f1be84e6f9041a2c02a"
+                                            ],
+                                            "vectorImage": {
+                                                "digitalmediaAsset": null,
+                                                "attribution": null,
+                                                "c2paManifestData": null,
+                                                "$recipeTypes": [
+                                                    "com.linkedin.aa524cb811a38636d5624ebe87d6bb74"
+                                                ],
+                                                "artifacts": [
+                                                    {
+                                                        "width": 200,
+                                                        "$recipeTypes": [
+                                                            "com.linkedin.5a60b078564959e9f0615c5107e1b626"
+                                                        ],
+                                                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1650541914131?e=1754524800&v=beta&t=zvJ0o5r6Y4RMI4Dc0KHNOG-aklZV_ifURnQCQRvTWag",
+                                                        "expiresAt": 1754524800000,
+                                                        "height": 200,
+                                                        "$type": "com.linkedin.common.VectorArtifact"
+                                                    },
+                                                    {
+                                                        "width": 100,
+                                                        "$recipeTypes": [
+                                                            "com.linkedin.5a60b078564959e9f0615c5107e1b626"
+                                                        ],
+                                                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1650541914131?e=1754524800&v=beta&t=4hp2DG31gNs0l-8m2xDiFusX1SZvki_tXkAoK3-51AE",
+                                                        "expiresAt": 1754524800000,
+                                                        "height": 100,
+                                                        "$type": "com.linkedin.common.VectorArtifact"
+                                                    },
+                                                    {
+                                                        "width": 400,
+                                                        "$recipeTypes": [
+                                                            "com.linkedin.5a60b078564959e9f0615c5107e1b626"
+                                                        ],
+                                                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1650541914131?e=1754524800&v=beta&t=TvNJqv5AuNyCMbKDtASmyiTuPmVgV8cO7kQd3YH1fpg",
+                                                        "expiresAt": 1754524800000,
+                                                        "height": 400,
+                                                        "$type": "com.linkedin.common.VectorArtifact"
+                                                    }
+                                                ],
+                                                "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQG1zkFWox1PXw/company-logo_",
+                                                "$type": "com.linkedin.common.VectorImage"
+                                            },
+                                            "$type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo"
+                                        },
+                                        "nonEntitySchoolLogo": null,
+                                        "groupLogo": null,
+                                        "schoolLogo": null,
+                                        "ghostImage": null,
+                                        "nonEntityProfilePicture": null
+                                    },
+                                    "tintColor": null,
+                                    "$recipeTypes": [
+                                        "com.linkedin.c80cc66dba8103682d37a6577e182433"
+                                    ],
+                                    "tapTargets": [],
+                                    "displayAspectRatio": null,
+                                    "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+                                }
+                            ],
+                            "editableAccessibilityText": false,
+                            "actionTarget": null,
+                            "accessibilityTextAttributes": [],
+                            "totalCount": null,
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fc1478a3bdcf6bee483c3248a8ca0601"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+                        },
+                        "trackingUrn": "urn:li:organization:81344622",
+                        "subtitle": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "Company • Computer Games",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "navigationUrl": null,
+                        "title": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "Gameloft Business Solutions",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.5b27c6455051fec110ab3849891e2251"
+                        ],
+                        "trackingId": "\u0011±?ñÉzBÞ\b\u000Eo\u0015\u0018Ó",
+                        "renderStyle": null,
+                        "target": {
+                            "address": null,
+                            "gender": null,
+                            "race": null,
+                            "profile": null,
+                            "segmentAttributeValue": null,
+                            "degree": null,
+                            "professionalEvent": null,
+                            "industry": null,
+                            "*company": "urn:li:fsd_company:81344622",
+                            "title": null,
+                            "profileSkill": null,
+                            "productCategory": null,
+                            "geo": null,
+                            "sexualOrientation": null,
+                            "industryV2": null,
+                            "jobFunction": null,
+                            "credential": null,
+                            "organizationProduct": null,
+                            "standardizedProduct": null,
+                            "function": null,
+                            "skill": null,
+                            "fieldOfStudy": null,
+                            "group": null,
+                            "hashtag": null
+                        },
+                        "$type": "com.linkedin.voyager.dash.search.typeahead.TypeaheadViewModel"
+                    },
+                    {
+                        "image": {
+                            "attributes": [
+                                {
+                                    "scalingType": null,
+                                    "detailData": {
+                                        "profilePictureWithoutFrame": null,
+                                        "profilePictureWithRingStatus": null,
+                                        "companyLogo": null,
+                                        "icon": null,
+                                        "systemImage": null,
+                                        "nonEntityGroupLogo": null,
+                                        "vectorImage": null,
+                                        "nonEntityProfessionalEventLogo": null,
+                                        "profilePicture": null,
+                                        "imageUrl": null,
+                                        "professionalEventLogo": null,
+                                        "nonEntityCompanyLogo": {
+                                            "*company": "urn:li:fsd_company:19978582",
+                                            "$recipeTypes": [
+                                                "com.linkedin.0462d4c7c6a71f1be84e6f9041a2c02a"
+                                            ],
+                                            "vectorImage": null,
+                                            "$type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo"
+                                        },
+                                        "nonEntitySchoolLogo": null,
+                                        "groupLogo": null,
+                                        "schoolLogo": null,
+                                        "ghostImage": null,
+                                        "nonEntityProfilePicture": null
+                                    },
+                                    "tintColor": null,
+                                    "$recipeTypes": [
+                                        "com.linkedin.c80cc66dba8103682d37a6577e182433"
+                                    ],
+                                    "tapTargets": [],
+                                    "displayAspectRatio": null,
+                                    "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+                                }
+                            ],
+                            "editableAccessibilityText": false,
+                            "actionTarget": null,
+                            "accessibilityTextAttributes": [],
+                            "totalCount": null,
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fc1478a3bdcf6bee483c3248a8ca0601"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+                        },
+                        "trackingUrn": "urn:li:organization:19978582",
+                        "subtitle": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "Company • Book and Periodical Publishing",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "navigationUrl": null,
+                        "title": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "GAMELOFT (UK) LIMITED",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.5b27c6455051fec110ab3849891e2251"
+                        ],
+                        "trackingId": "i8¾Ã-´AËD&Ñ:Ó-ì",
+                        "renderStyle": null,
+                        "target": {
+                            "address": null,
+                            "gender": null,
+                            "race": null,
+                            "profile": null,
+                            "segmentAttributeValue": null,
+                            "degree": null,
+                            "professionalEvent": null,
+                            "industry": null,
+                            "*company": "urn:li:fsd_company:19978582",
+                            "title": null,
+                            "profileSkill": null,
+                            "productCategory": null,
+                            "geo": null,
+                            "sexualOrientation": null,
+                            "industryV2": null,
+                            "jobFunction": null,
+                            "credential": null,
+                            "organizationProduct": null,
+                            "standardizedProduct": null,
+                            "function": null,
+                            "skill": null,
+                            "fieldOfStudy": null,
+                            "group": null,
+                            "hashtag": null
+                        },
+                        "$type": "com.linkedin.voyager.dash.search.typeahead.TypeaheadViewModel"
+                    },
+                    {
+                        "image": {
+                            "attributes": [
+                                {
+                                    "scalingType": null,
+                                    "detailData": {
+                                        "profilePictureWithoutFrame": null,
+                                        "profilePictureWithRingStatus": null,
+                                        "companyLogo": null,
+                                        "icon": null,
+                                        "systemImage": null,
+                                        "nonEntityGroupLogo": null,
+                                        "vectorImage": null,
+                                        "nonEntityProfessionalEventLogo": null,
+                                        "profilePicture": null,
+                                        "imageUrl": null,
+                                        "professionalEventLogo": null,
+                                        "nonEntityCompanyLogo": {
+                                            "*company": "urn:li:fsd_company:35387960",
+                                            "$recipeTypes": [
+                                                "com.linkedin.0462d4c7c6a71f1be84e6f9041a2c02a"
+                                            ],
+                                            "vectorImage": null,
+                                            "$type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo"
+                                        },
+                                        "nonEntitySchoolLogo": null,
+                                        "groupLogo": null,
+                                        "schoolLogo": null,
+                                        "ghostImage": null,
+                                        "nonEntityProfilePicture": null
+                                    },
+                                    "tintColor": null,
+                                    "$recipeTypes": [
+                                        "com.linkedin.c80cc66dba8103682d37a6577e182433"
+                                    ],
+                                    "tapTargets": [],
+                                    "displayAspectRatio": null,
+                                    "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+                                }
+                            ],
+                            "editableAccessibilityText": false,
+                            "actionTarget": null,
+                            "accessibilityTextAttributes": [],
+                            "totalCount": null,
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fc1478a3bdcf6bee483c3248a8ca0601"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+                        },
+                        "trackingUrn": "urn:li:organization:35387960",
+                        "subtitle": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "Company",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "navigationUrl": null,
+                        "title": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "GAMELOFT LIMITED (INCORPORATED IN HONG KONG)",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.5b27c6455051fec110ab3849891e2251"
+                        ],
+                        "trackingId": "\u0000ëÅ\\MàG«´Úmö{÷Kw",
+                        "renderStyle": null,
+                        "target": {
+                            "address": null,
+                            "gender": null,
+                            "race": null,
+                            "profile": null,
+                            "segmentAttributeValue": null,
+                            "degree": null,
+                            "professionalEvent": null,
+                            "industry": null,
+                            "*company": "urn:li:fsd_company:35387960",
+                            "title": null,
+                            "profileSkill": null,
+                            "productCategory": null,
+                            "geo": null,
+                            "sexualOrientation": null,
+                            "industryV2": null,
+                            "jobFunction": null,
+                            "credential": null,
+                            "organizationProduct": null,
+                            "standardizedProduct": null,
+                            "function": null,
+                            "skill": null,
+                            "fieldOfStudy": null,
+                            "group": null,
+                            "hashtag": null
+                        },
+                        "$type": "com.linkedin.voyager.dash.search.typeahead.TypeaheadViewModel"
+                    },
+                    {
+                        "image": {
+                            "attributes": [
+                                {
+                                    "scalingType": null,
+                                    "detailData": {
+                                        "profilePictureWithoutFrame": null,
+                                        "profilePictureWithRingStatus": null,
+                                        "companyLogo": null,
+                                        "icon": null,
+                                        "systemImage": null,
+                                        "nonEntityGroupLogo": null,
+                                        "vectorImage": null,
+                                        "nonEntityProfessionalEventLogo": null,
+                                        "profilePicture": null,
+                                        "imageUrl": null,
+                                        "professionalEventLogo": null,
+                                        "nonEntityCompanyLogo": {
+                                            "*company": "urn:li:fsd_company:83742899",
+                                            "$recipeTypes": [
+                                                "com.linkedin.0462d4c7c6a71f1be84e6f9041a2c02a"
+                                            ],
+                                            "vectorImage": null,
+                                            "$type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo"
+                                        },
+                                        "nonEntitySchoolLogo": null,
+                                        "groupLogo": null,
+                                        "schoolLogo": null,
+                                        "ghostImage": null,
+                                        "nonEntityProfilePicture": null
+                                    },
+                                    "tintColor": null,
+                                    "$recipeTypes": [
+                                        "com.linkedin.c80cc66dba8103682d37a6577e182433"
+                                    ],
+                                    "tapTargets": [],
+                                    "displayAspectRatio": null,
+                                    "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+                                }
+                            ],
+                            "editableAccessibilityText": false,
+                            "actionTarget": null,
+                            "accessibilityTextAttributes": [],
+                            "totalCount": null,
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fc1478a3bdcf6bee483c3248a8ca0601"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+                        },
+                        "trackingUrn": "urn:li:organization:83742899",
+                        "subtitle": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "Company • Facilities Services",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "navigationUrl": null,
+                        "title": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "Gameloft Games",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.5b27c6455051fec110ab3849891e2251"
+                        ],
+                        "trackingId": "`ýH&EH§¸Bü\u000Bù",
+                        "renderStyle": null,
+                        "target": {
+                            "address": null,
+                            "gender": null,
+                            "race": null,
+                            "profile": null,
+                            "segmentAttributeValue": null,
+                            "degree": null,
+                            "professionalEvent": null,
+                            "industry": null,
+                            "*company": "urn:li:fsd_company:83742899",
+                            "title": null,
+                            "profileSkill": null,
+                            "productCategory": null,
+                            "geo": null,
+                            "sexualOrientation": null,
+                            "industryV2": null,
+                            "jobFunction": null,
+                            "credential": null,
+                            "organizationProduct": null,
+                            "standardizedProduct": null,
+                            "function": null,
+                            "skill": null,
+                            "fieldOfStudy": null,
+                            "group": null,
+                            "hashtag": null
+                        },
+                        "$type": "com.linkedin.voyager.dash.search.typeahead.TypeaheadViewModel"
+                    },
+                    {
+                        "image": {
+                            "attributes": [
+                                {
+                                    "scalingType": null,
+                                    "detailData": {
+                                        "profilePictureWithoutFrame": null,
+                                        "profilePictureWithRingStatus": null,
+                                        "companyLogo": null,
+                                        "icon": null,
+                                        "systemImage": null,
+                                        "nonEntityGroupLogo": null,
+                                        "vectorImage": null,
+                                        "nonEntityProfessionalEventLogo": null,
+                                        "profilePicture": null,
+                                        "imageUrl": null,
+                                        "professionalEventLogo": null,
+                                        "nonEntityCompanyLogo": {
+                                            "*company": "urn:li:fsd_company:26448760",
+                                            "$recipeTypes": [
+                                                "com.linkedin.0462d4c7c6a71f1be84e6f9041a2c02a"
+                                            ],
+                                            "vectorImage": null,
+                                            "$type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo"
+                                        },
+                                        "nonEntitySchoolLogo": null,
+                                        "groupLogo": null,
+                                        "schoolLogo": null,
+                                        "ghostImage": null,
+                                        "nonEntityProfilePicture": null
+                                    },
+                                    "tintColor": null,
+                                    "$recipeTypes": [
+                                        "com.linkedin.c80cc66dba8103682d37a6577e182433"
+                                    ],
+                                    "tapTargets": [],
+                                    "displayAspectRatio": null,
+                                    "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+                                }
+                            ],
+                            "editableAccessibilityText": false,
+                            "actionTarget": null,
+                            "accessibilityTextAttributes": [],
+                            "totalCount": null,
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fc1478a3bdcf6bee483c3248a8ca0601"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+                        },
+                        "trackingUrn": "urn:li:organization:26448760",
+                        "subtitle": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "Company • Software Development",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "navigationUrl": null,
+                        "title": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "GAMELOFT PARTNERSHIPS",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.5b27c6455051fec110ab3849891e2251"
+                        ],
+                        "trackingId": "-\u000BL{½L ÑÆÒus\u001A·",
+                        "renderStyle": null,
+                        "target": {
+                            "address": null,
+                            "gender": null,
+                            "race": null,
+                            "profile": null,
+                            "segmentAttributeValue": null,
+                            "degree": null,
+                            "professionalEvent": null,
+                            "industry": null,
+                            "*company": "urn:li:fsd_company:26448760",
+                            "title": null,
+                            "profileSkill": null,
+                            "productCategory": null,
+                            "geo": null,
+                            "sexualOrientation": null,
+                            "industryV2": null,
+                            "jobFunction": null,
+                            "credential": null,
+                            "organizationProduct": null,
+                            "standardizedProduct": null,
+                            "function": null,
+                            "skill": null,
+                            "fieldOfStudy": null,
+                            "group": null,
+                            "hashtag": null
+                        },
+                        "$type": "com.linkedin.voyager.dash.search.typeahead.TypeaheadViewModel"
+                    },
+                    {
+                        "image": {
+                            "attributes": [
+                                {
+                                    "scalingType": null,
+                                    "detailData": {
+                                        "profilePictureWithoutFrame": null,
+                                        "profilePictureWithRingStatus": null,
+                                        "companyLogo": null,
+                                        "icon": null,
+                                        "systemImage": null,
+                                        "nonEntityGroupLogo": null,
+                                        "vectorImage": null,
+                                        "nonEntityProfessionalEventLogo": null,
+                                        "profilePicture": null,
+                                        "imageUrl": null,
+                                        "professionalEventLogo": null,
+                                        "nonEntityCompanyLogo": {
+                                            "*company": "urn:li:fsd_company:24519807",
+                                            "$recipeTypes": [
+                                                "com.linkedin.0462d4c7c6a71f1be84e6f9041a2c02a"
+                                            ],
+                                            "vectorImage": null,
+                                            "$type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo"
+                                        },
+                                        "nonEntitySchoolLogo": null,
+                                        "groupLogo": null,
+                                        "schoolLogo": null,
+                                        "ghostImage": null,
+                                        "nonEntityProfilePicture": null
+                                    },
+                                    "tintColor": null,
+                                    "$recipeTypes": [
+                                        "com.linkedin.c80cc66dba8103682d37a6577e182433"
+                                    ],
+                                    "tapTargets": [],
+                                    "displayAspectRatio": null,
+                                    "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+                                }
+                            ],
+                            "editableAccessibilityText": false,
+                            "actionTarget": null,
+                            "accessibilityTextAttributes": [],
+                            "totalCount": null,
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fc1478a3bdcf6bee483c3248a8ca0601"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+                        },
+                        "trackingUrn": "urn:li:organization:24519807",
+                        "subtitle": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "Company • Software Development",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "navigationUrl": null,
+                        "title": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "Gameloft Do Brasil",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.5b27c6455051fec110ab3849891e2251"
+                        ],
+                        "trackingId": "Ä\u001D\u0003+F<@)§nâuè",
+                        "renderStyle": null,
+                        "target": {
+                            "address": null,
+                            "gender": null,
+                            "race": null,
+                            "profile": null,
+                            "segmentAttributeValue": null,
+                            "degree": null,
+                            "professionalEvent": null,
+                            "industry": null,
+                            "*company": "urn:li:fsd_company:24519807",
+                            "title": null,
+                            "profileSkill": null,
+                            "productCategory": null,
+                            "geo": null,
+                            "sexualOrientation": null,
+                            "industryV2": null,
+                            "jobFunction": null,
+                            "credential": null,
+                            "organizationProduct": null,
+                            "standardizedProduct": null,
+                            "function": null,
+                            "skill": null,
+                            "fieldOfStudy": null,
+                            "group": null,
+                            "hashtag": null
+                        },
+                        "$type": "com.linkedin.voyager.dash.search.typeahead.TypeaheadViewModel"
+                    },
+                    {
+                        "image": {
+                            "attributes": [
+                                {
+                                    "scalingType": null,
+                                    "detailData": {
+                                        "profilePictureWithoutFrame": null,
+                                        "profilePictureWithRingStatus": null,
+                                        "companyLogo": null,
+                                        "icon": null,
+                                        "systemImage": null,
+                                        "nonEntityGroupLogo": null,
+                                        "vectorImage": null,
+                                        "nonEntityProfessionalEventLogo": null,
+                                        "profilePicture": null,
+                                        "imageUrl": null,
+                                        "professionalEventLogo": null,
+                                        "nonEntityCompanyLogo": {
+                                            "*company": "urn:li:fsd_company:38640902",
+                                            "$recipeTypes": [
+                                                "com.linkedin.0462d4c7c6a71f1be84e6f9041a2c02a"
+                                            ],
+                                            "vectorImage": null,
+                                            "$type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo"
+                                        },
+                                        "nonEntitySchoolLogo": null,
+                                        "groupLogo": null,
+                                        "schoolLogo": null,
+                                        "ghostImage": null,
+                                        "nonEntityProfilePicture": null
+                                    },
+                                    "tintColor": null,
+                                    "$recipeTypes": [
+                                        "com.linkedin.c80cc66dba8103682d37a6577e182433"
+                                    ],
+                                    "tapTargets": [],
+                                    "displayAspectRatio": null,
+                                    "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+                                }
+                            ],
+                            "editableAccessibilityText": false,
+                            "actionTarget": null,
+                            "accessibilityTextAttributes": [],
+                            "totalCount": null,
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fc1478a3bdcf6bee483c3248a8ca0601"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+                        },
+                        "trackingUrn": "urn:li:organization:38640902",
+                        "subtitle": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "Company • Software Development",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "navigationUrl": null,
+                        "title": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "GAMELOFT IBERICA SA",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.5b27c6455051fec110ab3849891e2251"
+                        ],
+                        "trackingId": "_óî-BYÑNë^rß",
+                        "renderStyle": null,
+                        "target": {
+                            "address": null,
+                            "gender": null,
+                            "race": null,
+                            "profile": null,
+                            "segmentAttributeValue": null,
+                            "degree": null,
+                            "professionalEvent": null,
+                            "industry": null,
+                            "*company": "urn:li:fsd_company:38640902",
+                            "title": null,
+                            "profileSkill": null,
+                            "productCategory": null,
+                            "geo": null,
+                            "sexualOrientation": null,
+                            "industryV2": null,
+                            "jobFunction": null,
+                            "credential": null,
+                            "organizationProduct": null,
+                            "standardizedProduct": null,
+                            "function": null,
+                            "skill": null,
+                            "fieldOfStudy": null,
+                            "group": null,
+                            "hashtag": null
+                        },
+                        "$type": "com.linkedin.voyager.dash.search.typeahead.TypeaheadViewModel"
+                    },
+                    {
+                        "image": {
+                            "attributes": [
+                                {
+                                    "scalingType": null,
+                                    "detailData": {
+                                        "profilePictureWithoutFrame": null,
+                                        "profilePictureWithRingStatus": null,
+                                        "companyLogo": null,
+                                        "icon": null,
+                                        "systemImage": null,
+                                        "nonEntityGroupLogo": null,
+                                        "vectorImage": null,
+                                        "nonEntityProfessionalEventLogo": null,
+                                        "profilePicture": null,
+                                        "imageUrl": null,
+                                        "professionalEventLogo": null,
+                                        "nonEntityCompanyLogo": {
+                                            "*company": "urn:li:fsd_company:39376132",
+                                            "$recipeTypes": [
+                                                "com.linkedin.0462d4c7c6a71f1be84e6f9041a2c02a"
+                                            ],
+                                            "vectorImage": null,
+                                            "$type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo"
+                                        },
+                                        "nonEntitySchoolLogo": null,
+                                        "groupLogo": null,
+                                        "schoolLogo": null,
+                                        "ghostImage": null,
+                                        "nonEntityProfilePicture": null
+                                    },
+                                    "tintColor": null,
+                                    "$recipeTypes": [
+                                        "com.linkedin.c80cc66dba8103682d37a6577e182433"
+                                    ],
+                                    "tapTargets": [],
+                                    "displayAspectRatio": null,
+                                    "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+                                }
+                            ],
+                            "editableAccessibilityText": false,
+                            "actionTarget": null,
+                            "accessibilityTextAttributes": [],
+                            "totalCount": null,
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fc1478a3bdcf6bee483c3248a8ca0601"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+                        },
+                        "trackingUrn": "urn:li:organization:39376132",
+                        "subtitle": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "Company • Business Consulting and Services",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "navigationUrl": null,
+                        "title": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "GAMELOFT MADRID SL",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.5b27c6455051fec110ab3849891e2251"
+                        ],
+                        "trackingId": "Æ\u001CÌ\u0003©EÔ½\u0014\u001B¼nç­â",
+                        "renderStyle": null,
+                        "target": {
+                            "address": null,
+                            "gender": null,
+                            "race": null,
+                            "profile": null,
+                            "segmentAttributeValue": null,
+                            "degree": null,
+                            "professionalEvent": null,
+                            "industry": null,
+                            "*company": "urn:li:fsd_company:39376132",
+                            "title": null,
+                            "profileSkill": null,
+                            "productCategory": null,
+                            "geo": null,
+                            "sexualOrientation": null,
+                            "industryV2": null,
+                            "jobFunction": null,
+                            "credential": null,
+                            "organizationProduct": null,
+                            "standardizedProduct": null,
+                            "function": null,
+                            "skill": null,
+                            "fieldOfStudy": null,
+                            "group": null,
+                            "hashtag": null
+                        },
+                        "$type": "com.linkedin.voyager.dash.search.typeahead.TypeaheadViewModel"
+                    },
+                    {
+                        "image": {
+                            "attributes": [
+                                {
+                                    "scalingType": null,
+                                    "detailData": {
+                                        "profilePictureWithoutFrame": null,
+                                        "profilePictureWithRingStatus": null,
+                                        "companyLogo": null,
+                                        "icon": null,
+                                        "systemImage": null,
+                                        "nonEntityGroupLogo": null,
+                                        "vectorImage": null,
+                                        "nonEntityProfessionalEventLogo": null,
+                                        "profilePicture": null,
+                                        "imageUrl": null,
+                                        "professionalEventLogo": null,
+                                        "nonEntityCompanyLogo": {
+                                            "*company": "urn:li:fsd_company:27623719",
+                                            "$recipeTypes": [
+                                                "com.linkedin.0462d4c7c6a71f1be84e6f9041a2c02a"
+                                            ],
+                                            "vectorImage": null,
+                                            "$type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo"
+                                        },
+                                        "nonEntitySchoolLogo": null,
+                                        "groupLogo": null,
+                                        "schoolLogo": null,
+                                        "ghostImage": null,
+                                        "nonEntityProfilePicture": null
+                                    },
+                                    "tintColor": null,
+                                    "$recipeTypes": [
+                                        "com.linkedin.c80cc66dba8103682d37a6577e182433"
+                                    ],
+                                    "tapTargets": [],
+                                    "displayAspectRatio": null,
+                                    "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+                                }
+                            ],
+                            "editableAccessibilityText": false,
+                            "actionTarget": null,
+                            "accessibilityTextAttributes": [],
+                            "totalCount": null,
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fc1478a3bdcf6bee483c3248a8ca0601"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+                        },
+                        "trackingUrn": "urn:li:organization:27623719",
+                        "subtitle": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "Company",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "navigationUrl": null,
+                        "title": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "GAMELOFT SOFTWARE PRIVATE LIMITED",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.5b27c6455051fec110ab3849891e2251"
+                        ],
+                        "trackingId": "z£i[éKv§JèÔ\nÞ¹",
+                        "renderStyle": null,
+                        "target": {
+                            "address": null,
+                            "gender": null,
+                            "race": null,
+                            "profile": null,
+                            "segmentAttributeValue": null,
+                            "degree": null,
+                            "professionalEvent": null,
+                            "industry": null,
+                            "*company": "urn:li:fsd_company:27623719",
+                            "title": null,
+                            "profileSkill": null,
+                            "productCategory": null,
+                            "geo": null,
+                            "sexualOrientation": null,
+                            "industryV2": null,
+                            "jobFunction": null,
+                            "credential": null,
+                            "organizationProduct": null,
+                            "standardizedProduct": null,
+                            "function": null,
+                            "skill": null,
+                            "fieldOfStudy": null,
+                            "group": null,
+                            "hashtag": null
+                        },
+                        "$type": "com.linkedin.voyager.dash.search.typeahead.TypeaheadViewModel"
+                    },
+                    {
+                        "image": {
+                            "attributes": [
+                                {
+                                    "scalingType": null,
+                                    "detailData": {
+                                        "profilePictureWithoutFrame": null,
+                                        "profilePictureWithRingStatus": null,
+                                        "companyLogo": null,
+                                        "icon": null,
+                                        "systemImage": null,
+                                        "nonEntityGroupLogo": null,
+                                        "vectorImage": null,
+                                        "nonEntityProfessionalEventLogo": null,
+                                        "profilePicture": null,
+                                        "imageUrl": null,
+                                        "professionalEventLogo": null,
+                                        "nonEntityCompanyLogo": {
+                                            "*company": "urn:li:fsd_company:52581349",
+                                            "$recipeTypes": [
+                                                "com.linkedin.0462d4c7c6a71f1be84e6f9041a2c02a"
+                                            ],
+                                            "vectorImage": null,
+                                            "$type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo"
+                                        },
+                                        "nonEntitySchoolLogo": null,
+                                        "groupLogo": null,
+                                        "schoolLogo": null,
+                                        "ghostImage": null,
+                                        "nonEntityProfilePicture": null
+                                    },
+                                    "tintColor": null,
+                                    "$recipeTypes": [
+                                        "com.linkedin.c80cc66dba8103682d37a6577e182433"
+                                    ],
+                                    "tapTargets": [],
+                                    "displayAspectRatio": null,
+                                    "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+                                }
+                            ],
+                            "editableAccessibilityText": false,
+                            "actionTarget": null,
+                            "accessibilityTextAttributes": [],
+                            "totalCount": null,
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fc1478a3bdcf6bee483c3248a8ca0601"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+                        },
+                        "trackingUrn": "urn:li:organization:52581349",
+                        "subtitle": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "Company • Software Development",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "navigationUrl": null,
+                        "title": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "Divertissements Gameloft Inc",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.5b27c6455051fec110ab3849891e2251"
+                        ],
+                        "trackingId": "¿?ifrIw¤«CèÛÊh",
+                        "renderStyle": null,
+                        "target": {
+                            "address": null,
+                            "gender": null,
+                            "race": null,
+                            "profile": null,
+                            "segmentAttributeValue": null,
+                            "degree": null,
+                            "professionalEvent": null,
+                            "industry": null,
+                            "*company": "urn:li:fsd_company:52581349",
+                            "title": null,
+                            "profileSkill": null,
+                            "productCategory": null,
+                            "geo": null,
+                            "sexualOrientation": null,
+                            "industryV2": null,
+                            "jobFunction": null,
+                            "credential": null,
+                            "organizationProduct": null,
+                            "standardizedProduct": null,
+                            "function": null,
+                            "skill": null,
+                            "fieldOfStudy": null,
+                            "group": null,
+                            "hashtag": null
+                        },
+                        "$type": "com.linkedin.voyager.dash.search.typeahead.TypeaheadViewModel"
+                    }
+                ],
+                "$type": "com.linkedin.restli.common.CollectionResponse"
+            },
+            "$recipeTypes": [
+                "com.linkedin.ac4bf6b3580bee5dbb1ed1955027e08c"
+            ],
+            "$type": "com.linkedin.ac4bf6b3580bee5dbb1ed1955027e08c"
+        }
+    },
+    "included": [
+        {
+            "entityUrn": "urn:li:fsd_company:10020417",
+            "$recipeTypes": [
+                "com.linkedin.7fac48573d3753dbfbfcb101cc65fb94"
+            ],
+            "$type": "com.linkedin.voyager.dash.organization.Company"
+        },
+        {
+            "entityUrn": "urn:li:fsd_company:35387960",
+            "$recipeTypes": [
+                "com.linkedin.7fac48573d3753dbfbfcb101cc65fb94"
+            ],
+            "$type": "com.linkedin.voyager.dash.organization.Company"
+        },
+        {
+            "entityUrn": "urn:li:fsd_company:24519807",
+            "$recipeTypes": [
+                "com.linkedin.7fac48573d3753dbfbfcb101cc65fb94"
+            ],
+            "$type": "com.linkedin.voyager.dash.organization.Company"
+        },
+        {
+            "entityUrn": "urn:li:fsd_company:99984823",
+            "$recipeTypes": [
+                "com.linkedin.7fac48573d3753dbfbfcb101cc65fb94"
+            ],
+            "$type": "com.linkedin.voyager.dash.organization.Company"
+        },
+        {
+            "entityUrn": "urn:li:fsd_company:81344622",
+            "$recipeTypes": [
+                "com.linkedin.7fac48573d3753dbfbfcb101cc65fb94"
+            ],
+            "$type": "com.linkedin.voyager.dash.organization.Company"
+        },
+        {
+            "entityUrn": "urn:li:fsd_company:84904830",
+            "$recipeTypes": [
+                "com.linkedin.7fac48573d3753dbfbfcb101cc65fb94"
+            ],
+            "$type": "com.linkedin.voyager.dash.organization.Company"
+        },
+        {
+            "entityUrn": "urn:li:fsd_company:83742899",
+            "$recipeTypes": [
+                "com.linkedin.7fac48573d3753dbfbfcb101cc65fb94"
+            ],
+            "$type": "com.linkedin.voyager.dash.organization.Company"
+        },
+        {
+            "entityUrn": "urn:li:fsd_company:106032517",
+            "$recipeTypes": [
+                "com.linkedin.7fac48573d3753dbfbfcb101cc65fb94"
+            ],
+            "$type": "com.linkedin.voyager.dash.organization.Company"
+        },
+        {
+            "entityUrn": "urn:li:fsd_company:26448760",
+            "$recipeTypes": [
+                "com.linkedin.7fac48573d3753dbfbfcb101cc65fb94"
+            ],
+            "$type": "com.linkedin.voyager.dash.organization.Company"
+        },
+        {
+            "entityUrn": "urn:li:fsd_company:82133322",
+            "$recipeTypes": [
+                "com.linkedin.7fac48573d3753dbfbfcb101cc65fb94"
+            ],
+            "$type": "com.linkedin.voyager.dash.organization.Company"
+        },
+        {
+            "entityUrn": "urn:li:fsd_company:157355",
+            "$recipeTypes": [
+                "com.linkedin.7fac48573d3753dbfbfcb101cc65fb94"
+            ],
+            "$type": "com.linkedin.voyager.dash.organization.Company"
+        },
+        {
+            "entityUrn": "urn:li:fsd_company:20078843",
+            "$recipeTypes": [
+                "com.linkedin.7fac48573d3753dbfbfcb101cc65fb94"
+            ],
+            "$type": "com.linkedin.voyager.dash.organization.Company"
+        },
+        {
+            "entityUrn": "urn:li:fsd_company:79415515",
+            "$recipeTypes": [
+                "com.linkedin.7fac48573d3753dbfbfcb101cc65fb94"
+            ],
+            "$type": "com.linkedin.voyager.dash.organization.Company"
+        },
+        {
+            "entityUrn": "urn:li:fsd_company:84903918",
+            "$recipeTypes": [
+                "com.linkedin.7fac48573d3753dbfbfcb101cc65fb94"
+            ],
+            "$type": "com.linkedin.voyager.dash.organization.Company"
+        },
+        {
+            "entityUrn": "urn:li:fsd_company:38640902",
+            "$recipeTypes": [
+                "com.linkedin.7fac48573d3753dbfbfcb101cc65fb94"
+            ],
+            "$type": "com.linkedin.voyager.dash.organization.Company"
+        },
+        {
+            "entityUrn": "urn:li:fsd_company:52581349",
+            "$recipeTypes": [
+                "com.linkedin.7fac48573d3753dbfbfcb101cc65fb94"
+            ],
+            "$type": "com.linkedin.voyager.dash.organization.Company"
+        },
+        {
+            "entityUrn": "urn:li:fsd_company:19978582",
+            "$recipeTypes": [
+                "com.linkedin.7fac48573d3753dbfbfcb101cc65fb94"
+            ],
+            "$type": "com.linkedin.voyager.dash.organization.Company"
+        },
+        {
+            "entityUrn": "urn:li:fsd_company:39376132",
+            "$recipeTypes": [
+                "com.linkedin.7fac48573d3753dbfbfcb101cc65fb94"
+            ],
+            "$type": "com.linkedin.voyager.dash.organization.Company"
+        },
+        {
+            "entityUrn": "urn:li:fsd_company:27623719",
+            "$recipeTypes": [
+                "com.linkedin.7fac48573d3753dbfbfcb101cc65fb94"
+            ],
+            "$type": "com.linkedin.voyager.dash.organization.Company"
+        },
+        {
+            "entityUrn": "urn:li:fsd_company:86201236",
+            "$recipeTypes": [
+                "com.linkedin.7fac48573d3753dbfbfcb101cc65fb94"
+            ],
+            "$type": "com.linkedin.voyager.dash.organization.Company"
+        }
+    ]
+}

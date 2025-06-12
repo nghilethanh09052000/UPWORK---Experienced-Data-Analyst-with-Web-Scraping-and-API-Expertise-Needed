@@ -1,0 +1,776 @@
+CONSALIA_LIMITED - Accounts
+Company registration number
+3508858
+(England and Wales)
+CONSALIA LIMITED
+UNAUDITED FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2023
+PAGES FOR FILING WITH REGISTRAR
+CONSALIA LIMITED
+CONTENTS
+Page
+Balance sheet
+1 - 2
+Notes to the financial statements
+3 - 12
+CONSALIA LIMITED
+BALANCE SHEET
+AS AT
+31 DECEMBER 2023
+31 December 2023
+- 1 -
+2023
+2022
+Notes
+£
+£
+£
+£
+Fixed assets
+Intangible assets
+4
+171,383
+136,936
+Tangible assets
+5
+12,914
+8,479
+Investments
+6
+20,001
+20,001
+204,298
+165,416
+Current assets
+Debtors
+7
+489,429
+567,151
+Cash at bank and in hand
+63,883
+47,779
+553,312
+614,930
+Creditors: amounts falling due within one year
+8
+(
+507,521
+)
+(
+474,297
+)
+Net current assets
+45,791
+140,633
+Total assets less current liabilities
+250,089
+306,049
+Creditors: amounts falling due after more than one year
+9
+(
+14,167
+)
+(
+24,167
+)
+Net assets
+235,922
+281,882
+Capital and reserves
+Called up share capital
+200,000
+200,000
+Profit and loss reserves
+35,922
+81,882
+Total equity
+235,922
+281,882
+CONSALIA LIMITED
+BALANCE SHEET (CONTINUED)
+AS AT
+31 DECEMBER 2023
+31 December 2023
+- 2 -
+The directors of the company have elected not to include a copy of the profit and loss account within the financial statements.
+true
+For the financial year ended 31 December 2023 the company was entitled to exemption from audit under section 477 of the Companies Act 2006
+relating to small companies.
+The directors acknowledge their responsibilities for complying with the requirements of the Companies Act 2006 with respect to accounting records and the preparation of financial statements.
+T
+he members have not required the company to obtain an audit of its financial statements for the year in question in accordance with section 476
+.
+These financial statements have been prepared and delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+The financial statements were approved by the board of directors and authorised for issue on
+23 July 2024
+and are signed on its behalf by:
+Philip Squire
+Director
+Company Registration No. 3508858
+CONSALIA LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2023
+- 3 -
+1
+Accounting policies
+Company information
+Consalia Limited is a
+private
+company
+limited by shares
+incorporated in
+England and Wales
+.
+The registered office is
+5a Hampton Road, Hampton Hill, Hampton, Middlesex, TW12 1JN.
+1.1
+Accounting convention
+These financial statements have been prepared in accordance with FRS 102 “The Financial Reporting Standard applicable in the UK and Republic of Ireland” (“FRS 102”) and the requirements of the Companies Act 2006 as applicable to companies subject to the small companies regime. The disclosure requirements of section 1A of FRS 102 have been applied other than where additional disclosure is required to show a true and fair view.
+The financial statements are prepared in
+sterling
+, which is the functional currency of the company.
+Monetary a
+mounts
+in these financial statements are
+rounded to the nearest £.
+The financial statements have been prepared under the historical cost convention, [modified to include the revaluation of freehold properties and to include investment properties and certain financial instruments at fair value]. The principal accounting policies adopted are set out below.
+1.2
+Turnover
+Turnover is recognised at the fair value of the consideration received or receivable for goods and services provided in the normal course of business
+, and
+is shown net of VAT and other sales related taxes
+.
+The fair value of consideration takes into account trade discounts, settlement discounts and volume rebates.
+When cash inflows are deferred and represent a financing arrangement, the fair value of the consideration is the present value of the future receipts. The difference between the fair value of the consideration and the nominal amount received is recognised as interest income.
+Revenue from contracts for the provision of professional services is recognised by reference to the stage of completion when the stage of completion, costs incurred and costs to complete can be estimated reliably. The stage of completion is calculated by comparing costs incurred, mainly in relation to contractual hourly staff rates and materials, as a proportion of total costs.
+Where the outcome cannot be estimated reliably, revenue is recognised only to the extent of the expenses recognised that
+it is probable will be
+recover
+ed
+.
+1.3
+Research and development expenditure
+Research expenditure is written off against profits in the year in which it is incurred. Identifiable development expenditure is capitalised to the extent that the technical, commercial and financial feasibility can be demonstrated
+.
+CONSALIA LIMITED
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2023
+1
+Accounting policies
+(Continued)
+- 4 -
+1.4
+Intangible fixed assets - goodwill
+Goodwill represents the excess of the cost of acquisition of unincorporated businesses over the fair value of net assets acquired. It is initially recognised as an asset at cost and is subsequently measured at cost less accumulated
+amortisation and accumulated impairment losses. Goodwill is considered to have a finite useful life and is amortised on a systematic basis over its expected life, which is 12 years.
+For the purposes of impairment testing, goodwill is allocated to the cash-generating units expected to benefit from the acquisition. Cash-generating units to which goodwill has been allocated are tested for impairment at least annually, or more frequently when there is an indication that the unit may be impaired. If the recoverable amount of the cash-generating unit is less than the carrying amount of the unit, the impairment loss is allocated first to reduce the carrying amount of any goodwill allocated to the unit and then to the other assets of the unit pro-rata on the basis of the carrying amount of each asset in the unit.
+1.5
+Intangible fixed assets other than goodwill
+Intangible assets acquired separately from a business are recognised at cost and are subsequently measured at cost less accumulated amortisation and accumulated impairment losses.
+Intangible assets acquired on business combinations are recognised separately from goodwill at the acquisition date
+where
+it is probable that the expected future economic benefits that are attributable to the asset will flow to the entity and the
+fair
+value of the asset can be measured reliably; the intangible asset arises from contractual or other legal rights; and the intangible asset is separable from the entity.
+Amortisation is recognised so as to write off the cost or valuation of assets less their residual values over their useful lives on the following bases:
+Development Costs
+10 years straight line
+1.6
+Tangible fixed assets
+Tangible fixed assets
+are initially measured at cost and subsequently measured at cost or valuation, net of depreciation and any impairment losses.
+Depreciation is recognised so as to write off the cost or valuation of assets less their residual values over their useful lives on the following bases:
+Fixtures, fittings & equipment
+25% Straight line
+Computer equipment
+25% Straight line
+The gain or loss arising on the disposal of an asset is determined as the difference between the sale proceeds and the carrying value of the asset, and
+is credited or charged to profit or loss
+.
+1.7
+Fixed asset investments
+Interests in subsidiaries, associates and jointly controlled entities are initially measured at cost and subsequently measured at cost less any accumulated impairment losses.
+The investments are assessed for impairment at each reporting date
+and
+any
+impairment
+losses or reversals of impairment losses are recognised immediately in
+profit
+or
+loss
+.
+CONSALIA LIMITED
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2023
+1
+Accounting policies
+(Continued)
+- 5 -
+A subsidiary is an entity controlled by the company
+. Control is
+the power to govern the financial and operating policies of
+the
+entity so as to obtain benefits from its activities.
+An associate is an entity, being neither a subsidiary nor a joint venture, in which the company holds a long-term interest and where the company has significant influence. The company considers that it has significant influence where it has the power to participate in the financial and operating decisions of the associate.
+Entities in which the company has a long term interest and shares control under a contractual arrangement are classified as jointly controlled entities
+.
+1.8
+Impairment of fixed assets
+At each reporting
+period
+end date, the
+company
+reviews the carrying amounts of its tangible
+and intangible assets to determine whether there is any indication that those assets have suffered an impairment loss. If any such indication exists, the recoverable amount of the asset is estimated in order to determine the extent of the impairment loss (if any). Where it is not possible to estimate the recoverable amount of an individual asset, the
+company
+estimates the recoverable amount of the cash-generating unit to which the asset belongs.
+Recoverable amount is the higher of fair value less costs to sell and value in use. In assessing value in use, the estimated future cash flows are discounted to their present value using a pre-tax discount rate that reflects current market assessments of the time value of money and the risks specific to the asset for which the estimates of future cash flows have not been adjusted.
+If the recoverable amount of an asset (or cash-generating unit) is estimated to be less than its carrying amount, the carrying amount of the asset (or cash-generating unit) is reduced to its recoverable amount. An impairment loss is recognised immediately in
+profit
+or
+loss
+, unless the relevant asset is carried at a revalued amount, in which case the impairment loss is treated as a revaluation decrease.
+Recognised impairment losses are reversed if, and only if, the reasons for the impairment loss have ceased to apply. Where an impairment loss subsequently reverses, the carrying amount of the asset (or cash-generating unit) is increased to the revised estimate of its recoverable amount, but so that the increased carrying amount does not exceed the carrying amount that would have been determined had no impairment loss been recognised for the asset (or cash-generating unit)
+in
+prior years. A reversal of an impairment loss is recognised immediately in
+profit
+or
+loss
+, unless the relevant asset is carried at a revalued amount, in which case the reversal of the impairment loss is treated as a revaluation increase.
+1.9
+Cash and cash equivalents
+Cash and cash equivalents
+are basic financial assets
+and
+include cash in hand, deposits held at call with banks, other short-term liquid investments with original maturities of three months or less, and bank overdrafts. Bank overdrafts are shown within borrowings in current liabilities.
+CONSALIA LIMITED
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2023
+1
+Accounting policies
+(Continued)
+- 6 -
+1.10
+Financial instruments
+The company has elected to apply the provisions of Section 11 ‘Basic Financial Instruments’ and Section 12 ‘Other Financial Instruments Issues’ of FRS 102 to all of its financial instruments.
+Financial instruments are recognised in the company's balance sheet when the company becomes party to the contractual provisions of the instrument.
+Financial assets and liabilities are offset
+, with
+the net amounts presented in the financial statements
+,
+when there is a legally enforceable right to set off the recognised amounts and there is an intention to settle on a net basis or to realise the asset and settle the liability simultaneously.
+Basic financial assets
+Basic financial assets, which include
+debtors
+and cash and bank balances, are initially measured at transaction price including transaction costs and are subsequently carried at amortised cost using the effective interest
+method unless the arrangement constitutes a financing transaction, where the transaction is measured at the present value of the future receipts discounted at a market rate of interest.
+Financial assets classified as receivable within one year are not amortised.
+Trade debtors
+, loans and other receivables that have fixed or determinable payments that are not quoted in an active market are classified as 'loans and receivables'. Loans and receivables are measured at amortised cost using the effective interest method, less any impairment.
+Interest is recognised by applying the effective interest rate, except for short-term receivables when the recognition of interest would be immaterial.
+The effective interest method is a method of calculating the amortised cost of a debt instrument and of allocating the interest income over the relevant period. The effective interest rate is the rate that exactly discounts estimated future cash receipts through the expected life of the debt instrument to the net carrying amount on initial recognition.
+Classification of financial liabilities
+Financial liabilities and equity instruments are classified according to the substance of the contractual arrangements entered into. An equity instrument is any contract that evidences a residual interest in the assets of the company after deducting all of its liabilities.
+Basic financial liabilities
+Basic financial liabilities, including
+creditors
+, bank loans, loans from
+fellow group companies and preference shares that are classified as debt, are
+initially recognised at transaction price unless the arrangement constitutes a
+financing transaction, where the debt instrument is measured at the present value of
+the future
+paymen
+ts discounted at a market rate of interest.
+Financial liabilities classified as payable within one year are not amortised.
+Debt instruments are subsequently carried at amortised cost, using the effective
+interest rate method.
+Trade creditors
+are obligations to pay for goods or services that have been acquired
+in the ordinary course of business from suppliers. A
+m
+ounts payable are classified as
+current liabilities if payment is due within one year or less. If not, they are presented
+as non-current liabilities.
+Trade creditors
+are recognised initially at transaction price
+and subsequently measured at amortised cost using the effective interest method.
+CONSALIA LIMITED
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2023
+1
+Accounting policies
+(Continued)
+- 7 -
+Financial liabilities and equity instruments are classified according to the substance of the contractual arrangements entered into. An equity instrument is any contract that evidences a residual interest in the assets of the company after deducting all of its liabilities.
+1.11
+Equity instruments
+Equity instruments issued by the company are recorded at the proceeds received, net of transaction costs. Dividends payable on equity instruments are recognised as liabilities once they are no longer at the discretion of the company.
+1.12
+Derivatives
+Derivatives are initially recognised at fair value at the date a derivative contract is entered into and are subsequently remeasured to fair value at each reporting end date. The resulting gain or loss is recognised in
+profit
+or
+loss
+immediately unless the derivative is designated and effective as a hedging instrument, in which event the timing of the recognition in
+profit
+or
+loss
+depends on the nature of the hedge relationship.
+A derivative with a positive fair value is recognised as a financial asset, whereas a derivative with a negative fair value is recognised as a financial liability.
+1.13
+Taxation
+The tax expense represents the sum of the tax currently payable and deferred tax.
+Current tax
+The tax currently payable is based on taxable profit for the year. Taxable profit differs from net profit as reported in the
+profit and loss account
+because it excludes items of income or expense that are taxable or deductible in other years and it further excludes items that are never taxable or deductible. The
+company’s
+liability for current tax is calculated using tax rates that have been enacted or substantively enacted by the reporting end date.
+Deferred tax
+Deferred tax liabilities are generally recognised for all timing differences and deferred tax assets are recognised to the extent that it is probable that they will be recovered against the reversal of deferred tax liabilities or other future taxable profits. Such assets and liabilities are not recognised if the timing difference arises from goodwill or from the initial recognition of other assets and liabilities in a transaction that affects neither the tax profit nor the accounting profit.
+The carrying amount of deferred tax assets is reviewed at each reporting end date and reduced to the extent that it is no longer probable that sufficient taxable profits will be available to allow all or part of the asset to be recovered. Deferred tax is calculated at the tax rates that are expected to apply in the period when the liability is settled or the asset is realised. Deferred tax is charged or credited in the
+profit and loss account
+, except when it relates to items charged or credited directly to equity, in which case the deferred tax is also dealt with in equity. Deferred tax assets and liabilities are offset when the
+company
+has a legally enforceable right to offset current tax assets and liabilities and the deferred tax assets and liabilities relate to taxes levied by the same tax authority.
+CONSALIA LIMITED
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2023
+1
+Accounting policies
+(Continued)
+- 8 -
+1.14
+Employee benefits
+The costs of short-term employee benefits are recognised as a liability and an expense, unless those costs are required to be recognised as part of the cost of stock or
+fixed assets
+.
+The cost of any unused holiday entitlement is recognised in the period in which the employee’s services are received.
+Termination benefits are recognised immediately as an expense when the company is demonstrably committed to terminate the employment of an employee or to provide termination benefits.
+1.15
+Retirement benefits
+Payments to defined contribution retirement benefit schemes are charged as an expense as they fall due.
+1.16
+Leases
+Rentals payable under operating leases,
+including
+any lease incentives received, are charged to
+profit or loss
+on a straight line basis over the term of the relevant lease except where another more systematic basis is more representative of the time pattern in which economic benefits from the lease
+s
+asset are consumed.
+1.17
+Foreign exchange
+Transactions in currencies other than
+pounds sterling
+are recorded at the rates of exchange prevailing at the dates of the transactions. At each reporting end date, monetary assets and liabilities that are denominated in foreign currencies are retranslated at the rates prevailing on the reporting end date. Gains and losses arising on translation
+in the period
+are included in profit or loss.
+2
+Judgements and key sources of estimation uncertainty
+In the application of the company’s accounting policies, the directors are required to make judgements, estimates and assumptions about the carrying amount of assets and liabilities that are not readily apparent from other sources. The estimates and associated assumptions are based on historical experience and other factors that are considered to be relevant. Actual results may differ from these estimates.
+The estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to accounting estimates are recognised in the period in which the estimate is revised where the revision affects only that period, or in the period of the revision and future periods where the revision affects both current and future periods.
+CONSALIA LIMITED
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2023
+- 9 -
+3
+Employees
+The average monthly number of persons (including directors) employed by the company during the year was:
+2023
+2022
+Number
+Number
+Total
+15
+15
+4
+Intangible fixed assets
+Goodwill
+Development Costs
+Total
+£
+£
+£
+Cost
+At 1 January 2023
+80,000
+212,113
+292,113
+Additions
+-
+0
+55,658
+55,658
+At 31 December 2023
+80,000
+267,771
+347,771
+Amortisation and impairment
+At 1 January 2023
+80,000
+75,177
+155,177
+Amortisation charged for the year
+-
+0
+21,211
+21,211
+At 31 December 2023
+80,000
+96,388
+176,388
+Carrying amount
+At 31 December 2023
+-
+0
+171,383
+171,383
+At 31 December 2022
+-
+0
+136,936
+136,936
+CONSALIA LIMITED
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2023
+- 10 -
+5
+Tangible fixed assets
+Fixtures, fittings & equipment
+Computer equipment
+Total
+£
+£
+£
+Cost
+At 1 January 2023
+38,984
+7,361
+46,345
+Additions
+1,195
+7,635
+8,830
+At 31 December 2023
+40,179
+14,996
+55,175
+Depreciation and impairment
+At 1 January 2023
+36,234
+1,632
+37,866
+Depreciation charged in the year
+1,846
+2,549
+4,395
+At 31 December 2023
+38,080
+4,181
+42,261
+Carrying amount
+At 31 December 2023
+2,099
+10,815
+12,914
+At 31 December 2022
+2,750
+5,729
+8,479
+6
+Fixed asset investments
+2023
+2022
+£
+£
+Shares in group undertakings and participating interests
+1
+1
+Other investments other than loans
+20,000
+20,000
+20,001
+20,001
+7
+Debtors
+2023
+2022
+Amounts falling due within one year:
+£
+£
+Trade debtors
+150,308
+136,588
+Corporation tax recoverable
+440
+440
+Other debtors
+91,670
+105,694
+Prepayments and accrued income
+247,011
+324,429
+489,429
+567,151
+CONSALIA LIMITED
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2023
+- 11 -
+8
+Creditors: amounts falling due within one year
+2023
+2022
+£
+£
+Bank loans
+10,000
+10,000
+Trade creditors
+53,977
+120,119
+Corporation tax
+440
+440
+Other taxation and social security
+23,386
+16,663
+Other creditors
+14,242
+12,474
+Accruals and deferred income
+405,476
+314,601
+507,521
+474,297
+9
+Creditors: amounts falling due after more than one year
+2023
+2022
+£
+£
+Bank loans and overdrafts
+14,167
+24,167
+CONSALIA LIMITED
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2023
+- 12 -
+10
+Related party transactions
+P Squire is a director and major shareholder of ITC Network Limited, ITC Network Limited own 25% of
+the issued share capital of the company and have charged £
+135,291
+(202
+2
+:
+£1
+39,707
+).
+P Squire has an interest in ITCN Pension Fund, rent of £
+36,000
+(202
+2
+:
+£3
+6
+,000) was paid to the Pension
+Fund.
+As at 31 December 202
+3 £90,019
+(202
+2
+: £
+90,019
+)
+was owed by Consalia Asia Pacific Pte Ltd, a
+company registered in Singapore, the director Mr P Squires is a director of this company.
+11
+Operating lease commitments
+Lessee
+At the reporting end date the company had outstanding commitments for future minimum lease payments under non-cancellable operating leases, as follows:
+2023
+2022
+£
+£
+36,000
+36,000
+12
+Control
+The control of the company is by its directors.
+2023-12-31
+2023-01-01
+false
+23 July 2024
+CCH Software
+CCH Accounts Production 2024.100
+No description of principal activity
+Philip Squire
+Maria Fuentes
+Louise Sutton
+Phillip Squire
+false
+false
+3508858
+2023-01-01
+2023-12-31
+3508858
+2023-12-31
+3508858
+core:OtherResidualIntangibleAssets
+2023-12-31
+3508858
+core:OtherResidualIntangibleAssets
+2022-12-31
+3508858
+core:Goodwill
+2023-12-31
+3508858
+core:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2023-12-31
+3508858
+core:Goodwill
+2022-12-31
+3508858
+core:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2022-12-31
+3508858
+2022-12-31
+3508858
+core:FurnitureFittings
+2023-12-31
+3508858
+core:ComputerEquipment
+2023-12-31
+3508858
+core:FurnitureFittings
+2022-12-31
+3508858
+core:ComputerEquipment
+2022-12-31
+3508858
+core:CurrentFinancialInstruments
+core:WithinOneYear
+2023-12-31
+3508858
+core:CurrentFinancialInstruments
+core:WithinOneYear
+2022-12-31
+3508858
+core:CurrentFinancialInstruments
+2023-12-31
+3508858
+core:CurrentFinancialInstruments
+2022-12-31
+3508858
+core:Non-currentFinancialInstruments
+2023-12-31
+3508858
+core:Non-currentFinancialInstruments
+2022-12-31
+3508858
+core:ShareCapital
+2023-12-31
+3508858
+core:ShareCapital
+2022-12-31
+3508858
+core:RetainedEarningsAccumulatedLosses
+2023-12-31
+3508858
+core:RetainedEarningsAccumulatedLosses
+2022-12-31
+3508858
+bus:ChiefExecutive
+2023-01-01
+2023-12-31
+3508858
+core:Goodwill
+2023-01-01
+2023-12-31
+3508858
+core:IntangibleAssetsOtherThanGoodwill
+2023-01-01
+2023-12-31
+3508858
+core:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2023-01-01
+2023-12-31
+3508858
+core:FurnitureFittings
+2023-01-01
+2023-12-31
+3508858
+core:ComputerEquipment
+2023-01-01
+2023-12-31
+3508858
+2022-01-01
+2022-12-31
+3508858
+core:Goodwill
+2022-12-31
+3508858
+core:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2022-12-31
+3508858
+2022-12-31
+3508858
+core:Goodwill
+core:ExternallyAcquiredIntangibleAssets
+2023-01-01
+2023-12-31
+3508858
+core:DevelopmentCostsCapitalisedDevelopmentExpenditure
+core:ExternallyAcquiredIntangibleAssets
+2023-01-01
+2023-12-31
+3508858
+core:ExternallyAcquiredIntangibleAssets
+2023-01-01
+2023-12-31
+3508858
+core:FurnitureFittings
+2022-12-31
+3508858
+core:ComputerEquipment
+2022-12-31
+3508858
+bus:PrivateLimitedCompanyLtd
+2023-01-01
+2023-12-31
+3508858
+bus:SmallCompaniesRegimeForAccounts
+2023-01-01
+2023-12-31
+3508858
+bus:FRS102
+2023-01-01
+2023-12-31
+3508858
+bus:AuditExemptWithAccountantsReport
+2023-01-01
+2023-12-31
+3508858
+bus:Director1
+2023-01-01
+2023-12-31
+3508858
+bus:Director2
+2023-01-01
+2023-12-31
+3508858
+bus:Director3
+2023-01-01
+2023-12-31
+3508858
+bus:CompanySecretary1
+2023-01-01
+2023-12-31
+3508858
+bus:FullAccounts
+2023-01-01
+2023-12-31
+xbrli:pure
+xbrli:shares
+iso4217:GBP

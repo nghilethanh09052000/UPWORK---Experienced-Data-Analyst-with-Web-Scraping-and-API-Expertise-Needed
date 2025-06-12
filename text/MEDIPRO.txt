@@ -1,0 +1,814 @@
+Medipro Limited - Accounts to registrar (filleted) - small 23.2.5
+IRIS Accounts Production
+v24.1.0.578
+06615520
+Board of Directors
+1.1.23
+31.12.23
+31.12.23
+false
+true
+false
+false
+true
+false
+120513
+3331
+160634
+117182
+120513
+160634
+120513
+iso4217:GBP
+iso4217:USD
+iso4217:EUR
+xbrli:shares
+xbrli:pure
+utr:tonnes
+utr:kWh
+06615520
+2022-12-31
+06615520
+2023-12-31
+06615520
+2023-01-01
+2023-12-31
+06615520
+2021-12-31
+06615520
+2022-01-01
+2022-12-31
+06615520
+2022-12-31
+06615520
+ns15:EnglandWales
+2023-01-01
+2023-12-31
+06615520
+ns14:PoundSterling
+2023-01-01
+2023-12-31
+06615520
+ns10:Director1
+2023-01-01
+2023-12-31
+06615520
+ns10:PrivateLimitedCompanyLtd
+2023-01-01
+2023-12-31
+06615520
+ns10:SmallEntities
+2023-01-01
+2023-12-31
+06615520
+ns10:AuditExemptWithAccountantsReport
+2023-01-01
+2023-12-31
+06615520
+ns10:SmallCompaniesRegimeForDirectorsReport
+2023-01-01
+2023-12-31
+06615520
+ns10:SmallCompaniesRegimeForAccounts
+2023-01-01
+2023-12-31
+06615520
+ns10:FullAccounts
+2023-01-01
+2023-12-31
+06615520
+42
+ns10:Director2
+2022-12-31
+06615520
+42
+ns10:Director2
+2021-12-31
+06615520
+42
+ns10:Director2
+2023-01-01
+2023-12-31
+06615520
+42
+ns10:Director2
+2022-01-01
+2022-12-31
+06615520
+42
+ns10:Director2
+2023-12-31
+06615520
+42
+ns10:Director2
+2022-12-31
+06615520
+ns10:Director2
+2023-01-01
+2023-12-31
+06615520
+ns10:RegisteredOffice
+2023-01-01
+2023-12-31
+06615520
+ns5:CurrentFinancialInstruments
+2023-12-31
+06615520
+ns5:CurrentFinancialInstruments
+2022-12-31
+06615520
+ns5:Non-currentFinancialInstruments
+2023-12-31
+06615520
+ns5:Non-currentFinancialInstruments
+2022-12-31
+06615520
+ns5:ShareCapital
+2023-12-31
+06615520
+ns5:ShareCapital
+2022-12-31
+06615520
+ns5:RetainedEarningsAccumulatedLosses
+2023-12-31
+06615520
+ns5:RetainedEarningsAccumulatedLosses
+2022-12-31
+06615520
+ns5:FurnitureFittings
+2023-01-01
+2023-12-31
+06615520
+ns5:MotorVehicles
+2023-01-01
+2023-12-31
+06615520
+ns5:ComputerEquipment
+2023-01-01
+2023-12-31
+06615520
+ns5:LongLeaseholdAssets
+ns5:LandBuildings
+2022-12-31
+06615520
+ns5:PlantMachinery
+2022-12-31
+06615520
+ns5:FurnitureFittings
+2022-12-31
+06615520
+ns5:LongLeaseholdAssets
+ns5:LandBuildings
+2023-01-01
+2023-12-31
+06615520
+ns5:PlantMachinery
+2023-01-01
+2023-12-31
+06615520
+ns5:LongLeaseholdAssets
+ns5:LandBuildings
+2023-12-31
+06615520
+ns5:PlantMachinery
+2023-12-31
+06615520
+ns5:FurnitureFittings
+2023-12-31
+06615520
+ns5:LongLeaseholdAssets
+ns5:LandBuildings
+2022-12-31
+06615520
+ns5:PlantMachinery
+2022-12-31
+06615520
+ns5:FurnitureFittings
+2022-12-31
+06615520
+ns5:MotorVehicles
+2022-12-31
+06615520
+ns5:ComputerEquipment
+2022-12-31
+06615520
+ns5:MotorVehicles
+2023-12-31
+06615520
+ns5:ComputerEquipment
+2023-12-31
+06615520
+ns5:MotorVehicles
+2022-12-31
+06615520
+ns5:ComputerEquipment
+2022-12-31
+06615520
+ns5:CostValuation
+2022-12-31
+06615520
+ns5:CurrentFinancialInstruments
+ns5:WithinOneYear
+2023-12-31
+06615520
+ns5:CurrentFinancialInstruments
+ns5:WithinOneYear
+2022-12-31
+06615520
+ns5:Secured
+2023-12-31
+06615520
+ns5:Secured
+2022-12-31
+06615520
+1
+ns10:Director1
+2022-12-31
+06615520
+1
+ns10:Director1
+2021-12-31
+06615520
+1
+ns10:Director1
+2023-01-01
+2023-12-31
+06615520
+1
+ns10:Director1
+2022-01-01
+2022-12-31
+06615520
+1
+ns10:Director1
+2023-12-31
+06615520
+1
+ns10:Director1
+2022-12-31
+REGISTERED NUMBER:
+06615520
+(England and Wales)
+Unaudited Financial Statements for the Year Ended 31 December 2023
+for
+Medipro Limited
+Medipro Limited (Registered number: 06615520)
+Contents of the Financial Statements
+for the Year Ended 31 December 2023
+Page
+Company Information
+1
+Chartered Accountants' Report
+2
+Balance Sheet
+3
+Notes to the Financial Statements
+5
+Medipro Limited
+Company Information
+for the Year Ended 31 December 2023
+DIRECTORS:
+B English
+K Wharton
+REGISTERED OFFICE:
+Faraday House
+Sopwith Close
+Stockton on Tees
+TS18 3TT
+REGISTERED NUMBER:
+06615520
+(England and Wales)
+ACCOUNTANTS:
+Peter Weldon & Co. Ltd
+87 Station Road
+Ashington
+Northumberland
+NE63 8RS
+Page 1
+Chartered Accountants' Report to the Board of Directors
+on the Unaudited Financial Statements of
+Medipro Limited
+The following reproduces the text of the report prepared for the directors in respect of the company's annual
+unaudited financial statements. In accordance with the Companies Act 2006, the company is only required to
+file a Balance Sheet. Readers are cautioned that the Income Statement and certain other primary statements
+and the Report of the Directors are not required to be filed with the Registrar of Companies.
+In order to assist you to fulfil your duties under the Companies Act 2006, we have prepared for your approval the
+financial statements of Medipro Limited for the year ended 31 December 2023 which comprise the Income Statement,
+Balance Sheet and the related notes from the company's accounting records and from information and explanations you
+have given us.
+As a practising member firm of the Institute of Chartered Accountants in England and Wales (ICAEW), we are subject to its ethical and other professional requirements which are detailed within the ICAEW's regulations and guidance at http://www.icaew.com/en/membership/regulations-standards-and-guidance.
+This report is made solely to the Board of Directors of Medipro Limited, as a body, in accordance with our terms of engagement. Our work has been undertaken solely to prepare for your approval the financial statements of Medipro Limited and state those matters that we have agreed to state to the Board of Directors of Medipro Limited, as a body, in this report in accordance with ICAEW Technical Release 07/16AAF. To the fullest extent permitted by law, we do not accept or assume responsibility to anyone other than Medipro Limited and its Board of Directors, as a body, for our work or for this report.
+It is your duty to ensure that Medipro Limited has kept adequate accounting records and to prepare statutory financial statements that give a true and fair view of the assets, liabilities, financial position and profit of Medipro Limited. You consider that Medipro Limited is exempt from the statutory audit requirement for the year.
+We have not been instructed to carry out an audit or a review of the financial statements of Medipro Limited. For this reason, we have not verified the accuracy or completeness of the accounting records or information and explanations you have given to us and we do not, therefore, express any opinion on the statutory financial statements.
+Peter Weldon & Co. Ltd
+87 Station Road
+Ashington
+Northumberland
+NE63 8RS
+16 April 2024
+This page does not form part of the statutory financial statements
+Page 2
+Medipro Limited (Registered number: 06615520)
+Balance Sheet
+31 December 2023
+2023
+2022
+Notes
+£
+£
+£
+£
+FIXED ASSETS
+Tangible assets
+4
+485,711
+653,431
+Investments
+5
+650,000
+650,000
+1,135,711
+1,303,431
+CURRENT ASSETS
+Stocks
+6
+5,250
+5,250
+Debtors
+7
+1,436,578
+1,116,877
+Cash at bank and in hand
+290,631
+796,146
+1,732,459
+1,918,273
+CREDITORS
+Amounts falling due within one year
+8
+1,389,165
+1,412,920
+NET CURRENT ASSETS
+343,294
+505,353
+TOTAL ASSETS LESS CURRENT
+LIABILITIES
+1,479,005
+1,808,784
+CREDITORS
+Amounts falling due after more than one
+year
+9
+(
+42,995
+)
+(
+73,105
+)
+PROVISIONS FOR LIABILITIES
+(
+80,960
+)
+(
+121,588
+)
+NET ASSETS
+1,355,050
+1,614,091
+The notes form part of these financial statements
+Page 3
+continued...
+Medipro Limited (Registered number: 06615520)
+Balance Sheet - continued
+31 December 2023
+2023
+2022
+Notes
+£
+£
+£
+£
+CAPITAL AND RESERVES
+Called up share capital
+100
+100
+Retained earnings
+1,354,950
+1,613,991
+SHAREHOLDERS' FUNDS
+1,355,050
+1,614,091
+The company is entitled to exemption from audit under Section 477 of the Companies Act 2006 for the year ended 31 December 2023.
+The members have not required the company to obtain an audit of its financial statements for the year ended 31 December 2023 in accordance with Section 476 of the Companies Act 2006.
+The directors acknowledge their responsibilities for:
+(a)
+ensuring that the company keeps accounting records which comply with Sections 386 and 387 of the Companies
+Act 2006 and
+(b)
+preparing financial statements which give a true and fair view of the state of affairs of the company as at the end
+of each financial year and of its profit or loss for each financial year in accordance with the requirements of
+Sections 394 and 395 and which otherwise comply with the requirements of the Companies Act 2006 relating to
+financial statements, so far as applicable to the company.
+The financial statements have been prepared and delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+In accordance with Section 444 of the Companies Act 2006, the Income Statement has not been delivered.
+The financial statements were approved by the Board of Directors and authorised for issue on
+16 April 2024
+and were
+signed on its behalf by:
+B English
+- Director
+The notes form part of these financial statements
+Page 4
+Medipro Limited (Registered number: 06615520)
+Notes to the Financial Statements
+for the Year Ended 31 December 2023
+1.
+STATUTORY INFORMATION
+Medipro Limited is a
+private company, limited by shares
+, registered in England and Wales. The company's
+registered number and registered office address can be found on the Company Information page.
+The financial statements are prepared in sterling, which is the functional currency of the entity and are rounded
+to the nearest pound (£).
+2.
+ACCOUNTING POLICIES
+Basis of preparing the financial statements
+These financial statements have been prepared in accordance with Financial Reporting Standard 102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland" including the provisions of Section 1A "Small Entities" and the Companies Act 2006. The financial statements have been prepared under the historical cost convention.
+Turnover
+Turnover is measured at the fair value of the consideration received or receivable, excluding discounts, rebates,
+value added tax and other sales taxes.
+Revenue is recognised in the period in which the services are provided in accordance with the stage of
+completion of the training course being held.
+Tangible fixed assets
+Depreciation is provided at the following annual rates in order to write off each asset over its estimated useful life.
+Fixtures and fittings
+-
+25% on reducing balance per annum
+Motor vehicles
+-
+25% on reducing balance per annum
+Computer equipment
+-
+25% on reducing balance per annum
+Tangible assets held for the companies own use are stated at cost less accumulated depreciation and
+accumulated impairment losses.
+At each balance sheet date, the company reviews the carrying amount of its tangible fixed assets to determine
+whether there is any indication that any items have suffered an impairment loss. If any such indication exists,
+the recoverable amount of an asset is estimated in order to determine the extent of the impairment loss, if any.
+Stocks
+Stocks are valued at the lower of cost and net realisable value, after making due allowance for obsolete and
+slow moving items.
+Taxation
+Taxation for the year comprises current and deferred tax. Tax is recognised in the Income Statement, except to
+the extent that it relates to items recognised in other comprehensive income or directly in equity.
+Current or deferred taxation assets and liabilities are not discounted.
+Current tax is recognised at the amount of tax payable using the tax rates and laws that have been enacted or
+substantively enacted by the balance sheet date.
+Page 5
+continued...
+Medipro Limited (Registered number: 06615520)
+Notes to the Financial Statements - continued
+for the Year Ended 31 December 2023
+2.
+ACCOUNTING POLICIES - continued
+Deferred tax
+Deferred tax is recognised in respect of all timing differences that have originated but not reversed at the
+balance sheet date.
+Timing differences arise from the inclusion of income and expenses in tax assessments in periods different
+from those in which they are recognised in financial statements. Deferred tax is measured using tax rates and
+laws that have been enacted or substantively enacted by the year end and that are expected to apply to the
+reversal of the timing difference.
+Unrelieved tax losses and other deferred tax assets are recognised only to the extent that it is probable that they
+will be recovered against the reversal of deferred tax liabilities or other future taxable profits.
+Hire purchase and leasing commitments
+Rentals paid under operating leases are charged to profit or loss on a straight line basis over the period of the
+lease.
+Assets obtained under hire purchase contracts or finance leases are capitalised in the Balance Sheet. Those held
+under hire purchase contracts are depreciated over their estimated useful lives. Those held under finance leases
+are depreciated over their estimated useful lives or the lease term, whichever is the shorter.
+The interest element of these obligations is charged to profit and loss over the relevant period. The capital
+element of the future payments is treated as a liability.
+Assets held under finance leases and hire purchase contracts are recognised in the balance sheet as assets and
+liabilities at the lower of the fair value of the assets and the present value of the minimum lease payments,
+which is determined at the inception of the lease term. Any initial direct costs of the lease are added to the
+amount recognised as an asset.
+Lease payments are apportioned between the finance charges and reduction of the outstanding lease liability
+using the effective interest method. Finance charges are allocated to each period so as to produce a constant rate
+of interest on the remaining balance of the liability.
+Pension costs and other post-retirement benefits
+The company operates a defined contribution pension scheme. Contributions payable to the company's pension
+scheme are charged to profit and loss in the period to which they relate.
+Trade and other debtors
+Trade and other debtors that are receivable within one year and do not constitute a financing transaction are
+recorded at the undiscounted amount expected to be received, net of impairment. Those that are receivable after
+more than one year or constitute a financing transaction are recorded initially at fair value less transaction costs
+and subsequently amortised cost, net of impairment.
+Trade and other creditors
+Trade and other creditors are initially recognised at the transaction price and are thereafter stated at amortised
+costs using the effective interest method unless the effect of discounting would be immaterial, in which case
+they are stated at cost.
+Page 6
+continued...
+Medipro Limited (Registered number: 06615520)
+Notes to the Financial Statements - continued
+for the Year Ended 31 December 2023
+3.
+EMPLOYEES AND DIRECTORS
+The average number of employees during the year was
+40
+(2022 -
+37
+) .
+4.
+TANGIBLE FIXED ASSETS
+Fixtures
+Long
+Plant and
+and
+leasehold
+machinery
+fittings
+£
+£
+£
+COST
+At 1 January 2023
+92,494
+-
+282,002
+Additions
+-
+17,667
+13,835
+Disposals
+-
+-
+(
+100,300
+)
+Reclassification/transfer
+-
+364,268
+(
+91,166
+)
+At 31 December 2023
+92,494
+381,935
+104,371
+DEPRECIATION
+At 1 January 2023
+486
+-
+144,927
+Charge for year
+1,136
+71,319
+23,568
+Eliminated on disposal
+-
+-
+(
+88,279
+)
+Reclassification/transfer
+-
+89,297
+(
+49,946
+)
+At 31 December 2023
+1,622
+160,616
+30,270
+NET BOOK VALUE
+At 31 December 2023
+90,872
+221,319
+74,101
+At 31 December 2022
+92,008
+-
+137,075
+Page 7
+continued...
+Medipro Limited (Registered number: 06615520)
+Notes to the Financial Statements - continued
+for the Year Ended 31 December 2023
+4.
+TANGIBLE FIXED ASSETS - continued
+Motor
+Computer
+vehicles
+equipment
+Totals
+£
+£
+£
+COST
+At 1 January 2023
+165,809
+453,403
+993,708
+Additions
+-
+4,620
+36,122
+Disposals
+(
+3,330
+)
+(
+86,342
+)
+(
+189,972
+)
+Reclassification/transfer
+-
+(
+273,102
+)
+-
+At 31 December 2023
+162,479
+98,579
+839,858
+DEPRECIATION
+At 1 January 2023
+64,862
+130,002
+340,277
+Charge for year
+40,559
+12,594
+149,176
+Eliminated on disposal
+(
+963
+)
+(
+46,064
+)
+(
+135,306
+)
+Reclassification/transfer
+-
+(
+39,351
+)
+-
+At 31 December 2023
+104,458
+57,181
+354,147
+NET BOOK VALUE
+At 31 December 2023
+58,021
+41,398
+485,711
+At 31 December 2022
+100,947
+323,401
+653,431
+5.
+FIXED ASSET INVESTMENTS
+Other
+investments
+£
+COST
+At 1 January 2023
+and 31 December 2023
+650,000
+NET BOOK VALUE
+At 31 December 2023
+650,000
+At 31 December 2022
+650,000
+6.
+STOCKS
+2023
+2022
+£
+£
+Stocks
+5,250
+5,250
+Page 8
+continued...
+Medipro Limited (Registered number: 06615520)
+Notes to the Financial Statements - continued
+for the Year Ended 31 December 2023
+7.
+DEBTORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+2023
+2022
+£
+£
+Trade debtors
+882,258
+202,746
+Other Debtors
+226,649
+218,126
+Directors' current accounts
+160,634
+120,513
+Social security and other tax
+3,493
+3,493
+Prepayments and accrued income
+163,544
+571,999
+1,436,578
+1,116,877
+8.
+CREDITORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+2023
+2022
+£
+£
+Bank loans and overdrafts
+10,441
+9,870
+Hire purchase contracts
+19,538
+19,538
+Trade creditors
+619,957
+773,382
+Amounts owed to associates
+12,204
+23,174
+Taxation and social security
+325,182
+350,844
+Other creditors
+401,843
+236,112
+1,389,165
+1,412,920
+9.
+CREDITORS: AMOUNTS FALLING DUE AFTER MORE THAN ONE
+YEAR
+2023
+2022
+£
+£
+Bank loans
+14,561
+25,132
+Hire purchase contracts
+28,434
+47,973
+42,995
+73,105
+10.
+SECURED DEBTS
+The following secured debts are included within creditors:
+2023
+2022
+£
+£
+Bank loans
+25,002
+35,002
+The bank loan and overdraft are secured by a fixed charge over the company's assets.
+Page 9
+continued...
+Medipro Limited (Registered number: 06615520)
+Notes to the Financial Statements - continued
+for the Year Ended 31 December 2023
+11.
+DIRECTORS' ADVANCES, CREDITS AND GUARANTEES
+The following advances and credits to directors subsisted during the years ended 31 December 2023 and
+31 December 2022:
+2023
+2022
+£
+£
+B English
+and
+K Wharton
+Balance outstanding at start of year
+120,513
+3,331
+Amounts advanced
+160,634
+117,182
+Amounts repaid
+(
+120,513
+)
+-
+Amounts written off
+-
+-
+Amounts waived
+-
+-
+Balance outstanding at end of year
+160,634
+120,513
+Page 10

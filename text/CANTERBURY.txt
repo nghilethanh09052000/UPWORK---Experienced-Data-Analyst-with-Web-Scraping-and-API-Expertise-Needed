@@ -1,0 +1,4062 @@
+Company no: 04793659
+Charity no: 1098136
+
+Canterbury
+Christ Church
+University
+
+Annual Report and Consolidated Financial
+| Statements
+
+For the year ended 31 July 2024
+
+*ADH5Z481*
+
+A0Q 03/12/2024 #287
+COMPANIES HOUSE
+
+TUESDAY
+
+CONTENTS
+
+Directors and Advisers
+
+Vice Chancellor's Introduction
+The Strategic Report
+
+Public Benefit Statement
+
+Statement of Primary Responsibilities of the University’s
+Governing Body
+
+Statement of Corporate Governance
+
+Modern Slavery and Human Trafficking
+
+Statement of Internal Control
+
+Independent Auditor's Report to the Governing Body
+Statement of Principal Accounting Policies
+
+Consolidated and University Statement of Comprehensive
+Income and Expenditure for the year ended 31st July 2024
+
+Consolidated Statement of Changes in Reserves for year
+ended 31st July 2024
+
+Consolidated and University Statement of Financial Position
+as at 31st July 2024
+
+Consolidated Cash Flow Statement for the year ended 31st
+July 2024 ;
+
+Notes to the Financial Statements
+
+Page
+
+21
+
+24
+
+28
+32
+34
+36
+41
+
+48
+
+49
+
+50
+
+51
+
+52
+
+DIRECTORS AND ADVISERS
+
+Directors in place for the year to 31 July 2024 and up to the date of signing the
+
+financial statements:
+
+Ms N Ahmed
+
+Ms S Appleby
+
+Ms J Armitt (Pro-Chancellor)
+
+Revd Dr J Arnold (from 1 August 2024)
+Mr S Carey (resigned 31 July 2024)
+Professor A G Dewhurst
+
+Dr A Eyden
+
+Dr K Fox (resigned 31 July 2024)
+
+Right Revd R Hudson-Wilkin
+
+Mrs P Jones
+
+Miss A Lundy (resigned 9 February 2024)
+Lady A Newey
+
+Dr R Rogers (from 1 August 2024)
+
+Mr C Stevens
+
+Revd R Stevenson
+
+Mr J Stockwell
+
+Mr A Ghega (Student Union President appointed = Professor R Thirunamachandran (Vice-
+
+27 September 2024)
+Ms J Harding
+Mr R Higgins
+
+Clerk to the Governing Body and
+University Solicitor
+Ms A Sear
+
+Independent Auditor
+Forvis Mazars
+Statutory Auditor
+
+6 Sutton Plaza,
+Sutton Court Road,
+Sutton,
+
+Surrey SM1 4FS
+
+Registered office — Parent and
+Subsidiary
+
+Canterbury Christ Church University
+C/O Governance and Legal Services
+Dept.
+
+Anselm
+
+North Holmes Road
+
+Canterbury
+
+Kent
+
+CT1 1QU
+
+Registered company number
+04793659 registered in England and
+Wales
+
+Registered charity number
+1098136
+
+Chancellor and Principal)
+Professor J Wood
+
+Internal Auditor
+KPMG LLP
+
+415 Canada Square
+Canary Wharf
+London
+
+E14 5GL
+
+Principal Bankers
+Lloyds Bank PLC
+2 City Place
+Beehive Ring Road
+Gatwick
+
+West Sussex
+
+RH6 OPA
+
+National Westminster Bank PLC
+9th Floor
+
+250 Bishopsgate
+
+London
+
+EC2M 4AA
+
+VICE CHANCELLOR’S INTRODUCTION
+
+| am pleased to introduce the financial statements for Canterbury Christ Church University for the
+academic year 2023/2024. These statements include the statutory reports that set out the financial
+performance of the University. They also provide an opportunity for us to reflect on the achievements
+and challenges over the same period.
+
+The external context for higher education remains challenging. Despite this, the University remains
+committed to the ambitions set out in Vision 2030. As can be seen from these Financial Statements,
+we are in a relatively strong financial position. The careful stewardship of the budget has enabled us
+to deliver an operating surplus of £3.6m.
+
+Our focus remains on our core objectives of education and the student experience, and research and
+enterprise. There have been many successes in these areas. We now have over 37,000 students
+across three different campuses and studying with key collaborative partners in the UK and overseas.
+Diversifying our offer to students from across the globe has continued to be a key success and
+supported our financial sustainability.
+
+We have broadened our course offering and we continue to meet the emerging needs of the region,
+supplying the workforce with a talented pipeline of graduates in health, education, arts and humanities,
+social sciences and law, as well as newer areas such as engineering, medicine and digital arts. The
+employability record of our students places us as 13th in the country amongst larger universities.
+
+We have also increased opportunities to widen participation and much needed diverse representation
+across a range of careers. We are proud to support our most vulnerable students, including those with
+care experience as we focus on making higher education more accessible.
+
+The student voice is central to the continuous improvement of the student experience. In the 2024
+National Student Survey (NSS) the University improved across all seven question themes for our
+directly taught courses. Our overall positivity score of 80.1% has improved by 2.3% when compared to
+the prior year. This is a reflection of the work of colleagues who have a continued commitment to
+supporting students and delivering an excellent experience at our University. This is underpinned by
+our Silver rating in the Teaching Excellence Framework (TEF).
+
+To support the Students’ Union in their ambition to be in the heart of university life, we were pleased to
+provide premises at the North Holmes Road campus for a new Students’ Union hub. The hub is a new
+centre that allows the union to connect with more students and host a range of activities, with dedicated
+space for students to study, socialise and relax. Following a student vote, the new space has been
+named the Mary Seacole building, honouring the remarkable British-Jamaican nurse who made a huge
+impact during the Crimean War, and whose legacy of outstanding achievement and public service aligns
+perfectly with our values and mission.
+
+We continue to build on the strong performance in the 2021 Research Excellence Framework (REF).
+Working with business, the public and third sectors is an important part of our Research and Enterprise
+Strategy. In the most recent Knowledge Exchange Framework (KEF 4) the University was ranked within
+the top 20% of UK universities for 2 areas — research partnerships and community engagement- as well
+in the top 40% of UK universities in three other areas.
+
+One of the key themes at the heart of our strategic framework, Vision 2030 is the implementation of
+‘Shaping Sustainable Futures’. | was extremely proud to see our University being ranked as a ‘Gold
+Tier’ university in the annual UK study of the sector's sustainability credentials. We were also ranked in
+the top third of UK universities in the People and Planet league table.
+
+VICE CHANCELLOR’S INTRODUCTION (CONTINUED)
+
+In presenting the financial results for the 2023/24 year, | would like to thank al! members of the
+Canterbury Christ Church community including our staff, students, governors, alumni, partners and
+stakeholders for their continued support and engagement.
+
+Ta. T/
+
+Professor R Thirunamachandran
+
+Vice-Chancellor and Principal
+
+THE STRATEGIC REPORT
+Directors' Report
+
+The disclosure requirements for the Directors' report can be found in the Strategic Report on pages 5
+to 19 and form part of this report by cross reference. | present this report on behalf of all named directors
+(see page 2) in order to meet the requirements of the Companies Act 2006.
+
+Scope of Financial Statements
+
+The Financial Statements for the year ended 31 July 2024 have been prepared to comply with the
+Statement of Recommended Practice (SORP) Accounting for Further and Higher Education and
+applicable accounting standards in the UK and in line with regulatory advice in the form of the Accounts
+Direction from the Office for Students (OfS 2019.41). The University is based in the UK and operates
+as both a company registered in England and Wales and a registered charity.
+
+Subsidiary Company
+
+The University holds an investment in a subsidiary company, Medco (CCCU) Limited. This is a company
+registered in England and Wales which operates under a franchise arrangement with Warwick
+University Enterprises Limited. The subsidiary company is in a VAT group with the parent company.
+The subsidiary company's results have been consolidated with the parent company in these financial
+statements. The Directors’ report and the Strategic report refers to the University as a company and
+registered charity, and where applicable applies to the subsidiary company. The reports do not include
+partner institutions, as these are separate reporting entities.
+
+Activities and Objectives
+
+The principal activities and objectives of Canterbury Christ Church University are concerned with the
+provision of higher education teaching, research and knowledge exchange. To support these
+objectives, the University undertakes other activities, including the provision of accommodation,
+catering and conference services.
+
+Mission
+
+The University’s mission is to pursue excellence in education and research; inspired by our Church of
+England foundation, we are passionate about transforming individuals, creating knowledge and
+enriching communities to build sustainable futures.
+
+Vision 2030
+
+Our new Vision has been developed with people at its heart and will drive and shape our University
+over the next seven years. In consultation with staff, students and key stakeholders throughout the year,
+we have set out our mission, values and aims to help guide us towards a more innovative and
+sustainable future.Our values are to be sustainable and ethical, to be innovative and courageous, to be
+compassionate and inclusive and to be collaborative and creative. The strategic framework has four
+clear strategic aims:
+
+e student learning, life and futures;
+
+e research, enterprise and innovation;
+« people, culture and community; and,
+« impact.
+
+All aims are underpinned by our commitment to sustainable futures and the cross-cutting themes are:
+
+Sustainability
+Compassion
+Wellbeing
+Partnerships
+Inclusivity
+Global
+
+THE STRATEGIC REPORT (CONTINUED)
+Financial Strategy
+
+During the 2023/24 year, the University's financial strategy was based on seven key principles, in line
+with the Vision 2030 strategic objectives:
+
+* There is a symbiotic relationship between the organisational strategy and the budget. The
+creation of the budget will help to deliver this strategy.
+
+Ensuring financial sustainability in the short, medium and long term.
+
+Investing strategically in the future areas of growth and potential growth.
+
+Ensuring sustainability of areas which are strategically important.
+
+Working together to manage and grow the University budget as a whole, through the actions
+of individual and collective budget managers.
+
+Ensuring transparency in budget setting and reporting.
+
+* Delivering efficiency, effectiveness and value for money across all areas.
+
+The objectives of the financial strategy are:
+
+1. To maintain a diverse and financially sustainable academic provision for directly delivered
+programmes.
+
+2. To support the development of financially sustainable partnerships for the delivery of
+University accredited programmes within England.
+
+3. To support the growth and expansion of financially sustainable Trans National Education
+(TNE).
+
+4. To enable growth and diversification in other income activities.
+
+5. To make financial provision as required for the support of staff and students.
+
+Key Performance Indicators
+
+The University seeks to maintain its long-term financial sustainability and overall financial strength by
+not breaching the following criteria:
+
+. A surplus calculated through EBITDA as a % of income of at least 5% in any one year.
+
+. A ratio of staff costs to total income of less than 60% (after discounting income received
+for activity which is 100% delivered through partners).
+
+. Minimum year end cash holdings do not fall below an equivalent of 60 cash days and
+
+maintenance of working capital throughout the year at a level in excess of £10m, in line
+with the Treasury Policy updated in 2024 and approved by the Finance and Resources
+Committee.
+
+In determining the specific Key Performance Indicators for the University the requirement to meet bank
+covenants has been embedded in the measures.
+
+Summary Results for the Year
+
+The consolidated results for the University for the year ended 31 July 2024 are summarised, as
+follows:
+
+2024 2023
+£000 £'000
+Income 319,115 263,808
+Expenditure 311,870 260,420
+Surplus before Profit/(Loss) on disposal of assets and 7,245 3,388
+
+impairment
+
+
+THE STRATEGIC REPORT (CONTINUED)
+
+The particular areas to highlight from the consolidated financial results are:
+
++ Anincrease in total income of 21% from £263.808m to £319.115m.
++ Anincrease in expenditure of 20% to £311.870m.
+
+- Acredit for the year of (£2.195m) for notional interest and staff service costs within the Local
+
+Government Pension Scheme (LGPS) (2023 a debit charge of £3.928m).
+
+* Capital additions of £7.226m (2023: £8.328m).
+
+* AnLGPS pensions surplus that is not recognised as an asset by the University of £35.238m
+(2023: a surplus of £30.118m) leading to movement on the SOC! of £2.195m for the year.
+
+The University returned a reported surplus of £7.245m, representing 2.27% of total income. This is
+
+compared to the surplus or deficit reported in previous years, as follows:
+
+Surplus/(deficit) after depreciation
+and before tax £'m
+
+The operating performance includes adjustments required by FRS 102 of which the most significant is
+
+the non-cash adjustments for future potential pensions’ costs.
+
+The table below summarises the adjustments to reconcile the operating surplus to an adjusted surplus
+which provides an indicator of year on year performance which is not affected by any fluctuations in non
+
+cash pension charges.
+
+Consolidated results
+
+2024
+
+£000
+Operating surplus reported per Financial Statements for the 7,245
+year excluding (profit)/loss on sale of fixed assets
+USS pension provision movement (1,318)
+LGPS and USS pension interest charges, net (1,677)
+LGPS charges in excess of employer contribution (489)
+Adjusted surplus 3,761
+
+2023
+£000
+3,388
+
+(133)
+156
+
+3,817
+
+7,228
+
+The adjusted surplus of £3.761m represents 1.18% of total income.
+
+THE STRATEGIC REPORT (CONTINUED)
+
+Pension Reserve
+
+The University contributes to the Local Government Pension Scheme (LGPS) on behalf of all eligible
+staff who have elected to join the scheme. This pension fund is a defined benefit scheme and as its
+assets and liabilities can be separately identified by the scheme’s actuary, these are reported within the
+financial statements.
+
+An actuarial gain on the LGPS pensions scheme of £2.195m is reported in the Statement of
+Comprehensive Income. The scheme generated a surplus of funds of £35.238m for the year, as asset
+values exceeded liabilities. The surplus was not reported in the Balance Sheet (Statement of Financial
+Performance) as the asset ceiling was applied and the surplus is not recognised as an asset of the
+University.
+
+In prior years the pension reserve presented a deficit, which as a liability was shown separately in the
+Balance Sheet (Statement of Financial Position). This reflected the level at which the scheme assets
+failed to cover the present value of liabilities as determined by the actuaries.
+
+Student Numbers
+
+The University reported 38,000 students registered in the annual return, an increase when compared
+to the prior year (2023: 27,000).
+
+These numbers include students studying for Canterbury Christ Church University awarded degrees at
+our partner institutions. The University works with a number of significant partners in the UK and
+overseas to deliver collaborative provision in addition to offering undergraduate and post graduate
+courses at the campus sites of Canterbury, Medway and Tunbridge Wells to home students and
+international students either studying in the UK or in their home country.
+
+Capital Projects
+
+The University has a range of strategies which underpin the delivery of the Strategic Plan, Vision 2030.
+The strategies specify an investment plan for the necessary developments in buildings, technology and
+other capital schemes. The investment plan is set in the context of the strategic plan to enhance
+significantly and improve the quality of facilities for the University's students as well as supporting new
+technologies, enabling further growth and expansion of the institution's provision of education.
+
+In 2023/2024 the University invested a total of £7.226m in capital assets, part funded from capital grants
+of £0.355m. Of the total expenditure on capital projects a total of £3.251m was invested in software and
+systems developments. This included further enhancement to the student records database which went
+live for the registering of students for the 2022/2023 academic year and the continued development of
+the Curriculum Management Tool. A further £1.643m was invested in IT equipment and infrastructure
+and £0.450m in classroom facilities and equipment to enhance the student experience. The balance of
+£1.879m was used to make improvements to the estate and to invest in plant and machinery to service
+the buildings.
+
+The University continues to benefit from the investment in carbon saving measures as supported by the
+funding received in prior years in the form of interest free loans from SALIX Finance and from capital
+grant funding received from the Office for Students (OfS).
+
+THE STRATEGIC REPORT (CONTINUED)
+
+Annual Capital Investment
+
+Payment of Creditors
+
+The payment policy of the University is that payments are made in accordance with those terms and
+conditions agreed between the institution and its suppliers. Where no specific conditions exist, suppliers
+are paid within 30 days of the receipt of invoice. The payment performance of the University is available
+to the public at:
+
+https://www.gov.uk/check-when-businesses-pay-invoices
+
+In the year 2023/2024 the University met the target to pay valid and undisputed invoices within 30 days
+for 89% of all invoices received (2022: 79%).
+
+Cash Flow
+
+Canterbury Christ Church University has continued to maintain appropriate cash balances generated
+through operations to support revenue payment commitments and capital investment in facilities and
+equipment for students. The cash position increased by £2m at the end of the year (2023: £21m
+increase).
+
+Cash Balance
+
+
+THE STRATEGIC REPORT (CONTINUED)
+Long Term Loans as a Percentage of Income
+
+The University anticipates the need to manage its loan financing arrangements in a careful and
+measured manner, recognising that conditions can change substantially over the period of a long-term
+loan. The Governing Body requires that interest rate exposure is managed by means of a combination
+of variable and fixed rate borrowing. The % balance of fixed to variable interest rate loan finance
+reported on the balance sheet at the 31 July 2024 was 18%.
+
+Tota! income for the year increased by 21%, in part as a result of the growth in tuition fee from
+partnership activity and an increase in interest earned on short term deposit balances. The impact of
+growth in total income is a decrease in the rate of long-term loan finance held as a percentage of income
+from 22% to 17%.
+
+Long term loans as a percentage of
+
+Net debt represents the total outstanding debt as at the year end, minus cash held at the bank. The
+decrease in net debt in 2024 reflects the increase in cash held at the year end.
+
+Net Debt in £'m
+
+10
+
+THE STRATEGIC REPORT (CONTINUED)
+
+Equity and Inclusion, including Disabled Employees
+
+The University recognises that building a diverse workforce is fundamental to achieving a truly inclusive
+work and learning environment and welcomes applications from all sections of the community.
+
+Applications for employment by disabled persons are always fully considered, bearing in mind the
+abilities of the applicant concerned. in the event of members of staff becoming disabled, every effort is
+made to ensure that their employment with the University continues, and that appropriate training is
+arranged. It is the policy of the institution that the training, career development and promotion of
+disabled persons should, as far as possible, be identical to that of other employees.
+
+The University is a Stonewall Diversity Champion, Disability Confident Employer, Athena SWAN award
+holder and a signatory for the Armed Forces Covenant.
+
+Events after the reporting period
+There are no events to be reported after the reporting period.
+Section 172 Statement
+
+The Governing Body welcomes the reporting requirement as an opportunity to explain how stakeholder
+participation and feedback has informed and shaped decisions and how the University has reacted to
+feedback in the strategy and plans it has developed. The Governing Body sees the main key
+stakeholders as being our students, our employees, our partners and suppliers who work with us to
+deliver the aims of the University and the wider society, community and environment that support our
+sustainability. The Governing Body has set out in the Statement of Corporate Governance the structure
+of committees that aid decision making and how the governors work to achieve their responsibilities.
+This includes the maintenance of a reputation for high standards of business conduct with suppliers,
+partners and with students.
+
+Employee Engagement
+
+The Governors and Management place considerable value on the involvement of its employees in
+decision making as the University considers the employees’ interests as key to the success of the
+organisation. Therefore, the Articles of the University require the Governing Body includes three elected
+staff governors. The University also recognises three trades unions — Universities and Colleges Union
+(UCU), UNITE and UNISON - who represent employees. The University undertakes to keep the staff
+informed on all matters affecting them, and the various factors affecting the performance of the
+institution and its subsidiary company. This is achieved through formal and informal meetings, the
+sharing of the staff newsletter, the ‘In Touch’ magazine and by publishing the annual financial
+statements on the University's website. Employee representatives are consulted regularly on a wide
+range of matters affecting their current and future interests.
+
+As part of the University’s commitment to engaging with staff there have been two pulse surveys
+undertaken each year since 2022. The most recent pulse survey completed in May 2024. The results
+from the survey informed the launch of the Continuous Improvement Programme. This included the
+development of skills of staff in the University in creating a Continuous Improvement Community of
+Practice. It was these practitioners who delivered improvement projects to address issues identified
+with processes and working practices.
+
+Feedback from the staff surveys also led to an external benchmarking exercise of workload tariffs and
+updates to the Academic Workload Framework. Further to the implementation of the revised guidance
+there were refinements made to the Workload Allocation Management System to support the use of the
+system in 2024/2025.
+
+11
+
+THE STRATEGIC REPORT (CONTINUED)
+
+Business Relationships - Partners and Suppliers
+
+The University recognises the strategic importance of working with suppliers, many of whom are local
+businesses, to provide a range of services and goods to support the delivery of high-class education.
+To support this business relationship, the University engages with suppliers to consider improvements
+to the contracting, ordering, goods receipting and payment processes. During 2023/2024 a number of
+significant supplier contracts have been awarded and renewed through open and negotiated tender
+procedures. To streamline the process both for the University and the supplier, the use of established
+procurement frameworks is adopted where possible.
+
+The development and maintenance of strategic collaborative partnerships continues to be a focus for
+the University. During the year the University continued to work with the Global Banking School, the
+London Schoo! of Commerce, the Elizabeth School of London, UK Management College and the
+Stratford College London to provide business-focused courses in regions across the nation. This helps
+to collaboratively increase access to Higher Education across the UK, as well as delivering more
+opportunities through education to transform lives. These partnerships have significantly strengthened
+the University's portfolio, offering programmes in the areas of Management of Business, Tourism,
+Marketing, Accounting and Financial Management, with multiple intakes throughout 2023/2024 and the
+introduction of a new course in June 2024, the Certificate in Higher Education in Business studies.
+
+Society and Community
+
+Engaging with our community of students has driven our strategic plan, Vision 2030. We recognise our
+students are at the heart of all that we do, and when consulting on the strategic plan they worked
+alongside the University and the Christ Church Students’ Union to help shape the aims and themes of
+the strategic plan. We have also worked closely with our external partners to understand their
+perceptions of the University, and what more we can do to serve them and the wider community.
+
+The STEM Hub, based at the University, provides schools and colleges in the south east with free and
+impartial advice and guidance on STEM activities and careers, enabling young people to make informed
+choices about their future. The STEM Hub delivered the STEM Community Celebration at the Memorial
+Gardens in Crawley in June 2024. This was attended by more than 4,000 children, parents and
+grandparents who enjoyed a spectacular day celebrating Science, Technology, Engineering and Maths.
+Support was provided to the event by local employers from various STEM industries, as well as many
+local businesses and organisations. There were over 65 different STEM experiences offered to allow
+people to engage with a new experience of science.
+
+In June 2024 the Interdisciplinary Research Network held its annual conference that brought together
+local community groups, organisations and services with the researchers from the University. The focus
+of the conference was to address local challenges in building just, fair and sustainable. The event aimed
+to help to match external groups, organisations and businesses with the University’s researchers to
+seed new projects and collaborations. Sessions on the day included Water Provisions and Firefighting
+presented by Kent Fire and Rescue Service and the Food Bank Movement presented by Canterbury
+Food Bank.
+
+In October 2023 the University continued support of the National Care Leaver Week, seeing this as an
+opportunity to shine a light on the University’s proud record of supporting care experienced students
+into higher education and in particular to the CCCU community. Facing numerous significant challenges
+in their life means that care leavers are more likely end up in prison than go to university in England.
+Canterbury Christ Church University is consistently in the top five higher institutions for welcoming the
+highest number of new care leavers with 50-70 entrants per year. The University has well established
+links to the Local Authority Virtual Schools in Kent and Medway and charities including Young Lives
+Foundation and the Kent Refugee Action Network. Alongside our collaborative partners at the
+Universities of Kent, UCA and Greenwich we deliver targeted outreach to children in care. The support
+for young people and their carers includes the online HE insight sessions ‘Opening Doors' designed to
+upskill Foster Carers to support their young person's journey to university. In support of this, the
+University identifies defined targets to increase the number of Care Leavers progressing to university
+as part of the Access and Participation Plan.
+
+12
+
+THE STRATEGIC REPORT (CONTINUED)
+
+The University is proud to be a signatory of the Care Leaver Covenant, with further commitments to
+support Care Leaver students and the wider care-experienced community, and is an active member the
+National Network for the Education of Care Leavers (NNECL).
+
+Environment
+
+The environment is a key factor in the future sustainability of the University. The University’s mission,
+values and strategic commitments show a connection to ourselves, each other and the environment,
+on different scales from the local to the global. The University has developed a master plan for the next
+20 years that takes an integrated approach to the development of a sustainable university estate, that
+shows the principles of Education for Sustainable Futures can be applied in practice.
+
+The University recognises that it has an impact upon the local and global environment and is committed
+to minimising any negative and enhancing the positive effects that the delivery of its activities has. It is
+committed to environmental good practice and maintains an externally certified ISO14001
+Environmental Management System (EMS) to ensure continual improvement, prevention of pollution
+and compliance with all appropriate environmental legisiation.
+
+In recognition of our commitment to the environment the University has been awarded Gold Tier status
+by the U Switch Green University report. The report stated: “it's positive to see that all of these
+universities in the Gold Tier have green workshops and eco-friendly initiatives in place.”
+
+Our aims to protect our environment include:
+
+e Develop the University estate in a way that maximises educational, research and community
+benefit and enhances positive environmental impact.
+
+« Develop our campus environments, recognising our sense of place within unique heritage
+locations.
+
+« Integrate our F built and natural environments in ways that embody our values; providing specific
+examples of our distinctive education and research profile.
+
+e Maintain progress in reducing environmental impact, maintaining a focus on reducing our
+carbon emissions in support of sector and national targets.
+
+Providing an environment where equality, diversity and inclusivity thrives, and in which students are
+supported to become global citizens, is so important to the work of the University. However, this is a
+journey in which the University is still learning and adapting.
+
+Global climate change is one of the biggest challenges facing the world. Many national and local
+governments, and many organisations have declared Climate Emergencies, including Christ Church.
+As part of the University’s commitment to reduce its operational carbon emissions to net zero and to
+assist staff and students in supporting this endeavour, the University offers certified Carbon Literacy
+Training. This is part of the carbon literacy project which was established by the Carbon Literacy Trust.
+The training provides an understanding of:
+
+The basic science behind climate change;
+
+Social equity and climate change;
+
+What we need to do to meet the Paris Agreement targets and achieve a zero carbon society;
+What you can do to act on climate change — in your personal life and at university / in your
+future job role; and,
+
+e Strategies and skills for communicating action on climate change.
+
+13
+
+THE STRATEGIC REPORT (CONTINUED)
+Carbon Reporting
+
+Canterbury Christ Church University is committed to responsible energy management and
+sustainability, which it practices throughout the organisation. The University recognises that climate
+change is one of the most serious environmental challenges threatening the world today.
+
+In 2019 the University and the Christ Church Students’ Union (CCSU) joined with other organisations
+across the globe to declare a climate emergency committing to achieving net-zero carbon dioxide
+emissions by 2030 or 2050 at the very latest. Achieving this is going to involve improving activities and
+infrastructure across many areas of the University. The University is deeply committed to social,
+environmental and financial sustainability at a strategic and operational level.
+
+The University demonstrates its commitment to the role it must play in reducing greenhouse gas ©
+emissions through the University’s Strategic Framework “Vision 2030”. The strategic framework places
+collaboration, courage and creativity at its centre. There are four strategic aims in the strategy that are
+all underpinned by the commitment to sustainable futures.
+
+The University has developed a response to the climate emergency which includes energy
+management and emission reduction with a low carbon 2030 vision. The University has achieved
+and maintained the standard ISO 14001, with a successful recertification in April 2023 for its
+Environmental Management System (EMS).
+
+Emission Performance
+
+The University completes an annual review of energy performance and the amount of direct
+transportation incurred each year as part of the Streamlined Energy and Carbon Reporting (SECR)
+process.
+
+In 2023/2024 electricity consumption was 11% less than in the basline year (2019/2020). The
+consumption of gas for the same reporting period when compared to the baseline year had reduced by
+13%.
+
+The report confirms the direct transportation consumption has reduced by 52% in comparison to the
+baseline year.
+
+These measures indicate that the hybrid working patterns adopted by staff since 2020 have had a
+positive impact on both consumption of energy and travelling patterns. This is supported by the
+estimate of Scope 1 Emissions originating from Direct Transport, Natural Gas, LPG and Refrigerants,
+all of which are reported to be 14% lower than reported for the baseline year.
+
+The Scope 2 Emissions from indirect sources, including the purchase of electricity, steam, heat or
+cooling have also seen a marked reduction in usage. The Scope 2 Emissions are reported as being
+28% lower than the baseline year.
+
+The Scope 3 Emissions from vehicles owned by employees or hired for employees for business
+purposes has reduced significantly in 2023/2024 when compared to the baseline year, a reduction of
+75%.
+
+The travel patterns of staff has changed post pandemic, with more meetings and conferences being
+attended on line rather than in person, saving travel time and expense and emissions.
+
+14
+
+THE STRATEGIC REPORT (CONTINUED)
+
+Streamlined Energy and Carbon Reporting (SECR) Annual Statement 2024
+
+Energy Consumption 2023/24 2022/23 2019/20 Variance
+
+Scope 1: Combustion of fuel and|
+LPG
+operation of facilities. {kWh} 8,372 7731 t)
+Refrigerants (kg) 1 37 0
+
+Scope 2: Electricity purchased. Total Electricity (KWh}| 9,545,628 10,355,744 10,697,640 11%
+Scope 3: Indirect Transport} Employee owned Vehicles (kwh) 329,509 399,280 1,288,748 74%
+
+Ta Scape EI ERECT AV)
+
+2023/24 2022723 2019720 Variance
+
+Natural Gas (ico) 1,800 | tea | 2075 | 13% |
+Direct Transport (CO 26) 20 39 “53%
+
+LPG (CO 28}
+
+Refrigerants (tCO 2)
+
+Total Scope] eicOve
+
+Emissions Assessment
+
+Scope 1: Combustion of fuel and}
+operation of facilities.
+
+Scope 2: Electricity purchased and Location Based (LB) (tCO 2)
+heat and steam generated.
+
+"Market Based (MB) (tCO 2)
+Employee owned Vehicles (tCO 22)
+
+Total Scope,!42 and 3 Emissions (iCO ve), F3,382) [5"179)
+Total Scope ta2.and 3 Emissions {tCO 7) $2208) =
+
+On-Site Generation of Electricity - “im ey ota 2022/23 2021/22 . 2020/21 2019/20
+
+Scope 3 : Indirect transport!
+Location Based
+
+Market Based
+
+Generated electricity exported to Grid] ct
+
+There has been a further increase in the University’s total income and student numbers due to its
+business partnership arrangements with external training providers, which influences the intensity
+ratios.
+
+From 1 October 2019 the University changed its purchasing strategy for electricity switching from a
+conventional fuel mix to 100% renewable from Ofgem accredited onshore wind farms. There was a
+significant increase in the price of Renewable Energy Guarantees of Origin (REGO) certified sources
+of renewable electrical energy. Despite this the University continued to purchase their electrical supply
+from a REGO certified source. The University purchases energy through an energy consortium,
+ensuring that it procures its energy at competitive rates in challenging market conditions.
+
+Value for Money (VfM)
+
+Value for money is important in the context of the tuition fees received from students and how these
+are utilised within the institution. The following chart of Undergraduate Fees demonstrates how these
+funds were applied in 2022/23 based upon the Transparent Approach to Costing (TRAC) methodology
+data for that particular year. The report that is produced in January 2024 is presented retrospectively
+for 2022/23, as this is the latest data available from the TRAC return.
+
+15
+
+THE STRATEGIC REPORT (CONTINUED)
+Using the TRAC methodology the Total undergraduate fee of £9,250 represents the following:
+
+£5,660 Teaching and Research
+
+£1,240 Professional and Support Services
+
+£950 Estates and Facilities
+
+£400 _ IT Infrastructure and Support
+
+£270 Welfare and Careers
+
+£260 Bursaries
+
+£200 Library and Academic Skills
+
+£140 Recruitment, Outreach & Communications
+£100 Subsidising Student Accommodation
+
+£30 Students’ Union
+
+Teaching and Research (61%) @ Professional and Support Services (13%) Estates and Facilities {10%}
+$81T infrastructure and Support (4%) © Welfare and Careers (3%) B Bursaries (3%)
+@ Library and Academic Skills (2%) Recruitment, Outreach & Communications (2%) & Subsidising Residence Deficit (1%)
+
+mStudents' Union (1%)
+
+The above is a representation of how the 2022-23 Undergraduate fee was used by the University and
+the relative percentages are as follows:
+
+* 61% Teaching and Research - lectures, technicians, course administration, course materials etc.
+
+* 43% Professional and Support Services - student registration & records, human resources,
+finance, VC's Office etc.
+
+* 10% Estates and Facilities - building running costs, maintenance, light & heat, security etc.
+
++ 4% IT Infrastructure and Support - computing, software, subscriptions etc.
+
+* 3% Welfare and Careers- Counselling, Chaplaincy, Sports Centre and Careers.
+
+16
+
+THE STRATEGIC REPORT (CONTINUED)
+
+* 3% Bursaries — support and fee reductions for eligible students.
+
+* 2% Recruitment, Outreach & Communications - school and college engagement, widening
+participation, recruitment activity etc.
+
+* 2% Library and Academic Skills -books, periodicals, electronic subscriptions
+
+* 1% Subsidising Residence & Catering Deficit - This activity has a net expenditure.
+
+* 1% Students’ Union - grant to support the ongoing provision of the Students' Union.
+
+Risk Management
+
+The approval of risk management processes, including the University's high level risk register, and risk
+management framework are delegated by the Governing Body to the Audit Committee, which reviews
+identified risks on a termly basis. The processes ensure that a culture of risk management is embedded
+across the University. The University’s risk management framework seeks to limit the adverse effects
+on the performance of the institution and the system to manage these risks is described in the statement
+of internal control.
+
+The system of internal control is based on an ongoing process designed to identify the principal risks
+to the achievement of strategic policies, aims and objectives; to evaluate the nature and extent of those
+risks; and to manage them efficiently, effectively and economically. This process has been in place for
+the year ended 31 July 2024 and up to the date of approval of the financial statements and accords
+with the requirements of the Office for Students.
+
+The Governing Body's review of the effectiveness of the system of internal control is also informed by
+the work of the Senior Management Team within the University, who have responsibility for the
+development and maintenance of the internal control framework, by the work of the Internal Auditor,
+and by comments made by the External Auditor in their management letter. Whilst a prudent approach
+has been adopted to financial planning, the University considers that there are key risks to its financial
+health and sustainability which are also likely to be experienced in other institutions across the sector.
+
+The main risk areas and actions being taken to mitigate them contained in the University's High-level
+Risk Register, as follows:
+
+¢ Failure to maintain a financially sustainable offer for directly delivered programmes.
+
+Actions to mitigate include:
+- _ the review of financial forecasts, including performance indicators and covenants;
+- review of the academic portfolio;
+- development of course performance plans;
+- review of student:staff ratios;
+- development of financial reporting at course or module level; and,
+- embedding of the new Academic Framework review.
+
+e Failure to monitor, prepare and manage changes in the political and funding landscape
+for Higher Education.
+
+Actions to mitigate include:
+- continued membership of Universities UK and MillionPlus in order to continue to make the case
+for investment in higher education including maintenance support for students;
+- monitor implementation of the Government's HE manifesto commitments; and,
+- consideration of the Government's legislation on Lifelong Learning Entitlement as part of the
+Academic Framework.
+
+e Failure to recruit full time Home Undergraduate and Postgraduate students.
+
+Actions to mitigate include:
+- enhanced marketing of courses; increased schools and colleges liaison;
+
+17
+
+THE STRATEGIC REPORT (CONTINUED)
+
+- review of the Academic Portfolio and Academic Framework to create a more attractive offering
+with a focus on employability;
+
+- improve admissions process
+
+- monitoring UCAS application; and,
+
+- DATAHE market share analysis reports reviewed for market insights.
+
+e Ineffective management of partnerships, including the risk of major change in
+partnership activity and compliance implications of partnership working.
+
+Actions to mitigate include:
+
+- central management of all UK based partnerships through a well-resourced unit;
+
+- external review of partnerships by the University’s internal auditors;
+
+- annual monitoring of partnerships through the Partnership Oversight Sub-Committee;
+
+- continuous monitoring through the Partner Strategic Group and the Partner Operational Group
+meetings;
+
+- regular monitoring reports of individual partnerships; and,
+
+- developed contingency plans, detailing options appraisals for teach out if required;
+
+These risks have been taken into consideration in the University’s modelling of future years’ forecasts
+and contingency arrangements are included within the institution’s plans to review and redesign
+services and reduce costs. Taking forward these measures will reduce the impact of these risks so that
+they do not compromise the longer-term sustainability of the University. ,
+
+Going Concern
+
+The University’s financial forecasts for the next two years continue to show a surplus position and
+meet the year end bank covenants. The longer term forecasts are dependent upon clarification of the
+UK Government's review of funding of the Higher Education sector more generally.
+
+For the medium term however, the University is able to meet in full its financial commitments.
+
+The Governing Body have reviewed the financial forecasts through to 2028/29; whilst recognising the
+uncertainty over funding beyond 2025/26, the Board remains assured that the University continues to
+be a going concern.
+
+Directors’ Indemnities
+
+As permitted by the Articles of Association, the Directors have the benefit of an indemnity which is a
+qualifying third-party indemnity provision as defined by Section 234 of the Companies Act 2006. The
+indemnity was in force throughout the last financial year and is currently in force. The Company also
+purchased and maintained throughout the financial year Directors’ and Officers’ liability insurance in
+respect of itself and its’ Directors and those of the subsidiary company.
+
+Disclosure of Information to the Auditor
+
+Each of the persons who are directors at the date of approval of this report confirms that so far as the
+directors are aware, there is no relevant audit information (as defined by Section 418 of the Companies
+Act 2006) of which the company’s auditor is unaware, and the directors have taken all the steps that
+he/she ought to have taken as a Director in order to make himself/herself aware of any relevant audit
+information and to establish that the company's auditor is aware of that information.
+
+18
+
+THE STRATEGIC REPORT (CONTINUED)
+Reserves Policy and Key Performance Indicators (KPIs)
+
+The University seeks to retain a level of reserves to support its financial sustainability and in accordance
+with its strategic plan, the policy is reviewed in each academic term. The reserves position is maintained
+through the achievement of surpluses in line with the institution’s key performance indicators.
+
+When reporting a liability, the pensions’ reserve is recognised in the balance sheet. This represents a
+longer-term liability which does not materially impact upon the short to medium term policy for the
+maintenance of a general reserve. When reporting a surplus the asset in the scheme is not attributable
+to the University and as such is not recognised as an asset and has no impact on the general reserve.
+
+Monthly financial reports are produced for the Senior Management Team (SMT) and for each meeting
+of the Finance and Resources Committee of the Governing Body.
+
+The table below shows the consolidated performance indicators for the year ended 31 July 2024,
+compared to actual outturn for the previous year. Targets for each of these KPls are prepared and
+reported to management based on the approved annual budget. As part of the mid-year forecasting
+process, the financial position is reviewed, and a revised budget is produced in year. The target KPis
+are amended to reflect the revised budget position to be reported through to the end of the year.
+
+Key Performance Indicators — actual outturn
+
+Operating surplus/(deficit) as a % of income
+Adjusted surplus as a % of income
+Unrestricted reserves as a % of total income
+
+External borrowing as a % of total income
+| Current asset/(current liability) ratio 1.09 1.13
+| Net liquidity days 69 81
+EBITDA as a % of total income 5.48 6.83
+Net Cash inflow/outflow as a % of income based on net 5.09 8.23
+cash inflow from operating activities
+
+The reported surplus for the year ended 31 July 2024 reflects adjustments for the accounting treatment
+under FRS 102 of pensions’ provisions and liabilities.
+
+The operational outturn/adjusted surplus for the University for the year ended 31 July 2024 was
+£3.761m.,
+
+Unrestricted reserves are reported net of the LGPS pensions liability, when the asset values exceed
+the liability the net asset or surplus on the scheme is not recognised by the University and will not be
+included in the University’s reserves.
+
+External borrowing decreased in year with capital repayments being made to reduce the principal
+amount of loans. The overall position reflecting repayment of loan capital is a balance at 31 July 2024
+of £54.041m (2023: £57.837m).
+
+Net liquidity days are reported as being 69 days, which is a reduction compared to the prior year of 81
+days. The balance of cash and cash equivalents held at the year end was £2.034m more in 2024 than
+2023, however, expenditure had increased year on year, reflecting payments to collaborative
+partnerships, impacting on the calculation of net liquidity days. Throughout the year the University has
+maintained sufficient funds to meet all commitments in line with the treasury management policy
+approved by the Finance and Resources Committee.
+
+The KPls are included in the University's monthly financial reports monitored and reviewed by the
+Senior Management Team. They are also considered and assessed by the Finance and Resources
+Committee as part of the review of financial performance. The University’s operating performance for
+the year has remained within the parameters of the approved KPIs.
+
+19
+
+THE STRATEGIC REPORT (CONTINUED)
+Financial Risk Management
+
+The University recognises that all teasury management activities involve risk and potential reward. The
+University's policy on borrowing is to minimise cost while maintaining the stability of its financial position
+by sound debt management techniques. The objective for lending purposes is to achieve the best
+possible return while minimising risk.
+
+The Chief Finance and Operating Officer has the authority to implement the University's strategy for
+depositing surplus funds and managing the cash flow of the University. In exercising these powers, he
+has regard to the perceived credit risk associated with the approved organisations with which funds
+may be deposited or invested; also the effect of possible changes in interest rates on the cost of
+borrowing and the return from investing and the need to maintain adequate liquid funds to meet the
+University’s obligations.
+
+Outlook
+
+The University continues to face the challenge of a fixed rate of tuition fee for UK students undertaking
+undergraduate courses restricting income in the context of rising inflation for pay and non-pay costs.
+
+There are new challenges facing our University and other universities in the sector. There has beena
+reduction in the number of Home and Overseas Full Time Undergraduate students registering to study
+in higher education which impacts future income expectations. In addition, universities are facing higher
+employment costs including an increase in the Teachers’ Pension Scheme employer contributions from
+April 2024 from 23.68% to 28.68%, a rise of approximately 20% in the actual cost of providing the
+pension for academic staff.
+
+In the light of these financial challenges, the University has introduced a Transformational Change
+Programme with four strands to review and redesign all areas of the University. The four strands are:
+
+Removal of Faculty Structure and Consolidation of Schools
+Student and Academic Service Redesign
+
+Research and Enterprise Services Review and Redesign
+Corporate Services Review and Redesign
+
+Despite these challenges we remain committed to delivering our Vision 2030 strategy with compassion,
+and by working collaboratively with the involvement of our staff, students and stakeholders.
+
+Professor R Thirunamachandran
+Vice Chancellor, Principal and Director
+
+Date: 26 November 2024
+
+20
+
+PUBLIC BENEFIT STATEMENT
+
+Canterbury Christ Church University is a registered charity under the Charities Act 2011. The objects
+of the University are the advancement of education, learning and research for the benefit of the public
+including, in particular, the conduct and development of the University known as Canterbury Christ
+Church University for the training of persons as teachers and the provision of other higher or further
+education.
+
+In setting the University’s objectives, and planning its activities, the governors, as charity trustees, have
+- given careful consideration to the Charity Commission's public benefit guidance.
+
+In March 2023 the University launched its Strategic Framework, Vision 2030, which sets out its mission
+and values, supported by four strategic aims, and six cross-cutting themes:
+
+Our mission
+
+The University's mission is to pursue excellence in education and research; inspired by our Church of
+England foundation, we are passionate about transforming individuals, creating knowledge and
+enriching communities to build sustainable futures.
+
+Our values
+
+Sustainable and ethical
+Innovative and courageous
+Compassionate and inclusive
+Collaborative and creative
+
+Strategic aims
+
+Student Learning, Life and Futures
+Research, Enterprise and Innovation
+People Culture & Community
+
+Our impact
+
+Cross-cutting themes
+Sustainability
+Partnerships
+Compassion
+
+Inclusivity
+
+Wellbeing
+
+Global
+
+The Vision 2030 framework informs the business plans of departments and schools across the
+University. To demonstrate progress towards the achievement of the University's strategic aims, a set
+of refreshed KPIs has been established. Notably we have achieved the following outcomes:
+« We had 38,000 registered undergraduate and postgraduate students studying in the UK.
+e Nearly two-thirds of our graduates are in highly skilled graduate-level employment 15 months
+after completing their studies, 5 percentage points higher than the national average, as per the
+HESA Graduate Outcomes 2023 report.
+e The University successfully recruited 108 students into the third cohort of the KMMS Medical
+School and looking ahead has a new cohort of 104 students starting for the 2024/2025
+academic year.
+
+e The University worked with 72 Kent and Medway health care providers in 363 locations.
+
+e We supported over 50 partner schools and colleges in Kent and Medway.
+
+21
+
+PUBLIC BENEFIT STATEMENT (CONTINUED)
+We had 15,000 health and care graduates.
+We are in the top 25 universities for increasing social mobility.
+
+We were ranked in the top 20% of higher education institutions for community engagement and
+research partnerships in the recent Government's Knowledge Exchange Framework (KEF 4)
+
+We were ranked in the top third of higher education institutions for sustainability and the
+environment in the ‘People and Planet’ League table.
+
+Illustrations of how the University has fulfilled its charitable public benefit purposes in 2023/24 include:
+
+We held our first Futures Day in May 2024 — an exciting new event held on Campus and Online
+over a 36 hour period. Over 362 donors helped to raise £14,414 that has been applied to
+supporting students through the cost of living crisis.
+
+We are part of the Police Education Consortium (PEC) along with three other universities,
+Middlesex University, University of Cumbria and University of Portsmouth who work
+collaboratively to deliver transformational police education. The PEC has won the title of ‘Best
+Apprenticeship in Public Sector’ award at the Apprenticeship Guide Awards 2024.
+
+One of our Senior Lecturers in the School of Nursing, May Chen, has won a prestigious the
+RCN Foundation Impact Award 2024 in recognition of the positive influence her research had
+upon the wellbeing of student nurses.
+
+We continue to support Pride Canterbury in celebrating the LGBTQIA+ community. The Pride
+Canterbury event was held on 8-9 June 2024 and there was strong representation from the
+University in the parade. We also supported Medway Pride, with a stall being provided at the
+festival celebrations.
+
+We welcomed the return of the annual Medieval Mayhem pageant to Canterbury in July 2024.
+In support of the event the University hosted a series of free, fun and entertaining events for
+the local community, including a medieval encampment to provide a living history display. There
+was a selection of table top and PC based games designed by the University’s Games Design
+students and a demonstration of medieval music provided by the University’s Master of Music,
+Gareth Balch.
+
+Alpine’s Rac(H)er Programme hosted a test and training camp in June 2024 in collaboration
+with the University’s Sports Lab. The camp was a continuation of the driver's development
+provided as part of their participation in the programme. The collaboration included the BWT
+Alpine F1 team. The sports lab provided a series of tailored test and training workshops for four
+young drivers.
+
+The University supported the next generation of voters with students from secondary schools
+from across Canterbury and the surrounding area taking part in a democratic debate hosted by
+the University’s Politics and International Relations programme. Nearly 80 students came
+together to discuss the topics that mattered to them, ahead of the general election.
+
+The University supported the development of women leaders by being part of the South East
+Action Learning Programme. Women leaders in the University were given the opportunity to
+connect with leaders in universities across London and the South East. During a six month
+programme they were given the space to explore challenges and ambitions in a facilitated way.
+
+22
+
+PUBLIC BENEFIT STATEMENT (CONTINUED)
+
+The University held the annual Alumni Awards event, welcoming more than 100 graduates and
+guests to recognise those who make a difference, inspiring change and making a positive
+impact on the community. The winners this year ranged from Alumni who champion the
+importance of the transformative impact of education, to those who served in the nursing
+profession as carers during the COVID 19 pandemic.
+
+The School of Engineering, Technology and Design worked in collaboration with Tensei, a
+company that specialises in designing and producing innovative plant fibre materials, to
+investigate and research their latest sustainable material. This was a social values programme
+project funded by a Growing Kent & Medway grant.
+
+The School of Teacher Education achieve two notable successes in the year. The School
+achieved the highest possible rating of its International Qualified Teacher Status (iQTS)
+provision. The School also successfully completed the Department for Education (DfE)
+accreditation process to deliver Initial Teacher Education in the 2024/2025 year.
+
+23
+
+STATEMENT OF PRIMARY RESPONSIBILITIES OF THE UNIVERSITY'S
+GOVERNING BODY
+
+In accordance with the Instrument and Articles of Government, the Governing Body is responsible for
+the determination of the educational character and mission of the University and the oversight of its
+activities including ensuring that an effective system of internal control is maintained. The other primary
+responsibilities of the Governing Body are to:
+
+e protect the effective and efficient use of resources, and for safeguarding assets, taking advice
+from the Finance and Resources Committee;
+
+« set a framework for the appointment, assignment, grading, appraisal, suspension, dismissal
+and determination of the pay and conditions of staff other than designated senior staff, for the
+guidance of the Finance and Resources Committee and/or the Vice-Chancellor as appropriate;
+
+¢ ensure the effective management of the University and plan its future development;
+
+e observe the highest standards of corporate governance. To ensure and demonstrate integrity
+and objectivity in the transaction of its business and, wherever possible, following a policy of
+openness and transparency in the dissemination of its decisions;
+
+e ensure that funds provided by the Office for Students and other funding bodies are used in
+accordance with specified terms and conditions in the agreements between the University and
+such funding bodies;
+
+e ensure, through the Finance and Resources Committee and the Audit Committee, the
+establishment and monitoring of systems of control and accountability including financial and
+operational controls and risk assessment;
+
+e take such steps as are reasonably practicable to ensure that the Students’ Union operates in a
+fair and democratic manner and is accountable for its finances (The Education Act 1994);
+
+e protect the health and safety of employees, students and other individuals whilst on the
+University’s premises and in other places where they may be affected by its operations;
+
+e ensure that the University has a written statement of policy on health and safety and
+arrangements for the implementation of that policy, including the establishment of a Health and
+Safety Group with trade union and staff representation;
+
+e eliminate unlawful discrimination and promote equality of opportunity and good relations
+between different groups; and
+
+e determine the educational character and mission of the University including the approval of the
+University's Strategic Plan and the setting of Key Performance Indicators (KPIs).
+
+The specific responsibilities of the Governing Body have been set out in the Statement of Corporate
+Governance.
+
+Financial Responsibilities of the Governing Body
+
+The Governing Body is responsible for keeping proper accounting records which disclose with
+reasonable accuracy at any time, the financial position of the University and which enable it to ensure
+that the financial statements are prepared in accordance with the Instrument and Articles of
+Government, the Statement of Recommended Practice: Accounting for further and higher education
+and relevant legislation. In addition, within the terms and conditions of funding for Higher Education
+Institutions from the Office for Students (OfS), the Governing Body, through its designated accountable
+officer (the Vice-Chancellor), is required to prepare financial statements for each financial year which
+give a true and fair view of the state of affairs of the University and of the surplus or deficit and cash
+flows for that year.
+
+24
+
+STATEMENT OF PRIMARY RESPONSIBILITIES OF THE UNIVERSITY'S
+GOVERNING BODY (CONTINUED)
+
+In causing the financial statements to be prepared, the Governing Bady has ensured that:
+
+suitable accounting policies are selected and applied consistently,
+judgements and estimates are made that are reasonable and prudent,
+
+applicable accounting standards have been followed, subject to any material departures
+disclosed and explained in the financial statements; and
+
+financial statements are prepared on the going concern basis unless it is inappropriate to
+presume that the University will continue in operation. The Governing Body is satisfied that the
+University has adequate resources to continue in operation for the foreseeable future. For this
+reason, the going concern basis continues to be adopted in the preparation of the financial
+statements.
+
+The Governing Body has taken reasonable steps to:
+
+ensure that OfS funds are used only for the purposes for which they have been given and in
+accordance with the Financial Memorandum and any other conditions which the OfS may from
+time to time prescribe;
+
+ensure that there are appropriate financial and management controls in place to safeguard
+public funds and funds from other sources;
+
+safeguard the assets of the University and to prevent and detect fraud;
+
+safeguard the economical, efficient and effective management of the University’s resources
+and expenditure; and
+
+review the means of securing its own effectiveness.
+
+The governors confirm, so far as each governor is aware, there is no relevant audit information of which
+the group auditor is unaware. Each governor has taken all the steps that they ought to have taken in
+their duty as a governor in order to make themselves aware of any relevant audit information and to
+establish that the group auditor is aware of that information.
+
+The key elements of the University's system of internal financial control, which is designed to discharge
+the responsibilities set out above, include the following:
+
+clear definitions of the responsibilities of, and the authority delegated to, heads of academic
+and administrative departments;
+
+a comprehensive medium and short-term planning process, supplemented by detailed annual
+income, expenditure, capital and cash flow budgets;
+
+regular reviews of KPIs and business risks and monthly reviews of financial results involving
+variance reporting and updates of forecast outturns;
+
+clearly defined and formalised requirements for approval and control of expenditure, with
+
+investment decisions involving capital or revenue expenditure being subject to formal detailed
+appraisal and review according to approval levels set by the Governing Body;
+
+25
+
+STATEMENT OF PRIMARY RESPONSIBILITIES OF THE UNIVERSITY'S
+GOVERNING BODY (CONTINUED)
+
+comprehensive financial regulations, detailing financial controls and procedures, including a
+fraud policy, all as approved by the Finance and Resources Committee and Governing Body;
+
+compliance with a University policy on risk management; and
+
+a professional internal audit team whose annual programme is approved by the Audit
+Committee under powers delegated by the Goveming Body and whose head provides the Audit
+Committee with a report on internal audit activity within the University and an opinion on the
+adequacy and effectiveness of its system of intemal control, including internal financial control.
+
+Any system of internal financial control can, however, only provide reasonable, but not absolute,
+assurance against material misstatement or loss.
+
+The Governing Body intends to publish the financial statements on the University’s website:
+
+the maintenance and integrity of the University's website is the responsibility of the governors,
+the work carried out by the auditor does not involve consideration of these matters and,
+accordingly, the auditor accepts no responsibility for any changes that may have occurred to
+the financial statements since they were initially presented on the website.
+
+legislation in the United Kingdom governing the preparation and dissemination of financial
+statements may differ from legislation in other jurisdictions.
+
+fottd fed a
+
+Ms J Annitt :
+
+Pro-Chancellor (Chair of the Governing Body)
+
+Date:
+
+26 November 2024
+
+26
+
+
+STATEMENT OF CORPORATE GOVERNANCE
+
+The University is a private limited company by guarantee without share capital, and a registered charity.
+It has a wholly owned subsidiary, Medco (CCCU) Limited, trading as Unitemps, a private limited
+company.
+
+The objects of the University are set out in articles of association incorporating the instrument of
+government of 23 September 2021. It is a registered OfS provider, having entered onto The OfS
+Register on 28 August 2018.
+
+The Church of England retains an interest in the distinctive Christian elements of the University’s
+governance arrangements through special safeguarding provisions contained in the governing
+documents. These provisions, known as the golden vote, allow for the Church of England to exercise a
+power of veto if the Governing Body passes any resolution that seeks to remove or vary any clause in
+the governing documents pertaining to the University’s Christian distinctiveness. The golden vote is not
+considered to be a material factor in the University's overall governance arrangements in circumstances
+where it has never been exercised and its inclusion and scope in the governing documents has been
+narrowed following dialogue with the Church of England.
+
+Governors are the charity trustees and are responsible for ensuring compliance with charity law. The
+Governing Body adheres to the Seven Principles of Public Life, the Higher Education Code of
+Governance and the OfS public interest governance principles.
+
+The Governing Body shall consist of a majority of independent Governors and when complete, normally
+consists of not fewer than 18 persons.
+
+The maximum number of Company Members is 19. It includes four nominative governors being
+members of the Church of England of whom: (i) one is appointed by the Archbishop of Canterbury; (ii)
+one is appointed by the Diocesan Boards of Education of Canterbury and Rochester dioceses acting
+jointly (iii) one is appointed by the Archbishops’ Council of the Church of England (iv) one is the Bishop
+of Dover or their nominee; one is the Vice-Chancellor and Principal; three staff governors: the three
+being respectively a member of the Academic Board nominated by that Academic Board together with
+a member of the academic staff of the University and a member of the professional services staff of the
+University; one student governor, being the elected President of the Students’ Union, ex-officio, and not
+more than nine co-opted governors, at least six of whom are to be members of the Church of England.
+
+In terms of co-opted governors, the Governing Body is mandated to seek to ensure that different
+University, county and regional interests are reflected in its membership.
+
+The Governing Body is chaired by Ms J Armitt, the Pro-Chancellor since 1 August 2021. Since 1 August
+2023 Mr C Stevens has held the role of the Deputy Pro-Chancellor of the Governing Body. The role of
+Senior Independent Governor is held by the Right Reverend Bishop R Hudson-Wilkin.
+
+A schedule of delegation sets out the responsibilities of decision making, between the Governing Body,
+its committees and the Vice Chancellor. The main responsibilities of Governing Body are:
+
+1. to determine the educational character and mission of the University including the approval of
+
+the University's Strategic Plan and the setting of KPls;
+
+to approve annual estimates of income and expenditure;
+
+to ensure the solvency of the institution and the safeguarding of its assets;
+
+to appoint or dismiss the Vice-Chancellor, the Clerk to the Governing Body, the Chaplain and
+
+such other senior posts designated by the Governing Body;
+
+5. to ensure that there are suitable arrangements for monitoring the Vice-Chancellor's
+performance;
+
+6. to vary or revoke of the Instrument or Articles of Government (subject to provisions within those
+documents regarding the Archbishops’ Council);
+
+7. to ensure compliance with Company and Charity law;
+
+PON
+
+27
+
+STATEMENT OF CORPORATE GOVERNANCE (CONTINUED)
+
+8. to approve annual financial statements upon external audit;
+
+9. to approve the constitution of the student body (Students’ Union) and receive audited accounts
+of the Students’ Union;
+
+10. to approve the University’s Risk Management Framework, Risk Register and Risk Appetite
+Statement;
+
+11. to approve and monitor widening participation arrangements;
+
+42. to regularly monitoring performance against planned strategies and operational targets; and
+
+13. to review its own effectiveness and performance and that of its committees formally every three
+years, and annually on a ‘light touch’ basis; and,
+
+14. to review its terms of reference and work plan annually.
+
+The Governing Body normally meets four times per year. Three further ‘all governor’ briefing sessions
+were held. Additionally, governor visits enable governors to be fully briefed on the University's activities,
+meeting with students and staff. In 2023/24, the following governor visits took place: visit of the Medway
+Campus facilities, the Graduate Futures department, Academy of Sustainable Futures and the School
+of Creative Arts and Industries.
+
+The Academic Board, a committee of the Governing Body, chaired by the Vice-Chancellor, is
+responsible for all aspects of the academic work of the University and can establish such committees
+as are necessary. Each committee is chaired by a senior member of staff and faculties are represented
+on all committees.
+
+Subject to the requirements of validating and accrediting bodies, the Academic Board is responsible
+for: general issues relating to the research, scholarship, teaching and courses at the University; the
+appointment of internal and external examiners; assessment and examination policies and procedures;
+the curriculum; academic standards and course validation; the procedures for the award of qualifications
+and honorary academic titles; the procedure for the suspension or expulsion of students for academic
+reasons; for considering the development of the University's academic activities; and for advising on
+such other matters as the Governing Body or the Vice-Chancellor and Principal may refer to it.
+
+An overview of the central academic committees of the University, including membership and terms of
+reference can be found on the University’s website.
+
+There are four other Governing Body committees: Chairs’ Committee, Finance and Resources
+Committee, Audit Committee and Remuneration Committee, all of which include independent
+governors.
+
+Decisions and recommendations of Governing Body committees are reported to the Governing Body
+and terms of reference are reviewed on an annual basis.
+
+The Chairs’ Committee is responsible for advising the Governing Body about governance policy and
+practice; monitoring the University’s register of interests; considering nominations to the Governing
+Body and recommending appointments to it; considering Honorary Fellowship and Doctorate
+nominations; considering nominations for naming University buildings and rooms; monitoring
+compliance with the CUC Code of Governance; oversight of committee terms of reference and schedule
+of delegation; oversight of annual governor informal discussions and three yearly review of governance;
+reviewing its own effectiveness and performance annually on a ‘light touch’ basis and formally every
+three years; strategic oversight of Estates Planning; and there is an annual review of Chairs’ Committee
+terms of reference and work plan.
+
+The Chairs’ Committee membership consists of:
+e Pro-Chancellor of the University (Chair of the Governing Body) Ms J Armitt (Archbishop of
+
+Canterbury's appointee)
+e Chair of the Audit Committee — Lady A Newey (Independent)
+
+28
+
+STATEMENT OF CORPORATE GOVERNANCE (CONTINUED)
+
+© Chair of F&R Committee (and Deputy Pro-Chancellor of the University from 1 August 2023) —
+Mr C Stevens (Independent)
+Chair of the Remuneration Committee — Mrs N Ahmed (Independent)
+Vice-Chancellor and Chair of the Academic Board — Professor R Thirunamachandran (Vice-
+Chancellor)
+
+e¢ One co-option if vacancies exist because individual members fulfil multiple roles.
+
+The Chairs’ Committee normally meets three times in each academic year. In 2023/24 the Chairs’
+Committee met on three occasions.
+
+The Finance and Resources Committee is responsible for the financial affairs of the University including
+consideration of estimates of income and expenditure and the consolidated financial statements; the
+strategic management of the University’s estate; major building developments, acquisitions or
+disposals; the efficient use of physical resources; the care and maintenance of the University's estate;
+consideration and monitoring of the ICT strategy; oversight of the Vice-Chancellor's actions related to
+human resources and strategic oversight of the University's People Strategy; strategic oversight of the
+widening participation agenda; annual accounts of the Students’ Union; oversight of the University's
+subsidiary companies; approval of financial regulations, policies and procedures; oversight of TRAC
+
+. returns; oversight of the sustainability agenda; and reviewing its terms of reference and work plan
+annually.
+
+The Finance and Resources Committee membership consists of:
+
+Chair of the Finance and Resources Committee — Mr C Stevens (Independent)
+Student Governor — Miss A Lundy (to 9 February 2024)
+
+Professor G Dewhurst (Independent)
+
+Ms J Harding (Independent)
+
+Revd R Stevenson (Independent)
+
+Vice-Chancellor — Professor R Thirunamachandran (Vice-Chancellor)
+
+The Finance and Resources Committee normally meets three times in each academic year. In
+2023/24 the Finance and Resources Committee met on three occasions.
+
+The Audit Committee is responsible for the appointment of the External Auditor; discussing the nature
+and scope of the external audit; discussing with the external auditor any arising problems including a
+review of the management letter; appointing the internal auditor; reviewing the internal audit strategy
+and findings; monitoring the effectiveness of risk management; monitoring the implementation of audit
+recommendations; ensuring all significant losses are investigated; overseeing policies on fraud and
+irregularity; monitoring arrangements to promote economy, efficiency and effectiveness; receiving
+reports from the National Audit Office, the regulator and other organisations; monitoring performance
+of both internal and external audit; considering financial statements in the presence of the external
+auditor; monitoring data assurance arrangements; monitoring KPls; considering the Audit Committee
+Annual Report; and reviewing its Terms of Reference and Work Plan annually.
+
+The Audit Committee membership consists of:
+
+Chair of the Audit Committee — Lady A Newey (Independent)
+
+Ms S Appleby (Independent)
+
+Mrs P Jones (Archbishops' Council of the Church of England appointee)
+Mr J Stockwell (Independent)
+
+And Co-opted members:
+
+e MrD Crush (from 1 August 2023)
+e Mr G Ward (from 1 August 2023)
+
+29
+
+STATEMENT OF CORPORATE GOVERNANCE (CONTINUED)
+
+The Audit Committee normally meets four times in each academic year. In 2023/24 the Audit Committee
+met on four occasions.
+
+The Remuneration Committee is responsible for determining the pay and conditions of employment for
+the Vice-Chancellor; the senior management team; and other senior staff deemed appropriate.
+
+Remuneration Committee membership consists of:
+
+e Chair of the Remuneration Committee — Ms N Ahmed (Independent)
+e Pro-Chancellor of the University -—Ms J Armitt
+e Professor J Wood (Independent)
+
+e Student Governor — Ms A Lundy (to 9 February 2024)
+
+And Co-opted member:
+e Lord A Colgrain (independent Assessor).
+The Remuneration Committee normally meets once in each academic year.
+
+A Governance Effectiveness Review undertaken by the SUMS Consultancy in 2023/24 concluded that
+the standard of governance at the University is “good”. A number of recommendations were set out in
+SUMS’ report, for the Governing Body to consider as potential areas for further enhancing the
+University’s governance effectiveness.
+
+The University ensures openness and transparency in order that stakeholders can have confidence in
+its decision-making and management processes.
+
+Transparency about the corporate governance arrangements of the University is achieved by virtue of
+publication of the following documents on its website:
+
+Memorandum and Articles
+Schedule of Delegation
+Governing Body Structure
+Governor Appointment Policy
+Register of Interests
+
+Terms of Reference
+
+Annual Financial Statements
+Governing Body and Committee Minutes
+FOI Publication Scheme
+Whistleblowing Policy
+
+Fit and Proper Persons Policy.
+
+The Governing Body updated its Governor Appointment Policy, and the Audit Committee approved an
+update to the University's Whistleblowing (‘Speak Up’) Policy in 2023/24. The University refreshed its
+FOI Publication Scheme in 2023/24.
+
+The Governing Body ensures the adequacy and effectiveness of arrangements for corporate
+governance, risk management and oversight of any statutory and other regulatory responsibilities,
+including compliance with ongoing OfS conditions of registration, terms and conditions of funding as
+well as any other relevant regulatory responsibilities by:
+
+- Meeting at least four times each academic year to determine strategy;
+
+- Receiving and approving, on an annual basis, the ‘Report on Maintenance of Academic
+Standards and the Management and Enhancement of the Quality of the Student Experience’
+(from the Academic Board) as well as the annual ‘Degree Outcomes Statement’;
+
+30
+
+STATEMENT OF CORPORATE GOVERNANCE (CONTINUED)
+
+- Receiving and approving, on an annual basis, a compliance statement on ‘Research and
+Enterprise Integrity’.
+
+- Receiving an annual report and assurance from the University Solicitor regarding the
+University's compliance with OfS initial and ongoing general conditions of registration;
+
+- Receiving updates from the Audit Committee concerning internal control, and strategic risk
+management;
+
+- Oversight by the Audit Committee of the University’s risk management framework and a high-
+level strategic risk register fully aligned to the University’s strategic goals set out in the
+University’s Vision 2030 Strategic Framework;
+
+- Regular reviews by the Audit Committee of Internal Audit reports, which include an independent
+opinion on the adequacy and effectiveness of the University’s systems of governance, risk
+management and internal control, together with improvement recommendations;
+
+- Monitoring of institutional KPIs (governor sub-set); and
+
+- Reviewing post-investment lesson learning reviews in respect of major investment projects
+undertaken by the University.
+
+Specifically, in terms of public funding from the OfS, UK Research and Innovation (UKRI, including
+Research England), the Department for Education or the Education and Skills Funding Agency the
+University ensures: a. regularity in the use of public funding; and b. propriety in the use of public funding
+by: the provision of a framework of financial controls for the University in the Financial Regulations and
+associated Financial Procedures.
+
+The various elements of the University’s Financial Regulations were approved by the Finance and
+Resources Committee at its meetings on 8 November 2023, 6 March 2024 and 5 June 2024. The
+Financial Regulations are subordinate to the University’s Articles and to any restrictions contained in
+terms of conditions of funding and the audit code of practice.
+
+The purpose of the Financial Regulations is to provide control over the totality of the University’s
+resources and provide assurance in respect of a., and b., above. Compliance with the Financial
+Regulations is mandatory. Breaches are notified to the Governing Body via the Audit Committee. This
+statement covers the reporting period from 1 August 2023 to the date of signing and approving the
+financial statements on 26 November 2024.
+
+31
+
+MODERN SLAVERY AND HUMAN TRAFFICKING
+
+The University is committed to ensuring that slavery and human trafficking is not occurring in its supply
+chain, in line with the Modern Slavery Act 2015. As a values-based institution, the University condemns
+any form of labour exploitation or human trafficking and expects all its suppliers and business partners
+to adhere to the principles set out in the Modern Slavery Act. Oversight of the management of risks of
+modern slavery and human trafficking in the supply chain is provided by a nominated senior manager,
+the Chief Finance and Operating Officer. The University's Modern Slavery and Human Trafficking
+Statement has the support of the full Governing Body and was approved by the Governing Body at its
+meeting on 26th November 2024.
+
+Actions taken by the University in this financial year to meet its obligations include:
+Procurement Activity
+
+In the 2023-24 financial year the University has awarded twelve major supply contracts, three of which
+were deemed to be potentially those that may be at high risk of modern slavery activities. All successful
+suppliers were asked to confirm that they had arrangements in place to manage the risk of slavery in
+their supply chain. The University is further developing its processes in 2024/25 to ensure that bidders
+for such contracts will be required to complete a further in-depth assessment of the checks that they
+have in place to detect cases of modern slavery and forced labour.
+
+Sustainability Toot
+
+This year the University has implemented a new supply chain sustainability monitoring tool. This will
+allow for the monitoring of the sustainability impacts of University suppliers which have registered,
+including modern slavery risks. This is an important development as it provides a more systematic
+approach to supply chain monitoring and management and facilitates collaboration across the higher
+education sector.
+
+In the first year of operation, the tool has enabled the 134 suppliers who have self-certified that they are
+a supplier to CCCU with the following outcomes:
+
+. 60 are legally obliged to publish a modern slavery statement and have done so
+
+. 2 are legally obliged to publish a modern slavery statement and have not yet done so
+: 36 are not obliged to publish a modern slavery statement but have done so anyway
+
+. 36 are not obliged to publish a statement and have not done so
+
+The tool also captures information about incidents of modern slavery, staff training, risk analysis and
+reporting mechanisms. This data will be used to increase the number of suppliers that use the tool
+(prioritising suppliers of high-risk goods or services) and to encourage companies to improve their
+arrangements for managing modern slavery risks.
+
+Operational Control Procedure
+
+As part of its Environmental Management System (EMS) the University maintains a series of
+‘operational control procedures’ that document the steps taken to ensure that the institution's
+sustainability obligations are appropriately managed. The previous arrangements which involved two
+separate procedures for the management of modern slavery risks and sustainable procurement have
+now been combined which has enabled more effective processes for the embedding of modern slavery
+checks within the procurement supply chain.
+
+Procurement Partners
+The University uses pre-negotiated ‘framework agreements’ to award many of its contracts. Most of
+
+these are awarded and managed by the Southern Universities Purchasing Consortium (SUPC) which
+embeds responsible procurement into all of its activities.
+
+32
+
+MODERN SLAVERY AND HUMAN TRAFFICKING (CONTINUED)
+
+Suppliers in higher-risk spend categories are asked by SUPC to commit to the Base Code of the Ethical
+Trading Initiative (ETI). SUPC will work to persuade suppliers in high-risk spend categories to support
+these initiatives. The ET| Base Code is founded on the conventions of the International Labour
+Organisation (ILO) and is an internationally recognised code of labour practice.
+
+SUPC (and other regional universities purchasing consortia with whom we work) are also affiliated with
+the Electronic Watch to ensure compliance with labour rights and safety standards in the technology &
+computing supply chain. This is particularly relevant for the supply of IT equipment which is classed as
+a high-risk industry.
+
+SUPC is committed to acquiring goods and services for its members without causing harm to others.
+
+Affiliating with Electronics Watch is an important step towards achieving this aim, as it provides a
+mechanism for universities across Europe to monitor their electronics supply chains effectively.
+
+33
+
+STATEMENT OF INTERNAL CONTROL
+
+The Governing Body has responsibility for maintaining a sound system of internal control that supports
+the achievement of policies, aims and objectives, while safeguarding the public and other funds and
+assets for which they are responsible, in accordance with the responsibilities assigned to the Governing
+Body in the University’s Instrument and Articles of Governance and the Terms and Conditions of
+Funding for Higher Education Institutions from the OfS.
+
+The system of internal control is designed to manage rather than eliminate the risk of failure to achieve
+policies, aims and objectives; it can therefore only provide reasonable and not absolute assurance of
+effectiveness.
+
+The system of interna! control is based on an ongoing process designed to identify the principal risks
+to the achievement of policies, aims and objectives; to evaluate the nature and extent of those risks;
+and to manage them efficiently, effectively and economically. This process has been in place for the
+year ended 31 July 2024 and up to the date of approval of the Strategic Report and Financial Statements
+and accords with the OfS and Turnbull guidance.
+
+The Governing Body has responsibility for the institution's system of internal control, for reviewing its
+effectiveness and ensuring that the review has covered all controls (financial, operational, risk
+management and compliance).
+
+The following processes have been established:
+
+- The Governing Body meets at least four times each year to consider the plans and strategic
+direction of the institution.
+
+- The Governing Body and the Audit Committee have approved the Risk Management Policy
+and Procedures which summarise the approach, roles and responsibilities, and the annual
+review of effectiveness process.
+
+- The Governing Body has assumed responsibility for oversight of the risk management process
+within the University as a whole, and determined its risk appetite, which includes adopting a
+differentiated approach to risk depending on the nature of the activity. As Chief Executive, the
+Vice-Chancellor has ultimate responsibility for the management of the University, including the
+management of risk. The University’s Chief Finance and Operating Officer oversees the risk
+management process adopted by the University.
+
+- The University maintains a comprehensive Strategic Risk Register that identifies the high-level
+strategic risks facing the institution. Each risk has an identified risk owner clearly documented
+within the Register together with a scoring assessment based on likelihood and impact. Risks
+are given a gross and residual rating. Risk identification and management is closely linked to
+the achievement of the institution's objectives, with all schools and departments producing local
+tisk registers alongside their annual business plans and major change strategic project owners
+producing the same. The University's identified high-level corporate risks are directly linked to
+the University's Key Performance Indicators which monitor achievement against the Strategic
+Plan.
+
+- Each risk response has been formally considered by the Senior Management Team (SMT) and
+the Audit Committee. The SMT, chaired by the Vice-Chancellor considers the risks identified
+in the Project Risk Registers. The Vice-Chancellor and the SMT monitor the top ‘net exposure’
+risks on a regular basis, as well as the effectiveness of controls in place to manage less serious
+risks. Less serious risks are reviewed and monitored by faculties, schools and departments
+which operate local registers as part of an overall approach, embedding risk assessment and
+management within the University. To support this the University has established a Risk Forum
+of risk and action owners who meet at least six times per year to assess risk, controls and
+actions that underpin the strategic plan.
+
+34
+
+STATEMENT OF INTERNAL CONTROL (CONTINUED)
+
+Regular reports are received from the Audit Committee concerning findings of the Internal Auditor and
+matters relating to internal control. The Vice-Chancellor provides a written report to the Audit Committee
+on the University’s approach to Risk Management at each of its meetings and an annual report is
+presented in May of each year.
+
+The University has appointed Interna! Auditors, who operate to standards defined by the Chartered
+Institute of Internal Auditors. The Internal Auditors submit regular reports which include their
+independent opinion on the adequacy and effectiveness of the system of internal control, together with
+recommendations for improvement.
+
+The Governing Body's review of the effectiveness of the system of internal control is also informed by
+the work of the executive managers within the University, who have responsibility for the development
+and maintenance of the internal control framework, and by comments made by the External Auditors in
+their management letter.
+
+Control weaknesses identified in year have been addressed by management, and there are no
+significant control weaknesses to note at the end of the year.
+
+35
+
+INDEPENDENT AUDITOR'S REPORT TO THE GOVERNING BODY OF
+CANTERBURY CHRIST CHURCH UNIVERSITY
+
+Opinion
+
+We have audited the financial statements of Canterbury Christ Church University (‘the University’) and
+its subsidiary (‘the Group’) for the year ended 31 July 2024 which comprise the Consolidated and
+University Statement of Comprehensive Income and Expenditure, the Consolidated and University
+Statement of Changes in Reserves, the Consolidated and University Statement of Financial Position,
+the Consolidated Cash Flow Statement and notes to the financial statements, including a summary of
+significant accounting policies. The financial reporting framework that has been applied in their
+preparation is applicable law and United Kingdom Accounting Standards, including FRS 102 “The
+Financial Reporting Standard Applicable in the UK and Republic of Ireland” (United Kingdom Generally
+Accepted Accounting Practice).
+
+In our opinion, the financial statements:
+
+. give a true and fair view of the state of the Group's and University’s affairs as at 31 July 2024
+and of the Group’s and University’s income and expenditure, gains and losses, changes in
+reserves and cash flows for the year then ended;
+
+. have been properly prepared in accordance with United Kingdom Generally Accepted
+Accounting Practice;
+
+. have been prepared in accordance with the requirements of the Statement of Recommended
+Practice — Accounting for Further and Higher Education; and
+
+. have been prepared in accordance with the requirements of the Companies Act 2006.
+
+Basis for opinion
+
+We conducted our audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and
+applicable law. Our responsibilities under those standards are further described in the Auditor's
+responsibilities for the audit of the financial statements section of our report. We are independent of the
+Group and University in accordance with the ethical requirements that are relevant to our audit of the
+financial statements in the UK, including the FRC’'s Ethical Standard and we have fulfilled our other
+ethical responsibilities in accordance with these requirements. We believe that the audit evidence we
+have obtained is sufficient and appropriate to provide a basis for our opinion.
+
+Conclusions relating to going concern
+
+In auditing the financial statements, we have concluded that the directors’ use of the going concern
+basis of accounting in the preparation of the financial statements is appropriate.
+
+Based on the work we have performed, we have not identified any material uncertainties relating to
+events or conditions that, individually or collectively, may cast significant doubt on the Group’s and
+University’s ability to continue as a going concern for a period of at least twelve months from when the
+financial statements are authorised for issue.
+
+Our responsibilities and the responsibilities of the directors with respect to going concern are described
+in the relevant sections of this report.
+
+36
+
+INDEPENDENT AUDITOR'S REPORT TO THE GOVERNING BODY OF
+CANTERBURY CHRIST CHURCH UNIVERSITY (CONTINUED)
+
+Other information
+
+The other information comprises the information included in the Annual Report, other than the financial
+statements and our auditor's report thereon. Our opinion on the financial statements does not cover the
+other information and, except to the extent otherwise explicitly stated in our report, we do not express
+any form of assurance conclusion thereon.
+
+Our responsibility is to read the other information and, in doing so, consider whether the other
+information is materially inconsistent with the financial statements or our knowledge obtained in the
+audit or otherwise appears to be materially misstated. If we identify such material inconsistencies or
+apparent material misstatements, we are required to determine whether there is a material
+misstatement in the financial statements or a material misstatement of
+
+the other information. If, based on the work we have performed, we conclude that there is a material
+misstatement of this other information, we are required to report that fact.
+
+We have nothing to report in this regard.
+
+Responsibilities of Directors
+
+As explained more fully in the Statement of Responsibilities of the Directors set out on page 24, the
+directors are responsible for the preparation of the financial statements and for being satisfied that they
+give a true and fair view, and for such internal control as they determine is necessary to enable the
+preparation of financial statements that are free from material misstatement, whether due to fraud or
+error.
+
+In preparing the financial statements, the directors are responsible for assessing the Group and
+University's ability to continue as a going concern, disclosing, as applicable, matters related to going
+concern and using the going concern basis of accounting unless the directors either intend to liquidate
+all or part of the University Group or to cease operations, or have no realistic alternative but to do so.
+
+Auditor’s responsibilities for the audit of the financial statements
+
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole
+are free from material misstatement, whether due to fraud or error, and to issue an auditor's report that
+includes our opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an
+audit conducted in accordance with ISAs (UK) will always detect a material misstatement when it exists.
+Misstatements can arise from fraud or error and are considered material if, individually or in the
+aggregate, they could reasonably be expected to influence the economic decisions of users taken on
+the basis of these financial statements.
+
+The extent to which our procedures are capable of detecting irregularities, including fraud is detailed
+below.
+
+Irregularities, including fraud, are instances of non-compliance with laws and regulations. We design
+procedures in line with our responsibilities, outlined above, to detect material misstatements in respect
+of irregularities, including fraud.
+
+37
+
+INDEPENDENT AUDITOR'S REPORT TO THE GOVERNING BODY OF
+CANTERBURY CHRIST CHURCH UNIVERSITY (CONTINUED)
+
+Based on our understanding of the University Group and its operations, we considered that non-
+compliance with the following laws and regulations might have a material effect on the financial
+statements: OfS requirements, UK tax legislation, pensions legislation, employment regulation and
+health and safety regulation, anti-bribery, corruption and fraud and money laundering.
+
+To help us identify instances of non-compliance with these laws and regulations, and in identifying and
+assessing the risks of material misstatement in respect to non-compliance, our procedures included,
+but were not limited to:
+
+. Inquiring of management and, where appropriate, those charged with governance, as to
+whether the University Group is in compliance with laws and regulations, and discussing their
+policies and procedures regarding compliance with laws and regulations;
+
+. Inspecting correspondence, if any, with relevant licensing or regulatory authorities;
+
+. Communicating identified laws and regulations to the engagement team and remaining alert to
+any indications of non-compliance throughout our audit; and
+
+. Considering the risk of acts by the University Group which were contrary to applicable laws and
+regulations, including fraud.
+
+We also considered those laws and regulations that have a direct effect on the preparation of the
+financial statements, such as pensions legislation, the OfS Accounts Direction and the Companies Act
+2006.
+
+In addition, we evaluated the directors’ and management's incentives and opportunities for fraudulent
+manipulation of the financial statements, including the risk of management override of controls, and
+determined that the principal risks related to posting manual journal entries to manipulate financial
+performance, management bias through judgements and assumptions in significant accounting
+estimates, in particular in relation to defined benefit pension obligations, revenue recognition (which we
+pinpointed to the cut-off assertion), and significant one-off or unusual transactions.
+
+Our audit procedures in relation to fraud included but were not limited to:
+
+. Making enquiries of the directors and management on whether they had knowledge of any
+actual, suspected or alleged fraud;
+
+. Gaining an understanding of the internal controls established to mitigate risks related to fraud;
+
+. Discussing amongst the engagement team the risks of fraud; and
+
+. Addressing the risks of fraud through management override of controls by performing journal
+entry testing.
+
+There are inherent limitations in the audit procedures described above and the primary responsibility
+for the prevention and detection of irregularities including fraud rests with management. As with any
+audit, there remained a risk of non-detection of irregularities, as these may involve collusion, forgery,
+intentional omissions, misrepresentations or the override of internal controls.
+
+A further description of our responsibilities for the audit of the financial statements is located on the
+Financial Reporting Council's website at www.frc.org.uk/auditorsresponsibilities. This description forms
+part of our auditor's report.
+
+38
+
+INDEPENDENT AUDITOR'S REPORT TO THE GOVERNING BODY OF
+CANTERBURY CHRIST CHURCH UNIVERSITY (CONTINUED)
+
+Other Required Reporting
+Opinions on other matters prescribed by the Companies Act 2006
+In our opinion, based on the work undertaken in the course of the audit:
+
+. the information given in the strategic report and the directors’ report for the financial period for
+which the financial statements are prepared is consistent with the financial statements; and
+
+. the strategic report and the directors’ report have been prepared in accordance with applicable
+legal requirements.
+
+Opinion on other matters prescribed in the OfS Audit Code of Practice issued under the Further and
+Higher Education Act 1992
+
+In our opinion, in all material respects:
+
+. funds from whatever source administered by the provider for specific purposes have been
+properly applied to those purposes and managed in accordance with relevant legislation;
+: funds provided by OfS, UK Research and Innovation (including Research England), the
+
+Education and Skills Funding Agency and the Department for Education have been applied in
+accordance with the relevant terms and conditions; and
+
+. the requirements of the OfS's accounts direction have been met.
+
+Matters on which we are required to report by exception
+
+In light of the knowledge and understanding of the Group and University and its environment obtained
+in the course of the audit, we have not identified material misstatements in the strategic report or the
+directors’ report.
+
+We have nothing to report in respect of the following matters in relation to which the Companies Act
+2006 requires us to report to you if, in our opinion:
+
+. adequate accounting records have not been kept, or returns adequate for our audit have not
+been received from branches not visited by us; or
+
+. the financial statements are not in agreement with the accounting records and returns; or
+
+. certain disclosures of directors’ remuneration specified by law are not made; or
+
+. we have not received all the information and explanations we require for our audit.
+
+We have nothing to report in respect of the following matters in relation to which the OfS Audit Code of
+Practice requires us to report to you if, in our opinion:
+
+. the provider's grant and fee income, as disclosed in the notes to the financial statements, is
+materially misstated; or,
+. the provider’s expenditure on access and participation activities, as disclosed in the financial
+
+statements, has been materially misstated.
+
+39
+
+INDEPENDENT AUDITOR'S REPORT TO THE GOVERNING BODY OF
+CANTERBURY CHRIST CHURCH UNIVERSITY (CONTINUED)
+
+Use of the audit report
+
+This report is made solely to the University’s members as a body in accordance with Chapter 3 of Part
+16 of the Companies Act 2006. Our audit work has been undertaken so that we might state to the
+University’s members those matters we are required to state to them in an auditor's report and for no
+other purpose. To the fullest extent permitted by law, we do not accept or assume responsibility to
+anyone other than the Group and University and the University’s members, as a body, for our audit
+work, for this report, or for the opinions we have formed.
+
+Signed: 772 J Wohafretd
+
+Nicola Wakefield (Senior Statutory Auditor)
+for and on behalf of:
+
+Forvis Mazars LLP
+Chartered Accountants and Statutory Auditor
+
+6 Sutton Plaza,
+Sutton Court Road,
+Sutton Surrey,
+SM1 4FS
+
+Date! aeyy Wovember 2%O%*
+
+STATEMENT OF PRINCIPAL ACCOUNTING POLICIES
+
+1. Basis of Preparation
+
+These financial statements have been prepared in accordance with the historical cost convention, taking
+into account the Statement of Recommended Practice (SORP): Accounting for Further and Higher
+Education 2019 and in accordance with Financial Reporting Standards FRS 102. The University is a
+company limited by guarantee incorporated in the United Kingdom under the Companies Act. The
+University’s registered address and that of the subsidiary company is shown on page 1 of this report.
+Under FRS 102 the University has taken advantage of the exemptions for financial instrument
+disclosure for the parent and from providing a parent company cash flow statement.
+
+The University is a public benefit entity and therefore has applied the relevant public benefit
+requirements of FRS 102. The Financial Statements are prepared in accordance with the historical cost
+convention. The principal accounting policies, which have been applied consistently throughout the
+current year are set out below.
+
+The financial statements have been prepared on a going concern basis informed by the University’s
+future financial forecasts, taking into account possible changes in performance. In arriving at its
+assessment the Governing Body has reviewed the financial forecasts and is satisfied that the University
+has sufficient facilities to continue operating at its current level.
+
+2. Critical Judgements
+
+The following are the critical judgements that have been made in the process of applying the University’s
+accounting policies.
+
+2.1 Income Recognition - Capital and Research Grants Received
+
+The University’s accounting policy requires recognition of income when performance related conditions
+are met. Income received in advance of performance related conditions being met is recognised as
+deferred income within creditors on the balance sheet and released into income as the conditions are
+met. The research contracts that are entered into by the University are assessed and any performance
+conditions identified. The income from these research activities is released based on the meeting of the
+conditions stated in the research contracts or on commencement of the activity if no conditions are
+specified. Where conditions have not yet been met the income is held as deferred income within
+creditors on the balance sheet.
+
+2.2 Income Recognition — Deposit Interest
+
+The income generated from short term deposits of cash and cash equivalents is seen to be part of the
+operating cash flow of the University as it is derived from short term investment of liquid cash and cash
+equivalents. The income is reported as investment income in the Statement of Comprehensive Income,
+however, the appropriate treatment of this income in the Cash Flow Statement is to include it in the
+operational surplus/(deficit). This is a change to previous reporting of interest earned from cash deposits
+in the Cash Flow Statement, where it had been included in investment activities. The change was
+deemed necessary as the University does not hold any long-term investments and to include the income
+as being part of investing activities could be misleading as the income is sourced from liquid cash from
+operational activities. In previous years the amount of interest was insignificant, and the reporting
+treatment only became relevant when the amount of interest earned increased to a material level in the
+year ended 31 July 2023. This change affects the Cash Flow Statement report and has no impact on
+the Statement of Comprehensive Income, the Statement of Financial Position or on the level of reported
+reserves. The comparatives for 2023 in the Consolidated Cash Flow Statement have been amended to
+reflect this change.
+
+2.3 Universities Superannuation Scheme
+
+FRS 102 makes the distinction between a group plan and a multi-employer scheme. A group plan
+consists of a collection of entities under common control typically with a sponsoring employer.
+
+41
+
+STATEMENT OF PRINCIPAL ACCOUNTING POLICIES (CONTINUED)
+
+A multi-employer scheme is a scheme for entities not under common control and represents (typically)
+an industry-wide scheme such as Universities Superannuation Scheme. The accounting for a multi-
+employer scheme where the employer has entered into an agreement with the scheme that determines
+how the employer will fund a deficit results in the recognition of a liability for the contributions payable
+that arise from the agreement (to the extent that they relate to the deficit) with the resulting expense
+charged through the profit or loss account in accordance with section 28 of FRS 102. The directors are
+satisfied that Universities Superannuation Scheme meets the definition of a multi-employer scheme and
+will therefore recognise the discounted fair value of the contractual contributions under the recovery
+plan if this is in existence at the date of approving the financial statements.
+
+2.4 Depreciation
+
+The annual depreciation charge for fixed assets is sensitive to changes in the estimated useful
+economic lives and residual values of the assets. Depreciation methods, useful economic lives and
+residual values are reviewed by management at the date of preparation of each Statement of Financial
+Position.
+
+3. Accounting Estimates
+
+The key assumptions concerning the future, and other key estimation uncertainty at the balance sheet
+date that have a significant risk of causing material adjustment to the carrying amounts of the assets
+and liabilities within the next financial year are highlighted as follows.
+
+3.1 Local Government Pension Scheme
+
+The present value of the Local Government Pension Scheme defined benefit liability depends on a
+number of factors that are determined on an actuarial basis using a variety of assumptions. The
+assumptions used in determining the net cost for pensions include the discount rate. Any changes in
+these assumptions as disclosed in note 23 will impact on the carrying value of the pension liability.
+
+3.2 Bad Debt Provision
+
+The provision for bad and doubtful debts is based on our estimate of the expected recoverability of
+debts. The assumptions underlying our estimate for bad debt provision are driven by the nature of
+debtor (ie student, accommodation and commercial debt), as well as by the age profile of the component
+debts. The validity of the respective provision percentages applied to each category of debt is reviewed
+against recent historic trends for debt recoverability each year, following which the rates are prudently
+revised where appropriate. On that basis, we believe that our estimate of bad debt provision each year
+closely aligns with the risk associated with the recoverability of outstanding debt.
+
+3.3 Provision for Dilapidations
+
+Provision is made for the cost of dilapidations of certain of the University’s lease hold buildings. This
+provision requires management's best estimate of the costs that will be incurred to settle a present
+obligation and management rely on the judgement of a qualified valuer in making these assumptions.
+4. Basis of Consolidation
+
+The consolidated financial statements include the University and its subsidiary company for the financial
+year to 31 July 2024. Intra-group transactions are eliminated on consolidation. The consolidated
+financial statements do not include the income and expenditure of the Students’ Union as the University
+does not exert control or dominant influence over policy decisions of the Union.
+
+5. Recognition of Income
+
+Income is measured at the fair value of the consideration received or receivable and represents
+amounts receivable for services provided in the normal course of business, net of discounts and VAT
+
+42
+
+STATEMENT OF PRINCIPAL ACCOUNTING POLICIES (CONTINUED)
+
+recoverable from HM Revenue and Customs. Revenue from transactions that have a commercial
+substance, including tuition fee, accommodation, catering and conference income and consultancy fees
+are recognised as income in the Statement of Comprehensive Income using the Performance Related
+method of apportionment. Fee income is stated gross and credited to the income and expenditure
+account over the period in which students are studying. This may involve the deferral of income over
+more than one financial year. Where the amount of the tuition fee is reduced, by a discount awarded
+by the University for prompt payment, income receivable is shown net of the discount. Bursaries and
+scholarships are accounted for gross as expenditure and are not deducted from income.
+
+Income generated as interest earned on short term deposits of cash and cash equivalents is recognised
+as investment income in the Statement of Comprehensive Income.
+
+In the past interest earned on liquid funds had been reported in the Cash Flow Statement as part of the
+University’s investment activities, which given that the University does not hold any income generating
+investments did not seem to be an appropriate treatment. Due to the very short-term nature of the
+deposits and cash held at the bank on which the interest is earned it seems more appropriate to
+recognise this as part of the University’ operating activities. Therefore, the income will now be included
+in the Cash Flow Statement as part of the surplus/(deficit) reported for the year.
+
+6. Grants
+
+Revenue-based grants from Government, the Office for Students (OfS), the Department for Education
+(DfE) and HEKSS trusts are passed through the Income and Expenditure Account when the conditions
+
+relating to the grant have been satisfied (see 5, Recognition of Income above). Grants or other
+contributions from Government and other bodies are accounted for using the performance model and
+are recognised in the financial statements when the conditions for their receipt have been complied with
+and there is reasonable assurance that the grant or contribution will be received.
+
+7. Agency Arrangements
+
+Funds the institution receives and disperses as a paying agent on behalf of a funding body are excluded
+from the income and expenditure of the University where the University is exposed to minimal risk or
+enjoys minimal economic benefit related to the transaction.
+
+8. Foreign Currencies
+
+Transactions denominated in foreign currencies are recorded at the rate of exchange ruling at the date
+of the transactions. Monetary assets and liabilities denominated in foreign currencies are translated
+into sterling at the closing rate as at the year end. The resulting exchange differences are charged to
+the Statement of Comprehensive Income.
+
+9. Operating Leases
+
+Rental costs under operating leases are charged to expenditure in equal annual amounts over the
+period of the leases. Rent free periods or other incentives reduce the total expenditure on the lease,
+calculated by applying all of the incentive over the life of the lease.
+
+10. Intangible Assets
+
+The development cost to the University of software assets is capitalised as an intangible asset when
+the asset comes into full use. Software in development is held in the asset register until complete and
+fully in use. The value of the asset is stated at historic cost less accumulated amortisation charges, with
+amortisation being charged on a straight line basis from the month that the asset is fully developed.
+
+Significant intangible assets with a value of £200,000 or more are amortised over 10 years and lower
+
+value assets of less than £200,000 are amortised over five years. The costs relating to the development
+of the medical programme are capitalised as an intangible asset. Development costs accrue from the
+
+43
+
+STATEMENT OF PRINCIPAL ACCOUNTING POLICIES (CONTINUED)
+
+date at which the contract was entered into, and are capitalised when the asset comes into use, and
+will be amortised when the benefits are realised on a straight-line basis over five years.
+
+11. Tangible Assets
+
+Tangible assets are stated at historic purchase cost less accumulated depreciation, or in the case of ,
+Land and Buildings, at deemed cost based on the one-off revaluation undertaken at 31 July 2014.
+
+The total cost of an asset can include incidental expenses incurred by staff or consultants, where these
+costs relate entirely to the project. The costs of major building programmes will also include the interest
+charged on any related loan finance used to fund the building during the construction phase of creating
+the asset.
+
+Depreciation is charged on a straight line basis from the month that the asset is acquired or that
+construction is complete. During the time of construction the value of the asset is held in assets under
+construction. Once construction is complete the value of the asset is transferred to the asset register.
+Depreciation commences from when the asset is commissioned into use.
+
+Land is not depreciated as it is considered to have an indefinite useful life. Buildings are depreciated
+over their expected useful lives of up to 50 years. Assets in the course of construction are accounted
+for at cost incurred to the end of the year. They are not depreciated until they are ready for use. For
+large construction projects the components of the building are identified separately and are depreciated
+over the useful economic life as determined by the nature of the asset.
+
+Costs incurred in relation to a tangible fixed asset, after the initial purchase or production, are capitalised
+to the extent that they increase the expected future benefits to the University from the existing tangible
+fixed asset beyond its previously assessed standard of performance; the cost of any such
+enhancements are added to the gross amount of the tangible fixed asset concerned.
+
+Minor works in excess of £10,000 are separately identified and depreciated over ten years. These have
+been included in the freehold land and buildings category in note 9.
+
+Fixtures, fittings and equipment, including computers and software, costing less than £10,000 per
+individual item are written off in the year of acquisition.
+
+Equipment that is capitalised is depreciated over the useful economic life expectancy of the asset. This
+is estimated to be 5 years for equipment including IT assets and between 10 to 25 years for plant and
+machinery. Where buildings, minor works and equipment are acquired with the aid of specific grants
+the asset is capitalised and depreciated as above. The related grants are released as income when the
+performance conditions are met, or on receipt of funds if no conditions are specified.
+
+Expenditure to ensure that a tangible fixed asset maintains its previously recognised standard of
+performance is recognised in the Statement of Comprehensive Income in the period it is incurred.
+
+The University has a planned maintenance programme, which is reviewed on an annual basis. All
+assets are reviewed on an annual basis for indicators of impairment. Any adjustment to the value of an
+asset for impairment is charged to the Statement of Comprehensive Income in the period it arises.
+
+12. Assets held for resale
+Tangible assets that are held for resale are carried at a value that is the lower of net book value or
+expected recovery amount. Assets identified as being held for resale trigger an impairment review in
+
+fine with the HE SORP. From the impairment review if an asset requires an adjustment to the carrying
+value the resulting impairment is charged to the Statement of Comprehensive Income.
+
+44
+
+STATEMENT OF PRINCIPAL ACCOUNTING POLICIES (CONTINUED)
+13. Stock
+
+Stocks are materials held by various University departments including catering supplies, together with
+books and other items purchased for resale. Stocks relate to finished products and are valued at the
+lower of cost or selling price less costs to sell, on a first-in, first-out basis. Where necessary, provision
+is made for obsolete, slow-moving and defective stocks.
+
+14. Cash and Cash Equivalents
+Cash includes cash in hand, cash at bank, deposits repayable within 3 months and overdrafts.
+15. Maintenance of Premises
+
+The University has a long-term rolling maintenance plan which forms the basis of the ongoing
+maintenance of the estate. The cost of routine corrective maintenance is charged to the income and
+expenditure account as incurred. A provision for dilapidation is made where the lease agreement
+
+requires the University to return the property to the landlord in a specified state. A provision is made
+for the estimated costs of the dilapidation spread over the period of tenancy. Any increase or decrease
+in this provision is charged to the Statement of Comprehensive Income.
+
+16. Taxation Status
+
+The University is a registered charity within the meaning of Part 3 of the Charities Act 2011 and as such
+is a charity within the meaning of Section 506 of the income and Corporation Tax Act 1988. It is
+therefore a charity within the meaning of Para 1 of schedule 6 to Finance Act 2010 and accordingly, the
+University is potentially exempt from taxation in respect of income or capital gains received within
+categories covered by Sections 478-488 of the Corporation Taxes Act 2010 or Section 256 of the
+Taxation of Chargeable Gains Act 1992 to the extent that such income or gains are applied to
+exclusively charitable purposes.
+
+Canterbury Christ Church University receives no similar exemption in respect of Value Added Tax
+(VAT). Irrecoverable VAT on inputs is included in the costs of such inputs. Any irrecoverable VAT
+allocated to tangible fixed assets is included in their cost.
+
+Deferred tax is recognised in respect of all timing differences that have originated but not reversed at
+the balance sheet date, where transactions or events that result in an obligation to pay more tax in the
+future or a right to pay less tax in the future have occurred at the balance sheet date. A net deferred tax
+asset is presented in the financial statements as recoverable and therefore recognised only when, on
+the basis of all available evidence, it can be regarded as more likely than not that there will be suitable
+taxable profits against which to recover carried forward tax losses and from which the future reversal of
+underlying timing differences can be deducted. Deferred tax is measured at the average tax rates that
+are expected to apply in the periods in which the timing differences are expected to reverse based on
+tax rates and laws that have been enacted or substantively enacted by the balance sheet date. Deferred
+tax is measured on an undiscounted basis.
+
+17. Pension Schemes
+
+Retirement benefits to employees of the University are provided by the Local Government Pension
+Scheme (LGPS), the University Superannuation Scheme (USS) and the Teachers’ Pension Scheme
+(TPS). These are defined benefit schemes, with the USS and TPS schemes being multi-employer
+schemes. It is not possible to identify the assets and liabilities of multi-employer schemes which are
+attributable to the University on a consistent and reliable basis. In accordance with FRS 102, the USS
+and TPS pension schemes are accounted for on a defined contribution basis and the contributions to
+these schemes are included as expenditure in the period in which they are payable in the Statement of
+Comprehensive Income.
+
+45
+
+STATEMENT OF PRINCIPAL ACCOUNTING POLICIES (CONTINUED)
+
+The University has an agreed obligation to fund past deficits of the USS and therefore, recognises the
+net present value of contributions payable that arise from this agreement as a liability in the Statement
+of Financial Position (Balance Sheet).
+
+The TPS is an unfunded scheme and there is no liability for past deficits reported for this scheme.
+
+The University is able to identify its share of assets and liabilities of the LGPS. The movement in the
+defined benefit liability of this scheme, when adjusted for payments into and out of the plan, is charged
+to the Statement of Comprehensive Income. This cost is the aggregation of changes in the defined
+benefit obligation and changes in plan assets. To identify this liability the assets of the LGPS are valued
+using bid values. LGPS liabilities are measured using the projected unit method and discounted at the
+current rate of return on a high quality corporate bond of equivalent term and currency to the liability.
+The increase in the present value of the liabilities of the scheme expected to arise from employee
+service in the period is charged to Operating Expenses, Note 8.
+
+The difference between the fair value of the University’s share of the assets held in the LGPS defined
+benefit pension scheme and the schemes liabilities measured on an actuarial basis using the projected
+unit method are recognised in the University's Statement of Financial Position (Balance Sheet) as a
+pension scheme liability. The carrying value of any resulting pension scheme asset is restricted to the
+extent that the University is able to recover the surplus through reduced contributions in the future or
+through funds from the scheme.
+
+Actuarial gains and losses, and movements to the defined benefit pension scheme's assets or liabilities
+arising from a change in actuarial assumptions are charged to the Statement of Comprehensive Income
+in accordance with FRS 102.
+
+18. Investments
+Endowment asset investments are held as cash.
+
+Where charitable donations are to be retained for the benefit of the institution as specified by the donors,
+these are accounted for as endowments in the reserves on the Balance Sheet. The University has two
+main types of endowments:
+
+- Expendable endowments - the donor has specified a particular objective other than the
+purchase or construction of tangible fixed assets, and the Institution can convert the donated
+sum into income.
+
+- Restricted permanent endowments - the donor has specified that the fund is to be permanently
+invested to generate an income stream to be applied to a particular objective.
+
+19. Financia! Instruments
+
+The University does not hold any non-basic financial instruments. The primary financial instruments are
+cash, loans, receivables from trade debtors and payables to creditors and suppliers. The recognition of
+trade debtors and trade creditors is at fair value. Loans, accruals and prepayments are recognised at
+the amortised cost.
+
+Financial assets and financial liabilities are recognised when the Group becomes a party to the
+contractual provisions of the instrument. Financial liabilities and equity instruments are classified
+according to the substance of the contractual arrangements entered into. An equity instrument is any
+contract that evidences a residual interest in the assets of the Group after deducting all of its liabilities.
+All financial assets and liabilities are initially measured at transaction price (including transaction costs),
+except for those financial assets classified as at fair value through profit or loss, which are initially
+measured at fair value (which is normally the transaction price excluding transaction costs), unless the
+arrangement constitutes a financing transaction. If an arrangement constitutes a financing transaction,
+the financial asset or financial liability is measured at the present value of the future payments
+discounted at a market rate of interest for a-similar debt instrument.
+
+46
+
+STATEMENT OF PRINCIPAL ACCOUNTING POLICIES (CONTINUED)
+
+Financial assets and liabilities are only offset in the statement of financial position when, and only when
+there exists a legally enforceable right to set off the recognised amounts and the Group intends either
+to settle on a net basis, or to realise the asset and settle the liability simultaneously. Financial liabilities
+are derecognised only when the obligation specified in the contract is discharged, cancelled or expires.
+
+Assets, other than those measured at fair value, are assessed for indicators of impairment at each
+balance sheet date. If there is objective evidence of impairment, an impairment loss is recognised in
+the Statement of Comprehensive Income.
+
+20. Investment in Subsidiaries
+
+The investment in the subsidiary undertaking is shown at cost less any impairment value. The University
+carries out an annual impairment review of the investment in the subsidiary.
+
+21. Reserves
+
+Reserves are classified as restricted or unrestricted. Restricted endowment reserves include balances
+which, although endowed to the University, are held as a permanently restricted fund which the
+University must hold in perpetuity. The following reserves are maintained:
+
++ Unrestricted — where the reserve is not restricted as to its use.
+
++ Designated — this is the designated pensions reserve reported in Note 23.
+
++ Restricted — where the University holds funds for which the donor has placed restrictions on
+their use.
+
+47
+
+Consolidated and University Statement of Comprehensive Income and Expenditure
+For the Year Ended 31 July 2024
+
+Income
+
+Tuition fees and education contracts
+Funding body grants
+
+Research grants and contracts
+Other income
+
+Investment income
+
+Total income
+
+Expenditure
+
+Staff costs
+
+Interest and other finance costs
+Other operating expenses
+
+Depreciation and Amortisation
+
+Total Expenditure
+
+Notes
+
+aAhWN =
+
+Surplus/(Deficit) for the year before loss on disposal of
+
+fixed assets
+
+(Loss)/Profit on disposal of fixed assets
+
+Surplus/(Deficit) for the year
+
+Endowment comprehensive income for the year 17
+Actuarial (loss)/gain in respect of pension scheme 23
+
+Total comprehensive surplus for the year
+
+Represented by:
+
+Endowment comprehensive income/(losses) for the
+
+year
+
+17
+
+Unrestricted comprehensive gain for the year
+
+Surplus for the year attributable to the University
+
+Consolidated University
+
+2024 2023 2024 2023
+£000 £'000 £°000 £'000
+277,704 224,103 277,704 224,103
+18,918 18,023 18,918 18,023
+1,102 1,715 1,102 1,715
+17,038 18,715 16,870 18,575
+4,353 1,252 4,335 1,243
+319,115 263,808 318,929 263,659
+98,036 88,509 97,936 88,405
+3,582 2,658 3,582 2,658
+199,713 159,353 199,683 159,351
+10,539 9,900 10,539 9,900
+311,870 260,420 311,740 260,314
+7,245 3,388 7,189 3,345
+
+- (146) - (146)
+7,245 3,242 7,189 3,199
+
+2 (30) 2 (30)
+(2,195) 9,880 (2,195) 9,880
+5,052 13,092 4,996 13,049
+
+2 (30) 2 (30)
+
+5,050 13,122 4,994 13,079
+5,052 13,092 4,996 13,049
+
+Strategic Report and Financial Statements for the year ended 31 July 2024
+
+48
+
+Consolidated and University Statement of Changes in Reserves
+
+For the Year Ended 31 July 2024
+
+Consolidated
+
+Balance at 1 August 2022
+
+Surplus from the income and expenditure statement
+Other comprehensive income
+
+Total comprehensive income for the year
+Balance at 31 July 2023
+Balance at 1 August 2023
+
+Surplus from the income and expenditure statement
+Other comprehensive income
+
+Total comprehensive income for the year
+
+Balance at 31 July 2024
+
+University
+
+Balance at 1 August 2022
+
+Surplus from the income and expenditure statement
+Other comprehensive income
+
+Total comprehensive income for the year
+
+Balance at 31 July 2023
+Balance at 1 August 2023
+
+Surplus from the income and expenditure statement
+Other comprehensive income
+
+Total comprehensive income for the year
+
+Balance at 31 July 2024
+
+Income and expenditure account Total
+Endowment _ Restricted Unrestricted
+£'000 £'000 £°000 £'000
+483 40 124,568 125,091
+- - 3,242 3,242
+(25) (5) 9,880 9,850
+(25) (5) 13,122 13,092
+458 35 137,690 138,183
+458 35 137,690 138,183
+. - 7,245 7,245
+- 2 (2,195) (2,193)
+- 2 5,050 5,052
+458 37 142,740 143,235
+Income and expenditure account Total
+Expendable Restricted Unrestricted
+
+£'000 £'000 £'000 £'000
+483 40 124,594 125,117
+
+: - 3,199 3,199
+
+(25) (3) 9,880 9,852
+(25) (3) 13,079 13,051
+458 37 137,673 138,168
+458 37 137,673 138,168
+
+- - 7,189 7,189
+
+- 2 (2,195) (2,193)
+
+- 2 4,994 4,996
+
+458 39 142,667 143,164
+
+Strategic Report and Financial Statements for the year ended 31 July 2024
+
+49
+
+Consolidated and University Statement of Financial Position
+
+As at 31 July 2024
+As at 31 July As at 31 July
+Consolidated University
+Notes 2024 2023 2024 2023
+£'000 £000 €£'000 £'000
+Non-current assets
+Tangible assets 9 162,863 167,356 162,863 167,356
+investments 10 : - 450 450
+Intangible assets 11 18,136 16,956 18,136 16,956
+180,999 184,312 181,449 184,762
+Current assets
+Stock 249 239 249 239
+Trade and other receivables 12 143,855 104,597 143,881 104,674
+Cash and cash equivalents 18 57,346 55,312 56,956 55,086
+201,450 160,148 201,086 159,999
+Less: Creditors: amounts falling
+due within one year 13 ( 184,854) ( 141,192) ( 185,011) (141,508)
+Net current assets 16,596 18,956 16,075 18,491
+Tota} assets less current liabilities 197,595 203,268 197,526 203,253
+Creditors: amounts falling due after more than one year 14 ( 50,328) (54,041) (50,328) (54,041)
+Provisions
+Pension liability LGPS 23 - - - -
+Other provisions 16 (4,032) (11,044) { 4,032) (11,044)
+Total net assets 143,235 138,183 143,164 138,168
+eee ee eee
+Restricted Reserves
+Income and expenditure reserve - endowment reserve 7 37 35 37 35
+Unrestricted Reserves
+Income and expenditure reserve - endowment reserve 17 458 458 458 458
+Income and expenditure - Local Government Pension Scheme reserve - - - -
+Income and expenditure reserve - unrestricted includes pension 142,740 137,690 142,669 137,675
+143,198 438,148 143,127 138,133
+Total Funds 143,235 138,183 ° 143,164 138,168
+ae ESS
+
+The Financial Statements on pages 44 to 76 were approved and authorised for issue by the Governing Body on 26 November 2024
+and signed on Its behalf by:
+
+Professor R Thirunamachandran a
+Vice Chancellor and Principal / Gone 7 ;
+Canterbury Christ Church University ”
+
+Registered company number 04793659
+
+Ms J Armitt . -
+Pro-Chancellor (Chair of the Governing Body)
+
+a
+
+Strategic Report and Financial Statements for the year ended 31 July 2024
+50
+
+Consolidated Cash Flow Statement
+For the Year ended 31 July 2024
+
+Cash flow from operating activities
+Surplus/(deficit) for the year
+
+Adjustment for non-cash items
+Depreciation and amortisation
+(Increase)/decrease in stock
+
+(Increase) in debtors
+
+Increase in creditors
+(Decrease)/increase in other provisions
+Pension charges
+
+Adjustment for investing or financing activities
+Interest payable
+
+Endowment income and donations
+
+Loss/(profit) on the sale of tangible assets
+
+Capital Grant income
+
+Net cash inflow from operating activities
+
+Cash flows from investing activities
+
+Proceeds from sales of fixed assets
+
+Payments made to acquire tangible and intangible assets
+Payments from endowment assets
+
+Capital grant receipts
+
+Net cash (outflow) from investing activities
+
+Cash flows from financing activities
+
+Interest paid
+
+Endowment cash received
+
+New unsecured loans
+
+Repayments of amounts borrowed
+
+Net cash (outflow)/inflow from financing activities
+
+Increase in cash and cash equivalents in the year
+
+Cash and cash equivalents at beginning of the year
+Cash and cash equivalents at end of the year
+
+Notes
+
+9/11
+
+12
+13
+16
+23
+
+9/11
+17
+2/14
+
+17
+14
+15
+
+18
+18
+
+2024 2023
+Restated
+£°000 £'000
+7,245 3,242
+10,539 9,900
+(10) 2
+(39,258) (35,129)
+43,820 41,579
+(7,012) (1,451)
+(2,166) 3,973
+3,553 2,502
+(104) (43)
+- 146
+(355) 4.751)
+16,252 22,970
+- 2,097
+( 7,226) (8,328)
+(102) (74)
+355 1,751
+(6,973) (4,554)
+(3,553) (2,502)
+104 41
+- 14,000
+(3,796) (8,966)
+(7,245) 2,573
+2,034 20,989
+55,312 34,323
+57,346 55,312
+
+* The comparatives have been amended in the Consolidated Cash Flow Statement. The interest earned on
+cash and cash equivalents has been restated in 2023 as it is included in the surplus for the year and is no
+
+longer reported separately as investment income.
+
+Strategic Report and Financial Statements for the year ended 31 July 2024
+
+51
+
+Notes to the Financial Statements
+
+Consolidated & University
+
+1. TUITION FEES AND EDUCATIONAL CONTRACTS
+
+2024 2023
+
+Notes £°000 £000
+
+Full-time home and European students 252,174 204,683
+Full-time Students Overseas 16,951 11,462
+Part-time Students 4,519 4,179
+Total fees paid by or on behalf of individual students 273,644 220,324
+Education contracts 4,060 3,779
+Total 277,704 224,103
+
+Consolidated & University
+2. FUNDING BODY GRANTS
+
+2024 2023
+Recurrent grant £'000 £'000
+Office for Students 10,703 8,573
+Research England 3,412 3,672
+Education and Skills Funding Agency : 3,446 2,984
+Total recurrent grants : 17,561 15,229
+Specific grants
+Challenge Competitions - 28
+Regional Innovation Fund 36 -
+Higher Education Innovation Fund 738 735
+QR Policy Support 50 50
+Enhancing Research Culture 150 150
+QR Participatory Research 20 20
+Department for Education 8 60
+Total specific grants 1,002 1,043
+Capital grant received and recognised in the year
+SELEP - 328
+OfS - Capital - 473
+OfS - Teaching Capital Investment Fund 50 100
+OfS - Research Capital Investment Fund 100 150
+NHSE (Formerly HEE - KMMS) 205 700
+Total capital grants 355 1,751
+Total 18,918 18,023
+
+Strategic Report and Financial Statements for the year ended 31 July 2024
+52
+
+Notes to the Financial Statements (continued)
+
+Consolidated & University
+
+3. RESEARCH GRANTS AND CONTRACTS 2024 2023
+£'000 £'000
+
+Research Councils 198 20
+
+Research Charities 289 265
+
+Government UK & Overseas 307 661
+
+Industry Commerce Public 113 68
+
+Other grants and contracts | 195 701
+402 715
+
+Consolidated
+
+4. OTHER OPERATING INCOME 2024 2023
+£°000 £'000
+
+Residences, catering and conferences 8,020 8,255
+Other income generating activities 8,214 9,857
+Other operating income 804 603
+17,038 18,715
+
+Other income generating activities above include Teach First, consultancy fees and
+consultancy contracts, social work and community engagement.
+
+Consolidated
+
+5. INVESTMENT INCOME 2024 2023
+£'000 £'000
+Bank interest receivable 2,647 1,252
+Pensions interest 1,706 -
+43530 1,252
+
+Bank interest receivable is now reported as part of cash flow from operating activities in
+the Consolidated Cash Flow Statement, as per the Accounting Policy for income
+recognition, 2.2. The comparatives reported for 2023 have been amended in the Cash
+Flow Statement to reflect this change, as stated on page 51 of the Financial Statements.
+
+Strategic Report and Financial Statements for the year ended 31 July 2024
+53
+
+Notes to the Financial Statements (continued)
+
+6. STAFF COSTS
+
+All Staff are employed by Canterbury Christ Church University. The average monthly number of persons (including senior
+post holders) employed during the year, expressed as full time equivalents was:
+
+Consolidated
+
+2024 2023
+Number Number
+Academic Staff 653 627
+Professional Service Staff 851 828
+Academic Support Staff 258 209
+Total 1,762 1,664
+2024 2023
+: £'000 £'000
+Staff costs
+Wages and salaries 75,994 69,031
+Social security costs 7,303 6,716
+Other pension costs 14,739 12,762
+
+Total 98,036 88,509
+
+The other pension costs represents the total value of contributions due in the year to TPS, USS and LGPS. In 2023 an
+additional cost of £3,817k was recognised within other operating expenses relating to the balance between the contributions
+due to the LGPS and the actuarially calculated service cost. In 2024 the actuarially calculated service costs charged was
+less than the amount of contribution paid in year, and therefore the charge to other operating expenses was a net credit of
+(£489k) after taking into account administrative charges. The total pension charges recognised for the year are reported in
+note 23.
+
+Included in Wages and salaries and other pension costs are severance payments of £1,901,957 for 73 members of staff
+(2023: £660,132 for 30 members of staff). The University has in place a redundancy policy that is applied for all instances of
+restructuring that may generate a redundancy situation. Although every effort is taken to minimise the risk of redundancy,
+where redundancies ‘are unavoidable, the University will endeavour to handle them fairly, consistently, empathetically and
+with dignity. The policy defines the measures that will be taken to ensure this, through providing meaningful information, and
+consulting and involving employees and recognised trade unions regarding proposals for organisational change.
+
+Key management personnel
+
+Key management personnel are those persons having authority and responsibility for planning, directing and controlling the
+activities of the University. Staff costs includes compensation paid to key management personnel. Compensation consists of
+salary and benefits, including employer's pension contribution. The Key Management Personnel in the University are
+members of the Senior Management Team.
+
+In 2023/2024 there were 14 senior post holders holding positions for 13 roles due to staff changes in year (2022/2023 there
+were 12 senior post holders in post).
+
+2024 2023
+£'000 £'000
+
+Key management personnel compensation 2,051 1,929
+
+Strategic Report and Financial Statements for the year ended 31 July 2024
+54
+
+Notes to the Financial Statements (continued)
+
+6. STAFF COSTS (CONTINUED)
+
+Higher paid staff
+2024 2023
+Salary Range Number Number
+
+£100,000 to £104,999
+£105,000 to £109,999
+£110,000 to £114,999
+£115,000 to £119,999
+£120,000 to £124,999
+£125,000 to £129,999
+£130,000 to £134,999
+£140,000 to £144,999 1 -
+£150,000 to £154,999 - .
+£155,000 to £155,999 - -
+£160,000 to £164,999 : 1
+£165,000 to £169,999 - :
+£170,000 to £174,999 1 -
+£175,000 to £179,999 - -
+£180,000 to £185,000 - 1
+£190,000 to £194,999 1 -
+
+1 OwWrne
+1 oaonoaw
+
+Excluding the Vice Chancellor 1 13
+
+The emoluments paid to the five members of the Governing Body (2023: 5) and their accrued benefits
+under defined benefits pension schemes are shown below:
+
+2024 2023
+£'000 £000
+Salaries 525 509
+Employer's pension contributions 61 66
+Total 586 575
+Emoluments of the Vice-Chancellor, being the highest paid director
+2024 2023
+£'000 £'000
+Salary 293 282
+Employer's pension contributions 8 18
+Total emoluments of the Vice-Chancellor 301 300
+
+The emoluments of the Vice Chancellor are shown on the same basis as for higher paid staff. There
+have been no non-taxable or taxable benefits paid to the Vice Chancellor in the year other than
+those that are for the reimbursement of business travel and other business expenses. These are
+claimed in line with the University’s staff expenses policy. The Vice Chancellor's expense claims and
+charges are approved by the Pro-Chancellor and published on the University’s website.
+
+The Vice Chancellor has enhanced opt out membership of the USS Pension Scheme, and therefore,
+the contribution made by the University to the scheme on his behalf was at the rate of 6.5% to 31
+December 2023. This reduced to zero contribution rate from 1 January 2024.
+
+The pay ratio of the Vice Chancellor's total emoluments as a ratio to the median of the total
+emoluments for all staff is 8.1:1 (2023: 8.2:1). The pay ratio of the Vice Chancellor's basic salary as
+a ratio to the median of the basic salary of all staff is 7.9:1 (2023: 7.8:1). These calculations are ona
+full time equivatent basis for all staff employed by the University whose payroll charges are included
+in the real time information report to HM Revenue and Customs.
+
+Strategic Report and Financial Statements for the year ended 31 July 2024
+55
+
+Notes to the Financial Statements (continued)
+
+6. STAFF COSTS (CONTINUED)
+
+Directors’ Emoluments
+
+The remuneration of the Vice-Chancellor is determined by the Remuneration Committee which is made up of
+Independent Members only and chaired by Ms Nadra Ahmed CBE. From November 2018, the Committee
+has been supplemented to include an external member, Lord Colgrain, who is not a member of the
+Governing Body. In addition, the President of the Students’ Union has been a member of this Committee
+since November 2021. The decisions of the Remuneration Committee are reported in writing to the full
+Governing Body.
+
+The remuneration of the Vice-Chancellor is based on an annual appraisal against objectives carried out by
+the Pro-Chancellor. Any annual increase in the Vice-Chancellor’s pay is based on a senior salary
+framework, which was approved by the Remuneration Committee in 2014 and subsequently updated in 2019
+and applies equally to all members of the Senior Management Team. The framework is based on a 3-point
+scale for assessment and performance — exceptional, excellent and requiring improvement. The pay
+increase for an ‘excellent’ rating is pegged to the annual national pay award for all staff.
+
+Based upon the Vice-Chancellor's performance in 2022/23, the committee agreed with the Pro-Chancellor's
+assessment that this represented excellent performance and accordingly a pay increase in line with the
+national award was approved by the committee at 5%. In support of this assessment, the committee noted
+that despite a number of setbacks in the year the Vice-Chancellor had taken positive action to transform
+leadership in the University. This supported the preparation for re-accreditation of the nursing provision in
+early 2024 and the achievement of a number of significant outcomes including:
+
+. the silver award in the Teaching Excellence Framework (TEF);
+
+. a ‘Good’ rating from Ofsted for Primary, Secondary and Further Education teacher training;
+° the University being ranked as number 1 in the country for the employability of graduates;
+. an 8% improvement in the National Student Survey;
+
+. the presentation and launch in year of a new Strategic Framework for 2023-30.
+
+In the face of challenging recruitment numbers of undergraduate students in the University and across the
+sector, the finances of the University performed well. Income for the year 2022/23 increased by 42% and the
+University reported an operating surplus.
+
+The Vice-Chancellor continues to be held in considerable esteem across the Higher Education sector
+following many years of experience gained in senior roles within the Higher Education Funding Council and
+universities. The Vice-Chancellor's understanding and influence on national policy issues is invaluable and
+he continues to raise the profile of the University through external engagement, as demonstrated by the
+roles he undertakes on a regional, national and global basis.
+
+On a national level he is a member of the Board of Universities UK.
+
+On a regional basis he is an Ambassador for the Chatham Historic Dockyard, a Kent Ambassador and holds
+the position of a Deputy Lieutenant of Kent.
+
+On the global stage he represents the University as a Trustee of the Colleges and Universities of the
+Anglican Communion (CUAC). In this role and as the senior leader of the University, the Vice-Chancellor
+upholds the values of the University as a Church of England Foundation.
+
+Strategic Report and Financial Statements for the year ended 31 July 2024
+56
+
+Notes to the Financial Statements (continued)
+
+7. INTEREST PAYABLE AND OTHER FINANCE COSTS Consolidated & University
+2024 2023
+
+£'000 £'000
+
+Bank loans not wholly repayable within five years 3,553 2,502
+Net charge on pension schemes 29 156
+
+Total 3,582 2,658
+
+Consolidated
+
+8. ANALYSIS OF TOTAL EXPENDITURE BY ACTIVITY 2024 2023
+: £'000 £'000
+Academic departments 221,143 177,625
+Academic services departments 6,009 5,667
+Administration and central services 40,001 34,445
+Premises 14,825 14,122
+Residences, catering and conferences 12,285 12,212
+Research grants and contracts 1,809 2,124
+Other expenses 1,677 1,667
+Depreciation 10,539 9,900
+Interest payable and other finance costs 3,582 2,658
+311,870 260,420
+Consolidated
+2024 2023
+Other operating expenses include: £'000 £'000
+Fees payable for auditing of the financial statements of the parent company 66 52
+Fees payable for auditing the subsidiary company 10 5
+Other fees payable to the group auditor - grant and pension assurance review 5 5
+Operating lease rentals - land and buildings 7,056 7,023
+Operating lease rentals - equipment 114 152
+8a ACCESS AND PARTICIPATION 2024 2023
+£'000 £'000
+Access Investment (i) 1,122 961
+Financial Support 4,250 4,657
+Disability Support (i) 1,698 1,553
+Research and Evaluation 134 80
+7,204 “7,251,
+
+(i) £1,945k of these costs are included in the staff cost figures included in the financial statements, note 6, (2023:
+£1,356k).
+
+The published. Access and Participation plan is available on: https:/Awww.canterbury.ac.uk/about-us/access-and-
+participation
+
+Strategic Report and Financial Statements for the year ended 31 July 2024
+57
+
+Notes to the Financial Statements (continued)
+
+9. TANGIBLE ASSETS Consolidated and University
+Fixtures,
+
+Freehold Land Assets under Fittings and Plant and
+
+and Buildings Construction Equipment Machinery Total
+Cost and deemed cost for
+land and buildings £'000 £000 £000 £°000 £'000
+At 1 August 2023 179,696 4,129 33,357 8,527 225,709
+Additions - 3,975 - - 3,975
+Assets coming into use 648 ( 4,666) 3,292 726 -
+Disposals - - - - -
+At 31 July 2024 180,344 3,438 36,649 9,253 229,684
+
+Accumulated depreciation
+
+and impairment losses
+
+At 1 August 2023
+
+Depreciation ( 30,422) - (22,335) (5,596) (58,353)
+
+Charge for the year -
+
+Depreciation (4,496) (81) (3,258) ( 633) ( 8,468)
+Disposals -
+
+Depreciation - - - - -
+
+At 31 July 2024 (34,918) (81) (25,593) (6,229) (66,821)
+Net book value
+
+At 31 July 2024 145,426 3,357 11,056 3,024 162,863
+At 34 July 2023 149,274 4,129 11,022 2,931 167,356
+
+Financed by capital grant:
+At 31 July 2024 - : 355 : 355
+
+At 31 July 2023 - - 175400 1,751
+
+As part of the transition to FRS 102 the University's land and buildings were valued at 31 July 2014 by Strutt and
+Parker, an external valuer, in accordance with RICS Valuation — professional standards.
+
+Heritage Assets
+
+Heritage assets held by the University consists of artwork and assets of cultural interest displayed in the University’s
+campuses held in perpetuity. The total estimated value of the assets as determined at 31 July 2024 is £172,720 (April
+2023: £170,550). The recognition value of all items is based on the insurance replacement cost. The heritage assets
+are not depreciated as their individual value, other than for insurance purposes, is not known. These asset values are
+not included in the tangible asset note.
+
+Assets Held for Resale
+
+There were no tangible assets held for resale in the financial year to 31 July 2024.
+
+Subsidiary Company Assets
+
+There were no tangible assets held by the subsidiary company.
+
+Strategic Report and Financial Statements for the year ended 31 July 2024
+: 58
+
+Notes to the Financial Statements (continued)
+
+10. FIXED ASSET INVESTMENTS
+
+Shares/
+Capital
+Contribution Loans Total
+£'000 £'000 £'000
+450 - 450
+At 1 August 2023 and 31 July 2024 450 “ 450
+
+Medco (CCCU) Limited had share capital of 10,000,000 £1 ordinary shares of which 4,500,002 were
+issued, all owned by Canterbury Christ Church University. £4,500,000 of the £1 ordinary shares were
+converted from issued and paid up redeemable preference shares at an Extraordinary General Meeting on
+the 7 November 2006. At an Extraordinary General Meeting held on 26 October 2009, Canterbury Christ
+Church University agreed to a voluntary reduction in its share capital from £4,500,002 to £449,999.
+
+The subsidiary company Medco (CCCU) Limited had been dormant from July 2012. The company was
+reactivated and started trading as an agency for temporary staff from 1 February 2015. The results of the
+subsidiary company have been consolidated with the parent company's statements. The registered address
+of the subsidiary company is the same as the parent: Anselm, North Holmes Raod, Canterbury, Kent, CT1
+1QU.
+
+The Directors and Governing Body believe that the carrying value of the investment is underpinned by the
+operational value the business provides to the parent company. This support is in the form of agency
+workers in a range of roles within the University, and to students and graduates in the form of employment
+opportunities.
+
+Strategic Report and Financial Statements for the year ended 314 July 2024
+59
+
+Notes to the Financial Statements (continued)
+
+11. INTANGIBLE ASSETS Consolidated and University
+Assets in ;
+development Software Total
+£°000 £'000 £'000
+At 1 August 2023 2,144 17,929 20,073
+Additions 3,251 - 3,251
+Assets coming into use (2,641) 2,641 -
+At 31 July 2024 ~ 2,754_ 20,570 23,324
+Amortisation
+At 1 August 2023 - 3,117 3,117
+Charge for the year - 2,071 2,071
+At 31 July 2024 ee 5,188 5,188
+Net book value
+At 31 July 2024 2,754 — 15,382_ 48,136
+Atst July 2023 2,144 14,812 16,956
+
+Intangible assets include software assets that are under development by the University and those
+that are complete and are brought into use in the year. This includes the development cost of the
+Medical School programme.
+
+Strategic Report and Financial Statements for the year ended 31 July 2024
+60
+
+Notes to the Financial Statements (continued)
+
+12. TRADE DEBTORS AND OTHER RECEIVABLES
+
+Consolidated University
+2024 2023 2024 2023
+£°000 £'000 £°000 £'000
+Trade debtors 119,985 83,634 119,985 83,634
+Prepayments and accrued income ; 23,870 20,963 23,870 21,019
+Amount owed by subsidiary company - - 26 21
+143,855 104,597 143,881 104,674
+
+The level of debt related to student tuition owed at the end of the year has increased by £32m due to the
+intake of partnership students.
+
+As at 31 July 2024 the University has a debtor of monies owed by the University of Kent of £286,193
+(2023: £1,147,704).
+
+13. CREDITORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+
+Consolidated University
+
+2024 2023 2024 2023
+
+£'000 £'000 £'000 £'000
+Bank loans 3,713 3,796 3,713 ' 3,796
+Trade creditors 36,477 22,147 36,449 223147
+Amount owed to subsidiary company - - 175 306
+Taxation and social security 3,640 3,378 3,640 3,378
+Accruals and deferred income 141,024 111,871 141,034 411,881
+
+184,854 141,192 185,011 141,508
+
+Amounts owed to the subsidiary company and amounts owed by the parent company are unsecured, interest free and
+repayable 30 days from the date of invoice. The bank loans relate to the capital repayment of loan finance to support
+the campus redevelopment, the purchase of the prison and student accommodation in Broadstairs. The repayment
+profile has increased since the prior year due to the capital repayments now being made for the termed out loan for
+the Verena Holmes building, held jointly with Lloyds and Natwest banks. Loans are secured on assets held by the
+University and the loan agreement restricts further borrowing and indebtedness.
+
+Strategic Report and Financial Statements for the year ended 31 July 2024
+61
+
+Notes to the Financial Statements (continued)
+
+14 CREDITORS: AMOUNTS FALLING DUE AFTER MORE THAN ONE YEAR
+Consolidated University
+2024 2023 2024 2023
+£'000 £'000 £'000 £'000
+Secured loans 50,328 54,041 50,328 54,044
+50,328 54,041 50,328 50,190
+
+The Revolving Credit Facility was a flexible loan provided jointly by Lloyds and NatWest banks. The credit facility converted ta long
+term finance on 24 April 2023 at the intitial loan amount of £35m, amortising over a 20 year profile and is now reported in secured
+loans.
+
+Loans held with Lloyds and Natwest banks have been secured over the freehold land and buildings included in Tangible fixed assets
+in note 9.
+
+15 BORROWINGS
+Original
+amount
+Lender borrowed |Term (Years| Date
+
+£000
+
+Lloyds Bank [Thanet Campus Development 4,250]
+Lloyds Bank Thanet Accommadation Development
+
+Lloyds Bank Canterbury Campus Development . . 6,102
+Lloyds Bank Canterbury Campus Development 1 . 2,631 2,875
+
+Lloyds Bank Canterbury Campus Development 2 . 9,294 10,154
+
+Lloyds Bank Canterbury Campus Development 3 .! 2,624 2,875
+oyds Bank Verena Holmes (50%) : . 16,407 17,281
+
+Natwest Verena Holmes (50%) : 5. 16,407 17,281
+
+|Carbon Saving measures - interest
+|Satix Finance free toan .! 1
+
+Total 54,041 57,837
+
+In April 2018 the University entered into a financing through a Revolving Credit Facility jointly with Lloyds Bank and Natwest to further
+support the Estates Master Plan for the second phase, including construction of the Verena Holmes building. The total credit agreement
+was for £47,000,000 for five years with the option to convert to a term loan on completion of the building programme. There was a non-
+utilisation charge whilst the funds remain committed but undrawn of 0.6%. The utilisation costs were expensed to the Statement of
+Comprehensive Income. This loan converted to a term loan on a 20 year amortisation profile on 24 April 2023, with £35,000,000 being
+drawn on the conversion date.
+
+Strategic Report and Financial Statements for the year ended 31 July 2024
+62
+
+15. BORROWINGS (CONTINUED)
+
+16.
+
+Notes to the Financial Statements (continued)
+
+Bank loans and overdrafts
+
+Bank loans and overdrafts are repayable as follows:
+
+In one year or less
+
+Between one year and two years
+Between two and five years
+
+In five years or more
+
+Total
+
+PROVISIONS FOR LIABILITIES
+
+Dilapidation provision at the start of the year
+
+Additions in year
+Utilised in year
+
+At 31 July
+
+Other Provisions
+
+Provisions at the start of the year
+
+Additions in year
+
+Utilised in year
+
+Provision at the end of the year
+
+Consolidated and University
+
+2024
+£'000
+3,713
+3,648
+
+11,129
+
+35,551
+
+54,041
+
+2023
+£'000
+3,796
+3,713
+
+11,034
+
+39,294
+
+57,837
+
+Consolidated and University
+
+2024
+£'000
+
+1,898
+268
+(218)
+
+1,948
+
+2024
+£'000
+
+9,146
+1,424
+(8,483)
+
+2,084
+
+2023
+£'000
+
+1,833
+377
+
+(312)
+
+1,898
+
+The University has provided for the potential future dilapidation costs in line with the substance of the
+works required.
+
+2023
+£°000
+
+10,662
+3,131
+
+(4,647)
+
+9,146
+
+Provision is made for the return of unused funding from prior years, costs relating to fire safety wort
+and charges for costs from curriculum changes. The net pension liability arising from future pensic
+costs of the Universities Superannuation Scheme has reverted to a neutral position from 31 July 202.
+
+and the provision has been released in full.
+
+Strategic Report and Financial Statements for the year ended 31 July 2024
+
+Notes to the Financial Statements (continued)
+
+17. ENDOWMENTS
+
+Consolidated and University
+
+Expendable
+£'000
+
+Opening balance at 1 August 2023
+Capital 458
+Movement for the year to date
+New Endowments 46
+Donations 32
+Interest 24
+Expenditure (102)
+Closing balance at 31 July 2024 458
+Represented by:
+Capital 458
+
+The above amounts are represented by cash balances
+
+Representing:
+
+Specific donations 3
+Scholarships and bursaries 230
+Prize funds 225
+
+458
+
+Restricted
+Permanent
+
+£000
+
+35
+
+37
+
+37
+
+31
+
+37
+
+2024
+Total
+
+£'000
+
+493
+
+46
+
+32
+
+26
+
+(102)
+
+495
+
+495
+
+236
+256
+
+495
+
+Strategic Report and Financial Statements for the year ended 31 July 2024
+
+64
+
+2023
+
+Total
+£'000
+
+523
+
+32
+
+12
+
+(74)
+
+(30)
+
+493
+
+523
+
+215
+
+276
+
+493
+
+Notes to the Financial Statements (continued)
+
+18. CASH AND CASH EQUIVALENTS
+
+University At 1st August Cash At 31st July
+2023 Flows 2024
+£'000 £'000 £'000
+
+Balance at bank 54,629 1,807 56,436
+Cash & cash equivalents - 457 63 520
+endowment assets
+55,086 1,870 56,956
+Consolidated
+At ist August Cash At 31st July
+2023 Flows 2024
+£'000 £°000 £'000
+Balance at bank - University 54,629 1,807 56,436
+Balance at bank - Medco (CCCU) 226 164 390
+Limited
+Cash & cash equivalents - 457 63 520
+endowment assets
+55,312 2,034 57,346
+
+19. CONTINGENT LIABILITIES
+
+In response to the Supreme Court's decision in the Harpur Trust v Brazel case the Government
+consulted on the calculation of holiday entitlement for part time and irregular hours workers. This has
+required reforms coming in from 1 January 2024 to simplify and address issues for employers. The
+University's policies and procedures are in accord with the reforms and the contingent liability
+reported in 2022/2023 is no longer considered to have an impact on the University in the current or
+future years.
+
+Strategic Report and Financial Statements for the year ended 31 July 2024
+65
+
+Notes to the Financial Statements (continued)
+
+20. LEASE OBLIGATIONS AND OTHER COMMITMENTS
+
+At 31 July 2024, Canterbury Christ Church University had annual commitments under non-cancellable operating
+leases as follows:
+
+Land and
+Buildings Total 2023
+£'000 £°000 £'000
+Paid during the year 6,183 6,183 6,392
+
+Future minimum lease payments due:
+
+Not later than 1 year 6,507 6,507 6,123
+Later than 1 year and not later than 5 years 24,703 24,703 22,771
+Later than 5 years 83,890 83,890 65,202
+Total! lease payments due 115,100 115,100 94,096
+
+The University had outstanding financial commitments in the form of open purchase orders with a total value of
+£16,258,055 at the year end (2023: £14,420,419). These orders do not form part of the above lease
+commitments.
+
+Other commitments consist of long term arrangements for the use of Polo Farm facilities by the University for a
+term of 65 years.
+
+Future minimum payments due: 2024 2023
+£'000 £000
+Not later than 1 year 389 327
+Later than 1 year and not later than 5 years 1,558 1,310
+Later than 5 years 19,624 16,829
+21,571 18,466
+
+21. RELATED PARTY DISCLOSURES
+
+Canterbury Christ Church University's subsidiary company, Medco (CCCU) Limited trades as a Unitemps staffing
+agency, under a franchise arrangement with Warwick University Enterprises Limited. The ultimate controlling
+party of the subsidiary company is the parent company, the University. The subsidiary company's results have
+been consolidated with the parent company in these financial statements.
+
+Funding council grants are disclosed on the face of the statement of comprehensive income and in the relevant
+notes to the financial statements.
+
+22. EVENTS AFTER THE REPORTING PERIOD
+
+There are no events to be reported after the reporting period.
+
+Strategic Report and Financial Statements for the year ended 31 July 2024
+66
+
+Notes to the Financial Statements (continued)
+
+23. PENSION SCHEMES
+
+The three principal pension schemes for Canterbury Christ Church University's staff are the Teacher's Pension
+Scheme (TPS), the local Government Pension Scheme (LGPS) and the Universities Superannuation Scheme (USS).
+The schemes are defined benefit schemes. The TPS and USS schemes are both multi-employer schemes and it is not
+possible to identify the assets of the schemes which are attributable to the University on a consistent and reliable
+basis. In accordance with FRS 102 the USS and TPS pension schemes are accounted for on a defined contributions
+basis. The contributions to these schemes are included as expenditure in the period in which they are payable in the
+Statement of Comprehensive Income.
+
+The University had an agreed obligation to fund past deficits of the USS and therefore, when in deficit it will recognise
+the contributions payable that arise from the agreement as a liability in the Balance Sheet. As the scheme has now
+moved into surplus, there is no liability to be reported by the University in the financial year ending 31 July 2024.
+
+The TPS is an unfunded scheme and therefore, no liability for past deficits are reported.
+
+The total employer's pension contribution for Canterbury Christ Church University was:
+
+2024 2023
+£000 £000
+Contribution to TPS 8,293 7,067
+Contribution to LGPS , 6,119 5,316
+Contribution to USS 326 376
+__14,738_ 12,759
+Percentage employers contributions to TPS as at the year end 28.68% 23.68%
+Percentage employers contributions to LGPS as at the year end 18.50% 17.50%
+Percentage employers contributions to USS as at the year end 14.50% 21.10%
+
+The assumptions and other data relevant to the determination of the contribution levels of the schemes are as follows:
+
+TPS LGPS USS
+Latest actuarial valuations 31/03/20 31/03/22 31/03/23
+. Prospective Projected Projected Unit
+Actuarial Method benefits Unit
+Dual rate of
+
+0.9% pa and
+2.5% pa above
+Discount rate CPI +1.7% 4.50% gilt yields
+
+Salary scale increases per annum 3.55% 3.90% CPI + 1%
+
+Linked to CPI +/-
+
+Pension increases per annum 2.55% CPI at £2.9% 3bps
+
+Market value of assets at date of last valuation NIA £7.70bn £73.1bn
+Notional value of assets at date of the last valuation £222.2bn NIA N/A
+Proportion of members accrued benefits covered by 85% 102% 111%
+
+the actuarial value of assets
+
+Strategic Report and Financial Statements for the year ended 31 July 2024
+67
+
+Notes to the Financial Statements (continued)
+
+23. PENSION SCHEMES (CONTINUED)
+
+The most recent valuation of Kent's Local Government Pension Scheme at 31 March 2022
+records a surplus of £129m, equivalent to a funding level of assets to liabilities of 102%.
+
+The Teachers' Pension Scheme valuation at 31 March 2020 reported the scheme as having a
+notional deficit of £15.0 billion.
+
+The latest Universities’ Superannuation Scheme valuation at 31 March 2023 indicated that the
+scheme had a surplus of £7.4 billion, equivalent to a funding level of assets to liabilities of
+111%,
+
+Teachers’ Pensions Scheme
+
+The Teachers' Pension Scheme (TPS) is a statutory, contributory, defined benefit scheme. The
+regulations under which the TPS operates are the Teachers’ Pensions Regulations 1997, as
+amended. These regulations apply to teachers in schools and other educational establishments
+in England and Wales maintained by local authorities, to teachers in many independent and
+voluntary-aided schools, and to teachers and lecturers in establishments of further and higher
+education. Membership is automatic for full-time teachers and lecturers and from 1 January
+2007, for teachers and lecturers in part-time employment following appointment or a change of
+contract. Teachers and lecturers are able to opt out of the TPS.
+
+The Teachers' Pensions Regulations require an annual account, the Teachers' Pension
+Account, to be kept of receipts and expenditure (including the cost of pensions’ increases).
+From 1 April 2001, the Account has been credited with a real rate of return (in excess of price
+increases and currently set at 3.1%), which is equivalent to assuming that the balance in the
+account is invested in notional investments that produce that real rate of return.
+
+Not less than every four years the Government Actuary, using normal actuarial principles,
+conducts a formal actuarial review of the TPS. The aim of the review is to specify the level of
+future contributions.
+
+The contribution rate paid into the TPS is assessed in two parts. First, a standard contribution
+rate (SCR) is determined. This is the contribution, expressed as a percentage of the salaries of
+teachers and lecturers in service or entering service during the period over which the
+contribution rate applies, which if it were paid over the entire active service of these teachers
+and lecturers would broadly defray the cost of benefits payable in respect of that
+service. Secondly, a supplementary contribution is payable if, as a result of the actuarial
+investigation, it is found that accumulated liabilities of the Account for benefits to past and
+present teachers, are not fully covered by standard contributions to be paid in future and by the
+notional fund built up from past contributions. The total contribution rate payable is the sum of
+the SCR and the supplementary contribution rate.
+
+Although teachers and lecturers are employed by various bodies, their retirement and other
+
+pension benefits, including annual increases payable under the Pensions (Increase) Acts, as
+
+provided for in the Superannuation Act 1972, are paid out of monies provided by Parliament.
+
+Under the unfunded TPS, teachers’ contributions on a ‘pay-as-you-go’ basis and employers’
+
+contributions are credited to the Exchequer under arrangements governed by the above Act.
+_ The scheme is accounted for as if it is a defined contribution scheme.
+
+Strategic Report and Financial Statements for the year ended 31 July 2024
+68
+
+Notes to the Financial Statements (continued)
+
+23. Pension Schemes (continued)
+Universities Superannuation Scheme
+
+USS is valued every three years by professionally qualified independent actuaries using the
+projected unit method, the rates of contribution payable being determined by the trustees on the
+advice of the actuaries. In the intervening years, the USS actuary reviews the progress of the USS
+scheme.
+
+The contribution rate payable by Canterbury Christ Church University to USS reduced from 21.6%
+to 14.1% of pensionable salaries from 1 January 2024. The actuary to USS has confirmed that it
+is appropriate to take the pension costs in Canterbury Christ Church University's financial
+statements to be equal to the actual contributions paid during the year. In particular, the current
+contribution rate has regard to the surplus/(deficit) disclosed, the benefit improvements introduced
+subsequent to the valuation and the need to spread the surplus/(deficit) in a prudent manner over
+the future working lifetime of current scheme members.
+
+Because of the mutual nature of the scheme, Canterbury Christ Church University is unable to
+identify its share of the underlying assets and liabilities of the scheme on a consistent and
+reasonable basis and therefore, accounts for the scheme as if it were a defined contribution
+scheme. As a result, the amount charged to the income and expenditure account represents the
+contributions payable to the scheme in respect of the accounting year. The liability for future
+payments is included in the balance sheet as a provision.In 2024 the scheme is in surplus and
+there is no liability to be reported in the University's balance sheet.
+
+Local Government Pension Scheme
+
+The LGPS is a funded scheme and is valued every three years by actuaries using the projected
+unit method, the rates of contribution payable being determined by the members of Kent County
+Council Superannuation Fund on the advice of the actuaries. In the intervening years, the LGPS
+actuary reviews the progress of the LGPS scheme.
+
+For LGPS, the actuary has indicated that the resources of the scheme are likely, in the normal
+course of events, to meet the liabilities as they fall due at the level specified by the LGPS
+Regulations.
+
+Under the definitions set out in FRS 102 the LGPS is a multi-employer defined benefit pension
+scheme. In the case of the LGPS, the actuary of the scheme has identified Canterbury Christ
+Church University’s share of its assets and liabilities as at 31 July 2024.
+
+The pension scheme assets are held in a separate trustee administered fund to meet long-term
+pension liabilities to past and present employees. The trustees of the fund are required to act in
+the best interests of the funds’ beneficiaries. The appointment of the trustees of the fund is
+determined by the scheme’s trust documentation. The trustees are responsible for setting the
+investment strategy for the scheme after consultation with professional advisors.
+
+The significant assumptions used by the actuary for FRS 102 for the LGPS at 31 July 2024 were:
+
+2024 2023
+% pa % pa
+Inflation / Pension increase 2.80 2.85
+Rate of increase in salaries 3.30 3.35
+Discount rate for liabilities 5.10 5.15
+
+It is accepted there is a potential financial impact to the choice of assumptions applied. The
+University has considered the assumptions to be applied for the year in comparison to
+assumptions applied by other institutions in the sector.
+
+Strategic Report and Financial Statements for the year ended 31 July 2024
+69
+
+23. PENSION SCHEMES (CONTINUED)
+
+The post retirement mortality tables adopted are the S3A tables. These base tables are projected using the
+CMI 2023 model. The S3PA tables provide for a multiplier of 110% for both males and females. The base
+tables are projected with a long term rate of improvement of 1.25% p.a., a smoothing parameter of 7.0, and
+an initital parameter of 0.0%. The weighting parameter for 2023 is 15%.
+
+The assumed life expectations from age 65 are:
+
+Males Females
+Current Pensioners 20.7 years 23.3 years
+Future Pensioners 22.0 years 24.6 years
+Sensitivity analysis
+£'000 £000 £'000
+Adjustment to discount rate +0.1% 0.0% 0.1%
+Present value of total obligation 133,428 135,976 138,598
+Projected service cost 5,291 5,497 5,711
+Adjustment to long term salary increase +0.1% 0.0% 0.1%
+Present value of total obligation 136,125 135,976 135,829
+Projected service cost 5,497 5,497 5,497
+Adjustment to pension increases and +0.1% 0.0% 0.1%
+deferred revaluation
+Present value of total obligation 138,506 135,976 133,517
+Projected service cost 5,718 5,497 5,283
+Adjustment to life expectancy assumption: +1 Year None -1 Year
+Present value of total obligation 140,248 135,976 131,842
+Projected service cost 5,706 5,497 5,294
+
+The assets in the LGPS scheme and the expected rate of return for Canterbury Christ Church University
+were:
+
+Value at 31 Value at 31
+July 2024 July 2023
+£'000 £'000
+Equities 97,361 99,123
+Gilts 12,052 863
+Bonds 24,771 21,275
+Property 15,196 15,597
+Cash 5,382 1,782
+Absolute return fund 8,615 11,132
+Infrastructure 7,837 5,736
+171,214 155,508
+Value at 31 Value at 31
+July 2024 July 2023
+£'000 £'000
+Total market value of assets 171,214 155,508
+Present value of scheme liabilities (135,975) (125,388)
+Present value of unfunded liabilities (1) (2)
+Surplus in the scheme * 35,238 30,118
+
+*The surplus in the scheme is subject to an asset ceiling for recognition in the Statement of Financial Position
+of the University in 2024.
+
+Strategic Report and Financial Statements for the year ended 31 July 2024
+70
+
+Notes to the Financial Statements (continued)
+
+23. PENSION SCHEMES (CONTINUED)
+
+2024 2023
+Reconciliation of Defined Benefit Obligation £'000 £'000
+Opening Defined Benefit Obligation 125,390 156,142
+Current Service Cost 5,518 9,175
+Interest Cost , 6,446 5,289
+Change in financial assumptions 77 ( 59,308)
+Change in demographic assumptions* { 292) (2,572)
+Contributions by Members 2,282 2,009
+Past Service Costs, including curtailments 75 -
+Estimated Unfunded Benefits Paid (1) (1)
+Estimated Benefits Paid (net of transfers in) (2,852) (3,186)
+Experience (gain)/loss on defined benefit obligation (667) 17,842
+Closing Defined Benefit Obligation 135,976 125,390
+
+* The change in demographic assumptions in 2023 reflects the outcome of the McCloud/Sargeant judgement.
+
+Reconciliation of Fair Value of Employer Assets 2024 2023
+£'000 £000
+Opening Fair Value of Employer Assets 155,508 150,189
+Interest on assets 8,152 5,178
+Return on assets less interest 2,043 (3,599)
+Administration expenses (141) (92)
+Contributions by the Employer 6,223 5,450
+Contributions by Members 2,282 2,009
+Other Actuarial gains/(losses) . (440)
+Estimated Benefits Paid including unfunded benefits (2,853) (3,187)
+Closing Fair Value of Employer Assets 171,214 155,508
+
+The total return on the fund assets for the year to 31 July 2024 was a gain of £8,152,000 and interest earned on these
+assets was £2,043,000. Scheme assets do not include any Canterbury Christ Church University owned financial!
+instruments or any property occupied by Canterbury Christ Church University.
+
+2024 2023
+Analysis of the amount shown in the balance sheet for LGPS: £'000 £000
+Scheme assets 171,214 155,508
+Scheme liabilities (135,976) 125,390
+Surplus in the scheme 35,238 30,118
+Current service cost including curtailments 5,593 _ 9,175
+Admin charge 141 92
+Total operating charge: 5,734 9,267
+Analysis of the amount charged to interest payable for LGPS
+Interest (income)/cost (1,706) 114
+Net charge to other finance income (1,706) 414
+Total profit and loss charge before deduction for tax
+Analysis of other comprehensive income for LGPS:
+Return on assets in excess of interest 2,043 (3,599)
+Other actuarial gains/(losses) on assets - (440)
+Changes to demographic assumptions 292 2,572
+Financial assumption changes (77) 59,308
+Experience gain/(loss) on defined benefit obligation 667 (17,842)
+Total other comprehensive income before deduction for tax 2,925 39,999
+
+Strategic Report and Financial Statements for the year ended 31 July 2024
+71
+
+Notes to the Financial Statements (continued)
+24, FINANCIAL INSTRUMENTS
+Consolidated 2024 2023
+£000 £000
+
+Financial Assets
+
+Financial Instruments are debt instruments
+measured at amortised cost
+
+Cash and cash equivalents 57,346 34,323
+Trade and other debtors 119,985 84,315
+177,331 118,638
+
+Financial Liabilities
+
+Financial liabilities measured at amortised cost
+
+Loans . 54,041 52,803
+Trade creditors 36,477 18,201
+Other creditors 141,024 74,630
+231,542 145,634
+University 2024 2023
+£'000_—; -£'000
+
+Financial Assets
+Financial Instruments are debt instruments
+measured at amortised cost
+
+Cash and cash equivalents 56,956 34,040
+Trade and other debtors 119,985 84,315
+176,941 118,355
+
+Financial Liabilities
+
+Financial liabilities measured at amortised cost
+
+Loans 54,041 52,803
+Trade creditors 36,477 18,201
+Other creditors 141,209 74,781
+
+231,727 145,785
+
+Strategic Report and Financial Statements for the year ended 31 July 2024
+72
+
+Notes to the Financial Statements (continued)
+
+25. STUDENT SUPPORT FUNDS
+
+2024 2023
+Total Total
+£'000 £'000
+DfE Bursaries
+Funding Council grants 1,708 973
+Balance brought forward from previous years 178 391
+Disbursed to students (2,020) (1,186)
+(134) 178
+
+Strategic Report and Financial Statements for the year ended 31 July 2024
+73
+

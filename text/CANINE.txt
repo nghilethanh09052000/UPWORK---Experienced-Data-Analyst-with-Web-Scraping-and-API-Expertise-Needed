@@ -1,0 +1,375 @@
+Canine Groom School Ltd
+1 January 2023
+false
+No description of principal activity
+Taxfiler
+2024.5
+07589744
+business:PrivateLimitedCompanyLtd
+2023-01-01
+2023-12-31
+07589744
+2022-12-31
+07589744
+2023-01-01
+2023-12-31
+07589744
+business:AuditExemptWithAccountantsReport
+2023-01-01
+2023-12-31
+07589744
+business:FilletedAccounts
+2023-01-01
+2023-12-31
+07589744
+2023-12-31
+07589744
+business:Director1
+2023-01-01
+2023-12-31
+07589744
+business:Director2
+2023-01-01
+2023-12-31
+07589744
+business:RegisteredOffice
+2023-01-01
+2023-12-31
+07589744
+core:WithinOneYear
+2023-12-31
+07589744
+core:AfterOneYear
+2023-12-31
+07589744
+core:RetainedEarningsAccumulatedLosses
+core:PreviouslyStatedAmount
+2023-12-31
+07589744
+core:PreviouslyStatedAmount
+2023-12-31
+07589744
+business:SmallEntities
+2023-01-01
+2023-12-31
+07589744
+countries:EnglandWales
+2023-01-01
+2023-12-31
+07589744
+core:PlantMachinery
+2022-12-31
+07589744
+core:FurnitureFittings
+2022-12-31
+07589744
+core:ComputerEquipment
+2022-12-31
+07589744
+core:PlantMachinery
+2023-01-01
+2023-12-31
+07589744
+core:FurnitureFittings
+2023-01-01
+2023-12-31
+07589744
+core:ComputerEquipment
+2023-01-01
+2023-12-31
+07589744
+core:PlantMachinery
+2023-12-31
+07589744
+core:FurnitureFittings
+2023-12-31
+07589744
+core:ComputerEquipment
+2023-12-31
+07589744
+core:AdditionsToInvestments
+2023-12-31
+iso4217:GBP
+xbrli:pure
+Company Registration No.
+07589744
+(England and Wales)
+Canine Groom School Ltd
+Unaudited accounts
+for the year ended
+31 December 2023
+Canine Groom School Ltd
+Unaudited accounts
+Contents
+Page
+Company information
+3
+Accountants' report
+4
+Statement of financial position
+5
+Notes to the accounts
+6
+- 2 -
+Canine Groom School Ltd
+Company Information
+for the year ended
+31 December 2023
+Directors
+Steven Maney
+Poppy Maney
+Company Number
+07589744
+(England and Wales)
+Registered Office
+Howgill Farm
+Howgill Lane
+Rimington
+Clitheroe
+Lancashire
+BB7 4EF
+England
+Accountants
+A.N.Y. Accounting & Bookkeeping Services Ltd
+26 Aycliffe Drive
+Buckshaw Village
+Chorley
+PR7 7GD
+- 3 -
+Canine Groom School Ltd
+Accountants' report
+Accountants' report to the board of directors of
+Canine Groom School Ltd
+on the preparation of the unaudited statutory accounts for the year ended
+31 December 2023
+In order to assist you to fulfil your duties under the Companies Act 2006, we have prepared for your approval the accounts of
+Canine Groom School Ltd
+for the year ended
+31 December 2023
+as set out on pages
+5
+-
+7
+from the company's accounting records and from information and explanations you have given us.
+This report is made solely to the Board of Directors of
+Canine Groom School Ltd
+, as a body, in accordance with the terms of our engagement. Our work has been undertaken solely to prepare for your approval the accounts of
+Canine Groom School Ltd
+and state those matters that we have agreed to state to them, as a body, in this report. To the fullest extent permitted by law, we do not accept or assume responsibility to anyone other than
+Canine Groom School Ltd
+and its Board of Directors as a body for our work or for this report.
+It is your duty to ensure that
+Canine Groom School Ltd
+has kept adequate accounting records and to prepare statutory accounts that give a true and fair view of the assets, liabilities, financial position and profit of
+Canine Groom School Ltd
+. You consider that
+Canine Groom School Ltd
+is exempt from the statutory audit requirement for the year.
+We have not been instructed to carry out an audit or a review of the accounts of
+Canine Groom School Ltd
+. For this reason, we have not verified the accuracy or completeness of the accounting records or information and explanations you have given to us and we do not, therefore, express any opinion on the statutory accounts.
+A.N.Y. Accounting & Bookkeeping Services Ltd
+26 Aycliffe Drive
+Buckshaw Village
+Chorley
+PR7 7GD
+9 August 2024
+- 4 -
+Canine Groom School Ltd
+Statement of financial position
+as at
+31 December 2023
+2023
+Notes
+£
+Called up share capital not paid
+(
+100
+)
+Fixed assets
+Tangible assets
+4
+54,535
+Investments
+5
+22,218
+76,753
+Current assets
+Inventories
+4,817
+Debtors
+6
+24,130
+Cash at bank and in hand
+1,223
+30,170
+Creditors: amounts falling due within one year
+7
+(
+19,090
+)
+Net current assets
+11,080
+Total assets less current liabilities
+87,733
+Creditors: amounts falling due after more than one year
+8
+(
+3,565
+)
+Net assets
+84,168
+Capital and reserves
+Profit and loss account
+84,168
+Shareholders' funds
+84,168
+For the year ending
+31 December 2023
+the company was entitled to exemption from audit under section 477 of the Companies Act 2006 relating to small companies.
+The members have not required the company to obtain an audit in accordance with section 476 of the Companies Act 2006.
+The directors acknowledge their responsibilities for complying with the requirements of the Act with respect to accounting records and the preparation of accounts.
+These accounts have been prepared and delivered in accordance with the provisions applicable to companies subject to the small companies' regime and in accordance with the provisions of FRS 102 Section 1A - Small Entities. The profit and loss account has not been delivered to the Registrar of Companies.
+The financial statements were approved by the Board of Directors and authorised for issue on
+9 August 2024
+and were signed on its behalf by
+Steven Maney
+Director
+Company Registration No.
+07589744
+- 5 -
+Canine Groom School Ltd
+Notes to the Accounts
+for the year ended
+31 December 2023
+1
+Statutory information
+Canine Groom School Ltd
+is a private company, limited by shares, registered in England and Wales
+, registration number
+07589744
+. The registered office is
+Howgill Farm
+,
+Howgill Lane
+,
+Rimington
+,
+Clitheroe
+,
+Lancashire
+,
+BB7 4EF
+, England.
+2
+Compliance with accounting standards
+The accounts have been prepared in accordance with the provisions of FRS 102 Section 1A Small Entities. There were no material departures from that standard.
+3
+Accounting policies
+The principal accounting policies adopted in the preparation of the financial statements are set out below and have been consistently applied within the same accounts.
+Basis of preparation
+The accounts have been prepared under the historical cost convention as modified by the revaluation of certain fixed assets.
+Presentation currency
+The accounts are presented in £ sterling.
+4
+Tangible fixed assets
+Plant & machinery
+Fixtures & fittings
+Computer equipment
+Total
+£
+£
+£
+£
+Cost or valuation
+At cost
+At cost
+At cost
+At 1 January 2023
+-
+171,153
+-
+171,153
+Additions
+2,700
+-
+535
+3,235
+At
+31 December 2023
+2,700
+171,153
+535
+174,388
+Depreciation
+At 1 January 2023
+-
+115,503
+-
+115,503
+Charge for the year
+486
+3,768
+96
+4,350
+At
+31 December 2023
+486
+119,271
+96
+119,853
+Net book value
+At
+31 December 2023
+2,214
+51,882
+439
+54,535
+5
+Investments
+Other investments
+£
+Valuation at 1 January 2023
+-
+Additions
+22,218
+Valuation at
+31 December 2023
+22,218
+6
+Debtors
+2023
+£
+Amounts falling due within one year
+Trade debtors
+24,130
+- 6 -
+Canine Groom School Ltd
+Notes to the Accounts
+for the year ended
+31 December 2023
+7
+Creditors: amounts falling due within one year
+2023
+£
+VAT
+10,626
+Trade creditors
+3,786
+Taxes and social security
+2,308
+Accruals
+2,370
+19,090
+8
+Creditors: amounts falling due after more than one year
+2023
+£
+Loans from directors
+3,565
+9
+Average number of employees
+During the year the average number of employees was
+8
+.
+- 7 -

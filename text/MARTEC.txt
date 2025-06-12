@@ -1,0 +1,411 @@
+Company registration number 11130391 (England and Wales)
+
+Martec Training Limited
+Unaudited financial statements
+
+For the year ended 31 July 2024
+
+wn
+
+At 31/03/2025 #123
+COMPANIES HOUSE
+
+MONDAY
+
+Martec Training Limited
+
+Contents
+
+Statement of financial position
+
+Notes to the financial statements
+
+Page
+
+
+Martec Training Limited
+
+Statement of financial position
+As at 31 July 2024
+
+Nutes
+Fixed assets
+Tangible assets 3
+Current assets
+
+Debtors 4
+Cash at bank and in hand
+
+Creditors: amounts falling due
+within one year 5
+
+Net current assets
+Total assets less current liabilities
+Provisions for liabilities
+
+Net assets
+
+Capital and reserves
+Called up share capita!
+Profit and loss reserves
+
+Total equity
+
+2024
+£ £
+37,945
+368,071
+118,116
+486,187
+(118,554)
+367,633
+405,578
+(6,700)
+398,878
+1
+398,877
+
+398,878
+
+358,189
+81,833
+
+440,022
+
+(148,945)
+
+2023
+
+36,856
+
+291,077
+327,933
+(6,800)
+
+321,133
+
+1
+321,132
+
+321,133
+
+
+Martec Training Limited
+
+Statement of financial position (continued)
+
+As at 31 July 2024
+
+For the financial year ended 31 July 2024 Lhe company was entitled to exemption from audit under section
+479A of the Companies Act 2006 relating to subsidiary companies.
+
+The members have not required the company to obtain an audit of its financial statements for the year in
+question in accordance with section 476.
+
+The directors acknowledge their responsibilities for complying with the requirements of the Companies Act
+2006 with respect to accounting records and the preparation of financial statements.
+
+These financial statements have been prepared and delivered in accordance with the provisions applicable
+to companies subject to the small companies regime.
+
+The directors of the company have elected not to include a copy of the income statement within the
+financial statements.
+
+The financial statements were approved by the board of directors and authorised for issue on
+QNG2\20A8.. and are signed on its behalf by:
+
+Mrs T L Marson-Holland
+Director
+
+Company registration number 11130391 (England and Wales)
+
+
+Martec Training Limited
+
+Notes to the financial statements
+For the year ended 31 July 2024
+
+14
+
+1.2
+
+1.3
+
+Accounting policies
+
+Company information
+Martec Training Limited is a private company limited by shares incorporated in England and Wales.
+The registered office is London Road, Lyme Valley, Newcastle under Lyme, Staffordshire, ST5 LLZ.
+
+Accounting convention
+
+These financial statements have been prepared in accordance with FRS 102 “The Financial Reporting
+Standard applicable in the UK and Republic of Ireland” (“FRS 102”) and the requirements of the
+Companies Act 2006 as applicable to companies subject to the small companies regime. The
+disclosure requirements of section 1A of FRS 102 have been applied other than where additional
+disclosure is required to show a true and fair view.
+
+The financial staternents are prepared in sterling, which is the functional currency of the company.
+Monetary amounts in these financial statements are rounded to the nearest £.
+
+The financial statements have been prepared under the historical cost convention. The principal
+accounting policies adopted are set out below.
+
+Martec Training Limited is a wholly owned subsidiary of Marson Garages Holdings Limited and the
+results af Martec Training Limited are included in the consolidated financial statements of Marson
+Garage Holdings Limited which are available from Tern Hill Hall, Tern Hill, Market Drayton, England,
+TF9 3PU.
+
+Turnover
+
+Turnover is recognised at the fair value of the consideration received or receivable for goods and
+services provided in the normal course of business, and is shown net of VAT and other sales related
+taxes. The fair value of consideration takes into account trade discounts, settlement discounts and
+volume rebates.
+
+Revenue from contracts for the provision of professional services is recognised by reference to the
+stage of completion when the stage of completion, costs incurred and costs to complete can be
+estimated reliably. The stage of completion is calculated by comparing costs incurred, mainly in
+relation to contractual hourly staff rates and materials, as a proportion of total costs. Where the
+outcome cannot be estimated reliably, revenue is recognised only to the extent of the expenses
+recognised that it is probable will be recovered.
+
+Tangible fixed assets
+Tangible fixed assets are initially measured at cost and subsequently measured at cost or valuation,
+net of depreciation and any impairment fosses.
+
+Depreciation is recognised so as to write off the cost or valuation of assets less their residual values
+over their useful lives on the following bases:
+
+Plant and machinery 20% reducing balance
+Fixtures and fittings 25% reducing balance
+Computer equipment 25% straight line
+
+Motor vehicles 25% reducing balance
+
+The gain or loss arising on the disposal of an asset is determined as the difference between the sale
+proceeds and the carrying value of the asset, and is credited or charged to profit or loss.
+
+
+Martec Training Limited
+
+Notes to the financial statements (continued)
+For the year ended 31 July 2024
+
+1.4
+
+1.5
+
+1.6
+
+Accounting policies {Continued)
+
+Impairment of fixed assets
+
+At each reporting period end date, the company reviews the carrying amounts of its tangible assets
+to determine whether there is any indication that those assets have suffered an impairment loss. If
+any such indication exists, the recoverable amount of the asset is estimated in order to determine the
+extent of the impairment loss (if any). Where it is not possible to estimate the recoverable amount of
+an individua! asset, the company estimates the recoverable amount of the cash-generating unit to
+which the asset belongs.
+
+Recoverable amount is the higher of fair value less costs to sell and value in use. In assessing value
+in use, the estimated future cash flows are discounted to their present value using a pre-tax discount
+rate that reflects current market assessments of the time value of money and the risks specific to the
+asset for which the estimates of future cash flows have not been adjusted.
+
+Cash and cash equivalents
+
+Cash and cash equivalents are basic financial assets and include cash in hand, deposits held at cal!
+with banks, other short-term liquid investments with original maturities of three months or less, and
+bank overdrafts. Bank overdrafts are shown within borrowings in current liabilities.
+
+Financial instruments
+The company has elected to apply the provisions of Section 11 ‘Basic Financial Instruments’ and
+Section 12 ‘Other Financial Instruments Issues’ of FRS 102 to all of its financial instruments.
+
+Financial instruments are recognised in the company's statement of financial position when the
+company becomes party to the contractual provisions of the instrument.
+
+Financial assets and liabilities are offset, with the net amounts presented in the financial statements,
+when there is a legally enforceable right to set off the recognised amounts and there is an intention
+to settle on a net basis or to realise the asset and settle the liability simultaneously.
+
+Basic financial assets
+
+Basic financial assets, which include debtors and cash and bank balances, are initially measured at
+transaction price including transaction costs and are subsequently carried at amortised cost using the
+effective interest method unless the arrangement constitutes a financing transaction, where the
+transaction is measured at the present value of the future receipts discounted at a market rate of
+interest. Financial assets classified as receivable within one year are not amortised,
+
+Classification of financial liabilities
+
+Financial tiabilities and equity instruments are classified according to the substance of the contractual
+arrangements entered into. An equity instrument is any contract that evidences a residual interest in
+the assets of the company after deducting all of its liabilities.
+
+
+Martec Training Limited
+
+Notes to the financial statements (continued)
+For the year ended 31 July 2024
+
+1.7
+
+1.8
+
+Accounting policies (Continued)
+
+Basic financial liabilities
+
+Basic financial liabilities, including creditors and bank loans, are initially recognised at transaction
+price unless the arrangement constitutes a financing transaction, where the debt instrument is
+measured at the present value of the future payments discounted at a market rate of interest.
+Financial liabilities classified as payable within one year are not amortised.
+
+Debt instruments are subsequently carried at amortised cost, using the effective interest rate
+method.
+
+Trade creditors are obligations to pay for goods or services that have been acquired in the ordinary
+course of business from suppliers. Amounts payable are classified as current liabilities if payment is
+due within one year or less. If not, they are presented as non-current liabilities. Trade creditors are
+recognised initially at transaction price and subsequently measured at amortised cost using the
+effective interest method.
+
+Equity instruments
+
+Equity instruments issued by the company are recorded at the proceeds received, net of transaction
+costs. Dividends payable on equity instruments are recognised as liabilities once they are no longer
+at the discretion of the company.
+
+Taxation
+The tax expense represents the sum of the tax currently payable and deferred tax.
+
+Current tax
+
+The tax currently payable is based on taxable profit for the year. Taxable profit differs from net profit
+as reported in the income statement because it excludes items of income or expense that are taxable
+or deductible in other years and it further excludes items that are never taxable or deductible. The
+company’s liability for current tax is calculated using tax rates that have been enacted or
+substantively enacted by the reporting end date.
+
+Deferred tax
+
+Deferred tax liabilities are generatly recognised for all timing differences and deferred tax assets are
+recognised to the extent that it is probable that they will be recovered against the reversal of
+deferred tax liabilities or other future taxable profits. Such assets and liabilities are not recognised if
+the timing difference arises from goodwill or from the initial recognition of other assets and liabilities
+in a transaction that affects neither the tax profit nor the accounting profit.
+
+The carrying amount of deferred tax assets is reviewed at each reporting end date and reduced to
+the extent that it is no longer probable that sufficient taxable profits will be available to allow all or
+part of the asset to be recovered. Deferred tax is calculated at the tax rates that are expected to
+apply in the period when the liability is settled or the asset is realised. Deferred tax is charged or
+credited in the income statement, except when it relates to items charged or credited directly to
+equity, in which case the deferred tax is also dealt with in equity. Deferred tax assets and lfabilities
+are offset when the company has a legally enforceable right to offset current tax assets and liabilities
+and the deferred tax assets and liabilities relate to taxes levied by the same tax authority.
+
+
+Martec Training Limited
+
+Notes to the financial statements (continued)
+For the year ended 31 July 2024
+
+1.9
+
+Accounting policies (Continued)
+
+Employee benefits
+The costs of short-term employee benefits are recognised as a liability and an expense, unless those
+costs are required to be recognised as part of the cost of stock or fixed assets.
+
+The cost of any unused holiday entitlement is recognised in the period in which the employee’s
+services are received.
+
+Termination benefits are recognised immediately as an expense when the company is demonstrably
+committed to terminate the employment of an employee or to provide termination benefits.
+
+1.10 Retirement benefits
+
+Payments to defined contribution retirement benefit schemes are charged as an expense as they fall
+due.
+
+Employees
+
+The average monthly number of persons (including directors} employed by the company during the
+year was:
+
+2024 2023
+Number Number
+Total 41 33
+Tangible fixed assets
+Plant and Fixtures and Computer Motor Total
+machinery fittings equipment vehicles
+£ £ £ £ £
+Cost
+At 1 August 2023 37,081 1,970 10,777 31,509 81,337
+Additions 649 2,600 9,880 5,109 18,238
+Disposals - - - (1,245) (1,245)
+At 31 July 2024 37,730 4,570 20,657 35,373 98,330
+Depreciation and impairment
+At 1 August 2023 19,531 624 5,951 18,375 44,481
+Depreciation charged in the year 6,646 390 4,932 4,200 16,168
+Eliminated in respect of disposals ~ ~ - (264) (264)
+At 31 July 2024 26,177 1,014 10,883 22,311 60,385
+Carrying amount
+At 31 July 2024 11,553 3,556 9,774 13,062 37,945
+At 31 July 2023 17,550 1,346 4,826 13,134 36,856
+
+
+Martec Training Limited
+
+Notes to the financial statements (continued)
+For the year ended 31 July 2024
+
+4 Debtors
+
+2024 2023
+Amounts falling due within one year: E £
+Trade debtors 30,355 18,378
+Amounts owed by group undertakings 334,513 332,178
+Other debtors 3,203 7,633
+368,071 358,189
+
+5 Creditors: amounts falling due within one year
+2024 2023
+£ £
+Trade creditors 4,276 45,499
+Amounts owed to group undertakings 29,225 40,038
+Taxation and social security 73,975 48,589
+Other creditors 11,078 14,819
+
+118,554 148,945
+
+6 Financial commitments, guarantees and contingent liabilities
+
+There are unlimited cross guarantees between the company and Marson Garages Holdings Limited. At
+the period end, debt subject to the guarantee amounted to £879,946 (2023 - £939,814).
+
+7 Related party transactions
+
+The company is a wholly owned subsidiary of Marson Garages Holdings Limited and as such, has
+taken advantage of the exemption available not to disclose group transactions.
+
+C)
+a
+
+‘ontrolling party
+
+The company is a wholly owned subsidiary of Marson Garages (Wolstanton) Limited, a company
+incorporated in England and Wales.
+
+The company's ultimate parent undertaking is Marson Garages Holdings Limited, a company
+incorporated in England and Wales. Its registered office is Tern Hill Hall, Tern Hill, Market Drayton,
+England, TF9 3PU.
+
+The company is controlled by B P and P J Marson by way of their shareholding in Marson Garages
+Holdings Limited.
+
+

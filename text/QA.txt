@@ -1,0 +1,1890 @@
+Registration number: 02413137
+
+QA Limited
+Annual Report and unaudited Financial Statements
+for the Year Ended 31 May 2024
+
+FRIDAY
+
+wo
+
+23/05/2025 #14
+COMPANIES HOUSE
+
+QA Limited
+
+Contents
+
+Company Information
+
+Strategic Report
+
+Directors’ Report
+
+Statement of Directors’ Responsibilities
+Income Statement
+
+Statement of Financial Position
+Statement of Changes in Equity
+
+Notes to the Financial Statements
+
+2 to 5
+
+6 to 8
+
+1
+
+12
+
+13 - 36
+
+QA Limited
+
+Company Information
+
+Directors
+Phillip Young (Appointed | January 2025)
+
+Joshua Hubbert (Appointed 3 March 2025)
+
+Nathan Runnicles (Resigned 31 December 2024)
+
+Richard Townsend (Appointed | June 2023 and Resigned 30 January 2025)
+Paul Geddes (Resigned | June 2023)
+
+Company secretary
+Philip Young (Appointed 1 January 2025)
+
+Nathan Runnicles (Resigned 31 December 2024)
+
+Registered office
+International House
+1 St Katherine’s Way
+London
+
+Berkshire
+
+EW LUN
+
+Solicitor
+
+DLA Piper UK LLP
+1 St Paul's Place
+Sheffield
+
+S1 25x
+
+QA Limited
+Strategic Report fur the Year Ended 31 May 2024
+
+The Directors present their Strategic Report for the year ended 31 May 2024.
+
+Principal activity and business review
+
+At QA Limited (herein referred to as “QA") we help our clients and learners to win in the digital revolution.
+Through our unique combination of world-class digital and live skills development capabilities we deliver proven
+workplace outcomes. We are technology and digital specialists - providing a comprehensive suite of talent and
+training services which support businesses and government organisations to tackle the global skills shortage.
+
+More than 509,000 (2023: 528,000) people learnt with QA last year. We deliver services to over 7,000 (2023: >
+6,000) corporate clients, including a significant portion of FTSE350 firms. We have leading practices in Agile,
+Cyber Security, Cloud and DevOps — as well as many other technology domains and soft skills development. We
+partner with the world’s largest tech companies, with accreditations including being a Microsoft Cloud Solutions
+Partner - Training Services. Our deep-rooted vendor partnerships mean that we deliver a significant portion of the
+UK’s cloud training.
+
+We specialise in the people side of technology transformation - our training programmes help organisations to
+upskill or reskill their existing employees and our funded learning programmes and bootcamps are used to identify,
+recruit and develop diverse technology talent.
+
+For nearly 40 years QA has responded to a market that is changing at an ever more rapid pace. Our investment in
+trainers, technology, content and facilities means we’re a trusted training partner for global businesses and
+government organisations around the world. Our courses reflect the dynamic nature of technology and its impact
+across an organisation, from Al and complementary technologies like data, cloud, cyber security, dev-ops, agile,
+project management to empowering commercial teams in marketing technology, SEO, analytics, customer-
+centricity and digital advertising.
+
+Through our powerful proprietary platform we’re able to offer multi-modality solutions in one place delivering
+training individually or in cohorts in dynamic, fun ways that increase retention and application of knowledge. Our
+public schedule and private client events offer a broad spectrum of instructor-led and blended training programmes
+that are delivered digitally and virtually to learners (and also in the classroom if requested).
+
+Supporting QA is a network of hundreds of trusted learning partners and more than 40 global technology vendor
+relationships. We are Microsoft’s largest training provider in Europe and one of just a handful to hold the status
+of Cloud Training Services Solutions Partner.
+
+QA is the UK market leader in digital and technology apprenticeships, and is the second largest in data. QA has
+trained over 48,000 apprentices. Our funded leaming programmes offer apprenticeship qualifications from Level
+3 all the way up to masters-degree Level 7, supporting organisations looking to maximise the use of the
+apprenticeship levy.
+
+Results and dividends
+
+In 2024 revenues increased by 0.6% to £191.6m (2023: £190.4m). Reported operating profit decreased by 57.2%
+to £7.8m (2023: £18.2m), the Adjusted EBITDA (operating profit pre-adjusting costs, depreciation and
+amortisation, see table on page 3) decreased by 22% to £32.6m (2023: £41.9m) with adjusted operating margin
+reducing to 8% (2023: 16%). Demand for digital instructor led training ("digital ILT”) courses was stable in-year
+with growth in enterprise client demand off set by the public sector as central Government budget restrictions took
+hold. Apprenticeships performed well growing our larger enterprise relationships which helped mitigate lower job
+roles in market as the IT recruitment sector cooled after a strong period of growth since the pandemic. Digital
+subscriptions had a challenging year as the exposure to consumer & packaged goods, retail and health sectors led
+to client chum and reduced demand at renewal. Gress profit increased to £1 !].0m (2023: £109.9m) in line with
+revenue growth as the business continues to benefit from digital delivery in its learning and apprenticeships
+programmes. Administration expenses (pre-adjusting costs of £7.8m (2023: £11.5m) incurred on restructuring
+management teams and the implementation of a customer relationship management software, (see table on page
+3)) increased to £95.4m (2023: £80.2m) as the Company increased headcount to drive business growth, with
+average FTE increasing to 1,062 for sales and administration staff (2023: 946).The Company made a profit after
+tax of £14.6m (2023: £24.3m). The Company declared and paid a dividend of £17.1m (2023: £nil) and following
+a corporate restructure, acquired the trade and assets as part of a hive up of Circus Street London Limited which
+resulted in net assets increasing in the year to £227.5m (2023: £198.5m).
+
+QA Limited
+Strategic Report for the Year Ended 31 May 2024 (continued)
+
+Financial key performance indicators
+The Company’s key financial performance and other performance indicators during the year were as follows:
+
+Financial performance indicators
+
+£'m 2024 2023
+Revenue 191.6 190.4
+Gross profit 111.0 109.9
+Adjusted administration expenses* 95.4 80.2
+Adjusted EBITDA** 32.6 4L9
+Net Assets 227.5 198.5
+
+Other performance indicators
+
+2024 2023
+Learner numbers 509,000 §28,000
+£'m 2024 2023
+Operating profit 7.8 18.2
+Adjusting items [1] 78 11.5
+Depreciation and amortisation [1] 17.0 12.2
+Adjusted EBIFDA** 32.6 41.9
+£'m 2024 2023
+Administration expenses 103.2 91.7
+Adjusting items [1] (78) (11.5)
+Adjusted administration expenses* 95.4 80.2
+
+[1] see note 4 in the financial statements.
+
+Future prospects
+
+Workforce Learning (WL) is focusing on equipping organisations with vital skills in data, cloud, and security
+while enabling businesses to effectively harness Al potential. Significant progress has been made in integrating
+Al-powered content, production, and user experience with market-leading instructor-led training and
+apprenticeships. Strengthened in-market teams in EMEA and the US have removed barriers to cross-selling
+products, offering truly blended, multi-modal, and complementary learning solutions. By providing a unique end-
+to-end learning experience, the business aims to support organisations in applying A! technologies and addressing
+evolving business priorities.
+
+Looking ahead, the focus is on leading Al implementation both internally and for clients. Recent initiatives include
+the launch of a Learning Assistant in partnership with Bain & Co, delivering tailored learning opportunities with
+high satisfaction rates, and a trial of Microsoft Copilot to enhance productivity. Further developments include a
+gamified scenario-based collaboration tool to embed skills, Al-assisted cloud labs, and a bespoke virtual
+production studio for rapidly creating engaging content. The establishment of an AI Governance Committee
+ensures alignment with risks and opportunities as the business broadens its content offerings and supports
+organisations in applying AJ to drive collaboration and operational impact.
+
+The transformations we have driven across the business puts us in a far stronger position than previously to drive
+accelerated growth. In addition, we are watching the UK Government's position on a new Skills and Growth Levy
+with interest. The policy proposes a reform to the current Apprenticeship Levy to enable employers to broaden
+out use of their funds for shorter, more flexible courses. Skills England's initial report has already cited Digital &
+Al skills as a priority need and area of focus. Once the reform comes into effect it will
+
+QA Limited
+Strategic Report for the Year Ended 31 May 2024 (continued)
+
+Future prospects (continued)
+
+provide incremental opportunity for QA, which is well positioned to serve associated employer needs through our
+combination of Apprenticeships. short courses and digital learning, and laser focus on providing Al and associated
+skills.
+
+Principal risks, uncertainties and financial risk management
+
+Market risk
+
+The Company operates in a competitive market and has a number of key competitors. The Company manages this
+risk by providing competitively priced, high quality, flexible learning solutions and maintaining strong
+relationships with its customers.
+
+To manage these market risks the Company continues to invest in virtual instructor-led, self-paced and blended
+learning products to ensure that the proposition and experience evolves to provide multi-modal learning solutions
+for our clients. Further we continue to target the range of services we sell to existing clients alongside adding new
+clients to mitigate the impact of a performance issue in a particular trading activity or relationship. The Directors
+are confident in the prospects of the Company and that it can successfully navigate the economic environment.
+
+Credit risk
+The Company’s principal financial assets are bank balances, receivables owed by group undertakings and trade
+debtors. The Company’s credit risk is primarily attributable to its trade debtors.
+
+Management continually reviews outstanding receivables and debtor recovery plans together with credit limits
+across for our customers. The amounts presented in the balance sheet are net of provision for doubtful debts.
+
+The credit risk on liquid funds is limited because the counterparties are banks with high credit-ratings assigned by
+international! credit rating agencies. The Company has no significant concentration of credit risk, with exposure
+spread over a large number of counterparties and customers.
+
+Liquidity risk
+
+In order tu itaintain liquidity to ensure that sufficient funds are available for ongoing operations and future
+developments, the Company operates a centralised treasury function, features of which include intercompany cash
+transfers and cash forecasting by individual subsidiary.
+
+The Company has sufficient funds through existing cash balances, free cash flow and its Revolving Credit facility,
+to service the annual cost of its financing and meet its other business needs. The Company enters derivative
+contracts to mitigate exchange and interest rate risk. The Company does not use derivative financial instruments
+for speculative purposes.
+
+Other risks
+Other risks such as cyber risks, regulatory and fraud risks are managed at Ichnaea UK Bidco Limited group level
+and are disclosed in the Ichnaea UK Bidco Limited group financial statements, see note 23.
+
+Statement by the Directors in performance of statutory duties in accordance with s172
+
+Throughout the Ichnaea UK Bidco Limited Annual Report, we provide examples of how we: take into account
+the likely consequences of long-term decisions; build relationships with stakeholders; understand the importance
+of engaging with our employees; understand the impact of our operations on the communities and the environment
+we depend upon; and attribute importance to behaving as a responsible business. The Board appreciates the
+importance of effective stakeholder engagement and that stakeholders’ views should be considered in its decision-
+making.
+
+The Board of Directors of QA Limited consider, both individually and together, that they have acted in the way
+they consider, in good faith, would be most likely to promote the success of the Company for the benefit of its
+shareholders as a whole and having regard (amongst other matters) to factors (a) to (f) S172 Companies Act 2006,
+in the decisions taken during the year ended 31 May 2024.
+
+Our governance is designed to ensure that we take into account the views of all our stakeholders, so that our
+decision-making is collaborative and well-informed.
+
+QA Limited
+Strategic Report for the Year Ended 31 May 2024 (continued)
+
+Statement by the Directors in performance of statutory duties in accordance with s172 (continued)
+We engage with our stakeholders as follows:
+
+Customers - our ambition is to deliver best-in class service to our customers. We build strong lasting relationships
+with our customers and spend considerable time with them to understand their needs and views and listen to how
+we can improve our offer and service for them. We use this knowledge to inform our decision-making, for example
+to tailor our proposition to suit customer demands.
+
+People - our people are key to our success, and we want them to be successful individually and as a team. There
+are many ways we engage with and listen to our people including colleague surveys, forums, listening groups,
+face-to-face briefings, internal communities, newsletters and through our anonymous colleague concern line. Key
+areas of focus include health and well-being, development opportunities, pay and benefits. Regular reports about
+what is important to our people are made to the Board ensuring consideration is given to our people’s needs.
+
+Suppliers — our aim is to work closely and transparently with our key suppliers; having a point of contact who
+engages regularly, use of fair contract terms, paying to terms and providing safe working conditions.
+
+Shareholders - the Board aims to understand the views of its shareholders and always to act in their best interests.
+The Board engages with both CVC as majority shareholder and management shareholders throughout the year
+providing updates on trading performance. As part of these meetings shareholders are able to ask questions of the
+Directors. The Board has a dividend strategy that takes into account sufficient reserves, available cash and debt
+servicing, Any dividends declared by the Company are for group restructuring purposes only.
+
+We believe these actions are in line with our culture and the high standards of business conduct and good
+governance we set ourselves. A Director of the Company must act in the way he considers, in good faith, would
+be most likely to promote the success of the Company for the benefit of its members as a whole, and in doing so
+have regard (amongst other matters) to:
+
+* the likely consequences of any decision in the long term;
+
+* the interests of the Company's employees;
+
++ the need to foster the Company’s business relationships with suppliers, customers and others;
+
++ the impact of the Company's operations on the community and the environment;
+
+¢ the desirability of the Company maintaining a reputation for high standards of business conduct; and
++ the need to act fairly as between members of the Company.
+
+Approved by the Board on 21 May 2025 and signed on its behalf by:
+
+Philip Young
+Director
+
+QA Limited
+Directors' Report for the Year Ended 31 May 2024
+
+The Directors present their Annual Report and the audited financial statements for the year ended 31 May 2024.
+The Company has elected to present future developments and dividends in the Strategic Report on page 3 and 4.
+
+Directors of the Company
+The Directors, who held office during the year and subsequently, were as follows:
+
+Phillip Young (Appointed | January 2025)
+
+Nathan Runnicles (Resigned 31 December 2024)
+
+Richard Townsend (Appointed | June 2023 and Resigned 30 January 2025)
+Paul Geddes (Resigned | June 2023)
+
+Directors’ indemnities
+The Company has made qualifying third-party indemnity provisions for the benefit of its Directors and officers
+and these remain in force at the date of this report.
+
+Financial risk management
+
+Objectives and policies
+
+The Company's activities expose it to a number of financial risks including market risk, credit risk and liquidity
+risk. Market, credit and liquidity risk are disclosed in the Strategic Report on page 4. The Company does not use
+derivative financial instruments for speculative purposes.
+
+Post Balance Sheet Events
+There have been no events since the balance sheet date requiring disclosure.
+
+Going concern
+
+The Company's business activities, together with the factors likely to affect its future development, performance
+and position are set out on pages 2 to 5. The Company, QA Limited, is part of is part of the Ichnaea UK Bidco
+Limited Group “the Group” which is in turn part of the IndigoCyan Topco Limited Group. The Directors have
+considered the adoption of the going concern basis of preparation of these financial statements with consideration
+to the wider group position and its business model.
+
+The Ichnaea UK Bidco Limited Group’s cashflow from operating activities of £48m (2023: £40.0m) and balance
+sheet strength enabled the wider Group to refinance its debt facilities and reduce its external debt by £25.0m
+(2023: £30.0m) while also funding debt issue costs of £10.0m. In addition, the balance sheet strength supported
+the Ichnaea UK Bidco Limited Group to acquire the remaining shares held by management in Circus Street for
+£11.9m and end the year with cash of £23.5m (2023: £62.4m).
+
+The forecasting process undertaken by the Directors recognises the inherent uncertainty of the current economic
+environment where inflationary, geopolitical and recessionary risks are heightened. The Directors believe, given
+Ichnaea UK Bidco Limited Group performance through the recent economic pressures (including restructuring of
+the Group’s Workforce Learning business), that trading results will be robust and that there are growth
+opportunities for the business to pursue. The Directors have assessed Ichnaea UK Bidco Limited Group’s various
+revenue and cashflow scenarios that factor in the impact of an economic recession and geopolitical risks on the
+demand for the Ichnaea UK Bidco Limited Group’s services. The analysis confirmed the Ichnaea UK Bidco
+Limited Group has sufficient liquidity and is forecast to comply with its financial covenants.
+
+In October 2023, the Ichnaea UK Bidco Limited Group entered into a new financing agreement with a term loan
+of £265m and revolving credit facility of £40m. The facilities are in place until October 2029 and April 2029,
+respectively. The Company has received a letter of support from IndigoCyan Holdings Jersey Limited the Parent
+Company for IndigoCyan Topco Limited confirming their financial support to satisfy the debts and obligations of
+the company as they fall due for at least 12 months from the date of signing and approving these financial
+statements. The Directors have reviewed the ability of IndigoCyan Holdings Jersey Limited to provide the support
+and are satisfied that this can be provided.
+
+QA Limited
+Directors' Report fur the Year Ended 31 May 2024 (continued)
+
+Going concern (continued)
+On this basis, the Directors have a reasonable expectation that the Company and the Group have adequate
+resources to continue in operational existence for the foreseeable future, being a period of at least 12 months from
+the date of signing and approving these financial statements. In making this assessment, the Directors have
+considered the cash flow forecasts of the Group, the availability of financial resources and facilities and
+compliance with covenants.
+
+Accordingly, they continue to adopt the going concern basis in preparing the Annual Report and financial
+statements.
+
+Employment of disabled persons
+
+Applications for employment by disabled persons are always fully considered, bearing in mind the aptitudes of
+the applicant concerned. In the event of members of staff becoming disabled, every effort is made to ensure that
+their employment within the Company continues, and that appropriate training is arranged. It is the policy of the
+Company that the training, career development and promotion of disabled persons should, as far as possible be
+identical with that of other employees.
+
+Employee involvement
+The Company places considerable value on the involvement of its employees and continues to keep them informed
+on matters affecting them as employees and on various factors affecting the performance of the Company.
+
+We use a combination of communication channels, platforms, and techniques to ensure our people feel engaged,
+informed and connected. This year we launched a new intranet platform which balance both people and business
+focused news and has been a key channel to help shape our diversity and inclusion (D&I) communities and
+wellbeing initiatives. The Executive team continue to hold quarterly ‘All Hands’ employee calls where updates
+are given on financial performance, key strategic initiatives and used as an opportunity to celebrate Company and
+individual successes. In addition, the Executive team also host regular Senior Leadership Group (SLG) calls which
+are more collaborative in their nature and are used to cover key issues or people initiatives. The sessions ensure
+management buy-in, along with consistency in the way managers were communicating with and running their
+teams. We continue to seek employee feedback to measure employee engagement levels and we do this through
+short and regular pulse surveys, allowing us to measure in the moment — for example, our most recent pulse survey
+explored the impact our hybrid working arrangement has had on employee engagement. The benefit of this
+approach is that we can measure the effectiveness of our actions over time — capitalising on things that are working
+well and focusing on areas which need a bit more attention. Over the past 12 months the pulse survey identified
+several areas of improvement based on feedback from our people. We then focused our efforts in the areas and
+delivered various initiatives across the Company important to our people, including reward and recognition.
+
+Reward and recognition needed to have greater impact and to reach more people. QA Spirit enabled us to do this,
+and our recognition programme was brought to life through regular communications and events throughout the
+year — celebrating and recognising our values.
+
+Research and development
+
+During the year, the Company continued to develop its client and learner platforms, build high quality engaging
+content, release new courses that blend digital self-paced and virtual instructor-led traiing, and launch market
+leading offers. A corporate restructure during the year meant capital expenditure on intangibles increased to
+£14.9m (2023: £4.0m) in 2024, with the Company continuing to add new functionality, new learning pathways,
+and new content ranges. There was no impairment charge on intangibles in the year (2023: £5.1m). Prior year
+impairment related to software that was assessed to have £nil value following changes to the Company’s
+technology strategy.
+
+QA Limited
+Directors' Report for the Year Ended 31 May 2024 (continued)
+
+Environmental matters
+
+Streamlined energy and carbon reporting disclosures are disclosed within the Ichnaea UK Bidco Limited accounts,
+see note 11.
+
+Approved by the Board on 2} May 2025 and signed on its behalf by:
+
+Philip Young
+Director
+
+QA Limited
+
+Statement of Directors’ Responsibilities
+
+The Directors acknowledge their responsibilities for preparing the Annual Report and the financial statements in
+accordance with applicable law and regulations.
+
+Company law requires the Directors to prepare financial statements for each financial year. Under that law the
+Directors have elected to prepare the financial statements in accordance with United Kingdom adopted
+international accounting standards. The financial statements also comply with Internationa! Financial Reporting
+Standards (IFRSs) as issued by the IASB. Under company law the directors must not approve the financial
+statements unless they are satisfied that they give a true and fair view of the state of affairs of the company and of
+the profit or loss of the company for that period.
+
+In preparing the Company financial statements, the Directors are required to:
+
+e select suitable accounting policies and apply them consistently:
+
+« make judgements and accounting estimates that are reasonable and prudent;
+
+e state whether applicable UK accounting standards have been followed, subject to any material departures
+disclosed and explained in the financial statements; and
+
+© prepare the financial statements on the going concern basis unless it is inappropriate to presume that the
+Company will continue in business.
+
+The Directors are responsible for keeping adequate accounting records that are sufficient to show and explain the
+Company's transactions and disclose with reasonable accuracy at any time the financial position of the Company
+and enable them to ensure that the financial statements comply with the Companies Act 2006. They are also
+responsible for safeguarding the assets of the Company and hence for taking reasonable steps for the prevention
+and detection of fraud and other irregularities.
+
+The Directors are responsible for the maintenance and integrity of the corporate and financial information included
+on the company’s website. Legislation in the United Kingdom governing the preparation and dissemination of
+financial statements may differ from legislation in other jurisdictions.
+
+QA Limited
+Income Statement for the Year Ended 31 May 2024
+
+2024 2023
+
+Note £m £m
+
+Revenue 3 191.6 190.4
+Cost of sales (80.6) (80.5)
+Gross profit 111.0 109.9
+Administrative expenses (103.2) (QL)
+Operating profit 4 18 18.2
+Finance income 13.8 12.1
+Finance costs (2.0) (2.3)
+Net finance income 5 11.8 9.8
+Profit before tax 19.6 28.0
+Income tax 7 (5.0) G.7)
+Profit for the year 14.6 24.3
+
+The above results were derived from continuing operations. There were no items of other comprehensive income.
+
+10
+
+The notes on pages 13 to 36 form an integral part of these financial statements
+
+QA Limited
+Statement of Financial Position as at 31 May 2024
+
+31 May 31 May
+2024 2023
+Note £m £m
+Assets
+Non-current assets
+Property, plant and equipment 9 13.6 38.1
+Intangible assets 0 28.7 23.7
+Investments in subsidiaries 1 38.5 75
+Deferred tax assets 8 1.3 2.3
+Investments: receivables owed by group undertakings 1 187.8 161.4
+269.9 233.0
+Current assets
+Inventories 2 0.1 0.1
+Trade and other receivables 3 32.1 33.6
+Cash and cash equivalents 4 5.4 46.8
+37.6 80.5
+Total assets 307.5 313.5
+Equity and liabilities
+Equity
+Share capital 15 - -
+Share premium (34.6) (G.6)
+Share based payment reserve (4.5) (4.0)
+Retained earnings (188.4) (190.9)
+Total equity (227.5) (198.5)
+Non-current liabilities
+Provisions 17 (0.1) (3.0)
+Other non-current financial liabilities 16 (10.3) (37.6)
+(10.4) (40.6)
+Current liabilities
+Current portion of long-term lease liabilities 16 (2.8) (3.4)
+Trade and other payables 18 (27.6) (33.7)
+Corporation tax liability G.5) -
+Deferred income (2.9) G4.1)
+Provisions 17 (2.8) (3.2)
+(69.6) (74.4)
+Total liabilities (80.0) (115.0)
+Total equity and liabilities (307.5) (313.5)
+
+For the financial year ended 31 May 2024 the Company was entitled to exemption from audit under section 479A
+of the Companies Act 2006 relating to subsidiary companies. The members have not required the Company to
+obtain an audit of its financial statements for the year in question in accordance with section 476. The Directors
+acknowledge their responsibilities for complying with the requirements of the Act with respect to accounting
+records and the preparation of accounts.
+
+The financial statements were approved by the Board on 21 May 2025 and signed on its behalf by:
+
+&
+
+Philip Young, Director
+11
+
+The notes on pages 13 to 36 form an integral part of these financial statements
+
+QA Limited
+Statement of Changes in Equity for the Year Ended 31 May 2024
+
+2023
+Share based Retained
+Share capital Share premium payment reserve earnings Total
+£m £m £m £m £m
+At | June 2022 - 3.6 2.2 166.6 172.4
+Profit for the year - : : 24.3 24.3
+Total comprehensive
+income - - - 24.3 24.3
+Share based payment - - 1.8 - 1.8
+At 31 May 2023 - 3.6 4.0 190.9 198.5
+2024
+Share based Retained
+Share capital Share premium payment reserve earnings Total
+£m £m £m £m £m
+At | June 2023 - 3.6 4.0 190.9 198.5
+Profit for the year : - 14.6 14.6
+Total comprehensive
+income - - - 14.6 14.6
+Issue of share capital - 31.0 - - 31.0
+Dividend - - - (17.1) (7.1)
+Share based payment - - 0.5 : 0.5
+At 31 May 2024 - 34.6 4.5 188.4 227.5
+
+12
+
+The notes on pages 13 to 36 form an integral part of these financial! statements
+
+QA Limited
+Notes to the Financial Statements for the Year Ended 31 May 2024
+
+1 General information
+
+The Company is a private company limited by share capital, incorporated in the United Kingdom and
+registered in England and Wales under the Companies Act 2006.
+
+The address of its registered office is:
+International House
+
+1 St Katherine's Way
+
+London
+
+Berkshire
+
+EIW 1UN
+
+United Kingdom
+
+The principal activities of the Company are disclosed in the strategic report on page 2.
+
+2 Accounting policies
+
+Basis of preparation
+
+These financial statements were prepared in accordance with United Kingdom adopted international
+accounting standards in conformity with the requirements of the Companies Act 2006 and the parent
+Company's financial statements were prepared in accordance with Financial Reporting Standard 101 Reduced
+Disclosure Framework. These financial statements have been prepared on a historical cost basis. The
+functional and presentational currency of the Company is considered to be Pound Sterling because that is the
+currency of the primary economic environment in which the Company operates.
+
+Summary of disclosure exemptions
+The parent company meets tie definition of a qualifying entity under FRS 100 "Application of Financial
+Reporting Requirements" issued by the FRC and has taken advantage of the following disclosure exemptions:
+
+e the requirements of paragraphs 62, B64(d), B64(e), B64(g), B64(h), B64(j) to B64(m), BO4(n)(ii),
+B64(o)(ii), B64(p), B64(q)(ii), B66 and B67 of IFRS 3 Business Combinations
+the requirements of [FRS 7 Financial Instruments: Disclosures
+the requirements of paragraphs 91-99 of IFRS 13 Fair Value Measurement
+
+e the requirement in paragraph 38 of IAS | ‘Presentation of Financial Statements' to present comparative
+information in respect of:
+- paragraph 73(e) of IAS 16 Property, Plant and Equipment;
+- paragraph 11 8(e) of IAS 38 Intangible Assets,
+
+e the requirements of paragraphs 10(d), 10(f), 16, 38A, 38B, 38C, 38D, 40A, 40B. 40C, 40D, 111 and 134-
+136 of IAS 1 Presentation of Financial Statements
+
+® the requirements of [AS 7 Statement of Cash Flows
+
+e the requirements of paragraphs 30 and 31 of [AS 8 Accounting Policies, Changes in Accounting Estimates
+and Errors
+
+© the requirements of paragraph 17 and 18A of IAS 24 Related Party Disclosures
+
+e the requirements in IAS 24 Related Party Disclosures to disclose related party transactions entered into
+between two or more members of a group, provided that any subsidiary which is a party to the transaction
+is wholly owned by such a member.
+
+Where appropriate equivalent disclosures are provided in the group financial statements. See note 23
+
+Exemption from preparing consolidated financial statements
+
+The Company is a parent company that is also a subsidiary included in the consolidated financial statements
+of a larger group by a parent undertaking incorporated in the United Kingdom and registered in England and
+Wales under the Companies Act 2006 and is therefore exempt from the requirement to prepare consolidated
+financial statements under section 400 of the Companies Act 2006.
+
+13
+
+QA Limited
+Notes to the Financial Statements for the Year Ended 31 May 2024 (continued)
+
+Accounting policies (continued)
+
+Going concern
+
+The Company's business activities, together with the factors likely to affect its future development,
+performance and position are set out on pages 2 to 5. The Company, QA Limited, is part of is part of the
+Ichnaea UK Bidco Limited Group “the Group” which is in turn part of the IndigoCyan Topco Limited Group.
+The Directors have considered the adoption of the going concern basis of preparation of these financial
+statements with consideration to the wider group position and its business model.
+
+The Ichnaea UK Bidco Limited Group's cashflow from operating activities of £48m (2023: £40.0m) and
+balance sheet strength enabled the wider Group to refinance its debt facilities and reduce its external debt by
+£25.0m (2023: £30.0m) while also funding debt issue costs of £10.0m. In addition, the balance sheet strength
+supported the Ichnaea UK Bidco Limited Group to acquire the remaining shares held by management in Circus
+Street for £11.9m and end the year with cash of £23.5m (2023: £62.4m).
+
+The forecasting process undertaken by the Directors recognises the inherent uncertainty of the current
+economic environment where inflationary, geopolitical and recessionary risks are heightened. The Directors
+believe, given Ichnaea UK Bidco Limited Group performance through the recent economic pressures
+(including restructuring of the Group’s Workforce Learning business), that trading results will be robust and
+that there are growth opportunities for the business to pursue. The Directors have assessed Ichnaea UK Bidco
+Limited Group’s various revenue and cashflow scenarios that factor in the impact of an economic recession
+and geopolitical risks on the demand for the Ichnaea UK Bidco Limited Group’s services. The analysis
+confirmed the Ichnaea UK Bidco Limited Group has sufficient liquidity and is forecast to comply with its
+financial covenants.
+
+In October 2023, the Ichnaea UK Bidco Limited Group entered into a new financing agreement with a term
+loan of £265m and revolving credit facility of £40m. The facilities are in place until October 2029 and April
+2029, respectively. The Company has received a letter of support from IndigoCyan Holdings Jersey Limited
+the Parent Company for IndigeCyan Topco Limited confirming their financial support to satisfy the debts and
+obligations of the company as they fall due for at least 12 months from the date of signing and approving these
+financial statements. The Directors have reviewed the ability of IndigoCyan Holdings Jersey Limited to
+provide the support and are satisfied that this can be provided.
+
+On this basis, the Directors have a reasonable expectation that the Company and the Group have adequate
+resources to continue in operational existence for the foreseeable future, being a period of at least 12 months
+from the date of signing and approving these financial statements. In making this assessment, the Directors
+have considered the cash flow forecasts of the Group, the availability of financial resources and facilities and
+compliance with covenants.
+
+Accordingly, they continue to adopt the going concern basis in preparing the Annual Report and financial
+statements.
+
+14
+
+QA Limited
+Notes tv (he Financial Statements for the Year Ended 31 May 2024 (continued)
+
+2 Accounting policies (continued)
+
+Changes in accounting policy
+
+In the current year, the Company has applied a number of amendments to IFRS Accounting Standards issued
+by the International Accounting Standards Board (IASB) that are mandatorily effective for an accounting
+period that begins on or after 1 January 2023. Their adoption has not had any material impact on the disclosures
+or on the amounts reported in these financial statements.
+
++ IFRS 17 Insurance Contracts (including the June 2020 and December 202] Amendments to IFRS 17);
++ Amendments to [AS | Presentation of Financial Statements and IFRS Practice Statement 2 Making
+Materiality Judgements—Disclosure of Accounting Policies;
+* Amendments to [AS 12 Income Taxes—Deferred Tax related to Assets and Liabilities arising from a
+Single Transaction;
+* Amendments to [AS 12 Income Taxes— International Tax Reform — Pillar Two Model Rules; and
++ Amendments to IAS 8 Accounting Polices, Changes in Accounting Estimates and Errors—Definition
+of Accounting Estimates.
+At the date of authorisation of these financial statements, the Company has not applied the following new and
+revised IFRS Accounting Standards that have been issued but are not yet effective:
+
+* Amendments to IFRS 10 and IAS 28- Sale or Contribution of Assets between an Investor and its
+Associate or Joint Venture;
+
+* Amendments to [AS 1- Classification of Liabilities as Current or Non-current:
+
+. Amendments to [AS I- Non-current Liabilities with Covenants;
+
+* Amendments to IAS 7 and IFRS 7- Supplier Finance Arrangements; and
+
++ Amendments to IFRS 16- Lease Liability in a Sale and Leaseback.
+The Directors do not expect that the adoption of the Standards listed above will have a material impact on the
+financial statements of the Company in future periods.
+
+Revenue recognition
+
+Revenue represents amount receivable for services provided in the normal course of business together with
+non-refundable fees, exclusive of value added tax. The Company’s principal activity is the provision of
+training courses and recognises revenue from rendering services upon delivery of training. The undelivered
+amount is included within deferred income and the majority is expected to be recognised within the next 12
+months.
+
+Revenue relating to the expected unused portion of training contracts is recognised over the term of the contract
+period. The estimation of the unused portion is updated annually. Third party revenues arising from services
+outsourced on behalf of customers are recognised gross where the Company is the principal in the arrangement
+with the associated risks and rewards flowing to the Company.
+
+The Company’s main training activities consist of supplying learning services, providing courses in IT
+technical skills, project and service management, business applications and management and personal
+development to Corporate and Government clients with revenue streams arising from the training of
+apprenticeships, recruiting, training and deploying consultants, and the teaching of degrees in partnership with
+our University partners.
+
+15
+
+QA Limited
+Notes to the Financial Statements for the Year Ended 31 May 2024 (continued)
+
+2 Accounting policies (continued)
+
+Revenue recognition (continued)
+
+Skills licenses sold to our training clients are typically 12-month non-cancellable licenses providing courses
+at pre-agreed rates that are pre-paid, and then drawn down by the customer as needed. Revenue is recognised
+upon the delivery of training, as the performance obligation is satisfied. The undelivered amount is included
+within deferred income and the majority is expected to be recognised within the next twelve months. The
+estimate of the unused portion at the end of a license is updated annually.
+
+The Company provides courses paid for through the Apprenticeship levy, with funding drawn from the
+relevant funding bodies in England and Scotland. The performance obligation is the provision of educational
+and training services to apprentices over a period of time and therefore revenue is recognised over time. For
+apprenticeships that require an End Point Assessment this is treated as a separate performance obligation and
+the transaction price is allocated using the cost-plus method. End Point Assessment revenue is recognised ata
+point in time, when the End Point Assessment has been successfully completed.
+
+There are two Talent services from which revenue is derived; Recruit, Train, Deploy (“RTD”) and skills
+bootcamps. For RTD, we recruit and train graduates looking for a technical role predominantly on a twelve-
+to-sixteen-week training programme at our academy who are then deployed at customer sites to provide
+consulting services over a contract period of up to two years. Alongside our academy trained tech specialists,
+we also employ senior tech specialists to assist in the provision of consulting services. The customers receive
+benefits from the consultancy services provided as the Company, via the consultant, performs the service.
+Therefore, the performance obligation is deemed to be satisfied over time. Customers are invoiced monthly in
+arrears on a time and materials basis.
+
+Under the skills bootcamp programme we recruit and train graduates for a specific customer whereby the
+graduate would join the customer at the start or at the end of a training programme. We recognise revenue on
+skills bootcamp straight line over the period that the training is provided. In some cases, the customer contracts
+include variable consideration. In this case the Company estimates the level of variable consideration that will
+be earned. Some of our customers take on our RTD tech specialists for which a transfer fee is paid. This is
+recognised upon transfer.
+
+Finance income and costs policy
+Interest income is recognised in the Statement of comprehensive income using the effective interest method.
+
+Finance costs (including interest payable) which are directly attributable to interest bearing bank loans are
+capitalised as part of the cost of that financial liability. Finance costs of financial liabilities are recognised in
+the income statement over the term of such instruments at the effective interest rate.
+
+Tax
+
+The tax expense for the period comprises tax. Tax is recognised in the income statement, except that a change
+attributable to an item of income or expense recognised as other comprehensive income is also recognised
+directly in other comprehensive income.
+
+The current income tax charge is calculated on the basis of tax rates and laws that have been enacted or
+substantively enacted by the reporting date in the countries where the company operates and generates taxable
+income.
+
+Deferred income tax is recognised on temporary differences arising between the tax bases of assets and
+liabilities and their carrying amounts in the financial statements and on unused tax losses or tax credits in the
+company. Deferred income tax is determined using tax rates and laws that have been enacted or substantively
+enacted by the reporting date. The carrying amount of deferred tax assets are reviewed at each reporting date
+and a valuation allowance is set up against deferred tax assets so that the net carrying amount equals the highest
+amount that is more likely than not to be recovered based on current or future taxable profit.
+
+16
+
+QA Limited
+Notes to the Financial Statements for the Year Ended 31 May 2024 (continued)
+
+2
+
+Accounting policies (continued)
+
+Tangible assets
+Property, plant and equipment is stated in the statement of financial position at cost, less any subsequent
+accumulated depreciation and subsequent accumulated impairment losses.
+
+The cost of property, plant and equipment includes directly attributable incremental costs incurred in their
+acquisition and installation.
+
+Depreciation
+Depreciation is charged so as to write off the cost of assets, other than land and properties under construction
+over their estimated useful lives, as follows:
+
+Asset class Depreciation method and rate
+Right of use assets Straight line over the life of the lease
+Land and buildings and leasehold improvements Straight line over the life of the lease
+Furniture, fittings and equipment 2 to 5 years straight line
+
+Office equipment 2 to 5 years straight line
+
+Intangible assets
+
+Goodwill arising on the acquisition of an entity represents the excess of the cost of acquisition over the
+company’s interest in the net fair value of the identifiable assets, liabilities and contingent liabilities of the
+entity recognised at the date of acquisition. Goodwill is initially recognised as an asset at cost and is
+subsequently measured at cost less any accumulated impairment losses, Goodwill is held in the currency of
+the acquired entity and revalued to the closing rate at each reporting period date.
+
+Goodwill is not subject to amortisation but is tested for impairment annually.
+
+Negative goodwill arising on an acquisition is recognised directly in the income statement. On disposal of a
+subsidiary or a jointly controlled entity, the attributable amount of goodwill is included in the determination
+of the profit or loss recognised in the income statement on disposal.
+
+Research and development
+
+Research and development costs are expensed except in cases where development costs meet certain
+identifiable criteria for deferral. Deferred development costs, which have probable future economic benefits,
+can be clearly defined and measured, and are incurred for the development of new products or technologies,
+are capitalised. These development costs, net of related research and development investment tax credits, are
+not amortised until the products or technologies are commercialised or when the asset is available for use, at
+which time, they are amortised on straight-line basis over the estimated life of the commercial production of
+such products or technologies of up to 3 years.
+
+The amortisation method and the life of the commercial production are assessed annually, and the assets are
+tested for impairment whenever an indication exists that an asset might be impaired.
+
+Investments
+Investments are carried at cost before impairment. The Company has re-presented £1.4m of investments as
+goodwill. Dividends on equity securities are recognised in income when receivable.
+
+Cash and cash equivalents
+
+Cash and cash equivalents comprise cash on hand and call deposits, and other short-term highly liquid
+investments that are readily convertible to a known amount of cash and are subject to an insignificant risk of
+changes in value.
+
+47
+
+QA Limited
+Notes to the Financial Statements for the Year Ended 3] May 2024 (continued)
+
+2 Accounting policies (continued)
+
+Trade receivables
+
+Credit approvals and other monitoring procedures are also in place to ensure that follow-up action is taken to
+recover overdue debts. Furthermore, the Company reviews the recoverable amount of trade receivables on an
+individual basis at the end of the reporting period to ensure that adequate loss allowance is made for
+irrecoverable amounts.
+
+Trade receivables consist of a large number of customers, spread across diverse industries and geographical
+areas. Ongoing credit evaluation is performed on the financial condition of accounts receivable. In this regard,
+the Directors consider that the Company’s credit risk is significantly reduced.
+
+The Company always measures the loss allowance for trade receivables at an amount equal to lifetime expected
+credit losses ("ECL"). The expected credit losses on trade receivables are estimated using a provision matrix
+by reference to past default experience of the debtor and an analysis of the debtor’s current financial position,
+adjusted for factors that are specific to the debtors, general economic conditions of the industry in which the
+debtors operate and an assessment of both the current as well as the forecast direction of conditions at the
+reporting date. The Company has recognised a loss allowance of 100% against all receivables over 180 days
+past due because historical experience has indicated that these receivables are generally not recoverable. There
+has been no change in the estimation techniques or significant assumptions made during the current reporting
+period.
+
+The Company writes off a trade receivable when there is information indicating that the debtor is in severe
+financial difficulty and there is no realistic prospect of recovery. None of the trade receivables that have been
+written off are subject to enforcement activities.
+
+Inventories
+Inventories are stated at the lower of cost and net realisable value.
+
+Cost comprises direct materials for the courseware that have been incurred in bringing the inventories to their
+present location and condition.
+
+Trade payables
+
+Trade creditors are obligations to pay for goods or services that have been acquired in the ordinary course of
+business from suppliers. Accounts payable are classified as current liabilities if payment is due within one year
+or less (or in the normal operating cycle of the business if longer). If not, they are presented as non-current
+liabilities.
+
+Trade creditors are recognised initially at the transaction price and subsequently measured at amortised cost
+using the effective interest method.
+
+Provisions
+
+Provisions are recognised when the company has a present obligation (legal or constructive) as a result of a
+past event, it is probable that the company will be required to settle that obligation and a reliable estimate can
+be made of the amount of the obligation.
+
+Provisions are measured at the Directors’ best estimate of the expenditure required to settle the obligation at
+the reporting date and are discounted to present value where the effect is material.
+
+Share capital
+
+Ordinary shares are classified as equity. Equity instruments are measured at the fair value of the cash or other
+resources received or receivable, net of the direct costs of issuing the equity instruments. If payment is deferred
+and the time value of money is material, the initial measurement is on a present value basis.
+
+18
+
+QA Limited
+Notes to the Financial Statements for the Year Ended 31 May 2024 (continued)
+
+2 Accounting policies (continued)
+
+Share premium and other reserves
+Share premium reserve records the amount above the nominal value received for shares sold, less transaction
+costs.
+
+Share-based payment reserve relates to equity-settled share-based payments to employees and others providing
+similar services which are measured at the fair value of equity instruments at the grant date. Details regarding
+the determination of the fair value of equity-settled share-based transactions are set out in note 15. The fair
+value determined at the grant date of the equity-settled share-based payments is expensed on a straight-line
+basis over the vesting period, based on the Company's estimate of equity instruments that will eventually vest,
+with a corresponding increase in equity. At the end of each reporting period, the Company revises its estimate
+of the number of equity instruments expected to vest. The impact of the revision of the original estimates, if
+any, is recognised in profit or loss such that the cumulative expense reflects the revised estimate, with a
+corresponding adjustment to the share-based payments reserve.
+
+Defined contribution pension obligation
+
+A defined contribution plan is a pension plan under which fixed contributions are paid into a separate entity
+and has no legal or constructive obligations to pay further contributions if the fund does not hold sufficient
+assets to pay all employees the benefits relating to employee service in the current and prior periods.
+
+For defined contribution plans contributions are paid publicly or privately administered pension insurance
+plans on a mandatory or contractual basis. The contributions are recognised as employee benefit expense when
+they are due. If contribution payments exceed the contribution due for service, the excess is recognised as an
+asset.
+
+Financial instruments
+
+Initial recognition
+
+Financial assets and financial liabilities comprise all assets and liabilities reflected in the balance sheet,
+although excluding tangible assets, investment properties, intangible assets, deferred tax assets, prepayments,
+deferred tax liabilities and employee benefits plan.
+
+The Company recognises financial assets and financial liabilities in the statement of financial position when,
+and only when, the company becomes party to the contractual provisions of the financial instrument.
+
+Financial assets are initially recognised at fair value. Financial liabilities are initially recognised at fair value,
+representing the proceeds received net of premiums, discounts and transaction costs that are directly
+attributable to the financial liability. Subsequent to initial measurement, financial assets and financial
+liabilities are measured at either amortised cost or fair value.
+
+Classification and measurement
+Financial instruments are classified at inception into one of the following categories, which then determine the
+subsequent measurement methodology:
+
+Financial assets are classified into one of the following three categories:
+
+- financial assets at amortised cost;
+
+- financial assets at fair value through other comprehensive income (FVTOCD); or
+- financial assets at fair value through the profit or loss (FVTPL).
+
+Financial liabilities are classified into one of the following two categories:
+- financial liabilities at amortised cost; or
+
+- financial liabilities at fair value through the profit or loss (FV TPL}.
+
+The classification and the basis for measurement are subject to the company’s business model for managing
+the financial assets and the contractual cash flow characteristics of the financial assets, as detailed below:
+
+19
+
+QA Limited
+Notes to the Financial Statements for the Year Ended 31 May 2024 (continued)
+
+2 Accounting policies (continued)
+
+Financial assets at amortised cost
+
+A financial asset is measured at amortised cost if it meets both of the following conditions and is not designated
+as at FVTPL:-
+
+‘ the assets are held within a business model whose objective is to hold assets in order to collect contractual
+cash flows; and
+
+- the contractual terms of the financial assets give rise on specified dates to cash flows that are solely payments
+of principal and interest on the principal amount outstanding.
+
+If either of the above two criteria is not met, the financial assets are classifted and measured at fair value
+through the profit or loss (FVTPL).
+
+If a financial asset meets the amortised cost criteria, the company may choose to designate the financial asset
+at FVTPL. Such an election is irrevocable and applicable only ifthe FVTPL classification significantly reduces
+a measurement or recognition inconsistency.
+
+Financial assets at fair value through the profit or loss (FVTPL)
+Financial assets not otherwise classified above are classified and measured as FVTPL.
+
+Financial liabilities at amortised cost
+All financial liabilities, other than those classified as financial liabilities at FYTPL, are measured at amortised
+cost using the effective interest rate method.
+
+Financial liabilities at fair value through the profit or loss
+Financia! liabilities not measured at amortised cost are classified and measured at FVTPL. This classification
+includes derivative liabilities.
+
+Derivative financial instrumenis
+
+Derivative financial instruments are contracts, the value of which is derived from one or more underlying
+financial instruments or indices, and include futures, forwards. swaps and options in the interest rate, foreign
+exchange, equity and credit markets.
+
+Derivative financial instruments are recognised in the statement of financial position at fair value. Fair values
+are derived from prevailing market prices, discounted cash flow models or option pricing models as
+appropriate.
+
+In balance sheet, derivative financial instruments with positive fair values (unrealised gains) are included as
+assets and derivative financial instruments with negative fair values (unrealised losses) are included as
+liabilities.
+
+The changes in the fair values of derivative financial instruments entered into for trading purposes are included
+in trading income.
+
+Leases
+
+At the inception of a contract, the Company assesses whether a contract is, or contains, a lease. A contract is,
+or contains, a lease if the contract conveys the right to control the use of an identified asset for a period of time
+in exchange for consideration.
+
+At inception or on reassessment of a contract that contains a lease component, the Company allocates the
+consideration in the contract to each lease component on the basis of their relative stand-alone prices. However,
+for the leases of land and buildings, the Company has elected not to separate non-lease components and
+account for the lease and non-lease components as a single lease component.
+
+20
+
+QA Limited
+Notes to the Financial Statements fur the Year Ended 31 May 2024 (continued)
+
+2 Accounting policies (continued)
+
+Leases (continued)
+
+The Company recognises a right-of-use asset and a lease liability at the lease commencement date. The right-
+of-use asset is initially measured at cost, which comprises the initial amount of the lease liability adjusted for
+any lease payments made at or before the commencement date, plus any initial direct costs incurred and an
+estimate of costs to dismantle and remove underlying asset or to restore the underlying asset or the site on
+which it is located, less any lease incentives received.
+
+The right-of-use asset is subsequently depreciated using the straight-line method from the commencement date
+to the earlier of the end of the useful life of the right-to-use asset of the end of the lease term. The estimated
+useful lives of right of-use assets are determined on the same basis as those of property and equipment. In
+addition, the right-of-use asset is periodically reduced by impairment losses, if any, and adjusted for certain
+remeasurements of the lease liability.
+
+The lease liability is initially measured at the present value of the lease payments that are not paid at
+commencement date, discounted using the interest rate implicit in the lease or, if that rate cannot be readily
+determined, the Company’s incremental borrowing rate. Generally, the Company uses its incremental
+borrowing rate as the discount rate.
+
+Lease payments included in the measurement of the lease liability comprise the following:
+
+* Fixed payments, including in-substance fixed payments, and
+
+* Variable lease payments that depend on an index or a rate initially measured using the index or rate as at the
+commencement date.
+
+The lease liability is subsequently measured at amortised cost using the effective interest method. It is
+remeasured when there is a change in future lease payments arising from a change in an index or rate, if there
+is a change in the Company’s estimate of the amount expected to be payable under a residual value guarantee,
+or if the Company changes its assessment of whether it will exercise a purchase, extension or termination
+option.
+
+When the lease liability is remeasured in this way, a corresponding adjustment is made to the carrying amount
+of the right-to-use asset or is recorded in profit or loss if the carrying amount of the right-of-use asset has been
+reduced to zero. The Company presents right-of-use assets in “property, plant and equipment” and lease
+liabilities in “loans and borrowings” in the statement of financial position.
+
+The Company has elected not to recognise right-of-use assets and lease liabilities for short-term leases of
+machinery (such as photocopiers) that have a lease term of 12 months or less and leases of low value assets
+(assets that fall below the Company’s capital equipment recognition policy), including IT equipment. The
+Company recognises the lease payments associated with these assets as an expense on a straight-line basis
+over the lease term.
+
+Critical accounting judgements and key sources of estimation uncertainty
+
+In the application of the Company’s accounting policies described above, the Directors are required to make
+judgements, estimates and assumptions about the carrying amounts of assets and liabilities that are not readily
+apparent from other sources.
+
+The estimates and associated assumptions are based on historical experience and other factors that are
+considered relevant. Actual results may differ from these estimates.
+
+The estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to accounting
+estimates are recognised in the period in which the estimate is revised if the revision affects only that period
+or in the period of revision and future periods if the revision affects both current and future periods.
+
+In the opinion of the directors there are no critical accounting judgements and key sources of estimation
+uncertainty impacting the financial statements.
+
+21
+
+QA Limited
+Notes to the Financial Statements for the Year Ended 31 May 2024 (continued)
+
+3 Revenue
+
+The analysis of the Company's revenue for the year from continuing operations is as follows:
+
+2024 2023
+
+£m £m
+
+Rendering of services 191.6 190.4
+
+4 Operating profit
+Arrived at after receiving/(charging):
+
+2024 2023
+
+Note £m £m
+
+Depreciation expense on tangible fixed assets 9 (2.3) (2.8)
+
+Depreciation on right of use assets 9 (2.0) (5.2)
+
+Amortisation of intangible assets 10 (12.7) (4.2)
+
+Staff costs 6 (112.0) (100.4)
+Adjusting items (7.8) (11.5
+
+Adjusting items
+
+The Directors consider that disclosing certain items as adjusting items which are non-recurring and strategic
+in nature provides an alternative and enhanced understanding of the financial statements. Adjusting items
+include the items below:
+
+Cyber related net income £nil (2025: net income £1.0m)
+The Company has net income of £nil (2023: £1.0m income) in the year related to the Cyber incident in
+September 2021. The income in the prior year relates to costs reimbursed by insurers.
+
+Impairment of intangibles £nil (2023: £5.1m)
+
+There was an impairment charge relating to intangibles of £nil (2023: £5.1m) with the prior year charge
+relating to software that was assessed to have £nil recoverable value following changes to the Company’s
+technology strategy.
+
+Strategic review and digital transformation £3.6m (2023: £0.3m)
+
+Strategic review and digital transformation £3.6m (2023: £0.3m) have been incurred in the year to leverage
+new technologies. The most significant of these being the implementation of a customer relationship
+management software. The costs are considered to be adjusting because they are unusual and non-recurring.
+
+22
+
+QA Limited
+Notes to the Financial Statements for the Year Ended 31 May 2024 (continued)
+
+4 Operating profit (continued)
+
+Restructuring expenses £3.3m (2023: £3.1m)
+Restructuring costs of £3.3m (2023: £3.1m) have been incurred in the year as a result of the integration of the
+Learning operations,
+
+Other specific items £0.9m (2023: £4.0m)
+
+Other specific items include share-based payment expenses £0.5m (2023: £1.8m) and other legal and
+professional costs in relation to significant non-recurring projects. In the prior year, the Company incurred
+expenses associated with both the buy-back of loan notes during the year in addition to due diligence costs
+incurred as part of the refinancing of long-term debt which occurred during 2023. In the current year the
+Company capitalised part of these transaction costs which resulted in a credit to exceptional costs of £0.4m.
+
+5 Finance income and costs
+
+2024 2023
+£m £m
+Finance income
+Interest income on bank deposits 0.7 0.7
+Interest receivable on loans to Group undertakings 13.1 4
+Total finance income 13.8 12.1
+Finance costs
+Interest aud charges on bank deposits (0.1) (0.1)
+Interest expense On leases (0.7) (2.2)
+Interest payable on loans from Group undertakings (1.2) :
+Total finance costs (2.0) (2.3)
+Net finance income 11.8 9.8
+
+23
+
+QA Limited
+Notes to the Financial Statements for the Year Ended 31 May 2024 (continued)
+
+6 Staff costs
+
+The aggregate payroll costs for employees (including Directors’ remuneration) were as follows:
+
+2024 2023
+
+£m =m
+
+Wages and salaries 97.5 86.0
+Social security costs 10.9 9.8
+Pension costs, defined contribution scheme 3.1 2.8
+Share-based payment expenses 0.5 L8
+112.0 100.4
+
+The average number of persons employed (including Directors) during the year, analysed by category was as
+follows:
+
+2024 2023
+
+No. No.
+
+Trainers, tutors and coaches 515 510
+Sales and administration 1,062 946
+1,577 1,456
+
+The Company has remunerated two Directors in the year (2023: two). Remuneration for the Directors was
+£0.7m (2023: £2.0m) of which £0.3m was incurred by a fellow Group company and was not recharged. The
+highest paid Director received £0.8m (2023: £1.3m). Pension contributions for Directors for the year ended 31
+May 2024 were less than £0.1m (2023: less than £0.1m).
+
+24
+
+QA Limited
+Notes to the Financial Statements for the Year Ended 31 May 2024 (continued)
+
+7
+
+Income tax
+Tax charged in the income statement
+
+2024 2023
+£m £m
+
+Current taxation
+UK corporation tax 47 6.1
+UK corporation tax adjustment to prior periods (0.6) (2.1)
+4.1 4.0
+
+Deferred taxation
+Arising from origination and reversal of temporary differences 0.1 (0.2)
+Adjustment in respect of prior periods 08 0,2
+Arising from changes in tax rates and laws - (0.3)
+Total deferred taxation 0.9 (0.3)
+Tax expense in the income statement 5.0 3.7
+
+During the year ended 31 May 2024 UK Corporation tax has been calculated at a blended rate of 25% (2023:
+20% on estimated assessable profits for the year.
+
+The differences are reconciled below:
+
+2024 2023
+
+£m £m
+
+Profit before tax 19.6 28.0
+
+Corporation tax at standard rate 4.9 5.1
+Increase from effect of expenses not deductible in determining
+
+taxable profit - 0.8
+
+Adjustments to prior periods 0.1 (1.9)
+
+Deferred tax credit relating to changes in tax rates or laws - (0.3)
+
+Total tax charge 5.0 3.7
+
+The tax charge in the current year is higher (2023: higher) than the standard tax as a result of the level of the
+Company’s disallowable expenses, related principally to interest which is non-deductible under the Corporate
+Interest Restriction rules.
+
+25
+
+QA Limited
+
+Notes to the Financial Statements for the Year Ended 31 May 2024 (continued)
+
+8 Corporation tax (continued)
+
+Deferred tax
+Deferred tax assets and liabilities
+
+Deferred tax assets - Accelerated capital allowances
+
+Deferred tax movement during the year:
+
+Accelerated capital allowances
+
+Deferred tax movement during the prior year:
+
+Accelerated capital allowances
+
+31 May 31 May
+2024 2023
+im £m
+
+1.3 2.3
+
+Recognised in
+At 1 June 2023 income At 31 May 2024
+£m £m £m
+
+2.3 0.9 13
+
+Recognised in
+At 1 June 2022 income At 31 May 2023
+£m £m im
+
+19 0.4 2.3
+
+26
+
+QA Limited
+Notes to the Financial Statements for the Year Ended 31 May 2024 (continued)
+
+9 Property, plant and equipment
+
+Furniture,
+Right of use Leasehold fittings and Office
+assets improvement equipment equipment Totat
+=m £m £m £m £m
+
+Cost
+At 1 June 2022 67.4 15.7 3.2 12.7 98.9
+Additions 56 2.5 0.1 09 9.1
+Transfers to fellow group
+undertakings (8.8) (0.1) - - (8.9)
+Disposals (13.1) (4.5) - (6.0) (23.6)
+At 31 May 2023 51.1 13.6 3.3 7.6 75.6
+Additions - (0.1) - 1.0 0.9
+Transfers (to)/from fellow
+group undertakings (27.4) (1.1) - 0.4 (28.1)
+Disposals (5.3) (0.1) (0.4) (1.8) (7.6)
+Category re-classifications - - - 0.2 02
+At 31 May 2024 18.3 12.3 29 74 40.9
+Accumulated Depreciation and Impairment
+At 1 June 2022 30.4 13.3 3.0 10.5 57.2
+Charge for the year 52 1.4 0.1 [3 8.0
+Transfers to fellow group
+undertakings (7.7) (0.3) - - (8.0)
+Disposals (9.1) (4.6) - (6.0) (19.7)
+At 31 May 2023 18.8 9.8 3.1 5.9 37.5
+Charge for the year 2.0 0.8 0.1 14 42
+Transfers (to)/from fellow
+group undertakings (6.2) (0.6) - 0.3 (6.5)
+Impairment (1.2) - - - (1.2)
+Disposals 4.72 0.4 (0.4) (1.8) (6.6)
+At 31 May 2024 8.6 10.4 2.8 5.6 27.3
+Carrying amount
+At 31 May 2024 9.8 2.0 0.1 1.8 13.6
+
+At 31 May 2023 32.3 3.8 0.2 18 38.1
+
+27
+
+QA Limited
+Notes to the Financial Statements for the Year Ended 31 May 2024 (continued)
+
+10 Intangible assets (continued)
+
+Development
+Goodwill costs Total
+£m £m £m
+
+Cost
+At 1 June 2022 15.4 29.7 45.1
+Additions - 4.0 4.0
+Transfers from fellow group undertakings - 5.8 5.8
+Disposals - (0.4) (0.4)
+At 31 May 2023 15.4 39.1 54.5
+Additions - 14.9 14.9
+Transfers from tellow group undertakings - 11.6 11.6
+Category re-classifications - (0.2) (0.2)
+At 31 May 2024 15.4 65.4 80.8
+Accumulated Amortisation and [mpairment
+At I June 2022 3.5 12.7 16.2
+Amortisation charge - 4.2 42
+Transfers from fellow group undertakings - 5.3 5.3
+Impairment - S.1 5.1
+At 31 May 2023 3.5 27.3 30.8
+Amortisation charge - 12.7 12.7
+Transfers from fellow group undertakings : 8.6 8.6
+At 31 May 2024 3.5 48.6 __ §2.1
+Carrying amount
+At 31 May 2024 11.9 16.8 28.7
+At 31 May 2023 Lg 11.8 23.7
+
+28
+
+QA Limited
+Notes to the Financial Statements for the Year Ended 31 May 2024 (continued)
+
+11 Investments
+
+2024 2023
+£m Em
+Investments: receivables owed by group undertakings 187.8 161.4
+
+Receivables owed by group undertakings include interest-bearing amounts. These amounts are unsecured and
+repayable on demand.
+
+Company subsidiaries
+Details of the Company’s subsidiaries as at 31 May 2024 are as follows:
+
+Proportion of ordinary
+share ownership
+interest and voting
+rights held
+
+Name of subsidiary Principal activity
+2024 2023
+Focus Project Management (Europe) Limited = Training Company 100% 100%
+QA Consulting Services Limited Non-trading 100% 100%
+QA Talent Limited Provision of Consulting 100% 100%
+Services
+Circus Street London Limited (UK) Training Company 100% 0%
+
+The registered office of all of the Company’s subsidiaries is International House, | St Katherine's Way,
+London, E1W 1UN, UK.
+
+Subsidiaries £m
+Cost
+
+At | June 2022, 31 May 2023 8.2
+Additions 31.0
+At 31 May 2024 39,2
+Impairment
+
+At I June 2022, 31 May 2023 and 31 May 2024 (0.7)
+Carrying amount
+
+At 31 May 2024 38.5
+At 31 May 2023 75
+
+On 31 March 2024, the Company acquired 100% of the share capital of Circus Street London Limited from
+Seckloe 208 Limited in exchange for the issue of one ordinary share. On | April 2024, Circus Street London
+Limited transferred its business and assets to the Company.
+
+29
+
+QA Limited
+
+Notes tv (he Financial Statements for the Year Ended 31 May 2024 (continued)
+
+12 Inventories
+
+Finished goods and goods for
+resale (training material)
+
+13 Trade and other receivables
+
+Trade receivables
+Other receivables
+Accrued income
+
+Prepayments and other
+debtors
+
+Not past due
+
+<30 days past due
+
+30 - 60 days past due
+60 - 180 days past due
+
+Not past due
+
+0<30 days past due
+30 - 60 days past due
+60 - 180 days past due
+
+31 May 31 May
+
+2024 2023
+
+£m £m
+
+0.1 0.1
+
+31 May 31 May
+
+2024 2023
+
+£m £m
+
+15.8 16.6
+
+9.2 8.4
+
+7A 8.6
+
+32.1 33.6
+
+Gross Carrying Provision Net Carrying
+Amount 2024 2024 Amount 2024
+£m £m £m
+
+10.3 (0.1) 10.2
+
+3.8 (0.2) 3.6
+
+1.3 (0.1) 1.2
+
+1.3 (0.5) 0.8
+
+16.7 (0.9) 15.8
+
+Gross Carrying Provision Net Carrying
+Amount 2023 2023 Amount 2023
+£m £m £m
+
+10.5 (0.5) 10.0
+
+5.1 (0.1) 5.0
+
+16 (0.1) 1.5
+
+0.7 (0.6) 0.1
+
+17.9 (1.3) 16.6
+
+30
+
+QA Limited
+Notes to the Financial Statements for the Year Ended 31 May 2024 (continued)
+
+14 Cash and cash equivalents
+
+31 May 31 May
+2024 2023
+£m £m
+Cash at bank 5.4 46.8
+15 Share capital
+Allotted, called up and fully paid shares
+31 May 31 May
+2024 2023
+
+No. £ No. £
+Ordinary shares of £1 each 1,511 1,511 1,510 1,510
+
+During the year, the Company issued | ordinary share to its parent Seckloe 208 in consideration for 100% of
+the share capital of Circus Street London Limited (see note 11).
+
+16 Loans and borrowings
+
+31 May 31 May
+2024 2023
+£m £m
+Non-current loans and borrowings
+Non-current lease liabilities 10.3 37.6
+31 May 31 May
+2024 2023
+£m £m
+Current loans and borrowings
+Current portion of long-term
+lease liabilities 2.8 34
+
+The Company has elected not to recognise right-of-use assets and lease liabilities for short-term leases of
+machinery (such as photocopiers) that have a lease term of 12 months or less and leases of low value assets
+(assets that fal! below the Company’s capital equipment recognition policy), including IT equipment.
+
+31
+
+QA Limited
+Notes to the Financial Statements for the Year Ended 31 May 2024 (continued)
+
+17 Provisions for liabilities
+
+Onerous contracts Restructuring Dilapidations Total
+£m im £m im
+At | June 2023 0.5 0.8 49 6.2
+Additional provisions - 1.3 - 13
+Provisions used (0.3) (0.8) (0.7) (1.8)
+Unused provision reversed - - (1.3) (1.3)
+Transfer to fellow group
+undertakings - - (1.6) (1.6)
+Unwind of discount on
+provision - - 0.1 0.1
+At 31 May 2024 0.2 1.3 1.4 2.9
+Provisions for liabilities are
+expected to be settled as
+follows:
+Within one year 0.2 13 0.4 19
+In the second to fifth years
+inclusive - - 0.3 0.3
+Afier five years : - 0.7 0.7
+At 31 May 2024 0.2 1,3 1.4 2.9
+Onerous contracts Restructuring Dilapidations Total
+£m £m =m £m
+At 1 June 2022 14 - 4.9 63
+Additional provisions - L4 1.3 2.7
+Provisions used (0.9) (0.6) - (1.5)
+Unused provision reversed - - (0.4) (0.4)
+Transfer to fellow group
+undertakings - - (1.0) (1.0)
+Unwind of discount on
+provision - : 0.1 0.1
+At 31 May 2023 0.5 0.8 4.9 6.2
+Provisions for liabilities are
+expected to be settled as
+follows:
+Within one year 0.4 0.8 2.0 3.2
+In the second to fifth years
+inclusive 0.1 - 0.5 0.6
+After five years : : 2.4 24
+At 31 May 2023 0.5 0.8 4.9 6.2
+
+Provisions include dilapidations £1.4m (2023:
+
+£4.9m). The provision for dilapidations represents
+management’s best estimate of the future dilapidations associated with leased properties.
+
+32
+
+QA Limited
+Notes to the Financial Statements for the Year Ended 31 May 2024 (continued)
+
+17 Provisions for liabilities (continued)
+
+The provisions are based on the best estimate of the management with reference to past experience, of the
+expected future cash flow. The cash flows are expected to occur in between | and 15 years. The provision has
+been discounted to reflect the time value of money. The discount rates used were varied based on the time to
+settlement and ranged from 0.9% to 2.1%.
+
+Provisions further include onerous contract provisions £0.2m (2023: £0.5m) and restructuring provisions
+£1.3m (2023: £0.8m).
+
+The provision for onerous contracts includes both vacant leasehold property provisions and the provision for
+onerous Customer contracts.
+
+The restructuring provision includes managements estimate of staff costs associated with restructuring the
+organisation which includes redundancy costs and pay in lieu of notice.
+
+Should a provision ultimately prove to be unnecessary then it is credited back into the income statement.
+Where the provision was originally established as an adjusting item, any release is shown as an adjusting
+credit.
+
+18 Trade and other payables
+
+31 May 31 May
+
+2024 2023
+
+£m £m
+
+Trade payables 12.0 13.4
+
+Accrued expenses 95 12.8
+Social security and other
+
+taxes 3.1 6.1
+
+Other payables 1.0 14
+
+27.6 33.7
+
+19 Pension and other schemes
+
+Defined contribution pension scheme
+The Company operates a defined contribution pension scheme. The pension cost charge for the year represents
+contributions payable by the Company to the scheme and amounted to £2.8m (2023: £2.4m).
+
+20 Capital Commitments
+The has no capital commitments as at 31 May 2024 (2023: £nil).
+
+21 Financial Instruments
+
+The Company’s activities expose it to a number of financial risks including liquidity, price risk and credit risk.
+The Company does not use derivative financial instruments for speculative purposes. The Company’s principal
+financial instruments are amounts receivable from customers, bank balances, bank overdrafts and receivables
+
+from group undertakings.
+
+33
+
+QA Limited
+Notes to the Financial Statements for the Year Ended 31 May 2024 (continued)
+
+21 Financial Instruments (continued)
+
+Liquidity Risk
+Liquidity risk is the risk that the Company will have insufficient liquid resources available to fulfil its
+operational plans and/or to meet its financial obligations as they fall due.
+
+In order to maintain liquidity and to ensure that sufficient funds are available for ongoing operating and future
+developments, the Group operates a centralised treasury function, features of which includes intercompany
+cash transfers and management of operating lease contracts.
+
+Credit Risk
+
+Credit risk is the risk of financial loss to the Company if a customer or counterparty to financial instrument
+fails to meet its contractual obligations, and arises principally from the Company ’s receivables from customers
+and bank balances.
+
+The Company’s principal financial assets are bank balances and trade receivables.
+
+The Company’s credit risk is primarily attributable to its trade receivables. The amounts presented in the
+statement of financial position are net of provisions for doubtful debts. Impairment provisions for trade
+receivables are recognised based on the simplified approach within IFRS 9 using the lifetime expected credit
+losses. During this process the probability of the non-payment of the trade receivables is assessed. This
+probability is then multiplied by the amount of the expected loss arising from default to determine the lifetime
+expected credit loss for the trade receivables.
+
+The credit risk on liquid funds is limited because the counterparties are banks with high credit-ratings assigned
+by international credit-rating agencies. The Company has no significant concentration of credit risk other than
+with UK government bodies. The remaining exposure is spread over a large number of counterparties and
+customers.
+
+Price Risk
+The Company is exposed to limited price risk which may impact the attractiveness of the Company’s services
+and historically market prices have shown a high level of stability.
+
+Foreign Currency Risk Management
+
+The Company undertakes transactions denominated in foreign currencies; consequently, exposures to
+exchange rate fluctuations arise. Exchange rate exposures are managed within approved policy parameters
+utilising forward foreign exchange contracts, where appropriate.
+
+Interest Rate Risk
+The Company is exposed to limited interest rate risk through bank deposits and overdrafts at variable interest
+rates.
+
+Fair Values of Financial Assets and Liabilities
+
+Financial assets and financial liabilities measured at fair value in the statement of financial position are grouped
+into three levels of a fair value hierarchy. The three levels are defined based on the observability of significant
+inputs to the measurement, as follows:
+
+* Level 1: quoted prices (unadjusted) in active markets for identical assets or liabilities;
+
++ Level 2: inputs other than quoted prices included within Level 1 that are observable for the asset or liability,
+either directly or indirectly; and
+
+* Level 3: unobservable inputs for the asset or liability.
+
+34
+
+QA Limited
+Notes tu the Financial Statements for the Year Ended 31 May 2024 (continued)
+
+21
+
+Financial Instruments (continued)
+
+The following table sets out the carrying value of the Company’s financial assets and liabilities by category:
+
+22
+
+Financial Assets
+Cash and bank balances
+Trade and other receivables
+
+Financial Liabilities
+Trade and other payables
+
+31 May 31 May
+2024 2023
+£m Em
+5.4 46.8
+
+15.8 16.6
+21.2 63.4
+13.0 14.8
+13.0 14.8
+
+Share-based payments
+
+During the year ended 31 May 2024, the Company issued nil (2023: 30,025) shares to management. Vesting
+of the shares occurs at two points; 80% of the shares are vested at the balance sheet date with the remaining
+20% vesting on change of control of the Group. The estimated fair value of the shares granted is £nil (2023:
+£2.7m). This has resulted in a charge to the income statement in the year ended 31 May 2024 of £0.5m (2023:
+
+£1,8m).
+
+The market value of the shares at the grant date is calculated using the Black-Scholes formula. The key
+
+assumptions used in the calculation are set out below:
+Grant date
+
+Expected volatility
+
+Expected term
+
+Risk free rate
+
+Dividend yield
+
+Scheme movements
+The movements in the number of share options during the year were as follows:
+
+Outstanding, start of period
+Granted during the period
+Forfeited during the period
+Vested during the period
+
+2023 awards
+
+Not vested at the end of the year
+
+43.1%
+
+2.0 years
+
+0.9-3.9%
+
+0.0%
+
+31 May 31 May
+2024 2023
+Number Number
+16,286 12,014
+- 32,865
+(3,767) (2.301)
+: (26,292)
+12,519 16,286
+
+35
+
+QA Limited
+Notes to the Financial Statements for the Year Ended 31 May 2024 (continued)
+
+23 Parent and ultimate parent undertaking
+The Company's immediate parent is Seckloe 208 Limited, a company incorporated in England and Wales.
+
+The Directors regard IndigoCyan Holdings Jersey Limited, a company registered in Jersey, through its holding
+of 85% of the voting rights of IndigoCyan Topco Limited as the ultimate holding company. IndigoCyan
+Holdings Jersey Limited is controlled by funds managed by CVC Credit Partners LLC.
+
+The only parent entity producing publicly available consolidated financial statements is Ichnaea UK Bidco
+Limited. These financial statements are available at www.qa.com and from Ichnaea UK Bidco Limited’s
+registered address:
+
+International House Third Floor, 1 St Katharine's Way, London, United Kingdom, ELW 1UN
+
+24 Post Balance Sheet Events
+
+There have been no events since the balance sheet date requiring disclosure.
+
+36
+

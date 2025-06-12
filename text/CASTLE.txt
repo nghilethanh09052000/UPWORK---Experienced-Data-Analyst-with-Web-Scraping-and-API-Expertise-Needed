@@ -1,0 +1,215 @@
+Castle & Co Training Limited - Accounts to registrar (filleted) - small 24.3
+IRIS Accounts Production
+v24.3.0.553
+12260894
+director
+1.6.23
+31.5.24
+31.5.24
+0
+0
+false
+true
+false
+false
+false
+iso4217:GBP
+iso4217:USD
+iso4217:EUR
+xbrli:shares
+xbrli:pure
+utr:tonnes
+utr:kWh
+12260894
+2023-05-31
+12260894
+2024-05-31
+12260894
+2023-06-01
+2024-05-31
+12260894
+2022-05-31
+12260894
+2022-06-01
+2023-05-31
+12260894
+2023-05-31
+12260894
+ns15:EnglandWales
+2023-06-01
+2024-05-31
+12260894
+ns14:PoundSterling
+2023-06-01
+2024-05-31
+12260894
+ns10:Director1
+2023-06-01
+2024-05-31
+12260894
+ns10:PrivateLimitedCompanyLtd
+2023-06-01
+2024-05-31
+12260894
+ns10:Micro-entities
+2023-06-01
+2024-05-31
+12260894
+ns10:AuditExempt-NoAccountantsReport
+2023-06-01
+2024-05-31
+12260894
+ns10:FullAccounts
+2023-06-01
+2024-05-31
+12260894
+ns5:CurrentFinancialInstruments
+2024-05-31
+12260894
+ns5:CurrentFinancialInstruments
+2023-05-31
+12260894
+ns10:RegisteredOffice
+2023-06-01
+2024-05-31
+12260894
+1
+ns10:Director1
+2023-05-31
+12260894
+1
+ns10:Director1
+2022-05-31
+12260894
+1
+ns10:Director1
+2023-06-01
+2024-05-31
+12260894
+1
+ns10:Director1
+2022-06-01
+2023-05-31
+12260894
+1
+ns10:Director1
+2024-05-31
+12260894
+1
+ns10:Director1
+2023-05-31
+REGISTERED NUMBER:
+12260894
+(England and Wales)
+UNAUDITED FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+FOR
+CASTLE & CO TRAINING LIMITED
+CASTLE & CO TRAINING LIMITED (REGISTERED NUMBER: 12260894)
+CONTENTS OF THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+Page
+Balance Sheet
+1
+CASTLE & CO TRAINING LIMITED (REGISTERED NUMBER: 12260894)
+BALANCE SHEET
+31 MAY 2024
+2024
+2023
+£
+£
+Current assets
+23,870
+23,335
+Creditors
+Amounts falling due within one year
+(
+19,807
+)
+(
+15,549
+)
+Net current assets
+4,063
+7,786
+Total assets less current liabilities
+4,063
+7,786
+Accruals and deferred income
+4,020
+4,020
+Net assets
+43
+3,766
+Capital and reserves
+43
+3,766
+Notes to the financial statements
+1.
+Statutory information
+Castle & Co Training Limited is a
+private company, limited by shares
+, registered in England and
+Wales. The company's registered number and registered office address are as below:
+Registered number:
+12260894
+Registered office:
+Dickens House
+Guithavon Street
+Witham
+Essex
+CM8 1BJ
+2.
+Average number of employees
+The average number of employees during the year was NIL (2023 - NIL).
+3.
+Director's advances, credits and guarantees
+The following advances and credits to a director subsisted during the years ended 31 May 2024 and
+31 May 2023:
+2024
+2023
+£
+£
+A Vyas
+Balance outstanding at start of year
+-
+-
+Amounts advanced
+10,775
+-
+Amounts repaid
+-
+-
+Amounts written off
+-
+-
+Amounts waived
+-
+-
+Balance outstanding at end of year
+10,775
+-
+1
+continued...
+CASTLE & CO TRAINING LIMITED (REGISTERED NUMBER: 12260894)
+BALANCE SHEET - continued
+31 MAY 2024
+The company is entitled to exemption from audit under Section 477 of the Companies Act 2006 for the year ended 31 May 2024.
+The members have not required the company to obtain an audit of its financial statements for the year ended 31 May 2024 in accordance with Section 476 of the Companies Act 2006.
+The director acknowledges his responsibilities for:
+(a)
+ensuring that the company keeps accounting records which comply with Sections 386 and 387 of the
+Companies Act 2006 and
+(b)
+preparing financial statements which give a true and fair view of the state of affairs of the company as at
+the end of each financial year and of its profit or loss for each financial year in accordance with the
+requirements of Sections 394 and 395 and which otherwise comply with the requirements of the
+Companies Act 2006 relating to financial statements, so far as applicable to the company.
+The financial statements have been prepared in accordance with the micro-entity provisions and delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+The financial statements were approved by the director and authorised for issue on
+22 August 2024
+and were
+signed by:
+A Vyas
+- Director
+2

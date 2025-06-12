@@ -1,0 +1,632 @@
+ACCOUNTS - Final Accounts preparation
+Caseware UK (AP4) 2023.0.135
+2023.0.135
+No description of principal activity
+false
+true
+2023-08-01
+132
+117
+true
+04179244
+2023-08-01
+2024-07-31
+04179244
+2022-08-01
+2023-07-31
+04179244
+2024-07-31
+04179244
+2023-07-31
+04179244
+c:Director1
+2023-08-01
+2024-07-31
+04179244
+d:Buildings
+d:ShortLeaseholdAssets
+2023-08-01
+2024-07-31
+04179244
+d:Buildings
+d:ShortLeaseholdAssets
+2024-07-31
+04179244
+d:Buildings
+d:ShortLeaseholdAssets
+2023-07-31
+04179244
+d:FurnitureFittings
+2023-08-01
+2024-07-31
+04179244
+d:FurnitureFittings
+2024-07-31
+04179244
+d:FurnitureFittings
+2023-07-31
+04179244
+d:FurnitureFittings
+d:OwnedOrFreeholdAssets
+2023-08-01
+2024-07-31
+04179244
+d:ComputerEquipment
+2023-08-01
+2024-07-31
+04179244
+d:ComputerEquipment
+2024-07-31
+04179244
+d:ComputerEquipment
+2023-07-31
+04179244
+d:ComputerEquipment
+d:OwnedOrFreeholdAssets
+2023-08-01
+2024-07-31
+04179244
+d:OwnedOrFreeholdAssets
+2023-08-01
+2024-07-31
+04179244
+d:Goodwill
+2023-08-01
+2024-07-31
+04179244
+d:Goodwill
+2024-07-31
+04179244
+d:Goodwill
+2023-07-31
+04179244
+d:CurrentFinancialInstruments
+2024-07-31
+04179244
+d:CurrentFinancialInstruments
+2023-07-31
+04179244
+d:CurrentFinancialInstruments
+d:WithinOneYear
+2024-07-31
+04179244
+d:CurrentFinancialInstruments
+d:WithinOneYear
+2023-07-31
+04179244
+d:ShareCapital
+2024-07-31
+04179244
+d:ShareCapital
+2023-07-31
+04179244
+d:SharePremium
+2024-07-31
+04179244
+d:SharePremium
+2023-07-31
+04179244
+d:RetainedEarningsAccumulatedLosses
+2024-07-31
+04179244
+d:RetainedEarningsAccumulatedLosses
+2023-07-31
+04179244
+c:FRS102
+2023-08-01
+2024-07-31
+04179244
+c:Audited
+2023-08-01
+2024-07-31
+04179244
+c:FullAccounts
+2023-08-01
+2024-07-31
+04179244
+c:PrivateLimitedCompanyLtd
+2023-08-01
+2024-07-31
+04179244
+c:SmallCompaniesRegimeForAccounts
+2023-08-01
+2024-07-31
+04179244
+d:Goodwill
+d:ExternallyAcquiredIntangibleAssets
+2023-08-01
+2024-07-31
+04179244
+6
+2023-08-01
+2024-07-31
+04179244
+d:Goodwill
+d:OwnedIntangibleAssets
+2023-08-01
+2024-07-31
+04179244
+e:PoundSterling
+2023-08-01
+2024-07-31
+iso4217:GBP
+xbrli:pure
+Registered number:
+04179244
+Just IT Training Limited
+Financial statements
+Information for filing with the registrar
+For the Year Ended
+31 July 2024
+Just IT Training Limited
+Registered number:
+04179244
+Balance Sheet
+As at
+31 July 2024
+2024
+2023
+Note
+£
+£
+Fixed assets
+Intangible assets
+4
+574,518
+-
+Tangible assets
+5
+76,640
+65,323
+Investments
+6
+-
+662,905
+651,158
+728,228
+Current assets
+Stocks
+7
+2,949
+2,949
+Debtors: amounts falling due within one year
+8
+3,845,154
+3,739,560
+Cash at bank and in hand
+9
+1,169,959
+523,530
+5,018,062
+4,266,039
+Creditors: amounts falling due within one year
+10
+(
+1,342,854
+)
+(
+2,078,685
+)
+Net current assets
+3,675,208
+2,187,354
+Total assets less current liabilities
+4,326,366
+2,915,582
+Provisions for liabilities
+Deferred tax
+(
+12,183
+)
+(
+9,397
+)
+Net assets
+4,314,183
+2,906,185
+Capital and reserves
+Called up share capital
+200
+200
+Share premium account
+1,063
+1,063
+Profit and loss account
+4,312,920
+2,904,922
+4,314,183
+2,906,185
+The
+financial statements
+have been prepared in accordance with the provisions applicable to companies subject to the
+small companies regime and in accordance with the provisions of FRS 102 Section 1A - small entities
+.
+The
+financial statements
+have been delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+The
+Company
+has opted not to file the
+statement of comprehensive income
+in accordance with provisions applicable to companies subject to the small companies' regime.
+The
+financial statements
+were approved and authorised for issue by the
+board
+and were signed on
+its
+behalf
+by
+:
+L A Muscat-Terribile
+Director
+Date:
+26 February 2025
+The notes on pages 3 to 10 form part of these financial statements.
+Page 1
+Just IT Training Limited
+Registered number:
+04179244
+Balance Sheet
+(continued)
+As at
+31 July 2024
+Page 2
+Just IT Training Limited
+Notes to the Financial Statements
+For the Year Ended 31 July 2024
+1.
+General information
+Just IT Training Limited is a private company limited by shares and incorporated in England and Wales. The address of the registered office is Building 4, Universal Square, Devonshire Street North, Manchester, M12 6JH. The company's registered number is 04179244.
+The nature of the company's operation and its principal activity is to provide training for Digital, IT, Software & Management apprenticeships.
+2.
+Accounting policies
+2.1
+Basis of preparation of financial statements
+The
+financial statements
+have been prepared under the historical cost convention unless otherwise specified within these accounting policies and in accordance with FRS 102 'The Financial Reporting Standard applicable in the UK and the Republic of Ireland' and the requirements of the
+Companies Act 2006
+. The disclosure requirements of Section 1A of FRS 102 have been applied other than where additional disclosure is required to show a true and fair view.
+The following principal
+accounting policies
+have been applied:
+2.2
+Revenue
+Revenue is recognised to the extent that it is probable that the economic benefits will flow to the Company and the revenue can be reliably measured. Revenue is measured as the fair value of the consideration received or receivable, excluding discounts, rebates, value added tax and other sales taxes.
+Rendering of services
+Revenue from the rendering of services is recognised by reference to the stage of completion of the contract. The stage of completion of a contract is measured by comparing the costs incurred for work performed to date to the total estimated contract costs. Revenue is only recognised to the extent of recoverable expenses when the outcome of the contract cannot be estimated reliably.
+2.3
+Operating leases: the Company as lessee
+Rentals paid under operating leases are charged to profit or loss on a straight-line basis over the lease term.
+Benefits received and receivable as an incentive to sign an operating lease are recognised on a straight-line basis over the lease term, unless another systematic basis is representative of the time pattern of the lessee's benefit from the use of the leased asset.
+2.4
+Finance costs
+Finance costs are charged to profit or loss over the term of the debt using the effective interest method so that the amount charged is at a constant rate on the carrying amount. Issue costs are initially recognised as a reduction in the proceeds of the associated capital instrument.
+Page 3
+Just IT Training Limited
+Notes to the Financial Statements
+For the Year Ended 31 July 2024
+2.
+Accounting policies (continued)
+2.5
+Pensions
+Defined contribution pension plan
+The
+Company
+operates a defined contribution plan for its employees. A defined contribution plan is a pension plan under which the
+Company
+pays fixed contributions into a separate entity. Once the contributions have been paid the
+Company
+has no further payment obligations.
+The contributions are recognised as an expense in profit or loss when they fall due. Amounts not paid are shown in accruals as a liability in the
+Balance Sheet
+. The assets of the plan are held separately from the
+Company
+in independently administered funds.
+2.6
+Current and deferred taxation
+The tax expense for the year comprises current and deferred tax.
+Tax is recognised in profit or loss except that a charge attributable to an item of income and expense recognised as other comprehensive income or to an item recognised directly in equity is also recognised in other comprehensive income or directly in equity respectively.
+The current income tax charge is calculated on the basis of tax rates and laws that have been enacted or substantively enacted by the
+balance sheet date
+in the countries where the
+Company operates and generates income
+.
+Deferred tax balances are recognised in respect of all timing differences that have originated but not reversed by the
+balance sheet date
+, except that:
+∙
+The recognition of deferred tax assets is limited to the extent that it is probable that they will be recovered against the reversal of deferred tax liabilities or other future taxable profits
+; and
+∙
+Any deferred tax balances are reversed if and when all conditions for retaining associated tax allowances have been met
+.
+Deferred tax balances are not recognised in respect of permanent differences except in respect of business combinations, when deferred tax is recognised on the differences between the fair values of assets acquired and the future tax deductions available for them and the differences between the fair values of liabilities acquired and the amount that will be assessed for tax. Deferred tax is determined using tax rates and laws that have been enacted or substantively enacted by the
+balance sheet date
+.
+Page 4
+Just IT Training Limited
+Notes to the Financial Statements
+For the Year Ended 31 July 2024
+2.
+Accounting policies (continued)
+2.7
+Intangible assets
+Goodwill
+Goodwill represents the difference between amounts paid on the cost of a business combination and the acquirer’s interest in the fair value of
+its
+identifiable assets and liabilities of the acquiree at the date of acquisition. Subsequent to initial recognition, goodwill is measured at cost less accumulated amortisation and accumulated impairment losses. Goodwill is amortised on a straight-line basis to the
+Statement of Comprehensive Income
+over its useful economic life.
+Other intangible assets
+Intangible assets are initially recognised at cost. After recognition, under the cost model, intangible assets are measured at cost less any accumulated amortisation and any accumulated impairment losses.
+All intangible assets are considered to have a finite useful life. If a reliable estimate of the useful life cannot be made, the useful life shall not exceed ten years.
+2.8
+Tangible fixed assets
+Tangible fixed assets under the cost model are stated at historical cost less accumulated depreciation and any accumulated impairment losses. Historical cost includes expenditure that is directly attributable to bringing the asset to the location and condition necessary for it to be capable of operating in the manner intended by management.
+Depreciation is charged so as to allocate the cost of assets less their residual value over their estimated useful lives,
+using the straight-line method
+.
+Depreciation is provided on the following basis:
+Short-term leasehold property
+-
+Straight line over the five-year lease period
+Fixtures and fittings
+-
+15
+%
+Straight line
+Computer equipment
+-
+25
+%
+Straight line
+The assets' residual values, useful lives and depreciation methods are reviewed, and adjusted prospectively if appropriate, or if there is an indication of a significant change since the last reporting date.
+Gains and losses on disposals are determined by comparing the proceeds with the carrying amount and are recognised in profit or loss.
+2.9
+Valuation of investments
+Investments in subsidiaries are measured at cost less accumulated impairment.
+Page 5
+Just IT Training Limited
+Notes to the Financial Statements
+For the Year Ended 31 July 2024
+2.
+Accounting policies (continued)
+2.10
+Stocks
+Stocks are stated at the lower of cost and net realisable value, being the estimated selling price less costs to complete and sell. Cost is based on the cost of purchase on a
+first in, first out
+basis. Work in progress and finished goods include labour and attributable overheads.
+At each
+balance sheet date
+, stocks are assessed for impairment. If stock is impaired, the carrying amount is reduced to its selling price less costs to complete and sell. The impairment loss is recognised immediately in profit or loss.
+2.11
+Debtors
+Short-term debtors are measured at transaction price, less any impairment. Loans receivable are measured initially at fair value, net of transaction costs, and are measured subsequently at amortised cost using the effective interest method, less any impairment.
+2.12
+Cash and cash equivalents
+Cash is represented by cash in hand and deposits with financial institutions repayable without penalty on notice of not more than 24 hours. Cash equivalents are highly liquid investments that mature in no more than three months from the date of acquisition and that are readily convertible to known amounts of cash with insignificant risk of change in value.
+2.13
+Creditors
+Short-term creditors are measured at the transaction price. Other financial liabilities, including bank loans, are measured initially at fair value, net of transaction costs, and are measured subsequently at amortised cost using the effective interest method.
+2.14
+Financial instruments
+The Company only enters into basic financial instruments transactions that result in the recognition of financial assets and liabilities like trade and other debtors and creditors, loans from banks and other third parties, loans to related parties and investments in non-puttable ordinary shares.
+Debt instruments that are payable or receivable within one year, typically trade debtors and creditors, are measured, initially and subsequently, at the undisclosed amount of the cash or other consideration expected to be paid or received.
+Financial assets that are measured at cost and amortised cost are assessed at the end of each reporting period for objective evidence of impairment. If objective evidence of impairment is found, an impairment loss is recognised in the Statement of Income and Retained Earnings.
+For financial assets measured at amortised cost, the impairment loss is measured as the difference between an assets's carying amount and the present value of estimated cash flows.
+For financial assets measured at cost less impairment, the impairment loss is measured as the difference between an asset's carrying amount and best estimate of the recoverable amount, which is an approximation of the amount that the Company would receive for the asset if it were to be sold at the reporting date.
+Page 6
+Just IT Training Limited
+Notes to the Financial Statements
+For the Year Ended 31 July 2024
+3.
+Employees
+The average monthly number of employees, including directors, during the
+year
+was
+132
+(2023 -
+117
+)
+.
+4.
+Intangible assets
+Goodwill
+£
+Cost
+Transfer from investments (note 6)
+662,905
+At 31 July 2024
+662,905
+Amortisation
+Charge for the year
+88,387
+At 31 July 2024
+88,387
+Net book value
+At 31 July 2024
+574,518
+At 31 July 2023
+-
+On 27 January 2017, the entire share capital of Skills Team Ltd was acquired by the Company. In November 2023, Skill Teams Ltd's trade was transferred to its parent company, Just IT Training Limited. The transfer of trade resulted in an apparent overvaluation of investments held in the Company's books, though there was no overall loss to the Group. In these circumstances, the apparent diminution in value of the investment can instead be reallocated to goodwill. The effect on the Company's balance sheet of this was to recognise goodwill of £662,905.
+The goodwill has a remaining amortisation period of 4 years and 4 months.
+Page 7
+Just IT Training Limited
+Notes to the Financial Statements
+For the Year Ended 31 July 2024
+5.
+Tangible fixed assets
+Short-term leasehold property
+Fixtures and fittings
+Computer equipment
+Total
+£
+£
+£
+£
+Cost or valuation
+At 1 August 2023
+63,813
+3,104
+192,671
+259,588
+Additions
+14,452
+-
+29,727
+44,179
+At 31 July 2024
+78,265
+3,104
+222,398
+303,767
+Depreciation
+At 1 August 2023
+63,813
+2,818
+127,634
+194,265
+Charge for the year
+535
+115
+32,212
+32,862
+At 31 July 2024
+64,348
+2,933
+159,846
+227,127
+Net book value
+At 31 July 2024
+13,917
+171
+62,552
+76,640
+At 31 July 2023
+-
+286
+65,037
+65,323
+6.
+Fixed asset investments
+Investments in subsidiary companies
+£
+At 1 August 2023
+662,905
+Transfer to goodwill (note 5)
+(662,905
+)
+At 31 July 2024
+-
+Amounts totalling £662,905 have been transferred to goodwill in relation to the company's investment in Skills Team Ltd.
+Page 8
+Just IT Training Limited
+Notes to the Financial Statements
+For the Year Ended 31 July 2024
+7.
+Stocks
+2024
+2023
+£
+£
+Exam / Training materials
+2,949
+2,949
+8.
+Debtors
+2024
+2023
+£
+£
+Trade debtors
+110,937
+179,050
+Amounts owed by group undertakings
+2,163,664
+2,166,293
+Other debtors
+48,623
+14,418
+Prepayments and accrued income
+154,533
+155,767
+Amounts recoverable on long term contracts
+1,367,397
+1,224,032
+3,845,154
+3,739,560
+9.
+Cash
+2024
+2023
+£
+£
+Cash at bank and in hand
+1,169,959
+523,530
+10.
+Creditors: Amounts falling due within one year
+2024
+2023
+£
+£
+Trade creditors
+449,900
+365,418
+Amounts owed to group undertakings
+-
+883,483
+Corporation tax
+-
+16,959
+Other taxation and social security
+238,898
+163,434
+Other creditors
+42,303
+47,552
+Accruals and deferred income
+611,753
+601,839
+1,342,854
+2,078,685
+Amounts owed to group undertakings are interest free, unsecured and repayable on demand.
+Page 9
+Just IT Training Limited
+Notes to the Financial Statements
+For the Year Ended 31 July 2024
+11.
+Pension commitments
+The Company operates a defined contribution pension scheme. The assets of the scheme are held separately from those of the Company  in an independently administered fund. Contributions totalling £26,892 (
+2023 - £26,381
+) were payable to the fund at the balance sheet date and are included in creditors.
+12.
+Related party transactions
+The directors have chosen not to disclose transactions entered into with other companies wholly owned within the group as permitted under FRS 102 paragraph 33.1A.
+13.
+Controlling party
+The immediate parent undertaking is Back 2 Work Holdings Limited, a company registered in England and Wales, registered number 12875592.
+The ultimate parent undertaking is Back 2 Work Group Limited, a company registered in England and Wales, registered number 12872639. Back 2 Work Group Limited is the parent company for the largest group for which group accounts are prepared.
+The consolidated financial statements of Back 2 Work Group Limited are available to the public and may be obtained from the Registrar of Companies, Companies House, Crown Way, Cardiff, C14 3UZ.
+14.
+Auditors' information
+The
+auditors'
+report on the financial statements for the
+year
+ended
+31 July 2024
+was
+unqualified
+.
+The audit report was signed on
+26 February 2025
+by
+Helen Besant-Roberts
+(Senior statutory auditor)
+on behalf of
+Hurst Accountants Limited
+.
+Page 10

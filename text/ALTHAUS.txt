@@ -1,0 +1,622 @@
+Company registration number 06941675 (England and Wales)
+
+ALTHAUS DIGITAL LIMITED
+
+UNAUDITED FINANCIAL STATEMENTS
+
+FOR THE YEAR ENDED 31 JANUARY 2024
+
+PAGES FOR FILING WITH REGISTRAR
+
+
+ALTHAUS DIGITAL LIMITED
+
+COMPANY INFORMATION
+
+Directors Mr J R Stamp
+Mr M J Loveland
+Mr PN Buller
+Mr J Stamp
+Mr D J Wastie
+Mrs A J Seabright {Appointed 23 April 2024)
+
+Company number 06941675
+
+Registered office Charlotte House
+Stanier Way
+The Wyvern Business Park
+Derby
+DE21 6BF
+
+Accountants HSKS Greenhalgh Ltd
+3rd Floor
+Butt Dyke House
+33 Park Row
+Nottingham
+NG1 6EE
+
+Business address Commerce House
+2 Victoria Way
+Pride Park
+Derby
+DE24 8AN
+
+
+ALTHAUS DIGITAL LIMITED
+
+CONTENTS
+
+Accountants’ report
+
+Statement of financial position
+
+Notes to the financial statements
+
+Page
+
+4-10
+
+
+ALTHAUS DIGITAL LIMITED
+
+ACCOUNTANTS’ REPORT TO THE BOARD OF DIRECTORS ON THE PREPARATION OF THE
+UNAUDITED STATUTORY FINANCIAL STATEMENTS OF ALTHAUS DIGITAL LIMITED FOR
+THE YEAR ENDED 31 JANUARY 2024
+
+In order to assist you to fulfil your duties under the Companies Act 2006, we have prepared for your approval the financial
+statements of Althaus Digital Limited for the year ended 31 January 2024 which comprise, the statement of financial position
+and the related notes from the company’s accounting records and from information and explanations you have given us.
+
+As a practising member firm of the Institute of Chartered Accountants in England and Wales (ICAEW), we are subject to its
+ethical and other professional requirements which are detailed at htips:/Avww.icaew.com/regulation.
+
+This report is made solely to the board of directors of Althaus Digital Limited, as a body, in accordance with the terms of our
+engagement letter. Our work has been undertaken solely to prepare for your approval the financial statements of Althaus
+Digital Limited and state those matters that we have agreed to state to the board of directors of Althaus Digital Limited, as a
+body, in this report in accordance with ICAEW Technical Release 07/16 AAF. To the fullest extent permitted by law, we do
+not accept or assume responsibility to anyone other than Althaus Digital Limited and its board of directors as a body, for our
+work or for this report.
+
+Itis your duty to ensure that Althaus Digital Limited has kept adequate accounting records and to prepare statutory financial
+statements that give a true and fair view of the assets, liabilities, financial position and profit of Althaus Digital Limited. You
+consider that Althaus Digital Limited is exempt from the statutory audit requirement for the year.
+
+We have not been instructed to carry out an audit or a review of the financial statements of Althaus Digital Limited. For this
+reason, we have not verified the accuracy or completeness of the accounting records or information and explanations you
+have given to us and we do not, therefore, express any opinion on the statutory financial statements.
+
+HSKS Greenhalgh Ltd 30 July 2024
+HSKS Greenhalgh Ltd is part of the Dains Group 3rd Floor
+Butt Dyke House
+33 Park Row
+Nottingham
+
+NG1 6EE
+
+
+ALTHAUS DIGITAL LIMITED
+
+STATEMENT OF FINANCIAL POSITION
+
+AS AT 31 JANUARY 2024
+
+Fixed assets
+Intangible assets
+Tangible assets
+
+Current assets
+Debtors
+Cash at bank and in hand
+
+Creditors: amounts falling due within one
+year
+
+Net current assets
+
+Total assets less current liabilities
+Provisions for liabilities
+
+Net assets
+
+Capital and reserves
+
+Called up share capital
+
+Profit and loss reserves
+
+Total equity
+
+Notes
+
+2024
+888
+45,779
+46,667
+
+299,844
+164,395
+
+464,239
+
+(140,887)
+
+a 323,352
+370,019
+(11,667)
+
+358,352
+
+1,008
+357,344
+
+358,352
+
+2023
+1,626
+47,492
+49,118
+
+221,275
+152,529
+
+373,804
+
+(138,833)
+
+a 234,971
+284,089
+(11,424)
+
+272,665
+
+1,008
+271,657
+
+272,665
+
+The directors of the company have elected not to include a copy of the income statement within the financial statements.
+
+For the financial year ended 31 January 2024 the company was entitled to exemption from audit under section 477 of the
+
+Companies Act 2006 relating to small companies.
+
+The directors acknowledge their responsibilities for complying with the requirements of the Companies Act 2006 with respect
+to accounting records and the preparation of financial statements.
+
+The members have not required the company to obtain an audit of its financial statements for the year in question in
+
+accordance with section 476.
+
+These financial statements have been prepared and delivered in accordance with the provisions applicable to companies
+
+subject to the small companies regime.
+
+
+ALTHAUS DIGITAL LIMITED
+
+STATEMENT OF FINANCIAL POSITION (CONTINUED)
+AS AT 31 JANUARY 2024
+
+The financial statements were approved by the board of directors and authorised for issue on 29 July 2024 and are signed on
+its behalf by:
+
+Mr M J Loveland
+Director
+
+Company registration number 06941675 (England and Wales)
+
+
+ALTHAUS DIGITAL LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JANUARY 2024
+
+4.1
+
+1.2
+
+1.3
+
+1.4
+
+Accounting policies
+
+Company information
+Althaus Digital Limited is a private company limited by shares incorporated in England and Wales. The registered office
+is Charlotte House, Stanier Way, The Wyvern Business Park, Derby, DE21 6BF.
+
+Accounting convention
+
+These financial statements have been prepared in accordance with FRS 102 “The Financial Reporting Standard
+applicable in the UK and Republic of Ireland” (“FRS 102") and the requirements of the Companies Act 2006 as
+applicable to companies subject to the small companies regime. The disclosure requirements of section 1A of FRS 102
+have been applied other than where additional disclosure is required to show a true and fair view.
+
+The financial statements are prepared in sterling, which is the functional currency of the company. Monetary amounts
+in these financial statements are rounded to the nearest £.
+
+The financial statements have been prepared under the historical cost convention. The principal accounting policies
+adopted are set out below.
+
+Turnover
+
+Turnover is recognised at the fair value of the consideration received or receivable for goods and services provided in
+the normal course of business, and is shown net of VAT and other sales related taxes. The fair value of consideration
+takes into account trade discounts, settlement discounts and volume rebates.
+
+Apprenticeship fees are recognised on a straight line bases over the delivery period of training. Any completion
+payments are recognised in the month in which end paint assessment is completed
+
+Bootcamps are recognised on a straight line basis over the delivery period of the course based on the minimum
+expected fee to be received, calculated using an average course completion rate and learner progression rate. Any
+adjustments following course completion and/or learner progression are recognised in month of completion and
+progression respectively.
+
+Intangible fixed assets other than goodwill
+Intangible assets acquired separately from a business are recognised at cost and are subsequently measured at cost
+less accumulated amortisation and accumulated impairment losses.
+
+Intangible assets acquired an business combinations are recognised separately from goodwill at the acquisition date
+where it is probable that the expected future economic benefits that are attributable to the asset will flow to the entity
+and the fair value of the asset can be measured reliably; the intangible asset arises from contractual or other legal
+rights; and the intangible asset is separable from the entity.
+
+Amortisation is recognised so as to write off the cost or valuation of assets less their residual values over their useful
+lives on the following bases:
+
+Software over the useful life of 1.5 years
+
+Tangible fixed assets
+Tangible fixed assets are initially measured at cost and subsequently measured at cost or valuation, net of depreciation
+and any impairment losses.
+
+
+ALTHAUS DIGITAL LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 JANUARY 2024
+
+1
+
+1.5
+
+1.6
+
+1.7
+
+Accounting policies (Continued)
+
+Depreciation is recognised so as to write off the cost or valuation of assets less their residual values over their useful
+lives on the following bases:
+
+Leasehold improvements over the life of the lease on a straight line basis
+Plant and equipment 25% reducing balance
+
+Fixtures and fittings 25% reducing balance
+
+Computers over the useful life of 3 years
+
+The gain or loss arising on the disposal of an asset is determined as the difference between the sale proceeds and the
+carrying value of the asset, and is credited or charged to profit or loss.
+
+Impairment of fixed assets
+
+At each reporting period end date, the company reviews the carrying amounts of its tangible and intangible assets to
+determine whether there is any indication that those assets have suffered an impairment loss. If any such indication
+exists, the recoverable amount of the asset is estimated in order to determine the extent of the impairment loss (if any).
+Where it is not possible to estimate the recoverable amount of an individual asset, the company estimates the
+recoverable amount of the cash-generating unit to which the asset belongs.
+
+Cash and cash equivalents
+
+Cash and cash equivalents are basic financial assets and include cash in hand, deposits held at call with banks, other
+short-term liquid investments with original maturities of three months or less, and bank overdrafts. Bank overdrafts are
+shown within borrowings in current liabilities.
+
+Financial instruments
+The company has elected to apply the provisions of Section 11 ‘Basic Financial Instruments’ and Section 12 ‘Other
+Financial Instruments Issues’ of FRS 102 to all of its financial instruments.
+
+Financial instruments are recognised in the company's statement of financial position when the company becomes
+party to the contractual provisions of the instrument.
+
+Financial assets and liabilities are offset, with the net amounts presented in the financial statements, when there is a
+legally enforceable right to set off the recognised amounts and there is an intention to settle on a net basis or to realise
+the asset and settle the liability simultaneously.
+
+Basic financial assets
+
+Basic financial assets, which include debtors and cash and bank balances, are initially measured at transaction price
+including transaction costs and are subsequently carried at amortised cost using the effective interest method unless
+the arrangement constitutes a financing transaction, where the transaction is measured at the present value of the
+future receipts discounted at a market rate of interest. Financial assets classified as receivable within one year are not
+amortised.
+
+Classification of financial liabilities
+
+Financial liabilities and equity instruments are classified according to the substance of the contractual arrangements
+entered into. An equity instrument is any contract that evidences a residual interest in the assets of the company after
+deducting all of its liabilities.
+
+
+ALTHAUS DIGITAL LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 JANUARY 2024
+
+1.8
+
+1.9
+
+Accounting policies (Continued)
+
+Basic financial liabilities
+
+Basic financial liabilities, including creditors, bank loans, loans from fellow group companies and preference shares that
+are classified as debt, are initially recognised at transaction price unless the arrangement constitutes a financing
+transaction, where the debt instrument is measured at the present value of the future payments discounted at a market
+rate of interest. Financial liabilities classified as payable within one year are not amortised.
+
+Debt instruments are subsequently carried at amortised cost, using the effective interest rate method.
+
+Trade creditors are obligations to pay for goods or services that have been acquired in the ordinary course of business
+from suppliers. Amounts payable are classified as current liabilities if payment is due within one year or less. If not, they
+are presented as non-current liabilities. Trade creditors are recognised initially at transaction price and subsequently
+measured at amortised cost using the effective interest method.
+
+Taxation
+The tax expense represents the sum of the tax currently payable and deferred tax.
+
+Current tax
+
+The tax currently payable is based on taxable profit for the year. Taxable profit differs from net profit as reported in the
+income statement because it excludes items of income or expense that are taxable or deductible in other years and it
+further excludes items that are never taxable or deductible. The company's liability for current tax is calculated using
+tax rates that have been enacted or substantively snacted by the reporting end date.
+
+Deferred tax
+
+Deferred tax liabilities are generally recognised for all timing differences and deferred tax assets are recognised to the
+extent that it is probable that they will be recovered against the reversal of deferred tax liabilities or other future taxable
+profits. Such assets and liabilities are not recognised if the timing difference arises from goodwill or from the initial
+recognition of other assets and liabilities in a transaction that affects neither the tax profit nor the accounting profit.
+
+The carrying amount of deferred tax assets is reviewed at each reporting end date and reduced to the extent that it is
+no longer probable that sufficient taxable profits will be available to allow all or part of the asset to be recovered.
+Deferred tax is calculated at the tax rates that are expected to apply in the period when the liability is settled or the
+assetis realised. Deferred tax is charged or credited in the income statement, except when it relates to items charged
+or credited directly to equity. in which case the deferred tax is also dealt with in equity. Deferred tax assets and
+liabilities are offset when the company has a legally enforceable right to offset current tax assets and liabilities and the
+deferred tax assets and liabilities relate to taxes levied by the same tax authority.
+
+Employee benefits
+The costs of short-term employee benefits are recognised as a liability and an expense, unless those costs are
+required to be recognised as part of the cost of stock or fixed assets.
+
+The cost of any unused holiday entitlement is recognised in the period in which the employee's services are received.
+
+Termination benefits are recognised immediately as an expense when the company is demonstrably committed to
+terminate the employment of an employee or to provide termination benefits.
+
+Retirement benefits
+Payments to defined contribution retirement benefit schemes are charged as an expense as they fall due.
+
+
+ALTHAUS DIGITAL LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 JANUARY 2024
+
+1.13
+
+Accounting policies (Continued)
+
+Leases
+Leases are classified as finance leases whenever the terms of the lease transfer substantially all the risks and rewards
+of ownership to the lessees. All other leases are classified as operating leases.
+
+Assets held under finance leases are recognised as assets at the lower of the assets fair value at the date of inception
+and the present value of the minimum lease payments. The related liability is included in the statement of financial
+position as a finance lease obligation. Lease payments are treated as consisting of capital and interest elements. The
+interest is charged to profit or loss so as to produce a constant periodic rate of interest on the remaining balance of the
+liability.
+
+Rentals payable under operating leases, including any lease incentives received, are charged to profit or loss on a
+
+straight line basis over the term of the relevant lease except where another more systematic basis is more
+representative of the time pattern in which economic benefits from the leases asset are consumed,
+
+Government grants
+Government grants are recognised at the fair value of the asset received or receivable when there is reasonable
+assurance that the grant conditions will be met and the grants will be received.
+
+A grant that specifies performance conditions is recognised in income when the performance conditions are met.
+Where a grant does not specify performance conditions it is recognised in income when the proceeds are received or
+receivable. A grant received before the recognition criteria are satisfied is recognised as a liability.
+
+Foreign exchange
+
+Transactions in currencies other than pounds sterling are recorded at the rates of exchange prevailing at the dates of
+the transactions. At each reporting end date, monetary assets and liabilities that are denominated in foreign currencies
+are retranslated at the rates prevailing on the reporting end date. Gains and losses arising on translation in the period
+are included in profit or loss.
+
+Employees
+
+The average monthly number of persons {including directors) employed by the company during the year was:
+
+2024 2023
+Number Number
+Total 36 24
+
+
+ALTHAUS DIGITAL LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 JANUARY 2024
+
+3 Intangible fixed assets
+
+Cost
+
+At 1 February 2023
+
+Additions
+
+At 31 January 2024
+Amortisation and impairment
+At 1 February 2023
+
+Amortisation charged for the year
+
+At 31 January 2024
+
+Carrying amount
+At 31 January 2024
+
+At 31 January 2023
+
+4 Tangible fixed assets
+
+Cost
+
+At 1 February 2023
+Additions
+Disposals
+
+At 31 January 2024
+Depreciation and impairment
+At 1 February 2023
+
+Depreciation charged in the year
+Eliminated in respect of disposals
+
+At 31 January 2024
+
+Carrying amount
+At 31 January 2024
+
+At 31 January 2023
+
+Other
+
+£
+
+16,825
+
+520
+
+17,345
+
+15,199
+
+1,258
+
+16,457
+
+888
+
+1,626
+
+Landand = Plant and Total
+
+buildingsmachinery etc
+
+£ £ £
+10,014 64,110 74,124
+6,756 11,922 18,678
+- (150) (150)
+16,770 75,882 92,652
+484 26,148 26,632
+3,322 16,982 20,304
+- (63) (63)
+3,806 43,067 46,873
+12,964 32,815 45,779
+9,530 37,962 47,492
+
+
+ALTHAUS DIGITAL LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 JANUARY 2024
+
+§ Debtors
+
+2024 2023
+Amounts falling due within one year: £ £
+Trade debtors 170,811 76,421
+Other debtors 9,193 23,467
+Prepayments and accrued income 119,840 121,387
+299,844 221,275
+6 Creditors: amounts falling due within one year
+2024 2023
+£ £
+Obligations under finance leases - 574
+Trade creditors 22,823 31,077
+Corporation tax 42,632 47,050
+Other taxation and social security 38,568 32,062
+Other creditors 4,939 5,694
+Accruals and deferred income 31,925 22,376
+140,887 138,833
+The aggregate o* secured liabilities is £nil (2023: £nil)
+Clydesdale Bank Plc, hold a fixed and floating charge over the property or undertaking of the company.
+7 Called up share capital
+2024 2023 2024 2023
+Ordinary share capital Number Number £ £
+Issued and fully paid
+Ordinary shares of £1 each 100 100 100 100
+A Ordinary shares of £1 each 900 900 900 900
+B Ordinary shares of £1 each 1 1 1 1
+C Ordinary shares of £1 each 1 1 1 1
+D Ordinary shares of £1 each 1 1 41 1
+E Ordinary shares of £1 each 1 1 1 1
+F Ordinary shares of £1 each 1 1 1 1
+G Ordinary shares of £1 each 1 1 1 1
+H Ordinary shares of £1 each 1 1 1 1
+| Ordinary shares of £1 each 1 1 1 1
+1,008 1,008 1,008 1,008
+
+
+ALTHAUS DIGITAL LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 JANUARY 2024
+
+10
+
+1
+
+Operating lease commitments
+
+Lessee
+At the reporting end date the company had outstanding commitments for future minimum lease payments under
+non-cancellable operating leases, as follows:
+
+2024 2023
+£ £
+37,500 75,000
+
+Related party transactions
+During the year the company advanced monies to the parent company and was recharged expenses. £1,829 owed
+from the parent company was written off as an exceptional item (2023: £10,136). The amount owed from the parent
+
+company at the year end was £nil (2023: Enil).
+
+Directors’ transactions
+
+During the year the directors were advanced £8,348 and repaid £18,397. Interest is charged at 2% on any individual
+balance over £10,000. The amount owed to the company at the year end is £4,760 (2023: £14,809)
+
+Parent company
+
+The ultimate controlling parent undertaking Althaus Group Limited by virtue of its majority shareholding of the issued
+ordinary share capital. The registered office is Charlotte House, Stanier Way, The Wyvern Business Park, Derby, DE21
+6BF.
+
+-10-
+
+
+This document was delivered using electronic communications and authenticated in accordance with the
+registrar's rules relating to electronic form, authentication and manner of delivery under section 1072 of
+the Companies Act 2006.
+

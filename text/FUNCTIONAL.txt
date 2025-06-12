@@ -1,0 +1,409 @@
+Functional Skills UK Ltd Filleted accounts for Companies House (small and micro)
+24
+false
+false
+false
+false
+false
+false
+false
+false
+false
+false
+true
+false
+false
+false
+false
+false
+false
+No description of principal activity
+2023-01-01
+Sage Accounts Production Advanced 2023 - FRS102_2023
+97,825
+78,260
+9,783
+88,043
+9,782
+19,565
+xbrli:pure
+xbrli:shares
+iso4217:GBP
+08945446
+2023-01-01
+2023-12-31
+08945446
+2023-12-31
+08945446
+2022-12-31
+08945446
+2022-01-01
+2022-12-31
+08945446
+2022-12-31
+08945446
+2021-12-31
+08945446
+bus:Director1
+2023-01-01
+2023-12-31
+08945446
+core:NetGoodwill
+2022-12-31
+08945446
+core:NetGoodwill
+2023-12-31
+08945446
+core:FurnitureFittings
+2022-12-31
+08945446
+core:FurnitureFittings
+2023-12-31
+08945446
+core:FurnitureFittings
+2023-01-01
+2023-12-31
+08945446
+core:WithinOneYear
+2023-12-31
+08945446
+core:WithinOneYear
+2022-12-31
+08945446
+core:AfterOneYear
+2023-12-31
+08945446
+core:AfterOneYear
+2022-12-31
+08945446
+core:ShareCapital
+2023-12-31
+08945446
+core:ShareCapital
+2022-12-31
+08945446
+core:RetainedEarningsAccumulatedLosses
+2023-12-31
+08945446
+core:RetainedEarningsAccumulatedLosses
+2022-12-31
+08945446
+core:NetGoodwill
+2023-01-01
+2023-12-31
+08945446
+core:NetGoodwill
+2022-12-31
+08945446
+core:FurnitureFittings
+2022-12-31
+08945446
+bus:SmallEntities
+2023-01-01
+2023-12-31
+08945446
+bus:AuditExemptWithAccountantsReport
+2023-01-01
+2023-12-31
+08945446
+bus:SmallCompaniesRegimeForAccounts
+2023-01-01
+2023-12-31
+08945446
+bus:PrivateLimitedCompanyLtd
+2023-01-01
+2023-12-31
+08945446
+bus:FullAccounts
+2023-01-01
+2023-12-31
+08945446
+core:ComputerEquipment
+2022-12-31
+08945446
+core:ComputerEquipment
+2023-01-01
+2023-12-31
+08945446
+core:ComputerEquipment
+2023-12-31
+COMPANY REGISTRATION NUMBER:
+08945446
+FUNCTIONAL SKILLS UK LTD
+FILLETED UNAUDITED FINANCIAL STATEMENTS
+31 December 2023
+FUNCTIONAL SKILLS UK LTD
+FINANCIAL STATEMENTS
+YEAR ENDED 31 DECEMBER 2023
+Contents
+Page
+Statement of financial position
+1
+Notes to the financial statements
+3
+FUNCTIONAL SKILLS UK LTD
+STATEMENT OF FINANCIAL POSITION
+31 December 2023
+2023
+2022
+Note
+£
+£
+£
+Fixed assets
+Intangible assets
+5
+9,782
+19,565
+Tangible assets
+6
+4,288
+6,263
+---------
+---------
+14,070
+25,828
+Current assets
+Debtors
+7
+298,278
+308,699
+Cash at bank and in hand
+308,319
+331,710
+----------
+----------
+606,597
+640,409
+Creditors: amounts falling due within one year
+8
+297,636
+322,207
+----------
+----------
+Net current assets
+308,961
+318,202
+----------
+----------
+Total assets less current liabilities
+323,031
+344,030
+Creditors: amounts falling due after more than one year
+9
+14,903
+25,273
+Provisions
+814
+1,190
+----------
+----------
+Net assets
+307,314
+317,567
+----------
+----------
+Capital and reserves
+Called up share capital
+61,100
+61,100
+Profit and loss account
+246,214
+256,467
+----------
+----------
+Shareholders funds
+307,314
+317,567
+----------
+----------
+These financial statements have been prepared and delivered in accordance with the provisions applicable to companies subject to the small companies' regime and in accordance with Section 1A of FRS 102 'The Financial Reporting Standard applicable in the UK and Republic of Ireland'.
+In accordance with section 444 of the Companies Act 2006, the statement of income and retained earnings has not been delivered.
+For the year ending 31 December 2023 the company was entitled to exemption from audit under section 477 of the Companies Act 2006 relating to small companies.
+Director's responsibilities:
+-
+The members have not required the company to obtain an audit of its financial statements for the year in question in accordance with section 476
+;
+-
+The director acknowledges his responsibilities for complying with the requirements of the Act with respect to accounting records and the preparation of financial statements
+.
+FUNCTIONAL SKILLS UK LTD
+STATEMENT OF FINANCIAL POSITION
+(continued)
+31 December 2023
+These financial statements were approved by the
+board of directors
+and authorised for issue on
+24 July 2024
+, and are signed on behalf of the board by:
+Mr P B Smith
+Director
+Company registration number:
+08945446
+FUNCTIONAL SKILLS UK LTD
+NOTES TO THE FINANCIAL STATEMENTS
+YEAR ENDED 31 DECEMBER 2023
+1.
+General information
+The company is a private company limited by shares, registered in England and Wales. The address of the registered office is 168 Church Road, Hove, East Sussex, BN3 2DL.
+2.
+Statement of compliance
+These financial statements have been prepared in compliance with Section 1A of FRS 102, 'The Financial Reporting Standard applicable in the UK and the Republic of Ireland'.
+3.
+Accounting policies
+Basis of preparation
+The financial statements have been prepared on the historical cost basis, as modified by the revaluation of certain financial assets and liabilities and investment properties measured at fair value through profit or loss.
+The financial statements are prepared in sterling, which is the functional currency of the entity.
+4.
+Employee numbers
+The average number of persons employed by the company during the year amounted to
+24
+(2022:
+12
+).
+5.
+Intangible assets
+Goodwill
+£
+Cost
+At 1 January 2023 and 31 December 2023
+97,825
+---------
+Amortisation
+At 1 January 2023
+78,260
+Charge for the year
+9,783
+---------
+At 31 December 2023
+88,043
+---------
+Carrying amount
+At 31 December 2023
+9,782
+---------
+At 31 December 2022
+19,565
+---------
+6.
+Tangible assets
+Fixtures and fittings
+Equipment
+Total
+£
+£
+£
+Cost
+At 1 January 2023
+16,418
+15,429
+31,847
+Additions
+–
+2,447
+2,447
+---------
+---------
+---------
+At 31 December 2023
+16,418
+17,876
+34,294
+---------
+---------
+---------
+Depreciation
+At 1 January 2023
+12,877
+12,707
+25,584
+Charge for the year
+885
+3,537
+4,422
+---------
+---------
+---------
+At 31 December 2023
+13,762
+16,244
+30,006
+---------
+---------
+---------
+Carrying amount
+At 31 December 2023
+2,656
+1,632
+4,288
+---------
+---------
+---------
+At 31 December 2022
+3,541
+2,722
+6,263
+---------
+---------
+---------
+7.
+Debtors
+2023
+2022
+£
+£
+Trade debtors
+71,643
+82,855
+Other debtors
+226,635
+225,844
+----------
+----------
+298,278
+308,699
+----------
+----------
+8.
+Creditors:
+amounts falling due within one year
+2023
+2022
+£
+£
+Bank loans and overdrafts
+10,048
+9,568
+Trade creditors
+48,115
+16,581
+Amounts owed to group undertakings and undertakings in which the company has a participating interest
+93,484
+79,658
+Corporation tax
+22,003
+30,031
+Social security and other taxes
+–
+8,181
+Other creditors
+123,986
+178,188
+----------
+----------
+297,636
+322,207
+----------
+----------
+9.
+Creditors:
+amounts falling due after more than one year
+2023
+2022
+£
+£
+Bank loans and overdrafts
+14,903
+25,273
+---------
+---------

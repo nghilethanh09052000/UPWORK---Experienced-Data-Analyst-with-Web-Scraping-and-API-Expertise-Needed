@@ -1,0 +1,877 @@
+LOGISTICA_TRAINING_AND_CO - Accounts
+Company registration number 07904498 (England and Wales)
+LOGISTICA TRAINING AND CONSULTANCY LIMITED
+(PREVIOUSLY K S TRAINING LIMITED)
+ANNUAL REPORT AND FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2023
+LOGISTICA TRAINING AND CONSULTANCY LIMITED
+(PREVIOUSLY K S TRAINING LIMITED)
+CONTENTS
+Page
+Statement of financial position
+1
+Statement of changes in equity
+2
+Notes to the financial statements
+3 - 12
+LOGISTICA TRAINING AND CONSULTANCY LIMITED
+(PREVIOUSLY K S TRAINING LIMITED)
+STATEMENT OF FINANCIAL POSITION
+AS AT
+31 DECEMBER 2023
+31 December 2023
+- 1 -
+2023
+2022
+Notes
+£
+£
+£
+£
+Non-current assets
+Property, plant and equipment
+5
+6,904
+8,681
+Current assets
+Trade and other receivables
+6
+558,167
+324,103
+Cash and cash equivalents
+160
+-
+0
+558,327
+324,103
+Current liabilities
+7
+(359,560)
+(165,613)
+Net current assets
+198,767
+158,490
+Total assets less current liabilities
+205,671
+167,171
+Non-current liabilities
+7
+(40,719)
+(49,889)
+Net assets
+164,952
+117,282
+Equity
+Called up share capital
+12
+100
+100
+Retained earnings
+164,852
+117,182
+Total equity
+164,952
+117,282
+The notes on pages 3 to 12 form part of these financial statements.
+The director of the company has elected not to include a copy of the income statement within the financial statements.
+These financial statements have been prepared and delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+The financial statements were approved and signed by the director and authorised for issue on
+26 September 2024
+Mrs Maria Reason
+Director
+Company registration number
+07904498
+(England and Wales)
+LOGISTICA TRAINING AND CONSULTANCY LIMITED
+(PREVIOUSLY K S TRAINING LIMITED)
+STATEMENT OF CHANGES IN EQUITY
+FOR THE YEAR ENDED 31 DECEMBER 2023
+- 2 -
+Share capital
+Retained earnings
+Total
+Notes
+£
+£
+£
+Balance at 1 January 2022
+100
+77,243
+77,343
+Year ended 31 December 2022:
+Profit and total comprehensive income
+-
+39,939
+39,939
+Balance at 31 December 2022
+100
+117,182
+117,282
+Year ended 31 December 2023:
+Profit and total comprehensive income
+-
+54,622
+54,622
+Transactions with owners:
+Dividends
+4
+-
+(
+6,952
+)
+(
+6,952
+)
+Balance at 31 December 2023
+100
+164,852
+164,952
+The notes on pages 3 to 12 form part of these financial statements.
+LOGISTICA TRAINING AND CONSULTANCY LIMITED
+(PREVIOUSLY K S TRAINING LIMITED)
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2023
+- 3 -
+1
+Accounting policies
+Company information
+Logistica Training and Consultancy Limited is a private company limited by shares incorporated in England and Wales. The registered office is Unit C1, Bellringer Road, Trentham, Stoke-On-Trent, England, ST4 8GB.
+The company's principal activities and nature of its operations are disclosed in the director's report.
+The company changed its name from K S Training Limited to Logistica Training and Consultancy Ltd on 15th February 2023
+1.1
+Accounting convention
+The financial statements have been prepared in accordance with Financial Reporting Standard 101 Reduced Disclosure Framework (FRS 101) and in accordance with applicable accounting standards.
+The financial statements are prepared in sterling, which is the functional currency of the company. Monetary amounts in these financial statements are rounded to the nearest £.
+The financial statements have been prepared under the historical cost convention. The principal accounting policies adopted are set out below.
+As permitted by FRS 101, the company has taken advantage of the following disclosure exemptions from the requirements of IFRS:
+inclusion of an explicit and unreserved statement of compliance with IFRS;
+presentation of a statement of cash flows and related notes;
+disclosure of the objectives, policies and processes for managing capital;
+disclosure of key management personnel compensation;
+disclosure of the categories of financial instrument and the nature and extent of risks arising on these financial instruments;
+the effect of financial instruments on the statement of comprehensive income;
+disclosure of the future impact of new International Financial Reporting Standards in issue but not yet effective at the reporting date;
+comparative narrative information;
+related party disclosures for transactions with the parent or wholly owned members of the group.
+Where required, equivalent disclosures are given in the group accounts of Vedere Group Ltd. The group accounts of Vedere Group Ltd are available to the public and can be obtained from Companies House.
+1.2
+Going concern
+The director has at the time of approving the financial statements, a reasonable expectation that the
+true
+company
+has adequate resources to continue in operational existence for the foreseeable future.
+This expectation has been formed as the company is historically profitable and there is support from the parent in the form of the repayment of intercompany balances.
+Thus
+t
+he director continues to adopt the going concern basis of accounting in preparing the financial statements.
+1.3
+Revenue
+Revenue is recognised to the extent that it is probable that the economic benefits will flow to the company and the revenue can be reliably measured. Revenue is measured as the fair value of the consideration received or receivable, excluding discounts, rebates, value added tax and other sales taxes. The following criteria must also be met before revenue is recognised:
+Rendering of services
+Revenue from course funding and achievement payments is recognised over the length of the course.
+LOGISTICA TRAINING AND CONSULTANCY LIMITED
+(PREVIOUSLY K S TRAINING LIMITED)
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2023
+1
+Accounting policies
+(Continued)
+- 4 -
+1.4
+Property, plant and equipment
+Property, plant and equipment are initially measured at cost and subsequently measured at cost or valuation, net of depreciation and any impairment losses.
+Depreciation is recognised so as to write off the cost or valuation of assets less their residual values over their useful lives on the following bases:
+Fixtures and fittings
+25% Reducing Balance
+Plant and equipment
+25% Reducing Balance
+Right-of-use asset
+straight line over the lease term
+The gain or loss arising on the disposal of an asset is determined as the difference between the sale proceeds and the carrying value of the asset, and is recognised in the
+income statement
+.
+1.5
+Borrowing costs related to non-current assets
+Borrowing costs directly attributable to the acquisition, construction or production of qualifying assets, which are assets that necessarily take a substantial period of time to get ready for their intended use or sale, are added to the cost of those assets, until such time as the assets are substantially ready for their intended use or sale.
+1.6
+Impairment of tangible assets
+At each reporting end date, the
+company
+reviews the carrying amounts of its tangible assets to determine whether there is any indication that those assets have suffered an impairment loss. If any such indication exists, the recoverable amount of the asset is estimated in order to determine the extent of the impairment loss (if any). Where it is not possible to estimate the recoverable amount of an individual asset, the
+company
+estimates the recoverable amount of the cash-generating unit to which the asset belongs.
+Recoverable amount is the higher of fair value less costs to sell and value in use. In assessing value in use, the estimated future cash flows are discounted to their present value using a pre-tax discount rate that reflects current market assessments of the time value of money and the risks specific to the asset for which the estimates of future cash flows have not been adjusted.
+If the recoverable amount of an asset (or cash-generating unit) is estimated to be less than its carrying amount, the carrying amount of the asset (or cash-generating unit) is reduced to its recoverable amount. An impairment loss is recognised immediately in profit or loss, unless the relevant asset is carried at a revalued amount, in which case the impairment loss is treated as a revaluation decrease.
+Where an impairment loss subsequently reverses, the carrying amount of the asset (or cash-generating unit) is increased to the revised estimate of its recoverable amount, but so that the increased carrying amount does not exceed the carrying amount that would have been determined had no impairment loss been recognised for the asset (or cash-generating unit)
+in
+prior years. A reversal of an impairment loss is recognised immediately in profit or loss, unless the relevant asset is carried at a revalued amount, in which case the reversal of the impairment loss is treated as a revaluation increase.
+1.7
+Cash and cash equivalents
+Cash and cash equivalents include cash in hand, deposits held at call with banks, other short-term liquid investments with original maturities of three months or less, and bank overdrafts. Bank overdrafts are shown within borrowings in current liabilities.
+LOGISTICA TRAINING AND CONSULTANCY LIMITED
+(PREVIOUSLY K S TRAINING LIMITED)
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2023
+1
+Accounting policies
+(Continued)
+- 5 -
+1.8
+Financial assets
+Financial assets are recognised in the company's statement of financial position when the company becomes party to the contractual provisions of the instrument. Financial assets are classified into specified categories, depending on the nature and purpose of the financial assets.
+At initial recognition, financial assets classified as fair value through profit and loss are measured at fair value and any transaction costs are recognised in profit or loss. Financial assets not classified as fair value through profit and loss are initially measured at fair value plus transaction costs.
+Financial assets at fair value through profit or loss
+When any of the above-mentioned conditions for classification of financial assets is not met, a financial asset is classified as measured at fair value through profit or loss. Financial assets measured at fair value through profit or loss are recognized initially at fair value and any transaction costs are recognised in profit or loss when incurred. A gain or loss on a financial asset measured at fair value through profit or loss is recognised in profit or loss, and is included within finance income or finance costs in the statement of income for the reporting period in which it arises.
+Financial assets at fair value through other comprehensive income
+Debt instruments are classified as financial assets measured at fair value through other comprehensive income where the financial assets are held within the company’s business model whose objective is achieved by both collecting contractual cash flows and selling financial assets, and the contractual terms of the financial asset give rise on specified dates to cash flows that are solely payments of principal and interest on the principal amount outstanding.
+A debt instrument measured at fair value through other comprehensive income is recognised initially at fair value plus transaction costs directly attributable to the asset. After initial recognition, each asset is measured at fair value, with changes in fair value included in other comprehensive income. Accumulated gains or losses recognised through other comprehensive income are directly transferred to profit or loss when the debt instrument is derecognised.
+The company has made an irrevocable election to recognize changes in fair value of investments in equity instruments through other comprehensive income, not through profit or loss. A gain or loss from fair value changes will be shown in other comprehensive income and will not be reclassified subsequently to profit or loss. Equity instruments measured at fair value through other comprehensive income are recognized initially at fair value plus transaction cost directly attributable to the asset. After initial recognition, each asset is measured at fair value, with changes in fair value included in other comprehensive income. Accumulated gains or losses recognized through other comprehensive income are directly transferred to retained earnings when the equity instrument is derecognized or its fair value substantially decreased. Dividends are recognized as finance income in profit or loss.
+Impairment of financial assets
+Financial assets carried at amortised cost and FVOCI are assessed for indicators of impairment at each reporting end date.
+The expected credit losses associated with these assets are estimated on a forward-looking basis. A broad range of information is considered when assessing credit risk and measuring expected credit losses, including past events, current conditions, and reasonable and supportable forecasts that affect the expected collectability of the future cash flows of the instrument.
+Derecognition of financial assets
+Financial assets are derecognised only when the contractual rights to the cash flows from the asset expire, or when it transfers the financial asset and substantially all the risks and rewards of ownership to another entity.
+LOGISTICA TRAINING AND CONSULTANCY LIMITED
+(PREVIOUSLY K S TRAINING LIMITED)
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2023
+1
+Accounting policies
+(Continued)
+- 6 -
+1.9
+Financial liabilities
+The company recogni
+s
+es financial debt when the company becomes a party to the contractual provisions of the instruments. Financial liabilities are classified as either
+'
+financial liabilities at fair value through profit or loss
+'
+or
+'
+other financial liabilities
+'
+.
+Other financial liabilities
+Other financial liabilities, including borrowings
+, t
+rade payables and other short-term monetary liabilities, are initially measured at fair value net of transaction costs
+directly attributable to the issuance of the financial liability. They are subsequently measured at amortised cost using the effective interest method
+.
+For the purposes of each financial liability, interest expense includes initial transaction costs and any premium payable on redemption, as well as any interest or coupon payable while the liability is outstanding.
+Derecognition of financial liabilities
+Financial liabilities are derecognised when, and only when, the
+company’s
+obligations are discharged, cancelled, or they expire.
+1.10
+Equity instruments
+Equity instruments issued by the company are recorded at the proceeds received, net of direct issue costs. Dividends payable on equity instruments are recognised as liabilities once they are no longer at the discretion of the company.
+1.11
+Taxation
+The tax expense represents the sum of the tax currently payable and deferred tax.
+Current tax
+The tax currently payable is based on taxable profit for the year. Taxable profit differs from net profit as reported in the
+income statement
+because it excludes items of income or expense that are taxable or deductible in other years and it further excludes items that are never taxable or deductible. The
+company’s
+liability for current tax is calculated using tax rates that have been enacted or substantively enacted by the reporting end date.
+Deferred tax
+Deferred tax is the tax expected to be payable or recoverable on differences between the carrying amounts of assets and liabilities in the financial statements and the corresponding tax bases used in the computation of taxable profit, and is accounted for using the balance sheet liability method. Deferred tax liabilities are generally recognised for all taxable temporary differences and deferred tax assets are recognised to the extent that it is probable that taxable profits will be available against which deductible temporary differences can be utilised. Such assets and liabilities are not recognised if the temporary difference arises from goodwill or from the initial recognition of other assets and liabilities in a transaction that affects neither the tax profit nor the accounting profit.
+The carrying amount of deferred tax assets is reviewed at each reporting end date and reduced to the extent that it is no longer probable that sufficient taxable profits will be available to allow all or part of the asset to be recovered. Deferred tax is calculated at the tax rates that are expected to apply in the period when the liability is settled or the asset is realised. Deferred tax is charged or credited in the
+income statement
+, except when it relates to items charged or credited directly to equity, in which case the deferred tax is also dealt with in equity. Deferred tax assets and liabilities are offset when the
+company
+has a legally enforceable right to offset current tax assets and liabilities and the deferred tax assets and liabilities relate to taxes levied by the same tax authority.
+LOGISTICA TRAINING AND CONSULTANCY LIMITED
+(PREVIOUSLY K S TRAINING LIMITED)
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2023
+1
+Accounting policies
+(Continued)
+- 7 -
+1.12
+Provisions
+Provisions are recognised when the
+company
+has a legal or constructive present obligation as a result of a past event
+and
+it is probable that the
+company
+will be required to settle that obligation
+,
+and a reliable estimate can be made of the amount of the obligation.
+The amount recognised as a provision is the best estimate of the consideration required to settle the present obligation at the reporting end date, taking into account the risks and uncertainties surrounding the obligation.
+Where a provision is measured using the cash flows estimated to settle the present obligation, its carrying amount is the present value of those cash flows.
+When some or all of the economic benefits required to settle a provision are expected to be recovered from a third party, a receivable is recognised as an asset if it is virtually certain that reimbursement will be received and the amount of the receivable can be measured reliably.
+1.13
+Employee benefits
+The costs of short-term employee benefits are recognised as a liability and an expense, unless those costs are required to be recognised as part of the cost of
+inventories
+or non-current assets.
+The cost of any unused holiday entitlement is recognised in the period in which the employee’s services are received.
+Termination benefits are recognised immediately as an expense when the company is demonstrably committed to terminate the employment of an employee or to provide termination benefits.
+1.14
+Retirement benefits
+Payments to defined contribution retirement benefit schemes are charged as an expense as they fall due.
+1.15
+Leases
+At inception, the company assesses whether a contract is
+,
+or contains
+,
+a lease
+within the scope of IFRS 16. A contract is
+,
+or contains
+,
+a lease if the contract conveys the right to control the use of an identified asset for a period of time in exchange for consideration.
+Where a tangible asset is acquired through a lease, the company recognises a right-of-use asset and a lease liability at the lease commencement date. Right-of-use assets are included within
+property, plant and equipment,
+apart from those that meet the definition of investment property
+.
+The right-of-use asset is initially measured at cost, which comprises the initial amount of the lease liability adjusted for any lease payments made at or before the commencement date plus any initial direct costs and an estimate of the cost of obligations to dismantle, remove, refurbish or restore the underlying asset and the site on which it is located, less any lease incentives received.
+The right-of-use asset is subsequently depreciated using the straight-line method from the commencement date to the earlier of the end of the useful life of the right-of-use asset or the end of the lease term. The estimated useful lives of right-of-use assets are determined on the same basis as those of other property, plant and equipment. The right-of-use asset is periodically reduced by impairment losses, if any, and adjusted for certain remeasurements of the lease liability.
+The lease liability is initially measured at the present value of the lease payments that are unpaid at the commencement date, discounted using the interest rate implicit in the lease or, if that rate cannot be readily determined, the company's incremental borrowing rate. Lease payments included in the measurement of the lease liability comprise fixed payments, variable lease payments that depend on an index or a rate, amounts expected to be payable under a residual value guarantee, and the cost of any options that the company is reasonably certain to exercise, such as the exercise price under a purchase option, lease payments in an optional renewal period, or penalties for early termination of a lease.
+LOGISTICA TRAINING AND CONSULTANCY LIMITED
+(PREVIOUSLY K S TRAINING LIMITED)
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2023
+1
+Accounting policies
+(Continued)
+- 8 -
+The lease liability is measured at amortised cost using the effective interest method. It is remeasured when there is a change in
+:
+future lease payments arising from a change in an index or rate; the company's estimate of the amount expected to be payable under a residual value guarantee; or the company's assessment of whether it will exercise a purchase, extension or termination option.
+When the lease liability is remeasured in this way, a corresponding adjustment is made to the carrying amount of the right-of-use asset, or is recorded in profit or loss if the carrying amount of the right-of-use asset has been reduced to zero.
+The company has elected not to recognise right-of-use assets and lease liabilities for short-term leases of machinery that have a lease term of 12 months or less, or for leases of low-value assets including IT equipment. The payments associated with these leases are recognised in profit or loss on a straight-line basis over the lease term.
+2
+Critical accounting estimates and judgements
+In the application of the company’s accounting policies, the director is required to make judgements, estimates and assumptions about the carrying amount of assets and liabilities that are not readily apparent from other sources. The estimates and associated assumptions are based on historical experience and other factors that are considered to be relevant. Actual results may differ from these estimates.
+The estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to accounting estimates are recognised in the period in which the estimate is revised, if the revision affects only that period, or in the period of the revision and future periods if the revision affects both current and future periods.
+The estimates and assumptions which have a significant risk of causing a material adjustment to the carrying amount of assets and liabilities are outlined below.
+Critical judgements
+Depreciation
+Fixed Assets are valued at cost less depreciation. Depreciation is estimated at a rate of 25% reducing balance. The assets valued at this rate are then subject to impairment review and included at this rate unless impairment has taken place.
+Accrued Income
+The company recognises accrued income at the period end in respect of educational grant income where it has performed the training service during the period. The directors assess their expectation of the amount they have earned as at the period end and if this has not been applied for and invoiced at the period end, accrue that revenue.
+3
+Employees
+The average monthly number of persons (including directors) employed by the company during the year was:
+2023
+2022
+Number
+Number
+12
+15
+The directors are remunerated through connected company Logistica Training Partners LLP.
+LOGISTICA TRAINING AND CONSULTANCY LIMITED
+(PREVIOUSLY K S TRAINING LIMITED)
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2023
+- 9 -
+4
+Dividends
+2023
+2022
+2023
+2022
+Amounts recognised as distributions:
+per share
+per share
+Total
+Total
+£
+£
+£
+£
+Ordinary shares
+Interim dividend paid
+69.52
+-
+6,952
+-
+5
+Property, plant and equipment
+Plant and equipment
+Fixtures and fittings
+Right-of-use asset
+Total
+£
+£
+£
+£
+Cost
+At 1 January 2023
+26,680
+1,659
+8,268
+36,607
+Additions
+2,108
+-
+0
+-
+0
+2,108
+At 31 December 2023
+28,788
+1,659
+8,268
+38,715
+Accumulated depreciation and impairment
+At 1 January 2023
+22,313
+1,480
+4,133
+27,926
+Charge for the year
+1,092
+45
+2,748
+3,885
+At 31 December 2023
+23,405
+1,525
+6,881
+31,811
+Carrying amount
+At 31 December 2023
+5,383
+134
+1,387
+6,904
+At 31 December 2022
+4,367
+179
+4,135
+8,681
+6
+Trade and other receivables
+2023
+2022
+£
+£
+Trade receivables
+85,400
+19,523
+Amounts owed by fellow group undertakings
+-
+0
+148,335
+Other receivables
+358,612
+-
+Prepayments and accrued income
+114,155
+156,245
+558,167
+324,103
+Trade receivables includes a balance of £5,425 (2022: £1,575) relating to a provision for bad and doubtful debts.
+The balance in other receivables are loans to Logistica Training LLP, Acacia Training LLP and MBH Corporation PLC; these loans have an interest rate of nil; have no security and have no repayment date given.
+LOGISTICA TRAINING AND CONSULTANCY LIMITED
+(PREVIOUSLY K S TRAINING LIMITED)
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2023
+- 10 -
+7
+Liabilities
+Current
+Non-current
+2023
+2022
+2023
+2022
+Notes
+£
+£
+£
+£
+Borrowings
+8
+6,908
+12,349
+40,719
+32,279
+Trade and other payables
+9
+277,670
+111,006
+-
+0
+16,023
+Corporation tax
+25,172
+4,848
+-
+-
+Other taxation and social security
+49,140
+34,610
+-
+-
+Lease liabilities
+10
+670
+2,800
+-
+0
+1,587
+359,560
+165,613
+40,719
+49,889
+8
+Borrowings
+Current
+Non-current
+2023
+2022
+2023
+2022
+£
+£
+£
+£
+Borrowings held at amortised cost:
+Bank overdrafts
+-
+2,725
+-
+-
+Bank loans
+1,184
+9,624
+40,719
+32,279
+Directors' loans
+5,724
+-
+-
+-
+9
+Trade and other payables
+Current
+Non-current
+2023
+2022
+2023
+2022
+£
+£
+£
+£
+Trade payables
+42,005
+34,831
+-
+0
+-
+0
+Amounts owed to fellow group undertakings
+178,501
+61,101
+-
+-
+Accruals and deferred income
+17,414
+7,250
+-
+0
+-
+0
+Other payables
+39,750
+7,824
+-
+16,023
+277,670
+111,006
+-
+16,023
+10
+Lease liabilities
+2023
+2022
+Maturity analysis
+£
+£
+Within one year
+670
+2,800
+In two to five years
+-
+1,587
+Total undiscounted liabilities
+670
+4,387
+LOGISTICA TRAINING AND CONSULTANCY LIMITED
+(PREVIOUSLY K S TRAINING LIMITED)
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2023
+10
+Lease liabilities
+(Continued)
+- 11 -
+Lease liabilities are classified based on the amounts that are expected to be settled within the next 12 months and after more than 12 months from the reporting date, as follows:
+2023
+2022
+£
+£
+Current liabilities
+670
+2,800
+Non-current liabilities
+-
+0
+1,587
+670
+4,387
+11
+Retirement benefit schemes
+2023
+2022
+Defined contribution schemes
+£
+£
+Charge to profit or loss in respect of defined contribution schemes
+6,231
+1,981
+The company operates a defined contribution pension scheme for all qualifying employees. The assets of the scheme are held separately from those of the company in an independently administered fund.
+12
+Share capital
+2023
+2022
+2023
+2022
+Ordinary share capital
+Number
+Number
+£
+£
+Issued and fully paid
+Ordinary shares of £1 each
+100
+100
+100
+100
+13
+Audit report information
+As the income statement has been omitted from the filing copy of the financial statements, the following information in relation to the audit report on the statutory financial statements is provided in accordance with s444(5B) of the Companies Act 2006:
+The auditor's report was unqualified.
+Senior Statutory Auditor:
+Andrew Williams FCCA
+Date of audit report:
+4 April 2025
+14
+Related party transactions
+Remuneration of key management personnel
+The remuneration of key management personnel, including directors, is set out below in aggregate for each of the categories specified in IAS 24
+Related Party Disclosures
+.
+Other transactions with related parties
+The company has taken advantage of the exemption in IAS 24 of FRS 101 from disclosing transactions entered into between two or more members of the group as all its subsidiaries are wholly owned.
+LOGISTICA TRAINING AND CONSULTANCY LIMITED
+(PREVIOUSLY K S TRAINING LIMITED)
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2023
+14
+Related party transactions
+(Continued)
+- 12 -
+The following amounts were outstanding at the reporting end date:
+2023
+2022
+Amounts due to related parties
+£
+£
+Other related parties
+332,494
+-
+0
+15
+Directors' transactions
+The following transactions with the director occurred during the year. The amount due was interest free and has been repaid before the year end.
+Loans
+% Rate
+Opening balance
+Amounts advanced
+Amounts repaid
+Closing balance
+£
+£
+£
+£
+Directors Loan Account
+-
+-
+8,529
+(2,805)
+5,724
+-
+8,529
+(2,805)
+5,724
+16
+Controlling party
+Following the purchase of the shares from MBH Corporation on 23 October 2023 the parent company of
+Logistica Training and Consultancy
+Limited is Vedere Group Ltd and its registered office is 81 The Cut, London, England, SE1 8LL
+.
+The smallest group of undertakings for which group accounts are drawn up and of which the company is included is the group headed by Vedere Group Ltd and the consolidated accounts are available from the Registrar of Companies, Companies House, Crown Way, Cardiff, CF14 3UZ, United Kingdom.
+The ultimate parent company of Logistica Training and Consultancy
+Limited
+is The Unity Group of Companies Pte. Ltd. which is a company registered in Singapore.
+2023-12-31
+2023-01-01
+Mrs Maria Reason
+false
+false
+CCH Software
+iXBRL Review & Tag 2024.2
+07904498
+2023-01-01
+2023-12-31
+07904498
+2023-12-31
+07904498
+2022-12-31
+07904498
+core:PlantMachinery
+2023-12-31
+07904498
+core:FurnitureFittings
+2023-12-31
+07904498
+core:Non-standardPPEClass1ComponentTotalPropertyPlantEquipment
+2023-12-31
+07904498
+core:ContinuingOperations
+2023-12-31
+07904498
+core:PlantMachinery
+2022-12-31
+07904498
+core:FurnitureFittings
+2022-12-31
+07904498
+core:Non-standardPPEClass1ComponentTotalPropertyPlantEquipment
+2022-12-31
+07904498
+core:ShareCapital
+2023-12-31
+07904498
+core:ShareCapital
+2022-12-31
+07904498
+core:RetainedEarningsAccumulatedLosses
+2023-12-31
+07904498
+core:RetainedEarningsAccumulatedLosses
+2022-12-31
+07904498
+2021-12-31
+07904498
+bus:Director1
+2023-01-01
+2023-12-31
+07904498
+core:RetainedEarningsAccumulatedLosses
+2022-01-01
+2022-12-31
+07904498
+core:RetainedEarningsAccumulatedLosses
+2023-01-01
+2023-12-31
+07904498
+core:FinancialInstrumentsFairValueThroughProfitOrLoss
+2023-01-01
+2023-12-31
+07904498
+core:Available-for-saleFinancialAssets
+2023-01-01
+2023-12-31
+07904498
+2022-01-01
+2022-12-31
+07904498
+core:PlantMachinery
+2022-12-31
+07904498
+core:FurnitureFittings
+2022-12-31
+07904498
+core:Non-standardPPEClass1ComponentTotalPropertyPlantEquipment
+2022-12-31
+07904498
+2022-12-31
+07904498
+core:PlantMachinery
+2023-01-01
+2023-12-31
+07904498
+core:FurnitureFittings
+2023-01-01
+2023-12-31
+07904498
+core:Non-standardPPEClass1ComponentTotalPropertyPlantEquipment
+2023-01-01
+2023-12-31
+07904498
+core:CurrentFinancialInstruments
+2023-12-31
+07904498
+core:CurrentFinancialInstruments
+2022-12-31
+07904498
+core:Non-currentFinancialInstruments
+2023-12-31
+07904498
+core:Non-currentFinancialInstruments
+2022-12-31
+07904498
+core:CurrentFinancialInstruments
+core:WithinOneYear
+2023-12-31
+07904498
+core:CurrentFinancialInstruments
+core:WithinOneYear
+2022-12-31
+07904498
+core:Non-currentFinancialInstruments
+core:AfterOneYear
+2023-12-31
+07904498
+core:Non-currentFinancialInstruments
+core:AfterOneYear
+2022-12-31
+07904498
+core:OtherRelatedParties
+2023-12-31
+07904498
+core:OtherRelatedParties
+2022-12-31
+07904498
+bus:PrivateLimitedCompanyLtd
+2023-01-01
+2023-12-31
+07904498
+bus:FRS101
+2023-01-01
+2023-12-31
+07904498
+bus:Audited
+2023-01-01
+2023-12-31
+07904498
+bus:SmallCompaniesRegimeForAccounts
+2023-01-01
+2023-12-31
+07904498
+bus:FullAccounts
+2023-01-01
+2023-12-31
+xbrli:pure
+xbrli:shares
+iso4217:GBP

@@ -1,0 +1,844 @@
+Boston LGV Training Limited - Limited company accounts 23.2
+IRIS Accounts Production
+v24.1.9.2
+04868475
+director
+31.8.22
+30.11.23
+30.11.23
+LGV Training.
+false
+true
+false
+false
+true
+false
+iso4217:GBP
+iso4217:USD
+iso4217:EUR
+xbrli:shares
+xbrli:pure
+utr:tonnes
+utr:kWh
+04868475
+2022-08-30
+04868475
+2023-11-30
+04868475
+2022-08-31
+2023-11-30
+04868475
+2021-08-30
+04868475
+2021-08-31
+2022-08-30
+04868475
+2022-08-30
+04868475
+ns15:EnglandWales
+2022-08-31
+2023-11-30
+04868475
+ns14:PoundSterling
+2022-08-31
+2023-11-30
+04868475
+ns10:Director1
+2022-08-31
+2023-11-30
+04868475
+ns10:PrivateLimitedCompanyLtd
+2022-08-31
+2023-11-30
+04868475
+ns10:SmallEntities
+2022-08-31
+2023-11-30
+04868475
+ns10:AuditExempt-NoAccountantsReport
+2022-08-31
+2023-11-30
+04868475
+ns10:SmallCompaniesRegimeForDirectorsReport
+2022-08-31
+2023-11-30
+04868475
+ns10:SmallCompaniesRegimeForAccounts
+2022-08-31
+2023-11-30
+04868475
+ns10:FullAccounts
+2022-08-31
+2023-11-30
+04868475
+ns10:RegisteredOffice
+2022-08-31
+2023-11-30
+04868475
+ns10:Director2
+2022-08-31
+2023-11-30
+04868475
+ns10:Director3
+2022-08-31
+2023-11-30
+04868475
+ns5:CurrentFinancialInstruments
+2023-11-30
+04868475
+ns5:CurrentFinancialInstruments
+2022-08-30
+04868475
+ns5:Non-currentFinancialInstruments
+2023-11-30
+04868475
+ns5:Non-currentFinancialInstruments
+2022-08-30
+04868475
+ns5:ShareCapital
+2023-11-30
+04868475
+ns5:ShareCapital
+2022-08-30
+04868475
+ns5:RevaluationReserve
+2023-11-30
+04868475
+ns5:RevaluationReserve
+2022-08-30
+04868475
+ns5:RetainedEarningsAccumulatedLosses
+2023-11-30
+04868475
+ns5:RetainedEarningsAccumulatedLosses
+2022-08-30
+04868475
+ns5:OwnedOrFreeholdAssets
+ns5:LandBuildings
+2022-08-31
+2023-11-30
+04868475
+ns5:PlantMachinery
+2022-08-31
+2023-11-30
+04868475
+ns5:FurnitureFittings
+2022-08-31
+2023-11-30
+04868475
+ns5:MotorVehicles
+2022-08-31
+2023-11-30
+04868475
+ns5:ComputerEquipment
+2022-08-31
+2023-11-30
+04868475
+ns5:OwnedAssets
+2022-08-31
+2023-11-30
+04868475
+ns5:OwnedAssets
+2021-08-31
+2022-08-30
+04868475
+ns5:LandBuildings
+2022-08-30
+04868475
+ns5:PlantMachinery
+2022-08-30
+04868475
+ns5:FurnitureFittings
+2022-08-30
+04868475
+ns5:LandBuildings
+2022-08-31
+2023-11-30
+04868475
+ns5:LandBuildings
+2023-11-30
+04868475
+ns5:PlantMachinery
+2023-11-30
+04868475
+ns5:FurnitureFittings
+2023-11-30
+04868475
+ns5:LandBuildings
+2022-08-30
+04868475
+ns5:PlantMachinery
+2022-08-30
+04868475
+ns5:FurnitureFittings
+2022-08-30
+04868475
+ns5:MotorVehicles
+2022-08-30
+04868475
+ns5:ComputerEquipment
+2022-08-30
+04868475
+ns5:MotorVehicles
+2023-11-30
+04868475
+ns5:ComputerEquipment
+2023-11-30
+04868475
+ns5:MotorVehicles
+2022-08-30
+04868475
+ns5:ComputerEquipment
+2022-08-30
+04868475
+ns5:CurrentFinancialInstruments
+ns5:WithinOneYear
+2023-11-30
+04868475
+ns5:CurrentFinancialInstruments
+ns5:WithinOneYear
+2022-08-30
+04868475
+ns5:Non-currentFinancialInstruments
+ns5:BetweenOneTwoYears
+2023-11-30
+04868475
+ns5:Non-currentFinancialInstruments
+ns5:BetweenOneTwoYears
+2022-08-30
+REGISTERED NUMBER:
+04868475
+(England and Wales)
+BOSTON LGV TRAINING LIMITED
+REPORT OF THE DIRECTOR AND
+UNAUDITED FINANCIAL STATEMENTS
+FOR THE PERIOD
+31 AUGUST 2022 TO 30 NOVEMBER 2023
+BOSTON LGV TRAINING LIMITED (REGISTERED NUMBER: 04868475)
+CONTENTS OF THE FINANCIAL STATEMENTS
+FOR THE PERIOD 31 AUGUST 2022 TO 30 NOVEMBER 2023
+Page
+Company Information
+1
+Report of the Director
+2
+Income Statement
+3
+Balance Sheet
+4
+Notes to the Financial Statements
+6
+BOSTON LGV TRAINING LIMITED
+COMPANY INFORMATION
+FOR THE PERIOD 31 AUGUST 2022 TO 30 NOVEMBER 2023
+DIRECTOR:
+Mr G H Allen
+REGISTERED OFFICE:
+Marsh Lane
+Boston
+Lincolnshire
+PE21 7SB
+REGISTERED NUMBER:
+04868475
+(England and Wales)
+ACCOUNTANTS:
+ApC
+Chartered Accountants
+7 St John Street
+Mansfield
+Nottinghamshire
+NG18 1QH
+Page 1
+BOSTON LGV TRAINING LIMITED (REGISTERED NUMBER: 04868475)
+REPORT OF THE DIRECTOR
+FOR THE PERIOD 31 AUGUST 2022 TO 30 NOVEMBER 2023
+The director presents his report with the financial statements of the company for the period 31 August 2022 to 30 November 2023.
+DIRECTORS
+The directors who have held office during the period from 31 August 2022 to the date of this report are as
+follows:
+Mr G H Allen
+- appointed 17 April 2023
+Mr J W Morrison
+- resigned 17 April 2023
+Mrs L Morrison
+- resigned 17 April 2023
+This report has been prepared in accordance with the provisions of Part 15 of the Companies Act 2006
+relating to small companies.
+ON BEHALF OF THE BOARD:
+Mr G H Allen
+- Director
+31 August 2024
+Page 2
+BOSTON LGV TRAINING LIMITED (REGISTERED NUMBER: 04868475)
+INCOME STATEMENT
+FOR THE PERIOD 31 AUGUST 2022 TO 30 NOVEMBER 2023
+PERIOD
+31/8/22
+TO
+YEAR ENDED
+30/11/23
+30/8/22
+Notes
+£
+£
+TURNOVER
+511,915
+502,907
+Cost of sales
+(
+154,740
+)
+(
+126,921
+)
+GROSS PROFIT
+357,175
+375,986
+Administrative expenses
+(
+342,082
+)
+(
+148,247
+)
+15,093
+227,739
+Other operating income
+-
+1,186
+OPERATING PROFIT
+5
+15,093
+228,925
+Interest receivable and similar income
+706
+-
+Interest payable and similar expenses
+(
+10,791
+)
+(
+990
+)
+PROFIT BEFORE TAXATION
+5,008
+227,935
+Tax on profit
+(
+23,445
+)
+(
+42,143
+)
+(LOSS)/PROFIT FOR THE FINANCIAL
+PERIOD
+(
+18,437
+)
+185,792
+The notes form part of these financial statements
+Page 3
+BOSTON LGV TRAINING LIMITED (REGISTERED NUMBER: 04868475)
+BALANCE SHEET
+30 NOVEMBER 2023
+2023
+2022
+Notes
+£
+£
+£
+£
+FIXED ASSETS
+Tangible assets
+6
+710,959
+301,633
+CURRENT ASSETS
+Stocks
+7,033
+-
+Debtors
+7
+336,105
+62,070
+Cash at bank and in hand
+32,388
+246,046
+375,526
+308,116
+CREDITORS
+Amounts falling due within one year
+8
+199,602
+161,162
+NET CURRENT ASSETS
+175,924
+146,954
+TOTAL ASSETS LESS CURRENT
+LIABILITIES
+886,883
+448,587
+CREDITORS
+Amounts falling due after more than one
+year
+9
+(
+200,147
+)
+(
+28,333
+)
+PROVISIONS FOR LIABILITIES
+(
+44,832
+)
+(
+21,387
+)
+NET ASSETS
+641,904
+398,867
+The notes form part of these financial statements
+Page 4
+BOSTON LGV TRAINING LIMITED (REGISTERED NUMBER: 04868475)
+BALANCE SHEET - continued
+30 NOVEMBER 2023
+2023
+2022
+Notes
+£
+£
+£
+£
+CAPITAL AND RESERVES
+Called up share capital
+2
+2
+Revaluation reserve
+10
+285,931
+-
+Retained earnings
+355,971
+398,865
+641,904
+398,867
+The company is entitled to exemption from audit under Section 477 of the Companies Act 2006 for the period ended 30 November 2023.
+The members have not required the company to obtain an audit of its financial statements for the period ended 30 November 2023 in accordance with Section 476 of the Companies Act 2006.
+The director acknowledges his responsibilities for:
+(a)
+ensuring that the company keeps accounting records which comply with Sections 386 and 387 of the
+Companies Act 2006 and
+(b)
+preparing financial statements which give a true and fair view of the state of affairs of the company as at
+the end of each financial year and of its profit or loss for each financial year in accordance with the
+requirements of Sections 394 and 395 and which otherwise comply with the requirements of the
+Companies Act 2006 relating to financial statements, so far as applicable to the company.
+The financial statements have been prepared in accordance with the provisions applicable to companies subject to the small companies regime.
+The financial statements were approved by the director and authorised for issue on
+31 August 2024
+and were
+signed by:
+Mr G H Allen
+- Director
+The notes form part of these financial statements
+Page 5
+BOSTON LGV TRAINING LIMITED (REGISTERED NUMBER: 04868475)
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE PERIOD 31 AUGUST 2022 TO 30 NOVEMBER 2023
+1.
+STATUTORY INFORMATION
+Boston LGV Training Limited is a
+private company, limited by shares
+, registered in England and Wales.
+The company's registered number and registered office address can be found on the Company
+Information page.
+The presentation currency of the financial statements is the Pound Sterling (£).
+2.
+STATEMENT OF COMPLIANCE
+These financial statements have been prepared in accordance with Financial Reporting Standard 102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland" including the provisions of Section 1A "Small Entities" and the Companies Act 2006.
+3.
+ACCOUNTING POLICIES
+Basis of preparing the financial statements
+The financial statements have been prepared under the historical cost convention as modified by the revaluation of certain assets.
+Turnover
+Turnover represents the value excluding Value Added Tax of goods and services provided to
+customers during the year. In respect of goods and services provided, all income is taken to profit and
+loss at the same point as the right to receive consideration has been acquired.
+Tangible fixed assets
+Depreciation is provided at the following annual rates in order to write off each asset over its estimated useful life.
+Freehold property
+-
+in accordance with the property
+Plant and machinery
+-
+25% on reducing balance
+Fixtures and fittings
+-
+25% on reducing balance
+Motor vehicles
+-
+25% on reducing balance
+Computer equipment
+-
+25% on reducing balance
+Stocks
+Stocks are valued at the lower of cost and net realisable value, after making due allowance for obsolete
+and slow moving items.
+Page 6
+BOSTON LGV TRAINING LIMITED (REGISTERED NUMBER: 04868475)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+FOR THE PERIOD 31 AUGUST 2022 TO 30 NOVEMBER 2023
+3.
+ACCOUNTING POLICIES - continued
+Taxation
+Taxation for the period comprises current and deferred tax. Tax is recognised in the Income Statement,
+except to the extent that it relates to items recognised in other comprehensive income or directly in
+equity.
+Current or deferred taxation assets and liabilities are not discounted.
+Current tax is recognised at the amount of tax payable using the tax rates and laws that have been
+enacted or substantively enacted by the balance sheet date.
+Deferred tax
+Deferred tax is recognised in respect of all timing differences that have originated but not reversed at
+the balance sheet date.
+Timing differences arise from the inclusion of income and expenses in tax assessments in periods
+different from those in which they are recognised in financial statements. Deferred tax is measured
+using tax rates and laws that have been enacted or substantively enacted by the period end and that
+are expected to apply to the reversal of the timing difference.
+Unrelieved tax losses and other deferred tax assets are recognised only to the extent that it is probable
+that they will be recovered against the reversal of deferred tax liabilities or other future taxable profits.
+Financial instruments
+Financial instruments and equity instruments are classified according to the substance of the
+contractual arrangements entered into. An equity instrument is any contract that evidences a residual
+interest in the assets of the entity after deducting all of its financial liabilities.
+Where the contractual obligations of financial instruments (including share capital) are equivalent to a
+similar debt instrument, those financial instruments are classed as financial liabilities. Financial liabilities
+are presented as such in the balance sheet. Finance costs and gains or losses relating to financial
+liabilities are included in the profit and loss account. Finance costs are calculated so as to produce a
+constant rate of return on the outstanding liability.
+Where the contractual terms of share capital do not have any terms meeting the definition of a financial
+liability then this is classed as an equity instrument. Dividends and distributions relating to equity
+instruments are debited direct to equity.
+4.
+EMPLOYEES AND DIRECTORS
+The average number of employees during the period was
+3
+(2022 -
+3
+) .
+Page 7
+BOSTON LGV TRAINING LIMITED (REGISTERED NUMBER: 04868475)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+FOR THE PERIOD 31 AUGUST 2022 TO 30 NOVEMBER 2023
+5.
+OPERATING PROFIT
+The operating profit is stated after charging:
+PERIOD
+31/8/22
+TO
+YEAR ENDED
+30/11/23
+30/8/22
+£
+£
+Depreciation - owned assets
+107,271
+30,894
+6.
+TANGIBLE FIXED ASSETS
+Fixtures
+Freehold
+Plant and
+and
+property
+machinery
+fittings
+£
+£
+£
+COST OR VALUATION
+At 31 August 2022
+214,293
+11,939
+11,971
+Additions
+-
+240,000
+-
+Disposals
+-
+-
+-
+Revaluations
+260,707
+-
+-
+At 30 November 2023
+475,000
+251,939
+11,971
+DEPRECIATION
+At 31 August 2022
+25,224
+4,994
+5,114
+Charge for period
+-
+77,173
+2,142
+Eliminated on disposal
+-
+-
+-
+Revaluation adjustments
+(
+25,224
+)
+-
+-
+At 30 November 2023
+-
+82,167
+7,256
+NET BOOK VALUE
+At 30 November 2023
+475,000
+169,772
+4,715
+At 30 August 2022
+189,069
+6,945
+6,857
+Page 8
+BOSTON LGV TRAINING LIMITED (REGISTERED NUMBER: 04868475)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+FOR THE PERIOD 31 AUGUST 2022 TO 30 NOVEMBER 2023
+6.
+TANGIBLE FIXED ASSETS - continued
+Motor
+Computer
+vehicles
+equipment
+Totals
+£
+£
+£
+COST OR VALUATION
+At 31 August 2022
+166,354
+3,631
+408,188
+Additions
+-
+-
+240,000
+Disposals
+(
+17,699
+)
+-
+(
+17,699
+)
+Revaluations
+-
+-
+260,707
+At 30 November 2023
+148,655
+3,631
+891,196
+DEPRECIATION
+At 31 August 2022
+68,301
+2,922
+106,555
+Charge for period
+27,726
+230
+107,271
+Eliminated on disposal
+(
+8,365
+)
+-
+(
+8,365
+)
+Revaluation adjustments
+-
+-
+(
+25,224
+)
+At 30 November 2023
+87,662
+3,152
+180,237
+NET BOOK VALUE
+At 30 November 2023
+60,993
+479
+710,959
+At 30 August 2022
+98,053
+709
+301,633
+Cost or valuation at 30 November 2023 is represented by:
+Fixtures
+Freehold
+Plant and
+and
+property
+machinery
+fittings
+£
+£
+£
+Valuation in
+2023
+260,707
+-
+-
+Cost
+214,293
+251,939
+11,971
+475,000
+251,939
+11,971
+Motor
+Computer
+vehicles
+equipment
+Totals
+£
+£
+£
+Valuation in
+2023
+-
+-
+260,707
+Cost
+148,655
+3,631
+630,489
+148,655
+3,631
+891,196
+Page 9
+BOSTON LGV TRAINING LIMITED (REGISTERED NUMBER: 04868475)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+FOR THE PERIOD 31 AUGUST 2022 TO 30 NOVEMBER 2023
+6.
+TANGIBLE FIXED ASSETS - continued
+If
+the freehold property
+had not been revalued it would have been included at the following historical
+cost:
+2023
+2022
+£
+£
+Cost
+214,293
+214,293
+Aggregate depreciation
+25,224
+25,224
+Freehold property
+was valued on
+an open market
+basis on
+30 November 2023
+by
+the director
+.
+7.
+DEBTORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+2023
+2022
+£
+£
+Trade debtors
+47,405
+53,300
+Amounts owed by participating interests
+108,000
+-
+Other debtors
+160,000
+-
+Prepayments and accrued income
+20,700
+8,770
+336,105
+62,070
+8.
+CREDITORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+2023
+2022
+£
+£
+Bank loans and overdrafts
+10,000
+10,000
+Hire purchase contracts
+23,424
+-
+Trade creditors
+6,418
+5,193
+Amounts owed to group undertakings
+113,591
+-
+Amounts owed to participating interests
+6,000
+-
+Corporation tax
+-
+41,750
+Social security and other taxes
+-
+6,735
+VAT
+6,574
+14,644
+Directors' current accounts
+-
+80,898
+Accruals and deferred income
+33,595
+1,942
+199,602
+161,162
+Page 10
+BOSTON LGV TRAINING LIMITED (REGISTERED NUMBER: 04868475)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+FOR THE PERIOD 31 AUGUST 2022 TO 30 NOVEMBER 2023
+9.
+CREDITORS: AMOUNTS FALLING DUE AFTER MORE THAN ONE
+YEAR
+2023
+2022
+£
+£
+Bank loans - 1-2 years
+16,667
+28,333
+Hire purchase contracts
+183,480
+-
+200,147
+28,333
+10.
+RESERVES
+Revaluation
+reserve
+£
+Movement in valuation
+285,931
+At 30 November 2023
+285,931
+Page 11

@@ -1,0 +1,368 @@
+Manchester Digital Limited
+Acorah Software Products - Accounts Production
+16.0.110
+false
+true
+31 March 2023
+1 April 2022
+false
+1 April 2023
+31 March 2024
+31 March 2024
+04398806
+Shaun Fensom
+Paul Bason
+Thomas Cull
+Alison Ross
+Katie Gallagher
+Hilary Stephenson
+James Wilkinson
+iso4217:GBP
+iso4217:EUR
+iso4217:USD
+xbrli:shares
+xbrli:pure
+xbrli:pure
+04398806
+2023-03-31
+04398806
+2024-03-31
+04398806
+2023-04-01
+2024-03-31
+04398806
+frs-core:CurrentFinancialInstruments
+2024-03-31
+04398806
+frs-core:Non-currentFinancialInstruments
+2024-03-31
+04398806
+frs-core:ComputerEquipment
+2024-03-31
+04398806
+frs-core:ComputerEquipment
+2023-04-01
+2024-03-31
+04398806
+frs-core:ComputerEquipment
+2023-03-31
+04398806
+frs-core:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2023-04-01
+2024-03-31
+04398806
+frs-core:OtherResidualIntangibleAssets
+2024-03-31
+04398806
+frs-core:OtherResidualIntangibleAssets
+2023-04-01
+2024-03-31
+04398806
+frs-core:OtherResidualIntangibleAssets
+2023-03-31
+04398806
+frs-core:RetainedEarningsAccumulatedLosses
+2024-03-31
+04398806
+frs-bus:CompanyLimitedByGuarantee
+2023-04-01
+2024-03-31
+04398806
+frs-bus:FilletedAccounts
+2023-04-01
+2024-03-31
+04398806
+frs-bus:SmallEntities
+2023-04-01
+2024-03-31
+04398806
+frs-bus:AuditExempt-NoAccountantsReport
+2023-04-01
+2024-03-31
+04398806
+frs-bus:SmallCompaniesRegimeForAccounts
+2023-04-01
+2024-03-31
+04398806
+frs-bus:Director1
+2023-04-01
+2024-03-31
+04398806
+frs-bus:Director2
+2023-04-01
+2024-03-31
+04398806
+frs-bus:Director3
+2023-04-01
+2024-03-31
+04398806
+frs-bus:Director4
+2023-04-01
+2024-03-31
+04398806
+frs-bus:Director5
+2023-04-01
+2024-03-31
+04398806
+frs-bus:Director6
+2023-04-01
+2024-03-31
+04398806
+frs-bus:Director7
+2023-04-01
+2024-03-31
+04398806
+frs-countries:EnglandWales
+2023-04-01
+2024-03-31
+04398806
+2022-03-31
+04398806
+2023-03-31
+04398806
+2022-04-01
+2023-03-31
+04398806
+frs-core:CurrentFinancialInstruments
+2023-03-31
+04398806
+frs-core:Non-currentFinancialInstruments
+2023-03-31
+04398806
+frs-core:RetainedEarningsAccumulatedLosses
+2023-03-31
+Registered number: 04398806
+Manchester Digital Limited
+Unaudited Financial Statements
+For The Year Ended 31 March 2024
+Manchester Digital Limited
+Contents
+Contents
+Page
+Balance Sheet
+1—2
+Notes to the Financial Statements
+3—4
+Page 1
+Manchester Digital Limited
+Balance Sheet
+As At
+31 March 2024
+Balance Sheet
+Registered number:
+04398806
+2024
+2023
+Notes
+£
+£
+£
+£
+FIXED ASSETS
+Intangible Assets
+4
+27,320
+34,366
+Tangible Assets
+5
+8,559
+5,424
+35,879
+39,790
+CURRENT ASSETS
+Debtors
+6
+156,951
+31,870
+Cash at bank and in hand
+284,940
+298,078
+441,891
+329,948
+Creditors: Amounts Falling Due Within One Year
+7
+(
+283,428
+)
+(
+155,735
+)
+NET CURRENT ASSETS (LIABILITIES)
+158,463
+174,213
+TOTAL ASSETS LESS CURRENT LIABILITIES
+194,342
+214,003
+Creditors: Amounts Falling Due After More Than One Year
+8
+(
+10,064
+)
+(
+20,719
+)
+NET ASSETS
+184,278
+193,284
+Income and Expenditure Account
+184,278
+193,284
+MEMBERS' FUNDS
+184,278
+193,284
+Page 1
+Page 2
+Manchester Digital Limited
+Balance Sheet (continued)
+As At
+31 March 2024
+For the year ending 31 March 2024 the company was entitled to exemption from audit under section 477 of the Companies Act 2006 relating to small companies.
+The members have not required the company to obtain an audit in accordance with section 476 of the Companies Act 2006.
+The directors acknowledge their responsibilities for complying with the requirements of the Act with respect to accounting records and the preparation of accounts.
+These accounts have been prepared and delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+The company has taken advantage of section 444(1) of the Companies Act 2006 and opted not to deliver to the registrar a copy of the company's Income and Expenditure Account.
+On behalf of the board
+Katie Gallagher
+Director
+30th October 2024
+The notes on
+pages 3 to 4
+form part of these financial statements.
+Page 2
+Page 3
+Manchester Digital Limited
+Notes to the Financial Statements
+For The Year Ended 31 March 2024
+Notes to the Financial Statements
+1.
+General Information
+Manchester Digital Limited
+is a private company, limited by guarantee, incorporated in England & Wales, registered number
+04398806
+. The registered office is Manchester Technology Centre, Oxford Road, Manchester, M1 7ED.
+2.
+Accounting Policies
+2.1.
+Basis of Preparation of Financial Statements
+The financial statements have been prepared under the historical cost convention and in accordance with Financial Reporting Standard 102 section 1A Small Entities "The Financial Reporting Standard applicable in the UK and Republic of Ireland" and the Companies Act 2006.
+2.2.
+Turnover
+Turnover is measured at the fair value of the consideration received or receivable, net of discounts and value added taxes. Turnover includes revenue earned from the sale of goods and from the rendering of services. Turnover is reduced for estimated customer returns, rebates and other similar allowances.
+Sale of goods
+Turnover from the sale of goods is recognised when the significant risks and rewards of ownership of the goods has transferred to the buyer. This is usually at the point that the customer has signed for the delivery of the goods.
+Rendering of services
+Turnover from the rendering of services is recognised by reference to the stage of completion of the contract. The stage of completion of a contract is measured by comparing the costs incurred for work performed to date to the total estimated contract costs. Turnover is only recognised to the extent of recoverable expenses when the outcome of a contract cannot be estimated reliably.
+2.3.
+Intangible Fixed Assets and Amortisation - Other Intangible
+Other intangible assets consist of website development costs.  These costs are amortised to the income and expenditure account over its estimated economic life of 5 years.
+2.4.
+Tangible Fixed Assets and Depreciation
+Tangible fixed assets are measured at cost less accumulated depreciation and any accumulated impairment losses. Depreciation is provided at rates calculated to write off the cost of the fixed assets, less their estimated residual value, over their expected useful lives on the following bases:
+Computer Equipment
+25% on Cost
+3.
+Average Number of Employees
+Average number of employees, including directors, during the year was:
+14 (2023: 10)
+14
+10
+4.
+Intangible Assets
+Other
+£
+Cost
+As at 1 April 2023
+125,286
+Additions
+9,600
+As at 31 March 2024
+134,886
+Amortisation
+As at 1 April 2023
+90,920
+Provided during the period
+16,646
+As at 31 March 2024
+107,566
+Net Book Value
+As at 31 March 2024
+27,320
+As at 1 April 2023
+34,366
+Page 3
+Page 4
+Manchester Digital Limited
+Notes to the Financial Statements (continued)
+For The Year Ended 31 March 2024
+5.
+Tangible Assets
+Computer Equipment
+£
+Cost
+As at 1 April 2023
+18,526
+Additions
+5,922
+As at 31 March 2024
+24,448
+Depreciation
+As at 1 April 2023
+13,102
+Provided during the period
+2,787
+As at 31 March 2024
+15,889
+Net Book Value
+As at 31 March 2024
+8,559
+As at 1 April 2023
+5,424
+6.
+Debtors
+2024
+2023
+£
+£
+Due within one year
+Trade debtors
+112,687
+25,063
+Other debtors
+44,264
+6,807
+156,951
+31,870
+7.
+Creditors: Amounts Falling Due Within One Year
+2024
+2023
+£
+£
+Trade creditors
+11,057
+12,284
+Bank loans and overdrafts
+12,009
+10,644
+Other creditors
+185,633
+88,688
+Taxation and social security
+74,729
+44,119
+283,428
+155,735
+8.
+Creditors: Amounts Falling Due After More Than One Year
+2024
+2023
+£
+£
+Bank loans
+10,064
+20,719
+9.
+Company limited by guarantee
+The company is limited by guarantee and has no share capital.
+Every member of the company undertakes to contribute to the assets of the company, in the event of a winding up, such an amount as may be required not exceeding £1.
+Page 4

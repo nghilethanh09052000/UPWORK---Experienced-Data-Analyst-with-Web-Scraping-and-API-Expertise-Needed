@@ -1,0 +1,532 @@
+Docusign Envelope ID: 43AA73A8-C806-4F DE-989A-BDA8AEE86C0C
+
+Registered number: 04439071
+
+E-TRAINING LIMITED
+
+UNAUDITED
+FINANCIAL STATEMENTS
+INFORMATION FOR FILING WITH THE REGISTRAR
+
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+UTA
+
+*ADCVOEXS*
+Al4 02/10/2024 #109
+COMPANIES HOUSE
+
+Docusign Envelope ID: 43AA73A8-C806-4F DE-989A-BDA8AEE86C0C
+
+E-TRAINING LIMITED
+REGISTERED NUMBER: 04439071
+
+STATEMENT OF FINANCIAL POSITION
+AS AT 31 DECEMBER 2023
+
+Note
+
+Fixed assets
+Tangible assets 4
+Current assets
+Debtors: amounts falling due within one year 5 205,298
+Cash at bank and in hand 67,720
+
+273,018
+Creditors: amounts falling due within one
+
+year 6 (219,564)
+Net current assets
+
+Total assets less current liabilities
+
+Net assets
+
+Capital and reserves
+
+Called up share capital
+Profit and loss account
+
+2023
+
+7,109
+
+7,109
+
+53,454
+
+60,563
+
+60,563
+
+100
+60,463
+
+60,563
+
+161,853
+23,240
+
+185,093
+
+(78,848)
+
+2022
+
+106,245
+
+106,245
+
+106,245
+
+100
+106,145
+
+106,245
+
+
+Docusign Envelope ID: 43AA73A8-C806-4F DE-989A-BDA8AEE86C0C
+
+E-TRAINING LIMITED
+REGISTERED NUMBER: 04439071
+
+STATEMENT OF FINANCIAL POSITION (CONTINUED)
+AS AT 31 DECEMBER 2023
+
+The Directors consider that the Company is entitled to exemption from audit under section 479A of the
+Companies Act 2006.
+
+The members have not required the Company to obtain an audit for the year in question in accordance with
+section 476 of the Companies Act 2006.
+
+The Directors acknowledge their responsibilities for complying with the requirements of the Companies Act 2006
+with respect to accounting records and the preparation of financial statements.
+
+The financial statements have been prepared in accordance with the provisions applicable to companies subject
+to the small companies regime and in accordance with the provisions of FRS 102 Section 1A - smail entities.
+
+The financial statements have been delivered in accordance with the provisions applicable to companies subject
+to the small companies regime.
+
+The Company has opted not to file the statement of comprehensive income in accordance with provisions
+applicable to companies subject to the small companies’ regime.
+
+The financial statements were approved and authorised for issue by the board and were signed on its behalf by:
+
+DocuSigned by:
+Caveine Fore
+CB6804773201432
+Fox
+Director
+
+Date: 30/9/2024
+
+The notes on pages 3 to 9 form part of these financial statements.
+
+Cocusign Envelope ID: 43AA73A8-C806-4F DE-9894-BDABAEE86C0C
+
+E-TRAINING LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+N
+
+General information
+
+E-Training Limited is a private company limited by shares incorporated in England and Wales.
+
+The registered office and principal place of business is 12 Lambarde Square, 1st Floor, The Greenwich
+Centre, Greenwich, London, SE10 9GB.
+
+Accounting policies
+
+2.1
+
+Basis of preparation of financial statements
+
+The financial statements have been prepared under the historical cost convention unless otherwise
+specified within these accounting policies and in accordance with Section 1A of Financial Reporting
+Standard 102, the Financial Reporting Standard applicable in the UK and the Republic of Ireland and
+the Companies Act 2006.
+
+The following principal accounting policies have been applied:
+Going concern
+
+The directors have prepared forecasts taking into account their assessment of the performance of
+the business and are confident that the Company will be able to continue to meet their liabilities as
+they fall due for a period of not less than 12 months from the date these accounts are signed. The
+directors consider it appropriate to prepare the financial statements on a going concern basis as a
+result.
+
+Foreign currency translation
+
+Functional and presentation currency
+
+The Company's functional and presentational currency is GBP.
+Transactions and balances
+
+Foreign currency transactions are translated into the functional currency using the spot exchange
+tates at the dates of the transactions.
+
+At each period end foreign currency monetary items are translated using the closing rate. Non-
+monetary items measured at historical cost are translated using the exchange rate at the date of the
+transaction and non-monetary items measured at fair value are measured using the exchange rate
+when fair value was determined.
+
+Revenue
+
+Revenue is recognised to the extent that it is probable that the economic benefits will flow to the
+Company and the revenue can be reliably measured. Revenue is measured as the fair value of the
+consideration received or receivable, excluding discounts, rebates, value added tax and other sales
+taxes. The following criteria must also be met before revenue is recognised:
+
+Revenue from contracts for the provision of professional services is recognised by reference to the
+stage of completion when the stage of completion. costs incurred and costs to complete can be
+estimated reliably. The stage of completion is calculated by comparing costs incurred, mainly in
+relation to contractual hourly staff rates and materials, as a proportion of total costs. Where the
+outcome cannot be estimated reliably, revenue is recognised only to the extent of the expenses
+recognised that it is probable will be recovered.
+
+Page 3
+
+Docusign Envelope ID: 43AA73A8-C806-4F DE-989A-BDA8AEE86C0C
+
+E-TRAINING LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+N
+
+Accounting policies (continued)
+
+2.5
+
+2.6
+
+Interest income
+Interest income is recognised in profit or loss using the effective interest method.
+Finance costs
+
+Finance costs are charged to profit or loss over the term of the debt using the effective interest
+method so that the amount charged is at a constant rate on the carrying amount.
+
+Pensions
+Defined contribution pension plan
+
+The Company operates a defined contribution plan for its employees. A defined contribution plan is a
+pension plan under which the Company pays fixed contributions into a separate entity. Once the
+contributions have been paid the Company has no further payment obligations.
+
+The contributions are recognised as an expense in profit or loss when they fall due. Amounts not paid
+are shown in accruals as a liability in the Statement of Financial Position. The assets of the plan are
+held separately from the Company in independently administered funds.
+
+Current and deferred taxation
+
+The tax expense for the year comprises current and deferred tax. Tax is recognised in profit or loss
+except that a charge attributable to an item of income and expense recognised as other
+comprehensive income or to an item recognised directly in equity is also recognised in other
+comprehensive income or directly in equity respectively.
+
+The current income tax charge is calculated on the basis of tax rates and laws that have been
+enacted or substantively enacted by the reporting date in the countries where the Company operates
+and generates income.
+
+Deferred tax balances are recognised in respect of ail timing differences that have originated but not
+reversed by the reporting date, except that:
+
+. The recognition of deferred tax assets is limited to the extent that it is probable that they will be
+recovered against the reversal of deferred tax liabilities or other future taxable profits; and
+
+. Any deferred tax balances are reversed if and when all conditions for retaining associated tax
+allowances have been met.
+
+Deferred tax balances are not recognised in respect of permanent differences except in respect of
+business combinations, when deferred tax is recognised on the differences between the fair values of
+assets acquired and the future tax deductions available for them and the differences between the fair
+values of liabilities acquired and the amount that will be assessed for tax. Deferred tax is determined
+using tax rates and laws that have been enacted or substantively enacted by the reporting date.
+
+Page 4
+
+Docusign Envelope ID: 434A473A8-C806-4F DE-989A-BDA8AEE86C0C
+
+E-TRAINING LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+2.
+
+Accounting policies (continued)
+
+2.9 Tangible fixed assets
+
+Tangible fixed assets under the cost model are stated at historical cost less accumulated
+depreciation and any accumulated impairment losses. Historical cost includes expenditure that is
+directly attributable to bringing the asset to the location and condition necessary for it to be capable of
+operating in the manner intended by management.
+
+Depreciation is charged so as to allocate the cost of assets less their residual value over their
+estimated useful lives, on a reducing balance basis.
+
+Depreciation is provided on the following basis:
+
+Plant and machinery - 25% reducing balance
+The assets’ residual values, useful lives and depreciation methods are reviewed, and adjusted
+prospectively if appropriate, or if there is an indication of a significant change since the last reporting
+
+date.
+
+Gains and losses on disposals are determined by comparing the proceeds with the carrying amount
+and are recognised in profit or toss.
+
+2.10 Debtors
+
+Short-term debtors are measured at transaction price, less any impairment.
+
+2.11 Creditors
+
+Short-term creditors are measured at the transaction price. Other financial liabilities, are measured
+initially at fair value, net of transaction costs, and are measured subsequently at amortised cost using
+the effective interest method.
+
+2.12 Provisions for liabilities
+
+Provisions are recognised when an event has taken place that gives rise to a legal or constructive
+obligation, a transfer of economic benefits is probable and a reliable estimate can be made.
+
+Provisions are measured as the best estimate of the amount required to settle the obligation, taking
+into account the related risks and uncertainties.
+
+Increases in provisions are generally charged as an expense to profit or loss.
+
+Page 5
+
+Docusign Envelope ID: 43AA73A8-C806-4F DE-989A-BDA8AEE86C0C
+
+E-TRAINING LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+2.
+
+Accounting policies (continued)
+
+2.13 Financial instruments
+
+The Company has elected to apply the provisions of Section 11 “Basic Financial Instruments” of FRS
+102 to all of its financial instruments.
+
+Basic financial assets
+
+Basic financial assets, which include trade and other receivables, cash and bank balances, are
+initially measured at their transaction price including transaction costs and are subsequently carried
+at their amortised cost using the effective interest method, less any provision for impairment, unless
+the arrangement constitutes a financing transaction, where the transaction is measured at the
+present value of the future receipts discounted at a market rate of interest.
+
+Discounting is omitted where the effect of discounting is immaterial. The Company's cash and cash
+equivalents, trade and most other receivables due with the operating cycle fall into this category of
+financial instruments.
+
+Impairment of financial assets
+Financial assets are assessed for indicators of impairment at each reporting date.
+
+Financial assets are impaired when events, subsequent to their initial recognition, indicate the
+estimated future cash flows derived from the financial asset(s) have been adversely impacted. The
+impairment loss will be the difference between the current carrying amount and the present value of
+the future cash flows at the asset(s) original effective interest rate.
+
+If there is a favourable change in relation to the events surrounding the impairment loss then the
+impairment can be reviewed for possible reversal. The reversal will not cause the current carrying
+amount to exceed the original carrying amount had the impairment not been recognised. The
+impairment reversal is recognised in the profit or loss.
+
+Financial liabilities
+
+Financial liabilities and equity instruments are classified according to the substance of the contractual
+arrangements entered into. An equity instruments any contract that evidences a residual interest in
+the assets of the Company after the deduction of all its liabilities.
+
+Basic financial liabilities, which include trade and other payables. bank loans and other loans are
+initially measured at their transaction price after transaction costs. When this constitutes a financing
+transaction, whereby the debt instrument is measured at the present value of the future receipts
+discounted at a market rate of interest. Discounting is omitted where the effect of discounting is
+immaterial.
+
+Debt instruments are subsequently carried at their amortised cost using the effective interest rate
+method.
+
+Trade payables are obligations to pay for goods and services that have been acquired in the ordinary
+course of business from suppliers. Trade payables are classified as current liabilities if the payment is
+due within one year. If not, they represent non-current liabilities. Trade payables are initially
+recognised at their transaction price and subsequently are measured at amortised cost using the
+effective interest method. Discounting is omitted where the effect of discounting is immaterial.
+
+Page 6
+
+Docusign Envelope ID: 43AA73A8-C806-4F DE-989A-BDA8AEE86COC
+
+E-TRAINING LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+2. Accounting policies (continued)
+
+2.13 Financial instruments (continued)
+
+Derecognition of financial assets
+
+Financial assets are derecognised when their contractual right to future cash flow expire, or are
+settled, or when the Company transfers the asset and substantially all the risks and rewards of
+ownership to another party. If significant risks and rewards of ownership are retained after the
+transfer to another party, then the Company will continue to recognise the vaiue of the portion of the
+risks and rewards retained.
+
+Derecognition of financial liabilities
+
+Financial liabilities are derecognised when the Company's contractual obligations expire or are
+discharged or cancelled.
+
+3. Employees
+
+The average monthly number of employees, including directors, during the year was 19 (2022 - 13).
+
+4. Tangible fixed assets
+
+Plant and
+machinery
+£
+Cost or valuation
+At 1 January 2023 16,845
+Additions 8,681
+At 31 December 2023 25,526
+Depreciation
+At 1 January 2023 16,845
+Charge for the year 1,572
+At 31 December 2023 18,417
+Net book value
+At 31 December 2023 7,109
+
+At 31 December 2022 -
+
+Page 7
+
+Docusign Envelope ID: 43AA73A8-C806-4F DE-989A-BDA8AEE 86C0C
+
+E-TRAINING LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+5. Debtors
+
+Trade debtors
+
+Amounts owed by group undertakings
+
+Other debtors, prepayments and accrued income
+Deferred taxation
+
+Creditors: Amounts falling due within one year
+
+bad
+
+Trade creditors
+
+Amounts owed to group undertakings
+Other taxation and social security
+Other creditors and accruals
+
+™“
+
+Pension commitments
+
+2023
+£
+
+40,895
+14,439
+130,659
+19,305
+
+205,298
+
+2023
+
+£
+44,857
+140,199
+18,174
+16,334
+
+219,564
+
+2022
+£
+
+10,159
+16,367
+135,327
+
+161,853
+
+2022
+
+24,180
+10,318
+18,885
+25,465
+
+78,848
+
+The Company operates a defined contributions pension scheme. The assets of the scheme are held
+separately from those of the Company in an independently administered fund. The pension cost charge
+represents contributions payable by the Company to the fund and amounted to £25,183 (2022: fnil).
+Contributions totalling £1,564 (2022: Enil) were payable to the fund at the reporting date and are included
+
+in creditors.
+
+
+Docusign Envelope 1D: 43AA73A8-C806-4F DE-989A-BDA8AEE86C0C
+
+E-TRAINING LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+8. Related party transactions
+2023 2022
+£ £
+Amounts due to related parties
+Other related parties 140,199 10,318
+140,199 10,318
+The following amounts were outstanding at the reporting end date:
+2023 2022
+£ £
+Amounts due from related parties
+Entities with control, joint control or significant influence over the company 14,439 16,367
+14,439 16,367
+
+The company has taken advantage of the exemption in FRS 102 1A that transactions entered into
+between members of the group do not need to be disclosed as all relevant subsidiaries are wholly owned.
+
+bd
+
+Parent company
+
+The ultimate parent company is Twin Training International Limited, a company registered in England and
+
+Wales. The address of its registered office is 12 Lambarde Square London, SE10 9GB.
+
+The results of the company are consolidated in the accounts of Twin Training International Limited.
+Consolidated accounts of this company are available to the public and may be obtained from the
+registered office address. This is both the largest and smallest group of undertakings for which
+
+consolidated accounts are drawn up.
+

@@ -1,0 +1,692 @@
+Kentec Training Ltd
+Acorah Software Products - Accounts Production
+16.2.850
+false
+true
+31 December 2023
+1 January 2023
+false
+1 January 2024
+31 December 2024
+31 December 2024
+06691047
+Mr Steven Booker
+Mrs Kandy Booker
+Miss Jadie Booker
+Mr Antony Booker
+Mr Matthew Booker
+Mrs Kandy Booker
+iso4217:GBP
+iso4217:EUR
+iso4217:USD
+xbrli:shares
+xbrli:pure
+xbrli:pure
+06691047
+2023-12-31
+06691047
+2024-12-31
+06691047
+2024-01-01
+2024-12-31
+06691047
+frs-core:CurrentFinancialInstruments
+2024-12-31
+06691047
+frs-core:Non-currentFinancialInstruments
+2024-12-31
+06691047
+frs-core:BetweenOneFiveYears
+2024-12-31
+06691047
+frs-core:ComputerEquipment
+2024-12-31
+06691047
+frs-core:ComputerEquipment
+2024-01-01
+2024-12-31
+06691047
+frs-core:ComputerEquipment
+2023-12-31
+06691047
+frs-core:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2024-01-01
+2024-12-31
+06691047
+frs-core:FurnitureFittings
+2024-12-31
+06691047
+frs-core:FurnitureFittings
+2024-01-01
+2024-12-31
+06691047
+frs-core:FurnitureFittings
+2023-12-31
+06691047
+frs-core:LandBuildings
+frs-core:LeasedAssetsHeldAsLessee
+2024-12-31
+06691047
+frs-core:LandBuildings
+frs-core:LeasedAssetsHeldAsLessee
+2024-01-01
+2024-12-31
+06691047
+frs-core:LandBuildings
+frs-core:LeasedAssetsHeldAsLessee
+2023-12-31
+06691047
+frs-core:MotorVehicles
+2024-12-31
+06691047
+frs-core:MotorVehicles
+2024-01-01
+2024-12-31
+06691047
+frs-core:MotorVehicles
+2023-12-31
+06691047
+frs-core:OtherResidualIntangibleAssets
+2024-12-31
+06691047
+frs-core:OtherResidualIntangibleAssets
+2024-01-01
+2024-12-31
+06691047
+frs-core:OtherResidualIntangibleAssets
+2023-12-31
+06691047
+frs-core:PlantMachinery
+2024-12-31
+06691047
+frs-core:PlantMachinery
+2024-01-01
+2024-12-31
+06691047
+frs-core:PlantMachinery
+2023-12-31
+06691047
+frs-core:WithinOneYear
+2024-12-31
+06691047
+frs-core:ShareCapital
+2024-12-31
+06691047
+frs-core:RetainedEarningsAccumulatedLosses
+2024-12-31
+06691047
+frs-bus:PrivateLimitedCompanyLtd
+2024-01-01
+2024-12-31
+06691047
+frs-bus:FilletedAccounts
+2024-01-01
+2024-12-31
+06691047
+frs-bus:SmallEntities
+2024-01-01
+2024-12-31
+06691047
+frs-bus:AuditExempt-NoAccountantsReport
+2024-01-01
+2024-12-31
+06691047
+frs-bus:SmallCompaniesRegimeForAccounts
+2024-01-01
+2024-12-31
+06691047
+frs-bus:Director1
+2024-01-01
+2024-12-31
+06691047
+frs-bus:Director2
+2024-01-01
+2024-12-31
+06691047
+frs-bus:Director3
+2024-01-01
+2024-12-31
+06691047
+frs-bus:Director4
+2024-01-01
+2024-12-31
+06691047
+frs-bus:Director5
+2024-01-01
+2024-12-31
+06691047
+frs-bus:CompanySecretary1
+2024-01-01
+2024-12-31
+06691047
+frs-countries:EnglandWales
+2024-01-01
+2024-12-31
+06691047
+2022-12-31
+06691047
+2023-12-31
+06691047
+2023-01-01
+2023-12-31
+06691047
+frs-core:CurrentFinancialInstruments
+2023-12-31
+06691047
+frs-core:Non-currentFinancialInstruments
+2023-12-31
+06691047
+frs-core:BetweenOneFiveYears
+2023-12-31
+06691047
+frs-core:MotorVehicles
+2023-01-01
+2023-12-31
+06691047
+frs-core:PlantMachinery
+2023-01-01
+2023-12-31
+06691047
+frs-core:WithinOneYear
+2023-12-31
+06691047
+frs-core:ShareCapital
+2023-12-31
+06691047
+frs-core:RetainedEarningsAccumulatedLosses
+2023-12-31
+Registered number: 06691047
+Kentec Training Ltd
+Unaudited Financial Statements
+For The Year Ended 31 December 2024
+Kentec Training Ltd
+Contents
+Contents
+Page
+Balance Sheet
+1—2
+Notes to the Financial Statements
+3—8
+Page 1
+Kentec Training Ltd
+Balance Sheet
+As At
+31 December 2024
+Balance Sheet
+Registered number:
+06691047
+2024
+2023
+Notes
+£
+£
+£
+£
+FIXED ASSETS
+Intangible Assets
+4
+19,179
+3,030
+Tangible Assets
+5
+191,024
+214,222
+210,203
+217,252
+CURRENT ASSETS
+Stocks
+6
+9,773
+9,307
+Debtors
+7
+153,276
+120,947
+Cash at bank and in hand
+393,978
+310,972
+557,027
+441,226
+Creditors: Amounts Falling Due Within One Year
+8
+(
+339,201
+)
+(
+358,011
+)
+NET CURRENT ASSETS (LIABILITIES)
+217,826
+83,215
+TOTAL ASSETS LESS CURRENT LIABILITIES
+428,029
+300,467
+Creditors: Amounts Falling Due After More Than One Year
+9
+(
+40,254
+)
+(
+46,873
+)
+PROVISIONS FOR LIABILITIES
+Deferred Taxation
+(
+38,340
+)
+(
+21,861
+)
+NET ASSETS
+349,435
+231,733
+CAPITAL AND RESERVES
+Called up share capital
+11
+100
+100
+Profit and Loss Account
+349,335
+231,633
+SHAREHOLDERS' FUNDS
+349,435
+231,733
+Page 1
+Page 2
+Kentec Training Ltd
+Balance Sheet (continued)
+As At
+31 December 2024
+For the year ending 31 December 2024 the company was entitled to exemption from audit under section 477 of the Companies Act 2006 relating to small companies.
+The members have not required the company to obtain an audit in accordance with section 476 of the Companies Act 2006.
+The directors acknowledge their responsibilities for complying with the requirements of the Act with respect to accounting records and the preparation of accounts.
+These accounts have been prepared and delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+The company has taken advantage of section 444(1) of the Companies Act 2006 and opted not to deliver to the registrar a copy of the company's Profit and Loss Account.
+On behalf of the board
+Mr Steven Booker
+Director
+16th April 2025
+The notes on
+pages 3 to 8
+form part of these financial statements.
+Page 2
+Page 3
+Kentec Training Ltd
+Notes to the Financial Statements
+For The Year Ended 31 December 2024
+Notes to the Financial Statements
+1.
+General Information
+Kentec Training Ltd
+is a private company, limited by shares, incorporated in England & Wales, registered number
+06691047
+. The registered office is Unit 2 Riverdale Estate, Vale Road, Tonbridge, Kent, TN9 1SS.
+2.
+Accounting Policies
+2.1.
+Basis of Preparation of Financial Statements
+The financial statements have been prepared under the historical cost convention and in accordance with Financial Reporting Standard 102 section 1A Small Entities "The Financial Reporting Standard applicable in the UK and Republic of Ireland" and the Companies Act 2006.
+2.2.
+Turnover
+Turnover is measured at the fair value of the consideration received or receivable, net of discounts and value added taxes. Turnover includes revenue earned from the sale of goods and from the rendering of services. Turnover is reduced for estimated customer returns, rebates and other similar allowances.
+Sale of goods
+Turnover from the sale of goods is recognised when the significant risks and rewards of ownership of the goods has transferred to the buyer. This is usually at the point that the customer has signed for the delivery of the goods.
+Rendering of services
+Turnover from the rendering of services is recognised by reference to the stage of completion of the contract. The stage of completion of a contract is measured by comparing the costs incurred for work performed to date to the total estimated contract costs. Turnover is only recognised to the extent of recoverable expenses when the outcome of a contract cannot be estimated reliably.
+2.3.
+Intangible Fixed Assets and Amortisation - Other Intangible
+Other intangible assets are computer software. It is amortised to profit and loss account over its estimated economic life of 5 years.
+2.4.
+Tangible Fixed Assets and Depreciation
+Tangible fixed assets are measured at cost less accumulated depreciation and any accumulated impairment losses. Depreciation is provided at rates calculated to write off the cost of the fixed assets, less their estimated residual value, over their expected useful lives on the following bases:
+Leasehold
+6 years straight line
+Plant & Machinery
+25% reducing balance
+Motor Vehicles
+25% reducing balance
+Fixtures & Fittings
+25% reducing balance
+Computer Equipment
+25% reducing balance
+Page 3
+Page 4
+Kentec Training Ltd
+Notes to the Financial Statements (continued)
+For The Year Ended 31 December 2024
+2.5.
+Leasing and Hire Purchase Contracts
+Assets obtained under finance leases are capitalised as tangible fixed assets. Assets acquired under finance leases are depreciated over the shorter of the lease term and their useful lives. Assets acquired under hire purchase contracts are depreciated over their useful lives.
+Finance leases are those where substantially all of the benefits and risks of ownership are assumed by the company.
+Obligations under such agreements are included in the creditors net of the finance charge allocated to future periods. The finance element of the rental payment is charged to the profit and loss account so as to produce a constant periodic rate of charge on the net obligation outstanding in each period.
+Rentals applicable to operating leases where substantially all of the benefits and risks of ownership remain with the lessor are charged to profit and loss account as incurred.
+2.6.
+Stocks and Work in Progress
+Stocks and work in progress are valued at the lower of cost and net realisable value after making due allowance for obsolete and slow-moving stocks. Cost includes all direct costs and an appropriate proportion of fixed and variable overheads. Work-in-progress is reflected in the accounts on a contract by contract basis by recording turnover and related costs as contract activity progresses.
+2.7.
+Taxation
+Income tax expense represents the sum of the tax currently payable and deferred tax.
+The tax currently payable is based on taxable profit for the year. Taxable profit differs from profit as reported in the statement of comprehensive income because of items of income or expense that are taxable or deductible in other years and items that are never taxable or deductible. The company's liability for current tax is calculated using tax rates that have been enacted or substantively enacted by the end of the reporting period.
+Deferred tax is recognised on timing differences between the carrying amounts of assets and liabilities in the financial statements and the corresponding tax bases used in the computation of taxable profit. Deferred tax liabilities are generally recognised for all taxable timing differences. Deferred tax assets are generally recognised for all deductible temporary differences to the extent that it is probable that taxable profits will be available against which those deductible timing differences can be utilised. The carrying amount of deferred tax assets is reviewed at the end of each reporting period and reduced to the extent that it is no longer probable that sufficient taxable profits will be available to allow all or part of the asset to be recovered.
+Deferred tax assets and liabilities are measured at the tax rates that are expected to apply in the period in which the liability is settled or the asset realised, based on tax rates (and tax laws) that have been enacted or substantively enacted by the end of the reporting period. Deferred tax liabilities are presented within provisions for liabilities and deferred tax assets within debtors. The measurement of deferred tax liabilities and assets reflect the tax consequences that would follow from the manner in which the Company expects, at the end of the reporting period, to recover or settle the carrying amount of its assets and liabilities.
+Current and deferred tax are recognised in profit or loss for the year, except when they relate to items that are recognised in other comprehensive income or directly in equity, in which case current and deferred tax are recognised in other comprehensive income or directly in equity respectively.
+3.
+Average Number of Employees
+Average number of employees, including directors, during the year was:
+21 (2023: 19)
+21
+19
+Page 4
+Page 5
+Kentec Training Ltd
+Notes to the Financial Statements (continued)
+For The Year Ended 31 December 2024
+4.
+Intangible Assets
+Other
+£
+Cost
+As at 1 January 2024
+35,205
+Additions
+20,743
+Disposals
+(
+7,575
+)
+As at 31 December 2024
+48,373
+Amortisation
+As at 1 January 2024
+32,175
+Provided during the period
+1,564
+Disposals
+(
+4,545
+)
+As at 31 December 2024
+29,194
+Net Book Value
+As at 31 December 2024
+19,179
+As at 1 January 2024
+3,030
+5.
+Tangible Assets
+Land & Property
+Leasehold
+Plant & Machinery
+Motor Vehicles
+Fixtures & Fittings
+£
+£
+£
+£
+Cost
+As at 1 January 2024
+125,760
+105,107
+80,986
+25,325
+Additions
+2,900
+12,233
+-
+5,849
+Disposals
+-
+(
+480
+)
+-
+-
+As at 31 December 2024
+128,660
+116,860
+80,986
+31,174
+Depreciation
+As at 1 January 2024
+39,990
+72,293
+31,198
+15,467
+Provided during the period
+21,000
+8,804
+11,864
+3,030
+Disposals
+-
+(
+10
+)
+-
+-
+As at 31 December 2024
+60,990
+81,087
+43,062
+18,497
+Net Book Value
+As at 31 December 2024
+67,670
+35,773
+37,924
+12,677
+As at 1 January 2024
+85,770
+32,814
+49,788
+9,858
+Page 5
+Page 6
+Kentec Training Ltd
+Notes to the Financial Statements (continued)
+For The Year Ended 31 December 2024
+Computer Equipment
+Total
+£
+£
+Cost
+As at 1 January 2024
+108,120
+445,298
+Additions
+10,924
+31,906
+Disposals
+-
+(
+480
+)
+As at 31 December 2024
+119,044
+476,724
+Depreciation
+As at 1 January 2024
+72,128
+231,076
+Provided during the period
+9,936
+54,634
+Disposals
+-
+(
+10
+)
+As at 31 December 2024
+82,064
+285,700
+Net Book Value
+As at 31 December 2024
+36,980
+191,024
+As at 1 January 2024
+35,992
+214,222
+Included above are assets held under finance leases or hire purchase contracts with a net book value as follows:
+2024
+2023
+£
+£
+Plant & Machinery
+20,364
+15,663
+Motor Vehicles
+15,882
+21,176
+36,246
+36,839
+6.
+Stocks
+2024
+2023
+£
+£
+Merchandise
+9,773
+9,307
+7.
+Debtors
+2024
+2023
+£
+£
+Due within one year
+Trade debtors
+119,768
+94,781
+Amounts owed by group undertakings
+-
+106
+Other debtors
+33,508
+26,060
+153,276
+120,947
+Page 6
+Page 7
+Kentec Training Ltd
+Notes to the Financial Statements (continued)
+For The Year Ended 31 December 2024
+8.
+Creditors: Amounts Falling Due Within One Year
+2024
+2023
+£
+£
+Net obligations under finance lease and hire purchase contracts
+7,437
+9,489
+Trade creditors
+41,258
+96,317
+Bank loans and overdrafts
+5,556
+5,556
+Other creditors
+126,239
+119,430
+Taxation and social security
+158,711
+127,219
+339,201
+358,011
+9.
+Creditors: Amounts Falling Due After More Than One Year
+2024
+2023
+£
+£
+Net obligations under finance lease and hire purchase contracts
+14,418
+15,684
+Bank loans
+25,836
+31,189
+40,254
+46,873
+10.
+Obligations Under Finance Leases and Hire Purchase
+2024
+2023
+£
+£
+The future minimum finance lease payments are as follows:
+Not later than one year
+7,437
+9,489
+Later than one year and not later than five years
+14,418
+15,684
+21,855
+25,173
+21,855
+25,173
+11.
+Share Capital
+2024
+2023
+£
+£
+Allotted, Called up and fully paid
+100
+100
+2024
+2023
+No.
+£
+No.
+£
+Ordinary A of £1 each
+51
+51
+51
+51
+Ordinary B of £1 each
+19
+19
+19
+19
+Ordinary C of £1 each
+30
+30
+30
+30
+100
+100
+100
+100
+Page 7
+Page 8
+Kentec Training Ltd
+Notes to the Financial Statements (continued)
+For The Year Ended 31 December 2024
+12.
+Dividends
+2024
+2023
+£
+£
+On equity shares:
+Interim dividend paid
+68,000
+145,000
+2024
+2023
+£
+£
+Interim dividend of £680.00 (2023 - £1,450.00) per Ordinary A
+34,680
+73,950
+Interim dividend of £680.00 (2023 - £1,450.00) per Ordinary B
+12,920
+27,550
+Interim dividend of £680.00 (2023 - £1,450.00) per Ordinary C
+20,400
+43,500
+68,000
+145,000
+Page 8

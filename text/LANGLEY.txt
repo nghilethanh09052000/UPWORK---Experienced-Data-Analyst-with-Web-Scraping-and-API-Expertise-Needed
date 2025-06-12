@@ -1,0 +1,1570 @@
+Langley Waterproofing Systems Limited - Limited company accounts 23.2
+IRIS Accounts Production
+v24.2.0.383
+03727617
+Board of Directors
+1.1.23
+31.12.23
+31.12.23
+true
+false
+true
+true
+false
+false
+false
+true
+true
+true
+true
+false
+Ordinary
+1.00000
+iso4217:GBP
+iso4217:USD
+iso4217:EUR
+xbrli:shares
+xbrli:pure
+utr:tonnes
+utr:kWh
+03727617
+2022-12-31
+03727617
+2023-12-31
+03727617
+2023-01-01
+2023-12-31
+03727617
+2021-12-31
+03727617
+2022-01-01
+2022-12-31
+03727617
+2022-12-31
+03727617
+ns15:EnglandWales
+2023-01-01
+2023-12-31
+03727617
+ns14:PoundSterling
+2023-01-01
+2023-12-31
+03727617
+ns10:Director1
+2023-01-01
+2023-12-31
+03727617
+ns10:PrivateLimitedCompanyLtd
+2023-01-01
+2023-12-31
+03727617
+ns10:FRS102
+2023-01-01
+2023-12-31
+03727617
+ns10:Audited
+2023-01-01
+2023-12-31
+03727617
+ns10:LargeMedium-sizedCompaniesRegimeForDirectorsReport
+2023-01-01
+2023-12-31
+03727617
+ns10:LargeMedium-sizedCompaniesRegimeForAccounts
+2023-01-01
+2023-12-31
+03727617
+ns10:FullAccounts
+2023-01-01
+2023-12-31
+03727617
+1
+2023-01-01
+2023-12-31
+03727617
+ns10:OrdinaryShareClass1
+2023-01-01
+2023-12-31
+03727617
+ns10:Director2
+2023-01-01
+2023-12-31
+03727617
+ns10:Director4
+2023-01-01
+2023-12-31
+03727617
+ns10:CompanySecretary1
+2023-01-01
+2023-12-31
+03727617
+ns10:RegisteredOffice
+2023-01-01
+2023-12-31
+03727617
+ns10:Director3
+2023-01-01
+2023-12-31
+03727617
+ns5:CurrentFinancialInstruments
+2023-12-31
+03727617
+ns5:CurrentFinancialInstruments
+2022-12-31
+03727617
+ns5:ShareCapital
+2023-12-31
+03727617
+ns5:ShareCapital
+2022-12-31
+03727617
+ns5:RetainedEarningsAccumulatedLosses
+2023-12-31
+03727617
+ns5:RetainedEarningsAccumulatedLosses
+2022-12-31
+03727617
+ns5:ShareCapital
+2021-12-31
+03727617
+ns5:RetainedEarningsAccumulatedLosses
+2021-12-31
+03727617
+ns5:RetainedEarningsAccumulatedLosses
+2022-01-01
+2022-12-31
+03727617
+ns5:RetainedEarningsAccumulatedLosses
+2023-01-01
+2023-12-31
+03727617
+1
+2023-01-01
+2023-12-31
+03727617
+ns5:IntangibleAssetsOtherThanGoodwill
+2023-01-01
+2023-12-31
+03727617
+ns5:ComputerSoftware
+2023-01-01
+2023-12-31
+03727617
+ns5:FurnitureFittings
+2023-01-01
+2023-12-31
+03727617
+ns5:MotorVehicles
+2023-01-01
+2023-12-31
+03727617
+ns5:ComputerEquipment
+2023-01-01
+2023-12-31
+03727617
+ns5:ReportableOperatingSegment1
+2023-01-01
+2023-12-31
+03727617
+ns5:ReportableOperatingSegment1
+2022-01-01
+2022-12-31
+03727617
+ns5:ReportableOperatingSegment2
+2023-01-01
+2023-12-31
+03727617
+ns5:ReportableOperatingSegment2
+2022-01-01
+2022-12-31
+03727617
+ns5:TotalReportableOperatingSegmentsIncludingAnyUnallocatedAmount
+2023-01-01
+2023-12-31
+03727617
+ns5:TotalReportableOperatingSegmentsIncludingAnyUnallocatedAmount
+2022-01-01
+2022-12-31
+03727617
+ns10:HighestPaidDirector
+2023-01-01
+2023-12-31
+03727617
+ns10:HighestPaidDirector
+2022-01-01
+2022-12-31
+03727617
+ns5:PlantEquipmentOtherAssetsUnderOperatingLeases
+2023-01-01
+2023-12-31
+03727617
+ns5:PlantEquipmentOtherAssetsUnderOperatingLeases
+2022-01-01
+2022-12-31
+03727617
+ns5:OwnedAssets
+2023-01-01
+2023-12-31
+03727617
+ns5:OwnedAssets
+2022-01-01
+2022-12-31
+03727617
+1
+2023-01-01
+2023-12-31
+03727617
+1
+2022-01-01
+2022-12-31
+03727617
+ns10:OrdinaryShareClass1
+2022-01-01
+2022-12-31
+03727617
+ns5:ComputerSoftware
+2022-12-31
+03727617
+ns5:ComputerSoftware
+2023-12-31
+03727617
+ns5:ComputerSoftware
+2022-12-31
+03727617
+ns5:FurnitureFittings
+2022-12-31
+03727617
+ns5:MotorVehicles
+2022-12-31
+03727617
+ns5:ComputerEquipment
+2022-12-31
+03727617
+ns5:FurnitureFittings
+2023-12-31
+03727617
+ns5:MotorVehicles
+2023-12-31
+03727617
+ns5:ComputerEquipment
+2023-12-31
+03727617
+ns5:FurnitureFittings
+2022-12-31
+03727617
+ns5:MotorVehicles
+2022-12-31
+03727617
+ns5:ComputerEquipment
+2022-12-31
+03727617
+ns5:CurrentFinancialInstruments
+ns5:WithinOneYear
+2023-12-31
+03727617
+ns5:CurrentFinancialInstruments
+ns5:WithinOneYear
+2022-12-31
+03727617
+ns5:WithinOneYear
+2023-12-31
+03727617
+ns5:WithinOneYear
+2022-12-31
+03727617
+ns5:BetweenOneFiveYears
+2023-12-31
+03727617
+ns5:BetweenOneFiveYears
+2022-12-31
+03727617
+ns5:AllPeriods
+2023-12-31
+03727617
+ns5:AllPeriods
+2022-12-31
+03727617
+ns5:Secured
+2023-12-31
+03727617
+ns5:Secured
+2022-12-31
+03727617
+ns5:DeferredTaxation
+2022-12-31
+03727617
+ns5:DeferredTaxation
+2023-01-01
+2023-12-31
+03727617
+ns5:DeferredTaxation
+2023-12-31
+03727617
+ns10:OrdinaryShareClass1
+2023-12-31
+03727617
+ns5:RetainedEarningsAccumulatedLosses
+2022-12-31
+REGISTERED NUMBER:
+03727617
+(England and Wales)
+STRATEGIC REPORT, REPORT OF THE DIRECTORS AND
+FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2023
+FOR
+LANGLEY WATERPROOFING SYSTEMS LIMITED
+LANGLEY WATERPROOFING SYSTEMS LIMITED (REGISTERED NUMBER: 03727617)
+CONTENTS OF THE FINANCIAL STATEMENTS
+For The Year Ended 31 December 2023
+Page
+Company Information
+1
+Strategic Report
+2
+Report of the Directors
+5
+Report of the Independent Auditors
+7
+Income Statement
+10
+Other Comprehensive Income
+11
+Balance Sheet
+12
+Statement of Changes in Equity
+13
+Notes to the Financial Statements
+14
+LANGLEY WATERPROOFING SYSTEMS LIMITED
+COMPANY INFORMATION
+For The Year Ended 31 December 2023
+DIRECTORS:
+R N Williams
+A Silvestri
+D W Wincott
+SECRETARY:
+Hp Secretarial Services Limited
+REGISTERED OFFICE:
+Langley House Lamport Drive
+Heartlands Business Park
+Daventry
+Northamptonshire
+NN11 8YH
+REGISTERED NUMBER:
+03727617
+(England and Wales)
+AUDITORS:
+TC Group
+1 Rushmills
+Bedford Road
+Northampton
+Northamptonshire
+NN4 7YB
+Page 1
+LANGLEY WATERPROOFING SYSTEMS LIMITED (REGISTERED NUMBER: 03727617)
+STRATEGIC REPORT
+For The Year Ended 31 December 2023
+The directors present their strategic report for the year ended 31 December 2023.
+REVIEW OF BUSINESS
+Langley Waterproofing Systems Limited is a subsidiary of Langley UK Limited. The company continued its principal
+activity throughout the year, engaged in the design, supply, and installation of specialist flat roofing systems, for
+the building and construction sector throughout the UK.
+Throughout 2023 the Langley Board concentrated on consolidating its operating activities and agreed to
+implement a succession plan that would see Antonio Silvestri, current CEO of Langley UK Ltd, handing over
+responsibility for Langley UK's activities to Dean Wincott from January 2024. Antonio Silvestri and Roger Williams,
+current Langley UK Finance Director, are to leave the Langley UK Board and focus their efforts on expanding the
+trading activities of the parent company Cavello Group.
+PRINCIPAL RISKS AND UNCERTAINTIES
+Risk assessment is an ongoing process reviewed quarterly at Group Board Meetings. Principal risks of the business
+have been identified and recorded in a Risk Register which enables the directors to assess the adequacy and
+effectiveness of the measures for controlling the risk.
+The key risks are:
+COVID-19
+Throughout 2023 the threat of COVID-19 has greatly diminished and there has been little to no impact on the
+operational performance of the business. That said, Directors are constantly aware of the potential impact that
+any new variant or strain could have on business activity within the UK and internationally and have developed
+contingency measures to protect staff and the business should the risk materialise.
+The Russia Ukraine War
+As a direct consequence of the conflict between Russia and Ukraine in Eastern Europe the business initially
+experienced supply chain shocks resulting in raw material price increases and finished product availability due
+to supply side constraints in its flat roofing business. However, throughout the trading year 2023 the business
+returned to normal trading conditions and has developed internal systems and procedures to mitigate any
+potential supply side effects in future. The Board will continue to monitor and regularly evaluate the political and
+environmental impacts of the ongoing war.
+Building Safety Bill
+The Bill sets out a new regulatory regime aimed at ensuring the safety of residents in residential buildings. As new
+legislation comes into force Directors are confident that the company's reputation for quality and compliance
+will help to differentiate its products and services further and generate more opportunity. Throughout its year of
+consolidation, the business has been proactive in reassuring its customers of its focus on system accreditation as
+well as the ongoing training and monitoring in support of its approved contractor network.
+Page 2
+LANGLEY WATERPROOFING SYSTEMS LIMITED (REGISTERED NUMBER: 03727617)
+STRATEGIC REPORT
+For The Year Ended 31 December 2023
+Health & Safety Risks
+The company has a strong record of health & safety performance, and this is scrutinised at each Group and
+Operational Board meeting. Employee feedback and participation is actively encouraged at bi-monthly health
+and safety committee meetings. Training above the legal requirements is carried out, and independent internal
+audits of external sites are conducted monthly.
+Exchange Risks
+The company is exposed to currency movements on Euro purchases from Europe. The company uses forward
+currency contracts to mitigate against foreign exchange fluctuations.
+Credit Risk
+In view of the current economic environment the risk of bad debt receives strong focus. Reviewed and reported
+to Group and Operational Board this is an area where focus by our credit controllers ensures we remain close to
+our customers and can identify at an early stage, any warning signs.
+Liquidity Risk
+The company continues to have sufficient cash for its day-to-day business needs as well as continuing with its
+long-term business strategy and investments.
+Sustainability and Environmental Impact
+Directors recognise the increasing moral focus on sustainability socially, politically, and economically and the
+collective importance of counteracting the damaging effects of climate change. The company is making
+considerable investment to improve its environmental credentials and is committed to leveraging its Green
+Infrastructure expertise and technologies to play its part in tackling this global threat. Directors welcome the
+introduction of new legislation and directives designed to improve environmental living standards in the sectors
+the company serves.
+In 2022 the company started its fleet conversion from petrol and diesel vehicles to hybrids and EV's. It has
+installed 10 electric charging points at Head Office with a further 8 charging points that are planned to be
+installed in 2024 and 2025 as well as introducing a salary sacrifice scheme to incentivise employees to adopt
+EV's. The conversion to EV's will continue and at the end of 2023 the company had 22 electric vehicles in the
+fleet.
+Throughout the 2023 year, the EV conversion policy has delivered the following CO2 carbon emissions
+reductions; for unleaded petrol vehicles the savings have been 1.928 tonnes of CO2 and for diesel vehicles 3.68
+tonnes of CO2. A total of 5.60 tonnes saved.
+Two 17.43 KWH rooftop PV systems were also installed on the premises of the company's two head office blocks
+in Daventry back in 2021. Over a two-year period, 2022 to 2023, the system has generated savings of 10.537
+tonnes of CO2 emissions, equivalent to planting 637 trees.
+In addition to driving Sustainability the company is committed to creating greater Social Value managed
+through its new Social Enterprise - Langley Training Services which has traded as a new entity throughout 2023. Its
+focus, as a Registered ESFA Training Provider, is to support apprentices, upskill existing employees and promote
+the design and installation of sustainable roof systems. It will also support tier one contractors and clients with
+greater community engagement and interaction.
+FINANCIAL KEY PERFORMANCE INDICATORS
+Management use a range of performance measures to monitor and manage the business. The key financial
+performance indicators are revenue, gross & net margins, and total net worth of the business.
+KPI's
+2023
+2022
+Turnover
+£33,210,667
+£34,412,672
+Gross profit %
+45.01%
+44.90%
+Operating profit %
+7.94%
+10.36%
+Net assets
+£7,487,002
+£6,529,561
+This report was approved by the board and signed on its behalf.
+Page 3
+LANGLEY WATERPROOFING SYSTEMS LIMITED (REGISTERED NUMBER: 03727617)
+STRATEGIC REPORT
+For The Year Ended 31 December 2023
+EMPLOYEES
+Throughout 2023 the company continued with its growth plan and increased employee numbers by 4. More
+employees are expected next year in line with the company's growth plans.
+ON BEHALF OF THE BOARD:
+R N Williams
+- Director
+14 November 2024
+Page 4
+LANGLEY WATERPROOFING SYSTEMS LIMITED (REGISTERED NUMBER: 03727617)
+REPORT OF THE DIRECTORS
+For The Year Ended 31 December 2023
+The directors present their report with the financial statements of the company for the year ended 31 December 2023.
+PRINCIPAL ACTIVITY
+The principal activity of the company in the year under review was the design, supply and marketing of
+specialist roofing products, materials, solutions and services for the building and construction sector throughout
+the UK.
+DIVIDENDS
+Total dividends paid in the year were £829,000 (2022: £500,000).
+FUTURE DEVELOPMENTS
+The directors are committed to long-term creation of shareholder value. Successful implementation of a growth
+strategy is resulting in good forecasts for 2024 in a highly competitive sector. Current performance levels and
+forecasts indicate the Company is on track to achieve expectations for the year. In addition, a long-term
+strategic plan has been developed with particular attention being paid to the growth of existing businesses, the
+continual development of new products and identification of synergetic acquisition targets.
+DIRECTORS
+The directors shown below have held office during the whole of the period from 1 January 2023 to the date of
+this report.
+R N Williams
+A Silvestri
+D W Wincott
+Other changes in directors holding office are as follows:
+T A Kerr
+- resigned 31 August 2023
+FINANCIAL INSTRUMENTS
+The company utilises various financial instruments including loans, cash, and various items such as trade debtors
+and trade creditors that arise directly from its operations. The main purpose of these is to raise finance for the
+company's operations. The existence of these financial instruments exposes the company to a number of
+financial risks, which are described in more detail in the Strategic Report.
+STATEMENT OF DIRECTORS' RESPONSIBILITIES
+The directors are responsible for preparing the Strategic Report, the Report of the Directors and the financial
+statements in accordance with applicable law and regulations.
+Company law requires the directors to prepare financial statements for each financial year.
+Under that law the
+directors have elected to prepare the financial statements in accordance with United Kingdom Generally
+Accepted Accounting Practice (United Kingdom Accounting Standards and applicable law). Under company
+law the directors must not approve the financial statements unless they are satisfied that they give a true and fair
+view of the state of affairs of the company and of the profit or loss of the company for that period.
+In preparing
+these financial statements, the directors are required to:
+-
+select suitable accounting policies and then apply them consistently;
+-
+make judgements and accounting estimates that are reasonable and prudent;
+-
+prepare the financial statements on the going concern basis unless it is inappropriate to presume that the
+company will continue in business.
+The directors are responsible for keeping adequate accounting records that are sufficient to show and explain
+the company's transactions and disclose with reasonable accuracy at any time the financial position of the
+company and enable them to ensure that the financial statements comply with the Companies Act 2006. They
+are also responsible for safeguarding the assets of the company and hence for taking reasonable steps for the
+prevention and detection of fraud and other irregularities.
+Page 5
+LANGLEY WATERPROOFING SYSTEMS LIMITED (REGISTERED NUMBER: 03727617)
+REPORT OF THE DIRECTORS
+For The Year Ended 31 December 2023
+STATEMENT AS TO DISCLOSURE OF INFORMATION TO AUDITORS
+So far as the directors are aware, there is no relevant audit information (as defined by Section 418 of the
+Companies Act 2006) of which the company's auditors are unaware, and each director has taken all the steps
+that he ought to have taken as a director in order to make himself aware of any relevant audit information and
+to establish that the company's auditors are aware of that information.
+AUDITORS
+The auditors,
+TC Group, will be proposed for re-appointment at the forthcoming Annual General Meeting.
+ON BEHALF OF THE BOARD:
+R N Williams
+- Director
+14 November 2024
+Page 6
+REPORT OF THE INDEPENDENT AUDITORS TO THE MEMBERS OF
+LANGLEY WATERPROOFING SYSTEMS LIMITED
+Opinion
+We have audited the financial statements of Langley Waterproofing Systems Limited (the 'company') for the year
+ended 31 December 2023 which comprise the Income Statement, Other Comprehensive Income, Balance
+Sheet, Statement of Changes in Equity and Notes to the Financial Statements, including a summary of significant
+accounting policies. The financial reporting framework that has been applied in their preparation is applicable
+law and United Kingdom Accounting Standards, including Financial Reporting Standard 102 'The Financial
+Reporting Standard applicable in the UK and Republic of Ireland' (United Kingdom Generally Accepted
+Accounting Practice).
+In our opinion the financial statements:
+-
+give a true and fair view of the state of the company's affairs as at 31 December 2023 and of its profit for the
+year then ended;
+-
+have been properly prepared in accordance with United Kingdom Generally Accepted Accounting
+Practice; and
+-
+have been prepared in accordance with the requirements of the Companies Act 2006.
+Basis for opinion
+We conducted our audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and applicable
+law. Our responsibilities under those standards are further described in the Auditors' responsibilities for the audit of
+the financial statements section of our report.
+We are independent of the company in accordance with the
+ethical requirements that are relevant to our audit of the financial statements in the UK, including the FRC's
+Ethical Standard, and we have fulfilled our other ethical responsibilities in accordance with these requirements.
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our
+opinion.
+Conclusions relating to going concern
+In auditing the financial statements, we have concluded that the directors' use of the going concern basis of
+accounting in the preparation of the financial statements is appropriate.
+Based on the work we have performed, we have not identified any material uncertainties relating to events or
+conditions that, individually or collectively, may cast significant doubt on the company's ability to continue as a
+going concern for a period of at least twelve months from when the financial statements are authorised for issue.
+Our responsibilities and the responsibilities of the directors with respect to going concern are described in the
+relevant sections of this report.
+Other information
+The directors are responsible for the other information. The other information comprises the information in the
+Strategic Report and the Report of the Directors, but does not include the financial statements and our Report of
+the Auditors thereon.
+Our opinion on the financial statements does not cover the other information and, except to the extent
+otherwise explicitly stated in our report, we do not express any form of assurance conclusion thereon.
+In connection with our audit of the financial statements, our responsibility is to read the other information and, in
+doing so, consider whether the other information is materially inconsistent with the financial statements or our
+knowledge obtained in the audit or otherwise appears to be materially misstated. If we identify such material
+inconsistencies or apparent material misstatements, we are required to determine whether this gives rise to a
+material misstatement in the financial statements themselves. If, based on the work we have performed, we
+conclude that there is a material misstatement of this other information, we are required to report that fact.
+We
+have nothing to report in this regard.
+Opinions on other matters prescribed by the Companies Act 2006
+In our opinion, based on the work undertaken in the course of the audit:
+-
+the information given in the Strategic Report and the Report of the Directors for the financial year for which
+the financial statements are prepared is consistent with the financial statements; and
+-
+the Strategic Report and the Report of the Directors have been prepared in accordance with applicable
+legal requirements.
+Page 7
+REPORT OF THE INDEPENDENT AUDITORS TO THE MEMBERS OF
+LANGLEY WATERPROOFING SYSTEMS LIMITED
+Matters on which we are required to report by exception
+In the light of the knowledge and understanding of the company and its environment obtained in the course of
+the audit, we have not identified material misstatements in the Strategic Report or the Report of the Directors.
+We have nothing to report in respect of the following matters where the Companies Act 2006 requires us to
+report to you if, in our opinion:
+-
+adequate accounting records have not been kept, or returns adequate for our audit have not been
+received from branches not visited by us; or
+-
+the financial statements are not in agreement with the accounting records and returns; or
+-
+certain disclosures of directors' remuneration specified by law are not made; or
+-
+we have not received all the information and explanations we require for our audit.
+Responsibilities of directors
+As explained more fully in the Statement of Directors' Responsibilities set out on page five, the directors are
+responsible for the preparation of the financial statements and for being satisfied that they give a true and fair
+view, and for such internal control as the directors determine necessary to enable the preparation of financial
+statements that are free from material misstatement, whether due to fraud or error.
+In preparing the financial statements, the directors are responsible for assessing the company's ability to continue
+as a going concern, disclosing, as applicable, matters related to going concern and using the going concern
+basis of accounting unless the directors either intend to liquidate the company or to cease operations, or have
+no realistic alternative but to do so.
+Auditors' responsibilities for the audit of the financial statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free
+from material misstatement, whether due to fraud or error, and to issue a Report of the Auditors that includes our
+opinion.
+Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in
+accordance with ISAs (UK) will always detect a material misstatement when it exists. Misstatements can arise from
+fraud or error and are considered material if, individually or in the aggregate, they could reasonably be
+expected to influence the economic decisions of users taken on the basis of these financial statements.
+The extent to which our procedures are capable of detecting irregularities, including fraud is detailed below:
+We obtained an understanding of the legal and regulatory frameworks that are applicable to the company and
+determined that the most significant frameworks which are directly relevant to specific assertions in the financial
+statements are those that relate to the reporting framework (UK GAAP and the Companies Act 2006) and the
+relevant tax compliance regulations in the UK.
+We understood how the company is complying with those frameworks by making enquiries of management and
+those responsible for legal and compliance procedures. We corroborated our enquiries through review of board
+minutes and discussions with those charged with governance.
+We assess the susceptibility of the company’s financial statements to material misstatement, including how fraud
+might occur, by discussion with management from various parts of the business to understand where they
+considered there was a susceptibility to fraud. We considered the procedures and controls that the company
+has established to prevent and detect fraud, and how these are monitored by management, and also any
+enhanced risk factors such as performance targets.
+Based on our understanding, we designed our audit procedures to identify any non-compliance with laws and
+regulations identified in the paragraphs above.
+We also performed audit work over the risk of management override of controls, including testing of journal
+entries and other adjustments for appropriateness, evaluating the business rationale of significant transactions
+outside the normal course of business and reviewing accounting estimates for bias.
+A further description of our responsibilities for the audit of the financial statements is located on the Financial
+Reporting Council's website at www.frc.org.uk/auditorsresponsibilities. This description forms part of our Report of
+the Auditors.
+Page 8
+REPORT OF THE INDEPENDENT AUDITORS TO THE MEMBERS OF
+LANGLEY WATERPROOFING SYSTEMS LIMITED
+Use of our report
+This report is made solely to the company's members, as a body, in accordance with Chapter 3 of Part 16 of the
+Companies Act 2006. Our audit work has been undertaken so that we might state to the company's members
+those matters we are required to state to them in a Report of the Auditors and for no other purpose. To the fullest
+extent permitted by law, we do not accept or assume responsibility to anyone other than the company and the
+company's members as a body, for our audit work, for this report, or for the opinions we have formed.
+Dilun Mistry FCA
+(Senior Statutory Auditor)
+for and on behalf of
+TC Group
+1 Rushmills
+Bedford Road
+Northampton
+Northamptonshire
+NN4 7YB
+19 November 2024
+Page 9
+LANGLEY WATERPROOFING SYSTEMS LIMITED (REGISTERED NUMBER: 03727617)
+INCOME STATEMENT
+For The Year Ended 31 December 2023
+2023
+2022
+Notes
+£
+£
+£
+£
+TURNOVER
+3
+33,210,667
+34,412,673
+Cost of sales
+18,263,724
+18,959,668
+GROSS PROFIT
+14,946,943
+15,453,005
+Distribution costs
+1,575,125
+1,783,329
+Administrative expenses
+10,915,294
+10,133,220
+12,490,419
+11,916,549
+2,456,524
+3,536,456
+Other operating income
+178,847
+28,854
+OPERATING PROFIT
+5
+2,635,371
+3,565,310
+Group loan write off
+6
+320,000
+965,995
+2,315,371
+2,599,315
+Interest payable and similar expenses
+7
+20,050
+35,151
+PROFIT BEFORE TAXATION
+2,295,321
+2,564,164
+Tax on profit
+8
+508,880
+286,739
+PROFIT FOR THE FINANCIAL YEAR
+1,786,441
+2,277,425
+The notes form part of these financial statements
+Page 10
+LANGLEY WATERPROOFING SYSTEMS LIMITED (REGISTERED NUMBER: 03727617)
+OTHER COMPREHENSIVE INCOME
+For The Year Ended 31 December 2023
+2023
+2022
+Notes
+£
+£
+PROFIT FOR THE YEAR
+1,786,441
+2,277,425
+OTHER COMPREHENSIVE INCOME
+-
+-
+TOTAL COMPREHENSIVE INCOME FOR THE
+YEAR
+1,786,441
+2,277,425
+The notes form part of these financial statements
+Page 11
+LANGLEY WATERPROOFING SYSTEMS LIMITED (REGISTERED NUMBER: 03727617)
+BALANCE SHEET
+31 December 2023
+2023
+2022
+Notes
+£
+£
+£
+£
+FIXED ASSETS
+Intangible assets
+10
+-
+-
+Tangible assets
+11
+110,892
+100,005
+110,892
+100,005
+CURRENT ASSETS
+Stocks
+12
+2,106,000
+3,924,758
+Debtors
+13
+7,916,947
+5,830,019
+Cash at bank
+2,347,516
+2,687,868
+12,370,463
+12,442,645
+CREDITORS
+Amounts falling due within one year
+14
+4,975,738
+5,988,089
+NET CURRENT ASSETS
+7,394,725
+6,454,556
+TOTAL ASSETS LESS CURRENT LIABILITIES
+7,505,617
+6,554,561
+PROVISIONS FOR LIABILITIES
+18
+18,615
+25,000
+NET ASSETS
+7,487,002
+6,529,561
+CAPITAL AND RESERVES
+Called up share capital
+19
+1,000
+1,000
+Retained earnings
+20
+7,486,002
+6,528,561
+SHAREHOLDERS' FUNDS
+7,487,002
+6,529,561
+The financial statements were approved by the Board of Directors and authorised for issue on
+14 November 2024
+and were signed on its behalf by:
+R N Williams
+- Director
+The notes form part of these financial statements
+Page 12
+LANGLEY WATERPROOFING SYSTEMS LIMITED (REGISTERED NUMBER: 03727617)
+STATEMENT OF CHANGES IN EQUITY
+For The Year Ended 31 December 2023
+Called up
+share
+Retained
+Total
+capital
+earnings
+equity
+£
+£
+£
+Balance at 1 January 2022
+1,000
+4,751,136
+4,752,136
+Changes in equity
+Dividends
+-
+(
+500,000
+)
+(
+500,000
+)
+Total comprehensive income
+-
+2,277,425
+2,277,425
+Balance at 31 December 2022
+1,000
+6,528,561
+6,529,561
+Changes in equity
+Dividends
+-
+(
+829,000
+)
+(
+829,000
+)
+Total comprehensive income
+-
+1,786,441
+1,786,441
+Balance at 31 December 2023
+1,000
+7,486,002
+7,487,002
+The notes form part of these financial statements
+Page 13
+LANGLEY WATERPROOFING SYSTEMS LIMITED (REGISTERED NUMBER: 03727617)
+NOTES TO THE FINANCIAL STATEMENTS
+For The Year Ended 31 December 2023
+1.
+STATUTORY INFORMATION
+Langley Waterproofing Systems Limited is a
+private company, limited by shares
+, registered in England and
+Wales. The company's registered number and registered office address can be found on the Company
+Information page.
+2.
+ACCOUNTING POLICIES
+Basis of preparing the financial statements
+These financial statements have been prepared in accordance with Financial Reporting Standard 102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland" and the Companies Act 2006. The financial statements have been prepared under the historical cost convention.
+As at the point of authorising the accounts, and for the foreseeable future, the directors consider the
+going concern assumption to still be appropriate. The directors acknowledge that given the currently
+rapidly changing business and social environment, there are likely to be significant unknown factors
+which may present themselves. Such factors are considered by the directors to represent a general
+inherent level of risk in relation to the going concern assumption albeit not quantifiable at this time
+Financial Reporting Standard 102 - reduced disclosure exemptions
+The company has taken advantage of the following disclosure exemptions in preparing these financial
+statements, as permitted by FRS 102 "The Financial Reporting Standard applicable in the UK and Republic
+of Ireland":
+•
+the requirements of Section 7 Statement of Cash Flows;
+•
+the requirement of paragraph 3.17(d);
+•
+the requirements of paragraphs 11.42, 11.44, 11.45, 11.47, 11.48(a)(iii), 11.48(a)(iv), 11.48(b) and
+11.48(c);
+•
+the requirements of paragraphs 12.26, 12.27, 12.29(a), 12.29(b) and 12.29A;
+•
+the requirement of paragraph 33.7.
+Critical accounting judgements and key sources of estimation uncertainty
+In the application of the Company's accounting policies, management is required to make judgements,
+estimates and assumptions about the carrying value of assets and liabilities that are not readily apparent
+from other sources. The estimates and underlying assumptions are based on historical experience and
+other factors that are considered to be relevant. Actual results may differ from these estimates.
+The estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to accounting
+estimates are recognised in the period in which the estimate is revised if the revision affects only that
+period, or in the period of the revision and future periods if the revision affects both current and future
+periods.
+The key source of estimation uncertainty that has a significant effect on the amounts recognised in the
+financial statements is the valuation of stock. Provision should be made when the cost is greater than the
+estimated selling price. Management are involved in making these decisions on a line by line basis.
+Page 14
+continued...
+LANGLEY WATERPROOFING SYSTEMS LIMITED (REGISTERED NUMBER: 03727617)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+For The Year Ended 31 December 2023
+2.
+ACCOUNTING POLICIES - continued
+Turnover
+Revenue is recognised to the extent that it is probable that the economic benefits will flow to the
+Company and the revenue can be reliably measured. Revenue is measured as the fair value of the
+consideration received or receivable, excluding discounts, rebates, value added tax and other sales
+taxes. The following criteria must also be met before revenue is recognised:
+Revenue from the sales of goods is recognised when all of the following conditions are satisfied:
+- the Company has transferred the significant risks and rewards of ownership to the buyer
+- the Company retains neither continuing managerial involvement to the degree usually associated with
+ownership nor effective control over the goods sold
+- the amount of revenue can be reliably measured
+- it is probable that the Company will receive the consideration due under the transaction
+- the costs incurred or to be incurred in respect of the transaction can be measured reliably
+Revenue from a contract to provide services is recognised in the period in which the services are
+provided in accordance with the stage of completion of the contract when all of the following
+conditions are satisfied:
+- the amount of revenue can be measured reliably
+- it is probable that the Company will receive the consideration due under the contract
+- the stage of completion of the contract at the end of the reporting period can be measured reliably
+- the costs incurred and the costs to complete the contact can be measured reliably
+Intangible assets
+Intangible assets are initially measured at cost. After initial recognition, intangible assets are measured at
+cost less any accumulated amortisation and any accumulated impairment losses.
+Computer software is being amortised evenly over its estimated useful life of three years.
+Tangible fixed assets
+Depreciation is provided at the following annual rates in order to write off each asset over its estimated useful life.
+Fixtures and fittings
+-
+25% on cost
+Motor vehicles
+-
+25% on cost
+Computer equipment
+-
+33% on cost
+Stocks
+Stocks are valued at the lower of cost and estimated selling price, after making due allowance for
+obsolete and slow moving items.
+Page 15
+continued...
+LANGLEY WATERPROOFING SYSTEMS LIMITED (REGISTERED NUMBER: 03727617)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+For The Year Ended 31 December 2023
+2.
+ACCOUNTING POLICIES - continued
+Financial instruments
+Basic financial assets, including trade and other receivables and cash and bank balances, are initially
+recognised at transaction price, unless the arrangement constitutes a financing transaction, where the
+transaction is measured at the present value of the future receipts discounted at a market rate of interest.
+Such assets are subsequently carried at amortised cost using the effective interest method.
+At the end of each reporting period financial assets measured at amortised cost are assessed for
+objective evidence of impairment. If an asset is impaired the impairment loss is the difference between
+the carrying amount and the present value of the estimated cash flows discounted at the asset’s original
+effective interest rate. The impairment loss is recognised in profit or loss.
+Financial assets are derecognised when (a) the contractual rights to the cash flows from the asset expire
+or are settled, or (b) substantially all the risks and rewards of the ownership of the asset are transferred to
+another party or (c) despite having retained some significant risks and rewards of ownership, control of
+the asset has been transferred to another party who has the practical ability to unilaterally sell the asset to
+an unrelated third party without imposing additional restrictions.
+Basic financial liabilities, including trade and other payables, and loans from fellow Group companies,
+are initially recognised at transaction price, unless the arrangement constitutes a financing transaction,
+where the debt instrument is measured at the present value of the future receipts discounted at a market
+rate of interest. Debt instruments are subsequently carried at amortised cost, using the effective interest
+rate method.
+Trade payables are obligations to pay for goods or services that have been acquired in the ordinary
+course of business from suppliers. Accounts payable are classified as current liabilities if payment is due
+within one year or less. If not, they are presented as non-current liabilities. Trade payables are recognised
+initially at transaction price and subsequently measured at amortised cost using the effective interest
+method.
+Financial liabilities are derecognised when the liability is extinguished, that is when the contractual
+obligation is discharged, cancelled or expires.
+Financial assets and liabilities are offset and the net amounts presented in the financial statements when
+there is a legally enforceable right to set off the recognised amounts and there is an intention to settle on
+a net basis or to realise the asset and settle the liability simultaneously.
+Taxation
+Taxation for the year comprises current and deferred tax. Tax is recognised in the Income Statement,
+except to the extent that it relates to items recognised in other comprehensive income or directly in
+equity.
+Current or deferred taxation assets and liabilities are not discounted.
+Current tax is recognised at the amount of tax payable using the tax rates and laws that have been
+enacted or substantively enacted by the balance sheet date.
+Deferred tax
+Deferred tax is recognised in respect of all timing differences that have originated but not reversed at the
+balance sheet date.
+Timing differences arise from the inclusion of income and expenses in tax assessments in periods different
+from those in which they are recognised in financial statements. Deferred tax is measured using tax rates
+and laws that have been enacted or substantively enacted by the year end and that are expected to
+apply to the reversal of the timing difference.
+Unrelieved tax losses and other deferred tax assets are recognised only to the extent that it is probable
+that they will be recovered against the reversal of deferred tax liabilities or other future taxable profits.
+Page 16
+continued...
+LANGLEY WATERPROOFING SYSTEMS LIMITED (REGISTERED NUMBER: 03727617)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+For The Year Ended 31 December 2023
+2.
+ACCOUNTING POLICIES - continued
+Foreign currencies
+Assets and liabilities in foreign currencies are translated into sterling at the rates of exchange ruling at the
+balance sheet date.
+Transactions in foreign currencies are translated into sterling at the rate of exchange
+ruling at the date of transaction. Exchange differences are taken into account in arriving at the operating
+result.
+Hire purchase and leasing commitments
+Rentals paid under operating leases are charged to profit or loss on a straight line basis over the period of
+the lease.
+Pension costs and other post-retirement benefits
+The company operates a defined contribution pension scheme.
+Contributions payable to the company's
+pension scheme are charged to profit or loss in the period to which they relate.
+3.
+TURNOVER
+The turnover and profit before taxation are attributable to the one principal activity of the company.
+An analysis of turnover by class of business is given below:
+2023
+2022
+£
+£
+Roofing system income
+33,041,596
+34,220,143
+Training income
+169,071
+192,530
+33,210,667
+34,412,673
+4.
+EMPLOYEES AND DIRECTORS
+2023
+2022
+£
+£
+Wages and salaries
+4,690,223
+4,227,324
+Social security costs
+599,722
+552,562
+Other pension costs
+227,423
+347,293
+5,517,368
+5,127,179
+The average number of employees during the year was as follows:
+2023
+2022
+Directors
+4
+4
+Management
+9
+9
+Administration
+57
+53
+70
+66
+2023
+2022
+£
+£
+Directors' remuneration
+515,924
+611,114
+Directors' pension contributions to money purchase schemes
+16,320
+110,031
+The number of directors to whom retirement benefits were accruing was as follows:
+Money purchase schemes
+2
+2
+Page 17
+continued...
+LANGLEY WATERPROOFING SYSTEMS LIMITED (REGISTERED NUMBER: 03727617)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+For The Year Ended 31 December 2023
+4.
+EMPLOYEES AND DIRECTORS - continued
+Information regarding the highest paid director is as follows:
+2023
+2022
+£
+£
+Emoluments etc
+351,634
+413,618
+Pension contributions to money purchase schemes
+12,458
+14,251
+5.
+OPERATING PROFIT
+The operating profit is stated after charging/(crediting):
+2023
+2022
+£
+£
+Hire of plant and machinery
+5,386
+11,978
+Other operating leases
+66,000
+60,000
+Depreciation - owned assets
+57,997
+60,590
+Profit on disposal of fixed assets
+(
+1,862
+)
+-
+Auditors' remuneration
+16,500
+9,900
+6.
+EXCEPTIONAL ITEMS
+2023
+2022
+£
+£
+Group loan write off
+(
+320,000
+)
+(
+965,995
+)
+7.
+INTEREST PAYABLE AND SIMILAR EXPENSES
+2023
+2022
+£
+£
+Bank loan interest
+2,353
+2,771
+Other interest
+17,697
+32,380
+20,050
+35,151
+8.
+TAXATION
+Analysis of the tax charge
+The tax charge on the profit for the year was as follows:
+2023
+2022
+£
+£
+Current tax:
+UK corporation tax
+515,228
+286,126
+Prior year under/(over)
+provision
+38
+-
+Total current tax
+515,266
+286,126
+Deferred tax
+(
+6,386
+)
+613
+Tax on profit
+508,880
+286,739
+UK corporation tax has been charged at
+23.50
+% (2022 -
+19
+%).
+Page 18
+continued...
+LANGLEY WATERPROOFING SYSTEMS LIMITED (REGISTERED NUMBER: 03727617)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+For The Year Ended 31 December 2023
+8.
+TAXATION - continued
+Reconciliation of total tax charge included in profit and loss
+The tax assessed for the year is lower than the standard rate of corporation tax in the UK. The difference is
+explained below:
+2023
+2022
+£
+£
+Profit before tax
+2,295,321
+2,564,164
+Profit multiplied by the standard rate of corporation tax in the UK of
+23.500
+% (2022 -
+19
+%)
+539,400
+487,191
+Effects of:
+Expenses not deductible for tax purposes
+137,311
+62,589
+Income not taxable for tax purposes
+-
+183,539
+Adjustments to tax charge in respect of previous periods
+38
+-
+Group relief
+(29,047
+)
+(222,898
+)
+Research & development
+(135,936
+)
+(223,682
+)
+Effects of changes in tax rate
+(2,886
+)
+-
+Total tax charge
+508,880
+286,739
+At Spring Budget 2021, the government announced an increase in the Corporation Tax main rate from
+19% to 25% for companies with profits over £250,000. There is a small company rate of 19% for taxable
+profits under £50,000 and marginal relief available for profits falling between £50,000 - £250,000 with
+effect from 1 April 2023. Deferred tax has therefore been calculated at the future rate of 25%.
+Therefore the effective rate for the year ended 31 December 2023 was 23.50%.
+9.
+DIVIDENDS
+2023
+2022
+£
+£
+Ordinary shares of £1 each
+Interim
+829,000
+500,000
+10.
+INTANGIBLE FIXED ASSETS
+Computer
+software
+£
+COST
+At 1 January 2023
+and 31 December 2023
+60,000
+AMORTISATION
+At 1 January 2023
+and 31 December 2023
+60,000
+NET BOOK VALUE
+At 31 December 2023
+-
+At 31 December 2022
+-
+Page 19
+continued...
+LANGLEY WATERPROOFING SYSTEMS LIMITED (REGISTERED NUMBER: 03727617)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+For The Year Ended 31 December 2023
+11.
+TANGIBLE FIXED ASSETS
+Fixtures
+and
+Motor
+Computer
+fittings
+vehicles
+equipment
+Totals
+£
+£
+£
+£
+COST
+At 1 January 2023
+159,449
+61,676
+111,484
+332,609
+Additions
+23,896
+-
+45,022
+68,918
+Disposals
+-
+-
+(
+17,489
+)
+(
+17,489
+)
+At 31 December 2023
+183,345
+61,676
+139,017
+384,038
+DEPRECIATION
+At 1 January 2023
+117,723
+44,301
+70,580
+232,604
+Charge for year
+17,432
+10,432
+30,133
+57,997
+Eliminated on disposal
+-
+-
+(
+17,455
+)
+(
+17,455
+)
+At 31 December 2023
+135,155
+54,733
+83,258
+273,146
+NET BOOK VALUE
+At 31 December 2023
+48,190
+6,943
+55,759
+110,892
+At 31 December 2022
+41,726
+17,375
+40,904
+100,005
+12.
+STOCKS
+2023
+2022
+£
+£
+Stocks
+2,106,000
+3,924,758
+13.
+DEBTORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+2023
+2022
+£
+£
+Trade debtors
+4,684,895
+4,059,482
+Amounts owed by group undertakings
+1,710,558
+1,161,995
+Other debtors
+929,956
+58,473
+Prepayments
+591,538
+550,069
+7,916,947
+5,830,019
+14.
+CREDITORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+2023
+2022
+£
+£
+Bank loans and overdrafts (see note 15)
+-
+104,167
+Trade creditors
+2,485,473
+4,720,045
+Amounts owed to group undertakings
+91,171
+28,000
+Corporation tax
+280,443
+96,126
+Social security and other taxes
+139,796
+142,443
+VAT
+137,522
+166,670
+Other creditors
+(
+366
+)
+24,045
+Accruals and deferred income
+1,841,699
+706,593
+4,975,738
+5,988,089
+Page 20
+continued...
+LANGLEY WATERPROOFING SYSTEMS LIMITED (REGISTERED NUMBER: 03727617)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+For The Year Ended 31 December 2023
+15.
+LOANS
+An analysis of the maturity of loans is given below:
+2023
+2022
+£
+£
+Amounts falling due within one year or on demand:
+Bank loans
+-
+104,167
+16.
+LEASING AGREEMENTS
+Minimum lease payments under non-cancellable operating leases fall due as follows:
+2023
+2022
+£
+£
+Within one year
+50,618
+70,421
+Between one and five years
+49,000
+99,618
+99,618
+170,039
+17.
+SECURED DEBTS
+The following secured debts are included within creditors:
+2023
+2022
+£
+£
+Bank loans
+-
+104,167
+The CBILS bank loan is secured by a debenture in favour of Nat West Bank PLC. It is also guaranteed by
+the Secretary of State for Business, Energy and Industrial Strategy.
+The invoice factoring account is secured by way of a fixed and floating charge over the assets of the
+Company. At 31 December 2023 the balance on the account was £928,443 debtor (2022 £51,022
+debtor).
+18.
+PROVISIONS FOR LIABILITIES
+2023
+2022
+£
+£
+Deferred tax
+18,615
+25,000
+Deferred
+tax
+£
+Balance at 1 January 2023
+25,000
+Credit to Income Statement during year
+(
+6,385
+)
+Balance at 31 December 2023
+18,615
+19.
+CALLED UP SHARE CAPITAL
+Allotted, issued and fully paid:
+Number:
+Class:
+Nominal
+2023
+2022
+value:
+£
+£
+1,000
+Ordinary
+£1
+1,000
+1,000
+Page 21
+continued...
+LANGLEY WATERPROOFING SYSTEMS LIMITED (REGISTERED NUMBER: 03727617)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+For The Year Ended 31 December 2023
+20.
+RESERVES
+Retained
+earnings
+£
+At 1 January 2023
+6,528,561
+Profit for the year
+1,786,441
+Dividends
+(
+829,000
+)
+At 31 December 2023
+7,486,002
+21.
+PENSION COMMITMENTS
+The Company operates a defined contributions pension scheme. The assets of the scheme are held
+separately from those of the company in an independently administered fund. The pension cost charge
+represents contributions payable by the company to the fund and amounted to £187,815 (2022:
+£347,292).
+Contributions of £nil were payable to the funds at the balance sheet date (2022: £24,378).
+22.
+RELATED PARTY DISCLOSURES
+The company has taken advantage of exemption, under the terms of Financial Reporting Standard 102
+'The Financial Reporting Standard applicable in the UK and Republic of Ireland', not to disclose related
+party transactions with wholly owned subsidiaries within the group.
+The company has transactions with non wholly owned subsidiaries within the group.
+Transactions with these companies during the year ended 31 December 2023:
+Sales/recharges £35,630 (2022: £544,671)
+Purchases £627 (2022: £nil)
+Balance at 31 December 2023 is £182,057 debit (2022: £65,528 debit)
+Silvestri Properties Limiited is a connected company.
+Rent paid to this company during the year ended 31 December 2023
+was £66,000 (2022: £60,000).
+During the year, a total of key management personnel compensation of £
+741,884
+(2022 - £
+869,819
+) was
+paid.
+23.
+ULTIMATE CONTROLLING PARTY
+The controlling party is
+Langley UK Limited.
+The ultimate controlling party is
+A Silvestri.
+The smallest group for which consolidated financial statements are prepared is headed by
+and Cavello
+Group Limited (formerly known as Langley Corporation Limited) copies of these can be obtained from this
+parent company's registered office at Langley House, Lamport Drive, Heartland Business Park, Daventry,
+Northamptonshire, NN11 8YH.
+Page 22

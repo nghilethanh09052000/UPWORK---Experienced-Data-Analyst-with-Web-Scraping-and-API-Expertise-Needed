@@ -1,0 +1,358 @@
+COMPANY REGISTRATION NUMBER: 03617602
+STEVE WILLIS TRAINING LIMITED
+
+FILLETED UNAUDITED FINANCIAL STATEMENTS
+31 March 2024
+
+STEVE WILLIS TRAINING LIMITED
+STATEMENT OF FINANCIAL POSITION
+31 March 2024
+
+2024 2023
+Note £ £ £
+
+Fixed assets
+Tangible assets 5 146,128 161,587
+Investments 6 121,375 119,356
+
+267,503 280,943
+Current assets
+
+Stocks 26,041 8,165
+Debtors 7 284,854 331,567
+Cash at bank and in hand 2,948,391 2,658,997
+3,259,286 2,998,729
+Creditors: amounts falling due within one year 8 681,373 629,356
+Net current assets 2,577,913 2,369,373
+Total assets less current liabilities 2,845,416 2,650,316
+Provisions
+Taxation including deferred tax 19,947 20,406
+Net assets 2,825,469 2,629,910
+Capital and reserves
+Called up share capital 1,399 1,399
+Share premium account 65,050 65,050
+Capital redemption reserve 1,000 1,000
+Profit and loss account 2,758,020 2,562,461
+Shareholders funds 2,825,469 2,629,910
+
+These financial statements have been prepared and delivered in accordance with the provisions applicable to
+companies subject to the small companies’ regime and in accordance with Section 1A of FRS 102 'The Financial
+Reporting Standard applicable in the UK and Republic of Ireland’.
+
+In accordance with section 444 of the Companies Act 2006, the statement of income and retained earnings has not
+been delivered.
+
+STEVE WILLIS TRAINING LIMITED
+STATEMENT OF FINANCIAL POSITION (continuea
+
+31 March 2024
+
+For the year ending 31 March 2024 the company was entitled to exemption from audit under section 477 of the
+Companies Act 2006 relating to small companies.
+
+Directors’ responsibilities:
+
+- The members have not required the company to obtain an audit of its financial statements for the year in question
+in accordance with section 476 ;
+
+- The directors acknowledge their responsibilities for complying with the requirements of the Act with respect to
+accounting records and the preparation of financial statements .
+
+These financial statements were approved by the board of directors and authorised for issue on 6 August 2024 , and
+are signed on behalf of the board by:
+
+Mr S PM Willis
+
+Director
+
+Company registration number: 03617602
+
+STEVE WILLIS TRAINING LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+
+YEAR ENDED 31 MARCH 2024
+
+1. General information
+
+The company is a private company limited by shares, registered in England and Wales. The address of the
+registered office is 168 Church Road, Hove, East Sussex, BN3 2DL.
+
+2. Statement of compliance
+
+These financial statements have been prepared in compliance with Section 1A of FRS 102, 'The Financial
+Reporting Standard applicable in the UK and the Republic of Ireland’.
+
+3. Accounting policies
+
+Basis of preparation
+
+The financial statements have been prepared on the historical cost basis, as modified by the revaluation of certain
+financial assets and liabilities and investment properties measured at fair value through profit or loss.
+
+The financial statements are prepared in sterling, which is the functional currency of the entity.
+
+Going concern
+
+No material uncertainties that may cast significant doubt about the ability of the company to continue as a going
+concern have been identified by the dircctors.
+
+Consolidation
+
+The company has taken advantage of the option not to prepare consolidated financial statements contained in
+Section 398 of the Companies Act 2006 on the basis that the company and its subsidiary undertakings comprise a
+small group.
+
+Revenue recognition
+
+The turnover in the profit and loss account is recognised upon the commencement of training courses and is shown
+exclusive of Value Added Tax.
+
+Income tax
+
+The taxation expense represents the aggregate amount of current and deferred tax recognised in the reporting
+period. Tax is recognised in profit or loss, except to the extent that it relates to items recognised in other
+comprehensive income or directly in equity. In this case, tax is recognised in other comprehensive income or
+directly in equity, respectively. Current tax is recognised on taxable profit for the current and past periods. Current
+tax is measured at the amounts of tax expected to pay or recover using the tax rates and laws that have been enacted
+or substantively enacted at the reporting date.
+
+Deferred tax is recognised in respect of all timing differences at the reporting date. Unrelieved tax losses and other
+deferred tax assets are recognised to the extent that it is probable that they will be recovered against the reversal of
+deferred tax liabilities or other future taxable profits. Deferred tax is measured using the tax rates and laws that have
+been enacted or substantively enacted by the reporting date that are expected to apply to the reversal of the timing
+difference.
+
+Tangible assets
+
+Tangible assets are initially recorded at cost, and subsequently stated at cost less any accumulated depreciation and
+impairment losses. Any tangible assets carried at revalued amounts are recorded at the fair value at the date of
+revaluation less any subsequent accumulated depreciation and subsequent accumulated impairment losses. An
+increase in the carrying amount of an asset as a result of a revaluation, is recognised in other comprehensive income
+and accumulated in equity, except to the extent it reverses a revaluation decrease of the same asset previously
+recognised in profit or loss. A decrease in the carrying amount of an asset as a result of revaluation, is recognised in
+other comprehensive income to the extent of any previously recognised revaluation increase accumulated in equity
+in respect of that asset. Where a revaluation decrease exceeds the accumulated revaluation gains accumulated in
+equity in respect of that asset, the excess shall be recognised in profit or loss.
+
+Depreciation
+Depreciation is calculated so as to write off the cost or valuation of an asset, less its residual value, over the useful
+economic life of that asset as follows:
+
+Leasehold improvements - 5 years straight line
+
+Plant & machinery - 25% reducing balance
+
+Fixtures, fittings and - 33% reducing balance
+
+equipment
+
+Motor vehicles - 25% reducing balance
+Investments
+
+Fixed asset investments are initially recorded at cost, and subsequently stated at cost less any accumulated
+impairment losses.
+Listed investments are measured at fair value with changes in fair value being recognised in profit or loss.
+
+Impairment of fixed assets
+
+A review for indicators of impairment is carried out at each reporting date, with the recoverable amount being
+estimated where such indicators exist. Where the carrying value exceeds the recoverable amount, the asset is
+impaired accordingly. Prior impairments are also reviewed for possible reversal at each reporting date. For the
+purposes of impairment testing, when it is not possible to estimate the recoverable amount of an individual asset, an
+estimate is made of the recoverable amount of the cash-generating unit to which the asset belongs. The
+cash-generating unit is the smallest identifiable group of assets that includes the asset and generates cash inflows
+that largely independent of the cash inflows from other assets or groups of assets. For impairment testing of
+goodwill, the goodwill acquired in a business combination is, from the acquisition date, allocated to each of the
+cash-generating units that are expected to benefit from the synergies of the combination, irrespective of whether
+other assets or liabilities of the company are assigned to those units.
+
+Stocks
+
+Stocks are measured at the lower of cost and estimated selling price less costs to complete and sell. Cost includes all
+costs of purchase, costs of conversion and other costs incurred in bringing the stock to its present location and
+condition.
+
+Provisions
+
+Provisions are recognised when the entity has an obligation at the reporting date as a result of a past event, it is
+probable that the entity will be required to transfer economic benefits in settlement and the amount of the obligation
+can be estimated reliably. Provisions are recognised as a liability in the statement of financial position and the
+amount of the provision as an expense. Provisions are initially measured at the best estimate of the amount required
+to settle the obligation at the reporting date and subsequently reviewed at each reporting date and adjusted to reflect
+the current best estimate of the amount that would be required to settle the obligation. Any adjustments to the
+amounts previously recognised are recognised in profit or loss unless the provision was originally recognised as
+part of the cost of an asset. When a provision is measured at the present value of the amount expected to be required
+to settle the obligation, the unwinding of the discount is recognised as a finance cost in profit or loss in the period it
+arises.
+
+Financial instruments
+
+Financial instruments are classified and accounted for, according to the substance of the contractual arrangement, as
+either financial assets, financial liabilities or equity instruments. An equity instrument is any contract that evidences
+a residual interest in the assets of the company after deducting all of its liabilities.
+
+Defined contribution plans
+
+Contributions to defined contribution plans are recognised as an expense in the period in which the related service
+is provided. Prepaid contributions are recognised as an asset to the extent that the prepayment will lead to a
+reduction in future payments or a cash refund. When contributions are not expected to be settled wholly within 12
+months of the end of the reporting date in which the employees render the related service, the liability is measured
+on a discounted present value basis. The unwinding of the discount is recognised as a finance cost in profit or loss
+in the period in which it arises.
+
+4. Employee numbers
+
+The average number of persons employed by the company during the year amounted to 56 (2023: 55 ).
+
+5. Tangible assets
+
+Land and
+buildings
+£
+Cost
+At 1 April 2023 359,905
+Additions 2,609
+Disposals -
+At 31 March 2024 362,514
+Depreciation
+At 1 April 2023 349,054
+Charge for the year 7,211
+Disposals -
+At 31 March 2024 356,265
+Carrying amount
+At31 March 2024 6,249
+At 31 March 2023 10,851
+
+6. Investments
+
+Cost
+
+At 1 April 2023
+Disposals
+Revaluations
+
+At 31 March 2024
+
+Impairment
+At 1 April 2023
+Disposals
+
+At 31 March 2024
+
+Carrying amount
+At31 March 2024
+
+At 31 March 2023
+
+Subsidiaries, associates and other investments
+
+Plant and
+machinery
+£
+
+123,670
+
+4911
+
+Fixtures and
+fittings
+£
+
+421,442
+20,567
+
+367,817
+24,706
+
+Motor vehicles
+£
+
+141,889
+24,640
+
+77,469
+
+Shares in group Other investments
+
+undertakings
+
+£
+
+66,225
+( 66,225)
+
+65,025
+( 65,025)
+
+other than loans
+
+£
+
+118,156
+
+Total
+
+1,046,906
+47,816
+(9,188)
+
+885,319
+62,049
+(7,962)
+
+184,381
+( 66,225)
+3,219
+
+65,025
+
+During the year, Portsmouth Trading Ltd (formerly Steve Willis Training (Portsmouth) Limited) applied to strike
+off the company. Portsmouth Training Ltd was dissolved on 28 May 2024.
+
+7. Debtors
+
+Trade debtors
+Other debtors
+
+8. Creditors: amounts falling due within one year
+
+Trade creditors
+
+2024
+£
+249,859
+34,995
+
+Amounts owed to group undertakings and undertakings in which the company has
+
+a participating interest
+Corporation tax
+
+Social security and other taxes
+Other creditors
+
+2023
+£
+298,222
+33,345
+
+100,728
+
+275,107
+117,696
+187,842
+
+2023
+£
+60,290
+
+1,200
+226,096
+141,220
+200,550
+
+This document was delivered using electronic communications and authenticated in accordance with the
+registrar's rules relating to electronic form, authentication and manner of delivery under section 1072 of
+the Companies Act 2006.
+

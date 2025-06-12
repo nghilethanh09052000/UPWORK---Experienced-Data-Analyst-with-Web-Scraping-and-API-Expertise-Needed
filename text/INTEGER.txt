@@ -1,0 +1,148 @@
+Integer Training Limited
+Acorah Software Products - Accounts Production
+14.6.300
+false
+true
+30 September 2022
+1 October 2021
+false
+true
+No description of principal activity
+1 October 2022
+30 September 2023
+30 September 2023
+03791017
+Mr Amandeep Singh Behal
+iso4217:GBP
+iso4217:EUR
+iso4217:USD
+xbrli:shares
+xbrli:pure
+xbrli:pure
+03791017
+2022-09-30
+03791017
+2023-09-30
+03791017
+2022-10-01
+2023-09-30
+03791017
+frs-core:CurrentFinancialInstruments
+2023-09-30
+03791017
+frs-core:Non-currentFinancialInstruments
+2023-09-30
+03791017
+frs-bus:PrivateLimitedCompanyLtd
+2022-10-01
+2023-09-30
+03791017
+frs-bus:FilletedAccounts
+2022-10-01
+2023-09-30
+03791017
+frs-bus:Micro-entities
+2022-10-01
+2023-09-30
+03791017
+frs-bus:AuditExempt-NoAccountantsReport
+2022-10-01
+2023-09-30
+03791017
+frs-bus:Director1
+2022-10-01
+2023-09-30
+03791017
+2021-09-30
+03791017
+2022-09-30
+03791017
+2021-10-01
+2022-09-30
+03791017
+frs-core:CurrentFinancialInstruments
+2022-09-30
+03791017
+frs-core:Non-currentFinancialInstruments
+2022-09-30
+Registered number: 03791017
+Integer Training Limited
+Unaudited Financial Statements
+For The Year Ended 30 September 2023
+Integer Training Limited
+Balance Sheet
+As At
+30 September 2023
+Balance Sheet
+Registered number:
+03791017
+2023
+2022
+£
+£
+Fixed assets
+63
+2,335
+Current assets
+454,894
+481,177
+Creditors: Amounts Falling Due Within One Year
+(
+70,782
+)
+(
+74,302
+)
+NET CURRENT ASSETS
+384,112
+406,875
+TOTAL ASSETS LESS CURRENT LIABILITIES
+384,175
+409,210
+Creditors: Amounts Falling After More Than One Year
+(
+80,000
+)
+(
+120,000
+)
+Accruals and deferred income
+(
+8,325
+)
+(
+8,325
+)
+NET ASSETS
+295,850
+280,885
+CAPITAL AND RESERVES
+295,850
+280,885
+Notes
+1.
+General Information
+Integer Training Limited
+is a private company, limited by shares, incorporated in England & Wales, registered number
+03791017
+. The registered office is Unit 17 Efford Farm Business Park, Bude, Cornwall, EX23 8LT.
+2.
+Average Number of Employees
+Average number of employees, including directors, during the year was:
+15 (2022: 14)
+15
+14
+Page 0
+Page 1
+Integer Training Limited
+Balance Sheet (continued)
+As At
+30 September 2023
+For the year ending 30 September 2023 the company was entitled to exemption from audit under section 477 of the Companies Act 2006 relating to small companies.
+The member has not required the company to obtain an audit in accordance with section 476 of the Companies Act 2006.
+The director acknowledges his responsibilities for complying with the requirements of the Act with respect to accounting records and the preparation of accounts.
+These accounts have been prepared in accordance with the micro-entity provisions and delivered in accordance with the provisions applicable to companies subject to the small companies' regime.
+On behalf of the board
+Mr Amandeep Singh Behal
+Director
+21 May 2024

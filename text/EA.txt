@@ -1,0 +1,1829 @@
+Docusign Envelope ID: 7513C310-352C-40FE-BFAF-3E2D0DCD77CD
+
+: Commercial in confidence
+. at
+
+“+
+'
+
+Annual report and financial statements
+EA Technology Limited
+
+For the year ended 31 March 2024
+
+, Company Registration No 02566313
+
+COMPANIES HOUSE
+
+<
+a
+oz
+$ *ADIKV896*
+AS 23/12/2024 - #274
+
+Docusign Envelope ID: 7513C310-352C-40FE-BFAF-3E2D0DCD77CD cols
+Commercial in confidence
+
+EA Technology Limited
+Financial statements for the year ended 31 March 2024 : : 1
+
+Company information
+
+Company registration number 02566313
+
+Registered office Capenhurst Technology Park
+Capenhurst
+Chester
+Cheshire
+CH1 6ES
+
+Directors R P Davis (Chief Executive Officer)
+J Wynne
+SJ Harvey (resigned 8 October 2024)
+J H Schofield (resigned 8 October 2024)
+LJ Paillet (resigned 8 October 2024)
+N Davies (resigned 8 October 2024)
+D A Roberts (resigned 8 October 2024)
+MS Wilding (resigned 8 October 2024)
+LM Sampson (resigned 8 October 2024)
+
+Secretary CE Parry
+
+Banker Handelsbanken AB
+2*4 Floor
+Albion House
+Albion Street
+Chester
+CH1 1RQ
+
+Solicitors Hill Dickinson
+No 1 St Paul’s Square
+Liverpool
+L3 9S]
+
+Auditor Grant Thornton UK LLP
+Statutory Auditor
+Chartered Accountants
+Royal Liver Building
+Liverpool
+L3 1PS
+
+Docusign Envelope ID: 7513C310-352C-40FE-BFAF-3E2D0DCD77CD
+
+Commercial in confidence
+
+EA Technology Limited
+
+Financial statements for the year ended 31 March 2024 2
+Index
+
+Page
+Directors’ Report 3-4
+Strategic report 5-7
+independent auditor's report 8-12
+Principal accounting policies 13-17
+Consolidated income statement 17
+Consolidated statement of comprehensive income 18
+Consolidated statement of financial position 19
+Company statement of financial position 20
+Consolidated cash flow statement 21
+Consolidated Statement of changes in equity 22
+Company Statement of changes in equity 23
+
+Notes to the financial statements 24 - 35
+
+Docusign Envelope ID: 7513C310-352C-40FE-BFAF-3E2D0DCD77CD re
+Commercial in confidence
+
+EA Technology Limited
+Financial statements for the year ended 31 March 2024 3
+
+Directors’ Report
+
+The directors present their report and the audited financial statements for the year ended 31 March 2024.
+Matters dealt with in Strategic Report
+
+The expected future development of the business, post balance sheet events, the associated risks and
+actions to mitigate those risks, and the Group’s activities in the field of research and development are
+described in the Strategic Report. :
+
+Employees
+
+Staff were eligible to participate in the EA Technology Limited (1997) Share Ownership Scheme which
+provides for employees to buy (and sell) shares in accordance with the rules of the scheme. The Scheme is
+now closed following the acquisition of the company by Summa Equity AB.
+
+Directors
+
+The membership of the Board is set out below. All members served on the Board throughout the year and
+to the date of this report except as noted below:
+
+R P Davis (Chief Executive Officer)
+
+J Wynne (Chief Financial Officer)
+
+SJ Harvey (resigned 8 October 2024)
+
+J H Schofield (resigned 8 October 2024)
+N Davies (resigned 8 October 2024)
+
+D A Roberts (resigned 8 October 2024)
+MS Wilding (resigned 8 October 2024)
+LM Sampson (resigned 8 October 2024)
+LJ Paillet (resigned 8 October 2024)
+
+Directors’ indemnity provisions
+The Company has secured third-party indemnity insurance for the benefit of the directors.
+Directors’ responsibilities for the financial statements and disclosure of information to auditors
+
+The directors are responsible for preparing the Strategic Report, the Directors’ Report and the financial
+statements in accordance with applicable law and Regulations.
+
+Company law requires the directors to prepate financial statements for each financial year. Under that law
+the directors have elected to prepare financial statements in accordance with United Kingdom Generally
+Accepted Accounting Practice (United Kingdom Accounting Standards and applicable laws, including
+FRS 102 “The Financial Reporting Standard applicable in the UK and Republic of Ireland”). Under
+Company Law the directors must not approve the financial statements unless they are satisfied that they
+give a true and fair view of the state of affairs of the Group and the Company and of the profit or loss of
+the Group for that period. In preparing these financial statements, the directors are required to:
+
+. select suitable accounting policies and then apply them consistently;
+. make judgments and estimates that are reasonable and prudent;
+. prepare the financial statements on the going concern basis unless it is inappropriate to presume that
+
+the Group will continue in business.
+
+Docusign Envelope !D: 7513C310-352C-40FE-BFAF-3E2D0DCD77CD a
+. Commercial in confidence
+
+EA Technology Limited
+Financial statements for the year ended 31 March 2024 4
+
+Directors’ Report
+
+The directors are responsible for keeping adequate accounting records that are sufficient to show and
+explain the Group's and parent Company’s transactions and disclose with reasonable accuracy at any time
+the financial position of the Group and Parent Company and enable them to ensure that the financial
+statements comply with the Companies Act 2006. They are also responsible for safeguarding the assets of
+the Group and Parent Company and hence for taking reasonable steps for the prevention and detection of
+fraud and other irregularities. :
+
+The directors confirm that:
+
+. so far as each director is aware, there is no relevant audit information of which the Group's auditors
+are unaware; and
+
+. the directors have taken all the steps that they ought to have taken as directors in order to make
+themselves aware of any relevant audit information and to establish that the company’s auditor is
+aware of that information.
+
+. The directors are responsible for the maintenance and integrity of the corporate and financial
+information included on the company’s website. Legislation in the United Kingdom governing the
+preparation and dissemination of financial statements may differ from legislation in other
+jurisdictions
+
+Independent auditors
+
+Grant Thornton UK LLP offer themselves for reappointment as auditors in accordance with section 485 of
+the Companies Act 2006.
+
+BY ORDER OF THE BOARD
+
+2 CPs
+
+RP Davis
+Director
+
+Date, 18/12/2024
+
+Docusign Envelope ID: 7513C310-352C-40FE-BFAF-3E2D0DCD77CD sare
+. Commercial in confidence
+
+EA Technology Limited
+Financial statements for the year ended 31 March 2024 5
+
+Strategic report
+
+The directors present their strategic report on the Group for the year ended 31 March 2024.
+Principal Activities
+
+The Group provides a portfolio of smart grid technologies to its customers around the world. Its business
+activities include the sale of monitoring instruments, ‘digital twin’ grid software, smart grid consultancy,
+specialist power engineering services and training to the owners and operators of electricity networks.
+Beyond the Group’s HQ in Capenhurst, UK, its international presence has been established through
+subsidiaries in Singapore, Australia, USA and China.
+
+Business review
+
+The Group profits for the year after taxation amounted to £4,299,000 (2023: £1,689,000 profit). The
+directors do not recommend the payment of a dividend.
+
+Group turnover from continuing activities increased by 59% (2023: 54% increase).
+
+Group Operating Profit from continuing operations for the year was £5,315,000 (2023: £2,138,000 profit).
+The Group has made the strategic decision to invest in development and innovation to enable it to provide
+innovative high value-added offerings to customers in the future.
+
+Employment costs increased by 34% (2023: 17% increase). Group turnover per employee increased by
+59% (2023: 46% increase) to £189,000 (2023: £139,000).
+
+International sales represented 19% (2023: 28%) of total turnover in the year.
+
+Net funds increased by £ 4,049,000 (2023: £1,665,000 increase) and at the year end the Group had cash
+balances of £3,466,000 (2023: £8,585,000).
+
+Group Shareholders’ funds totalled £12,442,000 at the year end, an increase of £ 4,049,000 following a
+successful year of trading.
+
+Research & development
+
+The Group continues to invest in the quality and design of its products and services. The directors believe
+that targeted investment in development is fundamental to the continuing growth of the business. The
+Group spent approximately £3,414,000 being 7% (2023: 9%) of turnover on development activity during
+the year, of which £1,228,000 was capitalised and £2,186,000 expensed through the income statement.
+
+Strategic objectives
+
+The Group aims to expand its business by developing and commercializing innovative, high-value
+technologies for electricity network owners and operators. Our propositions help customers manage assets
+more efficiently, with fewer failures and outages, greater safety, and lower costs. We are also developing
+new network visibility propositions to support network operators in facilitating decarbonization.
+
+Our investment is guided by a deep understanding of our customers’ business drivers, many of which are
+subject to regulatory controls demanding flexible, timely, and cost-effective solutions.
+
+The directors are committed to developing the Group in line with its key values: Integrity, Collaboration,
+Contribution, Creativity, and Fairness.
+
+Docusign Envelope ID: 7513C310-352C-40FE-BFAF-3E2D0DCD77CD a
+‘ Commercial in confidence
+
+EA Technology Limited
+Financial statements for the year ended 31 March 2024 6
+
+Strategic report
+
+As a leading smart grid specialist, the Group is involved at various levels in advocating for low carbon
+solutions. We lead by example, having decarbonized our premises and supporting staff, local community
+groups, and organizations focused on the net-zero agenda through financial contributions and resources
+
+Business environment and outlook and future developments
+
+The global market for our propositions remains very attractive. The UK is increasingly recognized as
+leading the world in its development of grid technologies. As we are increasingly leading in this
+marketplace, our potential for international growth is significant. We continue to reflect and review the
+performance in our territories. The drivers in the UK continue to be regulatory, for our major customers.
+The requirement for 100% network visibility as well as continued improvement in network reliability, both
+create demand for our excellence in delivering innovative technologies in this space, recently recognized
+with a King’s Award for Enterprise: Innovation.
+
+The Group's revenues increased by nearly 60% in FY24 compared to FY23, driven by the scaling up of
+some of our core monitoring technologies. Our sales pipeline indicates further revenue growth in FY25,
+during which we will continue to invest in our people, our product development and in developing further
+our international footprint.
+
+Sustainable growth depends on retaining and recruiting high-calibre staff. We continue to offer attractive,
+flexible packages and continue to attract outstanding individuals.
+
+In October 2024 the company was acquired by Summa Equity. In addition, Summa Equity have also
+invested an additional £7.5m in development capital to facilitate continued growth, aiming to expand our
+geographic footprint and propositions in a market with significant growth potential.
+
+Post balance sheet events
+On 8 October 2024 the company was acquired by Summa Equity. Summa have also invested £7.5m
+
+additional capital development capital into the company. The company’s activities were unaffected by the
+acquisition and the company will continue to trade on the same basis for the foreseeable future.
+
+Docusign Envelope ID: 7513C310-352C-40FE-BFAF-3E2D0DCD77CD
+
+Commercial in confidence,
+
+EA Technology Limited
+Financial statements for the year ended 31 March 2024 7
+
+Strategic report
+
+Principal risks and uncertainties
+
+Key challenges and risks, together with mitigation activities include the following:
+
+Recruitment and retention of engineering talent: We seek to retain and recruit high-calibre staff
+globally, maintaining strong relationships with higher education institutions and industry
+associations,
+
+Increased nationalisation globally is creating some negative forces against decarbonisation and a
+tendency to use indigenous suppliers. Our technological lead and local support teams mitigate
+these risks and our solutions bring cost reductions and operational efficiencies beyond the
+decarbonisation agenda.
+
+Supply chain and component shortages: We are increasing stock levels, investing in procurement
+resources, and redesigning equipment to address component sourcing challenges. These risk are
+subsiding compared to previous years.
+
+Increased competition: Investment in development aims to maintain our position as a leading
+supplier of technology and consultancy to the power distribution industry.
+
+Protection of intellectual property: Steps are being taken to secure rights to protect income
+streams.
+
+Data and cyber security: The risk of data loss is increasing. The company has achieved ISO27001
+accreditation and conducts regular penetration testing
+
+BY ORDER OF THE BOARD
+RPDavis © OC Tons
+Director
+
+Date:
+
+18/12/2024
+
+Docusign Envelope ID: 7513C310-352C-40FE-BFAF-3E2D0DCD77CD wane
+. Commercial in confidence
+
+re) Grant Thornton
+
+Independent auditor's report to the members of
+EA Technology Limited
+
+INDEPENDENT AUDITOR'S REPORT TO THE MEMBERS OF EA TECHNOLOGY
+LIMITED
+
+Opinion
+
+We have audited the financial statements of EA Technology Limited (the ‘parent company’) and its
+
+subsidiaries (the 'group’) for the year ended 31 March 2024, which comprise the consolidated income
+
+statement, the consolidated statement of comprehensive income, the consolidated statement of financial
+
+position, the company statement of financial position, the consolidated cash flow statement, the
+
+consolidated statement of changes in equity, the company statement of changes in equity and notes to the
+
+financial statements, including a summary of significant accounting policies. The financial reporting
+
+framework that has been applied in their preparation is applicable law and United Kingdom Accounting
+
+Standards, including Financial Reporting Standard 102 ‘The Financial Reporting Standard applicable in the
+
+UK and Republic of Ireland’ United Kingdom Generally Accepted Accounting Practice).
+
+In our opinion:
+
+the financial statements give a true and fair view of the state of the group's and the parent company's
+affairs as at 31 March 2024 and of the group's profit for the year then ended;
+
+© the financial statements have been properly prepared in accordance with United Kingdom Generally
+Accepted Accounting Practice; and
+
+© the financial statements have been prepared in accordance with the requirements of the Companies Act
+2006.
+
+Basis for opinion
+
+We conducted our audit in accordance with International Standards on Auditing (UK) ISAs (UK) and
+applicable law. Our responsibilities under those standards are further described in the ‘Auditor’s
+responsibilities for the audit of the financial statements’ section of our report. We are independent of the
+group and the parent company in accordance with the ethical requirements that are relevant to our audit of
+the financial statements in the UK, including the FRC’s Ethical Standard, and we have fulfilled our other
+ethical responsibilities in accordance with these requirements. We believe that the audit evidence we have
+obtained is sufficient and appropriate to provide a basis for our opinion.
+
+Conclusions relating to going concern
+
+We are responsible for concluding on the appropriateness of the directors’ use of the going concern basis
+
+of accounting and, based on the audit evidence obtained, whether a material uncertainty exists related to
+
+events or conditions that may cast significant doubt on the group's and the parent company's ability to
+
+continue as a going concern. If we conclude that a material uncertainty exists, we are required to draw
+
+attention in our report to the related disclosures in the financial statements or, if such disclosures are
+
+inadequate, to modify the auditor’s opinion. Our conclusions are based on the audit evidence obtained up
+
+to the date of our report. However, future events or conditions may cause the group or the parent company
+
+to cease to continue as a going concern.
+
+Our evaluation of the directors’ assessment of the group's and the parent company’s ability to continue to
+
+adopt the going concern basis of accounting included:
+
+© Reviewing management’s assessment of going concern assumptions and supporting information,
+including a review of the budgets and cash flow forecasts to December 2025;
+
+© Reviewing post year end trading to assess performance compared to forecasts;
+
+DoOCcuUSIgN ENvelope ILE (D1 5U51U-3902U-4UF C-BPAr-SCLUUULU (LU wos
+Commercial in confidence
+
+9
+
+eo) Grant Thornton
+
+Independent auditor's report to the members of
+EA Technology Limited
+
+e Reviewing ongoing large contracts with customers and the cash flows that are anticipated to arise from
+these; :
+
+© Monitoring significant post balance sheet events which may impact management’s assessment of their
+going concern assumption,
+
+e Reviewing the disclosures concerning the basis of preparation of the financial statements; and
+
+e Assessing the appropriateness of the policy under relevant accounting framework and rationale for the
+Directors’ assessment that the group is a going concern.
+
+In our evaluation of the directors’ conclusions, we considered the inherent risks associated with the group's
+and the parent company's business model including effects arising from macro-economic uncertainties such
+as rising interest rates and inflationary pressures, we assessed and challenged the reasonableness of
+estimates made by the directors and the related disclosures and analysed how those risks might affect the
+group's and the parent company's financial resources or ability to continue operations over the going
+concern period.
+In auditing the financial statements, we have concluded that the directors’ use of the going concern basis of
+accounting in the preparation of the financial statements is appropriate. :
+Based on the work we have performed, we have not identified any material uncertainties relating to events
+or conditions that, individually or collectively, may cast significant doubt on the group's and the parent
+company's ability to continue as a going concern for a period of at least twelve months from when the
+financial statements are authorised for issue.
+Our responsibilities and the responsibilities of the directors with respect to going concern are described in
+the relevant sections of this report.
+Other information
+
+’ The other information comprises the information included in the annual report, other than the financial
+statements and our auditor’s report thereon. The directors are responsible for the other information
+contained within the annual report. Our opinion on the financial statements does not cover the other
+information and, except to the extent otherwise explicitly stated in our report, we do not express any form
+of assurance conclusion thereon.
+Our responsibility is to read the other information and, in doing so, consider whether the other information
+is materially inconsistent with the financial statements or our knowledge obtained in the audit or otherwise
+appears to be materially misstated. If we identify such material inconsistencies or apparent material
+misstatements, we are required to determine whether there is a material misstatement in the financial
+statements themselves. If, based on the work we have performed, we conclude that there is a material
+misstatement of this other information, we ate required to report that fact.
+We have nothing to report in this regard.
+Opinions on other matters prescribed by the Companies Act 2006
+In our opinion, based on the work undertaken in the course of the audit:
+¢ the information given in the strategic report and the directors’ report for the financial year for which the
+
+financial statements are prepared is consistent with the financial statements; and
+
+the strategic report and the directors’ report have been prepared in accordance with applicable legal
+requirements.
+
+Matter on which we are required to report under the Companies Act 2006
+
+In the light of the knowledge and understanding of the group and the parent company and their
+environment obtained in the course of the audit, we have not identified material misstatements in the
+strategic report or the directors’ report.
+
+Docusign Envelope ID: 7513C310-352C-40FE-BFAF-3E2D0DCD77CD cali
+: Commercial in confidence
+
+10
+
+re) Grant Thornton
+
+Independent auditor's report to the members of
+EA Technology Limited
+
+Matters on which we are required to report by exception
+We have nothing to report in respect of the following matters in relation to which the Companies Act 2006
+requites us to report to you if, in our opinion:
+
+¢ adequate accounting records have not been kept by the parent company, or returns adequate for our
+audit have not been received from branches not visited by us; or
+
+© the parent company financial statements are not in agreement with the accounting records and returns;
+or
+
+© certain disclosures of directors’ remuneration specified by law are not made; or
+© we have not received all the information and explanations we require for our audit.
+
+Responsibilities of directors
+
+As explained mote fully in the directors' responsibilities statement, the directors are responsible for the
+
+preparation of the financial statements and for being satisfied that they give a true and fair view, and for
+
+such internal control as the directors determine is necessary to enable the preparation of financial
+
+statements that are free from material misstatement, whether due to fraud or error.
+
+In preparing the financial statements, the directors ate responsible for assessing the group's and the parent
+
+company's ability to continue as a going concern, disclosing, as applicable, matters related to going concern
+
+and using the going concern basis of accounting unless the directors either intend to liquidate the group or
+
+the parent company or to cease operations, or have no realistic alternative but to do so.
+
+Auditor’s responsibilities for the audit of the financial statements
+
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are
+
+free from material misstatement, whether due to fraud or error, and to issue an auditor’s report that
+
+includes our opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an audit
+
+conducted in accordance with ISAs (UK) will always detect a material misstatement when it exists.
+
+Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate,
+
+they could reasonably be expected to influence the economic decisions of users taken on the basis of these
+
+financial statements.
+
+Irregularities, including fraud, are instances of non-compliance with laws and regulations. The extent to
+
+which our procedures are capable of detecting irregularities, including fraud, is detailed below:
+
+© We obtained an understanding of the legal and regulatory frameworks applicable to the Group and the
+industry in which it operates. We determined that the most significant laws and regulations are the
+Companies Act 2006 and FRS 102 “The Financial Reporting Standard applicable in the UK and
+Republic of Ireland”;
+
+© We obtained an understanding of how the Group is complying with those legal and regulatory
+frameworks by making enquiries of management and those responsible for legal and compliance
+procedures. We corroborated our enquiries through review of board minutes;
+
+© We assessed the susceptibility of the Group’s financial statements to material misstatement, including
+how fraud might occur. Audit procedures performed by the group engagement team included:
+
+— Evaluation of the processes and controls established to address the risks related to irregularities and
+fraud;
+
+— Making enquiries, in respect of fraud, of those outside the finance team, including key management
+and the board;
+
+Docusign Envelope ID: 7513C310-352C-40FE-BFAF-3E2D0DCD77CD we
+Commercial in confidence
+
+1
+
+re) Grant Thornton
+
+Independent auditor's report to the members of
+EA Technology Limited
+
+- Challenging assumptions and judgements made by management in the Group’s significant
+accounting estimates;
+
+— Identifying and testing unusual journal entries; and
+— Identifying and testing related party transactions.
+
+© These audit procedures were designed to provide reasonable assurance that the financial statements
+were free from fraud or error. The risk of not detecting a material misstatement due to fraud is higher
+than the risk of not detecting one resulting from error and detecting irregularities that result from fraud
+is inherently more difficult than detecting those that result from error, as fraud may involve collusion,
+deliberate concealment, forgery or intentional misrepresentations. Also, the further removed non-
+compliance with laws and regulations is from events and transactions reflected in the financial
+statements, the less likely we would become aware of it;
+
+© The assessment of the appropriateness of the collective competence and capabilities of the engagement
+team included the consideration of the engagement team’s knowledge of the industry in which the
+Group operates, and the understanding of, and practical experience with, audit engagements of a similar
+nature and complexity through appropriate training and participation;
+
+© The engagement team’s discussions in respect of potential non-compliance with laws and regulations
+included the risk of fraud in revenue recognition;
+
+¢ In assessing the potential risks of material misstatement, we obtained an understanding of:
+
+— The Group’s operations, including the nature of its revenue source, expected financial statements
+disclosures and business risks that may result in a risk of material misstatement; and
+
+— The Group’s control environment including the adequacy of procedures for authorisation of
+transactions;
+
+A further description of our responsibilities for the audit of the financial statements is located on the
+Financial Reporting Council’s website at: www. frc.org.uk/auditorstesponsibilities. This description forms
+part of our auditor’s report.
+
+Docusign Envelope ID: 7513C310-352C-40FE-BFAF-3E2D0DCD77CD ope
+: Commercial in confidence
+
+12
+
+re) Grant Thornton
+
+Independent auditor's report to the members of
+RA Technology Limited
+
+Use of our report
+
+This report is made solely to the company’s members, as a body, in accordance with Chapter 3 of Part 16
+of the Companies Act 2006. Our audit work has been undertaken so that we might state to the company’s
+membets those matters we are required to state to them in an auditor’s report and for no other purpose. To
+the fullest extent permitted by law, we do not accept or assume responsibility to anyone other than the
+company and the company’s members as a body, for our audit work, for this report, or for the opinions we
+have formed.
+
+BX Chetin UK ULF
+
+Gareth Hitchmough BSc FCA
+
+Senior Statutory Auditor
+
+for and on behalf of Grant Thornton UK LLP
+Statutory Auditor, Chartered Accountants
+Liverpool
+
+Date: 18/12/2024
+
+Docusign Envelope ID: 7513C310-352C-40FE-BFAF-3E2D0DCD77CD wore
+Commercial in confidence
+
+EA Technology Limited
+Financial statements for the year ended 31 March 2024 . 13
+
+Principal accounting policies
+
+General Information
+
+EA Technology Limited is a private company limited by share capital incorporated in the UK with its
+registered office at Capenhurst Technology Park, Capenhurst, Chester CH1 6ES. The Group and parent
+Company are principally engaged in supplying electricity network support technologies throughout the UK
+and internationally. Its core business is the provision of technical and business consultancy, technical
+services products and training to the owners and operators of electricity networks, large energy users and
+related organisations.
+
+Basis of preparation
+
+The financial statements have been prepared on a going concern basis under the historical cost convention
+and in accordance with FRS 102 “The Financial Reporting Standard applicable in the UK and Republic of
+Ireland” and the Companies Act 2006 and applicable UK accounting standards (United Kingdom Generally
+Accepted Accounting Practice). The financial statements are presented in Sterling (£).
+
+Basis of consolidation
+
+The Group financial statements consolidate those of the Company and its subsidiary undertakings (see
+note 9) drawn up to 31 March 2024, except as disclosed in note 8. Profits or losses on intra~Group
+transactions are eliminated in full.
+
+The results and financial position of foreign subsidiaries are translated into sterling as follows:
+
+a) Assets and liabilities are translated at the closing exchange rate at the balance sheet date.
+b) Income and expenses are translated at the average exchange rate for the year.
+
+c) All resulting exchange rate differences are dealt with in the consolidated statement of comprehensive
+income.
+
+Going Concern
+
+The Directors have prepared the financial statements on the going concern basis. The Directors have
+considered the financial forecasts to December 2025 taking into consideration the environments of the
+domestic and worldwide economy.
+
+In the period between the year then ended and the date of this report, the Group was acquired by Summa
+Equity AB. As a result, the entity received a further £7.5m capital investment, of which included £4.7m of
+additional cash for use in the development of existing and future trade.
+
+The Directors have considered various downside sensitivities over the review period. Although there are
+challenges and uncertainties around trading, the Group has reasonable cash reserves which can be utilised
+for its ongoing operations.
+
+Significant judgements and estimates
+
+Preparation of the financial statements requires management to make significant judgements and estimates.
+The items in the financial statements where these significant judgements and estimates have been made include:
+
+Accrued/Deferred Income calculation
+Income recognition is based on project manager’s assessment of the completeness of the project.
+Comparison of costs to budget and stage invoicing support the value recognised.
+
+; Docusign Envelope ID: 7513C310-352C-40FE-BFAF-3E2D0DCD77CD Commercial in confidence
+
+EA Technology Limited
+Financial statements for the year ended 31 March 2024 14
+
+Principal accounting policies
+
+The useful expected lives of intangible and tangible assets
+Useful economic lives are determined by management based on historical experience.
+
+The capitalisation of Intangible fixed assets
+
+Future economic benefits are determined by management based on forecast expectations.
+
+The cost will be based on time and material costs directly attributable to the asset.
+
+Stock provisions
+
+The stock provision is determined by ageing the stock in conjunction with managements knowledge. The
+provision applied reduces the carrying value to its selling price less costs to sell.
+
+Turnover
+
+Turnover is the total amount receivable by the Group for goods supplied and services provided, excluding
+VAT and trade discounts. In respect of sales of products, turnover is recognised upon delivery of the
+goods, and in respect of services, upon completion of those services.
+
+Long-term contracts
+
+In respect of long-term contracts and contracts for on-going services, turnover represents the value of work
+done in the year, including estimates of amounts not invoiced by reference to the stage of completion.
+
+Tangible fixed assets and depreciation
+
+Tangible fixed assets are stated at cost, net of depreciation and any provision for impairment.
+Depreciation is calculated to write down the cost less estimated residual value of all tangible fixed assets by
+equal annual instalments over their expected useful lives, starting in the year after acquisition. The period
+applicable for vehicles, fixtures, fittings, tools and equipment is 3-5 years.
+
+Intangible fixed asset and amortisation
+
+Intangible fixed assets are stated at cost, net of amortisation and any provision for impairment.
+Amortisation is calculated to write down the cost less estimated residual value of all intangible fixed assets
+by equal annual instalments over their expected useful lives, starting in the year of acquisition. The period
+applicable for intellectual property is 5-10 years.
+
+Investments
+
+Investments are included at cost less amounts written off. Profits or losses arising from disposals of fixed
+asset investments are treated as part of the result from ordinary activities.
+
+In respect of the Group's own shates which are held by the EA Technology Limited Employee Share
+Ownership Trust (ESOT), the consideration paid for the shares is deducted in arriving at shareholders’
+funds.
+
+Docusign Envelope ID: 7513C310-352C-40FE-BFAF-3E2D0DCD77CD re
+Commercial in confidence
+
+EA Technology Limited
+Financial statements for the year ended 34 March 2024 . 15
+
+Principal accounting policies
+
+Impairment of assets
+
+At each reporting date, fixed assets are reviewed to determine whether there is any indication that those
+assets have suffered an impairment loss. If there is an indication of possible impairment, the recoverable
+amount of any affected asset is estimated and compared with its carrying amount. If estimated recoverable
+amount is lower, the carrying amount is reduced to its estimated recoverable amount, and an impairment _
+loss is recognised immediately in profit or loss.
+
+If an impairment loss subsequently reverses, the carrying amount of the asset is increased to the revised
+estimate of its recoverable amount, but not in excess of the amount that would have been determined had
+no impairment loss been recognised for the asset in prior years. A reversal of an impairment loss is
+recognised immediately in profit or loss.
+
+Income in advance
+
+Income in advance included in creditors relates to amounts invoiced which relate to future periods. It is
+credited to the Income statement over the life of the project to which it relates.
+
+Stocks and work in progress
+
+Stocks and short-term work in progress are stated at the lower of cost and net realisable value. The cost of
+stock represents the purchase value of the goods and costs to bring it to its current location. Net realisable
+value is based on estimated selling price, less further costs expected to be incurred to completion and
+disposal. Provision is made for obsolete, slow moving or defective items where appropriate.
+
+Debtors
+Short terms debtors are measured at transaction price, less any impairment.
+
+Creditors
+
+Short term trade cteditors are measured at transaction price. Other financial liabilities, including loans, are
+measured initially at fair value, net of transaction costs and are measured subsequently at amortised cost
+using the effective interest method.
+
+Current tax
+
+The current tax charge is based on the profit or loss for the year and is measured at the amounts expected
+to be paid based on the tax rates and laws substantively enacted by the balance sheet date. Current and
+deferred tax is recognised in the income statement for the period except to the extent that it is attributable
+to income or expense that is or has been recognised directly in the statement of total comprehensive
+income.
+
+Deferred tax
+
+Deferred tax is recognised on all timing differences where the transactions or events that give the Group an
+obligation to pay mote tax in the future, or a right to pay less tax in the future, have occurred by the balance
+sheet date. Deferred tax assets are recognised when it is more likely than not that they will be recovered.
+Deferred tax is measured using tates of tax that have been enacted or substantively enacted by the balance
+sheet date. Deferred tax is not subject to discounting.
+
+Docusign Envelope ID: 7513C310-352C-40FE-BFAF-3E2D0DCD77CD a
+Commercial in confidence
+
+EA Technology Limited
+Financial statements for the year ended 31 March 2024 16
+
+Principal accounting policies
+
+Contributions to pension schemes
+
+Defined Contribution Scheme
+The pension costs charged against profits are the contributions payable to the scheme in respect of the
+
+accounting period.
+Research and development
+
+Development expenditure incurred on clearly defined projects whose outcome can be assessed with
+reasonable certainty is carried forward and amortisation is charged in line with the expected income arising
+from the projects.
+
+Other development expenditure and research expenditure is written off in the year in which it is incurred.
+
+Foreign currencies
+
+Transactions in foreign currencies are translated at the exchange rate ruling at the date of the transaction.
+Monetary assets and liabilities in foreign currencies are translated at the rates of exchange ruling at the
+balance sheet date. All exchange differences are dealt with through the Income statement.
+
+Cash and cash equivalents
+
+Cash is represented by cash in hand repayable without penalty on notice of not more than 24 hours. Cash
+equivalents are highly liquid investments that mature is no more than three months from the date of
+acquisition and that are readily convertible to known amounts of cash with insignificant change in value.
+
+Share based payments
+
+Where share options are awarded to employees, the fair value of the options at the date of grant is charged
+to the Statement of income and retained earnings over the vesting period. Non-market vesting conditions
+are taken into account by adjusting the number of equity instruments expected to vest at each Statement of
+financial position date so that, ultimately, the cumulative amount recognised over the vesting period is
+based on the number of options that eventually vest. Market vesting conditions are factored into the fair
+value of the options granted. The cumulative expense is not adjusted for failure of achieve a market vesting
+condition.
+
+The fair value of the award also takes into account non-vesting conditions. These are factors beyond the
+control of either party.
+
+Where the terms and conditions of options are modified before they vest, the increase in the fair value of
+the options, measured immediately before and after the modification, is also charges to the Statement of
+income and retained earnings over the remaining vesting period.
+
+Government grants
+Grants of a revenue nature are recognised in the Income Statement in the same period as the related
+
+expenditure. Furlough income, which is a grant awarded by the government, is recognised in income in the
+periods in which the company recognises the related costs for which the grant is intended to compensate.
+
+Docusign Envelope ID: 7513C310-352C-40F E-BFAF-3E2D0DCD77CD aoe
+: Commercial in confidence
+
+EA Technology Limited
+Financial statements for the year ended 31 March 2024 17
+
+Consolidated Income Statement
+
+Note 2024 2023
+£7000 £000
+Turnover 1 47,876 30,119
+Cost of sales (27,362) (17,547)
+Gross profit 20,514 12,572
+Administrative expenses (15,199) (10,434)
+Other operating income -
+Operating profit 5,315 2,138
+Interest receivable and similar income 2 2 3
+Interest payable and similar charges 3 (61) 179
+Profit on ordinary activity before taxation 1 5,256 1,962
+Tax on profit on ordinary activities 5 (957) 273
+Profit for the financial year 4,299 1,689
+
+All figures relate to continuing operations. The Company has taken advantage of section 408 of the
+Companies Act 2006 not to publish its own Income statement.
+
+The accompanying accounting policies and notes on pages 24 to 35 form an integral part of these accounts.
+
+Docusign Envelope ID: 7513C310-352C-40FE-BFAF-3E2D0DCD77CD a;
+: Commercial in confidence
+
+EA Technology Limited
+Financial statements for the year ended 31 March 2024 18
+
+Consolidated Statement of Comprehensive Income
+
+Note 2024 2023
+
+£'000 £000
+
+Profit for the financial year 4,299 1,689
+Currency translation differences on foreign currency net investments (34) (37)
+Total comprehensive income for the year 4,265 1,652
+
+The accompanying accounting policies and notes on pages 24 to 35 form an integral part of these accounts.
+
+Docusign Envelope ID: 7513C310-352C-40FE-BFAF-3E2D0DCD77CD
+
+EA Technology Limited (Company No 02566313)
+
+Commercial in confidence .
+
+Financial statements for the year ended 31 March 2024 19
+Consolidated statement of financial position
+2024 2023
+Note £7000 £000
+Fixed assets
+Intangible fixed assets 6 4,890 4,269
+Tangible assets 7 1,649 1,733
+Investments 8 :
+6,539 6,002
+Current assets
+Stocks 9 6,976 4,864
+Debtors 10 12,797 12,324
+Cash and cash equivalents 3,466 8,585
+23,239 25,773
+Creditors: amounts falling due within one year 11 (17,356) (20,638)
+Net current assets 5,883 5,135
+Total assets less current liabilities 12,422 11,137
+Creditors due after more than one year 12 - (2,764)
+Net assets 12,422 8,373
+Capital and reserves
+Called up share capital 13 735 735
+Retained Earnings 14 12,289 8,024
+Share based payment reserve 15 68 59
+Treasury Shares 16 (384)
+Shares held by ESOT 17 (286) (445)
+Shareholders' funds 12,422 8,373
+
+The accompanying accounting policies and notes on pages 24 to 35 form an integral part of these accounts.
+
+The financial statements were approved and authorised for issue by the Board of Directors and signed on
+
+its behalf by:
+
+2 CPs
+RP Davis
+Director
+
+Date: 18/12/2024
+
+Docusign Envelope ID: 7513C310-352C-40FE-BFAF-3E2D0DCD77CD wa,
+Commercial in confidence
+
+EA Technology Limited (Company No 02566313)
+Financial statements for the year ended 31 March 2024 20
+
+Company statement of financial position
+
+2024 2023
+Note £7000 £7000
+Fixed assets
+Intangible assets 6 4,890 4,269
+Tangible assets 7 1,359 1,554
+Investments 8 438 438
+6,687 6,261
+Current assets
+Stocks 9 6,794 4,601
+Debtors 10 11,914 12,205
+Cash at bank and in hand 2,481 7,482
+21,189 24,288
+Creditors: amounts falling due within one year 11 (16,016) (19,783)
+Net current assets 5,173, 4,505
+Total assets less current liabilities 11,860 10,766
+Creditors due after more than one year 12 - (2,764)
+Net assets 11,860 8,002
+Capital and reserves
+Called up share capital 13 735 735
+Retained Earnings 14 11,737 7,663
+Share based payment reserve 15 58 49
+Treasury Shares 16 (384) -
+Shares held by ESOT 17 (286) (445)
+Shareholders’ funds 11,860 8,002
+
+The parent company has taken advantage of section 408 of the Companies Act 2006 and has not included
+its own Income statement in these financial statements. The profit of the parent company for the year was
+
+£4,074,000 (2023: £1,734,000 profit).
+
+The accompanying accounting policies and notes on pages 24 to 35 form an integral part of these accounts.
+
+The financial statements were approved and authorised for issue by the Board of Directors and signed on
+
+its behalf by
+
+2 0s
+
+R P Davis
+Director
+
+Date; 18/12/2024
+
+Docusign Envelope ID: 7513C310-352C-40FE-BFAF-3E2D0DCD77CD a
+Commercial in confidence
+
+EA Technology Limited
+Financial statements for the year ended 31 March 2024 21
+
+Consolidated cash flow statement
+
+2024 = -2023
+
+£7000 £000
+Cash flows from operating activities
+Profit for the financial year , 4,299 1,689
+Adjustments for:
+Share based payment expense 9 10
+Amortisation 607 381
+Depreciation of tangible assets 798 801
+Profit on sale of assets (12) (7)
+Research and development tax credit . (130) (90)
+Interest payable 61 179
+Interest receivable (2) (3)
+Taxation received/ (paid) 394 (78)
+Taxation charge 957 273
+Increase in trade and other debtors (1,741) (2,030)
+(Increase) /decrease in stocks (2,112) (2,353)
+(Decrease) /increase in creditors (1,860) 11,132
+Net cash generated from operating activities 1,268 9,904
+Cash flows from investing activities
+Proceeds from sale of tangible assets 12 . 12
+Purchases of tangible assets (724) (528)
+Purchases of intangible fixed assets (1,228) (1,431)
+Proceeds from sale of Investments - 22
+Interest received 2 3
+Net cash from investing activities (1,938) (1,922)
+Cash flows from financing activities
+Transfer to ESOT 159 3
+Transfer of shares to treasury (384) -
+Repayment of loan note (4,139) (1,267)
+Interest paid (61) (179)
+Net cash used in financing activities (4,425) (1,443)
+Net increase in cash and cash equivalents (5,095) 6,539
+Foreign exchange translation adjustment (24) (37)
+Cash and cash equivalents at the beginning of year 8,585 2,083
+
+Cash and cash equivalents at end of year 3,466 8,585
+
+Docusign Envelope ID: 7513C310-352C-40FE-BFAF-3E2D0DCD77CD
+
+EA Technology Limited
+
+Financial statements for the year ended 31 March 2024
+
+At 1 April 2022
+
+Profit for the financial year
+Foreign exchange
+translation difference
+
+Issue of options
+
+Transfer to reserves
+
+As at 31 March 2023
+
+Profit for the financial year
+
+Foreign exchange
+translation difference
+
+Issue of options
+
+Transfer to reserves
+
+Commercial in confidence
+
+22
+Consolidated statement of changes in equity
+Share based Shares held
+Called-up Shares held payment inTreasury Retained
+share capital by ESOT reserve earnings Total
+
+£'000 £'000 £'000 £'000 £'000 £'000
+
+735 (448) 49 - 6,372 6,708
+
+1,689 1,689
+G7) G6)
+
+10 10
+
+3 3
+
+735 445 59 : 8,024 8,373
+
+4,299 4,299
+
+G4 G4)
+
+9 9
+
+159 (384) (225)
+
+735 (286) 68 (384) 12,289 12,422
+
+As At 31 March 2024
+
+Locusign Envelope IU: /915U31U-59ZU-4UF E-BrAP-SEZUUUDUU/ (LU wore.
+Commercial in confidence |
+
+EA Technology Limited
+Financial statements for the year ended 31 March 2024 23
+
+Company statement of changes in equity
+
+Share based Shares held
+Called-up Shares held payment inTreasury Retained
+
+share capital by ESOT reserve earnings Total
+£'000 £'000 £'000 £'000 £'000 £'000
+At 1 April 2022 735 (448) 39 - 5,929 6,255
+Profit and total comprehensive
+income for the year 1,734 1,734
+Issue of options : 10 10
+Transfer to reserves 3 3
+As At 31 March 2023 735 (445) 49 -_ _ 7,663 _ 8,002
+Profit and total comprehensive
+income for the year 4,074 4,074
+Tssue of options 9 9
+Transfer to reserves 159 (384) (225)
+
+As At 31 March 2024 735 (286) 58 (384) 11,737 _ 11,860
+
+Docusign Envelope ID: 7513C310-352C-40FE-BFAF-3E2D0DCD77CD a
+Commercial in confidence
+
+EA Technology Limited
+Financial statements for the year ended 31 March 2024 24
+
+Notes to the financtal statements
+
+1 Turnover and profit on ordinary activities before taxation
+
+The turnover and profit on ordinary activities before taxation is attributable to the Group's principal
+activities.
+
+An analysis of turnover by geographical market is given below:
+
+2024 2023
+£7000 £000
+United Kingdom 38,644 21,726
+Europe 1,070 740
+North America 1,966 1,666
+Australasia/other 6,196 5,987
+47,876 30,119
+
+The profit on ordinary activities before taxation is stated after charging /(crediting):
+2024 2023
+£'000 £000
+
+Auditors’ remuneration:
+- Fees payable for the audit of the consolidation and the parent company
+
+accounts 79 52
+- Fees payable for the audit of subsidiaries, pursuant to legislation — non-
+
+22 22
+- Tax compliance 9 8
+- Tax advisory 52 18
+- Advisory services
+- Advisory — non-UK
+Depreciation:
+- Tangible fixed assets owned : 798 801
+- Tangible fixed assets on finance agreements
+Amortisation:
+- Intangible fixed assets owned 607 381
+Operating lease rentals:
+- Land and buildings 503 523
+- Other 54 60
+
+(Profit)/loss on sale of fixed assets (12) (7)
+
+Docusign Envelope ID: 7513C310-352C-40FE-BFAF-3E2D0DCD77CD
+
+EA Technology Limited
+
+Commercial in confidence
+
+Financial statements for the year ended 31 March 2024 25
+Notes to the financial statements
+Interest receivable
+2024 2023
+£'000 £000
+Interest receivable and similar income 2 3
+Interest payable
+2024 2023
+£'000 £000
+Interest payable and similar charges (61) (179)
+Directors and employees
+Staff costs during the year were as follows:
+Group Company
+2024 2023 2024 2023
+£'000 £000 £7000 £000
+Wages and salaries 13,993 10,337 12,218 8,614
+Social security costs 1,602 1,153 1,408 962
+Other pension costs 1,577 1,299 1,577 1,299
+17,172 12,789 15,203 10,875
+The average number of employees of the Group during the year was:
+Group Company
+2024 2023 2024 2023
+Number Number Number Number
+Managerial 14 15 su 11
+Technical and scientific 179 152 165 139
+Administrative and clerical 58 48 46 39
+Industrial 2 2 2 2
+253 217 224 191
+Remuneration in respect of directors was as follows:
+2024 2023
+£'000 £000
+Emoluments 1,974 949
+Pension contributions to money purchase pension schemes 108 103
+2,082 1,052
+
+Docusign Envelope IO: 7513C310-352C-40FE-BFAF-3E2D0DCD77CD a
+. ‘ Commercial in confidence
+
+EA Technology Limited
+Financial statements for the year ended 31 March 2024 26
+
+Notes to the financial statements
+
+During the year 5 directors (2023: five) participated in money purchase pension schemes.
+
+Nine directors (2023: nine) currently hold an interest in the share option scheme, new share options were
+issued in the year (see note 23).
+
+Emoluments relating to key management personnel total £689,000 (2023: £638,000).
+
+The amounts set out above include remuneration in respect of the highest paid director as follows:
+
+2024 2023
+
+£ £
+
+Emoluments , 808,779 215,563
+Pension contributions to money purchase pension schemes 10,275 13,373
+
+819,054 228,936
+
+Docusign Envelope ID: 7513C310-352C-40FE-BFAF-3E2D0DCD77CD
+
+EA Technology Limited
+Financial statements for the year ended 341 March 2024
+
+Notes to the financial statements
+
+5 Tax on profit on ordinary activities
+
+The tax credit is based on the profit for the year and represents:
+
+UK Corporation Tax
+
+Adjustments in respect of previous periods
+
+Other taxation reliefs
+
+Overseas taxation
+
+Total current tax
+
+Deferred taxation: origination and reversal of timing differences
+Deferred taxation effect of tax rate change on opening balance
+Deferred taxation: adjustments in respect of previous periods
+Deferred taxation: adjustments in respect of consolidation adjustments
+Tax on results on ordinary activities
+
+Commercial in confidence
+
+27
+2024 2023
+£7000 £7000
+(68) (484)
+- (95)
+136 87
+68 (492)
+907 575
+(18) 190
+957 273
+
+The tax assessed for the year is lower than the standard rate of corporation tax in the United Kingdom of
+
+25% (2023: 19%). The differences are explained as follows:
+
+‘Profit on ordinary activities before tax
+
+Profit on ordinary activities multiplied by standard rate of corporation tax in
+
+the United Kingdom of 25% (2023: 19%)
+Expenses not deductible for tax purposes
+
+Prior year adjustments
+
+Additional deduction for land remediation
+Surrender tax losses
+
+Research and development relief
+
+Differences on overseas taxes
+
+Other tax differences
+
+Income not taxable
+
+Reliefs carried forward
+
+Remeasurement of deferred tax for changes in tax rates
+Deferred tax credit on consolidation adjustments
+Tax on results on ordinary activities
+
+The aggregate current and deferred tax relating to items that are recognised as items of other
+
+comprehensive income is £nil (2023: £Nil).
+
+5,317
+
+1,329
+
+32
+(18)
+(352)
+(4)
+
+1961
+
+373
+29
+(95)
+190
+127
+(367)
+29)
+(58)
+
+(23)
+143
+(17)
+
+273
+
+Docusign Envelope ID: 7513C310-352C-40FE-BFAF-3E2D0DCD77CD an
+. Commercial in confidence
+
+EA Technology Limited .
+Financial statements for the year ended 31 March 2024 28
+
+Notes to the financial statements
+
+6 Intangible fixed assets
+The Group
+Intellectual
+Property & Development
+£7000
+Cost
+At 1 April 2023 4,994
+Additions 1,228
+At 31 March 2024 6,222
+Depreciation
+At 1 April 2023 725
+Amortisation in the year 607
+At 31 March 2024 1,332
+Net book value at 31 March 2024 . 4,890 -
+Net book value at 31 March 2023 4,269
+The Company
+Intellectual
+Property & Development
+£7000
+Cost
+At 1 April 2023 4,994
+Additions 1,228
+At 31 March 2024 6,222
+Depreciation .
+At 1 April 2023 725
+Amortisation in the year 607
+At 31 March 2024 1,332
+Net book value at 31 March 2024 4,890
+
+Net book value at 31 March 2023 4,269
+
+Docusign Envelope ID: 7513C310-352C-40FE-BFAF-3E2D0DCD77CD
+
+EA Technology Limited
+Financial statements for the year ended 341 March 2024
+
+Notes to the financial statements
+
+Tangible fixed assets
+
+The Group
+
+Cost
+
+At 1 April 2023
+
+Additions
+
+Disposals
+
+Foreign exchange translation adjustment
+At 31 March 2024
+
+Depreciation
+
+At 1 April 2023
+
+Provided in the year
+
+Disposals
+
+Foreign exchange translation adjustment
+At 31 March 2024
+
+Net book value at 31 March 2024
+
+Net book value at 31 March 2023
+
+The Company
+
+Cost
+
+At 1 April 2023
+Additions
+Disposals
+
+~ At 31 March 2024
+
+Depreciation
+
+At 1 April 2023
+Provided in the year
+Disposals
+
+At 31 March 2024
+
+Net book value at 31 March 2024
+
+Net book value at 31 March 2023
+
+Commercial in confidence
+
+29
+
+Vehicles, fixtures,
+fittings, tools
+and equipment
+
+£7000
+
+8,428
+724
+(26)
+39
+9,087
+
+6,695
+798
+(24)
+(31)
+
+7,438
+
+1,649
+
+1,733
+
+Vehicles, fixtures,
+
+fittings, tools
+
+and equipment
+£7000
+
+7,464
+501
+
+7,965
+5,910
+
+696
+6,606
+1,359
+
+1,554
+
+Docusign Envelope ID: 7513C310-352C-40FE-BFAF-3E2D0DCD77CD a
+; Commercial in confidence
+
+EA Technology Limited
+Financial statements for the year ended 31 March 2024 30
+
+Notes to the financial statements
+
+8 Fixed asset investments
+
+The Group
+Other
+
+investments Total
+£000 . £7000
+
+Cost and net book value
+At 1 April 2023 and 31 March 2024 : :
+
+The Company
+Shares in
+Other Group
+investments undertakings Total
+£7000 £7000 £7000
+Cost and net book value
+At 1 April 2023 and 31 March 2024 : 438 438
+
+The investments represent the cost of shares less amounts written off.
+
+EA Technology Limited owns 100% of the ordinary share capital of Visnet Limited a company
+incorporated in England and registered at Capenhurst Technology Park, Capenhurst Chester, CH1 6ES..
+
+EA Technology Limited owns 100% of the ordinary share capital of EA Technology PTY Limited a
+company incorporated in Australia and registered at 381 Macarthur Avenue, Hamilton, Albion QLD 4007.
+
+EA Technology Limited owns 100% of the ordinary share capital of EA Technology Asset Management
+Pte Ltd., a company incorporated in Singapore and registered at 4 Kaki Bukit Avenue 1, #0-02, Zervex,
+417939.
+
+EA Technology Limited owns 100% of the ordinary share capital of EA Technology LLC, a company
+incorporated in the USA and registered at 400 Morris Ave, Suite 240, Denville, NJ 07834.
+
+EA Technology Limited owns 100% of the ordinary share capital of EA Technology Shanghai Limited, a
+company incorporated in China and registered at 308 Wujin Century Mansion, No.291 Fumin Road, Xuhui
+Dist., Shanghai 200031.
+
+All of the above subsidiaries are included in the consolidated accounts. The accounts for EA Technology
+LLC and EA Technology Shanghai Limited are drawn up to 31 December, but management have reviewed
+and consider there are no material consequences of consolidating the results at this date. Interim financial
+statements are prepared for the intervening period.
+
+Docusign Envelope ID: 7513C310-352C-40FE-BFAF-3E2D0DCD77CD
+
+EA Technology Limited
+
+Commercial in confidence
+
+Financial statements for the year ended 31 March 2024 31
+Notes to the financial statements
+9 Stocks
+Group Company
+2024 2023 2024 2023
+£7000 £000 £7000 £7000
+Finished goods 3,742 1,606 3,560 1,343
+Work in progress 1,030 689 1,030 689
+Raw materials 2,204 2,569 2,204 2,569
+: 6,976 4,864 6,794 4,601
+Stocks are stated after provisions for impairment of £1,084,858 (2023: £858,292).
+10 Debtors
+Group Company
+2024 2023 2024 2023
+£7000 £7000 £7000 £7000
+Trade debtors 9,701 8,342 8,772 7,716
+Other debtors 114 166 9 15
+Amounts due from Group undertakings - - 592 909
+Taxation recoverable 779 1,150 690 1,150
+Prepayments and accrued income 2,151 1,717 1,851 1,542
+Deferred tax asset (see note 19) 52 949 : 873
+12,797 12,324 11,914 12,205
+Trade debtors are stated after provisions for impairment of £15,825 (2023: £24,610).
+11 Creditors: amounts falling due within one year
+Group Company
+2024 2023 2024 2023
+£7000 £7000 £7000 £7000
+Trade creditors and accruals 5,667 2,519 5,308 2,291
+Income in advance 10,190 14,685 9,453 14,258
+Corporation tax 42 89 - -
+Other taxation and social security 1,026 1,657 911 1,591
+Other creditors 415 313 328 268
+Provision for liabilities 16 16 -
+Fixed rate guaranteed secure loan note : 1,375 : 1,375
+17,356 20,638 16,016 19,783
+
+Docusign Envelope ID: 7513C310-352C-40FE-BFAF-3E2D0DCD77CD
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+EA Technology Limited
+
+Commercial in confidence
+
+Financial statements for the year ended 31 March 2024 32
+Notes to the financial statements
+Creditors due after more than 1 year
+Group Company
+2024 2023 2024 2023
+£7000 £7000 £7000 £000
+Fixed rate guaranteed secured loan note - 2,764 - 2,764
+- 2,764 - 2,764
+The loan note is now been paid.
+Share Capital
+Authorised, issued,
+called up and fully paid
+£7000
+At 31 March 2024 and 31 March 2023
+735
+
+7,350,000 ordinary shares of 10p each
+
+Retained earnings
+
+Included all current and prior period retained profits.
+Share based payment reserve
+
+Fair value of share options issued.
+
+Treasury shares
+
+On 4 August the company purchased 3,325,057 shares into Treasury .
+
+Shares held by ESOT
+Value of investments held in the ESOT.
+
+Capital commitments
+
+The Group and the Company do not have any capital commitments outstanding at the end of either year.
+
+LOCUSIGN ENVEIOpe IV: /915U51U-592U-4UFE-BFAF-SEZUUULL/ (LU
+
+19
+
+EA Technology Limited
+
+Financial statements for the year ended 31 March 2024
+
+Notes to the financial statements
+
+Deferred taxation
+
+The Group
+
+Brought forward
+
+Origination and reversal of uming differences
+Adjustments in respect of prior periods
+Adjustments in respect of consolidation adjustments
+Carried forward
+
+The Company
+
+Brought forward
+
+Origination and reversal of timing differences
+Adjustments in respect of prior periods
+Carried forward
+
+Commercial in confidence
+
+Deferred taxation provided for at 25% (2023: 25%) in the financial statements is set out below:
+
+Accelerated capital allowance
+Short term timing differences
+Losses
+
+Research and development
+
+33
+2024 2023
+£'000 . £000
+(949) (1,697)
+933 575
+(44) 190
+112 (17)
+52 (949)
+2024 2023
+£'000 £000
+(873) (1,638)
+933 575
+(44) 190
+16 (873)
+Group Company
+2024 2023 2024 2023
+£'000 £'000 £'000 £000
+1,079 1,039 1,079 1,039
+(688) (1,469) (724) (1,393)
+(87) (188) (87) (188)
+(252) (331) (252) (331)
+
+52 (949) 16
+
+(873)
+
+Docusign Envelope ID: 7513C310-352C-40FE-BFAF-3E2D0DCD77CD
+a
+
+20
+
+21
+
+22
+
+Commercial in confidence
+
+EA Technology Limited
+Financial statements for the year ended 31 March 2024 . 34
+
+Notes to the financial statements
+
+Pensions
+
+Employees are eligible to join the EA Technology Limited Group Personal Pension Scheme, a defined
+contribution scheme.
+
+Financial risk management
+
+The Group has exposures to three main areas of risk — foreign exchange currency exposure, liquidity risk
+and customer credit exposute.
+
+Foreign exchange transactional currency exposure
+
+The Group is exposed to currency rate risk in the group’s subsidiaries in Australia, China, Singapore and
+USA. The UK, where possible, trades in sterling to minimise the exposure to foreign exchange rate
+fluctuations.
+
+Liquidity risk
+
+The objective of the group in managing liquidity risk is to ensure that it can meet its financial obligations as
+and when they fall due. The group expects to meet its financial obligations through operating cash flows.
+Cash flow projections are prepared monthly reflecting the following 12 months so that mitigating actions
+can be taken if a shortfall is foreseen.
+
+Customer credit exposure
+
+The Group may offer credit terms to its customers which allow payment of the debt after delivery of the
+goods or services. The group is at risk to the extent that a customer may be unable to pay the debt on the
+specified due date. This risk is mitigated by maintaining strong on-going customer relationships.
+
+Leasing commitments
+
+The Group’s future minimum operating lease payments are as follows:
+
+2024 2023
+
+£'000 £000
+
+Within one year 557 583
+Between one and five years 299 803
+
+Over five years —
+
+Docusign Envelope IU: /915U.51U-592U-4UrE-BFAP-SEZUUULU UU
+
+23
+
+24
+
+25
+
+26
+
+Commercial in confidence
+
+EA Technology Limited
+Financial statements for the year ended 31 March 2024 35
+
+Notes to the financial statements
+
+Share based payments
+
+Certain employees of the company along with other group employees have been granted options over
+shares in EA Technology Limited. The options are granted at a fixed exercise price and are exercisable
+three years after the date of grant and will expire ten years after the date of grant. Employees are required to
+remain in the Group.
+
+No Price
+Outstanding at 1st April 2023 . 2,109,292 £ 0.21
+Exercised - 130,000 £ 0.21
+Lapsed - 21,000 £ 0.21
+Outstanding at 31st March 2024 1,958,292 £0.21/ £0.18
+Exercisable at 31st March 2024 1,116,150 £ 0.21
+
+The total charge to the profit and loss for the period was £9,000 (2023: £10,000)
+
+Of the above 1,244,292 (2023: 1,374,292) options are issued to directors, all of whom are still employed by
+the company at the year end. The total charge in relation to these options is £7,000 (2023: £8,000).
+
+Related party transactions
+
+The group has taken advantage of exemptions within Financial Reporting Standard 102 section 33 and not
+disclosed transactions where the company is a 100% subsidiary as consolidated accounts are prepared.
+
+Mr L Paillet, a previous director of the company, is also the owner of Blossom>r. During the year EA
+Technology received services of £127,190 (2023 £69,000) There was an accrual for {Nil at 31st March 2024
+(2023 £Nil)
+
+Post balance sheet events
+
+On 8 October 2024 the company was acquired by Summa Equity. Summa have also invested {7.5m
+additional development capital into the company. The company’s activities were unaffected by the
+acquisition and the company will continue to trade on the same basis for the foreseeable future.
+
+Ultimate controlling party
+
+Following the acquisition of the company on 8 October 2024 by Summa Electric BidCo Limited, the
+ultimate parent is Summa Equity AB based in Sweden.
+

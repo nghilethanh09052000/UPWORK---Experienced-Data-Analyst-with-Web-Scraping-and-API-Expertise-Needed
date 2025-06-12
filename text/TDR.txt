@@ -1,0 +1,540 @@
+yen e
+
+REGISTERED NUMBER: 04155887 (England and Wates)
+
+Audited Financial Statements
+for the Year Ended 31 July 2024
+for
+
+. TDR Training Limited
+
+CLA Evelyn Partners Limited
+17 Queens Lane
+Newcastle
+NE1 1RN
+
+FRIDAY
+
+, * ADYBSE4B*
+AOS 12
+
+14/03/2025 #
+COMPANIES HOUSE
+
+TDR Training Limited
+
+Company Information
+
+for the Year Ended 31 July 2024
+
+‘DIRECTORS:
+
+SECRETARY:
+
+REGISTERED OFFICE:
+
+REGISTERED NUMBER:
+
+AUDITORS:
+
+Ms L Xue
+Ms M O Grant OBE DL
+MrJS Smith
+
+Ms L Xue
+
+Q1 Quorum Business Park
+Benton Lane
+
+Newcastle upon Tyne
+NE12 8EX
+
+04155887 (England and Wales)
+
+CLA Evelyn Partners Limited
+17 Queens Lane
+
+Newcastle
+
+NE1 1RN
+
+Page 1
+
+TDR Training Limited (Registered number: 04155887)
+
+Balance Sheet
+32 July 2024
+
+2024 2023
+Notes £ £ E £
+
+FIXED ASSETS :
+Intangible assets 6 A
+Tangible assets 7 461,282
+
+— 461,282 31,163
+CURRENT ASSETS
+Debtors 8 326,256 328,047
+Cash at bank and in hand $12,556 . 93
+
+838,812 697,640
+
+CREDITORS
+Amounts falling due within one year 9 647,309 413,349
+NET CURRENT ASSETS 191,503
+TOTAL ASSETS LESS CURRENT -
+LIABILITIES 652,785 315,454
+PROVISIONS FOR LIABILITIES 20,000
+NET ASSETS : 652,785 295,454
+CAPITAL AND RESERVES
+Called up share capital 12 1 1
+Profit and loss account 652,784 : 295,453
+SHAREHOLDERS' FUNDS "652,785 295,454
+The finaiiéial statements have been Prepared and delivered in accordance with the provisions applicable to companies
+
+he small companies regime.
+In accordance with Section 444 of the Companies Act 2006, the Profit and Loss Account has not been delivered.
+
+The financial statements were approved by the Board of Directors and authorised for issue on
+and were signed on its behalf by:
+
+Ms L Xue - Director
+
+The notes form part of these financial statements
+
+Page 2
+
+TDR Training Limited
+
+Notes to the Financial Statements
+for the Year Ended 31 July 2024
+
+STATUTORY INFORMATION
+
+TDR Training Limited is a private company, limited by shares, registered in England and Wales. The company's
+registered number and registered office address can be found on the Company Information page.
+
+The presentation currency of the financial statements is the Pound Sterling (£).
+Monetary amounts in these financial statements are rounded to the nearest £.
+STATEMENT OF COMPLIANCE
+
+These financial statements have been prepared in accordance with Financial Reporting Standard 102 “The
+Financial Reporting Standard applicable in the UK and Republic of Ireland" including the provisions of Section
+1A "Small Entities" and the Companies Act 2006. The disclosure requirements of section 1A of FRS 102 have
+been applied other than where additional disclosure is required to show a true and fair view.
+
+ACCOUNTING POLICIES
+
+Basis of preparing the financial statements
+
+Going concern
+
+In the year ending 31 July 2024, a profit before tax of £535,331. The company has a net asset position
+£652,785 (2023 - £295,454). This includes net current assets of £191,503.
+
+Given the balance sheet position, the entity is reliant on the parent company charity for support. A letter of
+support has been received confirming the ongoing support for a period of at least 12 month from approval of
+the financial statements.
+
+The financial statements have been prepared on a going concern basis, which means that the group and entity
+is able to operate for the foreseeable future on the basis of known and projected resources.
+
+The financial statements have been prepared on a going concern basis, which means that the is company is
+able to operate for the foreseeable future on the basis of known and projected resources. The group has an
+overdraft facility of £100,000 in. place with Lloyds Bank until July 2025, together with a bank
+loan/mortgage.Based on discussions with the bank, the Directors have a reasonable expectation that the
+overdraft facility will be reviewed on an equivalent basis at the renewal date.
+
+The senior management team have prepared a case cash glow forecast for the period ending August 2026.
+This has been used to establish and assure the validity of the business as a going concern. The senior
+management team have also prepared a severe downside scenario forecast as part of this assessment. The
+assumptions in the downside scenario forecast include the following:
+
+~ Only contracted commercial income has been recognised i.e no new commercial income despite the business
+continuing to seek additional source of income.
+
+~ No external rental income in the period to July 2025.
+
+- Under performance in certain aspects of other income activities.
+
+- Cost mitigation savings as a result of the above.
+
+Both the base case forecast, and the severe downside forecast show that the group and the company are
+expected to operate within the current overdraft facility and will maintain sufficient cash funds to continue to
+trade.
+
+Consequently, the Directors are confident that the company will have sufficient funds to continue to meet their
+liabilities as they fall due and for at least 12 months from the date of approval of the financial statements and
+therefore have prepared the financial statements on a going concern ba!
+
+Turnover
+
+Income from grants, contracts and other services rendered is included to the extent of the completion of the
+contract or service concerned. All income from short term deposits is credited to the profit and loss account in
+the period in which it is earned.
+
+Government grants
+Government grants are recognised at the fair value of the asset received or receivable when there
+reasonable assurance that the grant conditions will be met and the grants will be received.
+
+A grant that specifies performance conditions is recognised in income when the performance conditions are
+met. Where a grant does not specify performance conditions it is recognised in income when the proceeds are
+received or receivable. A grant received before the recognition criteria are satisfied is recognised as a liability.
+
+Intangible fixed assets - negative goodwill
+Negative goodwill arises when the cost of a business combination is less that the fair value of net assets
+acquired. Negative goodwill in excess of their fair values of the non monetary assets acquired is credited to
+profit and loss in the periods expected to benefit, which the directors consider to be 4 years.
+
+Page 3
+
+
+TDR Training Limited
+
+Notes to the Financial Statements - continued
+for the Year Ended 31 July 2024
+
+ACCOUNTING POLICIES - continued
+
+Tangible fixed assets
+
+Depreciation is provided at the following annual rates in order to write off the cost less estimated residual
+value of each asset over its estimated useful life.
+
+Fixtures and fittings - 25% on cost and 20% on cost
+
+Tangible fixed assets are measured at cost less accumulated depreciation and any accumulated impairment
+losses,
+
+The gain or loss arising on the disposal of an asset is determined as the difference between the sale proceeds
+and the carrying value of the asset, and is credited or charged to profit or loss.
+
+Impairment of fixed assets . .
+At each reporting period end, the company reviews the carrying amounts of its tangible and-intangible assets
+to determine whether there is any Indication that those assets have suffered an impairment loss. If any ‘such
+
+‘Indication exists, the recoverable amount of the asset is estimated in ofdér to determine. the extent of the
+
+impairment loss (if any).
+
+Cash and cash equivalents
+Cash and cash equivalents are basic financial instruments and include cash in hand, deposits held at call and
+bank overdrafts. Bank overdrafts are shown within borrowings in current liabilities.
+
+The company has elected to apply the provisions of Section 11 ‘Basic Financial Instruments’ of FRS 102 to all
+of its financial instruments.
+
+Financial instruments are recognised when the company becomes party to the contractual provisions of the
+instrument.
+
+Financial assets and liabilities are offset, with the net amounts presented in the financial statements, when
+there is legally enforceable right te set off the recognised amounts and there is an intention to settle on a net
+basis or to realise the asset and settle the liability simultaneously.
+
+Basic financial assets:
+
+Basic financial assets, which include trade and other debtors, cash and bank balances and amounts owed by
+group undertakings are initially measured at transaction price including transaction costs and are subsequently
+carried at amortised cost using’ the effective interest methad unless the arrangement constitutes a financing
+transaction, where the financial asset is measured at the present Value of the future receipts discounted at a
+market rate of interest,
+
+Classification of financial liabilities:
+
+Financial liabilities and equity instruments are classified according to the substance of the contractual
+arrangements entered into. An equity instrument is any contract that evidences a residual interest in the
+assets of the company after deducting all of its liabilities.
+
+Basis financial liabilities:
+Basic financial liabilities, including trade and other creditors; bank loans and amounts owed to :group
+undertakings, are initially recognised at transaction price unless the arrangement constitutes a financing
+
+transaction, where the debt instrument is measured at the present value of the future payments discounted at
+a market rate of interest.
+
+Debt instruments are subsequently carried at amortised cost, using the effective interest rate method.
+
+Equity instruments:
+
+Equity instruments Issued by the company are recorded at their fair value of proceeds received, net of
+transaction costs. Dividehds payable on equity instruments are recognised as liabilities once they are no longer
+at the discretion of the company.
+
+Page 4 continued...
+
+TDR Training Limited
+
+Notes to the Financial Statements - continued
+for the Year Ended 31 July 2024
+
+ACCOUNTING POLICIES - continued
+
+Taxation
+
+The tax expense represents the sum of the current tax expense and deferred tax expense. Current tax assets
+are recognised when the tax paid exceeds the tax payable.
+
+Deferred tax is calculated at the tax rates that are expected to apply to the period when the asset is realised
+or the tax liability is settled based on tax rates that have been enacted or substantively enacted by the
+reporting date.
+
+Deferred tax liabilities are recognised in respect of ail timing differences that exist at the reporting date.
+Timing differences are differences between taxable profits and total comprehensive income that arise from the
+inclusion of income and expenses in tax assessments in different periods from their recognition in the financial
+statements.Deferred tax assets are recognised only to the extent that it is probable that they will be recovered
+by the reversal of deferred tax liabilities or other future taxable profits.
+
+Deferred tax is recognised on differences between the valve of assets (other than goodwill) and _ liabilities
+recognised in a business combination and the amounts that can be deducted or assessed for tax. The deferred
+tax recognised is adjusted against goodwill.
+
+Employee benefits
+The costs of shart term employee benefits are recognised as a liability and an expense, unless those costs are
+required to be recognised as part of the cost of stock or fixed assets.
+
+The cost of any unused holiday entitlement is recognised in the period in which the employee's services are
+received. ae
+
+Retirement benefits
+The company operates a defined contribution pension scheme for employees. The assets of the scheme are
+
+held separately from those of the company. The annual contributions payable are charged to the profit and
+loss account in the period in which it is earned.
+
+EMPLOYEES AND DIRECTORS
+The average number of employees during the year was 30 (2023 - 30),,
+
+AUDITORS' REMUNERATION
+
+2024 2023
+£ £
+Fees payable to the company's auditors for the audit of the company's
+financial statements 15,250 14,500
+INTANGIBLE FIXED ASSETS
+Negative
+goodwill
+£—
+cost
+At 1 August 2023
+and 31 July 2024 (39,999)
+AMORTISATION |
+At i August 2023
+and 31 July 2024 (39,999)
+
+NET BOOK VALUE
+At 31 July 2024
+
+At 31 July 2023
+
+Amounts recognised in profit or loss for the year in respect of negative goodwill are included within
+administrative expenses.
+
+ek
+
+Page 5 continued,
+
+10.
+
+TDR Training Limited
+
+Notes to the Financial Statements - continued
+for the Year Ended 31 July 2024
+
+TANGIBLE FIXED ASSETS
+
+cost
+At 1 August 2023
+Additions
+
+At 31 July 2024
+
+DEPRECIATION
+At 1 August 2023
+Charge for year .
+
+At 31 July 2024
+
+NET BOOK VALUE
+At 31 July 2024
+
+At 31 July 2023
+
+DEBTORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+
+Trade debtors
+Amounts owed by group undertakings
+Other debtors
+Prepayments
+
+CREDITORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+
+Trade creditors
+
+Tax
+
+Social security and other taxes
+VAT
+
+Other creditors
+
+. Accruals and deferred income
+
+Accrued expenses
+
+LEASING AGREEMENTS
+
+Fixtures
+Leasehold and
+improvements fittings
+£ £
+2 46,284
+245,618 209,322
+
+18
+
+Totals
+£
+
+46,284
+454,940
+
+501,
+
+227,905
+
+31,163
+
+326,256
+
+2024
+£
+135,928
+78,000
+25,954
+
+74,997
+172,834
+159,596
+
+Minimum lease payments under non-cancellable operating leases fall due as follows?
+
+Within one year
+Between one and five years
+
+2024
+£
+14,034
+5,775
+
+15,121
+24,821
+
+39,942
+
+2023
+£
+185,570
+120,501
+
+4,114
+17,862
+
+328,047
+
+2023
+£
+
+74,787
+22,644
+24,380
+4,895
+64,764
+90,483
+131,396
+
+13,349
+
+2023
+
+£
+14,639
+19,809
+
+Operating lease payments represent rentals payable by the company for certain of its Properties. The notice
+period is the earlier of the notice by Training and Development Resource Limited, the company's ultimate
+
+parent, or 6 months notice.
+
+Operating leases also relate to office equipment over varying lease terms.
+
+Page 6
+
+continued. «i:
+
+11s
+
+12.
+
+13.
+
+14.
+
+15.
+
+TDR Training Limited
+
+Notes to the Financial Statements - continued
+for the Year Ended 31 July 2024
+
+SECURED DEBTS
+
+The following secured debts are included within creditors:
+
+2023
+£
+
+Finance lease
+
+14.215
+
+The finance lease liability is secured against the assets to which it relates. The net book value of fixed assets
+held under finance lease at 31 July 2024 was £12,880 (2023 - £17,173).
+
+The company's bank overdraft is due for renewal in July 2024 and includes an unlimited debenture
+incorporating a fixed and floating charge.
+
+CALLED UP SHARE CAPITAL
+
+Allotted, issued and fully paid?
+
+Number: Class: Nominal 2024 2023
+value: £ £
+1 Ordinary share capital 1 1
+DISCLOSURE UNDER SECTION 444(5B) OF THE COMPANIES ACT 2006
+The Report of the Auditors was unqualificd.
+Craig Henderson (Senior Statutory Auditor)
+for and on behalf of CLA Evelyn Partners Limited
+PENSION COMMITMENTS
+Defined contribution schemes
+2024 2023
+— £
+Charge to profit or loss in respect of defined contribution schemes 93,350 84,131.
+
+The company operates a defined contribution pension scheme for all qualifying employees. The assets of the
+scheme are held separately from those of the company in an independently administered fund. The pension
+cost charge represents contributions payable by the company to the fund. Included within creditors falling due
+within‘on year is an amount of £10,882 (2023 - £6,816) that remains unpaid at the year end.
+
+ULTIMATE CONTROLLING PARTY
+
+Training and Development Resource Limited, company number 03163754, is the company's immediate parent
+company and heads up the largest and smallest group of companies for which a consolidation is prepared
+containing the results of TDR Training Li mited.
+
+The company has taken the exemption not to disclose transactions with the parent company
+
+Copies of the financial statements for Training and Development Resource Limited are available from the
+Registrar of Companies, Companies House, Crown Way, Maindy, Cardiff, CF14 3UZ.
+
+Page 7
+

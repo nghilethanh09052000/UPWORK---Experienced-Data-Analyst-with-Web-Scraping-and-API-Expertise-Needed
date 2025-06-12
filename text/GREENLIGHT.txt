@@ -1,0 +1,584 @@
+Greenlight Training Limited - Accounts to registrar (filleted) - small 23.2.5
+IRIS Accounts Production
+v24.2.0.383
+11513708
+director
+1.1.23
+31.12.23
+31.12.23
+false
+true
+false
+false
+true
+false
+iso4217:GBP
+iso4217:USD
+iso4217:EUR
+xbrli:shares
+xbrli:pure
+utr:tonnes
+utr:kWh
+11513708
+2022-12-31
+11513708
+2023-12-31
+11513708
+2023-01-01
+2023-12-31
+11513708
+2021-12-31
+11513708
+2022-01-01
+2022-12-31
+11513708
+2022-12-31
+11513708
+ns15:EnglandWales
+2023-01-01
+2023-12-31
+11513708
+ns14:PoundSterling
+2023-01-01
+2023-12-31
+11513708
+ns10:Director1
+2023-01-01
+2023-12-31
+11513708
+ns10:PrivateLimitedCompanyLtd
+2023-01-01
+2023-12-31
+11513708
+ns10:SmallEntities
+2023-01-01
+2023-12-31
+11513708
+ns10:AuditExempt-NoAccountantsReport
+2023-01-01
+2023-12-31
+11513708
+ns10:SmallCompaniesRegimeForDirectorsReport
+2023-01-01
+2023-12-31
+11513708
+ns10:SmallCompaniesRegimeForAccounts
+2023-01-01
+2023-12-31
+11513708
+ns10:FullAccounts
+2023-01-01
+2023-12-31
+11513708
+ns5:CurrentFinancialInstruments
+2023-12-31
+11513708
+ns5:CurrentFinancialInstruments
+2022-12-31
+11513708
+ns5:Non-currentFinancialInstruments
+2023-12-31
+11513708
+ns5:Non-currentFinancialInstruments
+2022-12-31
+11513708
+ns5:ShareCapital
+2023-12-31
+11513708
+ns5:ShareCapital
+2022-12-31
+11513708
+ns5:RetainedEarningsAccumulatedLosses
+2023-12-31
+11513708
+ns5:RetainedEarningsAccumulatedLosses
+2022-12-31
+11513708
+ns10:RegisteredOffice
+2023-01-01
+2023-12-31
+11513708
+ns5:LandBuildings
+2023-01-01
+2023-12-31
+11513708
+ns5:PlantMachinery
+2023-01-01
+2023-12-31
+11513708
+ns5:LandBuildings
+2022-12-31
+11513708
+ns5:PlantMachinery
+2022-12-31
+11513708
+ns5:LandBuildings
+2023-12-31
+11513708
+ns5:PlantMachinery
+2023-12-31
+11513708
+ns5:LandBuildings
+2022-12-31
+11513708
+ns5:PlantMachinery
+2022-12-31
+11513708
+ns5:PlantMachinery
+ns5:LeasedAssetsHeldAsLessee
+2022-12-31
+11513708
+ns5:PlantMachinery
+ns5:LeasedAssetsHeldAsLessee
+2023-01-01
+2023-12-31
+11513708
+ns5:PlantMachinery
+ns5:LeasedAssetsHeldAsLessee
+2023-12-31
+11513708
+ns5:PlantMachinery
+ns5:LeasedAssetsHeldAsLessee
+2022-12-31
+11513708
+ns5:CurrentFinancialInstruments
+ns5:WithinOneYear
+2023-12-31
+11513708
+ns5:CurrentFinancialInstruments
+ns5:WithinOneYear
+2022-12-31
+11513708
+ns5:HirePurchaseContracts
+ns5:CurrentFinancialInstruments
+ns5:WithinOneYear
+2023-12-31
+11513708
+ns5:HirePurchaseContracts
+ns5:CurrentFinancialInstruments
+ns5:WithinOneYear
+2022-12-31
+11513708
+ns5:BetweenOneFiveYears
+ns5:HirePurchaseContracts
+2023-12-31
+11513708
+ns5:BetweenOneFiveYears
+ns5:HirePurchaseContracts
+2022-12-31
+11513708
+ns5:HirePurchaseContracts
+2023-12-31
+11513708
+ns5:HirePurchaseContracts
+2022-12-31
+11513708
+ns5:WithinOneYear
+2023-12-31
+11513708
+ns5:WithinOneYear
+2022-12-31
+11513708
+ns5:BetweenOneFiveYears
+2023-12-31
+11513708
+ns5:BetweenOneFiveYears
+2022-12-31
+11513708
+ns5:MoreThanFiveYears
+2023-12-31
+11513708
+ns5:MoreThanFiveYears
+2022-12-31
+11513708
+ns5:AllPeriods
+2023-12-31
+11513708
+ns5:AllPeriods
+2022-12-31
+REGISTERED NUMBER:
+11513708
+(England and Wales)
+Unaudited Financial Statements
+For The Year Ended 31 December 2023
+for
+Greenlight Training Limited
+Greenlight Training Limited (Registered number: 11513708)
+Contents of the Financial Statements
+For The Year Ended 31 December 2023
+Page
+Statement of Financial Position
+1
+Notes to the Financial Statements
+2
+Greenlight Training Limited (Registered number: 11513708)
+Statement of Financial Position
+31 December 2023
+31.12.23
+31.12.22
+Notes
+£
+£
+£
+£
+FIXED ASSETS
+Tangible assets
+4
+188,865
+136,560
+CURRENT ASSETS
+Debtors
+5
+580,116
+505,964
+Cash at bank
+395,752
+429,541
+975,868
+935,505
+CREDITORS
+Amounts falling due within one year
+6
+610,642
+186,224
+NET CURRENT ASSETS
+365,226
+749,281
+TOTAL ASSETS LESS CURRENT
+LIABILITIES
+554,091
+885,841
+CREDITORS
+Amounts falling due after more than one
+year
+7
+-
+(
+32,220
+)
+PROVISIONS FOR LIABILITIES
+(
+28,507
+)
+(
+18,685
+)
+NET ASSETS
+525,584
+834,936
+CAPITAL AND RESERVES
+Called up share capital
+100
+100
+Retained earnings
+525,484
+834,836
+525,584
+834,936
+The company is entitled to exemption from audit under Section 477 of the Companies Act 2006 for the year ended 31 December 2023.
+The members have not required the company to obtain an audit of its financial statements for the year ended 31 December 2023 in accordance with Section 476 of the Companies Act 2006.
+The director acknowledges his responsibilities for:
+(a)
+ensuring that the company keeps accounting records which comply with Sections 386 and 387 of the Companies
+Act 2006 and
+(b)
+preparing financial statements which give a true and fair view of the state of affairs of the company as at the end
+of each financial year and of its profit or loss for each financial year in accordance with the requirements of
+Sections 394 and 395 and which otherwise comply with the requirements of the Companies Act 2006 relating to
+financial statements, so far as applicable to the company.
+The financial statements have been prepared and delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+In accordance with Section 444 of the Companies Act 2006, the Income Statement has not been delivered.
+The financial statements were approved by the director and authorised for issue on
+16 September 2024
+and were
+signed by:
+D Symons
+- Director
+The notes form part of these financial statements
+Page 1
+Greenlight Training Limited (Registered number: 11513708)
+Notes to the Financial Statements
+For The Year Ended 31 December 2023
+1.
+STATUTORY INFORMATION
+Greenlight Training Limited is a
+private company, limited by shares
+, registered in England and Wales. The
+company's registered number and registered office address are as below:
+Registered number:
+11513708
+Registered office:
+Bergstrand House
+Parkwood Close
+Roborough
+Plymouth
+Devon
+PL6 7SG
+2.
+ACCOUNTING POLICIES
+Basis of preparing the financial statements
+These financial statements have been prepared in accordance with Financial Reporting Standard 102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland" including the provisions of Section 1A "Small Entities" and the Companies Act 2006. The financial statements have been prepared under the historical cost convention.
+Turnover
+Turnover is measured at the fair value of the consideration received or receivable, excluding discounts, rebates,
+value added tax and other sales taxes.
+Tangible fixed assets
+Depreciation is provided at the following annual rates in order to write off each asset over its estimated useful life or, if held under a finance lease, over the lease term, whichever is the shorter.
+Land and buildings
+-
+20% on cost and 10% on cost
+Plant and machinery etc
+-
+25% on reducing balance
+Taxation
+Taxation for the year comprises current and deferred tax. Tax is recognised in the Income Statement, except to
+the extent that it relates to items recognised in other comprehensive income or directly in equity.
+Current or deferred taxation assets and liabilities are not discounted.
+Current tax is recognised at the amount of tax payable using the tax rates and laws that have been enacted or
+substantively enacted by the statement of financial position date.
+Deferred tax
+Deferred tax is recognised in respect of all timing differences that have originated but not reversed at the
+statement of financial position date.
+Timing differences arise from the inclusion of income and expenses in tax assessments in periods different from
+those in which they are recognised in financial statements. Deferred tax is measured using tax rates and laws
+that have been enacted or substantively enacted by the year end and that are expected to apply to the reversal
+of the timing difference.
+Unrelieved tax losses and other deferred tax assets are recognised only to the extent that it is probable that they
+will be recovered against the reversal of deferred tax liabilities or other future taxable profits.
+Hire purchase and leasing commitments
+Assets obtained under hire purchase contracts or finance leases are capitalised in the balance sheet. Those
+held under hire purchase contracts are depreciated over their estimated useful lives. Those held under finance
+leases are depreciated over their estimated useful lives or the lease term, whichever is the shorter.
+The interest element of these obligations is charged to profit or loss over the relevant period. The capital element
+of the future payments is treated as a liability.
+Rentals paid under operating leases are charged to profit or loss on a straight line basis over the period of the
+lease.
+Pension costs and other post-retirement benefits
+The company operates a defined contribution pension scheme.
+Contributions payable to the company's pension
+scheme are charged to profit or loss in the period to which they relate.
+Page 2
+continued...
+Greenlight Training Limited (Registered number: 11513708)
+Notes to the Financial Statements - continued
+For The Year Ended 31 December 2023
+3.
+EMPLOYEES AND DIRECTORS
+The average number of employees during the year was
+43
+(2022 -
+31
+) .
+4.
+TANGIBLE FIXED ASSETS
+Plant and
+Land and
+machinery
+buildings
+etc
+Totals
+£
+£
+£
+COST
+At 1 January 2023
+28,838
+148,444
+177,282
+Additions
+120,055
+31,099
+151,154
+Disposals
+(
+20,864
+)
+(
+81,389
+)
+(
+102,253
+)
+At 31 December 2023
+128,029
+98,154
+226,183
+DEPRECIATION
+At 1 January 2023
+3,744
+36,978
+40,722
+Charge for year
+3,896
+14,927
+18,823
+Eliminated on disposal
+(
+3,059
+)
+(
+19,168
+)
+(
+22,227
+)
+At 31 December 2023
+4,581
+32,737
+37,318
+NET BOOK VALUE
+At 31 December 2023
+123,448
+65,417
+188,865
+At 31 December 2022
+25,094
+111,466
+136,560
+Fixed assets, included in the above, which are held under hire purchase contracts are as follows:
+Plant and
+machinery
+etc
+£
+COST
+At 1 January 2023
+47,324
+Disposals
+(
+47,324
+)
+At 31 December 2023
+-
+DEPRECIATION
+At 1 January 2023
+11,831
+Eliminated on disposal
+(
+11,831
+)
+At 31 December 2023
+-
+NET BOOK VALUE
+At 31 December 2023
+-
+At 31 December 2022
+35,493
+5.
+DEBTORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+31.12.23
+31.12.22
+£
+£
+Trade debtors
+191,809
+13,423
+Amounts owed by group undertakings
+52,429
+148,476
+Other debtors
+335,878
+344,065
+580,116
+505,964
+Page 3
+continued...
+Greenlight Training Limited (Registered number: 11513708)
+Notes to the Financial Statements - continued
+For The Year Ended 31 December 2023
+6.
+CREDITORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+31.12.23
+31.12.22
+£
+£
+Hire purchase contracts
+(see note 8)
+-
+4,841
+Trade creditors
+112,422
+50,441
+Amounts owed to group undertakings
+273,435
+15,111
+Taxation and social security
+122,853
+94,325
+Other creditors
+101,932
+21,506
+610,642
+186,224
+7.
+CREDITORS: AMOUNTS FALLING DUE AFTER MORE THAN ONE YEAR
+31.12.23
+31.12.22
+£
+£
+Hire purchase contracts
+(see note 8)
+-
+32,220
+8.
+LEASING AGREEMENTS
+Minimum lease payments fall due as follows:
+Hire purchase contracts
+31.12.23
+31.12.22
+£
+£
+Net obligations repayable:
+Within one year
+-
+4,841
+Between one and five years
+-
+32,220
+-
+37,061
+Non-cancellable
+operating leases
+31.12.23
+31.12.22
+£
+£
+Within one year
+161,300
+95,626
+Between one and five years
+495,212
+254,766
+In more than five years
+342,751
+-
+999,263
+350,392
+9.
+SECURED DEBTS
+The following secured debts are included within creditors:
+31.12.23
+31.12.22
+£
+£
+Hire purchase contracts
+-
+37,061
+The company has a hire purchase agreement which is secured on the asset being financed.
+Page 4
+continued...
+Greenlight Training Limited (Registered number: 11513708)
+Notes to the Financial Statements - continued
+For The Year Ended 31 December 2023
+10.
+RELATED PARTY DISCLOSURES
+During the year the company voted dividends to Greenlight Group Limited, the parent company. As at 31
+December 2023 there was a balance owed to Greenlight Group Limited of £258,324 (2022 owed from Greenlight
+Group Ltd::£64,158) . This is included in amounts owed to group undertakings.
+During the year the company paid costs and received income on behalf of Greenlight Safety Consultancy
+Limited, a fellow group company. As at 31 December 2023 a balance was owed from Greenlight Safety
+Consultancy Limited of £52,428 (2022: £84,318). This is included in amounts owed to group undertakings.
+During the year the company received income on behalf of Greenlight Safety Assessment Scheme Limited, a
+fellow group company. As at 31 December 2023 a balance was owed to Greenlight Safety Assessment Scheme
+Limited of £15,111 (2022: £15,111). This is included in amounts owed to group undertakings.
+The immediate parent company is Greenlight Group Limited, a company incorporated in the UK.
+The ultimate parent company is Greenlight Group Holdings Limited, a company incorporated in the UK.
+Page 5

@@ -1,0 +1,598 @@
+NowSkills Limited - Accounts to registrar (filleted) - small 23.2.5
+IRIS Accounts Production
+v24.2.0.383
+08388678
+Board of Directors
+1.3.23
+29.2.24
+29.2.24
+false
+true
+false
+false
+true
+false
+Ordinary 0.01p
+0.01000
+50958
+57358
+53210
+53600
+78051
+60000
+26117
+50958
+iso4217:GBP
+iso4217:USD
+iso4217:EUR
+xbrli:shares
+xbrli:pure
+utr:tonnes
+utr:kWh
+08388678
+2023-02-28
+08388678
+2024-02-29
+08388678
+2023-03-01
+2024-02-29
+08388678
+2022-02-28
+08388678
+2022-03-01
+2023-02-28
+08388678
+2023-02-28
+08388678
+ns15:EnglandWales
+2023-03-01
+2024-02-29
+08388678
+ns14:PoundSterling
+2023-03-01
+2024-02-29
+08388678
+ns10:Director1
+2023-03-01
+2024-02-29
+08388678
+ns10:PrivateLimitedCompanyLtd
+2023-03-01
+2024-02-29
+08388678
+ns10:SmallEntities
+2023-03-01
+2024-02-29
+08388678
+ns10:AuditExempt-NoAccountantsReport
+2023-03-01
+2024-02-29
+08388678
+ns10:SmallCompaniesRegimeForDirectorsReport
+2023-03-01
+2024-02-29
+08388678
+ns10:SmallCompaniesRegimeForAccounts
+2023-03-01
+2024-02-29
+08388678
+ns10:FullAccounts
+2023-03-01
+2024-02-29
+08388678
+ns10:OrdinaryShareClass2
+2023-03-01
+2024-02-29
+08388678
+ns10:Director1
+41
+2023-02-28
+08388678
+ns10:Director1
+41
+2022-02-28
+08388678
+ns10:Director1
+41
+2023-03-01
+2024-02-29
+08388678
+ns10:Director1
+41
+2022-03-01
+2023-02-28
+08388678
+ns10:Director1
+41
+2024-02-29
+08388678
+ns10:Director1
+41
+2023-02-28
+08388678
+ns10:Director2
+2023-03-01
+2024-02-29
+08388678
+ns10:Director3
+2023-03-01
+2024-02-29
+08388678
+ns10:Director4
+2023-03-01
+2024-02-29
+08388678
+ns10:RegisteredOffice
+2023-03-01
+2024-02-29
+08388678
+ns5:CurrentFinancialInstruments
+2024-02-29
+08388678
+ns5:CurrentFinancialInstruments
+2023-02-28
+08388678
+ns5:Non-currentFinancialInstruments
+2024-02-29
+08388678
+ns5:Non-currentFinancialInstruments
+2023-02-28
+08388678
+ns5:ShareCapital
+2024-02-29
+08388678
+ns5:ShareCapital
+2023-02-28
+08388678
+ns5:RetainedEarningsAccumulatedLosses
+2024-02-29
+08388678
+ns5:RetainedEarningsAccumulatedLosses
+2023-02-28
+08388678
+ns5:FurnitureFittings
+2023-03-01
+2024-02-29
+08388678
+ns5:ComputerEquipment
+2023-03-01
+2024-02-29
+08388678
+ns5:FurnitureFittings
+2023-02-28
+08388678
+ns5:ComputerEquipment
+2023-02-28
+08388678
+ns5:FurnitureFittings
+2024-02-29
+08388678
+ns5:ComputerEquipment
+2024-02-29
+08388678
+ns5:FurnitureFittings
+2023-02-28
+08388678
+ns5:ComputerEquipment
+2023-02-28
+08388678
+ns5:WithinOneYear
+ns5:CurrentFinancialInstruments
+2024-02-29
+08388678
+ns5:WithinOneYear
+ns5:CurrentFinancialInstruments
+2023-02-28
+08388678
+ns5:Non-currentFinancialInstruments
+ns5:BetweenTwoFiveYears
+2024-02-29
+08388678
+ns5:Non-currentFinancialInstruments
+ns5:BetweenTwoFiveYears
+2023-02-28
+08388678
+ns5:Non-currentFinancialInstruments
+ns5:MoreThanFiveYears
+2024-02-29
+08388678
+ns5:Non-currentFinancialInstruments
+ns5:MoreThanFiveYears
+2023-02-28
+08388678
+ns10:OrdinaryShareClass2
+2024-02-29
+08388678
+ns10:Director2
+2
+2023-02-28
+08388678
+ns10:Director2
+2
+2022-02-28
+08388678
+ns10:Director2
+2
+2023-03-01
+2024-02-29
+08388678
+ns10:Director2
+2
+2022-03-01
+2023-02-28
+08388678
+ns10:Director2
+2
+2024-02-29
+08388678
+ns10:Director2
+2
+2023-02-28
+REGISTERED NUMBER:
+08388678
+(England and Wales)
+Unaudited Financial Statements
+for the Year Ended 29 February 2024
+for
+NowSkills Limited
+NowSkills Limited (Registered number: 08388678)
+Contents of the Financial Statements
+for the Year Ended 29 February 2024
+Page
+Company Information
+1
+Balance Sheet
+2
+Notes to the Financial Statements
+4
+NowSkills Limited
+Company Information
+for the Year Ended 29 February 2024
+DIRECTORS:
+Mrs K R Norse
+M A Norse
+P Brunskill
+D Wells
+REGISTERED OFFICE:
+Hazlemere
+70 Chorley New Road
+Bolton
+Lancashire
+BL1 4BY
+REGISTERED NUMBER:
+08388678
+(England and Wales)
+ACCOUNTANTS:
+DonnellyBentley Limited
+Chartered Accountants
+Hazlemere
+70 Chorley New Road
+Bolton
+Lancashire
+BL1 4BY
+Page 1
+NowSkills Limited (Registered number: 08388678)
+Balance Sheet
+29 February 2024
+2024
+2023
+Notes
+£
+£
+£
+£
+FIXED ASSETS
+Tangible assets
+4
+10,552
+15,438
+CURRENT ASSETS
+Debtors
+5
+266,562
+243,594
+Cash at bank
+88,280
+39,778
+354,842
+283,372
+CREDITORS
+Amounts falling due within one year
+6
+145,951
+165,494
+NET CURRENT ASSETS
+208,891
+117,878
+TOTAL ASSETS LESS CURRENT
+LIABILITIES
+219,443
+133,316
+CREDITORS
+Amounts falling due after more than one
+year
+7
+31,250
+36,250
+NET ASSETS
+188,193
+97,066
+CAPITAL AND RESERVES
+Called up share capital
+8
+3
+3
+Retained earnings
+188,190
+97,063
+SHAREHOLDERS' FUNDS
+188,193
+97,066
+The company is entitled to exemption from audit under Section 477 of the Companies Act 2006 for the year ended 29 February 2024.
+The members have not required the company to obtain an audit of its financial statements for the year ended 29 February 2024 in accordance with Section 476 of the Companies Act 2006.
+The directors acknowledge their responsibilities for:
+(a)
+ensuring that the company keeps accounting records which comply with Sections 386 and 387 of the
+Companies Act 2006 and
+(b)
+preparing financial statements which give a true and fair view of the state of affairs of the company as at
+the end of each financial year and of its profit or loss for each financial year in accordance with the
+requirements of Sections 394 and 395 and which otherwise comply with the requirements of the
+Companies Act 2006 relating to financial statements, so far as applicable to the company.
+The notes form part of these financial statements
+Page 2
+continued...
+NowSkills Limited (Registered number: 08388678)
+Balance Sheet - continued
+29 February 2024
+The financial statements have been prepared and delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+In accordance with Section 444 of the Companies Act 2006, the Statement of Income and Retained Earnings has not been delivered.
+The financial statements were approved by the Board of Directors and authorised for issue on
+5 September 2024
+and were signed on its behalf by:
+M A Norse
+- Director
+The notes form part of these financial statements
+Page 3
+NowSkills Limited (Registered number: 08388678)
+Notes to the Financial Statements
+for the Year Ended 29 February 2024
+1.
+STATUTORY INFORMATION
+NowSkills Limited is a
+private company, limited by shares
+, registered in England and Wales. The
+company's registered number and registered office address can be found on the Company Information
+page.
+2.
+ACCOUNTING POLICIES
+Basis of preparing the financial statements
+These financial statements have been prepared in accordance with Financial Reporting Standard 102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland" including the provisions of Section 1A "Small Entities" and the Companies Act 2006. The financial statements have been prepared under the historical cost convention.
+Turnover
+Turnover is measured at the fair value of the consideration received or receivable, excluding discounts,
+rebates, value added tax and other sales taxes.
+Tangible fixed assets
+Depreciation is provided at the following annual rates in order to write off each asset over its estimated useful life.
+Fixtures and fittings
+-
+25% on cost
+Computer equipment
+-
+25% on cost
+Taxation
+Taxation for the year comprises current and deferred tax. Tax is recognised in the Statement of
+Income and Retained Earnings, except to the extent that it relates to items recognised in other
+comprehensive income or directly in equity.
+Current or deferred taxation assets and liabilities are not discounted.
+Current tax is recognised at the amount of tax payable using the tax rates and laws that have been
+enacted or substantively enacted by the balance sheet date.
+Deferred tax
+Deferred tax is recognised in respect of all timing differences that have originated but not reversed at
+the balance sheet date.
+Timing differences arise from the inclusion of income and expenses in tax assessments in periods
+different from those in which they are recognised in financial statements. Deferred tax is measured
+using tax rates and laws that have been enacted or substantively enacted by the year end and that are
+expected to apply to the reversal of the timing difference.
+Unrelieved tax losses and other deferred tax assets are recognised only to the extent that it is probable
+that they will be recovered against the reversal of deferred tax liabilities or other future taxable profits.
+Hire purchase and leasing commitments
+Rentals paid under operating leases are charged to profit or loss on a straight line basis over the
+period of the lease.
+Pension costs and other post-retirement benefits
+The company operates a defined contribution pension scheme.
+Contributions payable to the
+company's pension scheme are charged to profit or loss in the period to which they relate.
+3.
+EMPLOYEES AND DIRECTORS
+The average number of employees during the year was
+55
+(2023 -
+46
+) .
+Page 4
+continued...
+NowSkills Limited (Registered number: 08388678)
+Notes to the Financial Statements - continued
+for the Year Ended 29 February 2024
+4.
+TANGIBLE FIXED ASSETS
+Fixtures
+and
+Computer
+fittings
+equipment
+Totals
+£
+£
+£
+COST
+At 1 March 2023
+14,718
+41,893
+56,611
+Additions
+849
+1,571
+2,420
+At 29 February 2024
+15,567
+43,464
+59,031
+DEPRECIATION
+At 1 March 2023
+9,673
+31,500
+41,173
+Charge for year
+2,725
+4,581
+7,306
+At 29 February 2024
+12,398
+36,081
+48,479
+NET BOOK VALUE
+At 29 February 2024
+3,169
+7,383
+10,552
+At 28 February 2023
+5,045
+10,393
+15,438
+5.
+DEBTORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+2024
+2023
+£
+£
+Trade debtors
+13,832
+9,017
+Other debtors
+1,096
+1,596
+Directors' current accounts
+26,117
+50,818
+Tax
+220
+220
+Accrued income
+205,192
+169,965
+Prepayments
+20,105
+11,978
+266,562
+243,594
+6.
+CREDITORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+2024
+2023
+£
+£
+Bank loans and overdrafts
+5,000
+9,693
+Other loans
+-
+3,124
+Trade creditors
+17,008
+11,363
+Tax
+57,318
+27,664
+Social security and other taxes
+31,034
+46,889
+Other creditors
+31,175
+43,440
+Accrued expenses
+4,416
+23,321
+145,951
+165,494
+7.
+CREDITORS: AMOUNTS FALLING DUE AFTER MORE THAN ONE
+YEAR
+2024
+2023
+£
+£
+Bank loans - 2-5 years
+20,000
+20,000
+Bank loans more 5 yr by instal
+11,250
+16,250
+31,250
+36,250
+Page 5
+continued...
+NowSkills Limited (Registered number: 08388678)
+Notes to the Financial Statements - continued
+for the Year Ended 29 February 2024
+7.
+CREDITORS: AMOUNTS FALLING DUE AFTER MORE THAN ONE YEAR - continued
+2024
+2023
+£
+£
+Amounts falling due in more than five years:
+Repayable by instalments
+Bank loans more 5 yr by instal
+11,250
+16,250
+8.
+CALLED UP SHARE CAPITAL
+Allotted, issued and fully paid:
+Number:
+Class:
+Nominal
+2024
+2023
+value:
+£
+£
+300
+Ordinary 0.01p
+1p
+3
+3
+9.
+DIRECTORS' ADVANCES, CREDITS AND GUARANTEES
+The following advances and credits to directors subsisted during the years ended 29 February 2024
+and 28 February 2023:
+2024
+2023
+£
+£
+Mrs K R Norse
+and
+M A Norse
+Balance outstanding at start of year
+50,958
+57,358
+Amounts advanced
+53,210
+53,600
+Amounts repaid
+(
+78,051
+)
+(
+60,000
+)
+Amounts written off
+-
+-
+Amounts waived
+-
+-
+Balance outstanding at end of year
+26,117
+50,958
+Page 6

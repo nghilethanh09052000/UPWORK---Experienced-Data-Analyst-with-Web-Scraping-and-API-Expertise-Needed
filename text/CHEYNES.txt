@@ -1,0 +1,543 @@
+Cheynes Training Limited - Accounts to registrar (filleted) - small 24.3
+IRIS Accounts Production
+v24.3.2.46
+03369827
+director
+1.4.23
+30.4.24
+30.4.24
+false
+true
+false
+false
+true
+false
+Ordinary
+1.00000
+iso4217:GBP
+iso4217:USD
+iso4217:EUR
+xbrli:shares
+xbrli:pure
+utr:tonnes
+utr:kWh
+03369827
+2023-03-31
+03369827
+2024-04-30
+03369827
+2023-04-01
+2024-04-30
+03369827
+2022-03-31
+03369827
+2022-04-01
+2023-03-31
+03369827
+2023-03-31
+03369827
+ns15:EnglandWales
+2023-04-01
+2024-04-30
+03369827
+ns14:PoundSterling
+2023-04-01
+2024-04-30
+03369827
+ns10:Director1
+2023-04-01
+2024-04-30
+03369827
+ns10:PrivateLimitedCompanyLtd
+2023-04-01
+2024-04-30
+03369827
+ns10:SmallEntities
+2023-04-01
+2024-04-30
+03369827
+ns10:AuditExempt-NoAccountantsReport
+2023-04-01
+2024-04-30
+03369827
+ns10:SmallCompaniesRegimeForDirectorsReport
+2023-04-01
+2024-04-30
+03369827
+ns10:SmallCompaniesRegimeForAccounts
+2023-04-01
+2024-04-30
+03369827
+ns10:FullAccounts
+2023-04-01
+2024-04-30
+03369827
+ns10:OrdinaryShareClass1
+2023-04-01
+2024-04-30
+03369827
+ns10:RegisteredOffice
+2023-04-01
+2024-04-30
+03369827
+ns5:CurrentFinancialInstruments
+2024-04-30
+03369827
+ns5:CurrentFinancialInstruments
+2023-03-31
+03369827
+ns5:Non-currentFinancialInstruments
+2024-04-30
+03369827
+ns5:Non-currentFinancialInstruments
+2023-03-31
+03369827
+ns5:ShareCapital
+2024-04-30
+03369827
+ns5:ShareCapital
+2023-03-31
+03369827
+ns5:SharePremium
+2024-04-30
+03369827
+ns5:SharePremium
+2023-03-31
+03369827
+ns5:RetainedEarningsAccumulatedLosses
+2024-04-30
+03369827
+ns5:RetainedEarningsAccumulatedLosses
+2023-03-31
+03369827
+ns5:LeaseholdImprovements
+2023-04-01
+2024-04-30
+03369827
+ns5:FurnitureFittings
+2023-04-01
+2024-04-30
+03369827
+ns5:LeaseholdImprovements
+2023-03-31
+03369827
+ns5:FurnitureFittings
+2023-03-31
+03369827
+ns5:LeaseholdImprovements
+2024-04-30
+03369827
+ns5:FurnitureFittings
+2024-04-30
+03369827
+ns5:LeaseholdImprovements
+2023-03-31
+03369827
+ns5:FurnitureFittings
+2023-03-31
+03369827
+ns5:WithinOneYear
+ns5:CurrentFinancialInstruments
+2024-04-30
+03369827
+ns5:WithinOneYear
+ns5:CurrentFinancialInstruments
+2023-03-31
+03369827
+ns5:DeferredTaxation
+2023-03-31
+03369827
+ns5:DeferredTaxation
+2023-04-01
+2024-04-30
+03369827
+ns5:DeferredTaxation
+2024-04-30
+03369827
+ns10:OrdinaryShareClass1
+2024-04-30
+REGISTERED NUMBER:
+03369827
+(England and Wales)
+Unaudited Financial Statements
+For The Period 1 April 2023 to 30 April 2024
+for
+Cheynes Training Limited
+Cheynes Training Limited (Registered number: 03369827)
+Contents of the Financial Statements
+For The Period 1 April 2023 to 30 April 2024
+Page
+Company Information
+1
+Statement of Financial Position
+2
+Notes to the Financial Statements
+4
+Cheynes Training Limited
+Company Information
+For The Period 1 April 2023 to 30 April 2024
+DIRECTOR:
+Ms M J Mitchell
+REGISTERED OFFICE:
+2 London Road
+Horndean
+Waterlooville
+Hampshire
+PO8 0BZ
+REGISTERED NUMBER:
+03369827
+(England and Wales)
+ACCOUNTANTS:
+Giess Wallis Crisp LLP
+10-12 Mulberry Green
+Old Harlow
+Essex
+CM17 0ET
+Page 1
+Cheynes Training Limited (Registered number: 03369827)
+Statement of Financial Position
+30 April 2024
+2024
+2023
+Notes
+£
+£
+£
+£
+FIXED ASSETS
+Tangible assets
+4
+1,078
+4,800
+CURRENT ASSETS
+Stocks
+2,144
+26,345
+Debtors
+5
+236,830
+4,858
+Cash at bank and in hand
+115,042
+23,654
+354,016
+54,857
+CREDITORS
+Amounts falling due within one year
+6
+219,411
+29,798
+NET CURRENT ASSETS
+134,605
+25,059
+TOTAL ASSETS LESS CURRENT
+LIABILITIES
+135,683
+29,859
+CREDITORS
+Amounts falling due after more than one
+year
+7
+(
+40,000
+)
+-
+PROVISIONS FOR LIABILITIES
+8
+(
+270
+)
+-
+NET ASSETS
+95,413
+29,859
+CAPITAL AND RESERVES
+Called up share capital
+9
+1,000
+1,000
+Share premium
+33,932
+33,932
+Retained earnings
+60,481
+(
+5,073
+)
+SHAREHOLDERS' FUNDS
+95,413
+29,859
+The company is entitled to exemption from audit under Section 477 of the Companies Act 2006 for the period ended 30 April 2024.
+The members have not required the company to obtain an audit of its financial statements for the period ended 30 April 2024 in accordance with Section 476 of the Companies Act 2006.
+The director acknowledges her responsibilities for:
+(a)
+ensuring that the company keeps accounting records which comply with Sections 386 and 387 of the Companies
+Act 2006 and
+(b)
+preparing financial statements which give a true and fair view of the state of affairs of the company as at the end
+of each financial year and of its profit or loss for each financial year in accordance with the requirements of
+Sections 394 and 395 and which otherwise comply with the requirements of the Companies Act 2006 relating to
+financial statements, so far as applicable to the company.
+The notes form part of these financial statements
+Page 2
+continued...
+Cheynes Training Limited (Registered number: 03369827)
+Statement of Financial Position - continued
+30 April 2024
+The financial statements have been prepared and delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+In accordance with Section 444 of the Companies Act 2006, the Statement of Income and Retained Earnings has not been delivered.
+The financial statements were approved by the director and authorised for issue on
+24 January 2025
+and were signed
+by:
+Ms M J Mitchell
+- Director
+The notes form part of these financial statements
+Page 3
+Cheynes Training Limited (Registered number: 03369827)
+Notes to the Financial Statements
+For The Period 1 April 2023 to 30 April 2024
+1.
+STATUTORY INFORMATION
+Cheynes Training Limited is a
+private company, limited by shares
+, registered in England and Wales. The
+company's registered number and registered office address can be found on the Company Information page.
+2.
+ACCOUNTING POLICIES
+Basis of preparing the financial statements
+These financial statements have been prepared in accordance with Financial Reporting Standard 102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland" including the provisions of Section 1A "Small Entities" and the Companies Act 2006. The financial statements have been prepared under the historical cost convention.
+Significant judgements and estimates
+In the application of the company's accounting policies, the directors are required to make judgements,
+estimates and assumptions about the carrying amount of assets and liabilities that are not readily apparent from
+other sources.
+The estimates and associated assumptions based on historical experience and other factors that
+are considered to be relevant. Actual results may differ from these estimates.
+The estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to accounting
+estimates are recognised in the period in which the estimate is revised where the revision affects only that
+period, or in the period of the revision and future periods where the revision affects both current and future
+periods.
+There are no estimates and assumptions which have had a significant risk of causing a material adjustment to
+the carrying amount of assets and liabilities
+Turnover
+Turnover represents amounts receivable for services of providing training courses.
+Tangible fixed assets
+Depreciation is provided at the following annual rates in order to write off each asset over its estimated useful life.
+Improvements to property
+-
+over the remaining period of the lease
+Fixtures and fittings
+-
+33% on cost and 15% on reducing balance
+Stocks
+Work in progress is valued at the lower of cost and net realisable value.
+Cost is calculated using the first-in, first-out method and includes all purchase, transport, and handling costs in
+bringing stocks to their present location and condition.
+Financial instruments
+The company has elected to apply the provisions of Section 11:'Basic Financial Instruments' and Section 12
+'Other Financial Instruments Issues ' of FRS 102 to all of its financial instruments
+The company only enters into basic financial instruments that result in the recognition of financial assets and
+liabilities such as trade debtors and creditors.
+Financial assets and liabilities are offset and the net amount reported in the statement of financial position when
+there is an enforceable right to set off the recognised amounts and there is an intention to settle on a net basis
+or to realise the asset and settle the liability simultaneously.
+Debtors
+Short terms debtors are measured at transaction price, less any impairment.
+Cash and cash equivalents
+Cash is represented by current accounts, cash in hand and deposits with financial institutions repayable without
+penalty on notice of not more than 24 hours.
+Cash equivalents are highly liquid investments that mature in no
+more than three months from the date of acquisition and that are readily convertible to known amounts of cash
+with insignificant risk of change in value.
+Creditors
+Short term creditors are measured at the transaction price.
+Page 4
+continued...
+Cheynes Training Limited (Registered number: 03369827)
+Notes to the Financial Statements - continued
+For The Period 1 April 2023 to 30 April 2024
+2.
+ACCOUNTING POLICIES - continued
+Taxation
+Taxation for the period comprises current and deferred tax. Tax is recognised in the Statement of Income and
+Retained Earnings, except to the extent that it relates to items recognised in other comprehensive income or
+directly in equity.
+Current or deferred taxation assets and liabilities are not discounted.
+Current tax is recognised at the amount of tax payable using the tax rates and laws that have been enacted or
+substantively enacted by the statement of financial position date.
+Deferred tax
+Deferred tax is recognised in respect of all timing differences that have originated but not reversed at the
+statement of financial position date.
+Timing differences arise from the inclusion of income and expenses in tax assessments in periods different from
+those in which they are recognised in financial statements. Deferred tax is measured using tax rates and laws
+that have been enacted or substantively enacted by the period end and that are expected to apply to the reversal
+of the timing difference.
+Unrelieved tax losses and other deferred tax assets are recognised only to the extent that it is probable that they
+will be recovered against the reversal of deferred tax liabilities or other future taxable profits.
+Hire purchase and leasing commitments
+Rentals paid under operating leases are charged to profit or loss on a straight line basis over the period of the
+lease.
+Pension costs and other post-retirement benefits
+The company operates a defined contribution pension scheme.
+Contributions payable to the company's pension
+scheme are charged to profit or loss in the period to which they relate.
+3.
+EMPLOYEES AND DIRECTORS
+The average number of employees during the period was
+10
+(2023 -
+9
+) .
+4.
+TANGIBLE FIXED ASSETS
+Improvements
+Fixtures
+to
+and
+property
+fittings
+Totals
+£
+£
+£
+COST
+At 1 April 2023
+1,572
+43,123
+44,695
+Disposals
+(
+1,572
+)
+(
+34,674
+)
+(
+36,246
+)
+At 30 April 2024
+-
+8,449
+8,449
+DEPRECIATION
+At 1 April 2023
+1,572
+38,323
+39,895
+Charge for period
+-
+2,958
+2,958
+Eliminated on disposal
+(
+1,572
+)
+(
+33,910
+)
+(
+35,482
+)
+At 30 April 2024
+-
+7,371
+7,371
+NET BOOK VALUE
+At 30 April 2024
+-
+1,078
+1,078
+At 31 March 2023
+-
+4,800
+4,800
+Page 5
+continued...
+Cheynes Training Limited (Registered number: 03369827)
+Notes to the Financial Statements - continued
+For The Period 1 April 2023 to 30 April 2024
+5.
+DEBTORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+2024
+2023
+£
+£
+Trade debtors
+218,041
+2,178
+Other debtors
+18,789
+2,680
+236,830
+4,858
+6.
+CREDITORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+2024
+2023
+£
+£
+Bank loans and overdrafts
+-
+300
+Trade creditors
+98,587
+3,889
+Amounts owed to group undertakings
+43,623
+-
+Taxation and social security
+28,024
+3,105
+Other creditors
+49,177
+22,504
+219,411
+29,798
+7.
+CREDITORS: AMOUNTS FALLING DUE AFTER MORE THAN ONE YEAR
+2024
+2023
+£
+£
+Other creditors
+40,000
+-
+8.
+PROVISIONS FOR LIABILITIES
+2024
+£
+Deferred tax
+270
+Deferred
+tax
+£
+Balance at 1 April 2023
+(
+159
+)
+Charge to Statement of Income and Retained Earnings during period
+429
+Balance at 30 April 2024
+270
+9.
+CALLED UP SHARE CAPITAL
+Allotted, issued and fully paid:
+Number:
+Class:
+Nominal
+2024
+2023
+value:
+£
+£
+1,000
+Ordinary
+£1
+1,000
+1,000
+10.
+ULTIMATE PARENT COMPANY
+The controlling party is not known.
+The company is a subsidiary of Cheynes Training Group Limited of 12 Ridleys, West Hoathly, East Grinstead,
+RH19 4HN.
+Page 6

@@ -1,0 +1,286 @@
+REGISTERED NUMBER: 06374888 (England and Wales)
+
+AUDITED FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 DECEMBER 2023
+FOR
+
+DYNAMIC TRAINING UK LIMITED
+
+DYNAMIC TRAINING UK LIMITED (REGISTERED NUMBER: 06374888)
+
+CONTENTS OF THE FINANCIAL STATEMENTS
+for the year ended 31 December 2023
+
+Page
+Company Information 1
+Statement of Financial Position 2
+
+Notes to the Financial Statements 3
+
+DYNAMIC TRAINING UK LIMITED
+
+COMPANY INFORMATION
+for the year ended 31 December 2023
+
+DIRECTORS: M Lekkerkerker
+
+Calder Holding BV
+
+REGISTERED OFFICE: 173 York Road
+
+Hartlepool
+Co. Durham
+TS26 9EQ
+
+REGISTERED NUMBER: 06374888 (England and Wales)
+
+Page |
+
+DYNAMIC TRAINING UK LIMITED (REGISTERED NUMBER: 06374888)
+
+STATEMENT OF FINANCIAL POSITION
+31 December 2023
+
+2023 2022
+Notes £ £ £ £
+FIXED ASSETS
+Tangible assets 4 6,098 18,920
+Investments 5 5,000 5,000
+11,098 23,920
+
+CURRENT ASSETS
+Debtors 6 409,185 330,883
+Cash at bank and in hand 435,813 503,687
+
+844,998 834,570
+CREDITORS
+Amounts falling due within one year 7 507,368 342,439
+NET CURRENT ASSETS 337,630 492,131
+TOTAL ASSETS LESS CURRENT
+LIABILITIES 348,728 516,051
+CAPITAL AND RESERVES
+Called up share capital 8 90,003 90,003
+Share premium 300,000 300,000
+Retained earnings 41,275) 126,048
+SHAREHOLDERS FUNDS 348,728 516,051
+
+The financial statements have been prepared and delivered in accordance with the provisions applicable to companies subject to the small
+companies regime.
+
+In accordance with Section 444 of the Companies Act 2006, the Income Statement has not been delivered.
+
+The financial statements were approved by the Board of Directors and authorised for issue on 27 September 2024 and were signed on its behalf
+by:
+
+M Lekkerkerker - Director
+
+The notes form part of these financial statements
+
+Page 2
+
+DYNAMIC TRA
+
+ING UK LIMITED (REGISTERED NUMBER: 06374888)
+
+NOTES TO THE FINANCIAL STATEMENTS
+for the year ended 31 December 2023
+
+1. STATUTORY INFORMATION
+
+Dynamic Training UK Limited is a private company. limited by shares , registered in England and Wales. The company's registered
+number and registered office address can be found on the Company Information page.
+
+The presentation currency of the financial statements is the Pound Sterling (£).
+
+2. ACCOUNTING POLICIES
+
+Basis of preparing the financial statements
+
+These financial statements have been prepared in accordance with Financial Reporting Standard 102 "The Financial Reporting Standard
+applicable in the UK and Republic of Ireland" including the provisions of Section 1A "Small Entities" and the Companies Act 2006.
+The financial statements have been prepared under the historical cost convention.
+
+Going concern
+The company has a net asset position and a healthy bank position and the directors are satisfied that there are sufficient resources in
+place to continue operating throughout the going concern assessment period to September 2025. Thus the directors continuc to adopt the
+going concern basis of accounting in preparing the annual financial statements.
+
+Critical accounting judgements and key sources of estimation uncertainty
+
+In preparing the financial statements, management is required to make estimates and assumptions which affect reported income,
+expenses, assets and liabilities. Use of available information and application of judgement are inherent in the formation of estimates,
+together with past experience and expectations of future events are believed to be reasonable under the circumstances. Actual results in
+the future could differ from such estimates.
+
+The management do not consider that there are significant judgements, estimates and assumptions that may cause amounts recognised
+or disclosed to change in the following reporting periods.
+
+Turnover
+Turnover is shown exclusive of Value Added Tax. Turnover from the supply of services represents the value of the services provided to
+the extent that there is right to consideration and is recorded at the value of consideration due.
+
+Turnover principally comprises the amount derived from grant funding. The majority of the company's revenue during the period has
+been earned under contracts with the Education and Funding and Skills Agency (ESFA), mainly levy funded contracts.
+
+The company contracts with learners in the workplace to assist them in gaining accredited qualifications in their chosen programme of
+learning. Under the workplace methodology, funding is received to support learners separately for ‘on programme’ learning and
+successfully achieving the qualification. ‘On programme’ funding is recognised over the duration of the learning programme. The
+achievement payment is recognised when the learner achieves the qualification
+
+Tangible fixed assets
+Depreciation is provided at the following annual rates in order to write off each asset over its estimated useful life.
+Fixtures and fittings - 20% on cost
+Office equipment - 33% on cost
+
+The assets' residual values, useful lives and depreciation methods are reviewed, and adjusted prospectively if appropriate, or if there is
+an indication of significant change since the last reporting date.
+
+Taxation
+Taxation for the year comprises current and deferred tax. Tax is recognised in the Income Statement, except to the extent that it relates
+to items recognised in other comprehensive income or directly in equity.
+
+Current or deferred taxation assets and liabilities are not discounted.
+
+Current tax is recognised at the amount of tax payable using the tax rates and laws that have been enacted or substantively enacted by
+the statement of financial position date.
+
+Page 3 continued...
+
+DYNAMIC TRAINING UK LIMITED (REGISTERED NUMBER: 06374888)
+
+NOTES TO THE FINANCIAL STATEMENTS - continued
+for the year ended 31 December 2023
+
+ACCOUNTING POLICIES - continued
+Deferred tax
+
+Deferred tax is recognised in respect of all timing differences that have originated but not reversed at the statement of financial position
+date.
+
+Timing differences arise from the inclusion of income and expenses in tax assessments in periods different from those in which they are
+recognised in financial statements. Deferred tax is measured using tax rates and laws that have been enacted or substantively enacted by
+
+the year end and that are expected to apply to the reversal of the timing difference.
+
+Unrelieved tax losses and other deferred tax assets are recognised only to the extent that it is probable that they will be recovered
+against the reversal of deferred tax liabilities or other future taxable profits.
+
+Pension costs and other post-retirement benefits
+Payments to defined contribution pension schemes are charged as an expense in the period to which they relate.
+
+Operating leases
+Rentals paid under operating leases are charged to the Income Statement on a straight line basis over the lease term.
+
+Benefits reecived and reccivable as an incentive to sign an operating Icase are recognised on a straight linc basis over the lease term,
+unless another systematic basis in representative of the time pattern of the Icssec's benefit from the use of the Icased assct.
+
+Fixed asset investments
+Fixed assct investments are initially recorded at cost, and subscquently stated at cost less any accumulated impairment losses.
+
+EMPLOYEES AND DIRECTORS
+The average number of employees during the year was 48 (2022 - 46).
+
+TANGIBLE FIXED ASSETS
+
+Fixtures
+and Office
+fittings. equipment Totals
+£ £ £
+
+COST
+At | January 2023 7,530 64,424 71,954
+Additions - 198 198
+Disposals - (539) 539)
+At 31 December 2023 7,530 64,083 71,613
+DEPRECIATION
+At | January 2023 7,530 45,504 53,034
+Charge for year - 12.481 12,481
+At 31 December 2023 7,530 57,985 65,515
+NET BOOK VALUE
+At 31 December 2023 : 6,098 6.098
+At 31 December 2022 - 18,920 18,920
+
+Page 4 continued...
+
+DYNAMIC TRAINING UK LIMITED (REGISTERED NUMBER: 06374888)
+
+NOTES TO THE FINANCIAL STATEMENTS - continued
+for the year ended 31 December 2023
+
+5. FIXED ASSET INVESTMENTS
+Other
+investments
+:
+COST
+At | January 2023
+and 31 December 2023 5,000
+NET BOOK VALUE
+At 31 December 2023 5,000
+At 31 December 2022 5,000
+6. DEBTORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+2023 2022
+£ £
+Trade debtors 28.711 3,123
+Other debtors 6.186 17,150
+Deferred tax asset 34.855 34,855
+Prepayments and accrued income 339.433 275,755
+409.185 330,883
+7. CREDITORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+2023 2022
+£ £
+Trade creditors 24,257 53,204
+Amounts owed to group undertakings 30,000 15,000
+Social security and other taxes 50,581 40,639
+VAT 4.356 21,196
+Other creditors 218,533 30,500
+Accruals and deferred income 179.641 181,900
+507,368 342,439
+Amounts owed to group undertakings are repayable on demand and interest free.
+8. CALLED UP SHARE CAPITAL
+Allotted, issued and fully paid:
+Number: Class: Nominal 2023 2022
+value: £ £
+90,003 Ordinary £1 90,003 90,003
+
+9. DISCLOSURE UNDER SECTION 444(5B) OF THE COMPANIES ACT 2006
+The Report of the Auditors was unqualified.
+
+Matthew Fox (Senior Statutory Auditor)
+for and on behalf of Smailes Goldie Watson Limited
+
+10. OTHER FINANCIAL COMMITMENTS
+
+Total financial commitments, guarantees and contingencies which are not included in the balance sheet amount to £79,015 (2022 -
+£159,000).
+
+Page 5 continued...
+
+DYNAMIC TRAINING UK LIMITED (REGISTERED NUMBER: 06374888)
+
+NOTES TO THE FINANCIAL STATEMENTS - continued
+for the year ended 31 December 2023
+
+11.
+
+RELATED PARTY DISCLOSURES
+
+As the company is a indirectly. wholly owned subsidiary of Stichting Aministratiekantoor RATM, it has taken advantage of the
+exemption contained in FRS 102 Section 1A and has therefore not disclosed transactions or balances with entities which form part of
+the group for the year ended 31 December 2023.
+
+ULTIMATE CONTROLLING PARTY
+
+The immediate parent undertaking is Calder Holding BV, a company registered in The Netherlands which is the smallest group that
+consolidates the results of the Company. The registered office of Calder Holding BV is Obrechtstraat 28,8031 AZ Zwolle, The
+Netherlands.
+
+The ultimate parent undertaking is Stichting Aministratiekantoor RATM, which is the largest group that consolidates the results of the
+company. Consolidated accounts can be obtained from: Koestraat 33, 8011, NJ Zwolle, The Netherlands.
+
+As at 31 December 2023. the ultimate controlling party was Mr. G Van Buren.
+
+Page 6
+
+This document was delivered using electronic communications and authenticated in
+accordance with the registrar's rules relating to electronic form, authentication and
+manner of delivery under section 1072 of the Companies Act 2006.
+

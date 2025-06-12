@@ -1,0 +1,333 @@
+Aspect Training Limited
+1 November 2022
+false
+No description of principal activity
+Taxfiler
+2024.5
+04009369
+business:PrivateLimitedCompanyLtd
+2022-11-01
+2023-10-31
+04009369
+2022-10-31
+04009369
+2022-11-01
+2023-10-31
+04009369
+business:AuditExemptWithAccountantsReport
+2022-11-01
+2023-10-31
+04009369
+business:FilletedAccounts
+2022-11-01
+2023-10-31
+04009369
+2023-10-31
+04009369
+business:Director1
+2022-11-01
+2023-10-31
+04009369
+business:RegisteredOffice
+2022-11-01
+2023-10-31
+04009369
+2022-10-31
+04009369
+core:WithinOneYear
+2023-10-31
+04009369
+core:WithinOneYear
+2022-10-31
+04009369
+core:ShareCapital
+core:PreviouslyStatedAmount
+2023-10-31
+04009369
+core:ShareCapital
+core:PreviouslyStatedAmount
+2022-10-31
+04009369
+core:RetainedEarningsAccumulatedLosses
+core:PreviouslyStatedAmount
+2023-10-31
+04009369
+core:RetainedEarningsAccumulatedLosses
+core:PreviouslyStatedAmount
+2022-10-31
+04009369
+core:PreviouslyStatedAmount
+2023-10-31
+04009369
+core:PreviouslyStatedAmount
+2022-10-31
+04009369
+business:SmallEntities
+2022-11-01
+2023-10-31
+04009369
+countries:EnglandWales
+2022-11-01
+2023-10-31
+04009369
+core:FurnitureFittings
+2022-11-01
+2023-10-31
+04009369
+core:ComputerEquipment
+2022-11-01
+2023-10-31
+04009369
+core:FurnitureFittings
+2022-10-31
+04009369
+core:ComputerEquipment
+2022-10-31
+04009369
+core:FurnitureFittings
+2023-10-31
+04009369
+core:ComputerEquipment
+2023-10-31
+04009369
+2021-11-01
+2022-10-31
+iso4217:GBP
+xbrli:pure
+Company Registration No.
+04009369
+(England and Wales)
+Aspect Training Limited
+Unaudited accounts
+for the year ended
+31 October 2023
+Aspect Training Limited
+Unaudited accounts
+Contents
+Page
+Company information
+3
+Statement of financial position
+4
+Notes to the accounts
+5
+- 2 -
+Aspect Training Limited
+Company Information
+for the year ended
+31 October 2023
+Director
+D E Shaw
+Company Number
+04009369
+(England and Wales)
+Registered Office
+ECKINGTON BUSINESS CENTRE MARKET STREET
+ECKINGTON
+SHEFFIELD
+S21 4JH
+ENGLAND
+Accountants
+qbx- the quickbooks accountants
+South Cottage
+Wood Langham
+Market Rasen
+Lincolnshire
+LN8 3QR
+- 3 -
+Aspect Training Limited
+Statement of financial position
+as at
+31 October 2023
+2023
+2022
+Notes
+£
+£
+Fixed assets
+Tangible assets
+4
+4,312
+5,069
+Current assets
+Debtors
+5
+44,294
+37,355
+Cash at bank and in hand
+42,867
+38,059
+87,161
+75,414
+Creditors: amounts falling due within one year
+6
+(
+6,909
+)
+(
+7,097
+)
+Net current assets
+80,252
+68,317
+Total assets less current liabilities
+84,564
+73,386
+Provisions for liabilities
+Deferred tax
+(
+819
+)
+(
+963
+)
+Net assets
+83,745
+72,423
+Capital and reserves
+Called up share capital
+100
+100
+Profit and loss account
+83,645
+72,323
+Shareholders' funds
+83,745
+72,423
+For the year ending
+31 October 2023
+the company was entitled to exemption from audit under section 477 of the Companies Act 2006 relating to small companies.
+The members have not required the company to obtain an audit in accordance with section 476 of the Companies Act 2006.
+The director acknowledges his responsibilities for complying with the requirements of the Act with respect to accounting records and the preparation of accounts.
+These accounts have been prepared and delivered in accordance with the provisions applicable to companies subject to the small companies' regime and in accordance with the provisions of FRS 102 Section 1A - Small Entities. The profit and loss account has not been delivered to the Registrar of Companies.
+The financial statements were approved by the Board and authorised for issue on
+15 July 2024
+and were signed on its behalf by
+D E Shaw
+Director
+Company Registration No.
+04009369
+- 4 -
+Aspect Training Limited
+Notes to the Accounts
+for the year ended
+31 October 2023
+1
+Statutory information
+Aspect Training Limited
+is a private company, limited by shares, registered in England and Wales
+, registration number
+04009369
+. The registered office is
+ECKINGTON BUSINESS CENTRE MARKET STREET
+,
+ECKINGTON
+,
+SHEFFIELD
+,
+S21 4JH
+, ENGLAND.
+2
+Compliance with accounting standards
+The accounts have been prepared in accordance with the provisions of FRS 102 Section 1A Small Entities. There were no material departures from that standard.
+3
+Accounting policies
+The principal accounting policies adopted in the preparation of the financial statements are set out below and have remained unchanged from the previous year, and also have been consistently applied within the same accounts.
+Tangible fixed assets and depreciation
+Tangible assets are included at cost less depreciation and impairment. Depreciation has been provided at the following rates in order to write off the assets over their estimated useful lives:
+Fixtures & fittings
+25% Reducing balance
+Computer equipment
+25% Reducing balance
+Basis of preparation
+The accounts have been prepared under the historical cost convention as modified by the revaluation of certain fixed assets.
+Presentation currency
+The accounts are presented in £ sterling.
+4
+Tangible fixed assets
+Fixtures & fittings
+Computer equipment
+Total
+£
+£
+£
+Cost or valuation
+At cost
+At cost
+At 1 November 2022
+5,027
+34,391
+39,418
+Additions
+142
+539
+681
+At
+31 October 2023
+5,169
+34,930
+40,099
+Depreciation
+At 1 November 2022
+3,711
+30,638
+34,349
+Charge for the year
+365
+1,073
+1,438
+At
+31 October 2023
+4,076
+31,711
+35,787
+Net book value
+At
+31 October 2023
+1,093
+3,219
+4,312
+At 31 October 2022
+1,316
+3,753
+5,069
+5
+Debtors
+2023
+2022
+£
+£
+Amounts falling due within one year
+Trade debtors
+44,294
+37,355
+- 5 -
+Aspect Training Limited
+Notes to the Accounts
+for the year ended
+31 October 2023
+6
+Creditors: amounts falling due within one year
+2023
+2022
+£
+£
+Trade creditors
+-
+3,651
+Taxes and social security
+6,109
+3,446
+Accruals
+800
+-
+6,909
+7,097
+7
+Average number of employees
+During the year the average number of employees was
+5
+(2022:
+5
+).
+- 6 -

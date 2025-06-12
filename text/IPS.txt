@@ -1,0 +1,737 @@
+IPS International Limited - Accounts to registrar (filleted) - small 24.3
+IRIS Accounts Production
+v25.1.0.734
+03368622
+Board of Directors
+1.1.24
+31.12.24
+31.12.24
+28.4.25
+false
+true
+false
+false
+true
+false
+Auditors Opinion
+Ordinary
+1.00000
+iso4217:GBP
+iso4217:USD
+iso4217:EUR
+xbrli:shares
+xbrli:pure
+utr:tonnes
+utr:kWh
+03368622
+2023-12-31
+03368622
+2024-12-31
+03368622
+2024-01-01
+2024-12-31
+03368622
+2022-12-31
+03368622
+2023-01-01
+2023-12-31
+03368622
+2023-12-31
+03368622
+ns15:EnglandWales
+2024-01-01
+2024-12-31
+03368622
+ns14:PoundSterling
+2024-01-01
+2024-12-31
+03368622
+ns10:Director1
+2024-01-01
+2024-12-31
+03368622
+ns10:PrivateLimitedCompanyLtd
+2024-01-01
+2024-12-31
+03368622
+ns10:SmallEntities
+2024-01-01
+2024-12-31
+03368622
+ns10:Audited
+2024-01-01
+2024-12-31
+03368622
+ns10:SmallCompaniesRegimeForDirectorsReport
+2024-01-01
+2024-12-31
+03368622
+ns10:SmallCompaniesRegimeForAccounts
+2024-01-01
+2024-12-31
+03368622
+ns10:FullAccounts
+2024-01-01
+2024-12-31
+03368622
+ns10:OrdinaryShareClass1
+2024-01-01
+2024-12-31
+03368622
+ns10:Director3
+2024-01-01
+2024-12-31
+03368622
+ns10:Director4
+2024-01-01
+2024-12-31
+03368622
+ns10:Director5
+2024-01-01
+2024-12-31
+03368622
+ns10:Director6
+2024-01-01
+2024-12-31
+03368622
+ns10:Director7
+2024-01-01
+2024-12-31
+03368622
+ns10:Director8
+2024-01-01
+2024-12-31
+03368622
+ns10:CompanySecretary1
+2024-01-01
+2024-12-31
+03368622
+ns10:RegisteredOffice
+2024-01-01
+2024-12-31
+03368622
+ns5:CurrentFinancialInstruments
+2024-12-31
+03368622
+ns5:CurrentFinancialInstruments
+2023-12-31
+03368622
+ns5:ShareCapital
+2024-12-31
+03368622
+ns5:ShareCapital
+2023-12-31
+03368622
+ns5:RetainedEarningsAccumulatedLosses
+2024-12-31
+03368622
+ns5:RetainedEarningsAccumulatedLosses
+2023-12-31
+03368622
+ns5:LeaseholdImprovements
+2024-01-01
+2024-12-31
+03368622
+ns5:PlantMachinery
+2024-01-01
+2024-12-31
+03368622
+ns5:FurnitureFittings
+2024-01-01
+2024-12-31
+03368622
+ns5:ComputerEquipment
+2024-01-01
+2024-12-31
+03368622
+ns5:LeaseholdImprovements
+2023-12-31
+03368622
+ns5:PlantMachinery
+2023-12-31
+03368622
+ns5:FurnitureFittings
+2023-12-31
+03368622
+ns5:ComputerEquipment
+2023-12-31
+03368622
+ns5:LeaseholdImprovements
+2024-12-31
+03368622
+ns5:PlantMachinery
+2024-12-31
+03368622
+ns5:FurnitureFittings
+2024-12-31
+03368622
+ns5:ComputerEquipment
+2024-12-31
+03368622
+ns5:LeaseholdImprovements
+2023-12-31
+03368622
+ns5:PlantMachinery
+2023-12-31
+03368622
+ns5:FurnitureFittings
+2023-12-31
+03368622
+ns5:ComputerEquipment
+2023-12-31
+03368622
+ns5:WithinOneYear
+ns5:CurrentFinancialInstruments
+2024-12-31
+03368622
+ns5:WithinOneYear
+ns5:CurrentFinancialInstruments
+2023-12-31
+03368622
+ns5:CurrentFinancialInstruments
+2024-01-01
+2024-12-31
+03368622
+ns5:WithinOneYear
+2024-12-31
+03368622
+ns5:WithinOneYear
+2023-12-31
+03368622
+ns5:BetweenOneFiveYears
+2024-12-31
+03368622
+ns5:BetweenOneFiveYears
+2023-12-31
+03368622
+ns5:AllPeriods
+2024-12-31
+03368622
+ns5:AllPeriods
+2023-12-31
+03368622
+ns10:OrdinaryShareClass1
+2024-12-31
+REGISTERED NUMBER:
+03368622
+(England and Wales)
+IPS INTERNATIONAL LIMITED
+FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+IPS INTERNATIONAL LIMITED (REGISTERED NUMBER: 03368622)
+CONTENTS OF THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+Page
+Company Information
+1
+Statement of Financial Position
+2
+Notes to the Financial Statements
+3
+IPS INTERNATIONAL LIMITED
+COMPANY INFORMATION
+FOR THE YEAR ENDED 31 DECEMBER 2024
+DIRECTORS:
+Mr D W MacDonald
+Mr R Cowan
+Mr A Ryan
+Mr K Jones
+Ms M Holmes
+Mrs K Price
+Ms S King
+SECRETARY:
+Mrs J B Carter
+REGISTERED OFFICE:
+Northbank House
+Sir Thomas Longley Road
+Medway City Estate
+ROCHESTER
+Kent
+ME2 4DU
+BUSINESS ADDRESS:
+Northbank House
+Sir Thomas Longley Road
+Medway City Estate
+ROCHESTER
+ME2 4DU
+REGISTERED NUMBER:
+03368622
+(England and Wales)
+SENIOR STATUTORY AUDITOR:
+Clair Rayner FCA DChA
+AUDITORS:
+McCabe Ford Williams
+Statutory Auditors and Chartered Accountants
+Building 1063
+Cornforth Drive
+Kent Science Park
+Sittingbourne
+Kent
+ME9 8PX
+Page 1
+IPS INTERNATIONAL LIMITED (REGISTERED NUMBER: 03368622)
+STATEMENT OF FINANCIAL POSITION
+31 DECEMBER 2024
+31.12.24
+31.12.23
+Notes
+£
+£
+£
+FIXED ASSETS
+Tangible assets
+5
+38,499
+28,649
+CURRENT ASSETS
+Debtors
+6
+786,544
+639,605
+Cash at bank and in hand
+560,028
+344,933
+1,346,572
+984,538
+CREDITORS
+Amounts falling due within one year
+7
+904,264
+698,812
+NET CURRENT ASSETS
+442,308
+285,726
+TOTAL ASSETS LESS CURRENT
+LIABILITIES
+480,807
+314,375
+PROVISIONS FOR LIABILITIES
+6,063
+4,205
+NET ASSETS
+474,744
+310,170
+CAPITAL AND RESERVES
+Called up share capital
+10
+500,000
+500,000
+Retained earnings
+(
+25,256
+)
+(
+189,830
+)
+SHAREHOLDERS' FUNDS
+474,744
+310,170
+The financial statements have been prepared and delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+In accordance with Section 444 of the Companies Act 2006, the Income Statement has not been delivered.
+The financial statements were approved by the Board of Directors and authorised for issue on
+28 April 2025
+and were
+signed on its behalf by:
+Mr R Cowan
+- Director
+The notes form part of these financial statements
+Page 2
+IPS INTERNATIONAL LIMITED (REGISTERED NUMBER: 03368622)
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+1.
+STATUTORY INFORMATION
+IPS International Limited is a
+private company, limited by shares
+, registered in England and Wales. The
+company's registered number and registered office address can be found on the Company Information page.
+The presentation currency of the financial statements is the Pound Sterling (£).
+2.
+STATEMENT OF COMPLIANCE
+These financial statements have been prepared in accordance with Financial Reporting Standard 102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland" including the provisions of Section 1A "Small Entities" and the Companies Act 2006.
+3.
+ACCOUNTING POLICIES
+Basis of preparing the financial statements
+The financial statements have been prepared under the historical cost convention.
+Going Concern
+The directors consider it appropriate to adopt the going concern basis in preparing the financial statements.
+The
+directors have reviewed the reserves of IPS International Limited and taken into account the sufficient share
+capital which provides suitable working capital for the company to meet its liabilities as they fall due, and are
+satisfied that it has sufficient reserves to continue for the foreseeable future.
+Significant judgements and estimates
+In the application of the company's accounting policies, management is required to make judgements, estimates
+and assumptions about the carrying value of assets and liabilities that are not readily apparent from other
+sources.
+The estimates and underlying assumptions are based on historical experience and other factors that
+are considered relevant.
+Actual results may differ from these estimates.
+The estimates and underlying
+assumptions are reviewed on an ongoing basis.
+Revisions to accounting estimates are recognised in the period
+to which the estimate is revised if the revision affects only that period or in the period of the revision and future
+periods if the revision affects both current and future periods.
+The key sources of estimation uncertainty that
+have a significant effect on the amounts recognised in the financial statements are the depreciation charges that
+are calculated with reference to the useful economic life of fixed assets. In addition management accrue and
+defer income in respect of training depending upon the degree of training delivered. This assessment does
+include an element of judgement.
+Turnover
+Turnover represents revenue due from the normal activities of the business, being that of the provision of
+general consulting and training services, to the extent that the company obtains a right to consideration on
+exchange for its performance of those activities, exclusive of VAT.
+Turnover is recognised when the services have been delivered. Income received in advance of the delivery of
+services is deferred.
+Government grants
+Government grants are recognised when the performance related conditions imposed upon the receipt of the
+grant have been met. Where these have not been satisfied, these grants are recognised as liabilities. If grants
+are not conditional on future performance related conditions, then income is recognised when the grant
+proceeds are receivable.
+Page 3
+continued...
+IPS INTERNATIONAL LIMITED (REGISTERED NUMBER: 03368622)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+FOR THE YEAR ENDED 31 DECEMBER 2024
+3.
+ACCOUNTING POLICIES - continued
+Tangible fixed assets
+Depreciation is provided at the following annual rates in order to write off each asset over its estimated useful life.
+Improvements to property
+-
+over remaining term of lease
+Machinery and Equipment
+-
+straight line over 2-6 years
+Fixtures and fittings
+-
+straight line over 3-4 years
+Computer equipment
+-
+straight line over 3 years
+Financial instruments
+The company enters into basic financial instruments that result in the recognition of financial assets and
+liabilities like trade and other accounts receivable and payable, loans from banks and other third parties and
+loans to related parties.
+a) Trade and other debtors
+Trade and other debtors are initially recognised at fair value and thereafter stated at amortised cost using the
+effective interest method, less impairment losses for bad and doubtful debts except where the effect of
+discounting would be immaterial.
+In such cases, the receivables are stated at cost less impairment losses for
+bad and doubtful debts.
+b) Cash and cash equivalents
+Cash and cash equivalents comprise cash at bank and on hand.
+c) Impairment of financial assets
+Financial assets that are measured at cost and amortised cost are assessed at the end of each reporting period
+for objective evidence of impairment. If objective evidence of impairment is found, an impairment loss is
+recognised in profit or loss.
+For financial assets measured at amortised cost, the impairment loss is measured as the difference between an
+asset's carrying amount and the present value of estimated cash flows discounted at the asset's original
+effective interest rate. If a financial asset has a variable interest rate, the discount rate for measuring any
+impairment loss is the current effective interest rate determined under the contract.
+For financial assets measured at cost less impairment, the impairment loss is measured as the difference
+between an asset's carrying amount and the best estimate, which is an approximation, of the amount that the
+company would receive for the asset if it were to be sold at the reporting date.
+d) Trade and other creditors
+Debt instruments like loans and other accounts receivable and payable are initially measured at present value of
+the future payments and subsequently at amortised cost using the effective interest method. Debt instruments
+that are payable or receivable within one year, typically trade payables or receivables, are measured, initially
+and subsequently, at the undiscounted amount of the cash or other consideration expected to be paid or
+received. However, if the arrangements of a short-term instrument constitute a financing transaction, like the
+payment of a trade debt deferred beyond normal business terms or financed at a rate of interest that is not a
+market rate or in case of an outright short-term loan not at market rate, the financial asset or liability is
+measured, initially and subsequently, at the present value of the future payments discounted at a market rate of
+interest for a similar debt instrument.
+Financial assets and liabilities are offset and the net amount reported in the statement of financial position when
+there is an enforceable right to set off the recognised amounts and there is an intention to settle on a net basis
+or to realise the asset and settle the liability simultaneously.
+Page 4
+continued...
+IPS INTERNATIONAL LIMITED (REGISTERED NUMBER: 03368622)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+FOR THE YEAR ENDED 31 DECEMBER 2024
+3.
+ACCOUNTING POLICIES - continued
+Taxation
+Taxation for the year comprises current and deferred tax. Tax is recognised in the Income Statement, except to
+the extent that it relates to items recognised in other comprehensive income or directly in equity.
+Current or deferred taxation assets and liabilities are not discounted.
+Current tax is recognised at the amount of tax payable using the tax rates and laws that have been enacted or
+substantively enacted by the statement of financial position date.
+Deferred tax
+Deferred tax is recognised in respect of all timing differences that have originated but not reversed at the
+statement of financial position date.
+Timing differences arise from the inclusion of income and expenses in tax assessments in periods different from
+those in which they are recognised in financial statements. Deferred tax is measured using tax rates and laws
+that have been enacted or substantively enacted by the year end and that are expected to apply to the reversal
+of the timing difference.
+Unrelieved tax losses and other deferred tax assets are recognised only to the extent that it is probable that they
+will be recovered against the reversal of deferred tax liabilities or other future taxable profits.
+Hire purchase and leasing commitments
+Rentals paid under operating leases are charged to profit or loss on a straight line basis over the period of the
+lease.
+Pension costs and other post-retirement benefits
+The company operates a defined contribution pension scheme. Contributions payable to the company's pension
+scheme are charged to profit and loss in the period to which they relate. The company meets it's obligations
+under auto enrolment.
+Agency arrangements
+The company acts as an agent in distributing grants from the Education & Skills Funding Agency (ESFA).
+Payments received from the ESFA and subsequent disbursements to employers of learners are excluded from
+the profit and loss account as the company does not have control over the application of these funds. Balances
+held in respect of such funds are included within creditors.
+Functional currency and presentation currency
+The company's functional currency is British Pound Sterling (GBP), which is also the presentation currency for
+the company. The financial statements are therefore presented in British Pound Sterling.
+4.
+EMPLOYEES AND DIRECTORS
+The average number of employees during the year was
+63
+(2023 -
+67
+) .
+Page 5
+continued...
+IPS INTERNATIONAL LIMITED (REGISTERED NUMBER: 03368622)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+FOR THE YEAR ENDED 31 DECEMBER 2024
+5.
+TANGIBLE FIXED ASSETS
+Improvements
+Machinery
+Fixtures
+to
+and
+and
+Computer
+property
+Equipment
+fittings
+equipment
+Totals
+£
+£
+£
+£
+£
+COST
+At 1 January 2024
+228,509
+321,849
+22,280
+88,672
+661,310
+Additions
+16,549
+1,600
+-
+4,366
+22,515
+Disposals
+(
+900
+)
+(
+650
+)
+-
+(
+29,376
+)
+(
+30,926
+)
+At 31 December 2024
+244,158
+322,799
+22,280
+63,662
+652,899
+DEPRECIATION
+At 1 January 2024
+228,509
+308,964
+21,396
+73,792
+632,661
+Charge for year
+2,298
+6,175
+884
+3,308
+12,665
+Eliminated on disposal
+(
+900
+)
+(
+650
+)
+-
+(
+29,376
+)
+(
+30,926
+)
+At 31 December 2024
+229,907
+314,489
+22,280
+47,724
+614,400
+NET BOOK VALUE
+At 31 December 2024
+14,251
+8,310
+-
+15,938
+38,499
+At 31 December 2023
+-
+12,885
+884
+14,880
+28,649
+6.
+DEBTORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+31.12.24
+31.12.23
+£
+£
+Trade debtors
+676,427
+501,720
+Parent company loan
+3,655
+3,760
+Directors' Current Accounts
+174
+38
+Prepayments and accrued income
+106,288
+134,087
+786,544
+639,605
+7.
+CREDITORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+31.12.24
+31.12.23
+£
+£
+Bank loans and overdrafts
+-
+1,753
+Trade creditors
+140,207
+132,583
+Other creditors
+-
+56
+Other taxes and PAYE
+204,996
+117,374
+Accruals and Deferred Income
+558,320
+446,740
+Directors' Current Accounts
+741
+306
+904,264
+698,812
+Included in accruals above is £46,500 (2023: £42,000) of employer incentives for employers of learners.
+The company acts as an agent in distributing employer incentive from the ESFA.
+Page 6
+continued...
+IPS INTERNATIONAL LIMITED (REGISTERED NUMBER: 03368622)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+FOR THE YEAR ENDED 31 DECEMBER 2024
+8.
+LEASING AGREEMENTS
+Minimum lease payments under non-cancellable operating leases fall due as follows:
+31.12.24
+31.12.23
+£
+£
+Within one year
+173,342
+170,000
+Between one and five years
+136,093
+200,000
+309,435
+370,000
+9.
+SECURED DEBTS
+There is a debenture dated 14 February 2000 in favour of Lloyds Bank Plc to secure all of the company's
+liabilities to the bank by way of a fixed and floating charge over the assets of the company.
+10.
+CALLED UP SHARE CAPITAL
+Allotted, issued and fully paid:
+Number:
+Class:
+Nominal
+31.12.24
+31.12.23
+value:
+£
+£
+500,000
+Ordinary
+£1
+500,000
+500,000
+11.
+DISCLOSURE UNDER SECTION 444(5B) OF THE COMPANIES ACT 2006
+The Report of the Auditors was unqualified.
+Clair Rayner FCA DChA
+(Senior Statutory Auditor)
+for and on behalf of
+McCabe Ford Williams
+12.
+RELATED PARTY DISCLOSURES
+At the balance sheet date the Directors of the company, owed/(were owed) the following balances:
+Director
+2024
+2023
+D Macdonald
+(300
+)
+-
+R Cowan
+103
+38
+A Ryan
+36
+-
+K Jones
+35
+-
+M Holmes
+(272
+)
+(275
+)
+K Price
+(31
+)
+(31
+)
+S King
+(138
+)
+-
+All amounts were paid/repaid in January 2025.
+During the year, the company was charged £80,000 of management charges by its parent company,
+Meadowridge Limited (2023: £24,000).
+An amount of £3,655 (2023: £3,670) was owed to the company by its parent at the year-end.
+Page 7
+continued...
+IPS INTERNATIONAL LIMITED (REGISTERED NUMBER: 03368622)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+FOR THE YEAR ENDED 31 DECEMBER 2024
+13.
+ULTIMATE CONTROLLING PARTY
+The controlling party is
+Meadowridge Limited of Northbank
+House Sir Thomas Longley Road.
+Meadowridge Limited owns 100% of the ordinary issued share capital of IPS International Limited.
+Page 8

@@ -1,0 +1,681 @@
+ACCOUNTS - Final Accounts preparation
+Caseware UK (AP4) 2023.0.135
+2023.0.135
+2024-07-31
+2024-07-31
+0
+false
+true
+41
+true
+2023-08-01
+false
+No description of principal activity
+42
+true
+03592351
+2023-08-01
+2024-07-31
+03592351
+2022-08-01
+2023-07-31
+03592351
+2024-07-31
+03592351
+2023-07-31
+03592351
+c:Director2
+2023-08-01
+2024-07-31
+03592351
+d:Buildings
+d:LongLeaseholdAssets
+2023-08-01
+2024-07-31
+03592351
+d:Buildings
+d:LongLeaseholdAssets
+2024-07-31
+03592351
+d:Buildings
+d:LongLeaseholdAssets
+2023-07-31
+03592351
+d:ComputerEquipment
+2023-08-01
+2024-07-31
+03592351
+d:ComputerEquipment
+2024-07-31
+03592351
+d:ComputerEquipment
+2023-07-31
+03592351
+d:ComputerEquipment
+d:OwnedOrFreeholdAssets
+2023-08-01
+2024-07-31
+03592351
+d:OwnedOrFreeholdAssets
+2023-08-01
+2024-07-31
+03592351
+d:CurrentFinancialInstruments
+2024-07-31
+03592351
+d:CurrentFinancialInstruments
+2023-07-31
+03592351
+d:Non-currentFinancialInstruments
+2024-07-31
+03592351
+d:Non-currentFinancialInstruments
+2023-07-31
+03592351
+d:CurrentFinancialInstruments
+d:WithinOneYear
+2024-07-31
+03592351
+d:CurrentFinancialInstruments
+d:WithinOneYear
+2023-07-31
+03592351
+d:Non-currentFinancialInstruments
+d:AfterOneYear
+2024-07-31
+03592351
+d:Non-currentFinancialInstruments
+d:AfterOneYear
+2023-07-31
+03592351
+d:ShareCapital
+2024-07-31
+03592351
+d:ShareCapital
+2023-07-31
+03592351
+d:RetainedEarningsAccumulatedLosses
+2024-07-31
+03592351
+d:RetainedEarningsAccumulatedLosses
+2023-07-31
+03592351
+c:OrdinaryShareClass1
+2023-08-01
+2024-07-31
+03592351
+c:OrdinaryShareClass1
+2024-07-31
+03592351
+c:OrdinaryShareClass1
+2023-07-31
+03592351
+c:FRS102
+2023-08-01
+2024-07-31
+03592351
+c:Audited
+2023-08-01
+2024-07-31
+03592351
+c:FullAccounts
+2023-08-01
+2024-07-31
+03592351
+c:PrivateLimitedCompanyLtd
+2023-08-01
+2024-07-31
+03592351
+d:WithinOneYear
+2024-07-31
+03592351
+d:WithinOneYear
+2023-07-31
+03592351
+d:BetweenOneFiveYears
+2024-07-31
+03592351
+d:BetweenOneFiveYears
+2023-07-31
+03592351
+c:SmallCompaniesRegimeForAccounts
+2023-08-01
+2024-07-31
+03592351
+4
+2023-08-01
+2024-07-31
+03592351
+7
+2023-08-01
+2024-07-31
+03592351
+e:PoundSterling
+2023-08-01
+2024-07-31
+xbrli:shares
+iso4217:GBP
+xbrli:pure
+Registered number:
+03592351
+S & B AUTOMOTIVE ACADEMY LIMITED
+FINANCIAL STATEMENTS
+INFORMATION FOR FILING WITH THE REGISTRAR
+FOR THE YEAR ENDED
+31 JULY 2024
+S & B AUTOMOTIVE ACADEMY LIMITED
+DIRECTORS' RESPONSIBILITIES STATEMENT
+FOR THE YEAR ENDED 31 JULY 2024
+The
+directors
+are
+responsible for preparing the
+Directors' report and the
+financial statements
+in accordance with
+applicable law and regulations
+.
+Company law
+requires
+the
+directors
+to prepare
+financial statements
+for each financial
+year
+. Under that law the directors have elected to prepare the financial statements in accordance with applicable law and United Kingdom Accounting Standards (United Kingdom Generally Accepted Accounting Practice), including Financial Reporting Standard 102 ‘The Financial Reporting Standard applicable in the UK and Republic of Ireland'. Under company law the directors must not approve the financial statements unless they are satisfied that they give
+a true and fair view of the state of affairs of the
+company
+and of the
+surplus or deficit
+of the
+company
+for that period.
+In preparing these financial statements, the directors are required to:
+∙
+select suitable
+accounting policies for the company's financial statements
+and then apply them consistently;
+∙
+make
+judgments
+and accounting estimates that are reasonable and prudent;
+∙
+state whether applicable
+UK Accounting Standards
+have been followed, subject to any material departures disclosed and explained in the financial statements;
+∙
+prepare the
+financial statements
+on the going concern basis
+unless it is inappropriate to presume that the company will continue in business
+.
+The
+directors
+are
+responsible for keeping
+adequate
+accounting records that are sufficient to show and explain the company's transactions and
+disclose with reasonable accuracy at any time the financial position of the
+company
+and to enable
+them
+to ensure that the
+financial statements
+comply with the Companies Act 2006
+.
+They are
+also responsible for safeguarding the assets of the
+company
+and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+Page
+1
+S & B AUTOMOTIVE ACADEMY LIMITED
+REGISTERED NUMBER:
+03592351
+STATEMENT OF FINANCIAL POSITION
+AS AT
+31 JULY 2024
+2024
+2023
+Note
+£
+£
+Fixed assets
+Tangible assets
+7
+211,917
+229,981
+211,917
+229,981
+Current assets
+Stocks
+314
+480
+Debtors: amounts falling due within one year
+8
+1,880,784
+936,930
+Cash at bank and in hand
+344,507
+463,375
+2,225,605
+1,400,785
+Creditors: amounts falling due within one year
+9
+(
+531,823
+)
+(
+501,991
+)
+Net current assets
+1,693,782
+898,794
+Total assets less current liabilities
+1,905,699
+1,128,775
+Creditors: amounts falling due after more than one year
+10
+(
+86,167
+)
+(
+100,528
+)
+Net assets
+1,819,532
+1,028,247
+Capital and reserves
+Called up share capital
+11
+2
+2
+Profit and loss account
+1,819,530
+1,028,245
+1,819,532
+1,028,247
+The
+financial statements
+have been prepared in accordance with the provisions applicable to companies subject to the
+small companies regime and in accordance with the provisions of FRS 102 Section 1A - small entities
+.
+The
+financial statements
+have been delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+The
+company
+has opted not to file the
+statement of comprehensive income
+in accordance with provisions applicable to companies subject to the small companies' regime.
+The
+financial statements
+were approved and authorised for issue by the
+board
+and were signed on
+its
+behalf
+by
+:
+A D Jolliffe
+Director
+Date:
+25 April 2025
+The notes on pages 3 to 9 form part of these financial statements.
+Page
+2
+S & B AUTOMOTIVE ACADEMY LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2024
+1.
+GENERAL INFORMATION
+S & B Automotive Academy Limited is a private company limited by shares, incorporated in the United Kingdom and registered in England and Wales. The registered office is Unit A Princess Street, Bedminster, Bristol, BS3 4AG.
+2.
+ACCOUNTING POLICIES
+2.1
+BASIS OF PREPARATION OF FINANCIAL STATEMENTS
+The
+financial statements
+have been prepared under the historical cost convention unless otherwise specified within these accounting policies and in accordance with FRS 102 'The Financial Reporting Standard applicable in the UK and the Republic of Ireland' and the requirements of the
+Companies Act 2006
+. The disclosure requirements of Section 1A of FRS 102 have been applied other than where additional disclosure is required to show a true and fair view.
+The preparation of
+financial statements
+in compliance with FRS
+102
+requires the use of certain critical accounting estimates. It also requires management to exercise
+judgment
+in applying the
+company
+'s
+accounting policies
+(see note 3).
+The financial statements are prepared in sterling which is also the functional currency.
+The following principal
+accounting policies
+have been applied:
+2.2
+GOING CONCERN
+At the time of approving the financial statements, the Directors have a reasonable expectation that the company has adequate resources to continue in operational existence for the forseeable future. The Directors therefore continue to adopt the going concern basis of accounting in preparation of the financial statements.
+Due to evidence of recent projections, the Directors believe the company's education training offering and their clients continued need for these services will allow them to trade for the forseeable future with the company's strong cash position and reserves it holds, as well as the support of the company's parent company, S & B Property Limited. .
+On this basis the Directors are confident that the company has adequate resources to continue in operation and, accordingly, have adopted the going concern basis in preparing the financial statements.
+2.3
+INCOME
+Income
+is recognised to the extent that it is probable that the economic benefits will flow to the
+company
+and the
+income
+can be reliably measured.
+Income
+is measured as the fair value of the consideration received or receivable, excluding discounts, rebates, value added tax and other sales taxes. The following criteria must also be met before
+income
+is recognised:
+Income comprises revenue recognised by the company in respect of goods and services supplied during the year, exclusive of Value Added Tax and trade discounts.
+The income shown in the Statement of income and retained earnings represents amounts invoiced during the year together with funding receivable from the Education and Skills Funding Agency and other sources.
+In respect of long-term courses over 1 year in duration, income represents the value of work done in the year, including estimates of amounts earned but not yet invoiced or due for payment, such as amounts receivable on successful completion of the course. Income in respect of long-term courses is recognised by reference to the stage of completion.
+Page
+3
+S & B AUTOMOTIVE ACADEMY LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2024
+2.
+ACCOUNTING POLICIES (continued)
+2.4
+GOVERNMENT GRANTS
+Grants are accounted under the accruals model as permitted by FRS 102. Grants relating to expenditure on tangible fixed assets are credited to profit or loss at the same rate as the depreciation on the assets to which the grant relates. The deferred element of grants is included in creditors as deferred income.
+Grants of a revenue nature are recognised in the
+Statement of comprehensive income
+in the same period as the related expenditure.
+2.5
+TANGIBLE FIXED ASSETS
+Tangible fixed assets under the cost model are stated at historical cost less accumulated depreciation and any accumulated impairment losses. Historical cost includes expenditure that is directly attributable to bringing the asset to the location and condition necessary for it to be capable of operating in the manner intended by management.
+Depreciation is charged so as to allocate the cost of assets less their residual value over their estimated useful lives,
+using the straight-line method
+.
+Depreciation is provided on the following basis:
+Long-term leasehold property
+-
+over 17 years
+Computer equipment
+-
+over 3 years
+The assets' residual values, useful lives and depreciation methods are reviewed, and adjusted prospectively if appropriate, or if there is an indication of a significant change since the last reporting date.
+Gains and losses on disposals are determined by comparing the proceeds with the carrying amount and are recognised in profit or loss.
+2.6
+STOCKS
+Stocks are stated at the lower of cost and net realisable value, being the estimated selling price less costs to complete and sell. Cost is based on the cost of purchase on a first in, first out basis.
+At each reporting date, stocks are assessed for impairment.
+2.7
+DEBTORS
+Short term debtors are measured at transaction price, less any impairment.
+2.8
+CASH AND CASH EQUIVALENTS
+Cash is represented by cash in hand and deposits with financial institutions repayable without penalty on notice of not more than 24 hours. Cash equivalents are highly liquid investments that mature in no more than three months from the date of acquisition and that are readily convertible to known amounts of cash with insignificant risk of change in value.
+Page
+4
+S & B AUTOMOTIVE ACADEMY LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2024
+2.
+ACCOUNTING POLICIES (continued)
+2.9
+FINANCIAL INSTRUMENTS
+Debt instruments (other than those wholly repayable or receivable within one year), including loans and other accounts receivable and payable, are initially measured at present value of the future cash flows and subsequently at amortised cost using the effective interest method. Debt instruments that are payable or receivable within one year, typically trade debtors and creditors, are measured, initially and subsequently, at the undiscounted amount of the cash or other consideration expected to be paid or received. However, if the arrangements of a short-term instrument constitute a financing transaction, like the payment of a trade debt deferred beyond normal business terms or in case of an out-right short-term loan that is not at market rate, the financial asset or liability is measured, initially at the present value of future cash flows discounted at a market rate of interest for a similar debt instrument and subsequently at amortised cost, unless it qualifies as a loan from a director in the case of a small company, or a public benefit entity concessionary loan.
+2.10
+CREDITORS
+Short term creditors are measured at the transaction price.
+2.11
+FINANCE COSTS
+Finance costs are charged to profit or loss over the term of the debt using the effective interest method so that the amount charged is at a constant rate on the carrying amount. Issue costs are initially recognised as a reduction in the proceeds of the associated capital instrument.
+2.12
+DIVIDENDS
+Equity dividends are recognised when they become legally payable.
+2.13
+OPERATING LEASES: THE COMPANY AS LESSEE
+Rentals paid under operating leases are charged to profit or loss on a straight-line basis over the lease term.
+2.14
+PENSIONS
+DEFINED CONTRIBUTION PENSION PLAN
+The
+company
+operates a defined contribution plan for its employees. A defined contribution plan is a pension plan under which the
+company
+pays fixed contributions into a separate entity. Once the contributions have been paid the
+company
+has no further payment obligations.
+The contributions are recognised as an expense in profit or loss when they fall due. Amounts not paid are shown in accruals as a liability in the
+Statement of financial position
+. The assets of the plan are held separately from the
+company
+in independently administered funds.
+2.15
+HOLIDAY PAY ACCRUAL
+A liability is recognised to the extent of any unused holiday pay entitlement which is accrued at the
+reporting date
+and carried forward to future periods. This is measured at the undiscounted salary cost of the future holiday entitlement so accrued at the
+reporting date
+.
+2.16
+EXCEPTIONAL ITEMS
+Exceptional items are transactions that fall within the ordinary activities of the
+company
+but are presented separately due to their size or incidence.
+Page
+5
+S & B AUTOMOTIVE ACADEMY LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2024
+3.
+JUDGMENTS IN APPLYING ACCOUNTING POLICIES AND KEY SOURCES OF ESTIMATION UNCERTAINTY
+The preparation of the financial statements requires management to make judgments, estimates and assumptions that affect the amounts reported for assets and liabilities as at the balance sheet date and the amounts reported for incomes and expenses during the year. However, the nature of estimation means that actual outcomes could differ from those estimates. The following judgments (apart from those involving estimates) have had the most significant effect on amounts recognised in the financial statements.
+Operating lease commitments
+The company has entered into an operating lease. The classification of such a lease as operating or finance lease requires the company to determine, based on an evaluation of the terms and conditions of the arrangements, whether it retains or acquires the significant risks and rewards of ownership of these assets and accordingly whether the lease requires an asset and liability to be recognised in the statement of financial position.
+Accrued income
+The group receives funding from the Education and Skills Funding Agency (ESFA). 80% of the funding provided by ESFA is remitted throughout the course and 20% when the learner is certified as having completed the course. However, the income recognition point for the final 20% is subjective as the group is entitled to the funding when they deem the learner to have completed the course. The recognition point of this income is based on past experience of when learners are going to complete and the likelihood that they will pass the course.
+4.
+TAXATION
+The company is a not-for-profit organisation and accordingly corporation tax is only charged on investment income and gains.
+5.
+EMPLOYEES
+The average monthly number of employees, including directors, during the
+year
+was
+42
+(2023:
+41
+)
+.
+6.
+EXCEPTIONAL ITEMS
+Exceptional administration expenses relate to a one-off banking fraud in the prior year.
+Page
+6
+S & B AUTOMOTIVE ACADEMY LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2024
+7.
+TANGIBLE FIXED ASSETS
+Long Term Leasehold Property
+Computer equipment
+Total
+£
+£
+£
+COST
+At 1 August 2023
+610,889
+10,344
+621,233
+Additions
+-
+16,025
+16,025
+At 31 July 2024
+610,889
+26,369
+637,258
+DEPRECIATION
+At 1 August 2023
+380,908
+10,344
+391,252
+Charge for the year on owned assets
+28,747
+5,342
+34,089
+At 31 July 2024
+409,655
+15,686
+425,341
+NET BOOK VALUE
+At 31 July 2024
+201,234
+10,683
+211,917
+At 31 July 2023
+229,981
+-
+229,981
+Page
+7
+S & B AUTOMOTIVE ACADEMY LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2024
+8.
+DEBTORS
+2024
+2023
+£
+£
+Trade debtors
+312,906
+269,496
+Amounts owed by group undertakings
+967,698
+195,947
+Other debtors
+49,407
+33,593
+Prepayments and accrued income
+550,773
+437,894
+1,880,784
+936,930
+9.
+CREDITORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+2024
+2023
+£
+£
+Trade creditors
+100,690
+139,173
+Government grants deferred
+14,361
+14,361
+Other taxation and social security
+37,941
+43,852
+Other creditors
+1,500
+15,277
+Accruals and deferred income
+377,331
+289,328
+531,823
+501,991
+10.
+CREDITORS: AMOUNTS FALLING DUE AFTER MORE THAN ONE YEAR
+2024
+2023
+£
+£
+Government grants deferred
+86,167
+100,528
+86,167
+100,528
+11.
+SHARE CAPITAL
+2024
+2023
+£
+£
+ALLOTTED, CALLED UP AND FULLY PAID
+2
+(2023:
+2
+)
+Ordinary
+shares of
+£
+1.00
+each
+2
+2
+Page
+8
+S & B AUTOMOTIVE ACADEMY LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2024
+12.
+PENSION COMMITMENTS
+The company operates a defined contributions pension scheme. The assets of the scheme are held separately from those of the company in an independently administered fund. The pension cost charge represents contributions payable by the company to the fund and amounted to £
+42,540
+(2023: £
+40,581
+). Contributions totalling £
+NIL
+(2023: £
+13,618
+) were payable to the fund at the balance sheet date and are included in creditors.
+13.
+COMMITMENTS UNDER OPERATING LEASES
+At
+31 July 2024
+the
+company
+had future minimum lease payments due under non-cancellable operating leases for each of the following periods:
+2024
+2023
+£
+£
+Not later than 1 year
+5,368
+11,064
+Later than 1 year and not later than 5 years
+-
+5,368
+5,368
+16,432
+14.
+RELATED PARTY TRANSACTIONS
+The Company has taken advantage of the exemption available under FRS102 Section 33 1.(A) to not disclose transactions with wholly owned group undertakings.
+15.
+CONTROLLING PARTY
+The company's immediate and ultimate parent is
+S & B Property Limited
+, a company registered in England and Wales.
+16.
+AUDITORS' INFORMATION
+The
+auditors'
+report on the financial statements for the
+year
+ended
+31 July 2024
+was
+unqualified
+.
+The audit report was signed on
+29 April 2025
+by
+Joseph Scaife FCA
+(Senior statutory auditor)
+on behalf of
+Bishop Fleming LLP
+.
+Page
+9

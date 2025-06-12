@@ -1,0 +1,784 @@
+Cordie Ltd - Accounts to registrar (filleted) - small 24.3
+IRIS Accounts Production
+v24.3.2.46
+04808299
+Board of Directors
+1.7.23
+30.6.24
+30.6.24
+false
+true
+false
+false
+false
+true
+false
+Ordinary shares
+1.00000
+314
+1340
+1000
+3675
+1876
+2021
+562
+314
+iso4217:GBP
+iso4217:USD
+iso4217:EUR
+xbrli:shares
+xbrli:pure
+utr:tonnes
+utr:kWh
+04808299
+2023-06-30
+04808299
+2024-06-30
+04808299
+2023-07-01
+2024-06-30
+04808299
+2022-06-30
+04808299
+2022-07-01
+2023-06-30
+04808299
+2023-06-30
+04808299
+ns15:EnglandWales
+2023-07-01
+2024-06-30
+04808299
+ns14:PoundSterling
+2023-07-01
+2024-06-30
+04808299
+ns10:Director1
+2023-07-01
+2024-06-30
+04808299
+ns10:PrivateLimitedCompanyLtd
+2023-07-01
+2024-06-30
+04808299
+ns10:SmallEntities
+2023-07-01
+2024-06-30
+04808299
+ns10:AuditExempt-NoAccountantsReport
+2023-07-01
+2024-06-30
+04808299
+ns10:SmallCompaniesRegimeForDirectorsReport
+2023-07-01
+2024-06-30
+04808299
+ns10:SmallCompaniesRegimeForAccounts
+2023-07-01
+2024-06-30
+04808299
+ns10:FullAccounts
+2023-07-01
+2024-06-30
+04808299
+1
+2023-07-01
+2024-06-30
+04808299
+ns10:OrdinaryShareClass1
+2023-07-01
+2024-06-30
+04808299
+ns10:Director2
+42
+2023-06-30
+04808299
+ns10:Director2
+42
+2022-06-30
+04808299
+ns10:Director2
+42
+2023-07-01
+2024-06-30
+04808299
+ns10:Director2
+42
+2022-07-01
+2023-06-30
+04808299
+ns10:Director2
+42
+2024-06-30
+04808299
+ns10:Director2
+42
+2023-06-30
+04808299
+ns10:Director2
+2023-07-01
+2024-06-30
+04808299
+ns10:CompanySecretary1
+2023-07-01
+2024-06-30
+04808299
+ns10:RegisteredOffice
+2023-07-01
+2024-06-30
+04808299
+ns5:CurrentFinancialInstruments
+2024-06-30
+04808299
+ns5:CurrentFinancialInstruments
+2023-06-30
+04808299
+ns5:Non-currentFinancialInstruments
+2024-06-30
+04808299
+ns5:Non-currentFinancialInstruments
+2023-06-30
+04808299
+ns5:ShareCapital
+2024-06-30
+04808299
+ns5:ShareCapital
+2023-06-30
+04808299
+ns5:RetainedEarningsAccumulatedLosses
+2024-06-30
+04808299
+ns5:RetainedEarningsAccumulatedLosses
+2023-06-30
+04808299
+ns5:IntangibleAssetsOtherThanGoodwill
+2023-07-01
+2024-06-30
+04808299
+ns5:IntangibleAssetsOtherThanGoodwill
+2023-06-30
+04808299
+ns5:IntangibleAssetsOtherThanGoodwill
+2024-06-30
+04808299
+ns5:IntangibleAssetsOtherThanGoodwill
+2023-06-30
+04808299
+ns5:FurnitureFittings
+2023-06-30
+04808299
+ns5:MotorVehicles
+2023-06-30
+04808299
+ns5:ComputerEquipment
+2023-06-30
+04808299
+ns5:FurnitureFittings
+2023-07-01
+2024-06-30
+04808299
+ns5:MotorVehicles
+2023-07-01
+2024-06-30
+04808299
+ns5:ComputerEquipment
+2023-07-01
+2024-06-30
+04808299
+ns5:FurnitureFittings
+2024-06-30
+04808299
+ns5:MotorVehicles
+2024-06-30
+04808299
+ns5:ComputerEquipment
+2024-06-30
+04808299
+ns5:FurnitureFittings
+2023-06-30
+04808299
+ns5:MotorVehicles
+2023-06-30
+04808299
+ns5:ComputerEquipment
+2023-06-30
+04808299
+ns5:WithinOneYear
+ns5:CurrentFinancialInstruments
+2024-06-30
+04808299
+ns5:WithinOneYear
+ns5:CurrentFinancialInstruments
+2023-06-30
+04808299
+ns5:BetweenOneTwoYears
+ns5:Non-currentFinancialInstruments
+2024-06-30
+04808299
+ns5:BetweenOneTwoYears
+ns5:Non-currentFinancialInstruments
+2023-06-30
+04808299
+ns10:OrdinaryShareClass1
+2024-06-30
+04808299
+1
+ns10:Director1
+2023-06-30
+04808299
+1
+ns10:Director1
+2022-06-30
+04808299
+1
+ns10:Director1
+2023-07-01
+2024-06-30
+04808299
+1
+ns10:Director1
+2022-07-01
+2023-06-30
+04808299
+1
+ns10:Director1
+2024-06-30
+04808299
+1
+ns10:Director1
+2023-06-30
+REGISTERED NUMBER:
+04808299
+(England and Wales)
+Cordie Ltd
+Unaudited Financial Statements
+for the Year Ended 30 June 2024
+WESTLAKE CLARK LIMITED
+7 Lynwood Court
+Priestlands Place
+Lymington
+Hampshire
+SO41 9GA
+Cordie Ltd (Registered number: 04808299)
+Contents of the Financial Statements
+for the Year Ended 30 June 2024
+Page
+Company Information
+1
+Balance Sheet
+2
+Notes to the Financial Statements
+4
+Cordie Ltd
+Company Information
+for the Year Ended 30 June 2024
+DIRECTORS:
+A Cordell
+I C Thompson
+SECRETARY:
+I C Thompson
+REGISTERED OFFICE:
+Unit A1
+Aerodrome Studios
+2-8 Airfield Way
+Christchurch
+Dorset
+BH23 3TS
+REGISTERED NUMBER:
+04808299
+(England and Wales)
+Page 1
+Cordie Ltd (Registered number: 04808299)
+Balance Sheet
+30 June 2024
+2024
+2023
+Notes
+£
+£
+FIXED ASSETS
+Intangible assets
+5
+57,898
+80,637
+Tangible assets
+6
+23,519
+30,071
+81,417
+110,708
+CURRENT ASSETS
+Stocks
+7
+8,000
+8,000
+Debtors
+8
+29,755
+127,970
+Cash at bank and in hand
+41,080
+87,598
+78,835
+223,568
+CREDITORS
+Amounts falling due within one year
+9
+(
+41,844
+)
+(
+73,578
+)
+NET CURRENT ASSETS
+36,991
+149,990
+TOTAL ASSETS LESS CURRENT
+LIABILITIES
+118,408
+260,698
+CREDITORS
+Amounts falling due after more than one year
+10
+(
+10,913
+)
+(
+20,913
+)
+NET ASSETS
+107,495
+239,785
+CAPITAL AND RESERVES
+Share capital
+12
+100
+100
+Retained earnings
+107,395
+239,685
+SHAREHOLDERS' FUNDS
+107,495
+239,785
+The notes form part of these financial statements
+Page 2
+continued...
+Cordie Ltd (Registered number: 04808299)
+Balance Sheet - continued
+30 June 2024
+The company is entitled to exemption from audit under Section 477 of the Companies Act 2006 for the year ended 30 June 2024.
+The members have not required the company to obtain an audit of its financial statements for the year ended 30 June 2024 in accordance with Section 476 of the Companies Act 2006.
+The directors acknowledge their responsibilities for:
+(a)
+ensuring that the company keeps accounting records which comply with Sections 386 and 387 of the Companies Act
+2006 and
+(b)
+preparing financial statements which give a true and fair view of the state of affairs of the company as at the end of
+each financial year and of its profit or loss for each financial year in accordance with the requirements of Sections 394
+and 395 and which otherwise comply with the requirements of the Companies Act 2006 relating to financial
+statements, so far as applicable to the company.
+The financial statements have been prepared and delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+In accordance with Section 444 of the Companies Act 2006, the Statement of Income and Retained Earnings has not been delivered.
+The financial statements were approved by the Board of Directors and authorised for issue on
+28 March 2025
+and were
+signed on its behalf by:
+I C Thompson
+- Director
+The notes form part of these financial statements
+Page 3
+Cordie Ltd (Registered number: 04808299)
+Notes to the Financial Statements
+for the Year Ended 30 June 2024
+1.
+GENERAL INFORMATION
+The company is a private company limited by share capital, incorporated in England and Wales.
+The address of its registered office is:
+Unit A1
+Aerodrome Studios
+2-8 Airfield Way
+Christchurch Dorset
+England
+BH23 3TS
+UK
+2.
+STATEMENT OF COMPLIANCE
+These financial statements have been prepared in accordance with Financial Reporting Standard 102 Section 1A -
+'The Financial Reporting Standard applicable in the UK and Republic of Ireland' and the Companies Act 2006.
+3.
+ACCOUNTING POLICIES
+BASIS OF PREPARATION
+These financial statements have been prepared using the historical cost convention except that as disclosed in the
+accounting policies certain items are shown at fair value.
+The company's functional and presentational currency is pound sterling.
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES AND KEY ACCOUNTING ESTIMATES
+The principal accounting policies applied in the preparation of these financial statements are set out below. These
+policies have been consistently applied to all the years presented, unless otherwise stated.
+GOING CONCERN
+The directors believe that the company is well placed to manage its business risks successfully and have reasonable
+expectation that the company has adequate resources to continue in operational existence for the foreseeable future.
+Thus, they continue to adopt the going concern basis of accounting in preparing the annual financial statements.
+INTANGIBLE ASSETS
+Intangible assets are initially measured at cost. After initial recognition, intangible assets are measured at cost less
+any accumulated amortisation and any accumulated impairment losses.
+Intangible costs are being amortised evenly over their estimated useful life of 4 years.
+Page 4
+continued...
+Cordie Ltd (Registered number: 04808299)
+Notes to the Financial Statements - continued
+for the Year Ended 30 June 2024
+3.
+ACCOUNTING POLICIES - continued
+TANGIBLE ASSETS
+Tangible assets are stated in the statement of financial position at cost, less any subsequent accumulated depreciation
+and subsequent accumulated impairment losses.
+The cost of tangible assets includes directly attributable incremental costs incurred in their acquisition and
+installation.
+DEPRECIATION
+Depreciation is charged so as to write off the cost of assets, other than land and properties under construction over
+their estimated useful lives, as follows:
+Asset class
+Depreciation method and rate
+Fixtures, fittings and equipment
+25% reducing balance basis
+Office equipment
+25% straight line basis
+Motor vehicles
+25% reducing balance basis
+TAXATION
+Taxation for the year comprises current and deferred tax. Tax is recognised in the Statement of Income and Retained
+Earnings, except to the extent that it relates to items recognised in other comprehensive income or directly in equity.
+Current or deferred taxation assets and liabilities are not discounted.
+Current tax is recognised at the amount of tax payable using the tax rates and laws that have been enacted or
+substantively enacted by the balance sheet date.
+DEFERRED TAX
+Deferred tax is recognised in respect of all timing differences that have originated but not reversed at the balance
+sheet date.
+Timing differences arise from the inclusion of income and expenses in tax assessments in periods different from
+those in which they are recognised in financial statements. Deferred tax is measured using tax rates and laws that
+have been enacted or substantively enacted by the year end and that are expected to apply to the reversal of the
+timing difference.
+Unrelieved tax losses and other deferred tax assets are recognised only to the extent that it is probable that they will
+be recovered against the reversal of deferred tax liabilities or other future taxable profits.
+FOREIGN CURRENCIES
+Transactions in foreign currencies are recorded at the exchange rate ruling at the date of the transaction. Monetary
+assets and liabilities denominated in foreign currencies are retranslated at the closing rates at the balance sheet date.
+All exchange differences are included in the profit and loss account.
+PENSIONS
+A defined contribution plan is a pension plan under which fixed contributions are paid into a pension fund and the
+company has no legal or constructive obligation to pay further contributions even if the fund does not hold sufficient
+assets to pay all employees the benefits relating to employee service in the current and prior periods.Contributions to
+defined contribution plans are recognised as employee benefit expense when they are due. If contribution payments
+exceed the contribution due for service, the excess is recognised as a prepayment.
+Page 5
+continued...
+Cordie Ltd (Registered number: 04808299)
+Notes to the Financial Statements - continued
+for the Year Ended 30 June 2024
+3.
+ACCOUNTING POLICIES - continued
+TRADE DEBTORS
+Trade debtors are amounts due from customers for services performed in the ordinary course of business. Trade
+debtors are recognised initially at the transaction price. They are subsequently measured at amortised cost using the
+effective interest method, less provision for impairment. A provision for the impairment of trade debtors is
+established when there is objective evidence that the company will not be able to collect all amounts due according
+to the original terms of the receivables.
+STOCKS AND OTHER INVENTORIES
+Stock is valued at the lower of cost and net realisable value, after due regard for obsolete and slow moving stocks.
+Net realisable value is based on selling price less anticipated costs to completion and selling costs.
+TRADE CREDITORS
+Trade creditors are obligations to pay for goods or services that have been acquired in the ordinary course of
+business from suppliers. Accounts payable are classified as current liabilities if the company does not have an
+unconditional right, at the end of the reporting period, to defer settlement of the creditor for at least twelve months
+after the reporting date. If there is an unconditional right to defer settlement for at least twelve months after the
+reporting date, they are presented as non-current liabilities.
+Trade creditors are recognised initially at the transaction price and subsequently measured at amortised cost using
+the effective interest method.
+BORROWINGS
+Interest-bearing borrowings are initially recorded at fair value, net of transaction costs. Interest-bearing borrowings
+are subsequently carried at amortised cost, with the difference between the proceeds, net of transaction costs, and the
+amount due on redemption being recognised as a charge to the Profit and Loss Account over the period of the
+relevant borrowing.
+Interest expense is recognised on the basis of the effective interest method and is included in interest payable and
+similar charges.
+Borrowings are classified as current liabilities unless the company has an unconditional right to defer settlement of
+the liability for at least twelve months after the reporting date.
+HIRE PURCHASE AND LEASING
+Leases are classified as finance leases where the terms of the lease transfer substantially all the risks and rewards of
+ownership to the company. All other leases are classified as operating leases.
+Rentals payable under operating leases are charged in the profit and loss account on a straight
+line basis over the
+lease term.
+4.
+EMPLOYEES AND DIRECTORS
+The average number of employees during the year was
+7
+(2023 -
+7
+) .
+Page 6
+continued...
+Cordie Ltd (Registered number: 04808299)
+Notes to the Financial Statements - continued
+for the Year Ended 30 June 2024
+5.
+INTANGIBLE FIXED ASSETS
+Other
+intangible
+assets
+£
+COST
+At 1 July 2023
+246,271
+Additions
+27,870
+At 30 June 2024
+274,141
+AMORTISATION
+At 1 July 2023
+165,634
+Charge for year
+50,609
+At 30 June 2024
+216,243
+NET BOOK VALUE
+At 30 June 2024
+57,898
+At 30 June 2023
+80,637
+6.
+TANGIBLE ASSETS
+Fixtures
+and
+Motor
+Office
+fittings
+vehicles
+equipment
+Totals
+£
+£
+£
+£
+COST
+At 1 July 2023
+23,055
+40,595
+91,199
+154,849
+Additions
+3,842
+-
+551
+4,393
+At 30 June 2024
+26,897
+40,595
+91,750
+159,242
+DEPRECIATION
+At 1 July 2023
+18,923
+25,416
+80,439
+124,778
+Charge for year
+1,994
+3,795
+5,156
+10,945
+At 30 June 2024
+20,917
+29,211
+85,595
+135,723
+NET BOOK VALUE
+At 30 June 2024
+5,980
+11,384
+6,155
+23,519
+At 30 June 2023
+4,132
+15,179
+10,760
+30,071
+7.
+STOCKS
+2024
+2023
+£
+£
+Other inventories
+8,000
+8,000
+Page 7
+continued...
+Cordie Ltd (Registered number: 04808299)
+Notes to the Financial Statements - continued
+for the Year Ended 30 June 2024
+8.
+DEBTORS
+2024
+2023
+£
+£
+Trade debtors
+24,146
+113,919
+Other debtors
+108
+-
+Directors' current accounts
+-
+314
+Corporation tax
+2,069
+6,797
+Deferred tax asset
+2,178
+511
+Prepayments and accrued income
+1,254
+6,429
+29,755
+127,970
+9.
+CREDITORS
+2024
+2023
+£
+£
+Bank loans and overdrafts (see note 11)
+18,687
+21,161
+Trade creditors
+1,624
+12,922
+Social security and other taxes
+3,062
+5,455
+VAT
+15,428
+32,803
+Pension contributions unpaid
+931
+920
+Wage control account
+-
+(1,158
+)
+Directors' current accounts
+562
+-
+Accruals and deferred income
+1,550
+1,475
+41,844
+73,578
+10.
+CREDITORS: AMOUNTS FALLING DUE AFTER MORE THAN ONE
+YEAR
+2024
+2023
+£
+£
+Bank loans (see note 11)
+10,913
+20,913
+11.
+LOANS AND BORROWINGS
+An analysis of the maturity of loans and borrowings is given below:
+2024
+2023
+£
+£
+Amounts falling due within one year or on demand:
+Bank overdrafts
+7,596
+317
+Bounce back loan
+9,920
+9,920
+Finance lease liability 2
+1,171
+10,924
+18,687
+21,161
+Amounts falling due between one and two years:
+Bounce back loan
+9,920
+9,920
+Page 8
+continued...
+Cordie Ltd (Registered number: 04808299)
+Notes to the Financial Statements - continued
+for the Year Ended 30 June 2024
+11.
+LOANS AND BORROWINGS - continued
+2024
+2023
+£
+£
+Amounts falling due between two and five years:
+Bounce back loan
+993
+10,993
+12.
+SHARE CAPITAL
+Allotted, issued and fully paid:
+Number:
+Class:
+Nominal
+2024
+2023
+value:
+£
+£
+100
+Ordinary shares
+£1
+100
+100
+13.
+RELATED PARTY TRANSACTIONS - TRANSACTIONS WITH DIRECTORS
+The following advances and credits to directors subsisted during the years ended 30 June 2024 and 30 June 2023:
+2024
+2023
+£
+£
+I C Thompson
+and
+A Cordell
+Balance outstanding at start of year
+314
+(
+1,340
+)
+Amounts advanced
+1,000
+3,675
+Amounts repaid
+(
+1,876
+)
+(
+2,021
+)
+Amounts written off
+-
+-
+Amounts waived
+-
+-
+Balance outstanding at end of year
+(
+562
+)
+314
+Advance repayable on demand. No interest is charged in respect of this balance.
+14.
+RENT AND UTILITIES
+It includes payment of £20,500 to Peake Estates was a once-off payment for “dilapidations” which was negotiated
+during the summer of 2024.
+Page 9

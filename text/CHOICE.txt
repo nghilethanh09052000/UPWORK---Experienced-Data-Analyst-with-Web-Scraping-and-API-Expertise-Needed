@@ -1,0 +1,825 @@
+Choice Training Ltd. - Accounts to registrar (filleted) - small 24.3
+IRIS Accounts Production
+v24.3.2.46
+08108602
+Board of Directors
+1.9.23
+31.8.24
+31.8.24
+false
+true
+false
+false
+false
+true
+false
+iso4217:GBP
+iso4217:USD
+iso4217:EUR
+xbrli:shares
+xbrli:pure
+utr:tonnes
+utr:kWh
+08108602
+2023-08-31
+08108602
+2024-08-31
+08108602
+2023-09-01
+2024-08-31
+08108602
+2022-08-31
+08108602
+2022-09-01
+2023-08-31
+08108602
+2023-08-31
+08108602
+ns15:EnglandWales
+2023-09-01
+2024-08-31
+08108602
+ns14:PoundSterling
+2023-09-01
+2024-08-31
+08108602
+ns10:Director1
+2023-09-01
+2024-08-31
+08108602
+ns10:PrivateLimitedCompanyLtd
+2023-09-01
+2024-08-31
+08108602
+ns10:SmallEntities
+2023-09-01
+2024-08-31
+08108602
+ns10:AuditExempt-NoAccountantsReport
+2023-09-01
+2024-08-31
+08108602
+ns10:SmallCompaniesRegimeForDirectorsReport
+2023-09-01
+2024-08-31
+08108602
+ns10:SmallCompaniesRegimeForAccounts
+2023-09-01
+2024-08-31
+08108602
+ns10:FullAccounts
+2023-09-01
+2024-08-31
+08108602
+1
+2023-09-01
+2024-08-31
+08108602
+ns10:Director2
+2023-09-01
+2024-08-31
+08108602
+ns10:Director3
+2023-09-01
+2024-08-31
+08108602
+ns10:RegisteredOffice
+2023-09-01
+2024-08-31
+08108602
+ns5:CurrentFinancialInstruments
+2024-08-31
+08108602
+ns5:CurrentFinancialInstruments
+2023-08-31
+08108602
+ns5:Non-currentFinancialInstruments
+2024-08-31
+08108602
+ns5:Non-currentFinancialInstruments
+2023-08-31
+08108602
+ns5:ShareCapital
+2024-08-31
+08108602
+ns5:ShareCapital
+2023-08-31
+08108602
+ns5:RetainedEarningsAccumulatedLosses
+2024-08-31
+08108602
+ns5:RetainedEarningsAccumulatedLosses
+2023-08-31
+08108602
+ns5:IntangibleAssetsOtherThanGoodwill
+2023-09-01
+2024-08-31
+08108602
+ns5:PatentsTrademarksLicencesConcessionsSimilar
+2023-09-01
+2024-08-31
+08108602
+ns5:PlantMachinery
+2023-09-01
+2024-08-31
+08108602
+ns5:FurnitureFittings
+2023-09-01
+2024-08-31
+08108602
+ns5:MotorVehicles
+2023-09-01
+2024-08-31
+08108602
+ns5:ComputerEquipment
+2023-09-01
+2024-08-31
+08108602
+ns5:PatentsTrademarksLicencesConcessionsSimilar
+2023-08-31
+08108602
+ns5:PatentsTrademarksLicencesConcessionsSimilar
+2024-08-31
+08108602
+ns5:PatentsTrademarksLicencesConcessionsSimilar
+2023-08-31
+08108602
+ns5:PlantMachinery
+2023-08-31
+08108602
+ns5:FurnitureFittings
+2023-08-31
+08108602
+ns5:MotorVehicles
+2023-08-31
+08108602
+ns5:ComputerEquipment
+2023-08-31
+08108602
+ns5:PlantMachinery
+2024-08-31
+08108602
+ns5:FurnitureFittings
+2024-08-31
+08108602
+ns5:MotorVehicles
+2024-08-31
+08108602
+ns5:ComputerEquipment
+2024-08-31
+08108602
+ns5:PlantMachinery
+2023-08-31
+08108602
+ns5:FurnitureFittings
+2023-08-31
+08108602
+ns5:MotorVehicles
+2023-08-31
+08108602
+ns5:ComputerEquipment
+2023-08-31
+08108602
+ns5:MotorVehicles
+ns5:LeasedAssetsHeldAsLessee
+2023-08-31
+08108602
+ns5:MotorVehicles
+ns5:LeasedAssetsHeldAsLessee
+2023-09-01
+2024-08-31
+08108602
+ns5:MotorVehicles
+ns5:LeasedAssetsHeldAsLessee
+2024-08-31
+08108602
+ns5:MotorVehicles
+ns5:LeasedAssetsHeldAsLessee
+2023-08-31
+08108602
+ns5:WithinOneYear
+ns5:CurrentFinancialInstruments
+2024-08-31
+08108602
+ns5:WithinOneYear
+ns5:CurrentFinancialInstruments
+2023-08-31
+08108602
+ns5:WithinOneYear
+ns5:HirePurchaseContracts
+2024-08-31
+08108602
+ns5:WithinOneYear
+ns5:HirePurchaseContracts
+2023-08-31
+08108602
+ns5:BetweenOneFiveYears
+ns5:HirePurchaseContracts
+2024-08-31
+08108602
+ns5:BetweenOneFiveYears
+ns5:HirePurchaseContracts
+2023-08-31
+08108602
+ns5:HirePurchaseContracts
+2024-08-31
+08108602
+ns5:HirePurchaseContracts
+2023-08-31
+08108602
+ns5:WithinOneYear
+ns5:CurrentFinancialInstruments
+ns5:HirePurchaseContracts
+2024-08-31
+08108602
+ns5:WithinOneYear
+ns5:CurrentFinancialInstruments
+ns5:HirePurchaseContracts
+2023-08-31
+08108602
+ns5:WithinOneYear
+2024-08-31
+08108602
+ns5:WithinOneYear
+2023-08-31
+08108602
+ns5:BetweenOneFiveYears
+2024-08-31
+08108602
+ns5:BetweenOneFiveYears
+2023-08-31
+08108602
+ns5:MoreThanFiveYears
+2024-08-31
+08108602
+ns5:MoreThanFiveYears
+2023-08-31
+08108602
+ns5:AllPeriods
+2024-08-31
+08108602
+ns5:AllPeriods
+2023-08-31
+08108602
+ns5:DeferredTaxation
+2023-08-31
+08108602
+ns5:DeferredTaxation
+2023-09-01
+2024-08-31
+08108602
+ns5:DeferredTaxation
+2024-08-31
+08108602
+3
+ns10:Director3
+2023-08-31
+08108602
+3
+ns10:Director3
+2022-08-31
+08108602
+3
+ns10:Director3
+2023-09-01
+2024-08-31
+08108602
+3
+ns10:Director3
+2022-09-01
+2023-08-31
+08108602
+3
+ns10:Director3
+2024-08-31
+08108602
+3
+ns10:Director3
+2023-08-31
+REGISTERED NUMBER:
+08108602
+(England and Wales)
+UNAUDITED FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 AUGUST 2024
+FOR
+CHOICE TRAINING LTD.
+CHOICE TRAINING LTD. (REGISTERED NUMBER: 08108602)
+CONTENTS OF THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 AUGUST 2024
+Page
+Company Information
+1
+Balance Sheet
+2
+Notes to the Financial Statements
+4
+CHOICE TRAINING LTD.
+COMPANY INFORMATION
+FOR THE YEAR ENDED 31 AUGUST 2024
+DIRECTORS:
+D R Mereu
+R H Maw
+R Tye
+REGISTERED OFFICE:
+Seareach House
+Wantz Road
+Dagenham
+Essex
+RM10 8PS
+REGISTERED NUMBER:
+08108602
+(England and Wales)
+ACCOUNTANTS:
+Advanta
+Chartered Accountants
+29 Gildredge Road
+Eastbourne
+East Sussex
+BN21 4RU
+Page 1
+CHOICE TRAINING LTD. (REGISTERED NUMBER: 08108602)
+BALANCE SHEET
+31 AUGUST 2024
+2024
+2023
+Notes
+£
+£
+£
+£
+FIXED ASSETS
+Intangible assets
+4
+-
+-
+Tangible assets
+5
+57,821
+74,060
+57,821
+74,060
+CURRENT ASSETS
+Debtors
+6
+121,356
+70,973
+Cash at bank
+175,598
+102,363
+296,954
+173,336
+CREDITORS
+Amounts falling due within one year
+7
+167,646
+71,662
+NET CURRENT ASSETS
+129,308
+101,674
+TOTAL ASSETS LESS CURRENT LIABILITIES
+187,129
+175,734
+CREDITORS
+Amounts falling due after more than one year
+8
+(
+48,014
+)
+(
+57,004
+)
+PROVISIONS FOR LIABILITIES
+10
+(
+14,455
+)
+(
+18,515
+)
+NET ASSETS
+124,660
+100,215
+CAPITAL AND RESERVES
+Called up share capital
+999
+999
+Retained earnings
+123,661
+99,216
+SHAREHOLDERS' FUNDS
+124,660
+100,215
+The company is entitled to exemption from audit under Section 477 of the Companies Act 2006 for the year ended 31 August 2024.
+The members have not required the company to obtain an audit of its financial statements for the year ended 31 August 2024 in accordance with Section 476 of the Companies Act 2006.
+The directors acknowledge their responsibilities for:
+(a)
+ensuring that the company keeps accounting records which comply with Sections 386 and 387 of the Companies Act 2006
+and
+(b)
+preparing financial statements which give a true and fair view of the state of affairs of the company as at the end of each
+financial year and of its profit or loss for each financial year in accordance with the requirements of Sections 394 and 395 and
+which otherwise comply with the requirements of the Companies Act 2006 relating to financial statements, so far as
+applicable to the company.
+The notes form part of these financial statements
+Page 2
+continued...
+CHOICE TRAINING LTD. (REGISTERED NUMBER: 08108602)
+BALANCE SHEET - continued
+31 AUGUST 2024
+The financial statements have been prepared and delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+In accordance with Section 444 of the Companies Act 2006, the Income Statement has not been delivered.
+The financial statements were approved by the Board of Directors and authorised for issue on
+23 May 2025
+and were signed on its
+behalf by:
+D R Mereu
+- Director
+The notes form part of these financial statements
+Page 3
+CHOICE TRAINING LTD. (REGISTERED NUMBER: 08108602)
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 AUGUST 2024
+1.
+STATUTORY INFORMATION
+Choice Training Ltd. is a
+private company, limited by shares
+, registered in England and Wales. The company's registered
+number and registered office address can be found on the Company Information page.
+2.
+ACCOUNTING POLICIES
+Basis of preparing the financial statements
+These financial statements have been prepared in accordance with Financial Reporting Standard 102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland" including the provisions of Section 1A "Small Entities" and the Companies Act 2006. The financial statements have been prepared under the historical cost convention.
+Turnover
+Turnover is measured at the fair value of the consideration received or receivable, excluding discounts, rebates, value added
+tax and other sales taxes.
+Intangible assets
+Intangible assets are initially measured at cost. After initial recognition, intangible assets are measured at cost less any
+accumulated amortisation and any accumulated impairment losses.
+Stamp duty are being amortised evenly over their estimated useful life of ten years.
+Tangible fixed assets
+Depreciation is provided at the following annual rates in order to write off each asset over its estimated useful life or, if held under a finance lease, over the lease term, whichever is the shorter.
+Plant & machinery
+-
+25% on reducing balance
+Furniture,fittings & equipment
+-
+25% on reducing balance
+Motor vehicles
+-
+25% on reducing balance
+Computer equipment
+-
+Straight line over 3 years
+Taxation
+Taxation for the year comprises current and deferred tax. Tax is recognised in the Income Statement, except to the extent
+that it relates to items recognised in other comprehensive income or directly in equity.
+Current or deferred taxation assets and liabilities are not discounted.
+Current tax is recognised at the amount of tax payable using the tax rates and laws that have been enacted or substantively
+enacted by the balance sheet date.
+Deferred tax
+Deferred tax is recognised in respect of all timing differences that have originated but not reversed at the balance sheet
+date.
+Timing differences arise from the inclusion of income and expenses in tax assessments in periods different from those in
+which they are recognised in financial statements. Deferred tax is measured using tax rates and laws that have been
+enacted or substantively enacted by the year end and that are expected to apply to the reversal of the timing difference.
+Unrelieved tax losses and other deferred tax assets are recognised only to the extent that it is probable that they will be
+recovered against the reversal of deferred tax liabilities or other future taxable profits.
+Page 4
+continued...
+CHOICE TRAINING LTD. (REGISTERED NUMBER: 08108602)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+FOR THE YEAR ENDED 31 AUGUST 2024
+2.
+ACCOUNTING POLICIES - continued
+Hire purchase and leasing commitments
+Assets obtained under hire purchase contracts or finance leases are capitalised in the balance sheet.
+Those held under hire
+purchase contracts are depreciated over their estimated useful lives.
+Those held under finance leases are depreciated over
+their estimated useful lives or the lease term, whichever is the shorter.
+The interest element of these obligations is charged to profit or loss over the relevant period. The capital element of the
+future payments is treated as a liability.
+Rentals paid under operating leases are charged to profit or loss on a straight line basis over the period of the lease.
+Pension costs and other post-retirement benefits
+The company operates a defined contribution pension scheme.
+Contributions payable to the company's pension scheme are
+charged to profit or loss in the period to which they relate.
+3.
+EMPLOYEES AND DIRECTORS
+The average number of employees during the year was
+15
+(2023 -
+15
+) .
+4.
+INTANGIBLE FIXED ASSETS
+Stamp
+duty
+£
+COST
+At 1 September 2023
+and 31 August 2024
+2,965
+AMORTISATION
+At 1 September 2023
+and 31 August 2024
+2,965
+NET BOOK VALUE
+At 31 August 2024
+-
+At 31 August 2023
+-
+Page 5
+continued...
+CHOICE TRAINING LTD. (REGISTERED NUMBER: 08108602)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+FOR THE YEAR ENDED 31 AUGUST 2024
+5.
+TANGIBLE FIXED ASSETS
+Plant &
+Furniture,fittings
+Motor
+Computer
+machinery
+& equipment
+vehicles
+equipment
+Totals
+£
+£
+£
+£
+£
+COST
+At 1 September 2023
+25,583
+14,376
+82,450
+11,999
+134,408
+Additions
+1,559
+5,893
+-
+758
+8,210
+Disposals
+-
+-
+-
+(
+5,719
+)
+(
+5,719
+)
+At 31 August 2024
+27,142
+20,269
+82,450
+7,038
+136,899
+DEPRECIATION
+At 1 September 2023
+22,956
+11,491
+20,613
+5,288
+60,348
+Charge for year
+1,047
+2,195
+15,459
+1,935
+20,636
+Eliminated on disposal
+-
+-
+-
+(
+1,906
+)
+(
+1,906
+)
+At 31 August 2024
+24,003
+13,686
+36,072
+5,317
+79,078
+NET BOOK VALUE
+At 31 August 2024
+3,139
+6,583
+46,378
+1,721
+57,821
+At 31 August 2023
+2,627
+2,885
+61,837
+6,711
+74,060
+Fixed assets, included in the above, which are held under hire purchase contracts are as follows:
+Motor
+vehicles
+£
+COST
+At 1 September 2023
+and 31 August 2024
+82,450
+DEPRECIATION
+At 1 September 2023
+20,613
+Charge for year
+15,459
+At 31 August 2024
+36,072
+NET BOOK VALUE
+At 31 August 2024
+46,378
+At 31 August 2023
+61,837
+6.
+DEBTORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+2024
+2023
+£
+£
+Trade debtors
+26,160
+8,347
+Other debtors
+49,000
+33,500
+Directors' current accounts
+13,519
+13,198
+Tax
+4,418
+4,304
+Prepayments
+28,259
+11,624
+121,356
+70,973
+Page 6
+continued...
+CHOICE TRAINING LTD. (REGISTERED NUMBER: 08108602)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+FOR THE YEAR ENDED 31 AUGUST 2024
+7.
+CREDITORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+2024
+2023
+£
+£
+Hire purchase contracts
+(see note 9)
+9,951
+8,562
+Trade creditors
+29,060
+10,308
+Tax
+88,874
+26,349
+PAYE
+16,443
+12,170
+VAT
+5,495
+3,238
+Other creditors
+2,795
+3,425
+Credit card
+6,038
+2,113
+Directors' current accounts
+-
+1,237
+Accrued expenses
+8,990
+4,260
+167,646
+71,662
+8.
+CREDITORS: AMOUNTS FALLING DUE AFTER MORE THAN ONE YEAR
+2024
+2023
+£
+£
+Hire purchase contracts
+(see note 9)
+48,014
+57,004
+9.
+LEASING AGREEMENTS
+Minimum lease payments fall due as follows:
+Hire purchase contracts
+2024
+2023
+£
+£
+Gross obligations repayable:
+Within one year
+12,493
+11,532
+Between one and five years
+50,445
+61,977
+62,938
+73,509
+Finance charges repayable:
+Within one year
+2,542
+2,970
+Between one and five years
+2,431
+4,973
+4,973
+7,943
+Net obligations repayable:
+Within one year
+9,951
+8,562
+Between one and five years
+48,014
+57,004
+57,965
+65,566
+Page 7
+continued...
+CHOICE TRAINING LTD. (REGISTERED NUMBER: 08108602)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+FOR THE YEAR ENDED 31 AUGUST 2024
+9.
+LEASING AGREEMENTS - continued
+Non-cancellable operating
+leases
+2024
+2023
+£
+£
+Within one year
+81,630
+77,174
+Between one and five years
+163,164
+222,513
+In more than five years
+4,456
+-
+249,250
+299,687
+10.
+PROVISIONS FOR LIABILITIES
+2024
+2023
+£
+£
+Deferred tax
+14,455
+18,515
+Deferred
+tax
+£
+Balance at 1 September 2023
+18,515
+Provided during year
+(
+4,060
+)
+Balance at 31 August 2024
+14,455
+11.
+DIRECTORS' ADVANCES, CREDITS AND GUARANTEES
+The following advances and credits to a director subsisted during the years ended 31 August 2024 and 31 August 2023:
+2024
+2023
+£
+£
+R Tye
+Balance outstanding at start of year
+13,198
+12,880
+Amounts advanced
+321
+318
+Amounts repaid
+-
+-
+Amounts written off
+-
+-
+Amounts waived
+-
+-
+Balance outstanding at end of year
+13,519
+13,198
+R Tye. Interest of £297 (2023 : £258) was charged at the official rate of 2.25%.
+D Mereu. Accrued interest of £763 (2003 :£nil) was paid on funds D Mereu had leant to the company. These were repaid in
+full during the year ended 31 August 2024.
+Page 8

@@ -1,0 +1,672 @@
+Docusign Envelope ID: 5B638335-7389-46A9-B4DC-967C778DAC5B
+
+Registered number: 04801169
+
+UNIVERSAL SKILLS CENTRE LIMITED
+
+FINANCIAL STATEMENTS
+
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+nH
+
+30/09/2024 #142
+COMPANIES HOUSE
+
+i
+
+MONDAY
+
+A
+
+'
+
+Docusign Envelope ID: 58638335-7389-46A9-B4DC-967C778DAC5B
+
+UNIVERSAL SKILLS CENTRE LIMITED
+REGISTERED NUMBER: 04801169
+
+BALANCE SHEET
+AS AT 31 DECEMBER 2023
+
+2023
+. Note £
+Fixed assets
+Tangible assets : ; § ; 53,552
+53,552
+Current assets
+Debtors: amounts falling due within one year 6 497,224
+Cash at bank and in hand 7 751,520
+4,248,744
+Creditors: amounts falling due within one
+year , 8 (507,915)
+Net current assets . 740,829
+Total assets less current liabilities 794,381
+Creditors: amounts falling due after more
+than one year 9 (15,661)
+Provisions for liabilities
+Deferred tax (7,748)
+(7,748)
+Net assets 770,972
+Capital and reserves
+Called up share capital 10,000
+Profit and loss account 760,972
+770,972
+
+628,847
+383,389
+
+"1,012,236
+
+(557,993)
+
+(7,539)
+
+2022
+
+69,308
+
+69,308
+
+454,243
+
+523,551
+
+(25,780)
+
+(7,539)
+
+490,232
+
+10,000
+480,232
+
+490,232
+
+Page 1
+
+Docusign Envelope ID: 5B638335-7389-46A9-B4DC-967C778DAC5B
+
+UNIVERSAL SKILLS CENTRE LIMITED
+REGISTERED NUMBER: 04801169
+
+BALANCE SHEET (CONTINUED)
+AS AT 31 DECEMBER 2023
+
+The financial statements have been prepared in accordance with the provisions applicable to companies subject
+to the small companies regime and in accordance with the provisions of FRS 102 Section 1A - small entities.
+
+The financial statements have been delivered in accordance with the provisions applicable to companies subject
+to the small companies regime.
+
+The Company has opted not to file the statement of income and retained earnings in accordance with provisions
+applicable to companies subject to the small companies’ regime.
+
+The financial statements were approved and authorised for issue by the board and were signed on its behalf by:
+‘Signed by:
+1EAA7TTACB1244C4...
+
+P Keenan
+Director
+
+Date: September 27, 2024
+
+The notes on pages 3 to 11 form part of these financial statements.
+
+U
+
+»
+aQ
+
+Ls)
+
+Docusign Envelope ID: 5B638335-7389-46A9-B4DC-967C778DAC5B
+
+UNIVERSAL SKILLS CENTRE LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+General information
+
+Universal Skills Centre Limited is a private company limited by shares which is incorporated in England
+and Wales in the United Kingdom under the Companies Act 2006. The company number and address of
+the registered office is given on the Company Information page.
+
+Accounting policies
+
+21
+
+2.2
+
+Basis of preparation of financial statements
+
+The financial statements have been prepared under the historical cost convention unless otherwise
+specified within these accounting policies and in accordance with FRS 102 ‘The Financial Reporting
+Standard applicable in the UK and the Republic of Ireland’ and the requirements of the Companies
+Act 2006. The disclosure requirements of Section 1A of FRS 102 have been applied other than
+where additional disclosure is required to show a true and fair view.
+
+The following principal accounting policies have been applied:
+Financial Reporting Standard 102 - reduced disclosure exemptions
+
+The Company has taken advantage of the following disclosure exemptions in preparing these
+financial statements, as permitted by the FRS 102 "The Financial Reporting Standard applicable in
+the UK and Republic of Ireland":
+
+. the requirements of Section 7 Statement of Cash Flows;
+e the requirements of Section 3 Financial Statement Presentation paragraph 3.17(d);
+
+. the requirements of Section 11 Financial Instruments paragraphs 11.42, 11.44 to 11.45, 11.47,
+11.48(a)(iii), 11.48(a)(iv), 11.48(b) and 11.48(c);
+
+° the requirements of Section 12 Other Financial Instruments paragraphs 12.26 to 12.27,
+12.29(a), 12.29(b) and 12.29A;
+
+. the requirements of Section 26 Share-based Payment paragraphs 26.18(b), 26.19 to 26.21
+and 26.23;
+
+. the requirements of Section 33 Related Party Disclosures paragraph 33.7.
+
+This information is included in the consolidated financial statements of Grouse Topco Limited as at
+
+31 December 2023 and these financial statements may be obtained from The Barn, Philpots Close,
+Yiewsley, Middlesex, UB7 7RY.
+
+Page 3
+
+
+Docusign Envelope ID: 5B638335-7389-46A9-B4DC-967C778DAC5B
+
+UNIVERSAL SKILLS CENTRE LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+2. Accounting policies (continued)
+
+2.3
+
+2.5
+
+Revenue
+
+Revenue is recognised to the extent that it is probable that the economic benefits will flow to the
+Company and the revenue can be reliably measured. Revenue is measured as the fair value of the
+consideration received or receivable, excluding discounts, rebates, value added tax and other sales
+taxes. The following criteria must also be met before revenue is recognised:
+
+Sale of goods
+
+Revenue from the sale of goods is recognised when all of the following conditions are satisfied: _
+. the Company has transferred the significant risks and rewards of ownership to the buyer;
+
+. the Company retains neither continuing managerial involvement to the degree usually
+associated with ownership nor effective control over the goods sold;
+
+° the amount of revenue can be measured reliably;
+
+. it is probable that the Company will receive the consideration due under the transaction; and
+
+. the costs incurred or to be incurred in respect of the transaction can be measured reliably.
+
+Rendering of services
+
+Revenue from a contract to provide services is recognised in the period in which the services are
+provided in accordance with the stage of completion of the contract when all of the following
+conditions are satisfied:
+
+° the amount of revenue can be measured reliably;
+
+. it is probable that the Company will receive the consideration due under the contract;
+
+. the stage of completion of the contract at the end of the reporting period can be measured
+reliably; and
+
+. the costs incurred and the costs to complete the contract can be measured reliably.
+
+Finance costs
+
+Finance costs are charged to profit or loss over the term of the debt using the effective interest
+method so that the amount charged is at a constant rate on the carrying amount. Issue costs are
+initially recognised as a reduction in the proceeds of the associated capital instrument.
+
+Borrowing costs
+
+All borrowing costs are recognised in profit or loss in the year in which they are incurred.
+
+
+Docusign Envelope ID: 5B638335-7389-46A9-B4DC-967C778DAC5B
+
+UNIVERSAL SKILLS CENTRE LIMITED
+
+2.
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+Accounting policies (continued)
+
+2.6
+
+2.7
+
+2.8
+
+2.9
+
+Pensions
+Defined contribution pension plan
+
+The Company operates a defined contribution plan for its employees. A defined contribution plan is a
+pension plan under which the Company pays fixed contributions into a separate entity. Once the
+contributions have been paid the Company has no further payment obligations.
+
+The contributions are recognised as an expense in profit or loss when they fall due. Amounts not paid
+are shown in accruals as a liability in the Balance sheet. The assets of the plan are held separately
+from the Company in independently administered funds.
+
+Current and deferred taxation
+
+The tax expense for the year comprises current and deferred tax. Tax is recognised in profit or loss
+except that a charge attributable to an item of income and expense recognised as other
+comprehensive income or to an item recognised directly in equity is also recognised in other
+comprehensive income or directly in equity respectively.
+
+The current income tax charge is calculated on the basis of tax rates and laws that have been
+enacted or substantively enacted by the balance sheet date in the countries where the Company
+operates and generates income.
+
+Deferred tax balances are recognised in respect of all timing differences that have originated but not
+reversed by the balance sheet date, except that:
+
+° The recognition of deferred tax assets is limited to the extent that it is probable that they will be
+recovered against the reversal of deferred tax liabilities or other future taxable profits; and
+
+° Any deferred tax balances are reversed if and when all conditions for retaining associated tax
+allowances have been met.
+
+Deferred tax balances are not recognised in respect of permanent differences except in respect of
+business combinations, when deferred tax is recognised on the differences between the fair values of
+assets acquired and the future tax deductions available for them and the differences between the fair
+values of liabilities acquired and the amount that will be assessed for tax. Deferred tax is determined
+using tax rates and laws that have been enacted or substantively enacted by the balance sheet date.
+
+Intangible assets
+
+Intangible assets are initially recognised at cost. After recognition, under the cost model, intangible
+assets are measured at cost less any accumulated amortisation and any accumulated impairment
+losses.
+
+All intangible assets are considered to have a finite useful life. If a reliable estimate of the useful life
+cannot be made, the useful life shall not exceed ten years.
+
+Tangible fixed assets
+
+Tangible fixed assets under the cost model are stated at historical cost less accumulated
+depreciation and any accumulated impairment losses. Historical cost includes expenditure that is
+directly attributable to bringing the asset to the location and condition necessary for it to be capable of
+operating in the manner intended by management.
+
+Page 5
+
+Docusign Envelope ID: 5B638335-7389-46A9-B4DC-967C778DAC5B
+
+UNIVERSAL SKILLS CENTRE LIMITED
+
+2.
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+Accounting policies (continued)
+
+2.9 Tangible fixed assets (continued)
+
+Depreciation is charged so as to allocate the cost of assets less their residual value over their
+estimated useful lives, using the straight-line method.
+
+Depreciation is provided on the following basis:
+
+Leasehold land and buildings = - 10% Straight line method
+Plant and machinery - 20% Straight line method
+Fixtures and fittings - 20% Straight line method
+Office equipment ~ - 20% Straight line method
+Website development - 20% Straight line method
+
+The assets' residual values, useful lives and depreciation methods are reviewed, and adjusted
+prospectively if appropriate, or if there is an indication of a significant change since the last reporting
+date.
+
+Gains and losses on disposals are determined by comparing the proceeds with the carrying amount
+and are recognised in profit or loss.
+
+2.10 Debtors
+Short-term debtors are measured at transaction price, less any impairment. Loans receivable are
+measured initially at fair value, net of transaction costs, and are measured subsequently at amortised
+cost using the effective interest method, less any impairment.
+
+2.11 Cash and cash equivalents -
+Cash is represented by cash in hand and deposits with financial institutions repayable without penalty
+on notice of not more than 24 hours. Cash equivalents are highly liquid investments that mature in no
+more than three months from the date of acquisition and that are readily convertible to known
+amounts of cash with insignificant risk of change in value.
+
+2.12 Creditors
+Short-term creditors are measured at the transaction price. Other financial liabilities, including bank
+loans, are measured initially at fair value, net of transaction costs, and are measured subsequently at
+amortised cost using the effective interest method.
+
+2.13 Provisions for liabilities
+
+Provisions are recognised when an event has taken place that gives rise to a legal or constructive
+obligation, a transfer of economic benefits is probable and a reliable estimate can be made.
+
+Provisions are measured as the best estimate of the amount required to settle the obligation, taking
+into account the related risks and uncertainties.
+
+Increases in provisions are generally charged as an expense to profit or loss.
+2.14 Financial instruments
+
+The Company only enters into basic financial instrument transactions that result in the recognition of
+financial assets and liabilities like trade and other debtors and creditors, loans from banks and other
+
+Page 6
+
+
+Docusign Envelope ID: 5B638335-7389-46A9-B4DC-967C778DAC5B
+
+UNIVERSAL SKILLS CENTRE LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+ad
+
+bad
+
+>
+
+Accounting policies (continued)
+
+2.14 Financial instruments (continued)
+third parties, loans to related parties and invetments in ordinary shares.
+Financial assets that are measured at cost and amortised cost are assessed at the end of each
+reporting period for objective evidence of impairment. !f objective evidence of impairment is found, an
+impairment loss is recognised in the Statement of Income and Retained Earnings.
+
+2.15 Dividends
+Equity dividends are recognised when they become legally payable. Interim equity dividends are
+recognised when paid. Final equity dividends are recognised when approved by the shareholders at
+an annual general meeting.
+
+Employees
+
+The average monthly number of employees, including directors, during the year was 22 (2022 - 22).
+
+Intangible assets
+
+Goodwill
+£
+
+Cost
+At 1 January 2023 65,449
+At 31 December 2023 65,449
+Amortisation
+At 1 January 2023 65,449
+At 31 December 2023 . 65,449
+Net book value
+
+At 31 December 2023 -
+
+At 31 December 2022 -
+
+Page 7
+
+Docusign Envelope ID: 5B638335-7389-46A9-B4DC-967C778DAC5B
+
+UNIVERSAL SKILLS CENTRE LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+5. Tangible fixed assets
+
+Other
+Freehold Plant and Fixtures and Office _—fixed
+property machinery fittings equipment assets Total
+£ £ £ £ £
+Cost or valuation
+At 1 January 2023 55,727 41,611 18,371 67,699 7,500 190,908
+Additions - 1,137 233 3,822 - 5,192
+Disposals _ - - - (350) ad (350)
+At 31 December 2023 55,727 42,748 18,604 71,171 7,500 195,750
+Depreciation
+At 1 January 2023 31,889 21,713 14,806 51,484 1,708 121,600
+Charge for the year on
+owned assets 5,573 4,877 1,935 6,713 1,500 20,598
+At 31 December 2023 37,462 26,590 16,741 58,197 3,208 142,198
+Net book value
+At 31 December 2023 18,265 16,158 1,863 12,974 4,292 53,552
+At 31 December 2022 23,838 19,898 3,565 16,215 5,792 69,308
+6. Debtors
+2023 2022
+£ £
+Trade debtors 41,577 141,222
+Amounts owed by group undertakings 362,990 409,241
+Other debtors 4,748 -
+Prepayments and accrued income 87,909 78,384
+
+497,224 628,847
+
+Page 8
+
+Docusign Envelope '0: 5B638335-7389-46A9-B4DC-967C778DAC5B
+
+UNIVERSAL SKILLS CENTRE LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+N
+
+»
+
+Cd
+
+Cash and cash equivalents
+
+Cash at bank and in hand
+Less: bank overdrafts
+
+Creditors: Amounts falling due within one year
+
+Bank overdrafts
+
+Bank loans
+
+Other loans
+
+Trade creditors
+
+Corporation tax
+
+Other taxation and social security
+Other creditors
+
+Accruals and deferred income
+
+Creditors: Amounts falling due after more than one year
+
+Bank loans
+
+2023
+£
+
+751,520
+(1,082)
+
+750,438
+
+2023
+£
+
+1,082
+10,119
+18,330
+91,021
+65,639
+
+432
+321,292
+
+507,915
+
+2023
+£
+
+15,661
+
+15,661
+
+2022
+£
+
+383,389
+
+383,389
+
+2022
+£
+
+9,870
+20,821
+113,135
+75,335
+338,832
+
+557,993
+
+2022
+£
+
+25,780
+
+25,780
+
+Docusign Envelope ID: 5B638335-7389-46A9-B4DC-967C778DACSB
+
+UNIVERSAL SKILLS CENTRE LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+Loans
+
+Analysis of the maturity of loans is given below:
+
+Amounts falling due within one year
+
+Bank loans
+Other loans
+
+Amounts falling due 1-2 years
+
+Bank loans
+
+Deferred taxation
+
+At beginning of year
+Charged to profit or loss
+
+At end of year
+
+The provision for deferred taxation is made up as follows:
+
+Accelerated capital allowances
+
+2023
+
+10,119
+
+10,119
+
+15,661
+
+15,661
+
+25,780
+
+2023
+£
+
+(7,748)
+
+(7,748)
+
+2022
+
+9,870
+
+9,870
+
+25,780
+
+25,780
+
+35,650
+
+2023
+
+(7,539)
+(209)
+
+(7,748)
+
+2022
+
+(7,539)
+
+(7,539)
+
+Page 10
+
+
+UNIVERSAL SKILLS CENTRE LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2023
+
+Pension commitments
+
+The Company operates a defined contributions pension scheme. The assets of the scheme are held
+separately from those of the Company in an independently administered fund. The pension cost charge
+represents contributions payable by the Company to the fund and amounted to £15,304 (2022 - £16,481).
+Contributions totalling £3,656 (2022 - £4,482) were payable to the fund at the balance sheet date.
+
+Related party transactions
+
+No transactions with related parties were undertaken such as are required to be disclosed under FRS
+
+102.
+
+Controlling party
+
+The immediate parent company Universal Skills Group Limited. Universal Skills Group Limited is in turn
+owned 100% by Shorterm Limited and the parent of the smallest group for which consolidated accounts
+are prepared is Grouse Topco Limited. Both Shorterm Limited and Grouse Topco Limited are
+incorporated in England and Wales and have the registered office of The Barn, Philpots Close, Yiewsley,
+Middlesex, UB7 7RY.
+
+The ultimate parent undertaking is Growth Capital Partners Fund IV LP, a fund registered in the United
+Kingdom. There is no single ultimate controlling party.
+
+Auditors’ information
+
+The auditors’ report on the financial statements for the year ended 31 December 2023 was unqualified.
+
+The audit report was signed on 30 September 2024 by Jason Mitchell MBA BSc FCA (Senior statutory
+auditor) on behalf of MHA.
+
+Page 11
+

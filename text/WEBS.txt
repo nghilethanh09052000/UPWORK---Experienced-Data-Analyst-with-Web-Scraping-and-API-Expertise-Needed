@@ -1,0 +1,848 @@
+WEBS Training Limited - Accounts to registrar (filleted) - small 24.3
+IRIS Accounts Production
+v25.1.0.734
+02268395
+Board of Directors
+1.8.23
+31.7.24
+31.7.24
+31/1/2025
+false
+true
+false
+false
+true
+false
+Auditors Opinion
+Fair value model
+Ordinary
+1.00000
+iso4217:GBP
+iso4217:USD
+iso4217:EUR
+xbrli:shares
+xbrli:pure
+utr:tonnes
+utr:kWh
+02268395
+2023-07-31
+02268395
+2024-07-31
+02268395
+2023-08-01
+2024-07-31
+02268395
+2022-07-31
+02268395
+2022-08-01
+2023-07-31
+02268395
+2023-07-31
+02268395
+ns15:EnglandWales
+2023-08-01
+2024-07-31
+02268395
+ns14:PoundSterling
+2023-08-01
+2024-07-31
+02268395
+ns10:Director1
+2023-08-01
+2024-07-31
+02268395
+ns10:PrivateLimitedCompanyLtd
+2023-08-01
+2024-07-31
+02268395
+ns10:SmallEntities
+2023-08-01
+2024-07-31
+02268395
+ns10:Audited
+2023-08-01
+2024-07-31
+02268395
+ns10:SmallCompaniesRegimeForDirectorsReport
+2023-08-01
+2024-07-31
+02268395
+ns10:SmallCompaniesRegimeForAccounts
+2023-08-01
+2024-07-31
+02268395
+ns10:FullAccounts
+2023-08-01
+2024-07-31
+02268395
+ns10:OrdinaryShareClass1
+2023-08-01
+2024-07-31
+02268395
+ns10:Director2
+2023-08-01
+2024-07-31
+02268395
+ns10:Director3
+2023-08-01
+2024-07-31
+02268395
+ns10:Director4
+2023-08-01
+2024-07-31
+02268395
+ns10:Director5
+2023-08-01
+2024-07-31
+02268395
+ns10:Director6
+2023-08-01
+2024-07-31
+02268395
+ns10:Director7
+2023-08-01
+2024-07-31
+02268395
+ns10:Director8
+2023-08-01
+2024-07-31
+02268395
+ns10:Director9
+2023-08-01
+2024-07-31
+02268395
+ns10:Director10
+2023-08-01
+2024-07-31
+02268395
+ns10:Director11
+2023-08-01
+2024-07-31
+02268395
+ns10:RegisteredOffice
+2023-08-01
+2024-07-31
+02268395
+ns5:CurrentFinancialInstruments
+2024-07-31
+02268395
+ns5:CurrentFinancialInstruments
+2023-07-31
+02268395
+ns5:Non-currentFinancialInstruments
+2024-07-31
+02268395
+ns5:Non-currentFinancialInstruments
+2023-07-31
+02268395
+ns5:ShareCapital
+2024-07-31
+02268395
+ns5:ShareCapital
+2023-07-31
+02268395
+ns5:CapitalRedemptionReserve
+2024-07-31
+02268395
+ns5:CapitalRedemptionReserve
+2023-07-31
+02268395
+ns5:FurtherSpecificReserve2ComponentTotalEquity
+2024-07-31
+02268395
+ns5:FurtherSpecificReserve2ComponentTotalEquity
+2023-07-31
+02268395
+ns5:RetainedEarningsAccumulatedLosses
+2024-07-31
+02268395
+ns5:RetainedEarningsAccumulatedLosses
+2023-07-31
+02268395
+ns5:LandBuildings
+ns5:OwnedOrFreeholdAssets
+2023-08-01
+2024-07-31
+02268395
+ns5:PlantMachinery
+2023-08-01
+2024-07-31
+02268395
+ns5:MotorVehicles
+2023-08-01
+2024-07-31
+02268395
+ns5:LandBuildings
+2023-07-31
+02268395
+ns5:PlantMachinery
+2023-07-31
+02268395
+ns5:MotorVehicles
+2023-07-31
+02268395
+ns5:LandBuildings
+2023-08-01
+2024-07-31
+02268395
+ns5:LandBuildings
+2024-07-31
+02268395
+ns5:PlantMachinery
+2024-07-31
+02268395
+ns5:MotorVehicles
+2024-07-31
+02268395
+ns5:LandBuildings
+2023-07-31
+02268395
+ns5:PlantMachinery
+2023-07-31
+02268395
+ns5:MotorVehicles
+2023-07-31
+02268395
+ns5:WithinOneYear
+ns5:CurrentFinancialInstruments
+2024-07-31
+02268395
+ns5:WithinOneYear
+ns5:CurrentFinancialInstruments
+2023-07-31
+02268395
+ns5:Non-currentFinancialInstruments
+ns5:BetweenTwoFiveYears
+2024-07-31
+02268395
+ns5:Non-currentFinancialInstruments
+ns5:BetweenTwoFiveYears
+2023-07-31
+02268395
+ns5:Non-currentFinancialInstruments
+ns5:MoreThanFiveYears
+2024-07-31
+02268395
+ns5:Non-currentFinancialInstruments
+ns5:MoreThanFiveYears
+2023-07-31
+02268395
+ns5:WithinOneYear
+2024-07-31
+02268395
+ns5:WithinOneYear
+2023-07-31
+02268395
+ns5:BetweenOneFiveYears
+2024-07-31
+02268395
+ns5:BetweenOneFiveYears
+2023-07-31
+02268395
+ns5:AllPeriods
+2024-07-31
+02268395
+ns5:AllPeriods
+2023-07-31
+02268395
+ns10:OrdinaryShareClass1
+2024-07-31
+REGISTERED NUMBER:
+02268395
+(England and Wales)
+Audited Financial Statements
+for the Year Ended 31 July 2024
+for
+WEBS Training Limited
+WEBS Training Limited (Registered number: 02268395)
+Contents of the Financial Statements
+for the Year Ended 31 July 2024
+Page
+Company Information
+1
+Balance Sheet
+2
+Notes to the Financial Statements
+4
+WEBS Training Limited
+Company Information
+for the Year Ended 31 July 2024
+DIRECTORS:
+J A Bazeley
+N J H Crowther
+L Jameson
+C M Sowter
+J A Woolley
+A W Cooke
+P J Bradbery
+T N Alley
+I Nelson
+C H Collett
+D A O'Neill
+REGISTERED OFFICE:
+The Poplars
+Wollaton Road
+Beeston
+Nottingham
+Nottinghamshire
+NG9 2PD
+REGISTERED NUMBER:
+02268395
+(England and Wales)
+AUDITORS:
+Mabe Allen LLP
+Chartered Accountants
+Statutory Auditors
+50 Osmaston Road
+Derby
+DE1 2HU
+BANKERS:
+Barclays Bank Plc
+The Library
+Foster Avenue
+Beeston
+Nottingham
+NG9 1AE
+Page 1
+WEBS Training Limited (Registered number: 02268395)
+Balance Sheet
+31 July 2024
+2024
+2023
+Notes
+£
+£
+£
+FIXED ASSETS
+Tangible assets
+5
+1,368,416
+1,400,113
+Investment property
+6
+420,000
+420,000
+1,788,416
+1,820,113
+CURRENT ASSETS
+Stocks
+13,201
+12,680
+Debtors
+7
+168,086
+151,253
+Cash at bank and in hand
+262,910
+406,394
+444,197
+570,327
+CREDITORS
+Amounts falling due within one year
+8
+205,603
+183,676
+NET CURRENT ASSETS
+238,594
+386,651
+TOTAL ASSETS LESS CURRENT
+LIABILITIES
+2,027,010
+2,206,764
+CREDITORS
+Amounts falling due after more than one
+year
+9
+(
+982,233
+)
+(
+1,038,632
+)
+PROVISIONS FOR LIABILITIES
+(
+31,551
+)
+(
+29,678
+)
+ACCRUALS AND DEFERRED INCOME
+12
+(
+1,021,171
+)
+(
+1,046,099
+)
+NET (LIABILITIES)/ASSETS
+(
+7,945
+)
+92,355
+CAPITAL AND RESERVES
+Called up share capital
+13
+600
+600
+Capital redemption reserve
+100
+100
+Other reserves
+180,046
+180,046
+Retained earnings
+(
+188,691
+)
+(
+88,391
+)
+SHAREHOLDERS' FUNDS
+(
+7,945
+)
+92,355
+The notes form part of these financial statements
+Page 2
+continued...
+WEBS Training Limited (Registered number: 02268395)
+Balance Sheet - continued
+31 July 2024
+The financial statements have been prepared and delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+In accordance with Section 444 of the Companies Act 2006, the Income Statement has not been delivered.
+The financial statements were approved by the Board of Directors and authorised for issue on
+31 January 2025
+and were signed on its behalf by:
+L Jameson
+- Director
+The notes form part of these financial statements
+Page 3
+WEBS Training Limited (Registered number: 02268395)
+Notes to the Financial Statements
+for the Year Ended 31 July 2024
+1.
+STATUTORY INFORMATION
+WEBS Training Limited is a
+private company, limited by shares
+, registered in England and Wales. The
+company's registered number and registered office address can be found on the Company Information
+page.
+The presentation currency of the financial statements is the Pound Sterling (£).
+2.
+STATEMENT OF COMPLIANCE
+These financial statements have been prepared in accordance with Financial Reporting Standard 102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland" including the provisions of Section 1A "Small Entities" and the Companies Act 2006.
+3.
+ACCOUNTING POLICIES
+Basis of preparing the financial statements
+The financial statements have been prepared under the historical cost convention.
+Going concern
+The Company made a loss after tax for the year of £100,300 (2023: £26,921) and had net liabilities at
+31 July 2024 of £7,945 (2023: net assets of £92,355).
+The level of net liabilities (2023: assets) reflects the existence of a liability for a deferred government
+grant which at 31 July 2024 stood at £1,021,171 (2023: £1,046,099) and which is only repayable
+under certain specific circumstances.
+The Company still held net current assets at 31 July 2024 of £238,594 (2023: £386,651) and after
+making reasonable enquiries, the directors have a reasonable expectation that the company has
+adequate resources to continue in operational existence for the foreseeable future. Accordingly, they
+continue to adopt the going concern basis in preparing the financial statements.
+Significant judgements and estimates
+The preparation of the financial statements requires management to make judgements, estimates and
+assumptions that affect the amounts reported for assets and liabilities as at the balance sheet date
+and the amounts reported for revenues and expenses during the year. However, the nature of
+estimation means that actual outcomes could differ from those estimated.
+Estimates and judgements are continually evaluated and are based on historical experience and other
+factors, including expectations of future events that are believed to be reasonable under the
+circumstances.
+The following judgements have had the most significant effect on amounts recognised in the financial
+statements.
+Revaluation of freehold properties and investment properties
+The company carries its freehold properties and investment properties at fair value, with changes in
+fair value being recognised in profit or loss. In accordance with FRS 102, the fair value of investment
+properties is reassessed annually by the directors in periods where not independently valued. The
+professional valuer used a valuation technique which took account of the traditional capitalisation of
+notional and capital values. In arriving at notional rates associated with the properties, the valuer
+considered actual rates of comparable properties.
+Page 4
+continued...
+WEBS Training Limited (Registered number: 02268395)
+Notes to the Financial Statements - continued
+for the Year Ended 31 July 2024
+3.
+ACCOUNTING POLICIES - continued
+Turnover
+Turnover is measured at the fair value of the consideration received or receivable, excluding discounts,
+rebates, value added tax and other sales taxes.
+Tangible fixed assets
+Depreciation is provided at the following annual rates in order to write off each asset over its estimated useful life.
+Freehold property
+-
+2% on cost
+Plant and machinery
+-
+25% and 10% on cost
+Motor vehicles
+-
+20% on cost
+Tangible fixed assets are stated at cost or valuation less accumulated depreciation and accumulated
+impairment losses. Cost includes costs directly attributable to making the asset capable of operating as
+intended.
+Small items of computer equipment are written off fully in the year of acquisition.
+The freehold property is carried in the financial statements at revalued cost using a professional
+valuation of freehold property which took place in 2022, less subsequent accumulated depreciation
+and subsequent accumulated losses.
+Investment property
+Investment property is shown at fair value. Any aggregate surplus or deficit arising from changes in
+fair value is recognised in profit or loss.
+The investment property fair value of £420,000 (2023: £420,000) was reassessed by the directors in
+the period, after being determined by an independent qualified valuer who sought to identify current
+market value during 2022.
+Stocks
+Stocks are valued at the lower of cost and net realisable value, after making due allowance for
+obsolete and slow moving items.
+Taxation
+Taxation for the year comprises current and deferred tax. Tax is recognised in the Income Statement,
+except to the extent that it relates to items recognised in other comprehensive income or directly in
+equity.
+Current or deferred taxation assets and liabilities are not discounted.
+Current tax is recognised at the amount of tax payable using the tax rates and laws that have been
+enacted or substantively enacted by the balance sheet date.
+Page 5
+continued...
+WEBS Training Limited (Registered number: 02268395)
+Notes to the Financial Statements - continued
+for the Year Ended 31 July 2024
+3.
+ACCOUNTING POLICIES - continued
+Deferred tax
+Deferred tax is recognised in respect of all timing differences that have originated but not reversed at
+the balance sheet date.
+Timing differences arise from the inclusion of income and expenses in tax assessments in periods
+different from those in which they are recognised in financial statements. Deferred tax is measured
+using tax rates and laws that have been enacted or substantively enacted by the year end and that
+are expected to apply to the reversal of the timing difference.
+Unrelieved tax losses and other deferred tax assets are recognised only to the extent that it is
+probable that they will be recovered against the reversal of deferred tax liabilities or other future
+taxable profits.
+Pension costs and other post-retirement benefits
+The company operates a defined contribution pension scheme.
+Contributions payable to the
+company's pension scheme are charged to profit or loss in the period to which they relate.
+Debtors and creditors receivable / payable within one year
+Debtors and creditors with no stated interest rate and receivable or payable within one year are
+recorded at transaction price. Any losses arising from impairment are recognised in the profit and loss
+account in other administrative expenses.
+Impairment
+Assets not measured at fair value are reviewed for any indication that the asset may be impaired at
+each balance sheet date. If such indication exists, the recoverable amount of the asset, or the asset's
+cash generating unit, is estimated and compared to the carrying amount. Where the carrying amount
+exceeds its recoverable amount, an impairment loss is recognised in profit or loss unless the asset is
+carried at a revalued amount where the impairment is a revaluation decrease.
+Provisions
+Provisions are recognised when the company has an obligation at the balance sheet date as a result of
+a past event, it is probable that an outflow of economic benefits will be required in settlement and the
+amount can be reliably estimated.
+Hire purchase and leasing commitments
+At inception the company assesses agreements that transfer the right to use assets.
+The assessment considers whether the arrangement is, or contains, a lease based on the substance of
+the arrangement.
+Leases that do not transfer all the risks and rewards of ownership are classified as operating leases.
+Payments under operating leases are charged to the profit and loss account on a straight-line basis
+over the period of the lease.
+Page 6
+continued...
+WEBS Training Limited (Registered number: 02268395)
+Notes to the Financial Statements - continued
+for the Year Ended 31 July 2024
+3.
+ACCOUNTING POLICIES - continued
+Government grants
+Grant income receivable relating to revenue shall be recognised in income on a systematic basis over
+the periods in which the entity recognises the related costs for which the grant is intended to
+compensate.
+A capital project grant was received in the year ended 31 July 2012 to assist with the costs associated
+with the development of the WEBS Academy training centre. The grant is not repayable (subject to
+the conditions outlined below) and is being released from deferred income to the profit and loss on a
+systematic basis over the estimated useful life of the assets acquired.
+Conditions of the grant
+- Should the company dispose of the training centre and the land on which it sits without the consent
+of the funding agency within the 20 years to April 2031 then the agency may require full or partial
+repayment of the grant.
+- Should the company become subject to a change in ownership which impacts adversely and
+materially on the terms, goes into liquidation or is put into administration then a review of the impact
+will need to be undertaken and the agency reserves the right, at its discretion, to recover full or partial
+amount of the funding provided.
+4.
+EMPLOYEES AND DIRECTORS
+The average number of employees during the year was
+19
+(2023 -
+18
+) .
+5.
+TANGIBLE FIXED ASSETS
+Freehold
+Plant and
+Motor
+property
+machinery
+vehicles
+Totals
+£
+£
+£
+£
+COST
+At 1 August 2023
+3,103,699
+694,625
+10,497
+3,808,821
+Additions
+-
+11,070
+-
+11,070
+At 31 July 2024
+3,103,699
+705,695
+10,497
+3,819,891
+DEPRECIATION
+At 1 August 2023
+1,749,415
+650,549
+8,744
+2,408,708
+Charge for year
+25,714
+15,302
+1,751
+42,767
+At 31 July 2024
+1,775,129
+665,851
+10,495
+2,451,475
+NET BOOK VALUE
+At 31 July 2024
+1,328,570
+39,844
+2
+1,368,416
+At 31 July 2023
+1,354,284
+44,076
+1,753
+1,400,113
+Included in cost of land and buildings is freehold land of £
+300,000
+(2023 - £
+300,000
+) which is not
+depreciated.
+Page 7
+continued...
+WEBS Training Limited (Registered number: 02268395)
+Notes to the Financial Statements - continued
+for the Year Ended 31 July 2024
+5.
+TANGIBLE FIXED ASSETS - continued
+In respect of freehold property stated at valuations, the comparable historical cost and depreciation
+values are as follows:
+2024
+2023
+£
+£
+Net book value at end of year
+1,328,570
+1,354,284
+Historical cost:
+At 1 August 2023 and 31 July 2024
+3,103,699
+3,103,699
+Depreciation:
+At 1 August 2023
+672,888
+616,814
+Charge for Year
+56,074
+56,074
+At 31 July 2024
+728,962
+672,888
+Net historical cost value:
+At 31 July 2024
+2,374,737
+2,430,811
+At 31 July 2023
+2,430,811
+2,486,885
+6.
+INVESTMENT PROPERTY
+Total
+£
+FAIR VALUE
+At 1 August 2023
+and 31 July 2024
+420,000
+NET BOOK VALUE
+At 31 July 2024
+420,000
+At 31 July 2023
+420,000
+Included in fair value of investment property is freehold land of £
+200,000
+(2023 - £
+200,000
+) which is
+not depreciated.
+Fair value at 31 July 2024 is represented by:
+£
+Valuation in
+2018
+367,460
+Valuation in
+2022
+(92,903
+)
+Cost
+145,443
+420,000
+7.
+DEBTORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+2024
+2023
+£
+£
+Trade debtors
+75,593
+80,275
+Corporation tax
+-
+7,473
+Prepayments
+92,493
+63,505
+168,086
+151,253
+Page 8
+continued...
+WEBS Training Limited (Registered number: 02268395)
+Notes to the Financial Statements - continued
+for the Year Ended 31 July 2024
+8.
+CREDITORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+2024
+2023
+£
+£
+Bank loans and overdrafts
+56,688
+56,985
+Trade creditors
+83,649
+54,197
+Social security and other taxes
+6,288
+9,722
+Accruals and deferred income
+32,294
+34,088
+Other creditors
+500
+2,500
+Deferred government grants
+26,184
+26,184
+205,603
+183,676
+9.
+CREDITORS: AMOUNTS FALLING DUE AFTER MORE THAN ONE
+YEAR
+2024
+2023
+£
+£
+Bank loans 1-5 years
+200,105
+227,823
+Bank loans payable in more than 5 years
+by instalments
+782,128
+810,809
+982,233
+1,038,632
+Amounts falling due in more than five years:
+Repayable by instalments
+Bank loans payable in more than 5 years
+by instalments
+782,128
+810,809
+10.
+LEASING AGREEMENTS
+Minimum lease payments under non-cancellable operating leases fall due as follows:
+2024
+2023
+£
+£
+Within one year
+7,414
+10,833
+Between one and five years
+6,512
+5,894
+13,926
+16,727
+11.
+SECURED DEBTS
+The following secured debts are included within creditors:
+2024
+2023
+£
+£
+Bank Loan
+1,015,588
+1,062,284
+The bank loans are secured by way of a debenture giving a fixed and floating charge over all of the
+property and assets of the company.
+Page 9
+continued...
+WEBS Training Limited (Registered number: 02268395)
+Notes to the Financial Statements - continued
+for the Year Ended 31 July 2024
+12.
+ACCRUALS AND DEFERRED INCOME
+2024
+2023
+£
+£
+Deferred government grants
+1,021,171
+1,046,099
+The grant is not repayable (subject to the conditions outlined in accounting policy note 3) and is being
+released from deferred income to the profit and loss on a systematic basis over the estimated useful
+life of the assets acquired.
+13.
+CALLED UP SHARE CAPITAL
+Allotted, issued and fully paid:
+Number:
+Class:
+Nominal
+2024
+2023
+value:
+£
+£
+600
+Ordinary
+£1
+600
+600
+14.
+DISCLOSURE UNDER SECTION 444(5B) OF THE COMPANIES ACT 2006
+The Report of the Auditors was unqualified.
+Neil Higgins FCCA
+(Senior Statutory Auditor)
+for and on behalf of
+Mabe Allen LLP
+Page 10

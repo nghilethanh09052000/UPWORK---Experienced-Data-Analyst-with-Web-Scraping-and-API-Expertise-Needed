@@ -1,0 +1,168 @@
+ACCOUNTS - Final Accounts preparation
+Caseware UK (AP4) 2023.0.135
+2023.0.135
+2024-01-31
+2024-01-31
+2023-02-01
+The members have not required the company to obtain an audit in accordance with section 476 of the Companies Act 2006.
+10
+false
+No description of principal activity
+8
+true
+false
+12129134
+2023-02-01
+2024-01-31
+12129134
+2022-02-01
+2023-01-31
+12129134
+2024-01-31
+12129134
+2023-01-31
+12129134
+c:Director1
+2023-02-01
+2024-01-31
+12129134
+d:CurrentFinancialInstruments
+2024-01-31
+12129134
+d:CurrentFinancialInstruments
+2023-01-31
+12129134
+c:AuditExempt-NoAccountantsReport
+2023-02-01
+2024-01-31
+12129134
+c:FullAccounts
+2023-02-01
+2024-01-31
+12129134
+c:PrivateLimitedCompanyLtd
+2023-02-01
+2024-01-31
+12129134
+c:Micro-entities
+2023-02-01
+2024-01-31
+12129134
+e:PoundSterling
+2023-02-01
+2024-01-31
+iso4217:GBP
+xbrli:pure
+Registered number:
+12129134
+MAYBIRD TRAINING LTD
+UNAUDITED
+FINANCIAL STATEMENTS
+INFORMATION FOR FILING WITH THE REGISTRAR
+FOR THE YEAR ENDED
+31 JANUARY 2024
+MAYBIRD TRAINING LTD
+REGISTERED NUMBER:
+12129134
+BALANCE SHEET
+AS AT
+31 JANUARY 2024
+2024
+2023
+£
+£
+Fixed assets
+3,575
+3,826
+Current assets
+23,367
+21,265
+Creditors: amounts falling due within one year
+(
+30,273
+)
+(
+15,077
+)
+NET CURRENT (LIABILITIES)/ASSETS
+(
+6,906
+)
+6,188
+NET (LIABILITIES)/ASSETS
+£
+(
+3,331
+)
+£
+10,014
+CAPITAL AND RESERVES
+£
+(
+3,331
+)
+£
+10,014
+Notes
+General information
+Maybird Training Limited is a private company limited by shares.  The company registration number is 12129134 and the company is incorporated in England and Wales.  The registered office of the company is Henwood House, Henwood, Ashford, Kent  TN24 8DH and the principal place of business address is Capella, Faversham Road, Ashford, Kent TN25 4PH.
+Average number of employees
+The average monthly number of employees, including directors, during the
+year
+was
+8
+(2023 -
+10
+)
+.
+Director's confirmations
+The
+director
+considers
+that the
+Company
+is entitled to exemption from audit under section 477 of the
+Companies Act 2006
+and members have not required the
+Company
+to obtain an audit for the
+year
+in question in accordance with section 476 of the
+Companies Act 2006
+.
+The
+director
+acknowledges
+her
+responsibilities for complying with the requirements of the
+Companies Act 2006
+with respect to accounting records and the preparation of
+financial statements
+.
+These
+financial statements
+have been prepared in accordance with the provisions applicable to entities subject to the micro-entities' regime.
+The
+financial statements
+have been delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+The
+financial statements
+were approved and authorised for issue by the
+board
+and were signed on
+its
+behalf
+on
+24 October 2024
+.
+___________________________
+Sonya McPherson-Hills
+Director
+Page 1
+MAYBIRD TRAINING LTD
+REGISTERED NUMBER:
+12129134
+1.
+Related party transactions
+Maybird Training Ltd is partially owned by FJ Hills Ltd. As at the Balance Sheet date FJ Hills Ltd owed the Company £3,200, shown as an intercompany loan balance included within Other Debtors.
+Page 2

@@ -1,0 +1,347 @@
+Accounts Submission
+Company Accounts and Tax Online
+11826810
+Board of Directors
+1.3.23
+29.2.24
+29.2.24
+No description of principal activity
+false
+iso4217:GBP
+xbrli:pure
+11826810
+2022-03-01
+2023-02-28
+11826810
+2024-02-29
+11826810
+2023-03-01
+2024-02-29
+11826810
+2023-02-28
+11826810
+countries:EnglandWales
+2023-03-01
+2024-02-29
+11826810
+curr:PoundSterling
+2023-03-01
+2024-02-29
+11826810
+uk-bus:PrivateLimitedCompanyLtd
+2023-03-01
+2024-02-29
+11826810
+uk-bus:FRS102
+2023-03-01
+2024-02-29
+11826810
+uk-bus:AuditExempt-NoAccountantsReport
+2023-03-01
+2024-02-29
+11826810
+uk-bus:AbridgedAccounts
+2023-03-01
+2024-02-29
+11826810
+uk-bus:RegisteredOffice
+2023-03-01
+2024-02-29
+11826810
+uk-bus:Director1
+2023-03-01
+2024-02-29
+11826810
+uk-bus:Director1
+2023-03-01
+11826810
+uk-bus:Director1
+2024-02-29
+11826810
+core:AfterOneYear
+2024-02-29
+11826810
+core:AfterOneYear
+2023-02-28
+11826810
+core:WithinOneYear
+2024-02-29
+11826810
+core:WithinOneYear
+2023-02-28
+11826810
+core:WithinOneYear
+2023-03-01
+2024-02-29
+11826810
+core:AfterOneYear
+2024-02-29
+11826810
+core:AfterOneYear
+2023-02-28
+11826810
+core:AfterOneYear
+2023-03-01
+2024-02-29
+11826810
+core:ShareCapital
+2024-02-29
+11826810
+core:ShareCapital
+2023-02-28
+11826810
+core:RevaluationReserve
+2024-02-29
+11826810
+core:RevaluationReserve
+2023-02-28
+11826810
+core:RetainedEarningsAccumulatedLosses
+2024-02-29
+11826810
+core:RetainedEarningsAccumulatedLosses
+2023-02-28
+11826810
+1
+2023-03-01
+2024-02-29
+BETTERWELD GROUP LTD
+Company Registration Number:
+11826810
+(England and Wales)
+Unaudited abridged accounts for the year ended 29 February 2024
+Period of accounts
+Start date: 01 March 2023
+End date: 29 February 2024
+Page 1
+BETTERWELD GROUP LTD
+Contents of the Financial Statements
+for the Period Ended 29 February 2024
+Company Information - 3
+Balance sheet - 4
+Additional notes - 6
+Balance sheet notes - 9
+Page 2
+BETTERWELD GROUP LTD
+Company Information
+for the Period Ended 29 February 2024
+Registered office:
+Betterweld Group
+3a Bradley Park
+High Holborn Road
+Ripley
+England
+DE5 3NW
+Company Registration Number:
+11826810
+(England and Wales)
+Page 3
+BETTERWELD GROUP LTD
+Balance sheet
+As at
+29 February 2024
+Notes
+2024
+£
+2023
+£
+Fixed assets
+Intangible assets:
+4
+0
+0
+Tangible assets:
+5
+243,540
+200,127
+Total fixed assets:
+243,540
+200,127
+Current assets
+Stocks:
+0
+0
+Debtors:
+157,664
+164,216
+Cash at bank and in hand:
+157,737
+171,125
+Total current assets:
+315,401
+335,341
+Prepayments and accrued income:
+35,385
+19,774
+Creditors: amounts falling due within one year:
+(
+322,265
+)
+(
+333,115
+)
+Net current assets (liabilities):
+28,521
+22,000
+Total assets less current liabilities:
+272,061
+222,127
+Creditors: amounts falling due after more than one year:
+(
+192,576
+)
+(
+155,350
+)
+Total net assets (liabilities):
+79,485
+66,777
+The notes form part of these financial statements
+Page 4
+BETTERWELD GROUP LTD
+Balance sheet continued
+As at 29 February 2024
+Notes
+2024
+£
+2023
+£
+Capital and reserves
+Called up share capital:
+100
+100
+Revaluation reserve:
+6
+33,000
+33,000
+Profit and loss account:
+46,385
+33,677
+Shareholders funds:
+79,485
+66,777
+For the year ending 29 February 2024 the company was entitled to exemption under section 477 of the Companies Act 2006 relating to small companies.
+The members have not required the company to obtain an audit in accordance with section 476 of the Companies Act 2006.
+The directors acknowledge their responsibilities for complying with the requirements of the Act with respect to accounting records and the preparation of accounts.
+The members have agreed to the preparation of abridged accounts for this accounting period in accordance with Section 444(2A).
+These accounts have been prepared and delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+This report was approved by the board of directors on
+31 May 2024
+And Signed On Behalf Of The Board By:
+Name:
+Sai Yau
+Status: Director
+The notes form part of these financial statements
+Page 5
+BETTERWELD GROUP LTD
+Notes to the Financial Statements
+for the Period Ended 29 February 2024
+1. Accounting policies
+Basis of measurement and preparation
+These financial statements have been prepared in accordance with the provisions of Section 1A (Small Entities) of Financial Reporting Standard 102
+Page 6
+BETTERWELD GROUP LTD
+Notes to the Financial Statements
+for the Period Ended 29 February 2024
+2. Employees
+2024
+2023
+Average number of employees during the period
+13
+8
+Page 7
+BETTERWELD GROUP LTD
+Notes to the Financial Statements
+for the Period Ended 29 February 2024
+3. Off balance sheet disclosure
+No
+Page 8
+BETTERWELD GROUP LTD
+Notes to the Financial Statements
+for the Period Ended 29 February 2024
+4. Intangible assets
+Total
+Cost
+£
+At 01 March 2023
+0
+Additions
+0
+Disposals
+(
+0
+)
+Revaluations
+0
+Transfers
+0
+At 29 February 2024
+0
+Amortisation
+Charge for year
+-
+On disposals
+-
+Other adjustments
+-
+Amortisation at 29 February 2024
+-
+Net book value
+Net book value at 29 February 2024
+0
+Net book value at 28 February 2023
+0
+Page 9
+BETTERWELD GROUP LTD
+Notes to the Financial Statements
+for the Period Ended 29 February 2024
+5. Tangible Assets
+Total
+Cost
+£
+At 01 March 2023
+200,127
+Additions
+118,804
+Disposals
+(
+8,195
+)
+Revaluations
+-
+Transfers
+-
+At 29 February 2024
+310,736
+Depreciation
+At 01 March 2023
+0
+Charge for year
+70,642
+On disposals
+(
+3,446
+)
+Other adjustments
+-
+At 29 February 2024
+67,196
+Net book value
+At 29 February 2024
+243,540
+At 28 February 2023
+200,127
+Page 10
+BETTERWELD GROUP LTD
+Notes to the Financial Statements
+for the Period Ended 29 February 2024
+6. Revaluation reserve
+2024
+£
+Balance at 01 March 2023
+33,000
+Surplus or deficit after revaluation
+0
+Balance at 29 February 2024
+33,000
+Page 11

@@ -1,0 +1,559 @@
+Registered number: $C222955
+
+20/20 BUSINESS INSIGHT LIMITED
+
+UNAUDITED
+
+FINANCIAL STATEMENTS
+
+INFORMATION FOR FILING WITH THE REGISTRAR
+
+FOR THE YEAR ENDED 31 MARCH 2024
+
+20/20 BUSINESS INSIGHT LIMITED
+REGISTERED NUMBER: SC222955
+
+BALANCE SHEET
+AS AT 31 MARCH 2024
+
+2024
+Note £
+Fixed assets
+Tangible assets 4 47,099
+47,099
+Current assets
+Debtors: amounts falling due within one year 5 1,538,868
+Cash at bank and in hand 6 341,024
+1,879,892
+Creditors: amounts falling due within one year 7 (797,909)
+Net current assets 1,081,983
+Total assets less current liabilities 1,129,082
+Creditors: amounts falling due after more than one year 8 (14,167)
+Provisions for liabilities
+Deferred tax 10 (4,359)
+(4,359)
+Net assets 1,110,556
+Capital and reserves
+Called up share capital 1 665
+Share premium account 148,934
+Profit and loss account 960,957
+
+1,110,556
+
+Page 1
+
+As restated
+2023
+£
+
+69,010
+
+69,010
+
+1,421,319
+416,664
+
+1,837,983
+(787,550)
+
+1,050,433
+
+1,119,443
+(24,167)
+
+(9,267)
+(9,267)
+
+1,086,009
+
+665
+148,934
+936,410
+
+1,086,009
+
+20/20 BUSINESS INSIGHT LIMITED
+REGISTERED NUMBER: SC222955
+
+BALANCE SHEET (CONTINUED)
+AS AT 31 MARCH 2024
+
+The directors consider that the Company is entitled to exemption from audit under section 477 of the Companies Act 2006 and
+members have not required the Company to obtain an audit for the year in question in accordance with section 476 of the Companies
+Act 2006.
+
+The directors acknowledge their responsibilities for complying with the requirements of the Companies Act 2006 with respect to
+accounting records and the preparation of financial statements.
+
+The financial statements have been prepared in accordance with the provisions applicable to companies subject to the small
+companies regime and in accordance with the provisions of FRS 102 Section 1A - small entities.
+
+The financial statements have been delivered in accordance with the provisions applicable to companies subject to the small
+companies regime.
+
+The Company has opted not to file the profit and loss account in accordance with provisions applicable to companies subject to the
+small companies’ regime.
+
+The financial statements were approved and authorised for issue by the board and were signed on its behalf by:
+
+T Vincent
+Director
+
+Date: 11 November 2024
+
+The notes on pages 3 to 10 form part of these financial statements.
+
+Page 2
+
+20/20 BUSINESS INSIGHT LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MARCH 2024
+
+1. General information
+
+20/20 Business Insight Limited is a private company limited by shares incorporated in Scotland. The registered office is
+Elevator Business Centre, Endeavour Drive, Arnhall Business Park, Westhill, Aberdeenshire, United Kingdom, AB32 6UF.
+
+2. Accounting policies
+
+2.1 Basis of preparation of financial statements
+The financial statements have been prepared under the historical cost convention unless otherwise specified within these
+accounting policies and in accordance with FRS 102 'The Financial Reporting Standard applicable in the UK and the
+Republic of Ireland’ and the requirements of the Companies Act 2006. The disclosure requirements of Section 1A of FRS
+102 have been applied other than where additional disclosure is required to show a true and fair view.
+The following principal accounting policies have been applied:
+
+2.2 Foreign currency translation
+Functional and presentation currency
+The Company's functional and presentational currency is GBP.
+
+Transactions and balances
+
+Foreign currency transactions are translated into the functional currency using the spot exchange rates at the dates of the
+transactions.
+
+At each period end foreign currency monetary items are translated using the closing rate. Non-monetary items measured
+at historical cost are translated using the exchange rate at the date of the transaction and non-monetary items measured
+at fair value are measured using the exchange rate when fair value was determined.
+
+2.3 Revenue
+
+Revenue is recognised to the extent that it is probable that the economic benefits will flow to the Company and the
+revenue can be reliably measured. Revenue is measured as the fair value of the consideration received or receivable,
+excluding discounts, rebates, value added tax and other sales taxes. The following criteria must also be met before
+revenue is recognised:
+
+Rendering of services
+Revenue from a contract to provide services is recognised in the period in which the services are provided in accordance
+with the stage of completion of the contract when all of the following conditions are satisfied:
+
+the amount of revenue can be measured reliably;
+
+it is probable that the Company will receive the consideration due under the contract;
+
+the stage of completion of the contract at the end of the reporting period can be measured reliably; and
+
+the costs incurred and the costs to complete the contract can be measured reliably.
+
+Page 3
+
+2.
+
+20/20 BUSINESS INSIGHT LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MARCH 2024
+
+Accounting policies (continued)
+
+2.4
+
+2.5
+
+2.6
+
+2.7
+
+2.8
+
+Research and development
+In the research phase of an internal project it is not possible to demonstrate that the project will generate future economic
+benefits and hence all expenditure on research shall be recognised as an expense when it is incurred. Intangible assets
+are recognised from the development phase of a project if and only if certain specific criteria are met in order to
+demonstrate the asset will generate probable future economic benefits and that its cost can be reliably measured. The
+capitalised development costs are subsequently amortised on a straight-line basis over their useful economic lives, which
+range from 3 to 6 years.
+
+If it is not possible to distinguish between the research phase and the development phase of an internal project, the
+expenditure is treated as if it were all incurred in the research phase only.
+
+The Company recognises a research and development tax credit on an accruals basis when it is probable that any future
+economic benefit will flow to the entity. If it is not probable that any future economic benefit will flow to the entity, the tax
+credit will be recognised in the period the credit is received.
+Interest income
+Interest income is recognised in profit or loss using the effective interest method.
+Finance costs
+Finance costs are charged to profit or loss over the term of the debt using the effective interest method so that the amount
+charged is at a constant rate on the carrying amount. Issue costs are initially recognised as a reduction in the proceeds of
+the associated capital instrument.
+Borrowing costs
+All borrowing costs are recognised in profit or loss in the year in which they are incurred.
+Pensions
+Defined contribution pension plan
+The Company operates a defined contribution plan for its employees. A defined contribution plan is a pension plan under
+which the Company pays fixed contributions into a separate entity. Once the contributions have been paid the Company
+has no further payment obligations.
+The contributions are recognised as an expense in profit or loss when they fall due. Amounts not paid are shown in
+
+accruals as a liability in the Balance Sheet. The assets of the plan are held separately from the Company in
+independently administered funds.
+
+Page 4
+
+20/20 BUSINESS INSIGHT LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MARCH 2024
+
+Accounting policies (continued)
+
+2.9 Current and deferred taxation
+
+The tax expense for the year comprises current and deferred tax. Tax is recognised in profit or loss except that a charge
+attributable to an item of income and expense recognised as other comprehensive income or to an item recognised
+directly in equity is also recognised in other comprehensive income or directly in equity respectively.
+
+The current income tax charge is calculated on the basis of tax rates and laws that have been enacted or substantively
+enacted by the balance sheet date in the countries where the Company operates and generates income.
+
+Deferred tax balances are recognised in respect of all timing differences that have originated but not reversed by the
+balance sheet date, except that:
+
+The recognition of deferred tax assets is limited to the extent that it is probable that they will be recovered against
+the reversal of deferred tax liabilities or other future taxable profits; and
+
+Any deferred tax balances are reversed if and when all conditions for retaining associated tax allowances have
+been met.
+
+Deferred tax balances are not recognised in respect of permanent differences except in respect of business
+combinations, when deferred tax is recognised on the differences between the fair values of assets acquired and the
+future tax deductions available for them and the differences between the fair values of liabilities acquired and the amount
+that will be assessed for tax. Deferred tax is determined using tax rates and laws that have been enacted or substantively
+enacted by the balance sheet date.
+
+2.10 Tangible fixed assets
+Tangible fixed assets under the cost model are stated at historical cost less accumulated depreciation and any
+accumulated impairment losses. Historical cost includes expenditure that is directly attributable to bringing the asset to
+
+the location and condition necessary for it to be capable of operating in the manner intended by management.
+
+Depreciation is charged so as to allocate the cost of assets less their residual value over their estimated useful lives,
+using the straight-line method.
+
+Depreciation is provided on the following basis:
+
+Leasehold improvements - 15% &6.67%
+Motor vehicles - 25%
+Plant and equipment - 25%
+
+The assets’ residual values, useful lives and depreciation methods are reviewed, and adjusted prospectively if
+appropriate, or if there is an indication of a significant change since the last reporting date.
+
+Gains and losses on disposals are determined by comparing the proceeds with the carrying amount and are recognised
+in profit or loss.
+
+2.11 Debtors
+Short-term debtors are measured at transaction price, less any impairment. Loans receivable are measured initially at fair
+
+value, net of transaction costs, and are measured subsequently at amortised cost using the effective interest method, less
+any impairment.
+
+Page 5
+
+20/20 BUSINESS INSIGHT LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MARCH 2024
+
+Accounting policies (continued)
+
+2.12 Cash and cash equivalents
+Cash is represented by cash in hand and deposits with financial institutions repayable without penalty on notice of nat
+more than 24 hours. Cash equivalents are highly liquid investments that mature in no more than three months from the
+date of acquisition and that are readily convertible to known amounts of cash with insignificant risk of change in value.
+
+2.13 Creditors
+Short-term creditors are measured at the transaction price. Other financial liabilities, including bank loans, are measured
+initially at fair value, net of transaction costs, and are measured subsequently at amortised cost using the effective
+interest method.
+
+2.14 Holiday pay accrual
+A liability is recognised to the extent of any unused holiday pay entitlement which is accrued at the balance sheet date
+and carried forward to future periods. This is measured at the undiscounted salary cost of the future holiday entitlement
+so accrued at the balance sheet date.
+
+2.15 Provisions for liabilities
+
+Provisions are recognised when an event has taken place that gives rise to a legal or constructive obligation, a transfer of
+economic benefits is probable and a reliable estimate can be made.
+
+Provisions are measured as the best estimate of the amount required to settle the obligation, taking into account the
+
+related risks and uncertainties.
+
+Increases in provisions are generally charged as an expense to profit or loss.
+
+Page 6
+
+20/20 BUSINESS INSIGHT LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MARCH 2024
+
+Accounting policies (continued)
+
+2.16 Financial instruments
+The company only enters into basic financial instrument transactions that result in the recognition of financial assets and
+laibilities like trade and other debtors and creditors, loans from banks and other third parties, loans to related parties and
+investments in ordinary shares.
+
+2.17 Dividends
+Equity dividends are recognised when they become legally payable. Interim equity dividends are recognised when paid.
+Final equity dividends are recognised when approved by the shareholders at an annual general meeting.
+
+Employees
+
+The average monthly number of employees, including directors, during the year was 20 (2023 - 16).
+
+Tangible fixed assets
+
+Leasehold Plant and
+improvements Motor vehicles equipment Total
+£ £ £ £
+
+Cost or valuation
+At 1 April 2023 94,703 38,671 30,508 163,882
+Additions - : 8,918 8,918
+At 31 March 2024 94,703 38,671 39,426 172,800
+Depreciation
+At 1 April 2023 68,769 7,251 18,852 94,872
+Charge for the year on owned assets 6,313 9,668 14,848 30,829
+At 31 March 2024 75,082 16,919 33,700 125,701
+Net book value
+At 31 March 2024 19,621 21,752 5,726 47,099
+At 31 March 2023 25,934 31,420 11,656 69,010
+
+Page 7
+
+20/20 BUSINESS INSIGHT LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MARCH 2024
+
+Debtors
+
+Trade debtors
+Amounts owed by group undertakings
+Other debtors
+
+Prepayments and accrued income
+
+Amounts owed by group undertakings are non-interest bearing and repayable on demand.
+
+Cash and cash equivalents
+
+Cash at bank and in hand
+
+Creditors: Amounts falling due within one year
+
+Bank loans
+
+Trade creditors
+
+Amounts owed to group undertakings
+Corporation tax
+
+Other taxation and social security
+Other creditors
+
+Accruals and deferred income
+
+Creditors: Amounts falling due after more than one year
+
+Bank loans
+
+Page 8
+
+2024 2023
+
+£ £
+430,141 337,984
+1,039,940 1,027,598
+2,100 6,300
+66,687 49,437
+1,538,868 1,421,319
+2024 2023
+
+£ £
+341,024 416,664
+341,024 416,664
+As restated
+
+2024 2023
+
+£ £
+
+10,000 10,000
+192,975 151,949
+- 94,320
+207,711 38,282
+74,209 154,904
+13,415 6,009
+299,599 332,086
+797,909 787,550
+2024 2023
+
+£ £
+
+14,167 24,167
+14,167 24,167
+
+
+10.
+
+20/20 BUSINESS INSIGHT LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MARCH 2024
+Loans
+
+Analysis of the maturity of loans is given below:
+
+Amounts falling due within one year
+
+Bank loans
+
+Amounts falling due 1-2 years
+
+Bank loans
+
+2024 2023
+
+£ £
+10,000 10,000
+10,000 10,000
+14,167 24,167
+14,167 24,167
+34,167
+
+24,167
+
+The Company took a Coronavirus Bounce Back Loan in August 2020 of £50,000. The loan was interest free for the first 12
+
+months and interest is payable at 2.5% thereafter. The loan is repayable over 6 years.
+
+Deferred taxation
+
+At beginning of year
+
+Charged to profit or loss
+
+At end of year
+
+The provision for deferred taxation is made up as follows:
+
+Accelerated capital allowances
+
+Page 9
+
+2024
+£
+
+(4,359)
+
+(4,359)
+
+2024
+
+(9,267)
+4,908
+
+(4,359)
+
+2023
+
+(9,267)
+
+(9,267)
+
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+20/20 BUSINESS INSIGHT LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MARCH 2024
+
+Share capital
+
+2024 2023
+£ £
+
+Allotted, called up and fully paid
+6,652 (2023 - 6,652) Ordinary shares of £0.10 each 665 665
+
+Prior year adjustments
+
+The nature of these adjustments is to recognise staff costs incurred by the Company during earlier periods that were incorrectly
+posted to amounts owed from group undertakings. The restatement has resulted in a decrease in amounts owed from group
+undertakings and retained earnings as at 1 April 2023 of £45,360; and a decrease in amounts owed from group undertakings
+and increase in administrative costs of £48,960 during the year ended 31 March 2023.
+
+Pension commitments
+
+The Company operates a defined contributions pension scheme. The assets of the scheme are held separately from those of
+the Company in an independently administered fund. The pension cost charge represents contributions payable by the
+Company to the fund and amounted to £80,770 (2023: £91,943). Contributions totalling £7,406 (2023: £nil) were payable to the
+fund at the balance sheet date and are included in creditors.
+
+Commitments under operating leases
+
+At 31 March 2024 the Company had future minimum lease payments due under non-cancellable operating leases for each of
+the following periods:
+
+2024 2023
+
+£ £
+
+Not later than 1 year 32,371 36,995
+Later than 1 year and not later than 5 years - 32,371
+32,371 69,366
+
+Related party transactions
+
+The Company has taken advantage of exemption, under the terms of Financial Reporting Standard 102 'The Financial
+
+Reporting Standard applicable in the UK and Republic of Ireland’, not to disclose related party transactions with wholly owned
+subsidiaries within the group.
+
+Controlling party
+The controlling party is 20/20 Business Group Limited.
+
+The ultimate controlling parties are The Trustees Of The 20/20 Employee-Ownership Trust.
+
+Page 10
+
+This document was delivered using electronic communications and authenticated in accordance with the
+registrar's rules relating to electronic form, authentication and manner of delivery under section 1072 of
+the Companies Act 2006.
+

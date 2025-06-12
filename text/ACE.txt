@@ -1,0 +1,434 @@
+ACE Training And Consultancy Limited - Accounts
+2023-08-01
+2024-07-31
+false
+Capium Accounts Production
+1.1
+07682876
+2023-08-01
+2024-07-31
+07682876
+bus:AbridgedAccounts
+2023-08-01
+2024-07-31
+07682876
+bus:FRS102
+2023-08-01
+2024-07-31
+07682876
+bus:AuditExemptWithAccountantsReport
+2023-08-01
+2024-07-31
+07682876
+bus:SmallCompaniesRegimeForAccounts
+2023-08-01
+2024-07-31
+07682876
+bus:PrivateLimitedCompanyLtd
+2023-08-01
+2024-07-31
+07682876
+2023-08-01
+2024-07-31
+07682876
+2024-07-31
+07682876
+bus:RegisteredOffice
+2023-08-01
+2024-07-31
+07682876
+core:WithinOneYear
+2024-07-31
+07682876
+core:AfterOneYear
+2024-07-31
+07682876
+1
+2023-08-01
+2024-07-31
+07682876
+bus:Director1
+2023-08-01
+2024-07-31
+07682876
+bus:Director1
+2024-07-31
+07682876
+bus:Director1
+2022-08-01
+2023-07-31
+07682876
+bus:Director2
+2023-08-01
+2024-07-31
+07682876
+bus:Director2
+2024-07-31
+07682876
+bus:Director2
+2022-08-01
+2023-07-31
+07682876
+bus:Director3
+2023-08-01
+2024-07-31
+07682876
+bus:Director3
+2024-07-31
+07682876
+bus:Director3
+2022-08-01
+2023-07-31
+07682876
+2022-08-01
+07682876
+bus:LeadAgentIfApplicable
+2023-08-01
+2024-07-31
+07682876
+2022-08-01
+2023-07-31
+07682876
+2023-07-31
+07682876
+core:WithinOneYear
+2023-07-31
+07682876
+core:AfterOneYear
+2023-07-31
+07682876
+bus:EntityAccountantsOrAuditors
+2022-08-01
+2023-07-31
+07682876
+core:PlantMachinery
+2023-08-01
+2024-07-31
+07682876
+core:PlantMachinery
+2024-07-31
+07682876
+core:PlantMachinery
+2023-07-31
+07682876
+core:FurnitureFittings
+2023-08-01
+2024-07-31
+07682876
+core:FurnitureFittings
+2024-07-31
+07682876
+core:FurnitureFittings
+2023-07-31
+07682876
+core:ComputerEquipment
+2023-08-01
+2024-07-31
+07682876
+core:ComputerEquipment
+2024-07-31
+07682876
+core:ComputerEquipment
+2023-07-31
+07682876
+core:LandBuildings
+2023-08-01
+2024-07-31
+07682876
+core:LandBuildings
+2024-07-31
+07682876
+core:LandBuildings
+2023-07-31
+07682876
+core:LeasedAssetsHeldAsLessee
+core:PlantMachinery
+2024-07-31
+07682876
+core:LeasedAssetsHeldAsLessee
+core:PlantMachinery
+2023-07-31
+07682876
+core:NetGoodwill
+2023-08-01
+2024-07-31
+07682876
+core:CostValuation
+core:Non-currentFinancialInstruments
+2024-07-31
+07682876
+core:CostValuation
+core:Non-currentFinancialInstruments
+2023-07-31
+07682876
+core:AdditionsToInvestments
+core:Non-currentFinancialInstruments
+2024-07-31
+07682876
+core:DisposalsDecreaseInInvestments
+core:Non-currentFinancialInstruments
+2024-07-31
+07682876
+core:RevaluationsIncreaseDecreaseInInvestments
+core:Non-currentFinancialInstruments
+2024-07-31
+07682876
+core:Non-currentFinancialInstruments
+2024-07-31
+07682876
+core:Non-currentFinancialInstruments
+2023-07-31
+07682876
+core:RetainedEarningsAccumulatedLosses
+2024-07-31
+07682876
+core:RetainedEarningsAccumulatedLosses
+2023-07-31
+07682876
+dpl:Item1
+2023-08-01
+07682876
+dpl:Item1
+2024-07-31
+07682876
+dpl:Item1
+2022-08-01
+07682876
+dpl:Item1
+2023-07-31
+iso4217:GBP
+xbrli:shares
+xbrli:pure
+Registered Number:
+07682876
+England and Wales
+Abridged Accounts
+for the year ended
+31 July 2024
+for
+ACE TRAINING AND CONSULTANCY LIMITED
+ACE Training And Consultancy Limited
+Contents Page
+For the year ended 31 July 2024
+Accountants' report
+1
+Statement of financial position
+2
+Notes to the financial statements
+3
+ACE Training And Consultancy Limited
+Accountants' Report
+For the year ended 31 July 2024
+You consider that the company is exempt from an audit for the year ended 31 July 2024. You have acknowledged, on the balance sheet, your responsibilities for complying with the requirements of the Companies Act 2006 with respect to accounting records and the preparation of accounts. These responsibilities include preparing accounts that give a true and fair view of the state of affairs of the company at the end of the financial year and of its profit or loss for the financial year.
+In accordance with your instructions, we have prepared the accounts which comprise the Profit and Loss Account, the Statement of Comprehensive Income, the Balance Sheet, the Statement of Changes in Equity and the related notes from the accounting records of the company and on the basis of information and explanations you have given to us.
+We have not carried out an audit or any other review, and consequently we do not express any opinion on these accounts.
+....................................................
+RK Partners
+25 March 2025
+1
+Registered Number:
+07682876
+ACE Training And Consultancy Limited
+Statement of Financial Position
+As at
+31 July 2024
+Notes
+2024
+£
+2023
+£
+Fixed assets
+Intangible fixed assets
+-
+2
+Tangible fixed assets
+3
+39,192
+41,186
+39,192
+41,188
+Current assets
+Debtors
+8,150
+66,610
+Cash at bank and in hand
+122,432
+96,147
+130,582
+162,757
+Creditors: amount falling due within one year
+(
+70,044
+)
+(
+107,270
+)
+Net current assets
+60,538
+55,487
+Total assets less current liabilities
+99,730
+96,675
+Provisions for liabilities
+(
+7,415
+)
+(
+7,415
+)
+Net assets
+92,315
+89,260
+Capital and reserves
+Profit and loss account
+92,315
+89,260
+Shareholders' funds
+92,315
+89,260
+For the year ended 31 July 2024 the company was entitled to exemption from audit under section 477 of the Companies Act 2006 relating to small companies.
+Directors' responsibilities:
+The members have not required the company to obtain an audit of its accounts for the year in question in accordance with section 476.
+The directors acknowledge their responsibilities for complying with the requirements of the Companies Act 2006 with respect to accounting records and the preparation of accounts.
+These financial statements have been prepared and delivered in accordance with the provisions applicable to companies subject to the small companies regime. In accordance with Section 444 of the Companies Act 2006, the income statement has not been delivered to the Registrar of Companies.
+The members have agreed to the preparation of abridged accounts for this accounting period in accordance with section 444(2A).
+The financial statements were approved by the board of directors on
+25 March 2025
+and were signed on its behalf by:
+-------------------------------
+Adam Ricci MARSH
+Director
+2
+ACE Training And Consultancy Limited
+Notes to the Abridged Financial Statements
+For the year ended 31 July 2024
+General Information
+ACE Training And Consultancy Limited is a private company, limited by shares, registered in England and Wales, registration number 07682876, registration address 19 Mengham Lane, Hayling Island,, Hampshire, PO11 9JT.
+The presentation currency is £ sterling.
+1.
+Accounting policies
+Significant accounting policies
+Statement of compliance
+These financial statements have been prepared in compliance with FRS 102 – The Financial Reporting Standard applicable in the UK and Republic of Ireland and the Companies Act 2006.
+Basis of preparation
+The financial statements have been prepared
+under the historical cost convention as modified by the revaluation of land and buildings and certain financial instruments measured at fair value in accordance with the accounting policies.
+The financial statements are prepared in sterling which is the functional currency of the company.
+Turnover
+Turnover comprises the invoiced value of goods and services supplied by the company, net of Value Added Tax and trade discounts.
+Finance lease and hire purchase charges
+The finance element of the rental payment is charged to the income statement on a straight line basis.
+Taxation
+Taxation represents the sum of tax currently payable and deferred tax. Tax is recognised in the statement of income, except to the extent that it relates to items recognised in other comprehensive income or directly in capital and reserves.
+The company’s liability for current tax is calculated using the tax rates and laws that have been enacted or substantively enacted at the reporting date.
+Current and deferred tax assets and liabilities are not discounted
+Goodwill
+Acquired goodwill is stated at cost less amortisation. Amortisation is calculated on a straight line basis over the estimated expected useful economic life of the goodwill of
+years.
+Licences and patents
+Licences and patents are stated at cost less amortisation. Amortisation of licences is calculated on a straight line basis over the life of the licence. Amortisation of patents is calculated on a straight line basis over the estimated expected useful economic life of the patents of
+years.
+Development expenditures
+Research and development expenditure is charged to the income statement in the period in which it is incurred. However, where the directors are satisfied as to the technical, commercial and financial viability of individual projects, development expenditure is deferred and amortised over
+years during which the company is expected to benefit.
+Tangible fixed assets
+Tangible fixed assets, other than freehold land, are stated at cost or valuation less depreciation and any provision for impairment. Depreciation is provided at rates calculated to write off the cost or valuation of fixed assets, less their estimated residual value, over their expected useful lives on the following basis:
+Plant and Machinery
+25% Straight Line
+Fixtures and Fittings
+25% Straight Line
+Solar Panels
+10% Straight Line
+Assets on finance lease and hire purchase
+Assets held under finance lease or hire purchase contracts i.e. those contracts where substantially all the risks and rewards of ownership have passed to the company, are included in the appropriate category of tangible fixed assets and depreciated over the shorter of the lease term and their estimated expected useful lives.
+Future obligations under such contracts are included in creditors net of the finance charge allocated to future periods.
+Provisions
+Provisions are recognised when the company has a present obligation as a result of a past event which it is more probable than not will result in an outflow of economic benefits that can be reasonably estimated.
+2.
+Average number of employees
+Average number of employees during the year was
+15
+(2023 :
+13
+).
+3.
+Tangible fixed assets
+Cost or valuation
+Plant and Machinery
+Fixtures and Fittings
+Solar Panels
+Land and Buildings
+Total
+£
+£
+£
+£
+£
+At 01 August 2023
+39,382
+68,328
+63,187
+20,662
+191,559
+Additions
+4,678
+-
+-
+-
+4,678
+Disposals
+-
+-
+-
+-
+-
+At 31 July 2024
+44,060
+68,328
+63,187
+20,662
+196,237
+Depreciation
+At 01 August 2023
+39,382
+65,618
+26,749
+18,623
+150,372
+Charge for year
+936
+1,461
+4,049
+227
+6,673
+On disposals
+-
+-
+-
+-
+-
+At 31 July 2024
+40,318
+67,079
+30,798
+18,850
+157,045
+Net book values
+Closing balance as at 31 July 2024
+3,742
+1,249
+32,389
+1,812
+39,192
+Opening balance as at 01 August 2023
+-
+2,709
+36,438
+2,039
+41,186
+The net book value of Land and Buildings includes £
+1,812
+(2023 £
+2,039
+) in respect of assets leased under finance leases or hire purchase contracts.
+3

@@ -1,0 +1,177 @@
+NATIONWIDE ENERGY TRAINING SERVICES LTD
+2023-07-01
+2024-06-30
+2024-06-30
+false
+08112657
+NATIONWIDE ENERGY TRAINING SERVICES LTD
+2024-07-30
+85590
+iso4217:GBP
+xbrli:pure
+08112657
+2023-07-01
+08112657
+2024-06-30
+08112657
+2023-07-01
+2024-06-30
+08112657
+2022-07-01
+08112657
+2023-06-30
+08112657
+2022-07-01
+2023-06-30
+08112657
+bus:Micro-entities
+2023-07-01
+2024-06-30
+08112657
+bus:AuditExempt-NoAccountantsReport
+2023-07-01
+2024-06-30
+08112657
+bus:FullAccounts
+2023-07-01
+2024-06-30
+08112657
+bus:PrivateLimitedCompanyLtd
+2023-07-01
+2024-06-30
+08112657
+core:WithinOneYear
+2024-06-30
+08112657
+core:AfterOneYear
+2024-06-30
+08112657
+core:WithinOneYear
+2023-06-30
+08112657
+core:AfterOneYear
+2023-06-30
+08112657
+dpl:CostSales
+2023-07-01
+2024-06-30
+08112657
+dpl:AdministrativeExpenses
+2023-07-01
+2024-06-30
+08112657
+dpl:DistributionCosts
+2023-07-01
+2024-06-30
+08112657
+dpl:CostSales
+2022-07-01
+2023-06-30
+08112657
+dpl:AdministrativeExpenses
+2022-07-01
+2023-06-30
+08112657
+dpl:DistributionCosts
+2022-07-01
+2023-06-30
+08112657
+core:WithinOneYear
+2024-06-30
+08112657
+core:AfterOneYear
+2024-06-30
+08112657
+core:WithinOneYear
+2023-06-30
+08112657
+core:AfterOneYear
+2023-06-30
+08112657
+core:WithinOneYear
+2023-07-01
+2024-06-30
+08112657
+core:AfterOneYear
+2023-07-01
+2024-06-30
+08112657
+bus:Director1
+2023-07-01
+2024-06-30
+NATIONWIDE ENERGY TRAINING SERVICES LTD
+Registered Number
+08112657
+(England and Wales)
+Unaudited Financial Statements for the Year ended
+30 June 2024
+NATIONWIDE ENERGY TRAINING SERVICES LTD
+Company Information
+for the year from 1 July 2023 to 30 June 2024
+Director
+CONROY, Paul Lee
+Registered Address
+Office 407 The Base Dallam Lane
+Warrington
+WA2 7NG
+Registered Number
+08112657
+(England and Wales)
+NATIONWIDE ENERGY TRAINING SERVICES LTD
+Balance Sheet
+as at
+30 June 2024
+2024
+£
+2023
+£
+Fixed Assets
+275,173
+311,077
+Current Assets
+236,357
+123,380
+Creditors amounts falling due within one year
+(
+249,504
+)
+(
+218,051
+)
+Net current assets (liabilities)
+(
+13,147
+)
+(
+94,671
+)
+Total assets less current liabilities
+262,026
+216,406
+Creditors amounts falling due after one year
+(
+80,957
+)
+(
+155,664
+)
+Net assets (liabilities)
+181,069
+60,742
+Capital and reserves
+181,069
+60,742
+The company is a private company limited by shares and registered in England and Wales. It was entitled to exemption from audit under section 477 of the Companies Act 2006 relating to small companies.
+The members have not required the company to obtain an audit in accordance with section 476 of the Companies Act 2006.
+The Director acknowledges their responsibilities for complying with the requirements of the Act with respect to accounting records and the preparation of accounts.
+These accounts have been prepared in accordance with the micro-entity provisions and delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+Average number of employees
+The average number of persons employed by the company in the period was
+11
+(previous period:
+12
+).
+The financial statements were approved and authorised for issue by the Director on 30 July 2024, and are signed on its behalf by:
+CONROY, Paul Lee
+Director
+Registered Company No. 08112657

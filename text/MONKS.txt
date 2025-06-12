@@ -1,0 +1,775 @@
+MONKS_TRAINING_SERVICES_L - Accounts
+Company registration number
+07246064
+(England and Wales)
+MONKS TRAINING SERVICES LIMITED
+ANNUAL REPORT AND FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 AUGUST 2024
+PAGES FOR FILING WITH REGISTRAR
+MONKS TRAINING SERVICES LIMITED
+COMPANY INFORMATION
+Directors
+Mr L J Hardy
+(Appointed 4 January 2024)
+Mr M Hierons
+(Appointed 4 January 2024)
+Company number
+07246064
+Registered office
+11 Neptune Court
+Hallam Way
+Whitehills Business Park
+Blackpool
+Lancashire
+FY4 5LZ
+Auditor
+Champion Accountants LLP
+2nd Floor Refuge House
+33-37 Watergate Row
+Chester
+CH1 2LE
+MONKS TRAINING SERVICES LIMITED
+CONTENTS
+Page
+Directors' report
+1
+Directors' responsibilities statement
+2
+Balance sheet
+3
+Notes to the financial statements
+4 - 10
+MONKS TRAINING SERVICES LIMITED
+DIRECTORS' REPORT
+FOR THE YEAR ENDED 31 AUGUST 2024
+- 1 -
+The directors present their annual report and financial statements for the year ended 31 August 2024.
+Principal activities
+The principal activity of the company continued to be that of training services.
+Directors
+The directors who held office during the year and up to the date of signature of the financial statements were as follows:
+Mr L J Hardy
+(Appointed 4 January 2024)
+Mr M Hierons
+(Appointed 4 January 2024)
+Mr C F Monks
+(Resigned 7 May 2025)
+Auditor
+In accordance with the company's articles, a resolution proposing that Champion Accountants LLP be reappointed as auditor of the company will be put at a General Meeting.
+Statement of disclosure to auditor
+So far as each person who was a director at the date of approving this report is aware, there is no relevant audit information of which the company’s
+auditor
+is unaware. Additionally, the directors individually have taken all the necessary steps that they ought to have taken as directors in order to make themselves aware of all relevant audit information and to establish that the company’s
+auditor
+is aware of that information.
+Small companies exemption
+This report has been prepared in accordance with the provisions applicable to companies entitled to the small companies exemption.
+On behalf of the board
+Mr L J Hardy
+Director
+29 May 2025
+MONKS TRAINING SERVICES LIMITED
+DIRECTORS' RESPONSIBILITIES STATEMENT
+FOR THE YEAR ENDED 31 AUGUST 2024
+- 2 -
+The directors are responsible for preparing
+the
+annual report and the financial statements in accordance with applicable
+law and regulations
+.
+Company law requires the directors to prepare financial statements for each financial year. Under that law the directors have elected to prepare the financial statements in accordance with United Kingdom Generally Accepted Accounting Practice (United Kingdom Accounting Standards and applicable law). Under company law, the directors must not approve the financial statements unless they are satisfied that they give a true and fair view of the state of affairs of the company and of the profit or loss of the company for that period.
+In preparing these financial statements, the directors are required to:
+select suitable accounting policies and then apply them consistently;
+make judgements and accounting estimates that are reasonable and prudent;
+and
+prepare the financial statements on the going concern basis unless it is inappropriate to presume that the company will continue in business.
+The directors are responsible for keeping adequate accounting records that are sufficient to show and explain the company’s transactions and disclose with reasonable accuracy at any time the financial position of the company and enable them to ensure that the financial statements comply with the Companies Act 2006. They are also responsible for safeguarding the assets of the company and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+MONKS TRAINING SERVICES LIMITED
+BALANCE SHEET
+AS AT 31 AUGUST 2024
+31 August 2024
+- 3 -
+2024
+2023
+Notes
+£
+£
+£
+£
+Fixed assets
+Intangible assets
+4
+9,350
+-
+0
+Tangible assets
+5
+20,813
+27,852
+30,163
+27,852
+Current assets
+Debtors
+6
+95,167
+89,142
+Cash at bank and in hand
+34,905
+64,317
+130,072
+153,459
+Creditors: amounts falling due within one year
+7
+(
+95,719
+)
+(
+81,844
+)
+Net current assets
+34,353
+71,615
+Total assets less current liabilities
+64,516
+99,467
+Creditors: amounts falling due after more than one year
+8
+-
+0
+(
+8,679
+)
+Provisions for liabilities
+(
+4,317
+)
+-
+0
+Net assets
+60,199
+90,788
+Capital and reserves
+Called up share capital
+6
+6
+Profit and loss reserves
+60,193
+90,782
+Total equity
+60,199
+90,788
+These financial statements have been prepared and delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+The directors of the company have elected not to include a copy of the profit and loss account within the financial statements.
+true
+The financial statements were approved by the board of directors and authorised for issue on
+29 May 2025
+and are signed on its behalf by:
+Mr L J Hardy
+Director
+Company registration number
+07246064
+(England and Wales)
+MONKS TRAINING SERVICES LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 AUGUST 2024
+- 4 -
+1
+Accounting policies
+Company information
+Monks Training Services Limited is a
+private
+company
+limited by shares
+incorporated in
+England and Wales
+.
+The registered office is
+11 Neptune Court, Hallam Way, Whitehills Business Park, Blackpool, Lancashire, FY4 5LZ.
+1.1
+Accounting convention
+These financial statements have been prepared in accordance with FRS 102 “The Financial Reporting Standard applicable in the UK and Republic of Ireland” (“FRS 102”) and the requirements of the Companies Act 2006 as applicable to companies subject to the small companies regime. The disclosure requirements of section 1A of FRS 102 have been applied other than where additional disclosure is required to show a true and fair view.
+The financial statements are prepared in
+sterling
+, which is the functional currency of the company.
+Monetary a
+mounts
+in these financial statements are
+rounded to the nearest £.
+The financial statements have been prepared under the historical cost convention.The principal accounting policies adopted are set out below.
+These
+financial statements
+for the year ended 31 August 2024
+are the
+first
+financial statements
+of
+Monks Training Services Limited
+prepared in accordance with FRS 102, The Financial Reporting Standard applicable in the UK and Republic of Ireland. The date of transition to FRS 102 was
+1 September 2022
+. The reported financial position and financial performance for the previous period are not affected by the transition to FRS 102.
+This company is a qualifying entity for the purposes of FRS 102, being a member of a group where the parent of that group prepares
+publicly available consolidated financial statements
+, including this company,
+which are
+intended to give a true and fair view of the assets, liabilities,
+financial position and profit or loss
+of the group
+.
+T
+he company has
+therefore
+taken advantage of
+e
+xemptions from the following disclosure requirements:
+Section 7 ‘Statement of Cash Flows’: Presentation of a statement of cash flow and related notes and disclosures;
+Section 33 ‘Related Party Disclosures’
+:
+Compensation for key management personnel
+.
+The financial statements of the company are consolidated in the financial statements
+of PRF Group Limited.
+These consolidated financial statements are available from its registered office,
+11 Neptune Court, Hallam Way, Whitehills Business Park, Blackpool, Lancashire, FY4 5LZ.
+1.2
+Turnover
+Turnover is recognised at the fair value of the consideration received or receivable for goods and services provided in the normal course of business
+, and
+is shown net of VAT and other sales related taxes
+.
+The fair value of consideration takes into account trade discounts, settlement discounts and volume rebates.
+1.3
+Intangible fixed assets other than goodwill
+Intangible assets acquired separately from a business are recognised at cost and are subsequently measured at cost less accumulated amortisation and accumulated impairment losses.
+Intangible assets acquired on business combinations are recognised separately from goodwill at the acquisition date
+where
+it is probable that the expected future economic benefits that are attributable to the asset will flow to the entity and the
+fair
+value of the asset can be measured reliably; the intangible asset arises from contractual or other legal rights; and the intangible asset is separable from the entity.
+MONKS TRAINING SERVICES LIMITED
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 AUGUST 2024
+1
+Accounting policies
+(Continued)
+- 5 -
+Amortisation is recognised so as to write off the cost or valuation of assets less their residual values over their useful lives on the following bases:
+Software
+20% straight line
+1.4
+Tangible fixed assets
+Tangible fixed assets
+are initially measured at cost and subsequently measured at cost or valuation, net of depreciation and any impairment losses.
+Depreciation is recognised so as to write off the cost or valuation of assets less their residual values over their useful lives on the following bases:
+Freehold land and buildings
+20% straight line/ 33% straight line
+Fixtures and fittings
+25% straight line/ 33% reducing balance
+Computers
+20% straight line
+Motor vehicles
+25% reducing balance
+The gain or loss arising on the disposal of an asset is determined as the difference between the sale proceeds and the carrying value of the asset, and
+is credited or charged to profit or loss
+.
+1.5
+Impairment of fixed assets
+At each reporting
+period
+end date, the
+company
+reviews the carrying amounts of its tangible
+and intangible assets to determine whether there is any indication that those assets have suffered an impairment loss. If any such indication exists, the recoverable amount of the asset is estimated in order to determine the extent of the impairment loss (if any). Where it is not possible to estimate the recoverable amount of an individual asset, the
+company
+estimates the recoverable amount of the cash-generating unit to which the asset belongs.
+Recoverable amount is the higher of fair value less costs to sell and value in use. In assessing value in use, the estimated future cash flows are discounted to their present value using a pre-tax discount rate that reflects current market assessments of the time value of money and the risks specific to the asset for which the estimates of future cash flows have not been adjusted.
+If the recoverable amount of an asset (or cash-generating unit) is estimated to be less than its carrying amount, the carrying amount of the asset (or cash-generating unit) is reduced to its recoverable amount. An impairment loss is recognised immediately in
+profit
+or
+loss
+, unless the relevant asset is carried at a revalued amount, in which case the impairment loss is treated as a revaluation decrease.
+Recognised impairment losses are reversed if, and only if, the reasons for the impairment loss have ceased to apply. Where an impairment loss subsequently reverses, the carrying amount of the asset (or cash-generating unit) is increased to the revised estimate of its recoverable amount, but so that the increased carrying amount does not exceed the carrying amount that would have been determined had no impairment loss been recognised for the asset (or cash-generating unit)
+in
+prior years. A reversal of an impairment loss is recognised immediately in
+profit
+or
+loss
+, unless the relevant asset is carried at a revalued amount, in which case the reversal of the impairment loss is treated as a revaluation increase.
+1.6
+Cash and cash equivalents
+Cash and cash equivalents
+are basic financial assets
+and
+include cash in hand, deposits held at call with banks, other short-term liquid investments with original maturities of three months or less, and bank overdrafts. Bank overdrafts are shown within borrowings in current liabilities.
+MONKS TRAINING SERVICES LIMITED
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 AUGUST 2024
+1
+Accounting policies
+(Continued)
+- 6 -
+1.7
+Financial instruments
+The company has elected to apply the provisions of Section 11 ‘Basic Financial Instruments’ and Section 12 ‘Other Financial Instruments Issues’ of FRS 102 to all of its financial instruments.
+Financial instruments are recognised in the company's balance sheet when the company becomes party to the contractual provisions of the instrument.
+Financial assets and liabilities are offset
+, with
+the net amounts presented in the financial statements
+,
+when there is a legally enforceable right to set off the recognised amounts and there is an intention to settle on a net basis or to realise the asset and settle the liability simultaneously.
+Basic financial assets
+Basic financial assets, which include
+debtors
+and cash and bank balances, are initially measured at transaction price including transaction costs and are subsequently carried at amortised cost using the effective interest
+method unless the arrangement constitutes a financing transaction, where the transaction is measured at the present value of the future receipts discounted at a market rate of interest.
+Financial assets classified as receivable within one year are not amortised.
+Classification of financial liabilities
+Financial liabilities and equity instruments are classified according to the substance of the contractual arrangements entered into. An equity instrument is any contract that evidences a residual interest in the assets of the company after deducting all of its liabilities.
+Basic financial liabilities
+Basic financial liabilities, including
+creditors
+, bank loans, loans from
+fellow group companies and preference shares that are classified as debt, are
+initially recognised at transaction price unless the arrangement constitutes a
+financing transaction, where the debt instrument is measured at the present value of
+the future
+paymen
+ts discounted at a market rate of interest.
+Financial liabilities classified as payable within one year are not amortised.
+Debt instruments are subsequently carried at amortised cost, using the effective
+interest rate method.
+Trade creditors
+are obligations to pay for goods or services that have been acquired
+in the ordinary course of business from suppliers. A
+m
+ounts payable are classified as
+current liabilities if payment is due within one year or less. If not, they are presented
+as non-current liabilities.
+Trade creditors
+are recognised initially at transaction price
+and subsequently measured at amortised cost using the effective interest method.
+1.8
+Taxation
+The tax expense represents the sum of the tax currently payable and deferred tax.
+Current tax
+The tax currently payable is based on taxable profit for the year. Taxable profit differs from net profit as reported in the
+profit and loss account
+because it excludes items of income or expense that are taxable or deductible in other years and it further excludes items that are never taxable or deductible. The
+company’s
+liability for current tax is calculated using tax rates that have been enacted or substantively enacted by the reporting end date.
+MONKS TRAINING SERVICES LIMITED
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 AUGUST 2024
+1
+Accounting policies
+(Continued)
+- 7 -
+Deferred tax
+Deferred tax liabilities are generally recognised for all timing differences and deferred tax assets are recognised to the extent that it is probable that they will be recovered against the reversal of deferred tax liabilities or other future taxable profits. Such assets and liabilities are not recognised if the timing difference arises from goodwill or from the initial recognition of other assets and liabilities in a transaction that affects neither the tax profit nor the accounting profit.
+The carrying amount of deferred tax assets is reviewed at each reporting end date and reduced to the extent that it is no longer probable that sufficient taxable profits will be available to allow all or part of the asset to be recovered. Deferred tax is calculated at the tax rates that are expected to apply in the period when the liability is settled or the asset is realised. Deferred tax is charged or credited in the
+profit and loss account
+, except when it relates to items charged or credited directly to equity, in which case the deferred tax is also dealt with in equity. Deferred tax assets and liabilities are offset when the
+company
+has a legally enforceable right to offset current tax assets and liabilities and the deferred tax assets and liabilities relate to taxes levied by the same tax authority.
+1.9
+Employee benefits
+The costs of short-term employee benefits are recognised as a liability and an expense, unless those costs are required to be recognised as part of the cost of stock or
+fixed assets
+.
+The cost of any unused holiday entitlement is recognised in the period in which the employee’s services are received.
+Termination benefits are recognised immediately as an expense when the company is demonstrably committed to terminate the employment of an employee or to provide termination benefits.
+1.10
+Retirement benefits
+Payments to defined contribution retirement benefit schemes are charged as an expense as they fall due.
+2
+Judgements and key sources of estimation uncertainty
+In the application of the company’s accounting policies, the directors are required to make judgements, estimates and assumptions about the carrying amount of assets and liabilities that are not readily apparent from other sources. The estimates and associated assumptions are based on historical experience and other factors that are considered to be relevant. Actual results may differ from these estimates.
+The estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to accounting estimates are recognised in the period in which the estimate is revised where the revision affects only that period, or in the period of the revision and future periods where the revision affects both current and future periods.
+There were no significant judgements or key sources of estimation uncertainty made in the preparation of these financial statements.
+3
+Employees
+The average monthly number of persons (including directors) employed by the company during the year was:
+2024
+2023
+Number
+Number
+Total
+9
+7
+MONKS TRAINING SERVICES LIMITED
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 AUGUST 2024
+- 8 -
+4
+Intangible fixed assets
+Other
+£
+Cost
+At 1 September 2023
+-
+0
+Additions
+10,200
+At 31 August 2024
+10,200
+Amortisation and impairment
+At 1 September 2023
+-
+0
+Amortisation charged for the year
+850
+At 31 August 2024
+850
+Carrying amount
+At 31 August 2024
+9,350
+At 31 August 2023
+-
+0
+5
+Tangible fixed assets
+Freehold land and buildings
+Fixtures and fittings
+Computers
+Motor vehicles
+Total
+£
+£
+£
+£
+£
+Cost
+At 1 September 2023
+39,130
+67,295
+5,500
+17,450
+129,375
+Additions
+1,230
+2,723
+-
+0
+-
+0
+3,953
+At 31 August 2024
+40,360
+70,018
+5,500
+17,450
+133,328
+Depreciation and impairment
+At 1 September 2023
+32,884
+56,425
+5,500
+6,714
+101,523
+Depreciation charged in the year
+3,931
+4,385
+-
+0
+2,676
+10,992
+At 31 August 2024
+36,815
+60,810
+5,500
+9,390
+112,515
+Carrying amount
+At 31 August 2024
+3,545
+9,208
+-
+0
+8,060
+20,813
+At 31 August 2023
+6,246
+10,870
+-
+0
+10,736
+27,852
+MONKS TRAINING SERVICES LIMITED
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 AUGUST 2024
+- 9 -
+6
+Debtors
+2024
+2023
+Amounts falling due within one year:
+£
+£
+Trade debtors
+63,012
+84,246
+Corporation tax recoverable
+1,029
+-
+0
+Amounts owed by group undertakings
+21,305
+-
+0
+Other debtors
+9,821
+4,896
+95,167
+89,142
+7
+Creditors: amounts falling due within one year
+2024
+2023
+£
+£
+Trade creditors
+27,176
+21,197
+Amounts owed to group undertakings
+7,075
+-
+0
+Corporation tax
+-
+0
+10,659
+Other taxation and social security
+39,979
+32,926
+Other creditors
+21,489
+17,062
+95,719
+81,844
+8
+Creditors: amounts falling due after more than one year
+2024
+2023
+£
+£
+Other creditors
+-
+0
+8,679
+9
+Audit report information
+As the income statement has been omitted from the filing copy of the financial statements
+,
+the following information in relation to the audit report on the statutory financial statements is provided in accordance with s444(5B) of the Companies Act 2006
+.
+The auditor's report is unqualified and includes the following:
+Opinion
+In our opinion the financial statements:
+give a true and fair view of the state of the company's affairs as at 31 August 2024 and of its loss for the year then ended;
+have been properly prepared in accordance with United Kingdom Generally Accepted Accounting Practice; and
+have been prepared in accordance with the requirements of the Companies Act 2006.
+Other information
+The financial statements for the prior year were not audited. We have obtained sufficient, appropriate audit evidence that the comparative period balances do not contain a misstatement that could materially affect the current period financial statements.
+MONKS TRAINING SERVICES LIMITED
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 AUGUST 2024
+9
+Audit report information
+(Continued)
+- 10 -
+Senior Statutory Auditor:
+Susan Harris MA ACA
+Statutory Auditor:
+Champion Accountants LLP
+Date of audit report:
+29 May 2025
+10
+Parent company
+T
+he parent company
+of Monks Training Services Limited
+is PRF Group Ltd and its
+registered office address
+is
+11 Neptune Court Hallam Way, Whitehills Business Park, Blackpool, Lancashire, England, FY4 5LZ
+.
+2024-08-31
+2023-09-01
+false
+false
+false
+29 May 2025
+CCH Software
+CCH Accounts Production 2025.100
+Mr L J Hardy
+Mr M Hierons
+Mr C F Monks
+07246064
+2023-09-01
+2024-08-31
+07246064
+bus:Director1
+2023-09-01
+2024-08-31
+07246064
+bus:Director2
+2023-09-01
+2024-08-31
+07246064
+bus:Director3
+2023-09-01
+2024-08-31
+07246064
+bus:RegisteredOffice
+2023-09-01
+2024-08-31
+07246064
+2024-08-31
+07246064
+2023-08-31
+07246064
+core:IntangibleAssetsOtherThanGoodwill
+2024-08-31
+07246064
+core:IntangibleAssetsOtherThanGoodwill
+2023-08-31
+07246064
+core:LandBuildings
+core:OwnedOrFreeholdAssets
+2024-08-31
+07246064
+core:FurnitureFittings
+2024-08-31
+07246064
+core:ComputerEquipment
+2024-08-31
+07246064
+core:MotorVehicles
+2024-08-31
+07246064
+core:LandBuildings
+core:OwnedOrFreeholdAssets
+2023-08-31
+07246064
+core:FurnitureFittings
+2023-08-31
+07246064
+core:ComputerEquipment
+2023-08-31
+07246064
+core:MotorVehicles
+2023-08-31
+07246064
+core:CurrentFinancialInstruments
+core:WithinOneYear
+2024-08-31
+07246064
+core:CurrentFinancialInstruments
+core:WithinOneYear
+2023-08-31
+07246064
+core:Non-currentFinancialInstruments
+core:AfterOneYear
+2024-08-31
+07246064
+core:Non-currentFinancialInstruments
+core:AfterOneYear
+2023-08-31
+07246064
+core:CurrentFinancialInstruments
+2024-08-31
+07246064
+core:CurrentFinancialInstruments
+2023-08-31
+07246064
+core:ShareCapital
+2024-08-31
+07246064
+core:ShareCapital
+2023-08-31
+07246064
+core:RetainedEarningsAccumulatedLosses
+2024-08-31
+07246064
+core:RetainedEarningsAccumulatedLosses
+2023-08-31
+07246064
+core:IntangibleAssetsOtherThanGoodwill
+2023-09-01
+2024-08-31
+07246064
+core:ComputerSoftware
+2023-09-01
+2024-08-31
+07246064
+core:LandBuildings
+core:OwnedOrFreeholdAssets
+2023-09-01
+2024-08-31
+07246064
+core:FurnitureFittings
+2023-09-01
+2024-08-31
+07246064
+core:ComputerEquipment
+2023-09-01
+2024-08-31
+07246064
+core:MotorVehicles
+2023-09-01
+2024-08-31
+07246064
+2022-09-01
+2023-08-31
+07246064
+core:IntangibleAssetsOtherThanGoodwill
+2023-08-31
+07246064
+core:LandBuildings
+core:OwnedOrFreeholdAssets
+2023-08-31
+07246064
+core:FurnitureFittings
+2023-08-31
+07246064
+core:ComputerEquipment
+2023-08-31
+07246064
+core:MotorVehicles
+2023-08-31
+07246064
+2023-08-31
+07246064
+core:WithinOneYear
+2024-08-31
+07246064
+core:WithinOneYear
+2023-08-31
+07246064
+core:Non-currentFinancialInstruments
+2024-08-31
+07246064
+core:Non-currentFinancialInstruments
+2023-08-31
+07246064
+bus:PrivateLimitedCompanyLtd
+2023-09-01
+2024-08-31
+07246064
+bus:FRS102
+2023-09-01
+2024-08-31
+07246064
+bus:Audited
+2023-09-01
+2024-08-31
+07246064
+bus:SmallCompaniesRegimeForAccounts
+2023-09-01
+2024-08-31
+07246064
+bus:FullAccounts
+2023-09-01
+2024-08-31
+xbrli:pure
+xbrli:shares
+iso4217:GBP

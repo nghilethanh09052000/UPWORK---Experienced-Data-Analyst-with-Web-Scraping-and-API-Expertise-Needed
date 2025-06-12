@@ -1,0 +1,431 @@
+Company registration number 03778645 (England and Wales)
+
+DAVIDSON TRAINING UK LIMITED
+UNAUDITED FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JANUARY 2024
+
+PAGES FOR FILING WITH REGISTRAR
+
+
+DAVIDSON TRAINING UK LIMITED
+
+CONTENTS
+
+Page
+
+Balance sheet 1-2
+
+Notes to the financial statements 3-6
+
+
+DAVIDSON TRAINING UK LIMITED
+
+BALANCE SHEET
+
+AS AT 31 JANUARY 2024
+2024
+Notes £ £
+
+Fixed assets
+Tangible assets 3 2,438
+Current assets
+Debtors 4 267,284
+Cash at bank and in hand 19,024
+
+286,308
+Creditors: amounts falling due within one
+year 5 (212,826)
+Net current assets 73,482
+Total assets less current liabilities 75,920
+Creditors: amounts falling due after more
+than one year 6 (13,891)
+Provisions for liabilities (997)
+Net assets 61,032
+Capital and reserves
+Called up share capital 8 100
+Profit and loss reserves 60,932
+
+Total equity 61,032
+
+2023
+
+277,354
+510
+
+277,864
+
+(202,085)
+
+5,201
+
+75,779
+
+80,980
+
+(24,026)
+
+(1,301)
+
+55,653
+
+100
+55,553
+
+55,653
+
+The directors of the company have elected not to include a copy of the profit and loss account within the financial statements.
+
+For the financial year ended 31 January 2024 the company was entitled to exemption from audit under section 477 of the
+
+Companies Act 2006 relating to small companies.
+
+The directors acknowledge their responsibilities for complying with the requirements of the Companies Act 2006 with respect
+
+to accounting records and the preparation of financial statements.
+
+The members have not required the company to obtain an audit of its financial statements for the year in question in
+
+accordance with section 476.
+
+These financial statements have been prepared and delivered in accordance with the provisions applicable to companies
+
+subject to the small companies regime.
+
+
+DAVIDSON TRAINING UK LIMITED
+
+BALANCE SHEET (CONTINUED)
+AS AT 31 JANUARY 2024
+
+The financial statements were approved by the board of directors and authorised for issue on 8 October 2024 and are signed
+on its behalf by:
+
+L Bunyard B Davidson
+Director Director
+
+Company Registration No. 03778645
+
+
+DAVIDSON TRAINING UK LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JANUARY 2024
+
+4.1
+
+1.2
+
+1.3
+
+1.4
+
+Accounting policies
+
+Company information
+Davidson Training UK Limited is a private company limited by shares incorporated in England and Wales. The
+registered office is Unit 54, Towers Road, Globe Industrial Estate, Grays, United Kingdom, RM17 6ST.
+
+Accounting convention
+These financial statements have been prepared in accordance with FRS 102 “The Financial Reporting Standard
+applicable in the UK and Republic of Ireland” (“FRS 102”) and the requirements of the Companies Act 2006.
+
+The financial statements are prepared in sterling, which is the functional currency of the company. Monetary amounts
+in these financial statements are rounded to the nearest £.
+
+The financial statements have been prepared under the historical cost convention. The principal accounting policies
+adopted are set out below.
+
+Turnover
+Turnover is recognised at the fair value of the consideration received or receivable for goods and services provided in
+the normal course of business. This excludes discounts and rebates.
+
+Tangible fixed assets
+Depreciation is recognised so as to write off the cost or valuation of assets less their residual values over their useful
+lives on the following bases:
+
+Plant and equipment 25% on Cost
+Fixtures and fittings 25% on Cost
+Computers 33% on Cost
+
+Equity instruments
+Equity instruments issued by the company are recorded at the proceeds received, net of transaction costs. Dividends
+payable on equity instruments are recognised as liabilities once they are no longer at the discretion of the company.
+
+Changes in the fair value of derivatives that are designated and qualify as fair value hedges are recognised in profit or
+loss immediately, together with any changes in the fair value of the hedged asset or liability that are attributable to the
+hedged risk.
+
+
+DAVIDSON TRAINING UK LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 JANUARY 2024
+
+1.5
+
+1.6
+
+1.7
+
+1.8
+
+1.9
+
+Accounting policies (Continued)
+
+Taxation
+The tax expense represents the sum of the tax currently payable and deferred tax.
+
+Current tax
+
+The tax currently payable is based on taxable profit for the year. Taxable profit differs from net profit as reported in the
+profit and loss account because it excludes items of income or expense that are taxable or deductible in other years
+and it further excludes items that are never taxable or deductible. The company's liability for current tax is calculated
+using tax rates that have been enacted or substantively enacted by the reporting end date.
+
+Deferred tax
+
+Deferred tax liabilities are generally recognised for all timing differences and deferred tax assets are recognised to the
+extent that it is probable that they will be recovered against the reversal of deferred tax liabilities or other future taxable
+profits. Such assets and liabilities are not recognised if the timing difference arises from goodwill or from the initial
+recognition of other assets and liabilities in a transaction that affects neither the tax profit nor the accounting profit.
+
+The carrying amount of deferred tax assets is reviewed at each reporting end date and reduced to the extent that it is
+no longer probable that sufficient taxable profits will be available to allow all or part of the asset to be recovered.
+Deferred tax is calculated at the tax rates that are expected to apply in the period when the liability is settled or the
+asset is realised. Deferred tax is charged or credited in the profit and loss account, except when it relates to items
+charged or credited directly to equity, in which case the deferred tax is also dealt with in equity. Deferred tax assets
+and liabilities are offset when the company has a legally enforceable right to offset current tax assets and liabilities and
+the deferred tax assets and liabilities relate to taxes levied by the same tax authority.
+
+Employee benefits
+The costs of short-term employee benefits are recognised as a liability and an expense, unless those costs are
+required to be recognised as part of the cost of stock or fixed assets.
+
+The cost of any unused holiday entitlement is recognised in the period in which the employee's services are received.
+
+Termination benefits are recognised immediately as an expense when the company is demonstrably committed to
+terminate the employment of an employee or to provide termination benefits.
+
+Retirement benefits
+Payments to defined contribution retirement benefit schemes are charged as an expense as they fall due
+
+Leases
+
+Rentals payable under operating leases, including any lease incentives received, are charged to profit or loss on a
+straight line basis over the term of the relevant lease except where another more systematic basis is more
+representative of the time pattern in which economic benefits from the leases asset are consumed.
+
+Government grants
+Government grants are recognised at the fair value of the asset received or receivable when there is reasonable
+assurance that the grant conditions will be met and the grants will be received.
+
+A grant that specifies performance conditions is recognised in income when the performance conditions are met.
+Where a grant does not specify performance conditions it is recognised in income when the proceeds are received or
+receivable. A grant received before the recognition criteria are satisfied is recognised as a liability.
+
+
+DAVIDSON TRAINING UK LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+
+FOR THE YEAR ENDED 31 JANUARY 2024
+
+2 Employees
+
+The average monthly number of persons {including directors) employed by the company during the year was:
+
+Total
+
+3 Tangible fixed assets
+
+Cost
+
+At 1 February 2023
+
+Additions
+
+Disposals
+
+At 31 January 2024
+Depreciation and impairment
+At 1 February 2023
+
+Depreciation charged in the year
+Eliminated in respect of disposals
+
+At 31 January 2024
+
+Carrying amount
+At 31 January 2024
+
+At 31 January 2023
+
+4 Debtors
+Amounts falling due within one year:
+
+Trade debtors
+Other debtors
+
+Plant and
+equipment
+
+£
+
+4,438
+
+4,438
+
+4,381
+57
+
+4,438
+
+57
+
+2024
+Number
+10
+Fixtures and Computers
+fittings
+£ £
+76,859 160,664
+- 1,371
+(1,316) (1,545)
+
+75,543 160,490
+
+75,851 156,528
+176 2,352
+(686) (626)
+
+75,341 158,254
+
+2024
+
+55,724
+211,560
+
+267,284
+
+2023
+Number
+
+Total
+
+m
+
+241,961
+1,371
+(2,861)
+
+240,471
+
+236,760
+2,585
+(1,312)
+
+238,033
+
+56,529
+221,825
+
+277,354
+
+
+DAVIDSON TRAINING UK LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 JANUARY 2024
+
+5 Creditors: amounts falling due within one year
+
+Bank loans and overdrafts
+Trade creditors
+
+Taxation and social security
+Other creditors
+
+6 Creditors: amounts falling due after more than one year
+
+Bank loans and overdrafts
+
+7 Secured Debt
+
+2024
+
+13,788
+14,809
+145,764
+38,465
+
+212,826
+
+2024
+
+13,891
+
+2023
+
+10,286
+21,934
+137,177
+32,688
+
+202,085
+
+2023
+
+24,026
+
+National Westminster Bank Plc owns a fixed and floating charge over the undertaking and all property anc assets
+present and future, including goodwill, book debts, uncalled capital, buildings, fixtures and fixed plant & machinery.
+
+8 Called up share capital
+
+2024
+Ordinary share capital Number
+Issued and fully paid
+Ordinary Shares of £1 each 100
+
+9 Related party transactions
+
+Transactions with related parties
+The following amounts were outstanding at the reporting end date:
+
+Amounts due to related parties
+
+Amounts owed by related parties
+
+The following amounts were outstanding at the reporting end date:
+Amounts due from related parties
+
+Amounts owed by related parties
+
+2024
+
+100
+
+2024
+
+25
+
+2024
+
+149,294
+
+2023
+
+100
+
+2023
+
+2023
+
+160,636
+
+
+This document was delivered using electronic communications and authenticated in accordance with the
+registrar's rules relating to electronic form, authentication and manner of delivery under section 1072 of
+the Companies Act 2006.
+

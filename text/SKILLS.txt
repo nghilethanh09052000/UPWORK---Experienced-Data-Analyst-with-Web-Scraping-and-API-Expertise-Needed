@@ -1,0 +1,480 @@
+Skills for Security Limited - Period Ending 2024-08-31
+Skills for Security Limited
+04382724
+false
+2023-09-01
+2024-08-31
+2024-08-31
+The principal activity of the company is the training of apprentices for the security sector and the development of trading qualifications for the security industry. The company is also a recognised skills and standard setting body.
+Digita Accounts Production Advanced
+6.30.9574.0
+true
+false
+true
+true
+04382724
+2023-09-01
+2024-08-31
+04382724
+2024-08-31
+04382724
+core:CurrentFinancialInstruments
+2024-08-31
+04382724
+core:CurrentFinancialInstruments
+core:WithinOneYear
+2024-08-31
+04382724
+core:FurnitureFittingsToolsEquipment
+2024-08-31
+04382724
+core:MotorVehicles
+2024-08-31
+04382724
+bus:SmallEntities
+2023-09-01
+2024-08-31
+04382724
+bus:Audited
+2023-09-01
+2024-08-31
+04382724
+bus:FilletedAccounts
+2023-09-01
+2024-08-31
+04382724
+bus:SmallCompaniesRegimeForAccounts
+2023-09-01
+2024-08-31
+04382724
+bus:RegisteredOffice
+2023-09-01
+2024-08-31
+04382724
+bus:Director6
+2023-09-01
+2024-08-31
+04382724
+bus:CompanyLimitedByGuarantee
+2023-09-01
+2024-08-31
+04382724
+core:FurnitureFittingsToolsEquipment
+2023-09-01
+2024-08-31
+04382724
+core:MotorVehicles
+2023-09-01
+2024-08-31
+04382724
+core:OfficeEquipment
+2023-09-01
+2024-08-31
+04382724
+core:Subsidiary1
+2023-09-01
+2024-08-31
+04382724
+core:Subsidiary1
+1
+2023-09-01
+2024-08-31
+04382724
+core:Subsidiary1
+countries:England
+2023-09-01
+2024-08-31
+04382724
+countries:EnglandWales
+2023-09-01
+2024-08-31
+04382724
+2023-08-31
+04382724
+core:CostValuation
+2023-08-31
+04382724
+core:FurnitureFittingsToolsEquipment
+2023-08-31
+04382724
+core:MotorVehicles
+2023-08-31
+04382724
+2022-09-01
+2023-08-31
+04382724
+2023-08-31
+04382724
+core:CurrentFinancialInstruments
+2023-08-31
+04382724
+core:CurrentFinancialInstruments
+core:WithinOneYear
+2023-08-31
+04382724
+core:FurnitureFittingsToolsEquipment
+2023-08-31
+04382724
+core:MotorVehicles
+2023-08-31
+04382724
+core:Subsidiary1
+1
+2022-09-01
+2023-08-31
+iso4217:GBP
+xbrli:pure
+Registration number:
+04382724
+Skills for Security Limited
+(A company limited by guarantee)
+Filleted Financial Statements
+for the Year Ended 31 August 2024
+Skills for Security Limited
+Contents
+Balance Sheet
+1
+Notes to the Financial Statements
+2
+to
+7
+Skills for Security Limited
+(Registration number: 04382724)
+Balance Sheet as at 31 August 2024
+Note
+2024
+£
+2023
+£
+Fixed assets
+Tangible assets
+4
+132,712
+117,376
+Investments
+5
+2
+2
+132,714
+117,378
+Current assets
+Stocks
+6
+34,045
+28,062
+Debtors
+7
+665,490
+358,838
+Cash at bank and in hand
+441,481
+121,262
+1,141,016
+508,162
+Creditors
+: Amounts falling due within one year
+8
+(
+332,423
+)
+(
+285,597
+)
+Net current
+assets
+808,593
+222,565
+Total assets less current liabilities
+941,307
+339,943
+Provisions for liabilities
+(
+186,353
+)
+-
+Net
+assets
+754,954
+339,943
+Reserves
+Retained earnings
+754,954
+339,943
+Surplus
+754,954
+339,943
+These financial statements have been prepared in accordance with the special provisions relating to companies subject to the small companies regime within Part 15 of the Companies Act 2006.
+These financial statements have been delivered in accordance with the provisions applicable to companies subject to the small companies regime. As permitted by section 444 (5A) of the Companies Act 2006, the directors have not delivered to the registrar a copy of the Profit and Loss Account.
+Approved and authorised by the
+Board
+on
+20 December 2024
+and signed on its behalf by:
+.........................................
+Mr S J Banks
+Director
+The notes on pages
+2
+to
+7
+form an integral part of these financial statements.
+Page 1
+Skills for Security Limited
+Notes to the Financial Statements for the Year Ended 31 August 2024
+1
+General information
+The company is a private company limited by guarantee, incorporated in England and Wales, and consequently does not have share capital. Each of the members is liable to contribute an amount not exceeding £
+1
+towards the assets of the company in the event of liquidation.
+The address of its registered office is:
+Axis Building 4
+Rhodes Way
+Watford
+WD24 4YW
+England
+2
+Accounting policies
+Summary of significant accounting policies and key accounting estimates
+The principal accounting policies applied in the preparation of these financial statements are set out below. These policies have been consistently applied to all the years presented, unless otherwise stated.
+Statement of compliance
+These financial statements have been prepared in accordance with Financial Reporting Standard 102 Section 1A smaller entities - 'The Financial Reporting Standard applicable in the United Kingdom and Republic of Ireland' and the Companies Act 2006 (as applicable to companies subject to the small companies' regime).
+Basis of preparation
+These financial statements have been prepared using the historical cost convention except that as disclosed in the accounting policies certain items are shown at fair value.
+The financial statements are prepared in pounds sterling, which is the functional currency of the company. Monetary amounts in these financial statements are rounded to the nearest £.
+Group accounts not prepared
+In the opinion of the directors, the company and its subsidiary undertakings comprise a small group. The company has therefore taken advantage of the exemption provided by Section 398 of the Companies Act 2006 not to prepare group accounts
+.
+Going concern
+The financial statements have been prepared on a going concern basis. A period of twelve months from the date of approval of the financial statements was considered. The directors have reasonable expectation that the company will continue in existence for the foreseeable future and therefore they consider that it is appropriate to prepare the financial statements on a going concern basis.
+Page 2
+Skills for Security Limited
+Notes to the Financial Statements for the Year Ended 31 August 2024
+Audit report
+The Independent Auditor's Report was unqualified.
+The name of the Senior Statutory Auditor who signed the audit report on
+20 December 2024
+was
+Benjamin Hayes BSc FCA
+, who signed for and on behalf of
+Wenn Townsend
+.
+Revenue recognition
+Turnover comprises the fair value of the consideration received or receivable for the provision of subscriptions, training materials, and services in the ordinary course of the company’s activities. Turnover is shown net of sales/value added tax, returns, rebates and discounts.
+The company recognises revenue when:
+- the amount of revenue can be reliably measured;
+- it is probable that future economic benefits will flow to the entity; and
+- specific criteria have been met for each of the company's activities.
+Contract revenue recognition
+Where a contract has only been partially completed at the balance sheet date turnover represents the value of the service provided to date on a proportion of the total expected consideration at completion.
+Tax
+The tax expense for the period comprises current and deferred tax. Tax is recognised in profit or loss, except that a change attributable to an item of income or expense recognised as other comprehensive income is also recognised directly in other comprehensive income.
+Current tax represents the amount of tax payable or receivable in respect of the taxable profit (or loss) for the current or past reporting periods.
+It is measured at the amount expected to be paid or recovered using the tax rates and laws that have been enacted or substantively enacted by the balance sheet date.
+Deferred tax represents the future tax consequences of transactions and events recognised in the financial statements of current and previous periods.
+It is recognised in respect of all timing differences, with certain exceptions.
+Timing differences are differences between taxable profits and total comprehensive income as stated in the financial statements that arise from the inclusion of income and expense in tax assessments in periods different from those in which they are recognised in the financial statements.
+Unrelieved tax losses and other deferred tax assets are recognised only to the extent that it is probable that they will be recovered against the reversal of deferred tax liabilities or other future taxable profits.
+Deferred tax is measured using the tax rates and laws that have been enacted or substantively enacted by the balance sheet date that are expected to apply to the reversal of timing differences.
+Deferred tax on revalued non-depreciable tangible fixed assets and investment properties is measured using the rates and allowances that apply to the sale of the asset.
+Page 3
+Skills for Security Limited
+Notes to the Financial Statements for the Year Ended 31 August 2024
+Tangible assets
+Tangible assets are stated in the balance sheet at cost, less any subsequent accumulated depreciation and subsequent accumulated impairment losses.
+The cost of tangible assets includes directly attributable incremental costs incurred in their acquisition and installation.
+Depreciation
+Depreciation is charged so as to write off the cost of assets, other than land and properties under construction over their estimated useful lives, as follows:
+Asset class
+Depreciation method and rate
+Office equipment
+20-33% straight line
+Motor vehicles
+25% straight line
+Investments
+Investments in equity shares which are publicly traded or where the fair value can be measured reliably are initially measured at fair value, with changes in fair value recognised in profit or loss. Investments in equity shares which are not publicly traded and where fair value cannot be measured reliably are measured at cost less impairment.
+Cash and cash equivalents
+Cash and cash equivalents comprise cash on hand and call deposits, and other short-term highly liquid investments that are readily convertible to a known amount of cash and are subject to an insignificant risk of change in value.
+Trade debtors
+Trade debtors are amounts due from customers for subscriptions or training materials sold or services performed in the ordinary course of business.
+Trade debtors are recognised initially at the transaction price. A provision for the impairment of trade debtors is established when there is objective evidence that the company will not be able to collect all amounts due according to the original terms of the receivables.
+Trade creditors
+Trade creditors are obligations to pay for goods or services that have been acquired in the ordinary course of business from suppliers. Accounts payable are classified as current liabilities if the company does not have an unconditional right, at the end of the reporting period, to defer settlement of the creditor for at least twelve months after the reporting date. If there is an unconditional right to defer settlement for at least twelve months after the reporting date, they are presented as non-current liabilities.
+Trade creditors are recognised at the transaction price.
+Provisions
+Provisions are recognised when the company has an obligation at the reporting date as a result of a past event, it is probable that the company will be required to settle that obligation and a reliable estimate can be made of the amount of the obligation.
+Page 4
+Skills for Security Limited
+Notes to the Financial Statements for the Year Ended 31 August 2024
+Defined contribution pension obligation
+A defined contribution plan is a pension plan under which fixed contributions are paid into a pension fund and the company has no legal or constructive obligation to pay further contributions even if the fund does not hold sufficient assets to pay all employees the benefits relating to employee service in the current and prior periods.
+Contributions to defined contribution plans are recognised as employee benefit expense when they are due. If contribution payments exceed the contribution due for service, the excess is recognised as a prepayment.
+3
+Staff numbers
+The average number of persons employed by the company (including directors) during the year, was
+48
+(2023 -
+46
+).
+4
+Tangible assets
+Furniture, fittings and equipment
+£
+Motor vehicles
+£
+Total
+£
+Cost or valuation
+At 1 September 2023
+184,831
+3,229
+188,060
+Additions
+63,867
+1,518
+65,385
+Disposals
+(
+23,351
+)
+-
+(
+23,351
+)
+At 31 August 2024
+225,347
+4,747
+230,094
+Depreciation
+At 1 September 2023
+70,684
+-
+70,684
+Charge for the year
+42,344
+791
+43,135
+Eliminated on disposal
+(
+16,437
+)
+-
+(
+16,437
+)
+At 31 August 2024
+96,591
+791
+97,382
+Carrying amount
+At 31 August 2024
+128,756
+3,956
+132,712
+At 31 August 2023
+114,147
+3,229
+117,376
+Page 5
+Skills for Security Limited
+Notes to the Financial Statements for the Year Ended 31 August 2024
+5
+Investments
+2024
+£
+2023
+£
+Investments in subsidiaries
+2
+2
+Subsidiaries
+£
+Cost or valuation
+At 1 September 2023
+2
+Carrying amount
+At 31 August 2024
+2
+At 31 August 2023
+2
+Details of undertakings
+Details of the investments (including principal place of business of unincorporated entities) in which the company holds 20% or more of the nominal value of any class of share capital are as follows:
+Undertaking
+Registered office
+Holding
+Proportion of voting rights and shares held
+2024
+2023
+Subsidiary undertakings
+Skills for Security Recruitment Limited
+Axis Building 4
+Rhodes Way
+Watford
+WD24 4YW
+England
+Ordinary
+100
+%
+100
+%
+6
+Stocks
+2024
+£
+2023
+£
+Raw materials and consumables
+34,045
+28,062
+Page 6
+Skills for Security Limited
+Notes to the Financial Statements for the Year Ended 31 August 2024
+7
+Debtors
+Current
+Note
+2024
+£
+2023
+£
+Trade debtors
+39,486
+31,911
+Amounts owed by related parties
+154,501
+6,095
+Prepayments
+142,919
+125,836
+Other debtors
+328,584
+194,996
+665,490
+358,838
+Details of non-current trade and other debtors
+£
+Nil
+(2023 -£10,000)
+of debtors is classified as non current. The prior year debtor related to a deferred tax asset. This was fully written down in the current year.
+8
+Creditors
+Creditors: amounts falling due within one year
+2024
+£
+2023
+£
+Due within one year
+Trade creditors
+89,745
+69,138
+Taxation and social security
+139,519
+52,639
+Accruals and deferred income
+86,487
+151,028
+Other creditors
+16,672
+12,792
+332,423
+285,597
+Page 7

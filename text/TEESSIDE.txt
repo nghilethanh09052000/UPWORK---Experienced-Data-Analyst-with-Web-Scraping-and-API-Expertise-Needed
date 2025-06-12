@@ -1,0 +1,411 @@
+Teesside Lgv Training Limited
+Acorah Software Products - Accounts Production
+16.3.350
+false
+true
+31 January 2024
+1 February 2023
+false
+1 February 2024
+31 January 2025
+31 January 2025
+05016760
+Mr Kirk McGrath
+iso4217:GBP
+iso4217:EUR
+iso4217:USD
+xbrli:shares
+xbrli:pure
+xbrli:pure
+05016760
+2024-01-31
+05016760
+2025-01-31
+05016760
+2024-02-01
+2025-01-31
+05016760
+frs-core:CurrentFinancialInstruments
+2025-01-31
+05016760
+frs-core:Non-currentFinancialInstruments
+2025-01-31
+05016760
+frs-core:BetweenOneFiveYears
+2025-01-31
+05016760
+frs-core:FurnitureFittings
+2025-01-31
+05016760
+frs-core:FurnitureFittings
+2024-02-01
+2025-01-31
+05016760
+frs-core:FurnitureFittings
+2024-01-31
+05016760
+frs-core:PlantMachinery
+2025-01-31
+05016760
+frs-core:PlantMachinery
+2024-02-01
+2025-01-31
+05016760
+frs-core:PlantMachinery
+2024-01-31
+05016760
+frs-core:ShareCapital
+2025-01-31
+05016760
+frs-core:RetainedEarningsAccumulatedLosses
+2025-01-31
+05016760
+frs-bus:PrivateLimitedCompanyLtd
+2024-02-01
+2025-01-31
+05016760
+frs-bus:FilletedAccounts
+2024-02-01
+2025-01-31
+05016760
+frs-bus:SmallEntities
+2024-02-01
+2025-01-31
+05016760
+frs-bus:AuditExempt-NoAccountantsReport
+2024-02-01
+2025-01-31
+05016760
+frs-bus:SmallCompaniesRegimeForAccounts
+2024-02-01
+2025-01-31
+05016760
+frs-bus:Director1
+2024-02-01
+2025-01-31
+05016760
+frs-countries:EnglandWales
+2024-02-01
+2025-01-31
+05016760
+2023-01-31
+05016760
+2024-01-31
+05016760
+2023-02-01
+2024-01-31
+05016760
+frs-core:CurrentFinancialInstruments
+2024-01-31
+05016760
+frs-core:Non-currentFinancialInstruments
+2024-01-31
+05016760
+frs-core:BetweenOneFiveYears
+2024-01-31
+05016760
+frs-core:ShareCapital
+2024-01-31
+05016760
+frs-core:RetainedEarningsAccumulatedLosses
+2024-01-31
+Registered number: 05016760
+Teesside Lgv Training Limited
+Unaudited Financial Statements
+For The Year Ended 31 January 2025
+TaxAssist Accountants
+Arnison House
+139A High Street
+Yarm
+Cleveland
+TS15 9AY
+Teesside Lgv Training Limited
+Contents
+Contents
+Page
+Balance Sheet
+1—2
+Notes to the Financial Statements
+3—5
+Page 1
+Teesside Lgv Training Limited
+Balance Sheet
+As At
+31 January 2025
+Balance Sheet
+Registered number:
+05016760
+2025
+2024
+Notes
+£
+£
+£
+£
+FIXED ASSETS
+Tangible Assets
+4
+243,337
+220,088
+243,337
+220,088
+CURRENT ASSETS
+Debtors
+5
+45,654
+81,000
+Cash at bank and in hand
+201,835
+221,431
+247,489
+302,431
+Creditors: Amounts Falling Due Within One Year
+6
+(
+36,650
+)
+(
+53,997
+)
+NET CURRENT ASSETS (LIABILITIES)
+210,839
+248,434
+TOTAL ASSETS LESS CURRENT LIABILITIES
+454,176
+468,522
+Creditors: Amounts Falling Due After More Than One Year
+7
+(
+108,077
+)
+(
+130,242
+)
+PROVISIONS FOR LIABILITIES
+Deferred Taxation
+(
+46,090
+)
+(
+41,817
+)
+NET ASSETS
+300,009
+296,463
+CAPITAL AND RESERVES
+Called up share capital
+9
+2
+2
+Profit and Loss Account
+300,007
+296,461
+SHAREHOLDERS' FUNDS
+300,009
+296,463
+Page 1
+Page 2
+Teesside Lgv Training Limited
+Balance Sheet (continued)
+As At
+31 January 2025
+For the year ending 31 January 2025 the company was entitled to exemption from audit under section 477 of the Companies Act 2006 relating to small companies.
+The member has not required the company to obtain an audit in accordance with section 476 of the Companies Act 2006.
+The director acknowledges his responsibilities for complying with the requirements of the Act with respect to accounting records and the preparation of accounts.
+These accounts have been prepared and delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+The company has taken advantage of section 444(1) of the Companies Act 2006 and opted not to deliver to the registrar a copy of the company's Profit and Loss Account.
+On behalf of the board
+Mr Kirk McGrath
+Director
+29th May 2025
+The notes on
+pages 3 to 5
+form part of these financial statements.
+Page 2
+Page 3
+Teesside Lgv Training Limited
+Notes to the Financial Statements
+For The Year Ended 31 January 2025
+Notes to the Financial Statements
+1.
+General Information
+Teesside Lgv Training Limited
+is a private company, limited by shares, incorporated in England & Wales, registered number
+05016760
+. The registered office is A66 Storage, Old Station Road, South Bank, Middlesbrough, TS6 6AD.
+2.
+Accounting Policies
+2.1.
+Basis of Preparation of Financial Statements
+The financial statements have been prepared under the historical cost convention and in accordance with Financial Reporting Standard 102 section 1A Small Entities "The Financial Reporting Standard applicable in the UK and Republic of Ireland" and the Companies Act 2006.
+2.2.
+Turnover
+Turnover is measured at the fair value of the consideration received or receivable, net of discounts and value added taxes. Turnover includes revenue earned from the sale of goods and from the rendering of services. Turnover is reduced for estimated customer returns, rebates and other similar allowances.
+Sale of goods
+Turnover from the sale of goods is recognised when the significant risks and rewards of ownership of the goods has transferred to the buyer. This is usually at the point that the customer has signed for the delivery of the goods.
+Rendering of services
+Turnover from the rendering of services is recognised by reference to the stage of completion of the contract. The stage of completion of a contract is measured by comparing the costs incurred for work performed to date to the total estimated contract costs. Turnover is only recognised to the extent of recoverable expenses when the outcome of a contract cannot be estimated reliably.
+2.3.
+Tangible Fixed Assets and Depreciation
+Tangible fixed assets are measured at cost less accumulated depreciation and any accumulated impairment losses. Depreciation is provided at rates calculated to write off the cost of the fixed assets, less their estimated residual value, over their expected useful lives on the following bases:
+Plant & Machinery
+20% RB
+Fixtures & Fittings
+15% RB
+2.4.
+Leasing and Hire Purchase Contracts
+Assets obtained under finance leases are capitalised as tangible fixed assets. Assets acquired under finance leases are depreciated over the shorter of the lease term and their useful lives. Assets acquired under hire purchase contracts are depreciated over their useful lives.
+Finance leases are those where substantially all of the benefits and risks of ownership are assumed by the company.
+Obligations under such agreements are included in the creditors net of the finance charge allocated to future periods. The finance element of the rental payment is charged to the profit and loss account so as to produce a constant periodic rate of charge on the net obligation outstanding in each period.
+Rentals applicable to operating leases where substantially all of the benefits and risks of ownership remain with the lessor are charged to profit and loss account as incurred.
+2.5.
+Taxation
+Income tax expense represents the sum of the tax currently payable and deferred tax.
+The tax currently payable is based on taxable profit for the year. Taxable profit differs from profit as reported in the statement of comprehensive income because of items of income or expense that are taxable or deductible in other year and items that are never taxable or deductible. The company's liability for current tax is calculated using tax rates that have been enacted or substantively enacted by the end of the reporting period.
+Deferred tax is recognised on timing differences between the carrying amounts of assets and liabilities in the financial statements and the corresponding tax bases used in the computation of taxable profit. Deferred tax liabilities are generally recognised for all taxable timing differences. Deferred tax assets are generally recognised for all deductible temporary differences to the extent that it is probable that taxable profits will be available against which those deductible timing differences can be utilised. The carrying amount of deferred tax assets is reviewed at the end of each reporting period and reduced to the extent that it is no longer probable that sufficient taxable profits will be available to allow all or part of the asset to be recovered.
+...CONTINUED
+Page 3
+Page 4
+Teesside Lgv Training Limited
+Notes to the Financial Statements (continued)
+For The Year Ended 31 January 2025
+2.5.
+Taxation - continued
+Deferred tax assets and liabilities are measured at the tax rates that are expected to apply in the period in which the liability is settled or the asset realised, based on tax rates (and tax laws) that have been enacted or substantively enacted by the end of the reporting period. Deferred tax liabilities are presented within provisions for liabilities and deferred tax assets within debtors. The measurement of deferred tax liabilities and asset reflects the tax consequences that would follow from the manner in which the Company expects, at the end of the reporting period, to recover or settle the carrying amount of its assets and liabilities.
+Current or deferred tax for the year is recognised in profit or loss, except when they related to items that are recognised in other comprehensive income or directly in equity, in which case, the current and deferred tax is also recognised in other comprehensive income or directly in equity respectively.
+3.
+Average Number of Employees
+Average number of employees, including directors, during the year was:
+2025
+2024
+Office and administration
+11
+11
+11
+11
+4.
+Tangible Assets
+Plant & Machinery
+Fixtures & Fittings
+Total
+£
+£
+£
+Cost
+As at 1 February 2024
+468,379
+44,051
+512,430
+Additions
+64,209
+39,474
+103,683
+As at 31 January 2025
+532,588
+83,525
+616,113
+Depreciation
+As at 1 February 2024
+262,884
+29,458
+292,342
+Provided during the period
+72,324
+8,110
+80,434
+As at 31 January 2025
+335,208
+37,568
+372,776
+Net Book Value
+As at 31 January 2025
+197,380
+45,957
+243,337
+As at 1 February 2024
+205,495
+14,593
+220,088
+5.
+Debtors
+2025
+2024
+£
+£
+Due within one year
+Trade debtors
+44,779
+80,125
+Prepayments and accrued income
+875
+875
+45,654
+81,000
+Page 4
+Page 5
+Teesside Lgv Training Limited
+Notes to the Financial Statements (continued)
+For The Year Ended 31 January 2025
+6.
+Creditors: Amounts Falling Due Within One Year
+2025
+2024
+£
+£
+Trade creditors
+1,443
+6,512
+Corporation tax
+5,998
+7,548
+Other taxes and social security
+5,611
+4,689
+VAT
+16,000
+20,444
+Credit card
+5,521
+12,811
+Accruals and deferred income
+2,000
+1,900
+Director's loan account
+77
+93
+36,650
+53,997
+7.
+Creditors: Amounts Falling Due After More Than One Year
+2025
+2024
+£
+£
+Net obligations under finance lease and hire purchase contracts
+92,035
+100,450
+Bank loans
+16,042
+29,792
+108,077
+130,242
+8.
+Obligations Under Finance Leases and Hire Purchase
+2025
+2024
+£
+£
+The future minimum finance lease payments are as follows:
+Later than one year and not later than five years
+92,035
+100,450
+9.
+Share Capital
+2025
+2024
+£
+£
+Allotted, Called up and fully paid
+2
+2
+Page 5

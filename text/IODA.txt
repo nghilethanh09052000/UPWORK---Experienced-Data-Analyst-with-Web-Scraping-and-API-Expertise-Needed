@@ -1,0 +1,342 @@
+REGISTERED NUMBER: 03352708 (England and Wales)
+
+Unaudited Financial Statements
+for the Period
+1 February 2024 to 31 July 2024
+for
+
+loda Limited
+
+loda Limited (Registered number: 03352708)
+
+Contents of the Financial Statements
+for the Period 1 February 2024 to 31 July 2024
+
+Page
+Balance Sheet 1
+
+Notes to the Financial Statements 3
+
+loda Limited (Registered number: 03352708)
+Balance Sheet
+31 July 2024
+2024 2024
+Notes £ £ £
+
+FIXED ASSETS
+Tangible assets 4 9,230 10,108
+CURRENT ASSETS
+Debtors 5 698,779 558,666
+Cash at bank and in hand 28,562 953
+
+727,341 559,619
+CREDITORS
+Amounts falling due within one year 6 470,569 360,144
+NET CURRENT ASSETS 256,772 199,475
+TOTAL ASSETS LESS CURRENT
+LIABILITIES 266,002 209,583
+CREDITORS
+Amounts falling due after more than one
+year 7 (25,591) (27,960)
+PROVISIONS FOR LIABILITIES (1,800) (1,780)
+NET ASSETS 238,611 179,843
+CAPITAL AND RESERVES
+Called up share capital 10 500 500
+Capital redemption reserve 500 500
+Retained earnings 237,611 178,843
+SHAREHOLDERS' FUNDS 238,611 179,843
+
+The company is entitled to exemption from audit under Section 477 of the Companies Act 2006 for the period ended 31
+July 2024.
+
+The members have not required the company to obtain an audit of its financial statements for the period ended 31 July
+2024 in accordance with Section 476 of the Companies Act 2006.
+
+The directors acknowledge their responsibilities for:
+
+(a) ensuring that the company keeps accounting records which comply with Sections 386 and 387 of the Companies
+Act 2006 and
+
+(b) preparing financial statements which give a true and fair view of the state of affairs of the company as at the end of
+each financial year and of its profit or loss for each financial year in accordance with the requirements of Sections
+394 and 395 and which otherwise comply with the requirements of the Companies Act 2006 relating to financial
+statements, so far as applicable to the company.
+
+The notes form part of these financial statements
+
+Page 1 continued...
+
+loda Limited (Registered number: 03352708)
+
+Balance Sheet - continued
+31 July 2024
+
+The financial statements have been prepared and delivered in accordance with the provisions applicable to companies
+subject to the small companies regime.
+In accordance with Section 444 of the Companies Act 2006, the Profit and Loss Account has not been delivered.
+
+The financial statements were approved by the Board of Directors and authorised for issue on 29 April 2025 and were
+signed on its behalf by:
+
+J P Fitchew - Director
+
+J Bygrave - Director
+
+The notes form part of these financial statements
+
+Page 2
+
+loda Limited (Registered number: 03352708)
+
+Notes to the Financial Statements
+for the Period 1 February 2024 to 31 July 2024
+
+1.
+
+STATUTORY INFORMATION
+
+loda Limited is a private company, limited by shares , registered in England and Wales. The company’s registered
+number and registered office address are as below:
+
+Registered number: 03352708
+
+Registered office: 25 Water Lane
+First Floor
+Wilmslow
+Cheshire
+SK9 5AR
+
+ACCOUNTING POLICIES
+
+Basis of preparing the financial statements
+
+These financial statements have been prepared in accordance with Financial Reporting Standard 102 "The
+Financial Reporting Standard applicable in UK and Republic of Ireland" and the Companies Act 2006 as
+applicable to companies subject to the small companies regime. The disclosure requirements of section 1A of
+FRS102 have been applied other than where additional disclosure is required to give a true and fair view.
+
+The financial statements have been prepared under the historical cost convention.
+
+Turnover
+
+Turnover from the supply of services represents the value of services provided under contracts to the extent that
+there is a right to consideration and is recorded at the fair value of the consideration received or receivable.
+Where a contract has only been partially completed at the balance sheet date turnover represents the fair value of
+the service provided to date based on the stage of completion and the contract activity at the balance sheet date.
+Where payments are received from customers in advance of services provided, the amounts are recorded as
+deferred income and included as part of creditors due within one year.
+
+Tangible fixed assets
+Tangible fixed assets are stated at purchase cost together with any incidental expenses of acquisition, net of
+depreciation and any provision for impairment.
+
+Depreciation is provided on all tangible assets, at rates calculated to write off the cost less estimated residual
+value of each asset over its expected useful life as follows:
+
+Fixtures and fittings - 15% on reducing balance and 15% on cost
+Motor vehicles - 25% on reducing balance
+Office equipment - 33% on cost, 33% on reducing balance, 25% on reducing balance,
+
+25% on cost and 50% on cost
+Residual value represents the estimated amount which would currently be obtained from disposal of an asset
+after deducting estimated costs of disposal, if the asset were already at an age and in the condition expected at
+the end of its estimated useful life.
+
+The gain or loss arising on disposal of an asset is determined on the difference between the sale proceeds and
+the carrying value of the asset, and is recognised in the profit and loss account.
+
+Page 3 continued...
+
+loda Limited (Registered number: 03352708)
+
+Notes to the Financial Statements - continued
+for the Period 1 February 2024 to 31 July 2024
+
+2.
+
+ACCOUNTING POLICIES - continued
+
+Taxation
+
+Current tax, including UK corporation tax is provided at amounts expected to be paid (or recovered) using the tax
+rates and laws that have been enacted or substantively enacted by the balance sheet date.
+
+Deferred tax is recognised in respect of all timing differences that have originated but not reversed at the balance
+sheet date where transactions or events that result in an obligation to pay more tax in the future or a right to pay
+less tax in the future have occurred at the balance sheet date. Timing differences are differences between the
+company's taxable profits and its results as stated in the financial statements that arise from the inclusion of gains
+and losses in tax assessments in periods different from those in which they are recognised in the financial
+statements.
+
+Leasing Commitments
+
+Rentals under operating leases are charged on a straight-line basis over the lease term, even if the payments are
+not made on such basis. Benefits received and receivable as an incentive to sign an operating lease are similarly
+spread on a straight-line basis over the lease term.
+
+Pension costs
+The company operates a defined contribution pension scheme. Contributions payable to the company's pension
+scheme are charged to profit or loss in the period to which they relate.
+
+Employee benefits
+The costs of short-term employee benefits are recognised as a liability and an expense.
+
+Where material, the cost of any unused holiday entitlement is recognised in the period in which the employee's
+services are received.
+
+Financial instruments
+Financial assets and financial liabilities are recognised when the company becomes a party to the contractual
+provisions of the instrument.
+
+Financial liabilities and equity instruments are classified according to the substance of the contractual
+arrangements entered into. An equity instrument is any contract that evidences a residual interest in the assets of
+the company after deducting all of its liabilities.
+
+All financial assets and liabilities are initially measured at transaction price (including transaction costs), unless
+the arrangement constitutes a financing transaction. If an arrangement constitutes a financing transaction, the
+financial asset or financial liability is measured at the present value of the future payments discounted at a market
+rate of interest for a similar debt instrument.
+
+The following assets and liabilities are classified as basic financial instruments - trade debtors, other debtors, cash
+and bank balances, trade creditors, other creditors and bank loans.
+
+Trade debtors, other debtors, cash and bank balances, trade creditors and other creditors are measured at the
+amortised cost equivalent to the undiscounted amount of cash or other consideration expected to be paid or
+received.
+
+Bank loans are initially measured at the present value of future payments, discounted at a market rate of interest
+and subsequently measured at amortised cost using the effective interest method.
+
+Page 4 continued...
+
+loda Limited (Registered number: 03352708)
+
+Notes to the Financial Statements - continued
+for the Period 1 February 2024 to 31 July 2024
+
+2.
+
+ACCOUNTING POLICIES - continued
+
+Impairment of assets
+Assets are assessed for indicators of impairment at each balance sheet date. If there is objective evidence of
+impairment, an impairment loss is recognised in profit and loss as described below.
+
+Non financial assets
+
+An asset is impaired when there is objective evidence that, as a result of one or more events that occurred after
+initial recognition, the estimated recoverable value of the asset has been reduced. The recoverable amount of an
+asset is the higher of its fair value less costs to sell and its value in use.
+
+Financial assets
+
+For financial assets carried at cost less impairment, the impairment loss is the difference between the asset's
+carrying amount and the best estimate of the amount that would be received for the asset if it were sold at the
+reporting date.
+
+Where indicators exist for a decrease in impairment loss, and the decrease can be related objectively to an event
+occurring after the impairment was recognised, the prior impairment loss is tested to determine reversal. An
+impairment loss is reversed on an individual impaired financial asset to the extent that the revised recoverable
+
+value does not lead to a revised carrying amount higher than the carrying value had impairment not been
+recognised.
+
+EMPLOYEES AND DIRECTORS
+The average number of employees during the period was 16 (2024-16).
+
+TANGIBLE FIXED ASSETS
+
+Plant and
+machinery
+£
+COST
+At 1 February 2024 63,510
+Additions 1,445
+At 31 July 2024 64,955
+DEPRECIATION
+At 1 February 2024 53,402
+Charge for period 2,323
+At 31 July 2024 55,725
+NET BOOK VALUE
+At 31 July 2024 9,230
+At 31 January 2024 10,108
+
+Page 5 continued...
+
+loda Limited (Registered number: 03352708)
+
+Notes to the Financial Statements - continued
+for the Period 1 February 2024 to 31 July 2024
+
+5.
+
+DEBTORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+
+2024 2024
+£ £
+Trade debtors 175,677 143,254
+Other debtors 523,102 415,412
+698,779 558,666
+CREDITORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+2024 2024
+£ £
+Bank loans and overdrafts 4,454 7,392
+Trade creditors 50,457 88,326
+Taxation and social security 177,391 171,654
+Other creditors 238,267 92,772
+470,569 360,144
+CREDITORS: AMOUNTS FALLING DUE AFTER MORE THAN ONE
+YEAR
+2024 2024
+£ £
+Bank loans 25,591 27,960
+Amounts falling due in more than five years:
+Repayable by instalments
+Bank loans more 5 yr by instal 6,589 10,883
+LEASING AGREEMENTS
+Minimum lease payments under non-cancellable operating leases fall due as follows:
+2024 2024
+£ £
+Within one year 18,467 31,722
+Between one and five years : 2,638
+18,467 34,360
+SECURED DEBTS
+The following secured debts are included within creditors:
+2024 2024
+£ £
+Bank loans 30,045 32,229
+The bank loan is secured by way of a fixed and floating charge over the assets of the company.
+Page 6 continued...
+
+loda Limited (Registered number: 03352708)
+
+Notes to the Financial Statements - continued
+for the Period 1 February 2024 to 31 July 2024
+
+10. | CALLED UP SHARE CAPITAL
+
+2024 2024
+£ £
+Allotted, issued and fully paid 500 500
+
+11. DIRECTORS’ ADVANCES, CREDITS AND GUARANTEES
+
+The following advances and credits to directors subsisted during the period ended 31 July 2024 and the year
+ended 31 January 2024:
+
+2024 2024
+£ £
+Ms SC Dale and A S Stokoe
+Balance outstanding at start of period 271,656 129,870
+Amounts advanced 113,461 141,786
+Amounts repaid - -
+Amounts written off - -
+Amounts waived - -
+Balance outstanding at end of period 385,117 271,656
+
+Page 7
+
+This document was delivered using electronic communications and authenticated in
+accordance with the registrar's rules relating to electronic form, authentication and
+manner of delivery under section 1072 of the Companies Act 2006.
+

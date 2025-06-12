@@ -1,0 +1,428 @@
+Registered number: 01335229
+
+IOEX LTD
+
+FINANCIAL STATEMENTS
+INFORMATION FOR FILING WITH THE REGISTRAR
+
+FOR THE YEAR ENDED 31 DECEMBER 2024
+
+wi Mt |
+
+svos2025 #112
+COMPANIES HOUSE
+
+SATURDAY
+
+1OEX LTD
+REGISTERED NUMBER: 01335229
+
+BALANCE SHEET
+AS AT 31 DECEMBER 2024
+
+2024 2023
+Note £ £
+Current assets
+Debtors: amounts falling due within one year 5 236,740 107,547
+Current asset investments 6 460,252 434,726
+Bank and cash balances 729,082 2,484,064
+1,426,074 3,026,337
+Creditors: amounts falling due within one :
+year 7 (991,863) — (2,698,733)
+Net current assets 434,211 327,604
+Total assets less current liabitities 434,211 327,604
+Net assets 434,211 327,604
+Capital and reserves
+Called up share capital 100 100
+Profit and loss account 434,111 327,504
+434,211 327,604
+
+The financial statements have been prepared in accordance with the provisions applicable to companies subject
+to the small companies regime and in accordance with the provisions of FRS 102 Section 1A - small entities.
+
+The financial statements have been delivered in accordance with the provisions applicable to companies subject
+to the small companies regime.
+
+The Company has opted not to file the statement of comprehensive income in accordance with provisions
+applicable to companies subject to the small companies’ regime.
+
+The financial statements were approved and authorised for issue by the board and were signed on its behalf by:
+
+T Scuoler
+Director
+
+Date: 29 May 2025
+
+The notes on pages 2 to 7 form part of these financial statements.
+
+Page 1
+
+lOEX LTD
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+
+1. General information
+
+|OEX Ltd is a Company limited by shares, incorporated in England and Wales. The Company Registered
+Number is 01335229. The Company's registered office and principal place of business is Export House,
+Minerva Business Park, Lynch Wood, Peterborough, Cambridgeshire, PE2 6FT.
+
+The principal activity of the Company continued to be the undertaking of trading activities on behalf of its
+charitable company parent the Chartered Institute of Export and International Trade.
+
+N
+
+Accounting policies
+2.1 Basis of preparation of financial statements
+
+The financial statements have been prepared under the historical cost convention unless otherwise
+specified within these accounting policies and in accordance with Section 1A of Financial Reporting
+Standard 102, the Financial Reporting Standard applicable in the UK and the Republic of Ireland and
+the Companies Act 2006. : , .
+
+The following principal accounting policies have been applied:
+2.2. Going concern
+The Director has assessed the going concern status of the Company.
+
+The Director consider that the Company has sufficient liquid resources and shareholder support to
+enable the Company to cover its costs and pay its liabilities as they fall due for a period of at least 12
+months from the date of approval of the financial statements.
+
+Consequently, the Director has concluded that there are no material uncertainties that may cast
+significant doubt about the Company's ability to continue as a going concern for the next 12 months
+from the date of approval of these financial statements. Accordingly, the going concern basis has
+been adopted in preparing the financial statements.
+
+2.3 Turnover
+
+Turnover is recognised to the extent that it is probable that the economic benefits will flow to the
+Company and the revenue can be reliably measured. Turnover is measured as the fair value of the
+consideration received or receivable, excluding discounts, rebates, value added tax and other sales
+taxes. The following criteria must also be met before revenue is recognised:
+
+Rendering of services
+Turnover from a contract to provide services is recognised in the period in which the services are
+
+provided in accordance with the stage of completion of the contract when all of the following
+conditions are satisfied:
+
+. the amount of revenue can be measured reliably;
+
+. itis probable that the Company will receive the consideration due under the contract;
+
+. the stage of completion of the contract at the end of the reporting period can be measured
+reliably; and
+
+. the costs incurred and the costs to complete the contract can be measured reliably.
+
+Income from training courses is deferred when received and released to the profit and loss when the
+course is delivered.
+
+Page 2
+
+IOEX LTD
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+
+2. Accounting policies (continued)
+
+2.4 Foreign currency translation
+Functional and presentation currency
+The Company's functional and presentational currency is GBP.
+Transactions and balances
+
+Foreign currency transactions are translated into the functional currency using the Spot exchange
+rates at the dates of the transactions.
+
+At each period end foreign currency monetary items are translated using the closing rate. Non-
+monetary items measured at historical cost are translated using the exchange rate at the date of the
+transaction and non-monetary items measured at fair value are measured using the exchange rate
+when fair value was determined.
+
+Foreign exchange gains and losses resulting from the settlement of transactions and from the
+translation at period-end exchange rates of monetary assets and liabilities denominated in foreign
+currencies are recognised in profit or loss except when deferred in other comprehensive income as
+qualifying cash flow hedges.
+
+2.5 Interest Income
+Interest income is recognised in profit or loss using the effective interest method.
+2.6 Distribution of profits
+
+The Company has a policy of paying gift aid of an amount up to the taxable profits each year to the
+Chartered Institute of Export and International Trade, its ultimate parent undertaking. The Company
+will treat this donation as a distribution of reserves in the financial year in which it is made. Any
+donation made in this manner is capped to the level of distributable reserves available. Taxable
+profits amounting to £106,607 will be distributed as gift aid to the parent charity within a nine month
+period after the end of the accounting date.
+
+2.7 Taxation
+
+Tax is recognised in profit or loss except that a charge attributable to an item of income and expense
+recognised as other comprehensive income or to an item recognised directly in equity is also
+recognised in other comprehensive income or directly in equity respectively.
+
+The current income tax charge is calculated on the basis of tax rates and laws that have been
+enacted or substantively enacted by the balance sheet date in the countries where the Company
+operates and generates income.
+
+2.8 Debtors
+Short-term debtors are measured at transaction price, less any impairment. Loans receivable are
+
+measured initially at fair value, net of transaction costs, and are measured subsequently at amortised
+cost using the effective interest method, less any impairment.
+
+Page 3
+
+1OEX LTD
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+
+N
+
+2.9
+
+Accounting policies (continued)
+
+Cash and cash equivalents
+
+Cash is represented by cash in hand and deposits with financial institutions repayable without penalty
+on notice of not more than 24 hours. Cash equivalents are highly liquid investments that mature in no
+more than three months from the date of acquisition and that are readily convertible to known
+amounts of cash with insignificant risk of change in value.
+
+2.10 Current asset investments
+
+2.11
+
+Current asset investments are measured at cost less accumulated impairment.
+Creditors
+Short-term creditors are measured at the transaction price. Other financial liabilities, including bank -
+
+loans, are measured initially at fair value, net of transaction costs, and are measured subsequently at
+amortised cost using the effective interest method.
+
+2.12 Financial instruments
+
+The Company has elected to apply the provisions of Section 11 “Basic Financial Instruments” of FRS
+102 to all of its financial instruments.
+
+Financial instruments are recognised in the Company's Balance Sheet when the Company becomes
+party to the contractual provisions of the instrument.
+
+Financial assets and liabilities are offset, with the net amounts presented in the financial statements,
+when there is a legally enforceable right to set off the recognised amounts and there is an intention to
+settle on a net basis or to realise the asset and settle the liability simultaneously.
+
+Basic financial assets
+
+Basic financial assets, which include trade and other receivables, cash and bank balances, are
+initially measured at their transaction price including transaction costs and are subsequently carried
+at their amortised cost using the effective interest method, less any provision for impairment, unless
+the arrangement constitutes a financing transaction, where the transaction is measured at the
+present value of the future receipts discounted at a market rate of interest.
+
+Discounting is omitted where the effect of discounting is immaterial. The Company's cash and cash
+equivalents, trade and most other receivables due with the operating cycle fall into this category of
+financial instruments.
+
+Impairment of financial assets
+
+Financial assets are assessed for indicators of impairment at each reporting date.
+
+Financial assets are impaired when events, subsequent to their initial recognition, indicate the
+estimated future cash flows derived from the financial asset(s) have been adversely impacted. The
+
+impairment loss will be the difference between the current carrying amount and the present value of
+the future cash flows at the asset(s) original effective interest rate.
+
+Page 4
+
+lOEX LTD
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+
+2. Accounting policies (continued)
+
+2.12 Financial instruments (continued)
+
+bd
+
+If there is a favourable change in relation to the events surrounding the impairment loss then the
+impairment can be reviewed for possible reversal. The reversal will not cause the current carrying
+amount to exceed the original carrying amount had the impairment not been recognised. The
+impairment reversal is recognised in the profit or loss.
+
+Financial liabilities
+
+Financial liabilities and equity instruments are classified according to the substance of the contractual
+arrangements entered into. An equity instruments any contract that evidences a residual interest in
+the assets of the Company after the deduction of all its liabilities.
+
+Basic financial liabilities, which include trade and -other payables, bank loans and other loans are
+initially measured at their transaction price after transaction costs. When this constitutes a financing
+transaction, whereby the debt instrument is measured at the present value of the future receipts
+discounted at a market rate of interest. Discounting is omitted where the effect of discounting is
+immaterial.
+
+Debt instruments are subsequently carried at their amortised cost using the effective interest rate
+method.
+
+Trade payables are obligations to pay for goods and services that have been acquired in the ordinary
+course of business from suppliers. Trade payables are classified as current liabilities if the payment is
+due within one year. If not, they represent non-current liabilities. Trade payables are initially
+recognised at their transaction price and subsequently are measured at amortised cost using the
+effective interest method. Discounting is omitted where the effect of discounting is immaterial.
+
+Derecognition of financial assets
+
+Financial assets are derecognised when their contractual right to future cash flow expire, or are
+settled, or when the Company transfers the asset and substantially all the risks and rewards of
+ownership to another party. If significant risks and rewards of ownership are retained after the
+transfer to another party, then the Company will continue to recognise the value of the portion of the
+risks and rewards retained.
+
+Derecognition of financial liabilities
+
+Financial liabilities are derecognised when the Company's contractual obligations expire or are
+discharged or cancelled.
+
+Turnover
+
+During the prior year, the company delivered an ‘Accelerator Programme — Introduction to Export’. The
+event was attended by 69 member participants and was provided for free of charge via a voucher
+redemption scheme. Had a normal commercial fee been charged for this programme, this would have
+resulted in additional income generated of £220,000. There were no transactions for 2024.
+
+Page 5
+
+IOEX LTD
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+
+>
+
+s
+
+»
+
+N
+
+Employees
+
+Wages and salaries are recharged to the Company by the parent undertaking the Chartered Institute of
+Export and International Trade relating to persons employed by the parent undertaking. These employee
+
+numbers are not reflected in the below.
+
+The average monthly number of employees, including directors, during the year was 1 (2023 - 2).
+
+Debtors
+
+Trade debtors
+Prepayments and accrued income
+
+Current asset investments
+
+Fixed term deposits
+
+Creditors: Amounts falling due within one year
+
+Trade creditors
+
+Amounts owed to group undertakings
+Corporation tax
+
+Other taxation and social security
+Accruals and deferred income
+
+Amounts owed to group undertakings are unsecured, interest free and repayable on demand.
+
+Page 6
+
+2024
+£
+
+191,897
+44,843
+
+236,740
+
+2024
+£
+
+460,252
+
+2024
+
+£
+60,197
+630,163
+74,409
+20,518
+206,576
+
+991,863
+
+2023
+£
+
+84,992
+22,555
+
+407,547
+
+2023
+
+434,726
+
+2023
+
+£
+
+1,275
+2,462,788
+24,800
+209,870
+
+2,698,733
+
+IOEX LTD
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+
+2
+
+Related party transactions
+
+The Company has taken advantage of the exemption under section 33 of FRS 102 from disclosing
+transactions with The Chartered Institute of Export and International Trade on the grounds that it is a
+wholly owned subsidiary, other than the charitable donation by the Company to the parent entity in the
+prior year of £584,734.
+
+Controlling party
+
+The Company's immediate and ultimate parent undertaking is the Chartered Institute of Export and
+International Trade, a royal charter company incorporated in England and Wales by virtue of that entity
+owning 100% of its share capital.
+
+The only Group into which the results of the Company are consolidated is that headed by the Chartered
+Institute of Export and International Trade.
+
+The registered office of the Chartered Institute of Export and International Trade is Export House, Minerva
+Business Park, Lynch Wood, Peterborough, Cambridgeshire, PE2 6FT.
+
+. Auditor's information
+
+The auditor's report on the financial statements for the year ended 31 December 2024 was unqualified.
+
+The audit report was signed on 29 May 2025 by Rebecca Hughes BSc (Hons) FCCA (Senior
+Statutory Auditor) on behalf of MHA.
+
+Page 7
+

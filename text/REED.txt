@@ -1,0 +1,636 @@
+Reed Business School Limited - Period Ending 2024-06-30
+Reed Business School Limited
+02949665
+false
+2023-01-01
+2024-06-30
+2024-06-30
+The principal activity of the company is the provision of courses leading to professional qualifications and the provision of conference and training facilities.
+Digita Accounts Production Advanced
+6.30.9574.0
+true
+true
+02949665
+2023-01-01
+2024-06-30
+02949665
+2024-06-30
+02949665
+bus:OrdinaryShareClass1
+bus:CumulativeShares
+2024-06-30
+02949665
+bus:Consolidated
+2024-06-30
+02949665
+core:AcceleratedTaxDepreciationDeferredTax
+2024-06-30
+02949665
+core:OtherDeferredTax
+2024-06-30
+02949665
+core:CurrentFinancialInstruments
+2024-06-30
+02949665
+core:CurrentFinancialInstruments
+core:WithinOneYear
+2024-06-30
+02949665
+core:Non-currentFinancialInstruments
+core:AfterOneYear
+2024-06-30
+02949665
+core:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2024-06-30
+02949665
+core:FurnitureFittingsToolsEquipment
+2024-06-30
+02949665
+core:LandBuildings
+2024-06-30
+02949665
+bus:SmallEntities
+2023-01-01
+2024-06-30
+02949665
+bus:Audited
+2023-01-01
+2024-06-30
+02949665
+bus:FilletedAccounts
+2023-01-01
+2024-06-30
+02949665
+bus:SmallCompaniesRegimeForAccounts
+2023-01-01
+2024-06-30
+02949665
+bus:RegisteredOffice
+2023-01-01
+2024-06-30
+02949665
+bus:Director2
+2023-01-01
+2024-06-30
+02949665
+bus:Director3
+2023-01-01
+2024-06-30
+02949665
+bus:Director4
+2023-01-01
+2024-06-30
+02949665
+bus:Director5
+2023-01-01
+2024-06-30
+02949665
+bus:Director6
+2023-01-01
+2024-06-30
+02949665
+bus:OrdinaryShareClass1
+bus:CumulativeShares
+2023-01-01
+2024-06-30
+02949665
+bus:PrivateLimitedCompanyLtd
+2023-01-01
+2024-06-30
+02949665
+core:ComputerSoftware
+2023-01-01
+2024-06-30
+02949665
+core:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2023-01-01
+2024-06-30
+02949665
+core:FurnitureFittings
+2023-01-01
+2024-06-30
+02949665
+core:FurnitureFittingsToolsEquipment
+2023-01-01
+2024-06-30
+02949665
+core:LandBuildings
+2023-01-01
+2024-06-30
+02949665
+core:LeaseholdImprovements
+2023-01-01
+2024-06-30
+02949665
+countries:EnglandWales
+2023-01-01
+2024-06-30
+02949665
+2022-12-31
+02949665
+core:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2022-12-31
+02949665
+core:FurnitureFittingsToolsEquipment
+2022-12-31
+02949665
+core:LandBuildings
+2022-12-31
+02949665
+2022-01-01
+2022-12-31
+02949665
+2022-12-31
+02949665
+bus:OrdinaryShareClass1
+bus:CumulativeShares
+2022-12-31
+02949665
+core:AcceleratedTaxDepreciationDeferredTax
+2022-12-31
+02949665
+core:OtherDeferredTax
+2022-12-31
+02949665
+core:CurrentFinancialInstruments
+2022-12-31
+02949665
+core:CurrentFinancialInstruments
+core:WithinOneYear
+2022-12-31
+02949665
+core:Non-currentFinancialInstruments
+core:AfterOneYear
+2022-12-31
+02949665
+core:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2022-12-31
+02949665
+core:FurnitureFittingsToolsEquipment
+2022-12-31
+02949665
+core:LandBuildings
+2022-12-31
+iso4217:GBP
+xbrli:pure
+xbrli:shares
+Registration number:
+02949665
+Prepared for the registrar
+Reed Business School Limited
+Annual Report and Financial Statements
+for the
+Period from 1 January 2023 to 30 June 2024
+Hazlewoods LLP
+Staverton Court
+Staverton
+Cheltenham
+GL51 0UX
+Reed Business School Limited
+Contents
+Company Information
+1
+Balance Sheet
+2
+Notes to the Financial Statements
+3
+to
+10
+Reed Business School Limited
+Company Information
+Directors
+Peter Green
+The Reed Educational Trust Limited
+Asad Noorani
+Sir Alec Reed
+James Reed
+Registered office
+The Manor
+Little Compton
+Moreton In Marsh
+Gloucestershire
+GL56 0RZ
+Auditors
+Hazlewoods LLP
+Staverton Court
+Staverton
+Cheltenham
+GL51 0UX
+- 1 -
+Reed Business School Limited
+(Registration number: 02949665)
+Balance Sheet as at 30 June 2024
+Note
+30 June
+2024
+£
+31 December
+2022
+£
+Fixed assets
+Intangible assets
+4
+820
+5,726
+Tangible assets
+5
+81,113
+115,852
+81,933
+121,578
+Current assets
+Stocks
+1,356
+1,792
+Debtors
+6
+334,515
+432,820
+Cash at bank and in hand
+554,369
+634,862
+890,240
+1,069,474
+Creditors
+: Amounts falling due within one year
+7
+(
+337,644
+)
+(
+411,998
+)
+Net current
+assets
+552,596
+657,476
+Total assets less current liabilities
+634,529
+779,054
+Creditors
+: Amounts falling due after more than one year
+7
+(
+44,791
+)
+(
+65,311
+)
+Deferred tax liabilities
+8
+(3,741)
+(12,534)
+Net
+assets
+585,997
+701,209
+Capital and reserves
+Called up share capital
+9
+2
+2
+Retained earnings
+585,995
+701,207
+Shareholders' funds
+585,997
+701,209
+These financial statements have been prepared in accordance with the special provisions relating to companies subject to the small companies regime within Part 15 of the Companies Act 2006.
+These financial statements have been delivered in accordance with the provisions applicable to companies subject to the small companies regime. As permitted by section 444 (5A) of the Companies Act 2006, the directors have not delivered to the registrar a copy of the Profit and Loss Account.
+Approved and authorised by the
+Board
+on
+6 March 2025
+and signed on its behalf by:
+Peter Green
+Director
+The notes on pages
+3
+to
+10
+form an integral part of these financial statements.
+- 2 -
+Reed Business School Limited
+Notes to the Financial Statements for the Period from 1 January 2023 to 30 June 2024
+1
+General information
+The company is a private company limited by share capital, incorporated in England and Wales.
+The address of its registered office is:
+The Manor
+Little Compton
+Moreton In Marsh
+Gloucestershire
+GL56 0RZ
+2
+Accounting policies
+Summary of significant accounting policies and key accounting estimates
+The principal accounting policies applied in the preparation of these financial statements are set out below. These policies have been consistently applied to all the years presented, unless otherwise stated.
+Statement of compliance
+These financial statements have been prepared in accordance with Financial Reporting Standard 102 Section 1A smaller entities - 'The Financial Reporting Standard applicable in the United Kingdom and Republic of Ireland' and the Companies Act 2006 (as applicable to companies subject to the small companies' regime).
+Basis of preparation
+These financial statements have been prepared using the historical cost convention except for, where disclosed in these accounting policies, certain items that are shown at fair value.
+The presentational currency of the financial statements is Pounds Sterling, being the functional currency of the primary economic environment in which the company operates. Monetary amounts in these financial statements are rounded to the nearest Pound.
+Name of parent of group
+These financial statements are consolidated in the financial statements of The Reed Educational Trust Limited.
+The financial statements of The Reed Educational Trust Limited may be obtained from the charitable company's registered office.
+Going concern
+After reviewing the Company's forecasts and projections, the Directors have a reasonable expectation that the Company has adequate resources to continue in operational existence for the foreseeable future.
+The Company therefore continues to adopt the going concern basis in preparing its financial statements.
+Critical accounting judgements and key sources of estimation uncertainty
+In the application of the company’s accounting policies, the directors are required to make judgements, estimates and assumptions about the carrying amounts of assets and liabilities that are not readily apparent from other sources. The estimates and associated assumptions are based on historical experience and other factors that are considered to be relevant. Actual results may differ from these estimates.
+The estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to accounting estimates are recognised in the period in which the estimate is revised if the revision affects only that period, or in the period of the revision and future periods if the revision affects both current and future periods.
+Judgements
+No significant judgements have been made by management in preparing these financial statements.
+Key sources of estimation uncertainty
+No key sources of estimation uncertainty have been identified by management in preparing these financial statements other than those detailed in these accounting policies.
+- 3 -
+Reed Business School Limited
+Notes to the Financial Statements for the Period from 1 January 2023 to 30 June 2024
+Revenue recognition
+Turnover comprises the fair value of the consideration received or receivable for the sale of goods and provision of services in the ordinary course of the company’s activities. Turnover is shown net of sales/value added tax, returns, rebates and discounts.
+The company recognises revenue when:
+The amount of revenue can be reliably measured;
+it is probable that future economic benefits will flow to the entity;
+and specific criteria have been met for each of the company's activities.
+Tax
+The tax expense for the period comprises current and deferred tax. Tax is recognised in the profit and loss account, except that a charge attributable to an item of income or expense recognised as other comprehensive income is also recognised directly in other comprehensive income.
+The current tax charge is calculated on the basis of tax rates and laws that have been enacted or substantively enacted by the reporting date in the countries where the company operates and generates taxable income.
+Deferred tax is recognised in respect of all timing differences between taxable profits and profits reported in the financial statements.
+Unrelieved tax losses and other deferred tax assets are recognised when it is probable that they will be recovered against the reversal of deferred tax liabilities or other future taxable profits.
+Deferred tax is measured using the tax rates and laws that have been enacted or substantively enacted by the reporting date and that are expected to apply to the reversal of the timing difference.
+Intangible assets
+Software costs have been recognised and capitalised as the costs of the asset can be measured reliably and it is probable that future economic benefits that are directly attributable to the asset will flow to the entity.
+Amortisation
+Amortisation is charged so as to write off the cost of assets over their estimated useful lives as follows:
+Asset class
+Amortisation method and rate
+Website
+3 years straight line
+Tangible assets
+Tangible assets are stated in the statement of financial position at cost, less any subsequent accumulated depreciation and subsequent accumulated impairment losses.
+The cost of tangible assets includes directly attributable incremental costs incurred in their acquisition and installation.
+Depreciation
+Depreciation is charged so as to write off the cost of assets, other than land and properties under construction over their estimated useful lives, as follows:
+Asset class
+Depreciation method and rate
+Short leasehold
+5 to 10 years
+Fixtures, fittings and equipment
+5 years (10 years prior to 2008)
+Trade debtors
+Trade debtors are amounts due from customers for services performed in the ordinary course of business.
+Trade debtors are recognised initially at the transaction price. They are subsequently measured at amortised cost using the effective interest method, less provision for impairment. A provision for the impairment of trade debtors is established when there is objective evidence that the company will not be able to collect all amounts due according to the original terms of the receivables.
+- 4 -
+Reed Business School Limited
+Notes to the Financial Statements for the Period from 1 January 2023 to 30 June 2024
+Trade creditors
+Trade creditors are obligations to pay for goods or services that have been acquired in the ordinary course of business from suppliers. Accounts payable are classified as current liabilities if the company does not have an unconditional right, at the end of the reporting period, to defer settlement of the creditor for at least twelve months after the reporting date. If there is an unconditional right to defer settlement for at least twelve months after the reporting date, they are presented as non-current liabilities.
+Trade creditors are recognised initially at the transaction price and all are repayable within one year and hence are included at the undiscounted amount of cash expected to be paid.
+Leases
+Leases in which substantially all the risks and rewards of ownership are retained by the lessor are classified as operating leases. Payments made under operating leases are charged to profit or loss on a straight-line basis over the period of the lease.
+Leases are classified as finance leases whenever the terms of the lease transfer substantially all the risks and rewards of ownership to the lessee.
+Assets held under finance leases are recognised at the lower of their fair value at inception of the lease and the present value of the minimum lease payments. These assets are depreciated on a straight-line basis over the shorter of the useful life of the asset and the lease term. The corresponding liability to the lessor is included in the Balance Sheet as a finance lease obligation.
+Lease payments are apportioned between finance costs in the Profit and Loss Account and reduction of the lease obligation so as to achieve a constant periodic rate of interest on the remaining balance of the liability.
+Share capital
+Ordinary shares are classified as equity. Equity instruments are measured at the fair value of the cash or other resources received or receivable, net of the direct costs of issuing the equity instruments. If payment is deferred and the time value of money is material, the initial measurement is on a present value basis.
+Gift Aid Donations
+Gift Aid donations to the company's charitable parent company are recognised as a liability in the financial statements in the reporting period in which the gift aid donation is agreed by a deed of covenant.
+Gift aid donations are recognised as distributions and presented in the Statement of Changes in Equity.
+Defined contribution pension obligation
+A defined contribution plan is a pension plan under which fixed contributions are paid into a pension fund and the company has no legal or constructive obligation to pay further contributions even if the fund does not hold sufficient assets to pay all employees the benefits relating to employee service in the current and prior periods.
+Contributions to defined contribution plans are recognised as employee benefit expense when they are due. If contribution payments exceed the contribution due for service, the excess is recognised as a prepayment.
+- 5 -
+Reed Business School Limited
+Notes to the Financial Statements for the Period from 1 January 2023 to 30 June 2024
+Financial instruments
+Classification
+Financial instruments are classified and accounted for according to the substance of the contractual arrangement, as financial assets, financial liabilities or equity instruments. An equity instrument is any contract that evidences a residual interest in the assets of the company after deducting all of its liabilities. Where shares are issued, any component that creates a financial liability of the company is presented as a liability on the balance sheet. The corresponding dividends relating to the liability component are charged as interest expenses in the profit and loss account.
+Recognition and measurement
+All financial assets and liabilities are initially measured at transaction price (including transaction costs), except for those financial assets classified as at fair value through profit or loss, which are initially measured at fair value (which is normally the transaction price excluding transaction costs), unless the arrangement constitutes a financing transaction. If an arrangement constitutes a financing transaction, the financial asset or financial liability is measured at the present value of the future payments discounted at a market rate of interest for a similar debt instrument.
+Impairment
+Assets, other than those measured at fair value, are assessed for indicators of impairment at each balance sheet date. If there is objective evidence of impairment, an impairment loss is recognised in profit or loss as described below.
+A non financial asset is impaired where there is objective evidence that, as a result of one or more events that occurred after initial recognition, the estimated recoverable value of the asset has been reduced. The recoverable amount of an asset is the higher of its fair value less costs to sell and its value in use.
+Where indicators exist for a decrease in impairment loss, the prior impairment loss is tested to determine reversal. An impairment loss is reversed on an individual impaired asset to the extent that the revised recoverable value does not lead to a revised carrying amount higher than the carrying value had no impairment been recognised.
+For financial assets carried at amortised cost, the amount of an impairment is the difference between the asset’s carrying amount and the present value of estimated future cash flows, discounted at the financial asset’s original effective interest rate.
+For financial assets carried at cost less impairment, the impairment loss is the difference between the asset’s carrying amount and the best estimate of the amount that would be received for the asset if it were to be sold at the reporting date.
+Where indicators exist for a decrease in impairment loss, and the decrease can be related objectively to an event occurring after the impairment was recognised, the prior impairment loss is tested to determine reversal. An impairment loss is reversed on an individual impaired financial asset to the extent that the revised recoverable value does not lead to a revised carrying amount higher than the carrying value had no impairment been recognised.
+3
+Staff numbers
+The average number of persons employed by the company (including directors) during the period, was as follows:
+1 January 2023 to 30 June 2024
+No.
+Year ended 31 December 2022
+No.
+Average number of employees
+25
+22
+- 6 -
+Reed Business School Limited
+Notes to the Financial Statements for the Period from 1 January 2023 to 30 June 2024
+4
+Intangible assets
+Website costs
+£
+Cost
+At 1 January 2023
+9,815
+At 30 June 2024
+9,815
+Amortisation
+At 1 January 2023
+4,089
+Amortisation charge
+4,906
+At 30 June 2024
+8,995
+Carrying amount
+At 30 June 2024
+820
+At 31 December 2022
+5,726
+- 7 -
+Reed Business School Limited
+Notes to the Financial Statements for the Period from 1 January 2023 to 30 June 2024
+5
+Tangible assets
+Short leasehold
+£
+Furniture, fittings and equipment
+£
+Total
+£
+Cost
+At 1 January 2023
+393,707
+569,313
+963,020
+Additions
+-
+19,447
+19,447
+At 30 June 2024
+393,707
+588,760
+982,467
+Depreciation
+At 1 January 2023
+326,345
+520,823
+847,168
+Charge for the period
+23,272
+30,914
+54,186
+At 30 June 2024
+349,617
+551,737
+901,354
+Carrying amount
+At 30 June 2024
+44,090
+37,023
+81,113
+At 31 December 2022
+67,362
+48,490
+115,852
+6
+Debtors
+30 June
+2024
+£
+31 December
+2022
+£
+Trade debtors
+130,631
+145,635
+Prepayments
+45,806
+63,469
+Other debtors
+158,078
+223,716
+334,515
+432,820
+7
+Creditors
+Note
+2024
+£
+2022
+£
+Due within one year
+Loans and borrowings
+-
+1,074
+Trade creditors
+106,798
+170,542
+Taxation and social security
+41,008
+42,609
+Other creditors
+5,486
+7,512
+Accruals and deferred income
+130,332
+103,097
+Corporation tax liability
+543
+-
+Deferred income
+53,477
+87,164
+337,644
+411,998
+2024
+£
+2022
+£
+Due after one year
+Deferred income
+44,791
+65,311
+- 8 -
+Reed Business School Limited
+Notes to the Financial Statements for the Period from 1 January 2023 to 30 June 2024
+8
+Deferred tax
+Deferred tax assets and liabilities
+30 June 2024
+Liability
+£
+Accelerated capital allowances
+3,946
+Other short term timing differences
+(
+205
+)
+3,741
+31 December 2022
+Liability
+£
+Accelerated capital allowances
+12,803
+Other short term timing differences
+(
+269
+)
+12,534
+9
+Share capital
+Allotted, called up and fully paid shares
+30 June 2024
+31 December 2022
+No.
+£
+No.
+£
+Ordinary shares
+of £
+1
+each
+2
+2
+2
+2
+10
+Pension and other schemes
+The company operates a defined contribution pension scheme. The pension cost charge for the year represents contributions payable by the company to the scheme and amounted to £24,758 (2022: £11,960).
+Contributions totalling £4,302 (2022: £7,175) were payable to the scheme at the end of the period and are included in creditors.
+11
+Obligations under leases
+At 30 June 2024 the Company had total commitments under non-cancellable operating leases of £303,434 (2022: £438,322).
+- 9 -
+Reed Business School Limited
+Notes to the Financial Statements for the Period from 1 January 2023 to 30 June 2024
+12
+Related party transactions
+The company has taken advantage of the exemption in the FRS 102 from disclosing transactions with other members of the group.
+The Company had the following related party transactions during the year:
+Sir Alec Reed
+Relationship - Sir Alec Reed is a Trustee of the parent company, The Reed Educational Trust Limited. The Company paid rent to Sir Alec for some properties used by residential students. The amount invoiced in the period totalled £7,741 (2022: £3,173). The rent due for the car park and residential properties for the period totalled £9,500 (2022: £26,000). The balance owed by Sir Alec Reed at the period-end was £3,173 (2022: £1,002).
+Reed Global Ltd and its subsidiaries
+Relationship - There are common Directors/Trustees in both Reed Global Ltd and the parent company, The Reed Educational Trust Ltd, including Sir Alec Reed who has a material interest in Reed Global Ltd.
+The Company invoices Reed Global Ltd and its subsidiaries for professional training courses. The amount invoiced in the period totalled £5,771 (2022: £1,123). The balance due from Reed Global Ltd subsidiaries at the period-end was £Nil (2022: £Nil).
+Reed Specialist Recruitment Ltd invoiced the Company for the cost of staff working at the company and for other administrative recharges totalling £10,189 (2022: £21,750) and accrued £Nil (2022: £16,643). The total amount of wages & salaries £1,009,487 (2022: £641,893) and National Insurance Contributions, £102,421 (2022: £51,036). The balance due from Reed Specialist Recruitment Ltd at the period-end was £10,189 (2022: £21,750).
+Reed Property Ltd invoices the Company for the use of property for residential students. The amounts invoiced in the period totalled £11,830 (2022: £10,920). The balance due to Reed Property Ltd at the period-end was £910 (2022: £910).
+The Reed Foundation
+Relationship - Sir Alec Reed and James Reed are Trustees of the registered charity The Reed Foundation. The Reed Foundation owns property utilised by the Company. Rent is paid on the Manor and several other properties in the village which are owned by The Reed Foundation. The amount invoiced in the period was £134,308 (2022: £128,308). The amount due to Reed Foundation at the period-end was £64,154 (2022: £64,154).
+13
+Parent and ultimate parent undertaking
+The company's immediate and ultimate parent is
+The Reed Educational Trust Limited
+, incorporated in United Kingdom.
+14
+Audit report
+The Independent Auditor's Report was unqualified.
+The name of the Senior Statutory Auditor who signed the audit report on
+6 March 2025
+was
+Felicity Sang
+, who signed for and on behalf of
+Hazlewoods LLP
+.
+- 10 -

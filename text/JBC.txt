@@ -1,0 +1,399 @@
+JBC Skills Training Limited
+
+Management & Accounting Solutions
+45 Styvechale Avenue
+
+Earlsdon
+
+Coventry
+
+West Midlands
+
+CV5 6DW
+
+Unaudited Filleted Financial Statements
+for the Year Ended 31 March 2024
+
+Registration number: 05801956
+
+Company Information
+Balance Sheet
+Notes to the Unaudited Financial Statements
+
+JBC Skills Training Limited
+
+Contents
+
+Directors
+
+Company secretary
+
+Registered office
+
+Accountants
+
+JBC Skills Training Limited
+Company Information
+
+G Jaspal
+H Jaspal
+D Pearson
+
+G Jaspal
+
+Stoneleigh House
+Earlsdon Street
+Earlsdon
+Coventry
+
+West Midlands
+CV5 6EJ
+
+Management & Accounting Solutions
+45 Styvechale Avenue
+
+Earlsdon
+
+Coventry
+
+West Midlands
+
+CV5 6DW
+
+Page |
+
+JBC Skills Training Limited
+
+(Registration number: 05801956)
+Balance Sheet as at 31 March 2024
+
+Shareholders’ funds
+
+2024 2023
+Note £ £
+Fixed assets
+Tangible assets 4 11,367 150,169
+Current assets
+Debtors 3 558,557 59,324
+Cash at bank and in hand 53,965 676,360
+612,522 735,684
+Creditors: Amounts falling due within one year 6 (342,167) (550,505)
+Net current assets 270,355 185,179
+Total assets less current liabilities 281,722 335,348
+Creditors: Amounts falling due after more than one year 6 (14,167) (24,167)
+Provisions for liabilities : (17,584)
+Net assets 267,555 293,597
+Capital and reserves
+Called up share capital 7 77 77
+Share premium reserve 125,953 125,953
+Retained earnings 141,525 167,567
+267,555 293,597
+
+For the financial year ending 31 March 2024 the company was entitled to exemption from audit under section 477 of the
+Companies Act 2006 relating to small companies.
+
+Directors’ responsibilities:
+The members have not required the company to obtain an audit of its accounts for the year in question in accordance with
+
+section 476; and
+
+The directors acknowledge their responsibilitics for complying with the requirements of the Act with respect to accounting
+records and the preparation of accounts.
+
+These financial statements have been prepared in accordance with the special provisions relating to companies subject to the small
+companies regime within Part 15 of the Companies Act 2006.
+
+These financial statements have been delivered in accordance with the provisions applicable to companies subject to the small
+companies regime. As permitted by section 444 (5A) of the Companies Act 2006, the directors have not delivered to the registrar
+a copy of the Profit and Loss Account.
+
+Approved and authorised by the Board on 18 October 2024 and signed on its behalf by:
+
+The notes on pages 4 to 9 form an integral part of these financial statements.
+7 age
+
+JBC Skills Training Limited
+
+(Registration number: 05801956)
+Balance Sheet as at 31 March 2024
+
+D Pearson
+
+Director
+
+The notes on pages 4 to 9 form an integral part of these financial statements.
+7 age
+
+JBC Skills Training Limited
+
+Notes to the Unaudited Financial Statements for the Year Ended 31 March 2024
+
+1 General information
+The company is a private company limited by share capital, incorporated in England.
+
+The address of its registered office is:
+Stoneleigh House
+
+Earlsdon Street
+
+Earlsdon
+
+Coventry
+
+West Midlands
+
+CVS 6EJ
+
+England
+
+These financial statements were authorised for issue by the Board on 18 October 2024.
+
+2 Accounting policies
+
+Summary of significant accounting policies and key accounting estimates
+
+The principal accounting policies applied in the preparation of these financial statements are set out below. These policies have
+been consistently applied to all the years presented, unless otherwise stated.
+
+Statement of compliance
+
+These financial statements have been prepared in accordance with Financial Reporting Standard 102 Section 1A smaller entities -
+
+‘The Financial Reporting Standard applicable in the United Kingdom and Republic of Ireland’ and the Companies Act 2006 (as
+applicable to companies subject to the small companies' regime).
+
+Basis of preparation
+
+These financial statements have been prepared using the historical cost convention except that as disclosed in the accounting
+policies certain items are shown at fair value.
+
+Going concern
+
+The financial statements have been prepared on a going concern basis.
+
+Revenue recognition
+
+Turnover comprises the fair value of the consideration received or receivable for the sale of goods and provision of services in the
+ordinary course of the company’s activities. Turnover is shown net of sales/value added tax, returns, rebates and discounts.
+
+The company recognises revenue when:
+
+The amount of revenue can be reliably measured;
+
+it is probable that future economic benefits will flow to the entity;
+
+and specific criteria have been met for each of the company's activities.
+
+Tax
+The tax expense for the period comprises current and deferred tax. Tax is recognised in profit or loss, except that a change
+
+attributable to an item of income or expense recognised as other comprehensive income is also recognised directly in other
+comprehensive income.
+
+The current income tax charge is calculated on the basis of tax rates and laws that have been enacted or substantively enacted by
+the reporting date in the countries where the company operates and generates taxable income.
+
+Page 4
+
+JBC Skills Training Limited
+Notes to the Unaudited Financial Statements for the Year Ended 31 March 2024
+
+Deferred tax is recognised in respect of all timing differences between taxable profits and profits reported in the financial
+statements.
+
+Unrelieved tax losses and other deferred tax assets are recognised when it is probable that they will be recovered against the
+reversal of deferred tax liabilities or other future taxable profits.
+
+Deferred tax is measured using the tax rates and laws that have been enacted or substantively enacted by the reporting date and
+that are expected to apply to the reversal of the timing difference.
+
+Tangible assets
+
+Tangible assets are stated in the balance sheet at cost, less any subsequent accumulated depreciation and subsequent accumulated
+impairment losses.
+
+The cost of tangible assets includes directly attributable incremental costs incurred in their acquisition and installation.
+
+Depreciation
+
+Depreciation is charged so as to write off the cost of assets, other than land and properties under construction over their estimated
+uscful lives, as follows:
+
+Asset class Depreciation method and rate
+Leasehold improvement 15% reducing balance
+
+Fixtures and fittings 15% reducing balance
+
+Motor vehicles 25% reducing balance
+Computer equipment Over 3 years straight line
+
+Investment property
+
+Investment property is carried at fair value, derived from the current market prices for comparable real estate determined annually
+by external valuers. The valuers use observable market prices, adjusted if necessary for any difference in the nature, location or
+condition of the specific asset. Changes in fair value are recognised in profit or loss.
+
+Cash and cash equivalents
+
+Cash and cash equivalents comprise cash on hand and call deposits, and other short-term highly liquid investments that are readily
+convertible to a known amount of cash and are subject to an insignificant risk of change in value.
+
+Trade debtors
+
+Trade debtors are amounts due from customers for merchandise sold or services performed in the ordinary course of business.
+Trade debtors are recognised initially at the transaction price. They are subsequently measured at amortised cost using the
+effective interest method, less provision for impairment. A provision for the impairment of trade debtors is established when there
+is objective evidence that the company will not be able to collect all amounts due according to the original terms of the
+receivables.
+
+Page 5
+
+JBC Skills Training Limited
+Notes to the Unaudited Financial Statements for the Year Ended 31 March 2024
+
+Trade creditors
+
+Trade creditors are obligations to pay for goods or scrviecs that have been acquired in the ordinary course of business from
+suppliers. Accounts payable are classified as current liabilities if the company does not have an unconditional right, at the end of
+the reporting period, to defer scttlement of the creditor for at least twelve months after the reporting date. If there is an
+unconditional right to defer settlement for at least twelve months after the reporting date, they are presented as non-current
+liabilities.
+
+Trade creditors are recognised initially at the transaction price and subsequently measured at amortised cost using the effective
+interest method.
+
+Borrowings
+
+Interest-bearing borrowings are initially recorded at fair value, net of transaction costs. Interest-bearing borrowings are
+subsequently carried at amortised cost, with the difference between the proceeds, net of transaction costs, and the amount due on
+redemption being recognised as a charge to the profit and loss account over the period of the relevant borrowing.
+
+Interest expense is recognised on the basis of the effective interest method and is included in interest payable and similar charges.
+Borrowings are classified as current liabilities unless the company has an unconditional right to defer settlement of the liability for
+at least twelve months after the reporting date.
+
+Leases
+
+Leases in which substantially all the risks and rewards of ownership are retained by the lessor are classified as operating leases.
+Payments made under operating leases are charged to profit or loss on a straight-line basis over the period of the lease.
+
+Share capital
+
+Ordinary shares are classified as equity. Equity instruments are measured at the fair value of the cash or other resources received
+or receivable, net of the direct costs of issuing the equity instruments. If payment is deferred and the time value of money is
+material, the initial measurement is on a present value basis.
+
+Dividends
+
+Dividend distribution to the company’s shareholders is recognised as a liability in the financial statements in the reporting period
+in which the dividends are declared.
+
+Defined contribution pension obligation
+
+A defined contribution plan is a pension plan under which fixed contributions are paid into a pension fund and the company has
+no legal or constructive obligation to pay further contributions even if the fund does not hold sufficient assets to pay all employees
+the benefits relating to employee service in the current and prior periods.
+
+Contributions to defined contribution plans are recognised as employee benefit expense when they are due. If contribution
+payments exceed the contribution due for service, the excess is recognised as a prepayment.
+
+3 Staff numbers
+
+The average number of persons employed by the company (including directors) during the year, was 42 (2023 - 41).
+
+Page 6
+
+JBC Skills Training Limited
+
+Notes to the Unaudited Financial Statements for the Year Ended 31 March 2024
+
+4 Tangible assets
+
+Furniture,
+Land and fittings and
+buildings equipment Motor vehicles Total
+£ £ £ £
+Cost or valuation
+At 1 April 2023 72,301 379,923 17,600 469,824
+Disposals (72,301) (359,923) - (432,224)
+At 31 March 2024 - 20,000 17,600 37,600
+Depreciation
+At 1 April 2023 29,277 288,545 1,833 319,655
+Charge for the year 9,216 23,565 4,400 37,181
+Eliminated on disposal (38,493) (292,110) - (330,603)
+At 31 March 2024 - 20,000 6,233 26,233
+Carrying amount
+At31 March 2024 TF 367
+At31 March 2023 43,024 91,378 15,767 150,169
+5 Debtors
+2024 2023
+Current Note £ £
+Trade debtors 5,556 7,374
+Amounts owed by related parties 533,776 -
+Prepayments 19,225 19,181
+Other debtors - 32,769
+558,557 59,324
+
+6 Creditors
+
+Creditors: amounts falling due within one year
+
+Page 7
+
+JBC Skills Training Limited
+
+Notes to the Unaudited Financial Statements for the Year Ended 31 March 2024
+
+2024 2023
+Note £ £
+Due within one year
+
+Loans and borrowings 8 11,956 10,175
+Trade creditors 40,430 139,942
+
+Amounts owed to group undertakings and undertakings in which the
+company has a participating interest - 843
+Taxation and social security 165,029 190,910
+Accruals and deferred income 124,595 208,635
+Other creditors 157 -
+342,167 550,505
+
+Page 8
+
+JBC Skills Training Limited
+Notes to the Unaudited Financial Statements for the Year Ended 31 March 2024
+
+Creditors: amounts falling due after more than one year
+
+2024 2023
+Note £ £
+Due after one year
+Loans and borrowings 8 14,167 24,167
+7 Share capital
+Allotted, called up and fully paid shares
+2024 2023
+No. £ No. £
+Ordinary of £1 each 77 77 77 77
+8 Loans and borrowings
+Non-current loans and borrowings
+2024 2023
+£ £
+Bank borrowings 14,167 24,167
+Current loans and borrowings
+2024 2023
+£ £
+Bank borrowings 10,000 10,000
+Other borrowings 1,956 175
+11,956 10,175
+9 Dividends
+Interim dividends paid
+2024 2023
+£ £
+Interim dividend of £3,950.00 (2023 - £8,800.00) per each Ordinary 304,150 677,600
+
+Page 9
+
+This document was delivered using electronic communications and authenticated in accordance with the
+registrar's rules relating to electronic form, authentication and manner of delivery under section 1072 of
+the Companies Act 2006.
+

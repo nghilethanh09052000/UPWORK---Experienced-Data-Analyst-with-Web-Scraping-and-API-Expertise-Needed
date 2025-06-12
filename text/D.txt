@@ -1,0 +1,120 @@
+D & A TRAINING & ASSESSMENT LTD - Filleted accounts
+Registered number
+09856288
+D & A TRAINING & ASSESSMENT LTD
+Filleted Accounts
+30 November 2024
+D & A TRAINING & ASSESSMENT LTD
+Registered number:
+09856288
+Balance Sheet
+as at
+30 November 2024
+2024
+2023
+£
+£
+Fixed assets
+2,562
+3,416
+Current assets
+61,985
+81,894
+Creditors: amounts falling due within one year
+(
+47,948
+)
+(
+48,273
+)
+Net current assets
+14,037
+33,621
+Total assets less current liabilities
+16,599
+37,037
+Creditors: amounts falling due after more than one year
+(
+5,838
+)
+(
+17,824
+)
+Net assets
+10,761
+19,213
+Capital and reserves
+10,761
+19,213
+Number
+Number
+Average number of employees
+1
+1
+The company is a private company limited by shares and incorporated in England. Its registered office is Star Farm Chippenham Road, Marshfield, Chippenham, England, SN14 8LH.
+The director is satisfied that the company is entitled to exemption from the requirement to obtain an audit under section 477 of the Companies Act 2006.
+The member has not required the company to obtain an audit in accordance with section 476 of the Act.
+The director acknowledges his responsibilities for complying with the requirements of the Companies Act 2006 with respect to accounting records and the preparation of accounts.
+The accounts have been prepared in accordance with the micro entity provisions of the Companies Act 2006 and FRS 105, The Financial Reporting Standard applicable to the Micro-entities Regime. The accounts have been delivered in accordance with the provisions applicable to companies subject to the small companies regime. The profit and loss account has not been delivered to the Registrar of Companies.
+Bogdan Vasile Oslobanu
+Director
+Approved by the board on
+11 May 2025
+D & A TRAINING & ASSESSMENT LTD
+09856288
+false
+2023-12-01
+2024-11-30
+2024-11-30
+VT Final Accounts
+April 2025
+Bogdan Vasile Oslobanu
+No description of principal activity
+09856288
+2022-12-01
+2023-11-30
+09856288
+core:WithinOneYear
+2023-11-30
+09856288
+core:AfterOneYear
+2023-11-30
+09856288
+2023-12-01
+2024-11-30
+09856288
+bus:PrivateLimitedCompanyLtd
+2023-12-01
+2024-11-30
+09856288
+bus:AuditExempt-NoAccountantsReport
+2023-12-01
+2024-11-30
+09856288
+countries:England
+2023-12-01
+2024-11-30
+09856288
+bus:Director40
+2023-12-01
+2024-11-30
+09856288
+bus:Micro-entities
+2023-12-01
+2024-11-30
+09856288
+bus:FilletedAccounts
+2023-12-01
+2024-11-30
+09856288
+2024-11-30
+09856288
+core:WithinOneYear
+2024-11-30
+09856288
+core:AfterOneYear
+2024-11-30
+09856288
+2023-11-30
+iso4217:GBP
+xbrli:pure

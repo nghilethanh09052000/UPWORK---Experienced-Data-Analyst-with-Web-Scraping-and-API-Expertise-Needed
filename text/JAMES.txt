@@ -1,0 +1,178 @@
+JAMES EDUCATION LTD
+2023-05-01
+2024-04-30
+2024-04-30
+false
+08488839
+JAMES EDUCATION LTD
+2024-10-10
+85320
+iso4217:GBP
+xbrli:pure
+08488839
+2023-05-01
+08488839
+2024-04-30
+08488839
+2023-05-01
+2024-04-30
+08488839
+2022-05-01
+08488839
+2023-04-30
+08488839
+2022-05-01
+2023-04-30
+08488839
+bus:Micro-entities
+2023-05-01
+2024-04-30
+08488839
+bus:AuditExempt-NoAccountantsReport
+2023-05-01
+2024-04-30
+08488839
+bus:FullAccounts
+2023-05-01
+2024-04-30
+08488839
+bus:PrivateLimitedCompanyLtd
+2023-05-01
+2024-04-30
+08488839
+core:WithinOneYear
+2024-04-30
+08488839
+core:AfterOneYear
+2024-04-30
+08488839
+core:WithinOneYear
+2023-04-30
+08488839
+core:AfterOneYear
+2023-04-30
+08488839
+dpl:CostSales
+2023-05-01
+2024-04-30
+08488839
+dpl:AdministrativeExpenses
+2023-05-01
+2024-04-30
+08488839
+dpl:DistributionCosts
+2023-05-01
+2024-04-30
+08488839
+dpl:CostSales
+2022-05-01
+2023-04-30
+08488839
+dpl:AdministrativeExpenses
+2022-05-01
+2023-04-30
+08488839
+dpl:DistributionCosts
+2022-05-01
+2023-04-30
+08488839
+core:WithinOneYear
+2024-04-30
+08488839
+core:AfterOneYear
+2024-04-30
+08488839
+core:WithinOneYear
+2023-04-30
+08488839
+core:AfterOneYear
+2023-04-30
+08488839
+core:WithinOneYear
+2023-05-01
+2024-04-30
+08488839
+core:AfterOneYear
+2023-05-01
+2024-04-30
+08488839
+bus:Director1
+2023-05-01
+2024-04-30
+JAMES EDUCATION LTD
+Registered Number
+08488839
+(England and Wales)
+Unaudited Financial Statements for the Year ended
+30 April 2024
+JAMES EDUCATION LTD
+Company Information
+for the year from 1 May 2023 to 30 April 2024
+Director
+JAMES, Sarah
+Company Secretary
+JAMES, Sarah
+Registered Address
+537 Norwood Rd
+West Norwood
+SE27 9LD
+Registered Number
+08488839
+(England and Wales)
+JAMES EDUCATION LTD
+Balance Sheet
+as at
+30 April 2024
+2024
+£
+2023
+£
+Fixed Assets
+2,511
+2,119
+Current Assets
+115,576
+80,824
+Prepayments and accrued income
+146
+1,607
+Creditors amounts falling due within one year
+(
+13,983
+)
+(
+20,633
+)
+Net current assets (liabilities)
+101,739
+61,798
+Total assets less current liabilities
+104,250
+63,917
+Accruals and deferred income
+(
+2,705
+)
+(
+2,200
+)
+Net assets (liabilities)
+101,545
+61,717
+Capital and reserves
+101,545
+61,717
+The company is a private company limited by shares and registered in England and Wales. It was entitled to exemption from audit under section 477 of the Companies Act 2006 relating to small companies.
+The members have not required the company to obtain an audit in accordance with section 476 of the Companies Act 2006.
+The Director acknowledges their responsibilities for complying with the requirements of the Act with respect to accounting records and the preparation of accounts.
+These accounts have been prepared in accordance with the micro-entity provisions and delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+Average number of employees
+The average number of persons employed by the company in the period was
+3
+(previous period:
+8
+).
+The financial statements were approved and authorised for issue by the Director on 10 October 2024, and are signed on its behalf by:
+JAMES, Sarah
+Director
+Registered Company No. 08488839

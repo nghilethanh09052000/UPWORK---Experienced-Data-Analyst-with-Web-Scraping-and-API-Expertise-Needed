@@ -1,0 +1,547 @@
+ACCOUNTS - Final Accounts
+Caseware UK (AP4) 2023.0.135
+2023.0.135
+2024-08-31
+2024-08-31
+6
+5
+2023-09-01
+false
+true
+true
+The members have not required the company to obtain an audit in accordance with section 476 of the Companies Act 2006.
+false
+04455799
+2023-09-01
+2024-08-31
+04455799
+2022-09-01
+2023-08-31
+04455799
+2024-08-31
+04455799
+2023-08-31
+04455799
+c:Director2
+2023-09-01
+2024-08-31
+04455799
+d:Buildings
+d:ShortLeaseholdAssets
+2023-09-01
+2024-08-31
+04455799
+d:Buildings
+d:ShortLeaseholdAssets
+2024-08-31
+04455799
+d:Buildings
+d:ShortLeaseholdAssets
+2023-08-31
+04455799
+d:OfficeEquipment
+2023-09-01
+2024-08-31
+04455799
+d:OfficeEquipment
+2024-08-31
+04455799
+d:OfficeEquipment
+2023-08-31
+04455799
+d:OfficeEquipment
+d:OwnedOrFreeholdAssets
+2023-09-01
+2024-08-31
+04455799
+d:OwnedOrFreeholdAssets
+2023-09-01
+2024-08-31
+04455799
+d:Goodwill
+2024-08-31
+04455799
+d:Goodwill
+2023-08-31
+04455799
+d:CurrentFinancialInstruments
+2024-08-31
+04455799
+d:CurrentFinancialInstruments
+2023-08-31
+04455799
+d:CurrentFinancialInstruments
+d:WithinOneYear
+2024-08-31
+04455799
+d:CurrentFinancialInstruments
+d:WithinOneYear
+2023-08-31
+04455799
+d:ShareCapital
+2024-08-31
+04455799
+d:ShareCapital
+2023-08-31
+04455799
+d:RetainedEarningsAccumulatedLosses
+2024-08-31
+04455799
+d:RetainedEarningsAccumulatedLosses
+2023-08-31
+04455799
+c:OrdinaryShareClass1
+2023-09-01
+2024-08-31
+04455799
+c:OrdinaryShareClass1
+2024-08-31
+04455799
+c:OrdinaryShareClass1
+2023-08-31
+04455799
+c:FRS102
+2023-09-01
+2024-08-31
+04455799
+c:AuditExempt-NoAccountantsReport
+2023-09-01
+2024-08-31
+04455799
+c:FullAccounts
+2023-09-01
+2024-08-31
+04455799
+c:PrivateLimitedCompanyLtd
+2023-09-01
+2024-08-31
+04455799
+2
+2023-09-01
+2024-08-31
+04455799
+e:PoundSterling
+2023-09-01
+2024-08-31
+xbrli:shares
+iso4217:GBP
+xbrli:pure
+Registered number:
+04455799
+L.I.T.S. LIMITED
+UNAUDITED
+FINANCIAL STATEMENTS
+INFORMATION FOR FILING WITH THE REGISTRAR
+FOR THE YEAR ENDED
+31 AUGUST 2024
+L.I.T.S. LIMITED
+REGISTERED NUMBER:
+04455799
+BALANCE SHEET
+AS AT
+31 AUGUST 2024
+2024
+2023
+Note
+£
+£
+Fixed assets
+Tangible assets
+5
+1,581
+1,529
+Current assets
+Debtors: amounts falling due within one year
+6
+203,808
+122,241
+Bank and cash balances
+969,660
+1,000,308
+1,173,468
+1,122,549
+Creditors: amounts falling due within one year
+7
+(
+891,178
+)
+(
+837,590
+)
+Net current assets
+282,290
+284,959
+Net assets
+283,871
+286,488
+Capital and reserves
+Called up share capital
+8
+1,000
+1,000
+Profit and loss account
+282,871
+285,488
+283,871
+286,488
+The
+directors
+consider
+that the
+Company
+is entitled to exemption from audit under section 477 of the
+Companies Act 2006
+and members have not required the
+Company
+to obtain an audit for the
+year
+in question in accordance with section 476 of the
+Companies Act 2006
+.
+The
+directors
+acknowledge
+their
+responsibilities for complying with the requirements of the
+Companies Act 2006
+with respect to accounting records and the preparation of
+financial statements
+.
+The
+financial statements
+have been prepared in accordance with the provisions applicable to companies subject to the
+small companies regime and in accordance with the provisions of FRS 102 Section 1A - small entities
+.
+The
+financial statements
+have been delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+The
+Company
+has opted not to file the
+statement of income and retained earnings
+in accordance with provisions applicable to companies subject to the small companies' regime.
+The
+financial statements
+were approved and authorised for issue by the
+board
+and were signed on
+its
+behalf
+by
+:
+R Orr
+Director
+Date:
+9 April 2025
+The notes on pages 2 to 8 form part of these financial statements.
+Page 1
+L.I.T.S. LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 AUGUST 2024
+1.
+General information
+L.I.T.S Limited is a private company limited by shares incorporated in England and Wales. The address of
+the registered office is 19 Fairway, Petts Wood, Orpington, BR5 1EF.
+The financial statements are presented in sterling which is the functional currency of the company.
+2.
+Accounting policies
+2.1
+Basis of preparation of financial statements
+The
+financial statements
+have been prepared under the historical cost convention unless otherwise specified within these accounting policies and in accordance with FRS 102 'The Financial Reporting Standard applicable in the UK and the Republic of Ireland' and the requirements of the
+Companies Act 2006
+. The disclosure requirements of Section 1A of FRS 102 have been applied other than where additional disclosure is required to show a true and fair view.
+The following principal
+accounting policies
+have been applied:
+2.2
+Revenue
+Revenue
+is recognised to the extent that it is probable that the economic benefits will flow to the
+Company
+and the
+revenue
+can be reliably measured.
+Revenue
+is measured as the fair value of the consideration received or receivable, excluding discounts, rebates, value added tax and other sales taxes. The following criteria must also be met before
+revenue
+is recognised:
+Rendering of services
+Revenue
+from a contract to provide services is recognised in the period in which the services are provided in accordance with the stage of completion of the contract when all of the following conditions are satisfied:
+∙
+the amount of
+revenue
+can be measured reliably;
+∙
+it is probable that the
+Company
+will receive the consideration due under the contract;
+∙
+the stage of completion of the contract at the end of the reporting period can be measured reliably; and
+∙
+the costs incurred and the costs to complete the contract can be measured reliably.
+2.3
+Government grants
+Grants are accounted under the accruals model as permitted by FRS 102.
+Grants of a revenue nature are recognised in the
+Statement of Income and Retained Earnings
+in the same period as the related expenditure.
+2.4
+Interest income
+Interest income is recognised in profit or loss using the effective interest method.
+Page 2
+L.I.T.S. LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 AUGUST 2024
+2.
+Accounting policies (continued)
+2.5
+Taxation
+Tax is recognised in profit or loss except that a charge attributable to an item of income and expense recognised as other comprehensive income or to an item recognised directly in equity is also recognised in other comprehensive income or directly in equity respectively.
+The current income tax charge is calculated on the basis of tax rates and laws that have been enacted or substantively enacted by the
+balance sheet date
+in the countries where the
+Company operates and generates income
+.
+2.6
+Intangible assets
+Intangible assets are initially recognised at cost. After recognition, under the cost model, intangible assets are measured at cost less any accumulated amortisation and any accumulated impairment losses.
+All intangible assets are considered to have a finite useful life. If a reliable estimate of the useful life cannot be made, the useful life shall not exceed ten years.
+2.7
+Tangible fixed assets
+Tangible fixed assets under the cost model are stated at historical cost less accumulated depreciation and any accumulated impairment losses. Historical cost includes expenditure that is directly attributable to bringing the asset to the location and condition necessary for it to be capable of operating in the manner intended by management.
+Depreciation is charged so as to allocate the cost of assets less their residual value over their estimated useful lives,
+using the straight-line method
+.
+Depreciation is provided on the following basis:
+Short-term leasehold property
+-
+10
+%
+straight line
+Office equipment
+-
+20
+%
+straight line
+The assets' residual values, useful lives and depreciation methods are reviewed, and adjusted prospectively if appropriate, or if there is an indication of a significant change since the last reporting date.
+Gains and losses on disposals are determined by comparing the proceeds with the carrying amount and are recognised in profit or loss.
+2.8
+Debtors
+Short-term debtors are measured at transaction price, less any impairment. Loans receivable are measured initially at fair value, net of transaction costs, and are measured subsequently at amortised cost using the effective interest method, less any impairment.
+2.9
+Cash and cash equivalents
+Cash is represented by cash in hand and deposits with financial institutions repayable without penalty on notice of not more than 24 hours.
+Page 3
+L.I.T.S. LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 AUGUST 2024
+2.
+Accounting policies (continued)
+2.10
+Creditors
+Short-term creditors are measured at the transaction price. Other financial liabilities, including bank loans, are measured initially at fair value, net of transaction costs, and are measured subsequently at amortised cost using the effective interest method.
+2.11
+Financial instruments
+The
+Company
+has elected to apply the provisions of Section 11 “Basic Financial Instruments” of FRS 102 to all of its financial instruments.
+Financial instruments are recognised in the
+Company's
+Balance Sheet
+when the
+Company
+becomes party to the contractual provisions of the instrument.
+Financial assets and liabilities are offset, with the net amounts presented in the financial statements, when there is a legally enforceable right to set off the recognised amounts and there is an intention to settle on a net basis or to realise the asset and settle the liability simultaneously.
+Basic financial assets
+Basic financial assets, which include trade and other receivables, cash and bank balances, are initially measured at their transaction price including transaction costs and are subsequently carried at their amortised cost using the effective interest method, less any provision for impairment, unless the arrangement constitutes a financing transaction, where the transaction is measured at the present value of the future receipts discounted at a market rate of interest.
+Discounting is omitted where the effect of discounting is immaterial. The
+Company's
+cash and cash equivalents, trade and most other receivables due with the operating cycle fall into this category of financial instruments.
+Impairment of financial assets
+Financial assets are assessed for indicators of impairment at each reporting date.
+Financial assets are impaired when events, subsequent to their initial recognition, indicate the estimated future cash flows derived from the financial asset(s) have been adversely impacted. The impairment loss will be the difference between the current carrying amount and the present value of the future cash flows at the asset(s) original effective interest rate.
+If there is a favourable change in relation to the events surrounding the impairment loss then the impairment can be reviewed for possible reversal. The reversal will not cause the current carrying amount to exceed the original carrying amount had the impairment not been recognised. The impairment reversal is recognised in the profit or loss.
+Financial liabilities
+Financial liabilities and equity instruments are classified according to the substance of the contractual arrangements entered into. An equity instruments any contract that evidences a residual interest in the assets of the
+Company
+after the deduction of all its liabilities.
+Basic financial liabilities, which include trade and other payables, bank loans
+and
+other loans are initially measured at their transaction price after transaction costs. When this constitutes a financing transaction, whereby the debt instrument is measured at the present value of the future payments discounted at a market rate of interest. Discounting is omitted where the effect of discounting is immaterial.
+Page 4
+L.I.T.S. LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 AUGUST 2024
+2.
+Accounting policies (continued)
+2.11
+Financial instruments (continued)
+Debt instruments are subsequently carried at their amortised cost using the effective interest rate method.
+Trade payables are obligations to pay for goods and services that have been acquired in the ordinary course of business from suppliers. Trade payables are classified as current liabilities if the payment is due within one year. If not, they represent non-current liabilities. Trade payables are initially recognised at their transaction price and subsequently are measured at amortised cost using the effective interest method. Discounting is omitted where the effect of discounting is immaterial.
+Derecognition of financial instruments
+Derecognition of financial assets
+Financial assets are derecognised when their contractual right to future cash flow expire, or are settled, or when the
+Company
+transfers the asset and substantially all the risks and rewards of ownership to another party. If significant risks and rewards of ownership are retained after the transfer to another party, then the
+Company
+will continue to recognise the value of the portion of the risks and rewards retained.
+Derecognition of financial liabilities
+Financial liabilities are derecognised when the
+Company's
+contractual obligations expire or are discharged or cancelled.
+3.
+Employees
+The average monthly number of employees, including directors, during the
+year
+was
+6
+(2023 -
+5
+)
+.
+Page 5
+L.I.T.S. LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 AUGUST 2024
+4.
+Intangible assets
+Goodwill
+£
+Cost
+At 1 September 2023
+635,000
+At 31 August 2024
+635,000
+Amortisation
+At 1 September 2023
+635,000
+At 31 August 2024
+635,000
+Net book value
+At 31 August 2024
+-
+At 31 August 2023
+-
+Page 6
+L.I.T.S. LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 AUGUST 2024
+5.
+Tangible fixed assets
+Short-term leasehold property
+Office equipment
+Total
+£
+£
+£
+Cost or valuation
+At 1 September 2023
+27,042
+26,841
+53,883
+Additions
+-
+760
+760
+At 31 August 2024
+27,042
+27,601
+54,643
+Depreciation
+At 1 September 2023
+27,042
+25,312
+52,354
+Charge for the year on owned assets
+-
+708
+708
+At 31 August 2024
+27,042
+26,020
+53,062
+Net book value
+At 31 August 2024
+-
+1,581
+1,581
+At 31 August 2023
+-
+1,529
+1,529
+6.
+Debtors
+2024
+2023
+£
+£
+Trade debtors
+189,262
+108,560
+Other debtors
+1,133
+4,641
+Prepayments and accrued income
+13,413
+9,040
+203,808
+122,241
+Page 7
+L.I.T.S. LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 AUGUST 2024
+7.
+Creditors: Amounts falling due within one year
+2024
+2023
+£
+£
+Trade creditors
+81,017
+81,051
+Corporation tax
+94,208
+78,202
+Other taxation and social security
+56,972
+32,316
+Other creditors
+14,335
+23,725
+Accruals and deferred income
+644,646
+622,296
+891,178
+837,590
+8.
+Share capital
+2024
+2023
+£
+£
+Allotted, called up and fully paid
+1,000
+(2023 -
+1,000
+)
+Ordinary
+shares of
+£
+1.00
+each
+1,000
+1,000
+9.
+Pension commitments
+The Company operates a defined contributions pension scheme. The assets of the scheme are held
+separately from those of the Company is an independently administered fund. The pension cost charge
+represents contributions payable by the Company to the fund and amounted to £1,921 (2023 - £1,560)
+Contributions totalling £482 (2023 - £686) were payable to the fund at the balance sheet date and are
+included in creditors.
+10.
+Related party transactions
+The amount due to a director at the year end was £9,280 (2023 - £9,280).
+Page 8

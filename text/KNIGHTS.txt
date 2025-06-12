@@ -1,0 +1,306 @@
+Registration number: 06469123
+
+Knights Training Academy Limited
+
+Annual Report and Unaudited Financial Statements- Companies house filing
+for the Year Ended 31 July 2024
+
+Knights Training Academy Limited
+
+Contents
+
+Statement of Financial Position
+
+Notes to the Unaudited Financial Statements
+
+Knights Training Academy Limited
+
+(Registration number: 06469123)
+Statement of Financial Position as at 31 July 2024
+
+2024 2023
+Note £ £
+Fixed assets
+Tangible assets 4 18,426 13,116
+Current assets
+Debtors 3 1,366,599 1,097,649
+Cash at bank and in hand 249,629 1,516
+1,616,228 1,099,165
+Creditors: Amounts falling due within one year 6 (854,490) (691,673)
+Net current assets 761,738 407,492
+Total assets less current liabilities 780,164 420,608
+Creditors: Amounts falling due after more than one year 6 (8,331) (18,332)
+Provisions for liabilities (4,607) (3,279)
+Net assets 767,226 398,997
+Capital and reserves
+Called up share capital 1,000 1,000
+Profit and loss account 766,226 397,997
+Shareholders’ funds 767,226 398,997
+
+For the financial year ending 31 July 2024 the company was entitled to exemption from audit under section 477 of the Companies
+Act 2006 relating to small companies.
+Director's responsibilities:
+The members have not required the company to obtain an audit of its accounts for the year in question in accordance with
+section 476; and
+
+The director acknowledges her responsibilities for complying with the requirements of the Act with respect to accounting
+records and the preparation of accounts.
+
+These financial statements have been prepared in accordance with the provisions applicable to companies subject to the small
+companies’ regime and in accordance with FRS 102 'The Financial Reporting Standard applicable in the UK and Republic of
+Treland’.
+
+These financial statements have been delivered in accordance with the provisions applicable to companies subject to the small
+companies regime. As permitted by section 444 (5A) of the Companies Act 2006, the director has not delivered to the registrar a
+copy of the Income Statement.
+
+Approved and authorised by the director on 19 March 2025
+
+The notes on pages 3 to 7 form an integral part of these financial statements.
+7~ age
+
+Knights Training Academy Limited
+
+(Registration number: 06469123)
+Statement of Financial Position as at 31 July 2024
+
+Y E Wormer
+
+Director
+
+The notes on pages 3 to 7 form an integral part of these financial statements.
+age
+
+Knights Training Academy Limited
+
+Notes to the Unaudited Financial Statements for the Year Ended 31 July 2024
+
+1 General information
+The company is a private company limited by share capital, incorporated in England and Wales.
+The address of its registered office is: Knoll House, Knoll Road, Camberley, Surrey, GU15 3SY, England.
+
+The principal place of business is: Security House, Trafalgar Way, Camberley, Surrey, GU15 3BN, .
+
+2 Accounting policies
+
+Summary of significant accounting policies and key accounting estimates
+
+The principal accounting policies applied in the preparation of these financial statements are set out below. These policies have
+been consistently applied to all the years presented, unless otherwise stated.
+
+Statement of compliance
+
+These financial statements have been prepared in accordance with Financial Reporting Standard 102 Section 1A smaller entities -
+‘The Financial Reporting Standard applicable in the United Kingdom and Republic of Ireland’ and the Companies Act 2006 (as
+applicable to companies subject to the small companies' regime).
+
+Basis of preparation
+
+These financial statements have been prepared using the historical cost convention except that as disclosed in the accounting
+policics certain items are shown at fair value.
+
+The financial statements are prepared in sterling, which is the functional currency of the entity.
+
+Revenue recognition
+
+Turnover comprises the fair value of the consideration received or receivable for the sale of goods and provision of services in the
+ordinary course of the company’s activities. Turnover is shown net of value added tax, returns, rebates and discounts.
+
+The company recognises revenue when the amount of revenue can be reliably measured, it is probable that future economic
+benefits will flow to the entity and specific criteria have been met for each of the company's activities.
+
+Tax
+
+‘he tax expense for the period comprises current and deferred tax. ‘lax is recognised in profit or loss, except that a change
+attributable to an item of income or expense recognised as other comprehensive income is also recognised directly in other
+comprehensive income.
+
+The current income tax charge is calculated on the basis of tax rales and laws that have been enacted or substantively enacted by
+the reporting date in the countries where the company operates and generates taxable income.
+
+Deferred tax is recognised in respect of all timing differences between taxable profits and profits reported in the financial
+statements.
+
+Unrelieved tax losses and other deferred tax assets are recognised when it is probable that they will be recovered against the
+reversal of deferred tax liabilities or other future taxable profits.
+
+Deferred tax is measured using the tax rates and laws that have been enacted or substantively enacted by the reporting date and
+that are expected to apply to the reversal of the timing difference.
+
+Page 3
+
+Knights Training Academy Limited
+Notes to the Unaudited Financial Statements for the Year Ended 31 July 2024
+
+Tangible assets
+
+Tangible assets are stated in the statement of financial position at cost, less any subscqucnt accumulated depreciation and
+subsequent accumulated impairment losses.
+The cost of tangible assets includes directly attributable incremental costs incurred in their acquisition and installation.
+
+Depreciation
+
+Depreciation is charged so as to write off the cost of assets, other than land and properties under construction over their estimated
+useful lives, as follows:
+
+Asset class Depreciation method and rate
+Fittings, fixtures and equipment 25% reducing balance
+
+Trade debtors
+
+Short term debtors are measured at transaction price, less any impairment.
+Cash and cash equivalents
+
+Cash is represented by cash in hand and bank deposits.
+
+Trade creditors
+
+Short term creditors are measured at the transaction price.
+
+Borrowings
+
+Interest-bearing borrowings are initially recorded at fair value, net of transaction costs. Interest-bearing borrowings are
+subsequently carried at amortised cost, with the difference between the proceeds, net of transaction costs, and the amount due on
+redemption being recognised as a charge to the income statement over the period of the relevant borrowing.
+
+Interest expense is recognised on the basis of the effective interest method and is included in interest payable and similar charges.
+Borrowings are classified as current liabilities unless the company has an unconditional right to defer settlement of the liability for
+at least twelve months after the reporting date.
+
+Provisions
+
+Provisions are recognised when the company has an obligation at the reporting date as a result of a past event, it is probable that
+the company will be required to settle that obligation and a reliable estimate can be made of the amount of the obligation.
+
+Leases
+
+Leases in which substantially all the risks and rewards of ownership are retained by the lessor are classified as operating leases.
+Payments made under operating leases are charged to profit or loss on a straight-line basis over the period of the lease.
+
+Defined contribution pension obligation
+
+A defined contribution plan is a pension plan under which fixed contributions are paid into a pension fund and the company has
+no legal or constructive obligation to pay further contributions even if the fund docs not hold sufficient assets to pay all employces
+the benefits relating to employee service in the current and prior periods.
+
+Contributions to defined contribution plans are recognised as employee benefit expense when they are due. If contribution
+payments exceed the contribution due for service, the excess is recognised as a prepayment.
+
+Page 4
+
+Knights Training Academy Limited
+
+Notes to the Unaudited Financial Statements for the Year Ended 31 July 2024
+
+Employee benefits
+
+Short-term cmployce benefits are recognised as an expense in the period which they are incurred.
+
+Financial instruments
+
+The Company only enters into basic financial instruments transactions that result in the recognition of financial assets and
+liabilities like trade and other debtors and creditors, loans from banks and other third parties and loans to related parties.
+
+3. Staff numbers
+
+The average number of persons employed by the company (including the director) during the year, was 43 (2023 - 40).
+
+4 Tangible assets
+
+Fixtures, fittings
+
+and equipment Total
+£ £
+Cost or valuation
+At 1 August 2023 23,519 23,519
+Additions 12,037 12,037
+Disposals (2,622) (2,622)
+At 31 July 2024 32,934 32,934
+Depreciation
+At 1 August 2023 10,403 10,403
+Charge for the year 6,152 6,152
+Eliminated on disposal (2,047) (2,047)
+At 31 July 2024 14,508 14,508
+Carrying amount
+At 31 July 2024 8 AIG BAG
+At 31 July 2023 13,116 13,116
+5 Debtors
+2024 2023
+£ £
+Trade debtors 124,622 78,340
+Other debtors 671,532 621,945
+Prepayments 26,884 23,294
+Accrued income 543,561 374,070
+1,366,599 1,097,649
+
+Page 5
+
+Knights Training Academy Limited
+
+Notes to the Unaudited Financial Statements for the Year Ended 31 July 2024
+
+6 Creditors
+
+Creditors: amounts falling due within one year
+
+2024 2023
+Note £ £
+Bank loans and overdrafts 7 10,000 10,000
+Trade creditors 161,987 133,041
+Taxation and social security 400,396 282,495
+Accruals and deferred income 29,537 42,265
+Other creditors 252,570 223,872
+854,490 691,673
+Creditors: amounts falling due after more than one year
+2024 2023
+Note £ £
+Loans and borrowings 7 8,331 18,332
+7 Loans and borrowings
+Non-current loans and borrowings
+2024 2023
+£ £
+Bank borrowings 8,331 18,332
+Current loans and borrowings
+2024 2023
+£ £
+Bank borrowings 10,000 10,000
+
+Page 6
+
+Knights Training Academy Limited
+
+Notes to the Unaudited Financial Statements for the Year Ended 31 July 2024
+
+8 Related party transactions
+
+By a deed dated 30 October 2022 the company adhered to a commercial incentive scheme under trust. During the accounting
+period the company contributed £143,000 to the Scheme. No taxation liability arose to the company as a result of such
+transaction.
+
+Interest has been charged on the director's loan account at the HMRC official interest rate.
+
+Transactions with the director
+
+At 1 August Advances to Repayments At 31 July
+
+2023 director by director 2024
+
+2024 £ £ £ £
+Loans to director 278,898 156,359 (115,000) 320,257
+278,898 156,359 (115,000) 320,257
+
+At 1 August Advances to Repayments At 31 July
+
+2022 director by director 2023
+
+2023 £ £ £ £
+Loans to director 176,477 112,733 (10,312) 278,898
+
+176,477 112,733 (10,312) 278,898
+
+Page 7
+
+This document was delivered using electronic communications and authenticated in accordance with the
+registrar's rules relating to electronic form, authentication and manner of delivery under section 1072 of
+the Companies Act 2006.
+

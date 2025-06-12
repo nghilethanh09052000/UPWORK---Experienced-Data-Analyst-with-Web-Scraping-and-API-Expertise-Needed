@@ -1,0 +1,418 @@
+Benchmark Training Limited - Accounts to registrar (filleted) - small 24.3
+IRIS Accounts Production
+v25.1.3.33
+05646590
+director
+1.1.24
+31.12.24
+31.12.24
+false
+true
+false
+false
+true
+false
+Ordinary
+1.00000
+iso4217:GBP
+iso4217:USD
+iso4217:EUR
+xbrli:shares
+xbrli:pure
+utr:tonnes
+utr:kWh
+05646590
+2023-12-31
+05646590
+2024-12-31
+05646590
+2024-01-01
+2024-12-31
+05646590
+2022-12-31
+05646590
+2023-01-01
+2023-12-31
+05646590
+2023-12-31
+05646590
+ns15:EnglandWales
+2024-01-01
+2024-12-31
+05646590
+ns14:PoundSterling
+2024-01-01
+2024-12-31
+05646590
+ns10:Director1
+2024-01-01
+2024-12-31
+05646590
+ns10:PrivateLimitedCompanyLtd
+2024-01-01
+2024-12-31
+05646590
+ns10:SmallEntities
+2024-01-01
+2024-12-31
+05646590
+ns10:AuditExempt-NoAccountantsReport
+2024-01-01
+2024-12-31
+05646590
+ns10:SmallCompaniesRegimeForDirectorsReport
+2024-01-01
+2024-12-31
+05646590
+ns10:SmallCompaniesRegimeForAccounts
+2024-01-01
+2024-12-31
+05646590
+ns10:FullAccounts
+2024-01-01
+2024-12-31
+05646590
+ns10:OrdinaryShareClass1
+2024-01-01
+2024-12-31
+05646590
+ns10:RegisteredOffice
+2024-01-01
+2024-12-31
+05646590
+ns5:CurrentFinancialInstruments
+2024-12-31
+05646590
+ns5:CurrentFinancialInstruments
+2023-12-31
+05646590
+ns5:ShareCapital
+2024-12-31
+05646590
+ns5:ShareCapital
+2023-12-31
+05646590
+ns5:CapitalRedemptionReserve
+2024-12-31
+05646590
+ns5:CapitalRedemptionReserve
+2023-12-31
+05646590
+ns5:RetainedEarningsAccumulatedLosses
+2024-12-31
+05646590
+ns5:RetainedEarningsAccumulatedLosses
+2023-12-31
+05646590
+ns5:LeaseholdImprovements
+2024-01-01
+2024-12-31
+05646590
+ns5:PlantMachinery
+2024-01-01
+2024-12-31
+05646590
+ns5:FurnitureFittings
+2024-01-01
+2024-12-31
+05646590
+ns5:MotorVehicles
+2024-01-01
+2024-12-31
+05646590
+ns5:PlantMachinery
+2023-12-31
+05646590
+ns5:PlantMachinery
+2024-12-31
+05646590
+ns5:PlantMachinery
+2023-12-31
+05646590
+ns5:WithinOneYear
+ns5:CurrentFinancialInstruments
+2024-12-31
+05646590
+ns5:WithinOneYear
+ns5:CurrentFinancialInstruments
+2023-12-31
+05646590
+ns5:WithinOneYear
+2024-12-31
+05646590
+ns5:WithinOneYear
+2023-12-31
+05646590
+ns10:OrdinaryShareClass1
+2024-12-31
+REGISTERED NUMBER:
+05646590
+(England and Wales)
+UNAUDITED FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 DECEMBER 2024
+FOR
+BENCHMARK TRAINING LIMITED
+BENCHMARK TRAINING LIMITED (REGISTERED NUMBER: 05646590)
+CONTENTS OF THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+Page
+Company Information
+1
+Balance Sheet
+2
+Notes to the Financial Statements
+3
+BENCHMARK TRAINING LIMITED
+COMPANY INFORMATION
+FOR THE YEAR ENDED 31 DECEMBER 2024
+DIRECTOR:
+D R Pepperday
+REGISTERED OFFICE:
+32 The Square
+Gillingham
+Dorset
+SP8 4AR
+REGISTERED NUMBER:
+05646590
+(England and Wales)
+ACCOUNTANTS:
+Andrews and Palmer
+Chartered Accountants
+32 The Square
+Gillingham
+Dorset
+SP8 4AR
+Page 1
+BENCHMARK TRAINING LIMITED (REGISTERED NUMBER: 05646590)
+BALANCE SHEET
+31 DECEMBER 2024
+31.12.24
+31.12.23
+Notes
+£
+£
+£
+FIXED ASSETS
+Tangible assets
+4
+50,329
+40,884
+CURRENT ASSETS
+Debtors
+5
+147,500
+236,355
+Cash at bank and in hand
+1,185,026
+739,749
+1,332,526
+976,104
+CREDITORS
+Amounts falling due within one year
+6
+295,193
+304,937
+NET CURRENT ASSETS
+1,037,333
+671,167
+TOTAL ASSETS LESS CURRENT
+LIABILITIES
+1,087,662
+712,051
+PROVISIONS FOR LIABILITIES
+11,435
+8,767
+NET ASSETS
+1,076,227
+703,284
+CAPITAL AND RESERVES
+Called up share capital
+8
+34
+34
+Capital redemption reserve
+66
+66
+Retained earnings
+1,076,127
+703,184
+SHAREHOLDERS' FUNDS
+1,076,227
+703,284
+The company is entitled to exemption from audit under Section 477 of the Companies Act 2006 for the year ended 31 December 2024.
+The members have not required the company to obtain an audit of its financial statements for the year ended 31 December 2024 in accordance with Section 476 of the Companies Act 2006.
+The director acknowledges his responsibilities for:
+(a)
+ensuring that the company keeps accounting records which comply with Sections 386 and 387 of the Companies
+Act 2006 and
+(b)
+preparing financial statements which give a true and fair view of the state of affairs of the company as at the end of
+each financial year and of its profit or loss for each financial year in accordance with the requirements of Sections
+394 and 395 and which otherwise comply with the requirements of the Companies Act 2006 relating to financial
+statements, so far as applicable to the company.
+The financial statements have been prepared and delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+In accordance with Section 444 of the Companies Act 2006, the Income Statement has not been delivered.
+The financial statements were approved by the director and authorised for issue on
+16 May 2025
+and were signed by:
+D R Pepperday
+- Director
+The notes form part of these financial statements
+Page 2
+BENCHMARK TRAINING LIMITED (REGISTERED NUMBER: 05646590)
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+1.
+STATUTORY INFORMATION
+Benchmark Training Limited is a
+private company, limited by shares
+, registered in England and Wales. The
+company's registered number and registered office address can be found on the Company Information page.
+The presentation currency of the financial statements is the Pound Sterling (£).
+2.
+ACCOUNTING POLICIES
+Basis of preparing the financial statements
+These financial statements have been prepared in accordance with Financial Reporting Standard 102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland" including the provisions of Section 1A "Small Entities" and the Companies Act 2006. The financial statements have been prepared under the historical cost convention.
+Turnover
+Turnover represents net invoiced sales of training services, excluding value added tax. Turnover is recognised in
+the period in which the service is performed.
+Tangible fixed assets
+Depreciation is provided at the following annual rates in order to write off each asset over its estimated useful life.
+Improvements to property
+-
+20% on cost
+Plant and machinery
+-
+25% on reducing balance
+Fixtures and fittings
+-
+25% on reducing balance
+Motor vehicles
+-
+25% on reducing balance
+Financial instruments
+Basic financial instruments are measured at amortised cost. Derivative financial instruments are initially recorded
+at cost and thereafter at fair value with changes recognised in profit or loss.
+Taxation
+Taxation for the year comprises current and deferred tax. Tax is recognised in the Income Statement, except to
+the extent that it relates to items recognised in other comprehensive income or directly in equity.
+Current or deferred taxation assets and liabilities are not discounted.
+Current tax is recognised at the amount of tax payable using the tax rates and laws that have been enacted or
+substantively enacted by the balance sheet date.
+Deferred tax
+Deferred tax is recognised in respect of all timing differences that have originated but not reversed at the balance
+sheet date.
+Timing differences arise from the inclusion of income and expenses in tax assessments in periods different from
+those in which they are recognised in financial statements. Deferred tax is measured using tax rates and laws that
+have been enacted or substantively enacted by the year end and that are expected to apply to the reversal of the
+timing difference.
+Unrelieved tax losses and other deferred tax assets are recognised only to the extent that it is probable that they
+will be recovered against the reversal of deferred tax liabilities or other future taxable profits.
+Hire purchase and leasing commitments
+Rentals paid under operating leases are charged to profit or loss on a straight line basis over the period of the
+lease.
+Page 3
+continued...
+BENCHMARK TRAINING LIMITED (REGISTERED NUMBER: 05646590)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+FOR THE YEAR ENDED 31 DECEMBER 2024
+2.
+ACCOUNTING POLICIES - continued
+Pension costs and other post-retirement benefits
+The company operates a defined contribution pension scheme.
+Contributions payable to the company's pension
+scheme are charged to profit or loss in the period to which they relate.
+3.
+EMPLOYEES AND DIRECTORS
+The average number of employees during the year was
+12
+(2023 -
+10
+) .
+4.
+TANGIBLE FIXED ASSETS
+Plant and
+machinery
+etc
+£
+COST
+At 1 January 2024
+70,707
+Additions
+25,281
+At 31 December 2024
+95,988
+DEPRECIATION
+At 1 January 2024
+29,823
+Charge for year
+15,836
+At 31 December 2024
+45,659
+NET BOOK VALUE
+At 31 December 2024
+50,329
+At 31 December 2023
+40,884
+5.
+DEBTORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+31.12.24
+31.12.23
+£
+£
+Trade debtors
+35,737
+126,984
+Other debtors
+111,763
+109,371
+147,500
+236,355
+6.
+CREDITORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+31.12.24
+31.12.23
+£
+£
+Trade creditors
+7,930
+19,715
+Taxation and social security
+283,167
+277,608
+Other creditors
+4,096
+7,614
+295,193
+304,937
+7.
+LEASING AGREEMENTS
+Minimum lease payments under non-cancellable operating leases fall due as follows:
+31.12.24
+31.12.23
+£
+£
+Within one year
+2,930
+2,930
+Page 4
+continued...
+BENCHMARK TRAINING LIMITED (REGISTERED NUMBER: 05646590)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+FOR THE YEAR ENDED 31 DECEMBER 2024
+8.
+CALLED UP SHARE CAPITAL
+Allotted, issued and fully paid:
+Number:
+Class:
+Nominal
+31.12.24
+31.12.23
+value:
+£
+£
+34
+Ordinary
+£1
+34
+34
+Page 5

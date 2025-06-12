@@ -1,0 +1,1879 @@
+ACCOUNTS - Final Accounts
+Caseware UK (AP4) 2023.0.135
+2023.0.135
+2024-03-31
+2024-03-31
+true
+186
+2023-04-01
+true
+true
+true
+No description of principal activity
+false
+false
+529
+false
+08058712
+2023-04-01
+2024-03-31
+08058712
+2022-04-01
+2023-03-31
+08058712
+2024-03-31
+08058712
+2023-03-31
+08058712
+2022-04-01
+08058712
+1
+2022-04-01
+2023-03-31
+08058712
+2
+2022-04-01
+2023-03-31
+08058712
+d:Exceptional
+2023-04-01
+2024-03-31
+08058712
+d:Exceptional
+2022-04-01
+2023-03-31
+08058712
+e:Director1
+2023-04-01
+2024-03-31
+08058712
+e:Director2
+2023-04-01
+2024-03-31
+08058712
+e:RegisteredOffice
+2023-04-01
+2024-03-31
+08058712
+d:FurnitureFittings
+2023-04-01
+2024-03-31
+08058712
+d:FurnitureFittings
+2024-03-31
+08058712
+d:FurnitureFittings
+2023-03-31
+08058712
+d:FurnitureFittings
+d:OwnedOrFreeholdAssets
+2023-04-01
+2024-03-31
+08058712
+d:ComputerEquipment
+2023-04-01
+2024-03-31
+08058712
+d:ComputerEquipment
+2024-03-31
+08058712
+d:ComputerEquipment
+2023-03-31
+08058712
+d:ComputerEquipment
+d:OwnedOrFreeholdAssets
+2023-04-01
+2024-03-31
+08058712
+d:OtherPropertyPlantEquipment
+2023-04-01
+2024-03-31
+08058712
+d:OtherPropertyPlantEquipment
+2024-03-31
+08058712
+d:OtherPropertyPlantEquipment
+2023-03-31
+08058712
+d:OtherPropertyPlantEquipment
+d:OwnedOrFreeholdAssets
+2023-04-01
+2024-03-31
+08058712
+d:OwnedOrFreeholdAssets
+2023-04-01
+2024-03-31
+08058712
+d:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2024-03-31
+08058712
+d:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2023-03-31
+08058712
+d:CurrentFinancialInstruments
+2024-03-31
+08058712
+d:CurrentFinancialInstruments
+2023-03-31
+08058712
+d:CurrentFinancialInstruments
+d:WithinOneYear
+2024-03-31
+08058712
+d:CurrentFinancialInstruments
+d:WithinOneYear
+2023-03-31
+08058712
+d:ReportableOperatingSegment1
+2023-04-01
+2024-03-31
+08058712
+d:ReportableOperatingSegment1
+2022-04-01
+2023-03-31
+08058712
+f:UnitedKingdom
+2023-04-01
+2024-03-31
+08058712
+f:UnitedKingdom
+2022-04-01
+2023-03-31
+08058712
+d:UKTax
+2023-04-01
+2024-03-31
+08058712
+d:UKTax
+2022-04-01
+2023-03-31
+08058712
+d:ShareCapital
+2023-04-01
+2024-03-31
+08058712
+d:ShareCapital
+2024-03-31
+08058712
+d:ShareCapital
+2022-04-01
+2023-03-31
+08058712
+d:ShareCapital
+2023-03-31
+08058712
+d:ShareCapital
+2022-04-01
+08058712
+d:SharePremium
+2023-04-01
+2024-03-31
+08058712
+d:SharePremium
+2024-03-31
+08058712
+d:SharePremium
+2022-04-01
+2023-03-31
+08058712
+d:SharePremium
+2023-03-31
+08058712
+d:SharePremium
+2022-04-01
+08058712
+d:SharePremium
+1
+2022-04-01
+2023-03-31
+08058712
+d:SharePremium
+2
+2022-04-01
+2023-03-31
+08058712
+d:RetainedEarningsAccumulatedLosses
+2023-04-01
+2024-03-31
+08058712
+d:RetainedEarningsAccumulatedLosses
+2024-03-31
+08058712
+d:RetainedEarningsAccumulatedLosses
+2022-04-01
+2023-03-31
+08058712
+d:RetainedEarningsAccumulatedLosses
+2023-03-31
+08058712
+d:RetainedEarningsAccumulatedLosses
+2022-04-01
+08058712
+d:RetainedEarningsAccumulatedLosses
+2
+2022-04-01
+2023-03-31
+08058712
+d:AcceleratedTaxDepreciationDeferredTax
+2024-03-31
+08058712
+d:AcceleratedTaxDepreciationDeferredTax
+2023-03-31
+08058712
+d:OtherDeferredTax
+2024-03-31
+08058712
+d:OtherDeferredTax
+2023-03-31
+08058712
+d:FurtherSpecificTypeProvisionContingentLiability1ComponentTotalProvisionsContingentLiabilities
+2023-04-01
+2024-03-31
+08058712
+d:FurtherSpecificTypeProvisionContingentLiability1ComponentTotalProvisionsContingentLiabilities
+2024-03-31
+08058712
+d:FurtherSpecificTypeProvisionContingentLiability1ComponentTotalProvisionsContingentLiabilities
+2023-03-31
+08058712
+d:FurtherSpecificTypeProvisionContingentLiability2ComponentTotalProvisionsContingentLiabilities
+2023-04-01
+2024-03-31
+08058712
+d:FurtherSpecificTypeProvisionContingentLiability2ComponentTotalProvisionsContingentLiabilities
+2024-03-31
+08058712
+d:FurtherSpecificTypeProvisionContingentLiability2ComponentTotalProvisionsContingentLiabilities
+2023-03-31
+08058712
+e:OrdinaryShareClass1
+2023-04-01
+2024-03-31
+08058712
+e:OrdinaryShareClass1
+2024-03-31
+08058712
+e:OrdinaryShareClass1
+2023-03-31
+08058712
+e:FRS102
+2023-04-01
+2024-03-31
+08058712
+e:Audited
+2023-04-01
+2024-03-31
+08058712
+e:FullAccounts
+2023-04-01
+2024-03-31
+08058712
+e:PrivateLimitedCompanyLtd
+2023-04-01
+2024-03-31
+08058712
+d:WithinOneYear
+2024-03-31
+08058712
+d:WithinOneYear
+2023-03-31
+08058712
+d:BetweenOneFiveYears
+2024-03-31
+08058712
+d:BetweenOneFiveYears
+2023-03-31
+08058712
+d:DevelopmentCostsCapitalisedDevelopmentExpenditure
+d:InternallyGeneratedIntangibleAssets
+2023-04-01
+2024-03-31
+08058712
+4
+2023-04-01
+2024-03-31
+08058712
+d:DevelopmentCostsCapitalisedDevelopmentExpenditure
+d:OwnedIntangibleAssets
+2023-04-01
+2024-03-31
+08058712
+g:PoundSterling
+2023-04-01
+2024-03-31
+iso4217:GBP
+xbrli:shares
+xbrli:pure
+Company registration number:
+08058712
+ANNUAL REPORT AND FINANCIAL STATEMENTS
+FOR THE YEAR ENDED
+31 MARCH 2024
+INSPIRO LEARNING LIMITED
+INSPIRO LEARNING LIMITED
+COMPANY INFORMATION
+Directors
+D Travis
+S Wilson
+Registered number
+08058712
+Registered office
+105 Piccadilly
+London
+England
+W1J 7NJ
+Independent auditors
+Menzies LLP
+Chartered Accountants
+&
+Statutory Auditor
+3000a Parkway
+Whiteley
+Hampshire
+PO15 7FX
+INSPIRO LEARNING LIMITED
+CONTENTS
+Page
+Strategic report
+1 - 2
+Directors' report
+3 - 4
+Independent auditors' report
+5 - 8
+Statement of comprehensive income
+9
+Statement of financial position
+10
+Statement of changes in equity
+11
+Notes to the financial statements
+12 - 23
+INSPIRO LEARNING LIMITED
+STRATEGIC REPORT
+FOR THE YEAR ENDED 31 MARCH 2024
+Introduction
+Inspiro Learning Limited is a national multisector training provider, providing apprenticeships and commercial training across the UK. Government funding is through the Education and Skills Funding Agency (“ESFA”), Skills Development Scotland, the Department for the Economy Northern Ireland  and, via a subcontracting agreement, the Welsh Assembly Government and, the apprenticeship Levy. Funding for commercial programmes is via bespoke contractual agreements with customers.
+Business review
+This is the first full year of trading after acquiring the trade and assets of certain training contracts across the automotive, rail, nuclear and service sectors from Babcock Training Ltd. On 1 February 2023, the company was acquired by Inspirit Capital, at which point the company changed its name from Babcock Skills Development & Training Limited to Inspiro Learning Limited. Inspiro Learning Limited has undergone an extensive programme of activities to separate itself from the Babcock Group systems and processes and this was completed at the start of 2024, in line with plans and is now operating as a standalone entity. The company ceased to be part of the Babcock Group on 1 February 2023.
+A strategy for growth has been developed in conjunction with our shareholders who work with the business to review progress against those plans and input into the development of this strategy.
+We continue to make investment in developing learning solutions to suit the changing needs of both employers and learners whilst further developing skills and capabilities in our people.
+Principal risks and uncertainties
+The key risks and uncertainties affecting the Company are considered to be related to changes in government policy, budget allocations and the changing political and regulatory environment. The Directors manage this risk by having regular dialogue with government funding bodies and by ensuring the business adapts to those changes and those of employers.
+Government Education Policy Risk
+The company generates a proportion of its revenue from training activities influenced and in part funded ultimately by government sources. Changes to UK Government and/or the policy initiatives they pursue in respect of education and training is both a risk and opportunity to the Company futures growth aspirations.
+Regulatory Risk
+The Board of Directors maintain an up-to-date knowledge of general regulatory risk associated with the undertaking of the business in its marketplace. General regulatory frameworks include but not limited to those areas of Health and Safety, Safeguarding, Employment Law, and Data Protection Law. Risk is managed through the adoption of policies and procedures that address each area.
+Price risk
+The Company is exposed to price risk as a result of its operations. The board closely monitors changes to prices across its markets and reacts appropriately to such changes on a timely basis where this is deemed appropriate. This includes price changes enforced by government legislation changes.
+Credit risk
+A key trade debtor of the company is the Education and Skills Funding Agency (ESFA), although there is an onward risk whereby, we require the employer partners that we work with to pay their apprenticeship levy to allow the ESFA to release the funding to us. The Company ensures that it is in compliance with the requirements set out in the contract between the Company and the ESFA to manage the credit risk. Strong relationships are maintained with customers to ensure that all performance obligations are met thereby managing any credit risk on a regular basis.
+Liquidity risk
+Liquidity risk is managed through regular monitoring of short-term cash flows as well as medium and long-term scenario planning.
+Page 1
+INSPIRO LEARNING LIMITED
+STRATEGIC REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 MARCH 2024
+Financial key performance indicators
+The performance of the business is monitored at various levels, from overall Company performance down to individual operating business units and teams.  Detailed management financial statements are produced on a monthly basis, being reviewed at various levels throughout the company with those accountable for the performance.
+The key profit and loss performance measures considered by the board and management are turnover, gross profit and margin and EBITDA.
+Aside from the performance as presented on the profit and loss account, cash flow and associated Balance Sheet positions are monitored. The ESFA uses financial health as a measure of an organisation’s financial status in terms of its ability to meet ongoing financial commitments. This health check is reviewed at every Board meeting and we consistently achieve the highest rating for both historic periods and for future looking periods.
+2024
+2023
+£
+£
+Turnover
+44,468,465
+22,137,138
+Gross Profit
+11,645,578
+6,615,438
+EBITDA
+4,545,285
+2,226,453
+EBITDA disclosed above is an internal measure.
+Other key performance indicators
+There are other non-financial key performance indicators monitored by the business, many of which are of particular relevance to the activities. Measures that are monitored include but not limited to trainer activity levels, learner enrolment levels, timeliness of learner progression, learner achievement rates, the quality of teacher provision, and both learner and customer satisfaction.
+This report was approved by the board
+and signed on its behalf
+.
+S Wilson
+Director
+Date:
+4 December 2024
+Page 2
+INSPIRO LEARNING LIMITED
+DIRECTORS' REPORT
+FOR THE YEAR ENDED 31 MARCH 2024
+The
+directors
+present
+their
+report and the
+financial statements
+for the
+year
+ended
+31 March 2024
+.
+Directors' responsibilities statement
+The
+directors
+are
+responsible for preparing the
+Strategic report, the Directors' report and the
+financial statements
+in accordance with
+applicable law and regulations
+.
+Company law
+requires
+the
+directors
+to prepare
+financial statements
+for each financial
+year
+. Under that law the directors have elected to prepare the financial statements in accordance with applicable law and United Kingdom Accounting Standards (United Kingdom Generally Accepted Accounting Practice), including Financial Reporting Standard 102 ‘The Financial Reporting Standard applicable in the UK and Republic of Ireland'. Under company law the directors must not approve the financial statements unless they are satisfied that they give
+a true and fair view of the state of affairs of the
+Company
+and of the
+profit or loss
+of the
+Company
+for that period.
+In preparing these financial statements, the directors are required to:
+∙
+select suitable
+accounting policies for the Company's financial statements
+and then apply them consistently;
+∙
+make
+judgments
+and accounting estimates that are reasonable and prudent;
+∙
+prepare the
+financial statements
+on the going concern basis
+unless it is inappropriate to presume that the Company will continue in business
+.
+The
+directors
+are
+responsible for keeping
+adequate
+accounting records that are sufficient to show and explain the Company's transactions and
+disclose with reasonable accuracy at any time the financial position of the
+Company
+and to enable
+them
+to ensure that the
+financial statements
+comply with the Companies Act 2006
+.
+They are
+also responsible for safeguarding the assets of the
+Company
+and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+Results and dividends
+The
+profit
+for the
+year
+, after taxation, amounted to
+£
+2,243,434
+(2023 -
+£
+1,804,118
+)
+.
+Details of dividends declared and paid are disclosed in note 11.
+Directors
+The
+directors
+who served during the
+year
+were:
+D Travis
+S Wilson
+Future developments
+The Board of Directors are satisfied with the trading performance for the first full year and separation costs were in line with expectations and delivered on time. We continue to look at opportunities for growth by working closely with our customers to develop effective training programmes which deliver a return on investment to employers.
+Disclosure of information to auditors
+Each of the persons who are
+directors
+at the time when this
+Directors' report
+is approved has confirmed that:
+∙
+so far as
+the director
+is aware, there is no relevant audit information of which the
+Company
+'s auditor
+s
+are
+unaware, and
+∙
+the director
+has taken all the steps that ought to have been taken as a
+director
+in order to be aware of any relevant audit information and to establish that the
+Company
+'s auditor
+s
+are
+aware of that information.
+Page 3
+INSPIRO LEARNING LIMITED
+DIRECTORS' REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 MARCH 2024
+Post balance sheet events
+There have been no significant events affecting the
+Company
+since the year end.
+Auditors
+Under
+section 487(2) of the Companies Act 2006
+,
+Menzies LLP
+will be deemed to have been reappointed as auditor 28 days after these
+financial statements
+were sent to members or 28 days after the latest date prescribed for filing the accounts with the registrar, whichever is earlier.
+This report was approved by the
+board
+and signed on
+its
+behalf.
+S Wilson
+Director
+Date:
+4 December 2024
+Page 4
+INSPIRO LEARNING LIMITED
+INDEPENDENT AUDITORS' REPORT TO THE MEMBERS OF INSPIRO LEARNING LIMITED
+Opinion
+We
+have audited the
+financial statements
+of
+Inspiro Learning Limited (the 'Company')
+for the
+year
+ended
+31 March 2024
+, which comprise
+the Statement of comprehensive income, the Statement of financial position, the Statement of changes in equity
+and the related notes, including a summary of significant accounting policies
+.
+The financial reporting framework that has been applied in their preparation is applicable law
+and United Kingdom Accounting Standards,
+including Financial Reporting Standard 102 ‘The Financial Reporting Standard applicable in the UK and Republic of Ireland' (United Kingdom Generally Accepted Accounting Practice).
+In
+our
+opinion
+the financial statements
+:
+∙
+give a true and fair view of the state of the
+Company's
+affairs as at
+31 March 2024
+and of
+its
+profit
+for the
+year
+then ended;
+∙
+have been properly prepared in accordance with
+United Kingdom
+Generally Accepted Accounting Practice; and
+∙
+have been prepared in accordance with the requirements of the Companies Act 2006.
+Basis for opinion
+We
+conducted
+our
+audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and applicable law.
+Our
+responsibilities under those standards are further described in the
+Auditors'
+responsibilities for the audit of the
+financial statements
+section of
+our
+report.
+We
+are
+independent of the
+Company
+in accordance with the ethical requirements that are relevant to
+our
+audit of the
+financial statements
+in the United Kingdom, including the Financial Reporting Council's Ethical Standard
+and
+we
+have fulfilled
+our
+other ethical responsibilities in accordance with these requirements.
+We
+believe that the audit evidence
+we
+have obtained is sufficient and appropriate to provide a basis for
+our
+opinion.
+Conclusions relating to going concern
+In auditing the financial statements,
+we
+have concluded that the
+directors'
+use of the going concern basis of accounting in the preparation of the financial statements is appropriate.
+Based on the work
+we
+have performed,
+we
+have not identified any material uncertainties relating to events or conditions that, individually or collectively, may cast significant doubt on the
+Company's
+ability to continue as a going concern for a period of at least twelve months from when the financial statements are authorised for issue.
+Our
+responsibilities and the responsibilities of the
+directors
+with respect to going concern are described in the relevant sections of this report.
+Other information
+The other information comprises the information included in the
+Annual Report
+other than the financial statements and
+our
+Auditors' report
+thereon. The
+directors
+are
+responsible for the other information contained within the
+Annual Report
+.
+Our
+opinion on the financial statements does not cover the other information and
+, except to the extent otherwise explicitly stated in our report,
+we
+do not express any form of assurance conclusion thereon.
+Our
+responsibility is to read the other information and, in doing so, consider whether the other information is materially inconsistent with the financial statements or
+our
+knowledge obtained in the course of the audit, or otherwise appears to be materially misstated. If
+we
+identify such material inconsistencies or apparent material misstatements,
+we
+are
+required to determine whether this gives rise to a material misstatement in the financial statements themselves. If, based on the work
+we
+have performed,
+we
+conclude that there is a material misstatement of this other information,
+we
+are
+required to report that fact.
+We
+have nothing to report in this regard.
+Page 5
+INSPIRO LEARNING LIMITED
+INDEPENDENT AUDITORS' REPORT TO THE MEMBERS OF INSPIRO LEARNING LIMITED (CONTINUED)
+Opinion on other matters prescribed by the Companies Act 2006
+In
+our
+opinion, based on the work undertaken in the course of the audit:
+∙
+the information given in the
+Strategic report and the Directors' report
+for the financial
+year
+for which the
+financial statements
+are prepared is consistent with the
+financial statements
+; and
+∙
+the
+Strategic report and the Directors' report
+have
+been prepared in accordance with applicable legal requirements.
+Matters on which we are required to report by exception
+In the light of the knowledge and understanding of the
+Company
+and its environment obtained in the course of the audit,
+we
+have not identified material misstatements in the
+Strategic report or the Directors' report
+.
+We
+have nothing to report in respect of the following matters in relation to which
+the Companies Act 2006
+requires
+us
+to report to you if, in
+our
+opinion:
+∙
+adequate accounting records have not been
+kept
+, or returns adequate for
+our
+audit have not been received from branches not visited by
+us
+; or
+∙
+the
+financial statements
+are not in agreement with the accounting records and returns; or
+∙
+certain disclosures of
+directors
+'
+remuneration specified by law are not made; or
+∙
+we
+have not received all the information and explanations
+we
+require for
+our
+audit
+.
+Responsibilities of directors
+As explained more fully in the
+Directors' responsibilities statement
+set out on page 3, the
+directors
+are
+responsible for the preparation of the
+financial statements
+and for being satisfied that they give a true and fair view, and for such internal control as the
+directors
+determine
+is necessary to enable the preparation of
+financial statements
+that are free from material misstatement, whether due to fraud or error.
+In preparing the
+financial statements
+, the
+directors
+are
+responsible for assessing the
+Company
+'s ability to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless the
+directors
+either
+intend
+to liquidate the
+Company
+or to cease operations, or have no realistic alternative but to do so.
+Page 6
+INSPIRO LEARNING LIMITED
+INDEPENDENT AUDITORS' REPORT TO THE MEMBERS OF INSPIRO LEARNING LIMITED (CONTINUED)
+Auditors' responsibilities for the audit of the financial statements
+Our
+objectives are to obtain reasonable assurance about whether the
+financial statements
+as a whole are free from material misstatement, whether due to fraud or error, and to issue an
+Auditors' report
+that includes
+our
+opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with ISAs (UK) will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these
+financial statements
+.
+Irregularities, including fraud, are instances of non-compliance with laws and regulations.
+We
+design procedures in line with
+our
+responsibilities, outlined above, to detect material misstatements in respect of irregularities, including fraud. The extent to which
+our
+procedures are capable of detecting irregularities, including fraud is detailed below:
+∙
+The Company is subject to laws and regulations that directly affect the financial statements including financial
+reporting legislation, and general regulations such as health and safety and general data protection regulation. There are no industry specific laws and regulations which would be deemed to have a significant impact on the financial statements. We assessed the extent of compliance with the appropriate laws and regulations as part of our
+procedures on the related financial statement items.
+∙
+We understood how the Company is complying with the legal and regulatory frameworks by, making inquiries to management, those responsible for legal and compliance procedures.
+The engagement partner assessed whether the engagement team collectively had the appropriate competence and capabilities to identify or recognize non-compliance with laws and regulations. The assessment did not identify any issues in this area.
+∙
+We assessed the susceptibility of the Company financial statements to material misstatement, including how fraud might occur. Audit procedures performed by the engagement team included:
+°
+Identifying and assessing the design effectiveness of controls management has in place to prevent and detect fraud;
+°
+Understanding how those charged with governance considered and addressed the potential for override of
+controls or other inappropriate influence over the financial reporting process;
+°
+Challenging assumptions and judgments made by management in its significant accounting estimates; and
+°
+Identifying and testing journal entries, in particular any journal entries posted with unusual account
+combinations.
+∙
+As a result of the above procedures, we considered the opportunities and incentives that may exist within the organisation for fraud and identified the greatest potential for fraud in the following areas:
+°
+Posting of unusual journals and complex transactions.
+°
+Misappropriation of funds through fraudulent purchase ledger and payroll activity.
+°
+Manipulation of amounts subject to significant judgment or estimate.
+Because of the inherent limitations of an audit, there is a risk that
+we
+will not detect all irregularities, including those leading to a material misstatement in the
+financial statements
+or non-compliance with regulation. This risk increases the more that compliance with a law or regulation is removed from the events and transactions reflected in the
+financial statements
+, as
+we
+will be less likely to become aware of instances of non-compliance. The risk is also greater regarding irregularities occurring due to fraud rather than error, as fraud involves intentional concealment, forgery, collusion, omission or misrepresentation.
+A further description of
+our
+responsibilities for the audit of the
+financial statements
+is located on the Financial Reporting Council's website at:
+www.frc.org.uk/auditorsresponsibilities
+. This description forms part of
+our
+Auditors' report
+.
+Page 7
+INSPIRO LEARNING LIMITED
+INDEPENDENT AUDITORS' REPORT TO THE MEMBERS OF INSPIRO LEARNING LIMITED (CONTINUED)
+Use of our report
+This report is made solely to the
+Company
+'s
+members, as a body,
+in accordance with Chapter 3 of Part 16 of the Companies Act 2006
+.
+Our
+audit work has been undertaken so that
+we
+might state to the
+Company
+'s
+members
+those matters
+we
+are
+required to state to them in an
+Auditors' report
+and for no other purpose. To the fullest extent permitted by law,
+we
+do not accept or assume responsibility to anyone other than the
+Company
+and the
+Company
+'s
+members, as a body,
+for
+our
+audit work, for this report, or for the opinions
+we
+have formed.
+James Hadfield FCA
+(Senior statutory auditor)
+for and on behalf of
+Menzies LLP
+Chartered Accountants
+Statutory Auditor
+3000a Parkway
+Whiteley
+Hampshire
+PO15 7FX
+5 December 2024
+Page 8
+INSPIRO LEARNING LIMITED
+STATEMENT OF COMPREHENSIVE INCOME
+FOR THE YEAR ENDED
+31 MARCH 2024
+2024
+2023
+Note
+£
+£
+Turnover
+4
+44,468,465
+22,137,138
+Cost of sales
+(
+32,817,628
+)
+(
+15,521,700
+)
+Exceptional cost of sales
+12
+(
+5,259
+)
+-
+Gross profit
+11,645,578
+6,615,438
+Administrative expenses
+(
+7,323,356
+)
+(
+4,407,315
+)
+Exceptional administrative expenses
+12
+(
+2,124,173
+)
+-
+Operating profit
+5
+2,198,049
+2,208,123
+Interest payable and similar expenses
+9
+(
+4,340
+)
+(
+4,139
+)
+Profit before tax
+2,193,709
+2,203,984
+Tax on profit
+10
+49,725
+(
+399,866
+)
+Profit for the financial year
+2,243,434
+1,804,118
+There was no other comprehensive income for
+2024
+(
+2023
+:
+£
+NIL
+).
+The notes on pages 12 to 23 form part of these
+financial statements
+.
+Page 9
+INSPIRO LEARNING LIMITED
+REGISTERED NUMBER:
+08058712
+STATEMENT OF FINANCIAL POSITION
+AS AT
+31 MARCH 2024
+2024
+2023
+Note
+£
+£
+Fixed assets
+Intangible assets
+13
+311,254
+-
+Tangible assets
+14
+466,738
+87,983
+777,992
+87,983
+Current assets
+Debtors: amounts falling due within one year
+15
+14,618,348
+12,005,857
+Cash at bank and in hand
+4,779,089
+2,437,224
+19,397,437
+14,443,081
+Creditors: amounts falling due within one year
+16
+(
+10,435,155
+)
+(
+7,151,944
+)
+Net current assets
+8,962,282
+7,291,137
+Total assets less current liabilities
+9,740,274
+7,379,120
+Provisions for liabilities
+Deferred tax
+17
+(
+19,816
+)
+-
+Other provisions
+18
+(
+180,000
+)
+(
+82,096
+)
+(
+199,816
+)
+(
+82,096
+)
+Net assets
+9,540,458
+7,297,024
+Capital and reserves
+Called up share capital
+19
+111
+111
+Profit and loss account
+20
+9,540,347
+7,296,913
+9,540,458
+7,297,024
+The
+financial statements
+were approved and authorised for issue by the
+board
+and were signed on
+its
+behalf
+by
+:
+S Wilson
+Director
+Date:
+4 December 2024
+The notes on pages 12 to 23 form part of these financial statements.
+Page 10
+INSPIRO LEARNING LIMITED
+STATEMENT OF CHANGES IN EQUITY
+FOR THE YEAR ENDED
+31 MARCH 2024
+Called up share capital
+Share premium account
+Profit and loss account
+Total equity
+£
+£
+£
+£
+At 1 April 2022
+111
+29,999,890
+(
+10,839,095
+)
+19,160,906
+Profit for the year
+-
+-
+1,804,118
+1,804,118
+Total comprehensive income for the year
+-
+-
+1,804,118
+1,804,118
+Contributions by and distributions to owners
+Dividends: Equity capital
+-
+-
+(
+13,668,000
+)
+(
+13,668,000
+)
+Transfer to Profit & Loss Account
+-
+(
+29,999,890
+)
+-
+(
+29,999,890
+)
+Transfer from Share Premium Reserve
+-
+-
+29,999,890
+29,999,890
+Total transactions with owners
+-
+(
+29,999,890
+)
+16,331,890
+(
+13,668,000
+)
+At 1 April 2023
+111
+-
+7,296,913
+7,297,024
+Profit for the year
+-
+-
+2,243,434
+2,243,434
+Total comprehensive income for the year
+-
+-
+2,243,434
+2,243,434
+At 31 March 2024
+111
+-
+9,540,347
+9,540,458
+The notes on pages 12 to 23 form part of these
+financial statements
+.
+Page 11
+INSPIRO LEARNING LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MARCH 2024
+1.
+General information
+Inspiro Learning Limited is a private company limited by shares, incorporated in England and Wales. The address of its registered office is disclosed on the company information page.
+2.
+Accounting policies
+2.1
+Basis of preparation of financial statements
+The
+financial statements
+have been prepared under the historical cost convention unless otherwise specified within these accounting policies and in accordance with
+Financial Reporting Standard 102, the Financial Reporting Standard applicable in
+the UK and the Republic of Ireland and the Companies Act 2006
+.
+The preparation of
+financial statements
+in compliance with FRS
+102
+requires the use of certain critical accounting estimates. It also requires management to exercise
+judgment
+in applying the
+Company
+'s
+accounting policies
+(see note 3).
+The following principal
+accounting policies
+have been applied:
+2.2
+Financial Reporting Standard 102 - reduced disclosure exemptions
+The
+Company
+has taken advantage of the following disclosure exemptions in preparing these financial statements, as permitted by the FRS 102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland":
+∙
+the requirements of Section 7 Statement of Cash Flows
+;
+∙
+the requirements of Section 3 Financial Statement Presentation paragraph 3.17(d)
+;
+∙
+the requirements of Section 33 Related Party Disclosures paragraph 33.7
+.
+This information is included in the consolidated financial statements of
+Inspirit Tulip Topco Limited
+as at
+31 March 2024
+and these financial statements may be obtained from
+2 Babmaes Street, London SW1Y 6HD
+.
+2.3
+Revenue
+Revenue
+is recognised to the extent that it is probable that the economic benefits will flow to the
+Company
+and the
+revenue
+can be reliably measured.
+Revenue
+is measured as the fair value of the consideration received or receivable, excluding discounts, rebates, value added tax and other sales taxes. The following criteria must also be met before
+revenue
+is recognised:
+Rendering of services
+Revenue
+from a contract to provide services is recognised in the period in which the services are provided in accordance with the stage of completion of the contract when all of the following conditions are satisfied:
+∙
+the amount of
+revenue
+can be measured reliably;
+∙
+it is probable that the
+Company
+will receive the consideration due under the contract;
+∙
+the stage of completion of the contract at the end of the reporting period can be measured reliably; and
+∙
+the costs incurred and the costs to complete the contract can be measured reliably.
+2.4
+Operating leases: the Company as lessee
+Rentals paid under operating leases are charged to profit or loss on a straight-line basis over the lease term.
+Benefits received and receivable as an incentive to sign an operating lease are recognised on a straight-line basis over the lease term, unless another systematic basis is representative of the time pattern of the lessee's benefit from the use of the leased asset.
+Page 12
+INSPIRO LEARNING LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MARCH 2024
+2.
+Accounting policies (continued)
+2.5
+Research and development
+In the research phase of an internal project it is not possible to demonstrate that the project will generate future economic benefits and hence all expenditure on research shall be recognised as an expense when it is incurred. Intangible assets are recognised from the development phase of a project if and only if certain specific criteria are met in order to demonstrate the asset will generate probable future economic benefits and that its cost can be reliably measured. The capitalised development costs are subsequently amortised on a straight-line basis over their useful economic lives, which range from 3 to 6 years.
+If it is not possible to distinguish between the research phase and the development phase of an internal project, the expenditure is treated as if it were all incurred in the research phase only.
+2.6
+Finance costs
+Finance costs are charged to profit or loss over the term of the debt using the effective interest method so that the amount charged is at a constant rate on the carrying amount. Issue costs are initially recognised as a reduction in the proceeds of the associated capital instrument.
+2.7
+Borrowing costs
+All borrowing costs are recognised in profit or loss in the
+year
+in which they are incurred.
+2.8
+Pensions
+Defined contribution pension plan
+The
+Company
+operates a defined contribution plan for its employees. A defined contribution plan is a pension plan under which the
+Company
+pays fixed contributions into a separate entity. Once the contributions have been paid the
+Company
+has no further payment obligations.
+The contributions are recognised as an expense in profit or loss when they fall due. Amounts not paid are shown in accruals as a liability in the
+Statement of financial position
+. The assets of the plan are held separately from the
+Company
+in independently administered funds.
+Page 13
+INSPIRO LEARNING LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MARCH 2024
+2.
+Accounting policies (continued)
+2.9
+Current and deferred taxation
+The tax expense for the year comprises current and deferred tax.
+Tax is recognised in profit or loss except that a charge attributable to an item of income and expense recognised as other comprehensive income or to an item recognised directly in equity is also recognised in other comprehensive income or directly in equity respectively.
+The current income tax charge is calculated on the basis of tax rates and laws that have been enacted or substantively enacted by the
+reporting date
+in the countries where the
+Company operates and generates income
+.
+Deferred tax balances are recognised in respect of all timing differences that have originated but not reversed by the
+reporting date
+, except that:
+∙
+The recognition of deferred tax assets is limited to the extent that it is probable that they will be recovered against the reversal of deferred tax liabilities or other future taxable profits
+; and
+∙
+Any deferred tax balances are reversed if and when all conditions for retaining associated tax allowances have been met
+.
+Deferred tax balances are not recognised in respect of permanent differences except in respect of business combinations, when deferred tax is recognised on the differences between the fair values of assets acquired and the future tax deductions available for them and the differences between the fair values of liabilities acquired and the amount that will be assessed for tax. Deferred tax is determined using tax rates and laws that have been enacted or substantively enacted by the
+reporting date
+.
+2.10
+Exceptional items
+Exceptional items are transactions that fall within the ordinary activities of the
+Company
+but are presented separately due to their size or incidence.
+2.11
+Tangible fixed assets
+Tangible fixed assets under the cost model are stated at historical cost less accumulated depreciation and any accumulated impairment losses. Historical cost includes expenditure that is directly attributable to bringing the asset to the location and condition necessary for it to be capable of operating in the manner intended by management.
+Depreciation is charged so as to allocate the cost of assets less their residual value over their estimated useful lives,
+using the straight-line method
+.
+Depreciation is provided on the following basis:
+Fixtures and fittings
+-
+33.3% - 66.6% straight line
+Computer equipment
+-
+33.3% straight line
+Other fixed assets
+-
+66.6% straight line
+The assets' residual values, useful lives and depreciation methods are reviewed, and adjusted prospectively if appropriate, or if there is an indication of a significant change since the last reporting date.
+Gains and losses on disposals are determined by comparing the proceeds with the carrying amount and are recognised in profit or loss.
+Page 14
+INSPIRO LEARNING LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MARCH 2024
+2.
+Accounting policies (continued)
+2.12
+Provisions for liabilities
+Provisions are recognised when an event has taken place that gives rise to a legal or constructive obligation, a transfer of economic benefits is probable and a reliable estimate can be made.
+Provisions are measured as the best estimate of the amount required to settle the obligation, taking into account the related risks and uncertainties.
+Increases in provisions are generally charged as an expense to profit or loss.
+2.13
+Financial instruments
+The
+Company
+has elected to apply the provisions of Section 11 “Basic Financial Instruments” of FRS 102 to all of its financial instruments.
+Financial instruments are recognised in the
+Company's
+Statement of financial position
+when the
+Company
+becomes party to the contractual provisions of the instrument.
+Financial assets and liabilities are offset, with the net amounts presented in the financial statements, when there is a legally enforceable right to set off the recognised amounts and there is an intention to settle on a net basis or to realise the asset and settle the liability simultaneously.
+Basic financial assets
+Basic financial assets, which include trade and other receivables, cash and bank balances, are initially measured at their transaction price including transaction costs and are subsequently carried at their amortised cost using the effective interest method, less any provision for impairment, unless the arrangement constitutes a financing transaction, where the transaction is measured at the present value of the future receipts discounted at a market rate of interest.
+Discounting is omitted where the effect of discounting is immaterial. The
+Company's
+cash and cash equivalents, trade and most other receivables due with the operating cycle fall into this category of financial instruments.
+Financial liabilities
+Financial liabilities and equity instruments are classified according to the substance of the contractual arrangements entered into. An equity instruments any contract that evidences a residual interest in the assets of the
+Company
+after the deduction of all its liabilities.
+Basic financial liabilities, which include trade and other payables, bank loans
+and
+other loans are initially measured at their transaction price after transaction costs. When this constitutes a financing transaction, whereby the debt instrument is measured at the present value of the future receipts discounted at a market rate of interest. Discounting is omitted where the effect of discounting is immaterial.
+Debt instruments are subsequently carried at their amortised cost using the effective interest rate method.
+Trade payables are obligations to pay for goods and services that have been acquired in the ordinary course of business from suppliers. Trade payables are classified as current liabilities if the payment is due within one year. If not, they represent non-current liabilities. Trade payables are initially recognised at their transaction price and subsequently are measured at amortised cost using the effective interest method. Discounting is omitted where the effect of discounting is immaterial.
+Page 15
+INSPIRO LEARNING LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MARCH 2024
+2.
+Accounting policies (continued)
+2.14
+Dividends
+Equity dividends are recognised when they become legally payable. Interim equity dividends are recognised when paid. Final equity dividends are recognised when approved by the shareholders at an annual general meeting.
+3.
+Judgments in applying accounting policies and key sources of estimation uncertainty
+The company's revenue recognition policies require management to make an estimate of the cost to complete for long-term contracts. Management estimates outturn costs on a contract-by-contract basis and estimates are carried out by suitably qualified and experienced personnel. Estimates of cost to complete include assessment of contract contingencies arising out of technical, commercial, operational and other risks. The assessments of all significant contract outturns are subject to review and challenge, and judgements and estimates are reviewed regularly throughout the contract life based on latest available information and adjustments are made where necessary. As contracts near completion, often less judgement is required to determine the expected outturn.
+4.
+Turnover
+An analysis of turnover by class of business is as follows:
+2024
+2023
+£
+£
+Rendering of services
+44,468,465
+22,137,138
+44,468,465
+22,137,138
+Analysis of turnover by country of destination:
+2024
+2023
+£
+£
+United Kingdom
+44,468,465
+22,137,138
+44,468,465
+22,137,138
+5.
+Operating profit
+The operating profit is stated after charging:
+2024
+2023
+£
+£
+Exchange differences
+297
+1,184
+Other operating lease rentals
+56,575
+43,036
+Depreciation
+182,495
+18,330
+Amortisation
+35,008
+-
+Page 16
+INSPIRO LEARNING LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MARCH 2024
+6.
+Auditors' remuneration
+During the
+year
+, the
+Company
+obtained the following services from the
+Company
+'s
+auditors
+:
+2024
+2023
+£
+£
+Fees payable to the Company's auditors for the audit of the Company's financial statements
+15,000
+13,000
+The
+Company
+has taken advantage of the exemption not to disclose amounts paid for non-audit services as these are disclosed in the consolidated accounts of the parent
+Company
+.
+7.
+Employees
+Staff costs
+, including directors' remuneration,
+were as follows:
+2024
+2023
+£
+£
+Wages and salaries
+17,789,612
+6,401,754
+Social security costs
+1,997,537
+750,365
+Cost of defined contribution scheme
+1,365,857
+591,525
+21,153,006
+7,743,644
+The average
+monthly
+number of
+employees, including the directors,
+during the
+year
+was as follows:
+2024
+2023
+No.
+No.
+Operations
+341
+140
+Management and administration
+186
+44
+Directors
+2
+2
+529
+186
+8.
+Directors' remuneration
+During this year and the prior year all of  the directors of the Company were remunerated by other group companies. It is not possible to make an accurate apportionment of these directors' emoluments relating to services provided to the Company and as such no dislosure has been made in these financial statements.
+Page 17
+INSPIRO LEARNING LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MARCH 2024
+9.
+Interest payable and similar expenses
+2024
+2023
+£
+£
+Bank interest payable
+4,340
+4,139
+4,340
+4,139
+10.
+Taxation
+2024
+2023
+£
+£
+Corporation tax
+Current tax on profits for the year
+241,783
+392,715
+Adjustments in respect of previous periods
+(
+348,931
+)
+-
+(107,148
+)
+392,715
+Total current tax
+(
+107,148
+)
+392,715
+Deferred tax
+Origination and reversal of timing differences
+57,423
+7,151
+Total deferred tax
+57,423
+7,151
+Tax on profit
+(
+49,725
+)
+399,866
+Page 18
+INSPIRO LEARNING LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MARCH 2024
+10.
+Taxation (continued)
+Factors affecting tax charge for the year
+The tax assessed for the
+year
+is
+lower than
+(2023 - lower than)
+the standard rate of corporation tax
+in the UK of
+25
+%
+(2023 -
+19
+%)
+. The differences are explained below:
+2024
+2023
+£
+£
+Profit on ordinary activities before tax
+2,193,709
+2,203,984
+Profit on ordinary activities multiplied by standard rate of corporation tax in the UK of 25% (2023 - 19%)
+548,427
+418,757
+Effects of:
+Expenses not deductible for tax purposes, other than goodwill amortisation and impairment
+2,481
+5,347
+Capital allowances for year in excess of depreciation
+1,264
+-
+Adjustments to tax charge in respect of prior periods
+(
+348,931
+)
+-
+Group relief surrendered/(claimed)
+(
+252,966
+)
+(
+25,954
+)
+Remeasurement of deferred tax for change in tax rates
+-
+1,716
+Total tax charge for the year
+(
+49,725
+)
+399,866
+Factors that may affect future tax charges
+There were no factors which may affect future tax charges.
+11.
+Dividends
+2024
+2023
+£
+£
+Dividends paid
+-
+13,668,000
+-
+13,668,000
+Page 19
+INSPIRO LEARNING LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MARCH 2024
+12.
+Exceptional items
+2024
+2023
+£
+£
+Technology
+1,874,717
+-
+Redundancy costs
+103,948
+-
+Other integration costs
+150,767
+-
+2,129,432
+-
+Inspiro Learning Limited has undergone an extensive programme of activities to separate itself from the Babcock Group systems and processes as a result of the Inspirit Capital acquisition in February 2023. This was completed at the start of 2024 and is now operating as a standalone entity, the cost of which is shown within exceptional costs above.
+13.
+Intangible assets
+Development expenditure
+£
+Cost
+Additions - internal
+346,262
+At 31 March 2024
+346,262
+Amortisation
+Charge for the year on owned assets
+35,008
+At 31 March 2024
+35,008
+Net book value
+At 31 March 2024
+311,254
+At 31 March 2023
+-
+Page 20
+INSPIRO LEARNING LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MARCH 2024
+14.
+Tangible fixed assets
+Fixtures and fittings
+Computer equipment
+Other fixed assets
+Total
+£
+£
+£
+£
+Cost or valuation
+At 1 April 2023
+142,710
+-
+-
+142,710
+Additions
+99,295
+415,731
+46,224
+561,250
+Disposals
+(
+36,397
+)
+-
+-
+(
+36,397
+)
+At 31 March 2024
+205,608
+415,731
+46,224
+667,563
+Depreciation
+At 1 April 2023
+54,727
+-
+-
+54,727
+Charge for the year on owned assets
+90,676
+86,683
+5,136
+182,495
+Disposals
+(
+36,397
+)
+-
+-
+(
+36,397
+)
+At 31 March 2024
+109,006
+86,683
+5,136
+200,825
+Net book value
+At 31 March 2024
+96,602
+329,048
+41,088
+466,738
+At 31 March 2023
+87,983
+-
+-
+87,983
+15.
+Debtors
+2024
+2023
+£
+£
+Trade debtors
+4,033,930
+2,592,429
+Amounts owed by group undertakings
+4,449,830
+513,581
+Other debtors
+27,355
+31,668
+Prepayments and accrued income
+807,258
+502,941
+Contract assets
+5,299,975
+8,327,631
+Deferred taxation
+-
+37,607
+14,618,348
+12,005,857
+Page 21
+INSPIRO LEARNING LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MARCH 2024
+16.
+Creditors: Amounts falling due within one year
+2024
+2023
+£
+£
+Bank loans
+-
+198,356
+Trade creditors
+2,089,538
+151,902
+Corporation tax
+285,567
+392,715
+Other taxation and social security
+799,874
+741,004
+Other creditors
+1,557,807
+688,311
+Accruals and deferred income
+5,702,369
+4,979,656
+10,435,155
+7,151,944
+17.
+Deferred taxation
+2024
+£
+At beginning of year
+37,607
+Charged to profit or loss
+(
+57,423
+)
+At end of year
+(
+19,816
+)
+The
+deferred taxation balance
+is made up as follows:
+2024
+2023
+£
+£
+Fixed asset timing differences
+(
+52,881
+)
+37,101
+Short term timing differences
+33,065
+506
+(
+19,816
+)
+37,607
+18.
+Provisions
+Restructuring provisions
+Ofsted provision
+Total
+£
+£
+£
+At 1 April 2023
+82,096
+-
+82,096
+Charged to profit or loss
+-
+180,000
+180,000
+Utilised in year
+(
+82,096
+)
+-
+(
+82,096
+)
+At 31 March 2024
+-
+180,000
+180,000
+Page 22
+INSPIRO LEARNING LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MARCH 2024
+19.
+Share capital
+2024
+2023
+£
+£
+Allotted, called up and fully paid
+111
+(2023 -
+111
+)
+Ordinary
+shares of
+£
+1.00
+each
+111
+111
+All Ordinary shares hold equal voting rights.
+20.
+Reserves
+Profit and loss account
+The profit and loss account represents cumulative profits and losses net of dividends paid and other adjustments.
+21.
+Pension commitments
+The Company operates a defined contributions pension scheme. The assets of the scheme are held separately from those of the Company in an independently administered fund. The pension cost charge represents contributions payable by the Company to the fund and amounted to £1,365,857 (2023 - £591,525). At year end, £132,261 was included within other creditors in relation to the defined contribution pension scheme (2023 - £4,044).
+22.
+Commitments under operating leases
+At
+31 March 2024
+the
+Company
+had future minimum lease payments due under non-cancellable operating leases for each of the following periods:
+2024
+2023
+£
+£
+Not later than 1 year
+137,172
+111,913
+Later than 1 year and not later than 5 years
+437,667
+-
+Total
+574,839
+111,913
+During the year, operating lease expenses of £112,279 (2023 - £43,036) were recognised in the profit and loss account.
+23.
+Controlling party
+The ultimate controlling party is Inspirit Tulip Topco Limited. Inspirit Tulip Topco Limited creates both the largest
+and smallest group of undertakings in which consolidated accounts are drawn up.
+Consolidated accounts may be obtained from Companies House, Crown Way, Cardiff, CF14 3UZ.
+Page 23

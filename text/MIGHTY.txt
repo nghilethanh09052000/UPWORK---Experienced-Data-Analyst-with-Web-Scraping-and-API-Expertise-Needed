@@ -1,0 +1,331 @@
+Mighty Oak Training Ltd - Period Ending 2024-08-31
+Mighty Oak Training Ltd
+13587619
+false
+2023-09-01
+2024-08-31
+2024-08-31
+The principal activity of the company is Training
+Digita Accounts Production Advanced
+6.30.9574.0
+true
+13587619
+2023-09-01
+2024-08-31
+13587619
+2024-08-31
+13587619
+bus:OrdinaryShareClass1
+bus:CumulativeShares
+2024-08-31
+13587619
+core:CurrentFinancialInstruments
+core:WithinOneYear
+2024-08-31
+13587619
+core:FurnitureFittingsToolsEquipment
+2024-08-31
+13587619
+bus:SmallEntities
+2023-09-01
+2024-08-31
+13587619
+bus:AuditExemptWithAccountantsReport
+2023-09-01
+2024-08-31
+13587619
+bus:FilletedAccounts
+2023-09-01
+2024-08-31
+13587619
+bus:SmallCompaniesRegimeForAccounts
+2023-09-01
+2024-08-31
+13587619
+bus:RegisteredOffice
+2023-09-01
+2024-08-31
+13587619
+bus:Director1
+2023-09-01
+2024-08-31
+13587619
+bus:OrdinaryShareClass1
+bus:CumulativeShares
+2023-09-01
+2024-08-31
+13587619
+bus:PrivateLimitedCompanyLtd
+2023-09-01
+2024-08-31
+13587619
+core:FurnitureFittingsToolsEquipment
+2023-09-01
+2024-08-31
+13587619
+countries:EnglandWales
+2023-09-01
+2024-08-31
+13587619
+2023-08-31
+13587619
+core:FurnitureFittingsToolsEquipment
+2023-08-31
+13587619
+2022-09-01
+2023-08-31
+13587619
+2023-08-31
+13587619
+bus:OrdinaryShareClass1
+bus:CumulativeShares
+2023-08-31
+13587619
+core:CurrentFinancialInstruments
+core:WithinOneYear
+2023-08-31
+13587619
+core:FurnitureFittingsToolsEquipment
+2023-08-31
+iso4217:GBP
+xbrli:pure
+xbrli:shares
+Registration number:
+13587619
+Mighty Oak Training Ltd
+Unaudited Filleted Financial Statements
+for the Year Ended 31 August 2024
+ReesRussell LLP
+37 Market Square
+Witney
+Oxfordshire
+OX28 6RE
+Mighty Oak Training Ltd
+Contents
+Company Information
+1
+Balance Sheet
+2
+Notes to the Unaudited Financial Statements
+3
+to
+6
+Mighty Oak Training Ltd
+Company Information
+Director
+Mrs Julie Ann Maycock
+Registered office
+37 Market Square
+Witney
+Oxon
+OX28 6RE
+Accountants
+ReesRussell LLP
+37 Market Square
+Witney
+Oxfordshire
+OX28 6RE
+Page 1
+Mighty Oak Training Ltd
+(Registration number: 13587619)
+Balance Sheet as at 31 August 2024
+Note
+2024
+£
+2023
+£
+Fixed assets
+Tangible assets
+4
+775
+1,034
+Current assets
+Cash at bank and in hand
+216,963
+155,930
+Creditors
+: Amounts falling due within one year
+5
+(
+25,686
+)
+(
+22,265
+)
+Net current
+assets
+191,277
+133,665
+Net
+assets
+192,052
+134,699
+Capital and reserves
+Called up share capital
+6
+10,000
+10,000
+Retained earnings
+182,052
+124,699
+Shareholders' funds
+192,052
+134,699
+For the financial year ending 31 August 2024 the company was entitled to exemption from audit under section 477 of the Companies Act 2006 relating to small companies.
+Director's responsibilities:
+•
+The members have not required the company to obtain an audit of its accounts for the year in question in accordance with section 476
+; and
+•
+The director acknowledges her responsibilities for complying with the requirements of the Act with respect to accounting records and the preparation of accounts.
+These financial statements have been prepared in accordance with the special provisions relating to companies subject to the small companies regime within Part 15 of the Companies Act 2006.
+These financial statements have been delivered in accordance with the provisions applicable to companies subject to the small companies regime. As permitted by section 444 (5A) of the Companies Act 2006, the director has not delivered to the registrar a copy of the Profit and Loss Account.
+Approved and authorised by the
+director
+on
+15 February 2025
+.........................................
+Mrs Julie Ann Maycock
+Director
+The notes on pages
+3
+to
+6
+form an integral part of these financial statements.
+Page 2
+Mighty Oak Training Ltd
+Notes to the Unaudited Financial Statements for the Year Ended 31 August 2024
+1
+General information
+The company is a private company limited by share capital, incorporated in England and Wales.
+The address of its registered office is:
+37 Market Square
+Witney
+Oxon
+OX28 6RE
+These financial statements were authorised for issue by the
+director
+on
+15 February 2025
+.
+2
+Accounting policies
+Summary of significant accounting policies and key accounting estimates
+The principal accounting policies applied in the preparation of these financial statements are set out below. These policies have been consistently applied to all the years presented, unless otherwise stated.
+Statement of compliance
+These financial statements have been prepared in accordance with Financial Reporting Standard 102 Section 1A smaller entities - 'The Financial Reporting Standard applicable in the United Kingdom and Republic of Ireland' and the Companies Act 2006 (as applicable to companies subject to the small companies' regime).
+Basis of preparation
+These financial statements have been prepared using the historical cost convention except that as disclosed in the accounting policies certain items are shown at fair value.
+Revenue recognition
+Turnover comprises the fair value of the consideration received or receivable for the sale of goods and provision of services in the ordinary course of the company’s activities. Turnover is shown net of sales/value added tax, returns, rebates and discounts.
+The company recognises revenue when:
+The amount of revenue can be reliably measured;
+it is probable that future economic benefits will flow to the entity;
+and specific criteria have been met for each of the company's activities.
+Tax
+The tax expense for the period comprises current tax. Tax is recognised in profit or loss, except that a change attributable to an item of income or expense recognised as other comprehensive income is also recognised directly in other comprehensive income.
+The current income tax charge is calculated on the basis of tax rates and laws that have been enacted or substantively enacted by the reporting date in the countries where the company operates and generates taxable income.
+Page 3
+Mighty Oak Training Ltd
+Notes to the Unaudited Financial Statements for the Year Ended 31 August 2024
+Tangible assets
+Tangible assets are stated in the balance sheet at cost, less any subsequent accumulated depreciation and subsequent accumulated impairment losses.
+The cost of tangible assets includes directly attributable incremental costs incurred in their acquisition and installation.
+Depreciation
+Depreciation is charged so as to write off the cost of assets, other than land and properties under construction over their estimated useful lives, as follows:
+Asset class
+Depreciation method and rate
+Fixture and Fittings
+25% reducing balance
+Cash and cash equivalents
+Cash and cash equivalents comprise cash on hand and call deposits, and other short-term highly liquid investments that are readily convertible to a known amount of cash and are subject to an insignificant risk of change in value.
+Trade creditors
+Trade creditors are obligations to pay for goods or services that have been acquired in the ordinary course of business from suppliers. Accounts payable are classified as current liabilities if the company does not have an unconditional right, at the end of the reporting period, to defer settlement of the creditor for at least twelve months after the reporting date. If there is an unconditional right to defer settlement for at least twelve months after the reporting date, they are presented as non-current liabilities.
+Trade creditors are recognised initially at the transaction price and subsequently measured at amortised cost using the effective interest method.
+Share capital
+Ordinary shares are classified as equity. Equity instruments are measured at the fair value of the cash or other resources received or receivable, net of the direct costs of issuing the equity instruments. If payment is deferred and the time value of money is material, the initial measurement is on a present value basis.
+Dividends
+Dividend distribution to the company’s shareholders is recognised as a liability in the financial statements in the reporting period in which the dividends are declared.
+Defined contribution pension obligation
+A defined contribution plan is a pension plan under which fixed contributions are paid into a pension fund and the company has no legal or constructive obligation to pay further contributions even if the fund does not hold sufficient assets to pay all employees the benefits relating to employee service in the current and prior periods.
+Contributions to defined contribution plans are recognised as employee benefit expense when they are due. If contribution payments exceed the contribution due for service, the excess is recognised as a prepayment.
+Page 4
+Mighty Oak Training Ltd
+Notes to the Unaudited Financial Statements for the Year Ended 31 August 2024
+3
+Staff numbers
+The average number of persons employed by the company (including the director) during the year, was
+2
+(2023 -
+2
+).
+4
+Tangible assets
+Furniture, fittings and equipment
+£
+Total
+£
+Cost or valuation
+At 1 September 2023
+1,503
+1,503
+At 31 August 2024
+1,503
+1,503
+Depreciation
+At 1 September 2023
+469
+469
+Charge for the year
+259
+259
+At 31 August 2024
+728
+728
+Carrying amount
+At 31 August 2024
+775
+775
+At 31 August 2023
+1,034
+1,034
+5
+Creditors
+Creditors: amounts falling due within one year
+2024
+£
+2023
+£
+Due within one year
+Taxation and social security
+21,599
+19,063
+Accruals and deferred income
+1,500
+1,500
+Other creditors
+2,587
+1,702
+25,686
+22,265
+Page 5
+Mighty Oak Training Ltd
+Notes to the Unaudited Financial Statements for the Year Ended 31 August 2024
+6
+Share capital
+Allotted, called up and fully paid shares
+2024
+2023
+No.
+£
+No.
+£
+Ordinary shares
+of £
+10
+each
+1,000
+10,000
+1,000
+10,000
+Page 6

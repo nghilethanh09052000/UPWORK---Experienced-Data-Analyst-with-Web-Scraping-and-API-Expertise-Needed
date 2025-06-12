@@ -1,0 +1,528 @@
+Derby Business College Limited
+Acorah Software Products - Accounts Production
+15.0.600
+false
+true
+31 July 2023
+1 August 2022
+false
+1 August 2023
+31 July 2024
+31 July 2024
+04077741
+Kerry Bentley
+Kerry Bentley
+DBC Academies Limited
+true
+iso4217:GBP
+iso4217:EUR
+iso4217:USD
+xbrli:shares
+xbrli:pure
+xbrli:pure
+04077741
+2023-07-31
+04077741
+2024-07-31
+04077741
+2023-08-01
+2024-07-31
+04077741
+frs-core:CurrentFinancialInstruments
+2024-07-31
+04077741
+frs-core:BetweenOneFiveYears
+2024-07-31
+04077741
+frs-core:ComputerEquipment
+2024-07-31
+04077741
+frs-core:ComputerEquipment
+2023-08-01
+2024-07-31
+04077741
+frs-core:ComputerEquipment
+2023-07-31
+04077741
+frs-core:FurnitureFittings
+2024-07-31
+04077741
+frs-core:FurnitureFittings
+2023-08-01
+2024-07-31
+04077741
+frs-core:FurnitureFittings
+2023-07-31
+04077741
+frs-core:LandBuildings
+frs-core:LeasedAssetsHeldAsLessee
+2024-07-31
+04077741
+frs-core:LandBuildings
+frs-core:LeasedAssetsHeldAsLessee
+2023-08-01
+2024-07-31
+04077741
+frs-core:LandBuildings
+frs-core:LeasedAssetsHeldAsLessee
+2023-07-31
+04077741
+frs-core:PlantMachinery
+2024-07-31
+04077741
+frs-core:PlantMachinery
+2023-08-01
+2024-07-31
+04077741
+frs-core:PlantMachinery
+2023-07-31
+04077741
+frs-core:WithinOneYear
+2024-07-31
+04077741
+frs-core:ShareCapital
+2024-07-31
+04077741
+frs-core:RetainedEarningsAccumulatedLosses
+2024-07-31
+04077741
+frs-bus:PrivateLimitedCompanyLtd
+2023-08-01
+2024-07-31
+04077741
+frs-bus:FilletedAccounts
+2023-08-01
+2024-07-31
+04077741
+frs-bus:SmallEntities
+2023-08-01
+2024-07-31
+04077741
+frs-bus:AuditExempt-NoAccountantsReport
+2023-08-01
+2024-07-31
+04077741
+frs-bus:SmallCompaniesRegimeForAccounts
+2023-08-01
+2024-07-31
+04077741
+1
+2023-08-01
+2024-07-31
+04077741
+frs-bus:Director1
+2023-08-01
+2024-07-31
+04077741
+frs-bus:Director1
+2023-07-31
+04077741
+frs-bus:Director1
+2024-07-31
+04077741
+frs-bus:CompanySecretary1
+2023-08-01
+2024-07-31
+04077741
+frs-core:CurrentFinancialInstruments
+1
+2024-07-31
+04077741
+frs-countries:EnglandWales
+2023-08-01
+2024-07-31
+04077741
+2022-07-31
+04077741
+2023-07-31
+04077741
+2022-08-01
+2023-07-31
+04077741
+frs-core:CurrentFinancialInstruments
+2023-07-31
+04077741
+frs-core:BetweenOneFiveYears
+2023-07-31
+04077741
+frs-core:WithinOneYear
+2023-07-31
+04077741
+frs-core:ShareCapital
+2023-07-31
+04077741
+frs-core:RetainedEarningsAccumulatedLosses
+2023-07-31
+04077741
+frs-core:CurrentFinancialInstruments
+1
+2023-07-31
+Registered number: 04077741
+Derby Business College Limited
+Unaudited Financial Statements
+For The Year Ended 31 July 2024
+Derby Business College Limited
+Contents
+Contents
+Page
+Balance Sheet
+1—2
+Notes to the Financial Statements
+3—5
+Page 1
+Derby Business College Limited
+Balance Sheet
+As At
+31 July 2024
+Balance Sheet
+Registered number:
+04077741
+2024
+2023
+Notes
+£
+£
+£
+£
+FIXED ASSETS
+Tangible Assets
+4
+110,221
+71,434
+110,221
+71,434
+CURRENT ASSETS
+Debtors
+5
+796,294
+973,953
+Cash at bank and in hand
+835,854
+304,602
+1,632,148
+1,278,555
+Creditors: Amounts Falling Due Within One Year
+6
+(
+428,156
+)
+(
+328,336
+)
+NET CURRENT ASSETS (LIABILITIES)
+1,203,992
+950,219
+TOTAL ASSETS LESS CURRENT LIABILITIES
+1,314,213
+1,021,653
+PROVISIONS FOR LIABILITIES
+Deferred Taxation
+(
+27,555
+)
+(
+11,945
+)
+NET ASSETS
+1,286,658
+1,009,708
+CAPITAL AND RESERVES
+Called up share capital
+7
+100
+100
+Profit and Loss Account
+1,286,558
+1,009,608
+SHAREHOLDERS' FUNDS
+1,286,658
+1,009,708
+Page 1
+Page 2
+Derby Business College Limited
+Balance Sheet (continued)
+As At
+31 July 2024
+For the year ending 31 July 2024 the company was entitled to exemption from audit under section 477 of the Companies Act 2006 relating to small companies.
+The members have not required the company to obtain an audit in accordance with section 476 of the Companies Act 2006.
+The directors acknowledge their responsibilities for complying with the requirements of the Act with respect to accounting records and the preparation of accounts.
+These accounts have been prepared and delivered in accordance with the provisions applicable to companies subject to the small companies' regime.
+The company has taken advantage of section 444(1) of the Companies Act 2006 and opted not to deliver to the registrar a copy of the company's Profit and Loss Account.
+On behalf of the board
+Kerry Bentley
+Director
+27 March 2025
+The notes on
+pages 3 to 5
+form part of these financial statements.
+Page 2
+Page 3
+Derby Business College Limited
+Notes to the Financial Statements
+For The Year Ended 31 July 2024
+Notes to the Financial Statements
+1.
+General Information
+Derby Business College Limited
+is a private company, limited by shares, incorporated in England & Wales, registered number
+04077741
+. The registered office is Friary Works, 119a Friar Gate, Derby, DE1 1EX.
+2.
+Accounting Policies
+2.1.
+Basis of Preparation of Financial Statements
+The financial statements are prepared in Sterling (£), which is the functional currency of the company. The financial statements are for the year ended 31 July 2024 (2023: year ended 31 July 2023).
+The financial statements are prepared under the historical cost convention unless otherwise specified within these accounting policies and in accordance with Section 1A of Financial Reporting Standard 102, the Financial Reporting Standard applicable in the UK and Republic of Ireland and the Companies Act 2006.
+2.2.
+Turnover
+Turnover is measured at the fair value of the consideration received or receivable, net of discounts and value added taxes. Turnover includes revenue earned from the sale of goods and from the rendering of services. Turnover is reduced for estimated customer returns, rebates and other similar allowances.
+Revenue from contracts for the provision of professional services is recognised by reference to the stage of completion when the stage of completion, costs incurred and costs to complete can be estimated reliably. The stage of completion is calculated by comparing costs incurred, mainly in relation to contractual hourly staff rates and materials, as a proportion of total costs. Where the outcome cannot be estimated reliably, revenue is recognised only to the extent of the expenses recognised that it is probable will be recovered.
+2.3.
+Tangible Fixed Assets and Depreciation
+Tangible fixed assets are measured at cost less accumulated depreciation and any accumulated impairment losses. Depreciation is provided at rates calculated to write off the cost of the fixed assets, less their estimated residual value, over their expected useful lives on the following bases:
+Leasehold
+20% straight line
+Plant & Machinery
+20% reducing balance
+Fixtures & Fittings
+20% straight line
+Computer Equipment
+33% straight line
+2.4.
+Leasing and Hire Purchase Contracts
+Rentals applicable to operating leases where substantially all of the benefits and risks of ownership remain with the lessor are charged to profit and loss account as incurred.
+2.5.
+Financial Instruments
+The company only enters into basic financial instrument transactions that result in the recognition of financial assets and liabilities such as trade and other debtors and creditors and loans from banks.
+All financial assets and liabilities are initially measured at transaction price and subsequently measured at amortised cost.
+Financial assets that are measured at cost and amortised cost are assessed at the end of each reporting period for objective evidence of impairment. If objective evidence of impairment is found and impairment loss is recognised in the profit and loss account.
+2.6.
+Taxation
+Income tax expense represents the sum of the tax currently payable and deferred tax.
+The tax currently payable is based on taxable profit for the year. Taxable profit differs from profit as reported in the statement of comprehensive income because of items of income or expense that are taxable or deductible in other years and items that are never taxable or deductible. The company's liability for current tax is calculated using tax rates that have been enacted or substantively enacted by the end of the reporting period.
+Deferred tax is recognised on timing differences between the carrying amounts of assets and liabilities in the financial statements and the corresponding tax bases used in the computation of taxable profit. Deferred tax liabilities are generally recognised for all taxable timing differences. Deferred tax assets are generally recognised for all deductible temporary differences to the extent that it is probable that taxable profits will be available against which those deductible timing differences can be utilised. The carrying amount of deferred tax assets is reviewed at the end of each reporting period and reduced to the extent that it is no longer probable that sufficient taxable profits will be available to allow all or part of the asset to be recovered.
+...CONTINUED
+Page 3
+Page 4
+Derby Business College Limited
+Notes to the Financial Statements (continued)
+For The Year Ended 31 July 2024
+2.6.
+Taxation - continued
+Deferred tax assets and liabilities are measured at the tax rates that are expected to apply in the period in which the liability is settled or the asset realised, based on tax rates (and tax laws) that have been enacted or substantively enacted by the end of the reporting period. Deferred tax liabilities are presented within provisions for liabilities and deferred tax assets within debtors. The measurement of deferred tax liabilities and assets reflect the tax consequences that would follow from the manner in which the Company expects, at the end of the reporting period, to recover or settle the carrying amount of its assets and liabilities.
+Current or deferred tax for the year is recognised in profit or loss, except when they related to items that are recognised in other comprehensive income or directly in equity, in which case, the current and deferred tax is also recognised in other comprehensive income or directly in equity respectively.
+2.7.
+Pensions
+The company operates a defined pension contribution scheme.
+Contributions are charged to the profit and loss account as they become payable in accordance with the rules of the scheme.
+3.
+Average Number of Employees
+Average number of employees, including directors, during the year was:
+77 (2023: 74)
+77
+74
+4.
+Tangible Assets
+Land & Property
+Leasehold
+Plant & Machinery
+Fixtures & Fittings
+Computer Equipment
+Total
+£
+£
+£
+£
+£
+Cost
+As at 1 August 2023
+62,372
+13,735
+41,081
+212,709
+329,897
+Additions
+8,078
+-
+8,864
+70,761
+87,703
+Disposals
+(
+21,434
+)
+(
+13,735
+)
+(
+2,752
+)
+-
+(
+37,921
+)
+As at 31 July 2024
+49,016
+-
+47,193
+283,470
+379,679
+Depreciation
+As at 1 August 2023
+27,865
+12,054
+26,227
+192,317
+258,463
+Provided during the period
+9,604
+-
+6,103
+19,492
+35,199
+Disposals
+(
+9,398
+)
+(
+12,054
+)
+(
+2,752
+)
+-
+(
+24,204
+)
+As at 31 July 2024
+28,071
+-
+29,578
+211,809
+269,458
+Net Book Value
+As at 31 July 2024
+20,945
+-
+17,615
+71,661
+110,221
+As at 1 August 2023
+34,507
+1,681
+14,854
+20,392
+71,434
+5.
+Debtors
+2024
+2023
+£
+£
+Due within one year
+Trade debtors
+712,739
+593,215
+Prepayments and accrued income
+60,285
+72,763
+Other debtors
+13,556
+26,176
+Director's loan account
+9,714
+193,848
+Corporation tax recoverable assets
+-
+87,951
+796,294
+973,953
+Page 4
+Page 5
+Derby Business College Limited
+Notes to the Financial Statements (continued)
+For The Year Ended 31 July 2024
+6.
+Creditors: Amounts Falling Due Within One Year
+2024
+2023
+£
+£
+Trade creditors
+149,257
+160,176
+Corporation tax
+145,084
+-
+Other taxes and social security
+59,627
+56,430
+VAT
+1,694
+-
+Other creditors
+22,235
+22,821
+Accruals and deferred income
+50,259
+88,909
+428,156
+328,336
+7.
+Share Capital
+2024
+2023
+£
+£
+Allotted, Called up and fully paid
+100
+100
+8.
+Other Commitments
+The total of future minimum lease payments under non-cancellable operating leases are as following:
+2024
+2023
+£
+£
+Not later than one year
+103,438
+95,597
+Later than one year and not later than five years
+216,697
+306,635
+320,135
+402,232
+9.
+Directors Advances, Credits and Guarantees
+Included within Debtors are the following loans to directors:
+As at 1 August 2023
+Amounts advanced
+Amounts repaid
+Amounts written off
+As at 31 July 2024
+£
+£
+£
+£
+£
+Mrs Kerry Bentley
+193,848
+13,170
+197,304
+-
+9,714
+The above loan is unsecured, interest free and repayable on demand.
+10.
+Related Party Transactions
+At the year end there was an amount owed to the parent company of £12,383 (2023: £14,567). The balance is repayable on demand and is interest free.
+11.
+Exceptional Items
+During the financial year, the holding company entered into an agreement to repurchase 60 Ordinary shares from Mr A K Oldale for a total consideration of £510,000. As of 31 July 2025, an amount of £330,000 remains outstanding, and will be settled in the next financial year, in accordance with the agreed terms.
+12.
+Ultimate Parent Undertaking and Controlling Party
+The ultimate controlling party is
+DBC Academies Limited
+who controls 100% of the shares of
+Derby Business College Limited
+.
+Page 5

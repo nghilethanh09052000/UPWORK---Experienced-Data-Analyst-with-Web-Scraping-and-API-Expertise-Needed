@@ -1,0 +1,416 @@
+REGISTERED NUMBER: 06880807 (England and Wales)
+
+Reynolds Training Services Limited
+
+Unaudited Financial Statements for the Year Ended 31st December 2024
+
+Smailes Goldie
+Chartered Accountants
+Regent's Court
+Princess Street
+Hull
+East Yorkshire
+HU2 8BA
+
+Reynolds Training Services Limited (Registered number:
+
+Contents of the Financial Statements
+for the year ended 31st December 2024
+
+Company Information
+Balance Sheet
+
+Notes to the Financial Statements
+
+: 06880807)
+
+Page
+
+Reynolds Training Services Limited
+
+Company Information
+for the year ended 31st December 2024
+
+DIRECTORS:
+
+SECRETARY:
+
+REGISTERED OFFICE:
+
+REGISTERED NUMBER:
+
+ACCOUNTANTS:
+
+Page 1
+
+JL Reynolds
+Mrs KP Reynolds
+
+Mrs KP Reynolds
+
+Technical Training Centre
+Catch Facility
+
+Kiln Lane
+Stallingborough
+
+NE Lincolnshire
+
+DN41 8TH
+
+06880807 (England and Wales)
+
+Smailes Goldie
+Chartered Accountants
+Regent's Court
+Princess Street
+
+Hull
+
+East Yorkshire
+
+HU2 8BA
+
+Reynolds Training Services Limited (Registered number: 06880807)
+
+Balance Sheet
+
+31st December 2024
+2024 2023
+Notes £ £ £ £
+FIXED ASSETS
+Intangible assets 4 9,975 15,960
+Tangible assets 5 223,262 245,562
+233,237 261,522
+
+CURRENT ASSETS
+Debtors 6 169,411 163,326
+Cash at bank 15,997 20,886
+
+185,408 184,212
+CREDITORS
+Amounts falling due within one year 7 243,804 233,801
+NET CURRENT LIABILITIES (58,396) (49,589)
+TOTAL ASSETS LESS CURRENT
+LIABILITIES 174,841 211,933
+CREDITORS
+Amounts falling due after more than one
+year 8 (61,051) (105,132)
+PROVISIONS FOR LIABILITIES (28,144) (26,131)
+NET ASSETS 85,646 80,670
+CAPITAL AND RESERVES
+Called up share capital 14 75,100 75,100
+Retained earnings 10,546 5,570
+SHAREHOLDERS' FUNDS 85,646 80,670
+
+The company is entitled to exemption from audit under Section 477 of the Companies Act 2006 for the year ended 31st
+December 2024.
+
+The members have not required the company to obtain an audit of its financial statements for the year ended 31st
+December 2024 in accordance with Section 476 of the Companies Act 2006.
+
+The directors acknowledge their responsibilities for:
+
+(a) ensuring that the company keeps accounting records which comply with Sections 386 and 387 of the Companies
+Act 2006 and
+
+(b) preparing financial statements which give a true and fair view of the state of affairs of the company as at the end of
+each financial year and of its profit or loss for each financial year in accordance with the requirements of Sections
+394 and 395 and which otherwise comply with the requirements of the Companies Act 2006 relating to financial
+statements, so far as applicable to the company.
+
+The notes form part of these financial statements
+
+Page 2 continued...
+
+Reynolds Training Services Limited (Registered number: 06880807)
+
+Balance Sheet - continued
+
+31st December 2024
+
+The financial statements have been prepared and delivered in accordance with the provisions applicable to companies
+subject to the small companies regime.
+
+In accordance with Section 444 of the Companies Act 2006, the Statement of Comprehensive Income has not been
+delivered.
+
+The financial statements were approved by the Board of Directors and authorised for issue on 26th February 2025 and
+were signed on its behalf by:
+
+JL Reynolds - Director
+
+The notes form part of these financial statements
+
+Page 3
+
+Reynolds Training Services Limited (Registered number: 06880807)
+
+Notes to the Financial Statements
+for the year ended 31st December 2024
+
+1.
+
+STATUTORY INFORMATION
+
+Reynolds Training Services Limited is a private company, limited by shares , registered in England and Wales.
+The company's registered number and registered office address can be found on the Company Information page.
+
+The significant accounting policies applied in the preparation of these financial statements are set out below.
+These policies have been consistently applied to all years presented unless otherwise stated.
+
+ACCOUNTING POLICIES
+
+Basis of preparing the financial statements
+
+These financial statements have been prepared in accordance with Financial Reporting Standard 102 "The
+Financial Reporting Standard applicable in the UK and Republic of Ireland” including the provisions of Section 1A
+"Small Entities" and the Companies Act 2006. The financial statements have been prepared under the historical
+cost convention.
+
+Turnover
+Turnover is measured at the fair value of the consideration received or receivable net of VAT and trade discounts.
+
+Intangible assets
+Intangible assets are initially measured at cost. After initial recognition, intangible assets are measured at cost
+less any accumulated amortisation and any accumulated impairment losses.
+
+Computer software is being amortised evenly over its estimated useful life of three years.
+
+Tangible fixed assets
+
+Tangible fixed assets are stated at cost or valuation less accumulated depreciation and accumulated impairment
+losses. Cost includes costs directly attributable to making the asset capable of operating as intended.
+
+Depreciation is provided on all tangible fixed assets, at rates calculated to write off the cost, less estimated
+residual value, of each asset on a systematic basis over its expected useful life as follows:
+
+Fixtures and fittings - 33% on cost
+Computer equipment - 33% on cost
+Plant and machinery - 5% on cost
+Improvement to property - 20% on cost
+Taxation
+
+Current tax represents the amount of tax payable or receivable in respect of the taxable profit (or loss) for the
+current or past reporting periods. It is measured at the amount expected to be paid or recovered using the tax
+rates and laws that have been enacted or substantively enacted by the balance sheet date.
+
+Deferred tax represents the future tax consequences of transactions and events recognised in the financial
+statements of current and previous periods. It is recognised in respect of all timing differences, with certain
+exceptions. Timing differences are differences between taxable profits and total comprehensive income as stated
+in the financial statements that arise from the inclusion of income and expense in tax assessments in periods
+different from those in which they are recognised in the financial statements. Unrelieved tax losses and other
+deferred tax assets are recognised only to the extent that it is probable that they will be recovered against the
+reversal of deferred tax liabilities or other future taxable profits.
+
+Deferred tax is measured using the tax rates and laws that have been enacted or substantively enacted by the
+balance sheet date that are expected to apply to the reversal of timing differences. Deferred tax on revalued
+non-depreciable tangible fixed assets and investment properties is measured using the rates and allowances that
+apply to the sale of the asset.
+
+Page 4 continued...
+
+Reynolds Training Services Limited (Registered number: 06880807)
+
+Notes to the Financial Statements - continued
+for the year ended 31st December 2024
+
+2.
+
+ACCOUNTING POLICIES - continued
+
+Employee benefits
+When employees have rendered service to the company, short-term employee benefits to which the employees
+are entitled are recognised at the undiscounted amount expected to be paid in exchange for that service.
+
+Debtors & creditors
+
+Debtors and creditors with no stated interest rate and receivable or payable within one year are recorded at
+transaction price. Any losses arising from impairment are recognised in the profit and loss account in other
+administrative expenses.
+
+Hire purchase and leasing commitments
+
+Assets acquired under finance leases are capitalised and depreciated over the shorter of the lease term and the
+expected useful life of the asset. Minimum lease payments are apportioned between the finance charge and the
+reduction of the outstanding lease liability using the effective interest method. The related obligations, net of future
+finance charges, are included in creditors.
+
+Rentals payable and receivable under operating leases are charged to the profit and loss account on a straight
+line basis over the period of the lease.
+
+EMPLOYEES AND DIRECTORS
+The average number of employees during the year was 9 (2023-8).
+
+INTANGIBLE FIXED ASSETS
+
+Computer
+software
+£
+COST
+At 1st January 2024
+and 31st December 2024 17,955
+AMORTISATION
+At 1st January 2024 1,995
+Amortisation for year 5,985
+At 31st December 2024 7,980
+NET BOOK VALUE
+At 31st December 2024 9,975
+At 31st December 2023 15,960
+
+Page 5 continued...
+
+Reynolds Training Services Limited (Registered number: 06880807)
+
+Notes to the Financial Statements - continued
+for the year ended 31st December 2024
+
+5.
+
+TANGIBLE FIXED ASSETS
+
+COST
+
+At 1st January 2024
+Additions
+
+At 31st December 2024
+DEPRECIATION
+
+At 1st January 2024
+Charge for year
+
+At 31st December 2024
+NET BOOK VALUE
+
+At 31st December 2024
+At 31st December 2023
+
+DEBTORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+
+Trade debtors
+Other debtors
+
+Prepayments and accrued income
+
+CREDITORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+
+Other loans (see note 9)
+Trade creditors
+
+Social security and other taxes
+
+VAT
+
+Other creditors
+
+Directors’ current accounts
+Accrued expenses
+
+CREDITORS: AMOUNTS FALLING DUE AFTER MORE THAN ONE
+
+YEAR
+
+Other loans (see note 9)
+Directors' loan accounts
+
+Improvements Fixtures
+to Plant and and Computer
+property machinery fittings equipment Totals
+£ £ £ £ £
+6,329 263,206 25,798 18,980 314,313
+: : 221 1,335 1,556
+6,329 263,206 26,019 20,315 315,869
+1,753 37,592 21,495 7,911 68,751
+1,266 13,979 2,211 6,400 23,856
+3,019 51,571 23,706 14,311 92,607
+3,310 211,635 2,313 6,004 223,262
+4,576 225,614 4,303 11,069 245,562
+2024 2023
+£ £
+44,860 69,515
+16,875 14,180
+107,676 79,631
+169,411 163,326
+2024 2023
+£ £
+77,998 79,001
+71,093 63,704
+4,523 5,061
+41,178 34,618
+46,141 25,318
+. 8,412
+2,871 17,687
+243,804 233,801
+2024 2023
+£ £
+27,134 105,132
+33,917 -
+61,051 105,132
+Page 6 continued...
+
+Reynolds Training Services Limited (Registered number:
+
+Notes to the Financial Statements - continued
+for the year ended 31st December 2024
+
+9. LOANS
+
+An analysis of the maturity of loans is given below:
+
+Amounts falling due within one year or on demand:
+Other loans
+
+Amounts falling due between one and two years:
+Other loans
+
+Amounts falling due between two and five years:
+Other loans
+
+10. LEASING AGREEMENTS
+
+06880807)
+
+Minimum lease payments under non-cancellable operating leases fall due as follows:
+
+Within one year
+Between one and five years
+
+11. CALLED UP SHARE CAPITAL
+
+Allotted, issued and fully paid:
+
+Number: Class:
+100 Ordinary
+75,000 Preference Shares
+
+2024 2023
+£ £
+77,998 79,001
+27,134 77,998
+- 27,134
+2024 2023
+£ £
+33,136 74,739
+20,067 60,391
+53,203 135,130
+Nominal 2024 2023
+value: £ £
+£1 100 100
+£1 75,000 75,000
+75,100 75,100
+
+75,000 £1 redeemable preference shares were issued at par during the year and redemption is at the company's
+
+option only.
+
+12. ULTIMATE CONTROLLING PARTY
+
+The controlling party is JL Reynolds & Mrs K P Reynolds.
+
+Page 7
+
+This document was delivered using electronic communications and authenticated in
+accordance with the registrar's rules relating to electronic form, authentication and
+manner of delivery under section 1072 of the Companies Act 2006.
+

@@ -1,0 +1,702 @@
+White Horse Training Limited - Limited company accounts 24.3
+IRIS Accounts Production
+v24.3.2.46
+01381199
+Board of Directors
+1.10.23
+30.9.24
+30.9.24
+The principal activity of the company continues to be the provision of training services to professionals and industrial and commercial firms
+false
+true
+false
+false
+false
+true
+false
+Ordinary Shares
+1.00000
+iso4217:GBP
+iso4217:USD
+iso4217:EUR
+xbrli:shares
+xbrli:pure
+utr:tonnes
+utr:kWh
+01381199
+2023-09-30
+01381199
+2024-09-30
+01381199
+2023-10-01
+2024-09-30
+01381199
+2022-09-30
+01381199
+2022-10-01
+2023-09-30
+01381199
+2023-09-30
+01381199
+ns15:EnglandWales
+2023-10-01
+2024-09-30
+01381199
+ns14:PoundSterling
+2023-10-01
+2024-09-30
+01381199
+ns10:Director1
+2023-10-01
+2024-09-30
+01381199
+ns10:PrivateLimitedCompanyLtd
+2023-10-01
+2024-09-30
+01381199
+ns10:SmallEntities
+2023-10-01
+2024-09-30
+01381199
+ns10:AuditExempt-NoAccountantsReport
+2023-10-01
+2024-09-30
+01381199
+ns10:SmallCompaniesRegimeForDirectorsReport
+2023-10-01
+2024-09-30
+01381199
+ns10:SmallCompaniesRegimeForAccounts
+2023-10-01
+2024-09-30
+01381199
+ns10:FullAccounts
+2023-10-01
+2024-09-30
+01381199
+1
+2023-10-01
+2024-09-30
+01381199
+ns10:OrdinaryShareClass1
+2023-10-01
+2024-09-30
+01381199
+ns10:Director2
+2023-10-01
+2024-09-30
+01381199
+ns10:Director3
+2023-10-01
+2024-09-30
+01381199
+ns10:Director4
+2023-10-01
+2024-09-30
+01381199
+ns10:Director5
+2023-10-01
+2024-09-30
+01381199
+ns10:Director6
+2023-10-01
+2024-09-30
+01381199
+ns10:Director7
+2023-10-01
+2024-09-30
+01381199
+ns10:Director8
+2023-10-01
+2024-09-30
+01381199
+1
+2023-10-01
+2024-09-30
+01381199
+1
+2022-10-01
+2023-09-30
+01381199
+ns5:CurrentFinancialInstruments
+2024-09-30
+01381199
+ns5:CurrentFinancialInstruments
+2023-09-30
+01381199
+ns5:ShareCapital
+2024-09-30
+01381199
+ns5:ShareCapital
+2023-09-30
+01381199
+ns5:CapitalRedemptionReserve
+2024-09-30
+01381199
+ns5:CapitalRedemptionReserve
+2023-09-30
+01381199
+ns5:RetainedEarningsAccumulatedLosses
+2024-09-30
+01381199
+ns5:RetainedEarningsAccumulatedLosses
+2023-09-30
+01381199
+ns5:ShareCapital
+2022-09-30
+01381199
+ns5:RetainedEarningsAccumulatedLosses
+2022-09-30
+01381199
+ns5:CapitalRedemptionReserve
+2022-09-30
+01381199
+ns5:RetainedEarningsAccumulatedLosses
+2022-10-01
+2023-09-30
+01381199
+ns5:CapitalRedemptionReserve
+2022-10-01
+2023-09-30
+01381199
+ns5:RetainedEarningsAccumulatedLosses
+2023-10-01
+2024-09-30
+01381199
+ns5:CapitalRedemptionReserve
+2023-10-01
+2024-09-30
+01381199
+ns5:ComputerSoftware
+2023-10-01
+2024-09-30
+01381199
+ns5:FurnitureFittings
+2023-10-01
+2024-09-30
+01381199
+ns5:ComputerEquipment
+2023-10-01
+2024-09-30
+01381199
+ns5:ComputerSoftware
+2023-09-30
+01381199
+ns5:ComputerSoftware
+2024-09-30
+01381199
+ns5:ComputerSoftware
+2023-09-30
+01381199
+ns5:FurnitureFittings
+2023-09-30
+01381199
+ns5:ComputerEquipment
+2023-09-30
+01381199
+ns5:FurnitureFittings
+2024-09-30
+01381199
+ns5:ComputerEquipment
+2024-09-30
+01381199
+ns5:FurnitureFittings
+2023-09-30
+01381199
+ns5:ComputerEquipment
+2023-09-30
+01381199
+ns5:WithinOneYear
+ns5:CurrentFinancialInstruments
+2024-09-30
+01381199
+ns5:WithinOneYear
+ns5:CurrentFinancialInstruments
+2023-09-30
+01381199
+ns5:Non-currentFinancialInstruments
+ns5:AfterOneYear
+2024-09-30
+01381199
+ns5:Non-currentFinancialInstruments
+ns5:AfterOneYear
+2023-09-30
+01381199
+ns10:OrdinaryShareClass1
+2024-09-30
+REGISTERED NUMBER:
+01381199
+(England and Wales)
+WHITE HORSE TRAINING LIMITED
+REPORT OF THE DIRECTORS AND
+UNAUDITED FINANCIAL STATEMENTS
+FOR THE YEAR ENDED
+30 SEPTEMBER 2024
+WHITE HORSE TRAINING LIMITED (REGISTERED NUMBER: 01381199)
+CONTENTS OF THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 SEPTEMBER 2024
+Page
+Report of the Directors
+1
+Statement of Comprehensive Income
+2
+Statement of Financial Position
+3
+Statement of Changes in Equity
+4
+Notes to the Financial Statements
+5
+to
+7
+WHITE HORSE TRAINING LIMITED (REGISTERED NUMBER: 01381199)
+REPORT OF THE DIRECTORS
+FOR THE YEAR ENDED 30 SEPTEMBER 2024
+The directors present their report with the financial statements of the company for the year ended 30 September 2024.
+DIRECTORS
+The directors shown below have held office during the whole of the period from 1 October 2023 to the
+date of this report.
+Mr A Coombes FCCA
+Mr S K Sheldon FCA
+Mr I Sumbler FCCA
+Mr W J Abbott FCA
+Mr D I Black FCA
+Mr V E Cowling FCA
+Mrs M Wollaston
+Mr G S Hollywell FCCA
+This report has been prepared in accordance with the provisions of Part 15 of the Companies Act 2006
+relating to small companies.
+ON BEHALF OF THE BOARD:
+Mrs M Wollaston
+- Director
+4 March 2025
+Page 1
+WHITE HORSE TRAINING LIMITED (REGISTERED NUMBER: 01381199)
+STATEMENT OF COMPREHENSIVE
+INCOME
+FOR THE YEAR ENDED 30 SEPTEMBER 2024
+2024
+2023
+£
+£
+£
+£
+REVENUE
+746,052
+554,397
+External charges - course exps
+184,737
+134,201
+Staff costs
+3
+336,062
+258,524
+Depreciation
+10,857
+9,127
+Other operating expenses
+126,487
+105,372
+473,406
+373,023
+OPERATING PROFIT
+87,909
+47,173
+Interest receivable and similar income
+4,463
+625
+PROFIT BEFORE TAXATION
+92,372
+47,798
+Tax on profit
+21,132
+8,218
+PROFIT FOR THE FINANCIAL YEAR
+71,240
+39,580
+OTHER COMPREHENSIVE INCOME
+Cancellation of share capital
+-
+13
+Income tax relating to other
+comprehensive income
+-
+-
+OTHER COMPREHENSIVE INCOME
+FOR THE YEAR, NET OF INCOME TAX
+-
+13
+TOTAL COMPREHENSIVE INCOME
+FOR THE YEAR
+71,240
+39,593
+The notes form part of these financial statements
+Page 2
+WHITE HORSE TRAINING LIMITED (REGISTERED NUMBER: 01381199)
+STATEMENT OF FINANCIAL POSITION
+30 SEPTEMBER 2024
+2024
+2023
+Notes
+£
+£
+£
+£
+FIXED ASSETS
+Intangible assets
+4
+2,907
+4,350
+Property, plant and equipment
+5
+33,447
+32,878
+36,354
+37,228
+CURRENT ASSETS
+Debtors
+6
+122,832
+100,998
+Cash at bank and in hand
+343,681
+246,648
+466,513
+347,646
+CREDITORS
+Amounts falling due within one year
+7
+111,371
+65,467
+NET CURRENT ASSETS
+355,142
+282,179
+TOTAL ASSETS LESS CURRENT
+LIABILITIES
+391,496
+319,407
+PROVISIONS FOR LIABILITIES
+5,549
+4,700
+NET ASSETS
+385,947
+314,707
+CAPITAL AND RESERVES
+Called up share capital
+9
+8
+8
+Capital redemption reserve
+13
+13
+Retained earnings
+385,926
+314,686
+SHAREHOLDERS' FUNDS
+385,947
+314,707
+The company is entitled to exemption from audit under Section 477 of the Companies Act 2006 for the year ended 30 September 2024.
+The members have not required the company to obtain an audit of its financial statements for the year ended 30 September 2024 in accordance with Section 476 of the Companies Act 2006.
+The directors acknowledge their responsibilities for:
+(a)
+ensuring that the company keeps accounting records which comply with Sections 386 and 387 of
+the Companies Act 2006 and
+(b)
+preparing financial statements which give a true and fair view of the state of affairs of the company
+as at the end of each financial year and of its profit or loss for each financial year in accordance with
+the requirements of Sections 394 and 395 and which otherwise comply with the requirements of the
+Companies Act 2006 relating to financial statements, so far as applicable to the company.
+The financial statements have been prepared in accordance with the provisions applicable to companies subject to the small companies regime.
+The financial statements were approved by the Board of Directors and authorised for issue on
+4 March 2025
+and were signed on its behalf by:
+Mrs M Wollaston
+- Director
+The notes form part of these financial statements
+Page 3
+WHITE HORSE TRAINING LIMITED (REGISTERED NUMBER: 01381199)
+STATEMENT OF CHANGES IN EQUITY
+FOR THE YEAR ENDED 30 SEPTEMBER 2024
+Called up
+Capital
+share
+Retained
+redemption
+Total
+capital
+earnings
+reserve
+equity
+£
+£
+£
+£
+Balance at 1 October 2022
+21
+275,106
+-
+275,127
+Changes in equity
+Reduction in share capital
+(13
+)
+-
+-
+(13
+)
+Total comprehensive income
+-
+39,580
+13
+39,593
+Balance at 30 September 2023
+8
+314,686
+13
+314,707
+Changes in equity
+Total comprehensive income
+-
+71,240
+-
+71,240
+Balance at 30 September 2024
+8
+385,926
+13
+385,947
+The notes form part of these financial statements
+Page 4
+WHITE HORSE TRAINING LIMITED (REGISTERED NUMBER: 01381199)
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 SEPTEMBER 2024
+1.
+STATUTORY INFORMATION
+The company is a private company limited by shares and incorporated in England and Wales.
+The registered office address is 1 Riverside Court, Lower Bristol Road, Bath, BA2 3DZ
+These financial statements are presented in British Pounds (GBP) rounded to the nearest pound,
+which is the company's functional and presentational currency.
+2.
+ACCOUNTING POLICIES
+Basis of preparing the financial statements
+These financial statements have been prepared in accordance with Financial Reporting Standard 102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland" including the provisions of Section 1A "Small Entities" and the Companies Act 2006. The financial statements have been prepared under the historical cost convention.
+Turnover
+Turnover represents the total amounts derived from the provision of training services during the
+year , excluding Value Added Tax.
+Website amortisation
+Website costs are being amortised at 20% per annum on a straight line basis.
+Tangible fixed assets
+Depreciation is provided at the following annual rates in order to write off each asset over its estimated useful life.
+Fixtures and fittings
+-
+10% on cost
+Computer equipment
+-
+25% on cost
+Financial instruments
+Short term debtors are measured at transaction price, less any impairment. Loans receivable are
+measured initially at fair value, net of transaction costs, and are measured subsequently at
+amortised cost using the effective interest method, less any impairment.
+Short term trade creditors are measured at the transaction price. Other financial liabilities,
+including loans, are measured initially at fair value, net of transaction costs, and are measured
+subsequently at amortised cost using the effective interest method.
+Taxation
+Taxation for the year comprises current and deferred tax. Tax is recognised in the Income
+Statement, except to the extent that it relates to items recognised in other comprehensive income
+or directly in equity.
+Current or deferred taxation assets and liabilities are not discounted.
+Current tax is recognised at the amount of tax payable using the tax rates and laws that have been
+enacted or substantively enacted by the statement of financial position date.
+Deferred tax
+Deferred tax is recognised in respect of all timing differences that have originated but not reversed
+at the statement of financial position date.
+Timing differences arise from the inclusion of income and expenses in tax assessments in periods
+different from those in which they are recognised in financial statements. Deferred tax is measured
+using tax rates and laws that have been enacted or substantively enacted by the year end and that
+are expected to apply to the reversal of the timing difference.
+Unrelieved tax losses and other deferred tax assets are recognised only to the extent that it is
+probable that they will be recovered against the reversal of deferred tax liabilities or other future
+taxable profits.
+Page 5
+continued...
+WHITE HORSE TRAINING LIMITED (REGISTERED NUMBER: 01381199)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+FOR THE YEAR ENDED 30 SEPTEMBER 2024
+2.
+ACCOUNTING POLICIES - continued
+Pension costs and other post-retirement benefits
+The company operates a defined contribution pension scheme.
+Contributions payable to the
+company's pension scheme are charged to profit or loss in the period to which they relate.
+3.
+EMPLOYEES AND DIRECTORS
+The average number of employees during the year was
+9
+(2023 -
+7
+) .
+4.
+INTANGIBLE FIXED ASSETS
+Website
+£
+COST
+At 1 October 2023
+and 30 September 2024
+7,216
+AMORTISATION
+At 1 October 2023
+2,866
+Amortisation for year
+1,443
+At 30 September 2024
+4,309
+NET BOOK VALUE
+At 30 September 2024
+2,907
+At 30 September 2023
+4,350
+5.
+PROPERTY, PLANT AND EQUIPMENT
+Fixtures
+and
+Computer
+fittings
+equipment
+Totals
+£
+£
+£
+COST
+At 1 October 2023
+35,855
+70,506
+106,361
+Additions
+755
+9,228
+9,983
+At 30 September 2024
+36,610
+79,734
+116,344
+DEPRECIATION
+At 1 October 2023
+24,546
+48,937
+73,483
+Charge for year
+2,520
+6,894
+9,414
+At 30 September 2024
+27,066
+55,831
+82,897
+NET BOOK VALUE
+At 30 September 2024
+9,544
+23,903
+33,447
+At 30 September 2023
+11,309
+21,569
+32,878
+6.
+DEBTORS
+2024
+2023
+£
+£
+Amounts falling due within one year:
+Trade debtors
+20,292
+21,444
+Other debtors
+92,940
+70,411
+113,232
+91,855
+Page 6
+continued...
+WHITE HORSE TRAINING LIMITED (REGISTERED NUMBER: 01381199)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+FOR THE YEAR ENDED 30 SEPTEMBER 2024
+6.
+DEBTORS - continued
+2024
+2023
+£
+£
+Amounts falling due after more than one year:
+Other debtors
+9,600
+9,143
+Aggregate amounts
+122,832
+100,998
+7.
+CREDITORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+2024
+2023
+£
+£
+Trade creditors
+17,560
+24,481
+Taxation and social security
+22,889
+6,658
+Other creditors
+70,922
+34,328
+111,371
+65,467
+8.
+FINANCIAL INSTRUMENTS
+The Company's financial instruments may be analysed as follows:
+2024
+2023
+£
+£
+Financial assets
+Financial assets measured at fair value through profit or loss
+9,600
+9,143
+Financial assets measured at amortised cost
+372,806
+268,092
+382,406
+277,235
+Financial assets measured at amortised cost comprise of cash and bank balances, trade debtors
+and other debtors.
+Financial assets measured at fair value comprise of long term other debtors.
+9.
+CALLED UP SHARE CAPITAL
+Allotted, issued and fully paid:
+Number:
+Class:
+Nominal
+2024
+2023
+value:
+£
+£
+8
+Ordinary Shares
+1
+8
+8
+10.
+RELATED PARTY DISCLOSURES
+The company was initially founded jointly by a group of independent accounting firms to provide
+the member firms with continual professional development courses, and student training courses
+for professional examinations. The directors of White Horse Training Limited are mostly
+representatives of the member firms and as such meet the definition of a related party for the
+purpose of the Companies Act. Each member firm purchases training courses from the company,
+but all fees charged are at a normal commercial rate. The company also pays certain member
+firms, at a significantly discounted rate, for ad hoc services supplied by their representative
+director.
+11.
+ULTIMATE CONTROLLING PARTY
+The company is controlled by the board of directors, made up mostly from representatives of the
+member firms.
+Page 7

@@ -1,0 +1,165 @@
+Probusiness Edge Limited,Ltd - AccountsLtd - Accounts
+2023-04-01
+10620292
+2024-03-31
+10620292
+2023-04-01
+2024-03-31
+10620292
+2023-03-31
+10620292
+2022-04-01
+2023-03-31
+10620292
+uk-core:WithinOneYear
+2023-03-31
+10620292
+uk-core:WithinOneYear
+2024-03-31
+10620292
+uk-bus:Director1
+2023-04-01
+2024-03-31
+iso4217:GBP
+xbrli:pure
+10620292
+uk-bus:AuditExemptWithAccountantsReport
+2023-04-01
+2024-03-31
+10620292
+uk-bus:Micro-entities
+2023-04-01
+2024-03-31
+10620292
+uk-bus:FullAccounts
+2023-04-01
+2024-03-31
+10620292
+uk-bus:PrivateLimitedCompanyLtd
+2023-04-01
+2024-03-31
+Probusiness Edge Limited
+Registered Number
+:
+10620292
+For the year ended
+31 March 2024
+England and Wales
+Unaudited Financial Statements
+2
+For the year ended 31 March 2024
+Probusiness Edge Limited
+Contents Page
+1 to 2
+Statement of Financial Position and Notes to the Accounts
+3
+10620292
+Registered Number
+:
+As at
+31 March 2024
+Probusiness Edge Limited
+Statement of Financial Position and Notes to the Accounts
+£
+£
+2023
+2024
+£
+£
+8,000
+-
+Fixed assets
+2,684
+22,802
+Current assets
+Prepayments and accrued income
+2,194
+-
+Creditors
+:
+amounts falling due
+within one year
+(
+6,792
+)
+(
+12,113
+)
+16,010
+(
+7,235
+)
+Net current liabilities
+Total assets less current liabilities
+765
+16,010
+Accruals and deferred income
+(
+700
+)
+(
+700
+)
+65
+Net assets
+15,310
+65
+15,310
+Capital and reserves
+Notes to the Accounts
+Statutory Information
+Probusiness Edge Limited is a private limited company
+,
+limited by shares
+,
+domiciled in England and Wales
+,
+registration number
+10620292
+.
+Registered address
+:
+4 Buckingham Road
+Tuebrook
+Liverpool
+Merseyside
+L13 8AZ
+The presentation currency is £ sterling
+.
+1
+.
+Average number of persons employed
+During the year the average number of employees was
+0
+1 of 2
+4
+10620292
+Registered Number
+:
+For the year ended 31 March 2024
+Probusiness Edge Limited
+Statement of Financial Position and Notes to the Accounts Continued
+For the year ended 31 March 2024 the company was entitled to exemption from audit under Section 477 of the Companies Act 2006 relating to small companies.
+The members have not required the company to obtain an audit of its financial statements for the year ended 31 March 2024 in accordance with Section 476 of the Companies Act 2006.
+The directors acknowledge their responsibilities for:a) ensuring that the company keeps proper accounting records which comply with Sections 386 and 387 of the Companies Act 2006 and
+b
+)
+preparing financial statements which give a true and fair view of the state of affairs of the company as at the end of
+each financial year and of its profit or loss for each financial year in accordance with the requirements of Section
+394
+and
+395
+and which otherwise comply with the requirements of the Companies Act
+2006
+relating to financial
+statements
+,
+so far as applicable to the company
+.
+These financial statements have been prepared in accordance with the micro-entities provisions and delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+Ryan Manville
+Director
+These financial statements were approved and authorised for issue by the Board on
+18 November 2024
+and were signed by:
+2 of 2

@@ -1,0 +1,216 @@
+Accounts Submission
+Company Accounts and Tax Online
+11683802
+Board of Directors
+1.12.22
+30.11.23
+30.11.23
+No description of principal activity
+false
+iso4217:GBP
+xbrli:pure
+11683802
+2021-12-01
+2022-11-30
+11683802
+2023-11-30
+11683802
+2022-12-01
+2023-11-30
+11683802
+2022-11-30
+11683802
+countries:EnglandWales
+2022-12-01
+2023-11-30
+11683802
+curr:PoundSterling
+2022-12-01
+2023-11-30
+11683802
+uk-bus:PrivateLimitedCompanyLtd
+2022-12-01
+2023-11-30
+11683802
+uk-bus:Micro-entities
+2022-12-01
+2023-11-30
+11683802
+uk-bus:AuditExempt-NoAccountantsReport
+2022-12-01
+2023-11-30
+11683802
+uk-bus:FullAccounts
+2022-12-01
+2023-11-30
+11683802
+uk-bus:RegisteredOffice
+2022-12-01
+2023-11-30
+11683802
+uk-bus:Director1
+2022-12-01
+2023-11-30
+11683802
+uk-bus:Director1
+2022-12-01
+11683802
+uk-bus:Director1
+2023-11-30
+11683802
+core:AfterOneYear
+2023-11-30
+11683802
+core:AfterOneYear
+2022-11-30
+11683802
+core:WithinOneYear
+2023-11-30
+11683802
+core:WithinOneYear
+2022-11-30
+11683802
+core:WithinOneYear
+2022-12-01
+2023-11-30
+11683802
+core:AfterOneYear
+2023-11-30
+11683802
+core:AfterOneYear
+2022-11-30
+11683802
+core:AfterOneYear
+2022-12-01
+2023-11-30
+11683802
+core:ShareCapital
+2023-11-30
+11683802
+core:ShareCapital
+2022-11-30
+11683802
+core:RevaluationReserve
+2023-11-30
+11683802
+core:RevaluationReserve
+2022-11-30
+11683802
+core:RetainedEarningsAccumulatedLosses
+2023-11-30
+11683802
+core:RetainedEarningsAccumulatedLosses
+2022-11-30
+11683802
+1
+2022-12-01
+2023-11-30
+ELECTRIC MAYONNAISE LTD
+Company Registration Number:
+11683802
+(England and Wales)
+Unaudited micro entity accounts for the year ended 30 November 2023
+Period of accounts
+Start date: 01 December 2022
+End date: 30 November 2023
+Page 1
+ELECTRIC MAYONNAISE LTD
+Contents of the Financial Statements
+for the Period Ended 30 November 2023
+Company Information - 3
+Balance sheet - 4
+Footnotes to the Balance Sheet - 6
+Page 2
+ELECTRIC MAYONNAISE LTD
+Company Information
+for the Period Ended 30 November 2023
+Registered office:
+68
+Warham Road
+London
+GBR
+N4 1AT
+Company Registration Number:
+11683802
+(England and Wales)
+Page 3
+ELECTRIC MAYONNAISE LTD
+Balance sheet
+As at
+30 November 2023
+2023
+£
+2022
+£
+Fixed Assets:
+847
+665
+Current assets:
+3,463
+27,419
+Creditors: amounts falling due within one year:
+(
+8,900
+)
+(
+8,869
+)
+Net current assets (liabilities):
+(
+5,437
+)
+18,550
+Total assets less current liabilities:
+(
+4,590
+)
+19,215
+Creditors: amounts falling due after more than one year:
+(
+22,238
+)
+(
+25,964
+)
+Total net assets (liabilities):
+(
+26,828
+)
+(
+6,749
+)
+Capital and reserves:
+(
+26,828
+)
+(
+6,749
+)
+Page 4
+ELECTRIC MAYONNAISE LTD
+Balance sheet continued
+For the year ending 30 November 2023 the company was entitled to exemption under section 477 of the Companies Act 2006 relating to small companies.
+The members have not required the company to obtain an audit in accordance with section 476 of the Companies Act 2006.
+The directors acknowledge their responsibilities for complying with the requirements of the Act with respect to accounting records and the preparation of accounts.
+These accounts have been prepared and delivered in accordance with the provisions of the small companies regime applicable to micro-entities.
+This report was approved by the board of directors on
+8 January 2024
+And Signed On Behalf Of The Board By:
+Name:
+Neil Gander
+Status: Director
+The notes form part of these financial statements
+Page 5
+ELECTRIC MAYONNAISE LTD
+Footnotes to the Financial Statements
+for the Period Ended 30 November 2023
+1. Employee Information
+Average number of employees:
+2
+Page 6
+ELECTRIC MAYONNAISE LTD
+Footnotes to the Financial Statements
+for the Period Ended 30 November 2023
+2. Off balance sheet disclosure
+No
+Page 7

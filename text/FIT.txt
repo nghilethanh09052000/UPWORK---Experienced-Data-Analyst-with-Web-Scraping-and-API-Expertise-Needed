@@ -1,0 +1,423 @@
+Accounts Submission
+Company Accounts and Tax Online
+07403247
+Board of Directors
+1.11.23
+31.10.24
+31.10.24
+false
+iso4217:GBP
+xbrli:pure
+07403247
+2022-11-01
+2023-10-31
+07403247
+2024-10-31
+07403247
+2023-11-01
+2024-10-31
+07403247
+2023-10-31
+07403247
+countries:EnglandWales
+2023-11-01
+2024-10-31
+07403247
+curr:PoundSterling
+2023-11-01
+2024-10-31
+07403247
+uk-bus:PrivateLimitedCompanyLtd
+2023-11-01
+2024-10-31
+07403247
+uk-bus:Micro-entities
+2023-11-01
+2024-10-31
+07403247
+uk-bus:AuditExempt-NoAccountantsReport
+2023-11-01
+2024-10-31
+07403247
+uk-bus:FullAccounts
+2023-11-01
+2024-10-31
+07403247
+uk-bus:RegisteredOffice
+2023-11-01
+2024-10-31
+07403247
+uk-bus:Director1
+2023-11-01
+2024-10-31
+07403247
+uk-bus:Director1
+2023-11-01
+07403247
+uk-bus:Director1
+2024-10-31
+07403247
+uk-bus:Director2
+2023-11-01
+2024-10-31
+07403247
+uk-bus:Director2
+2023-11-01
+07403247
+uk-bus:Director2
+2024-10-31
+07403247
+uk-bus:Director3
+2023-11-01
+2024-10-31
+07403247
+uk-bus:Director3
+2023-11-01
+07403247
+uk-bus:Director3
+2024-10-31
+07403247
+uk-bus:Director4
+2023-11-01
+2024-10-31
+07403247
+uk-bus:Director4
+2023-11-01
+07403247
+uk-bus:Director4
+2024-10-31
+07403247
+uk-bus:Director5
+2023-11-01
+2024-10-31
+07403247
+uk-bus:Director5
+2023-11-01
+07403247
+uk-bus:Director5
+2024-10-31
+07403247
+uk-bus:Director6
+2023-11-01
+2024-10-31
+07403247
+uk-bus:Director6
+2023-11-01
+07403247
+uk-bus:Director6
+2024-10-31
+07403247
+uk-bus:Director7
+2023-11-01
+2024-10-31
+07403247
+uk-bus:Director7
+2023-11-01
+07403247
+uk-bus:Director7
+2024-10-31
+07403247
+uk-bus:Director8
+2023-11-01
+2024-10-31
+07403247
+uk-bus:Director8
+2023-11-01
+07403247
+uk-bus:Director8
+2024-10-31
+07403247
+uk-bus:Director9
+2023-11-01
+2024-10-31
+07403247
+uk-bus:Director9
+2023-11-01
+07403247
+uk-bus:Director9
+2024-10-31
+07403247
+uk-bus:Director10
+2023-11-01
+2024-10-31
+07403247
+uk-bus:Director10
+2023-11-01
+07403247
+uk-bus:Director10
+2024-10-31
+07403247
+uk-bus:CompanySecretary1
+2023-11-01
+2024-10-31
+07403247
+core:AfterOneYear
+2024-10-31
+07403247
+core:AfterOneYear
+2023-10-31
+07403247
+core:WithinOneYear
+2024-10-31
+07403247
+core:WithinOneYear
+2023-10-31
+07403247
+core:WithinOneYear
+2023-11-01
+2024-10-31
+07403247
+core:AfterOneYear
+2024-10-31
+07403247
+core:AfterOneYear
+2023-10-31
+07403247
+core:AfterOneYear
+2023-11-01
+2024-10-31
+07403247
+core:ShareCapital
+2024-10-31
+07403247
+core:ShareCapital
+2023-10-31
+07403247
+core:RevaluationReserve
+2024-10-31
+07403247
+core:RevaluationReserve
+2023-10-31
+07403247
+core:RetainedEarningsAccumulatedLosses
+2024-10-31
+07403247
+core:RetainedEarningsAccumulatedLosses
+2023-10-31
+07403247
+1
+2023-11-01
+2024-10-31
+FIT UK TRAINING & EDUCATION LTD
+Company Registration Number:
+07403247
+(England and Wales)
+Unaudited micro entity accounts for the year ended 31 October 2024
+Period of accounts
+Start date: 01 November 2023
+End date: 31 October 2024
+Page 1
+FIT UK TRAINING & EDUCATION LTD
+Contents of the Financial Statements
+for the Period Ended 31 October 2024
+Company Information - 3
+Report of the Directors - 4
+Profit and Loss Account - 5
+Balance sheet - 6
+Footnotes to the Balance Sheet - 8
+Page 2
+FIT UK TRAINING & EDUCATION LTD
+Company Information
+for the Period Ended 31 October 2024
+Director:
+Mr J Tunstall
+Mr A Reddin
+Mr M Ryan
+S Bowker
+A Jones
+G Roberts
+A Thomas
+Secretary:
+T Prosser
+Registered office:
+Ty Copa
+Argyll Road
+Llandudno
+Conwy
+GB-WLS
+LL30 1DF
+Company Registration Number:
+07403247
+(England and Wales)
+Page 3
+FIT UK TRAINING & EDUCATION LTD
+Directors' Report Period Ended 31 October 2024
+The directors present their report with the financial statements of the company for the period ended 31 October 2024
+Principal Activities
+Educational Training Courses
+Directors
+The director(s) shown below were appointed to the company during the period
+S Bowker
+31 October 2024
+A Jones
+31 October 2024
+G Roberts
+31 October 2024
+A Thomas
+31 October 2024
+The director(s) shown below resigned during the period
+Mr J Tunstall
+31 October 2024
+Mr A Reddin
+31 October 2024
+Mr M Ryan
+31 October 2024
+Secretary
+T Prosser
+This report was approved by the board of directors on
+30 April 2025
+And Signed On Behalf Of The Board By:
+Name:
+S Bowker
+Status: Director
+Name:
+A Jones
+Status: Director
+Name:
+G Roberts
+Status: Director
+Name:
+A Thomas
+Status: Director
+Name:
+J Tunstall
+Status: Director
+Name:
+A Reddin
+Status: Director
+Name:
+M Ryan
+Status: Director
+Page 4
+FIT UK TRAINING & EDUCATION LTD
+Profit and Loss Account
+for the Period Ended 31 October 2024
+2024
+£
+2023
+£
+Turnover
+388,312
+399,842
+Cost of Materials
+(
+139,571
+)
+(
+86,606
+)
+Staff Costs
+(
+157,833
+)
+(
+201,686
+)
+Depreciation and Writeoffs
+(
+4,640
+)
+(
+1,546
+)
+Other charges
+(
+89,756
+)
+(
+97,573
+)
+Tax on Profit
+-
+(
+2,362
+)
+Profit or (Loss) for Period
+(
+3,488
+)
+10,069
+Page 5
+FIT UK TRAINING & EDUCATION LTD
+Balance sheet
+As at
+31 October 2024
+2024
+£
+2023
+£
+Fixed Assets:
+0
+4,640
+Current assets:
+34,464
+89,017
+Creditors: amounts falling due within one year:
+(
+12,741
+)
+(
+11,479
+)
+Net current assets (liabilities):
+21,723
+77,538
+Total assets less current liabilities:
+21,723
+82,178
+Creditors: amounts falling due after more than one year:
+(
+18,708
+)
+Total net assets (liabilities):
+21,723
+63,470
+Capital and reserves:
+21,723
+63,470
+Page 6
+FIT UK TRAINING & EDUCATION LTD
+Balance sheet continued
+For the year ending 31 October 2024 the company was entitled to exemption under section 477 of the Companies Act 2006 relating to small companies.
+The members have not required the company to obtain an audit in accordance with section 476 of the Companies Act 2006.
+The directors acknowledge their responsibilities for complying with the requirements of the Act with respect to accounting records and the preparation of accounts.
+These accounts have been prepared and delivered in accordance with the provisions of the small companies regime applicable to micro-entities.
+This report was approved by the board of directors on
+30 April 2025
+And Signed On Behalf Of The Board By:
+Name:
+S Bowker
+Status: Director
+Name:
+A Jones
+Status: Director
+Name:
+G Roberts
+Status: Director
+Name:
+A Thomas
+Status: Director
+Name:
+J Tunstall
+Status: Director
+Name:
+A Reddin
+Status: Director
+Name:
+M Ryan
+Status: Director
+The notes form part of these financial statements
+Page 7
+FIT UK TRAINING & EDUCATION LTD
+Footnotes to the Financial Statements
+for the Period Ended 31 October 2024
+1. Employee Information
+Average number of employees:
+10
+Page 8
+FIT UK TRAINING & EDUCATION LTD
+Footnotes to the Financial Statements
+for the Period Ended 31 October 2024
+2. Off balance sheet disclosure
+No
+Page 9

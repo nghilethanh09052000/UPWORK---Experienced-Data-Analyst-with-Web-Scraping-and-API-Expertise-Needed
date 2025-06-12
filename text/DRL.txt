@@ -1,0 +1,163 @@
+Drl Services Ltd,Ltd - AccountsLtd - Accounts
+2023-07-01
+09635224
+2024-06-30
+09635224
+2023-07-01
+2024-06-30
+09635224
+2023-06-30
+09635224
+2022-07-01
+2023-06-30
+09635224
+uk-core:WithinOneYear
+2023-06-30
+09635224
+uk-core:WithinOneYear
+2024-06-30
+09635224
+uk-bus:Director1
+2023-07-01
+2024-06-30
+iso4217:GBP
+xbrli:pure
+09635224
+uk-bus:AuditExemptWithAccountantsReport
+2023-07-01
+2024-06-30
+09635224
+uk-bus:Micro-entities
+2023-07-01
+2024-06-30
+09635224
+uk-bus:FullAccounts
+2023-07-01
+2024-06-30
+09635224
+uk-bus:PrivateLimitedCompanyLtd
+2023-07-01
+2024-06-30
+Drl Services Ltd
+Registered Number
+:
+09635224
+For the year ended
+30 June 2024
+England and Wales
+Unaudited Financial Statements
+2
+For the year ended 30 June 2024
+Drl Services Ltd
+Contents Page
+1 to 2
+Statement of Financial Position and Notes to the Accounts
+3
+09635224
+Registered Number
+:
+As at
+30 June 2024
+Drl Services Ltd
+Statement of Financial Position and Notes to the Accounts
+£
+£
+2023
+2024
+£
+£
+2,893
+3,857
+Fixed assets
+140,928
+123,487
+Current assets
+Creditors
+:
+amounts falling due
+within one year
+(
+84,951
+)
+(
+92,855
+)
+38,536
+48,073
+Net current assets
+Total assets less current liabilities
+50,966
+42,393
+Accruals and deferred income
+(
+4,728
+)
+(
+4,883
+)
+46,238
+Net assets
+37,510
+46,238
+37,510
+Capital and reserves
+Notes to the Accounts
+Statutory Information
+Drl Services Ltd is a private limited company
+,
+limited by shares
+,
+domiciled in England and Wales
+,
+registration number
+09635224
+.
+Registered address
+:
+Summit House
+Horsecroft Road
+Harlow
+Essex
+CM19 5BN
+The presentation currency is £ sterling
+.
+1
+.
+Average number of persons employed
+During the year the average number of employees was
+2
+(2023 :
+5
+)
+1 of 2
+4
+09635224
+Registered Number
+:
+For the year ended 30 June 2024
+Drl Services Ltd
+Statement of Financial Position and Notes to the Accounts Continued
+For the year ended 30 June 2024 the company was entitled to exemption from audit under Section 477 of the Companies Act 2006 relating to small companies.
+The members have not required the company to obtain an audit of its financial statements for the year ended 30 June 2024 in accordance with Section 476 of the Companies Act 2006.
+The director acknowledges his responsibilities for:a) ensuring that the company keeps proper accounting records which comply with Sections 386 and 387 of the Companies Act 2006 and
+b
+)
+preparing financial statements which give a true and fair view of the state of affairs of the company as at the end of
+each financial year and of its profit or loss for each financial year in accordance with the requirements of Section
+394
+and
+395
+and which otherwise comply with the requirements of the Companies Act
+2006
+relating to financial
+statements
+,
+so far as applicable to the company
+.
+These financial statements have been prepared in accordance with the micro-entities provisions and delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+Mr David Francis Jamieson
+Director
+These financial statements were approved and authorised for issue by the Board on
+13 May 2025
+and were signed by:
+2 of 2

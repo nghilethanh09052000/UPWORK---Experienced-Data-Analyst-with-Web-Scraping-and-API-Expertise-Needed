@@ -1,0 +1,1029 @@
+HK |
+
+COMPANIES HOUSE
+
+[
+
+DAVIES LEARNING SOLUTIONS LIMITED
+ANNUAL REPORT AND FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 JUNE 2023
+
+CONTENTS
+
+Directors and Advisers
+
+Directors’ Report
+
+Independent Auditor’s Report
+Income Statement
+
+Statement of Comprehensive Income
+Statement of Financial Position
+Statement of Changes in Equity
+
+Notes to the Financial Statements
+
+Page 1
+
+10
+
+11
+
+12
+
+13-20
+
+DAVIES LEARNING SOLUTIONS LIMITED .
+ANNUAL REPORT AND FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 JUNE 2023
+
+DIRECTORS AND ADVISERS
+
+DIRECTORS D Saulter
+A Debiase
+
+REGISTERED OFFICE 5th Floor
+20 Gracechurch Street
+London
+EC3V OBG
+
+INDEPENDENT AUDITOR BDO LLP
+Chartered Accountants and
+Statutory Auditors
+55 Baker Street
+London
+WU1U 7EU
+
+Page 2
+
+DAVIES LEARNING SOLUTIONS LIMITED
+ANNUAL REPORT AND FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 JUNE 2023
+
+DIRECTORS’ REPORT
+
+The directors present their report with the audited financial statements of the company, registered number
+09063924, for the year ended 30 June 2023.
+
+This report has been prepared in accordance with the special provisions of Part 15, Chapter 1 (Section 382 and 383)
+of the Companies Act 2006 relating to small companies.
+
+PRINCIPAL ACTIVITIES
+The principal activity of the company in the year under review was that of regulatory and complaints management.
+
+RESULTS AND DIVIDENDS
+The company’s profit for the financial year is £1,164,691 (period ended 30 June 2022: £910,173). No dividends were
+paid or proposed during the year (period ended 30 June 2021: £nil).
+
+Asummary of the results for the year is given in the Income Statement on page 10.
+
+GOING CONCERN
+
+Going concern has been discussed in detail in note 1. The company has continued to trade profitably since the year
+end in line with forecasts. As such, the Directors have a reasonable expectation that the company has adequate
+resources to continue in operational existence for the foreseeable future. The Directors therefore believe that it
+remains appropriate to prepare the financial statements on a going concern basis. The financial statements do not
+include any adjustments that would result from this basis of preparation being inappropriate.
+
+QUALIFYING THIRD PARTY INDEMNITY PROVISIONS
+The ultimate holding company, Tennessee Topco Limited maintained cover for its directors and officers and those of its
+subsidiary companies under a directors’ and officers’ liability insurance policy as permitted by the Companies Act 2006.
+The liability insurance is a qualifying third-party indemnity provision and was in force during the financial year and up
+to and including the date of the approval of the Annual Report and Financial Statements.
+
+DIRECTORS
+
+The directors who served during the year and up to the date of signing these financial statements unless otherwise stated
+are as follows:
+
+A Debiase
+
+D Saulter
+
+Page 3
+
+DAVIES LEARNING SOLUTIONS LIMITED
+ANNUAL REPORT AND FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 JUNE 2023
+
+DIRECTORS’ REPORT (continued)
+DISCLOSURE OF INFORMATION TO AUDITOR
+Each of the persons who is a director at the date of approval of this report confirms that:
+
+(1) so far as each director is aware, there is no relevant audit information of which the company’s auditor is unaware;
+and
+
+(2) each director has taken all the steps that he/she ought to have taken as a director in order to make himself/herself
+aware of any relevant audit information and to establish that the company’s auditor is aware of that information.
+
+This confirmation is given and should be interpreted in accordance with the provisions of Section 418 of the
+Companies Act 2006.
+
+STATEMENT OF DIRECTORS’ RESPONSIBILITES
+The directors are responsible for preparing the Annual Report and the financial statements in accordance with
+applicable law and regulations.
+
+Company law requires the directors to prepare financial statements for each financial year. Under that law the
+directors have prepared the company financial statements in accordance with United Kingdom Generally Accepted
+Accounting Practice (United Kingdom Accounting Standards and applicable law). Under company law the directors -
+must not approve the financial statements unless they are satisfied that they give a true and fair view of the state of
+affairs of the company and of the profit or loss of the company for that year. In preparing these financial statements,
+the directors are required to:
+
+e select suitable accounting policies and then apply them consistently;
+
+e make judgements and accounting estimates that are reasonable and prudent;
+
+e state whether applicable UK Accounting Standards have been followed, subject to any material departures
+disclosed and explained in the financial statements; and
+
+e prepare the financial statements on the going concern basis unless it is inappropriate to presume that the
+company and the group will continue in business.
+
+The directors are responsible for keeping adequate accounting records that are sufficient to show and explain the
+company’s transactions and disclose with reasonable accuracy at any time the financial position of the company and
+enable them to ensure that the financial statements comply with the Companies Act 2006. They are also responsible
+for safeguarding the assets of the company and hence for taking reasonable steps for the prevention and detection
+of fraud and other irregularities.
+
+INDEPENDENT AUDITOR
+The auditor, BDO LLP, has indicated its willingness to continue in office and will be proposed for re-appointment at
+the next annual general meeting.
+
+7
+
+By order of the Board
+
+AQ
+
+A Debiase
+Director
+Date: 7 February 2024
+
+Page 4
+
+DAVIES LEARNING SOLUTIONS LIMITED
+ANNUAL REPORT AND FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 JUNE 2023
+
+INDEPENDENT AUDITOR'S REPORT TO THE MEMBERS OF DAVIES LEARNING SOLUTIONS LIMITED
+
+Opinion on the financial statements
+
+In our opinion the financial statements:
+
+© give a true and fair view of the state of the Company’s affairs as at 30 June 2023 and of its profit for the year
+then ended;
+
+* have been properly prepared in accordance with United Kingdom Generally Accepted Accounting Practice; and
+
+e have been prepared in accordance with the requirements of the Companies Act 2006.
+
+We have audited the financial statements of Davies Learning Solutions Limited (“the Company”) for the year ended
+30 June 2023 which comprise Income Statement, Statement of Comprehensive Income, Statement of Financial
+Position, Statement of Changes in Equity and notes to the financial statements, including a summary of significant
+accounting policies. The financial reporting framework that has been applied in their preparation is applicable law
+and United Kingdom Accounting Standards, including Financial Reporting Standard 102 The Financial Reporting
+Standard applicable in the UK and Republic of lreland (United Kingdom Generally Accepted Accounting Practice).
+
+Basis for opinion
+
+We conducted our audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and applicable
+law. Our responsibilities under those standards are further described in the Auditor's responsibilities for the audit
+of the financial statements section of our report. We believe that the audit evidence we have obtained is sufficient
+and appropriate to provide a basis for our opinion.
+
+Independence
+
+We are independent of the Company in accordance with the ethical requirements that are relevant to our audit of
+the financial statements in the UK, including the FRC’s Ethical Standard, and we have fulfilled our other ethical
+responsibilities in accordance with these requirements.
+
+Conclusions relating to going concern
+
+In auditing the financial statements, we have concluded that the Directors’ use of the going concern basis of
+accounting in the preparation of the financial statements is appropriate.
+
+Based on the work we have performed, we have not identified any material uncertainties relating to events or
+conditions that, individually or collectively, may cast significant doubt on the Company’s ability to continue as a
+
+going concern for a period of at least twelve months from when the financial statements are authorised for issue.
+
+Our responsibilities and the responsibilities of the Directors with respect to going concern are described in the
+relevant sections of this report.
+
+Page 5
+
+DAVIES LEARNING SOLUTIONS LIMITED
+ANNUAL REPORT AND FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 JUNE 2023
+
+INDEPENDENT AUDITOR’S REPORT TO THE MEMBERS OF DAVIES LEARNING SOLUTIONS LIMITED (continued)
+Other information
+
+The Directors are responsible for the other information. The other information comprises the information included
+in the Annual Report, other than the financial statements and our auditor's report thereon. Our opinion on the
+financial statements does not cover the other information and, except to the extent otherwise explicitly stated in
+our report, we do not express any form of assurance conclusion thereon.
+
+Our responsibility is to read the other information and, in doing so, consider whether the other information is
+materially inconsistent with the financial statements or our knowledge obtained in the course of the audit or
+otherwise appears to be materially misstated. If we identify such material inconsistencies or apparent material
+misstatements, we are required to determine whether this gives rise to a material misstatement in the financial
+statements themselves. If, based on the work we have performed, we conclude that there is a material
+misstatement of this other information, we are required to report that fact.
+
+We have nothing to report in this regard.
+
+Other Companies Act 2006 reporting
+
+In our opinion, based on the work undertaken in the course of the audit:
+
+¢ the information given in the Directors’ report for the financial year for which the financial statements are
+prepared is consistent with the financial statements; and
+e the Directors’ report have been prepared in accordance with applicable legal requirements.
+
+In the light of the knowledge and understanding of the Company and its environment obtained in the course of the
+audit, we have not identified material misstatements in the Directors’ report.
+
+We have nothing to report in respect of the following matters in relation to which the Companies Act 2006
+requires us to report to you if, in our opinion:
+
+© adequate accounting records have not been kept, or returns adequate for our audit have not been received
+from branches not visited by us; or
+
+© the financial statements are not in agreement with the accounting records and returns; or
+
+e certain disclosures of Directors’ remuneration specified by law are not made; or
+
+© we have not received all the information and explanations we require for our audit.
+
+Page6
+
+DAVIES LEARNING SOLUTIONS LIMITED
+ANNUAL REPORT AND FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 JUNE 2023
+
+INDEPENDENT AUDITOR’S REPORT TO THE MEMBERS OF DAVIES LEARNING SOLUTIONS LIMITED (continued)
+Responsibilities of Directors
+
+As explained more fully in the Statement of Directors’ Responsibilities, the Directors are responsible for the
+preparation of the financial statements and for being satisfied that they give a true and fair view, and for such
+internal control as the Directors determine is necessary to enable the preparation of financial statements that are
+free from material misstatement, whether due to fraud or error.
+
+In preparing the financial statements, the Directors are responsible for assessing the Company's ability to continue
+as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of
+accounting unless the Directors either intend to liquidate the Company or to cease operations, or have no realistic
+alternative but to do so.
+
+Auditor's responsibilities for the audit of the financial statements
+
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free
+from material misstatement, whether due to fraud or error, and to issue an auditor’s report that includes our
+opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in
+accordance with ISAs (UK) will always detect a material misstatement when it exists. Misstatements can arise from
+fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to
+influence the economic decisions of users taken on the basis of these financial statements.
+
+Extent to which the audit was capable of detecting irregularities, including fraud
+
+Irregularities, including fraud, are instances of non-compliance with laws and regulations. We design procedures in’
+line with our responsibilities, outlined above, to detect material misstatements in respect of irregularities,
+including fraud. The extent to which our procedures are capable of detecting irregularities, including fraud is
+detailed below: :
+
+Non-compliance with laws and regulations
+
+Based on our understanding of the Company and the industry in which it operates, discussion with management
+and those charged with governance, legal and work performed to obtain and understand the Company’s policies
+and procedures regarding compliance with laws and regulations, we considered the significant laws and
+regulations with direct effect on the financial statements to be the applicable accounting standards and
+Companies Act 2006.
+
+The Company is also subject to laws and regulations where the consequence of non-compliance could have a
+material effect on the amount or disclosures in the financial statements, for example through the imposition of
+fines or litigations. We identified such laws and regulations to include the Employment Rights Act 1996, Income
+Tax Act 2007 and the Health and Safety at Work Act 1974.
+
+Our procedures in respect of the above included:
+
+e Review of minutes of meeting of those charged with governance for any instances of non-compliance with
+laws and regulations;
+
+e Review of financial statement disclosures and agreeing to supporting documentation;
+
+e Review of legal expenditure accounts to understand the nature of expenditure incurred; and
+
+e Enquiry of management and those charged with governance to ascertain if there had been any actual or
+suspected non-compliance with laws and regulations.
+
+Page 7
+
+INDEPENDENT AUDITOR’S REPORT TO THE MEMBERS OF DAVIES LEARNING SOLUTIONS LIMITED
+(continued)
+
+Auditor's responsibilities for the audit of the financial statements (continued)
+
+Fraud
+
+We assessed the susceptibility of the financial statements to material misstatement, including fraud.
+Our risk assessment procedures included:
+
+Enquiry with management and those charged with governance regarding any known or
+suspected instances of fraud;
+
+Obtaining an understanding of the Company's policies and procedures relating to detecting
+and responding to the risks of fraud and Internal controls established to mitigate risks related
+to fraud.
+
+Review of minutes of meeting of those charged with governance for any known or suspected
+instances of fraud;
+
+Discussion amongst the engagement team as to how and where fraud might occur in the
+financial statements; and
+
+Performing analytical procedures to identify any unusual or unexpected relationships that may
+indicate risks of material misstatement due to fraud;
+
+Based on our risk assessment, we considered the areas most susceptible to fraud to be revenue and
+management override of controls.
+
+Our procedures in respect of the above included:
+
+Agreement of the financial statement disclosures to underlying supporting documentation;
+Revenue year end cut-off and accrued income procedures;
+
+Testing a sample of journal entries throughout the year, which met a defined risk criteria, by
+agreeing to supporting documentation;
+
+Assessing significant estimates made by management for bias in particular in relation to
+recognition of revenue and accrued income;
+
+Discussions with management; including consideration of known or suspected instances of
+non-compliance with laws, regulations and fraud, including follow up procedures where
+required;
+
+Review of minutes of Board meetings throughout the year;
+
+Obtaining an understanding of internal control relevant to the audit in order to design audit
+procedures that are appropriate in the circumstances, but not for the purpose of expressing an
+opinion on the effectiveness of the Group’s interna! control; and
+
+Evaluated the overall presentation, structure, and content of the financial statements,
+including the disclosures, and whether the financial statements represent the underlying
+transactions and events in a manner that achieves fair presentation.
+
+We also communicated relevant identified laws and regulations and potential fraud risks to all
+engagement team members who were all deemed to have appropriate competence and capabilities
+and remained alert to any indications of fraud or non-compliance with laws and regulations throughout
+the audit.
+
+INDEPENDENT AUDITOR’S REPORT TO THE MEMBERS OF DAVIES LEARNING SOLUTIONS LIMITED
+{continued) ; :
+
+Auditor's responsibilities for the audit of the financial statements (continued)
+
+Our audit procedures were designed to respond to risks of material misstatement in the financial
+statements, recognising that the risk of not detecting a material misstatement due to fraud is higher
+than the risk of not detecting one resulting from error, as fraud may involve deliberate concealment
+by, for example, forgery, misrepresentations or through collusion. There are inherent limitations in the
+audit procedures performed and the further removed non-compliance with laws and regulations is
+from the events and transactions reflected in the financial statements, the less likely we are to become
+aware of it.
+
+A further description of our responsibilities is available on the Financial Reporting Council’s website at:
+
+https://www.frc.org.uk/auditorsresponsibilities. This description forms part of our auditor's report.
+
+Use of our report
+
+This report is made solely to the Company’s members, as a body, in accordance with Chapter 3 of Part
+16 of the Companies Act 2006. Our audit work has been undertaken so that we might state to the
+Company’s members those matters we are required to state to them in an auditor’s report and for no
+other purpose. To the fullest extent permitted by law, we do not accept or assume responsibility to
+anyone other than the Company and the Company’s members as a body, for our audit work, for this
+report, or for the opinions we have formed.
+
+DocuSigned by:
+
+Gute Soli
+
+9484 18FSEES434...
+
+Geeta Joshi (Senior Statutory Auditor)
+For and on behalf of BDO LLP, Statutory
+Auditor
+
+London
+
+United Kingdom
+
+8 February 2024
+
+BDO LLP is a limited liability partnership registered in England and Wales (with registered number
+0C305127).
+
+DAVIES LEARNING SOLUTIONS LIMITED
+ANNUAL REPORT AND FINANCIAL STATEMENTS
+FOR THE YEAR ENDEO 30 JUNE 2023
+
+INCOME STATEMENT
+FOR THE YEAR ENDED 30 JUNE 2023
+
+Year ended Year ended
+30 June 2023 30 June 2022
+Note £ £
+Turnover 3 8,072,628 7,281,513
+Cost of sales (4,285,337) (3,604,454)
+Gross profit 3,787,291 3,677,059
+Administrative expenses (before exceptional administrative (2,485,146) (2,526,132)
+expenses)
+EBITDA (before exceptional administrative expenses) 1,302,145 1,150,927
+Depreciation - (2,408)
+Amortisation (62,447) (20,372)
+Exceptional administrative expenses (80,630) (219,483)
+Total administrative expenses (2,628,223) (2,768,395)
+Operating profit 5 1,159,068 908,664
+Profit on ordinary activities before interest and taxation 1,159,068 908,664
+Interest payable and similar charges - 2
+Profit on ordinary activities before taxation 1,159,068 908,666
+Tax on profit on ordinary activities 7 4,195 1,428
+Profit for the financial year 1,163,263 910,094
+All amounts relate to continuing operations.
+STATEMENT OF COMPREHENSIVE INCOME
+FOR THE YEAR ENDED 30 JUNE 2023
+Year ended Year ended
+30 June 2023 30 June 2022
+£ £
+Profit for the financial year 1,163,263 910,094
+Total recognised profit relating to the year 1,163,263 910,094
+
+The notes on pages 13 to 20 form part of these financial statements.
+
+Page 10
+
+DAVIES LEARNING SOLUTIONS LIMITED
+ANNUAL REPORT AND FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 JUNE 2023
+
+STATEMENT OF FINANCIAL POSITION
+
+AS AT 30 JUNE 2023
+As at 30 June 2023 As at 30 June 2022
+Note £ £ £ £
+ASSETS
+Fixed assets
+Intangible assets 8 280,580 82,783
+Tangible assets 9 - -
+280,580 82,783
+Current assets
+Debtors 10 4,813,837 . 10,201,538
+Deferred tax asset 7 4,759 564
+Cash at bank and in hand 584,813 629,401
+5,403,409 10,831,503
+Total assets 5,683,989 10,914,286
+LIABILITIES AND EQUITY
+Capital and reserves
+Called up share capital 11 180 180
+Share premium - ‘.
+Capital redemption reserve 20 20
+Profit and loss account 5,261,142 4,097,879
+Total shareholders’ funds : 5,261,342 4,098,079
+Other liabilities
+Creditors: amounts falling due within one year 12 422,647 6,816,207
+Total other liabilities 422,647 6,816,207
+
+Total equity and liabilities 5,683,989 10,914,286
+
+The financial statements on pages 10 to 20 were approved by the Board of Directors on 30 January 2024 and were signed on its
+behalf by: . :
+
+A Debiase
+Director
+
+Company registered number 09063924
+
+The notes on pages 13 to 20 form part of these financial statements.
+
+Page 11
+
+DAVIES LEARNING SOLUTIONS LIMITED
+ANNUAL REPORT AND FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 JUNE 2023
+
+STATEMENT OF CHANGES IN EQUITY
+
+FOR THE YEAR ENDED 30 JUNE 2023
+
+Capital
+Share Redemption Profit and loss Total
+capital reserve account Equity
+£ £ £ £
+Balance as at 1 July 2021 180 20 3,187,785 3,187,985
+Profit for the year - - 910,094 910,094
+Other comprehensive income for the year - - : :
+Total comprehensive income for the year - - 910,094 910,094
+Balance as at 30 June 2022 180 20 4,097,879 4,098,079
+Profit for the year - - 1,163,263 1,163,263
+Other comprehensive income for the year : :
+Total comprehensive income for the year - - 1,163,263 1,163,263
+180 20 5,261,142 5,261,342
+
+Balance as at 30 June 2023
+
+The notes on pages 13 to 20 form part of these financial statements.
+
+Page 12
+
+DAVIES LEARNING SOLUTIONS LIMITED
+ANNUAL REPORT AND FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 JUNE 2023
+
+NOTES TO THE FINANCIAL STATEMENTS
+
+1 Accounting policies
+
+Davies Learning Solutions Limited is a private company limited by shares incorporated in England & Wales under the Companies Act
+2006. The address of the registered office is given on the contents page and the nature of the company’s operations and its
+principal activities are set out in the directors’ report. The financial statements have been prepared in accordance with FRS 102, the
+Financial Reporting Standard applicable in the United Kingdom and the Republic of Ireland.
+
+The preparation of financial statements in compliance with FRS 102 requires the use of certain critical accounting estimates. It also
+requires Group management to exercise judgement in applying the Group's accounting policies.
+
+The company has taken advantage of the following disclosure exemptions in preparing these financial statements, as permitted by
+the FRS 102 'The Financial Reporting Standard applicable in the UK and Republic of Ireland.
+
+- the requirements of Section 7 Statement of Cash Flows;
+
+- the requirements of Section 3 Financial Statement Presentation paragraph 3.17 (d);
+
+- the requirements of Section 11 Financial Instruments paragraphs 11.39 to 11.48A;
+
+- the requirements of Section 12 Other Financial Instruments paragraphs 12.26 to 12.29;
+
+- the requirements of Section 33 Related Party Disclosures paragraph 33.7.
+
+This information is included in the consolidated financial statements of Davies Group Limited as at 30 June 2023 and these financial
+statements may be obtained from the company's registered office.
+
+Going concern
+
+The entity is a subsidiary of Tennessee Topco Limited and party to group funding facilities. Monitoring of financial performance and
+management of banking facilities is done on a group basis and incorporates the results of all subsidiaries of the group that are
+consolidated within Tennessee Topco Limited accounts.
+
+The directors continually review and monitor business performance and liquidity of the Group. After reviewing the Group's forecasts
+and projections, the directors have a reasonable expectation that the Group has adequate resources to continue in operational
+existence for the foreseeable future.
+
+Despite the challenging economic environment, the Group has performed in line with its Adjusted EBITDA and cashflow budgets in
+the first seven months of the year ending 30 June 2024 and the Group remains on track to deliver strong EBITDA growth in FY24.
+Further the Group has access to a committed revolver credit facility of £90m should this be required.
+
+The Group's most recent forecasting exercise covers a period from the balance sheet date to 30 June 2025. As part of their
+forecasting work, the directors undertook some detailed sensitivity analysis which showed that the Group is highly unlikely to
+breach its sole covenant. The Group enjoys the continued funding support of its shareholders: BC Partners, HGGC, and AimCo,
+having raised an additional £45m in equity in September 2022 and £32m in equity in April 2023 to support M&A. In addition, in
+November 2023 the shareholders injected a further £110m of equity to support the near term M&A plans. The key mitigant for a
+covenant breach would be an equity injection from the shareholders which is permitted under the existing banking agreement.
+Additionally, should the Group experience a liquidity issue, it could draw down on the £90m RCF which can be accessed for any
+purpose. ~
+
+in August 2021 BC Partners acquired a majority stake in the business following a rigorous due diligence process and as part of this
+transaction, Blackstone replaced ICG as the Group’s debt provider. The total facilities available to the Group as at June 2023 were
+£1,342m, of which £700m is an acquisition facility and £90m is a revolving credit facility. The acquisition facilities are committed
+facilities which can be utilised for capex, M&A requirements and restructuring and the RCF can be used for any purpose including
+operational, working capital and M&A requirements, and can be drawn down in 4 working days. The total amount of debt drawn
+down at June 2023 is £985m. In addition, in November 2023, the Group secured an additional facility of USD90.4m.
+
+The Group is continuing its M&A programme and during the period ended 30 June 2023 the Group made six acquisitions and, for
+detail. The Group has signed one new acquisition since the financial year end, adding c£17.8m EBITDA before synergies.
+
+The company has continued to trade profitably since the year end in line with forecasts. As such, the Directors have a reasonable
+expectation that the company has adequate resources to continue in operational existence for the foreseeable future. The
+Directors therefore believe that it remains appropriate to prepare the financial statements on a going concern basis. The financial
+statements do not include any adjustments that would result from this basis of preparation being inappropriate.
+
+The following principal accounting policies have been applied:
+
+Page 13
+
+DAVIES LEARNING SOLUTIONS LIMITED
+ANNUAL REPORT AND FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 JUNE 2023
+
+NOTES TO THE FINANCIAL STATEMENTS (continued)
+
+1 Accounting policies (continued)
+
+Turnover
+
+Turnover comprises the fair value of the consideration received or receivable for the sale of goods and provision of services in the
+ordinary course of the company's activities in providing apprenticeship training and commercial offerings. Turnover is shown net or
+sales/vat added tax, returns, rebates and discounts.
+
+All turnover is derived from within the United Kingdom.
+
+Intangible assets
+
+Intangible assets are measured at cost less accumulated amortisation and any accumulated impairment losses.
+
+Amortisation is charged so as to allocate the cost of intangibles less their residual values over their estimated useful lives, using the
+straight-line method. The intangible assets are amortised over the following useful economic lives:
+
+- Other intangibles - 33% straight line
+
+Tangible assets
+
+Tangible fixed assets are stated at historical cost less accumulated depreciation and any accumulated impairment losses. Historical
+cost includes expenditure that is directly attributable to bringing the asset to the location and condition necessary for it to be
+capable of operating in the manner intended by management. Repairs and maintenance are charged to the income statement
+during the period in which they are incurred.
+
+Depreciation on other assets is charged so as to allocate the cost of assets less their residual value over their estimated useful lives,
+using the straight-line method. The estimated useful lives range as follows:
+
+Fixtures and fittings - 20% straight line
+
+Leased assets: Lessee
+
+Costs in respect of operating leases are charged to the income statement on a straight line basis over the term of the lease.
+
+The company has taken advantage of the optional exemption available on transition to FRS 102 which allows lease incentives on
+leases entered before the date of transition to the standard (1 July 2014) to continue to be charged over the shorter period to the
+first market rent review rather than the term of the lease. For leases entered into on or after 1 July 2014, reverse premiums and
+similar incentives received to enter into operating lease agreements are released to the income statement over the term of the
+lease.
+
+Where the company has a legal obligation, a dilapidations provisions is created on inception of a lease. These provisions are a best
+
+estimate of the cost acquired to return lease properties to their original condition upon termination of the lease. Where the
+- obligation arises from 'wear and tear’, the provision is accrued as the 'wear and tear’ occurs.
+
+Holiday pay accrual
+
+A liability is recognised to the extent of any unused holiday pay entitlement which has accrued at the balance sheet date and carried
+forward to future periods. This is measured at the undiscounted salary cost of the future entitlement so accrued at the balance
+sheet date.
+
+Current and deferred taxation
+
+Current tax is recognised for the amount of income tax payable in respect of the taxable profit for the current or past reporting
+periods using the tax rates and laws that have been enacted or substantively enacted by the reporting date.
+
+Deferred balances are recognised in respect of all timing differences that have originated but not reversed by the balance sheet
+date, except:
+
+- The recognition of deferred tax assets is limited to the extent that it is probable that they will be recovered against the reversal of
+deferred tax liabilities or other future taxable profits;
+
+- Any deferred tax balances are reversed if and when all conditions for retaining associated tax allowances have been met and;
+-Where timing differences relate to interests in subsidiaries and the Group can control their reversal and such reversal is not
+considered probable in the foreseeable future.
+
+Deferred tax balances are not recognised in respect of timing differences except in respect of business combinations, when deferred
+tax is recognised on the differences between the fair values of assets acquired and the future deductions available for them and the
+differences between the fair values of liabilities acquired and the amount that will be assessed for tax.
+
+Deferred income tax is determined using tax rates and laws that have been enacted or substantively enacted by the reporting date.
+
+Page 14
+
+DAVIES LEARNING SOLUTIONS LIMITED.
+ANNUAL REPORT AND FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 JUNE 2023
+
+NOTES TO THE FINANCIAL STATEMENTS (continued)
+
+1 Accounting policies (continued)
+
+Cash and cash equivalents
+
+Cash and cash equivalents includes cash on hand and deposits held at call with financial institutions which are subject to an
+insignificant risk of changes in vaiue.
+
+Debtors
+
+Debtors include trade debtors, prepayments, accrued income and inter-company borrowings (see note 10). Prepayments are
+payments made for goods or services that will be received in the future. These are initially recorded as assets and amortised over
+time as the benefit of the prepaid expense is realised. Accrued income corresponds to the revenue earned during the period but not
+yet billed to or collected from the customer.
+
+Trade and other payabies
+
+These amounts represent unsecured liabilities for goods and services provided to the company prior to the end of the financial year
+which are unpaid. Trade and other payables are presented as current liabilities unless payment is not due within 12 months after
+the reporting period. They are recognised at their fair value.
+
+Pensions
+The Group makes contributions under a defined contribution scheme, the assets of which are held in a separately-administered
+
+fund. All pension contributions are charged to the profit and loss in the period in which they fall due.
+Reserves
+
+The company's reserves are as follows:
+
+- Called up share capital represents the nominal value of the shares issued.
+
+- Capital redemption reserve represents 10% buy back of shares issued.
+
+- Profit and loss account represents cumulative profits or losses, net of dividends paid and other adjustments.
+
+Financial assets
+
+Financial assets, other than investments and derivatives, are initially measured at transaction price (including transactions costs) and
+subsequently held at cost, less any impairment.
+
+Financial liabilities
+
+Financial liabilities and equity are classified according to the substance of the financial instrument's contractual obligations, rather
+
+than the financial instrument's legal form. Financial liabilities, excluding convertible debt and derivatives, are initially measured at
+transaction price (including transaction costs) and subsequently held at amortised cost.
+
+2 Significant judgements and estimates
+
+In preparing these financial statements, the directors have made the following judgements:
+
+- Determine whether leases entered into by the company either as a lessor or a lessee are operating or finance leases. These
+decisions depend on an assessment of whether the risks and rewards of ownership have been transferred from the lessor to the
+lease on a lease by lease basis.
+
+- Make an estimate on accruing income based on active learners being claimed on monthly ILR submissions to the ESFA or yet to be
+activated while going through final compliance checks.
+
+3 Turnover
+
+All turnover is derived from the company's principal activity, which the directors consider comprises a single class of business, and
+arose within the United Kingdom.
+
+Page 15
+
+DAVIES LEARNING SOLUTIONS LIMITED
+ANNUAL REPORT AND FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 JUNE 2023
+
+NOTES TO THE FINANCIAL STATEMENTS (continued)
+
+4 Staff costs and employee information
+
+Year ended Year ended
+
+30 June 2023 30 June 2022
+
+£ £
+
+Wages and salaries 3,937,450 3,357,983
+
+Social security costs 403,045 356,723
+
+Other pension costs 176,333 155,317
+
+Total 4,516,828 3,870,023
+The average monthly number of employees during the year (including directors service contracts} was:
+
+Year ended Year ended
+
+30 June 2023 30 June 2022
+
+Number Number
+
+Technical 62 $1
+
+Support 47 38
+
+Total 110 89
+
+At 30 June 2023, the Group employed 110 (2022: 98) employees.
+
+Page 16
+
+DAVIES LEARNING SOLUTIONS LIMITED
+ANNUAL REPORT AND FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 JUNE 2023
+
+NOTES TO THE FINANCIAL STATEMENTS (continued)
+
+5 Operating profit
+
+Operating profit is stated after charging:
+
+Year ended Year ended
+
+30 June 2023 30 June 2022
+
+£ £
+
+Amortisation 62,447 20,372
+Depreciation - Owned assets : 2,408
+Exceptional administrative expenses 80,630 219,483
+; . 143,077 242,263
+
+The auditors’ remuneration for the year ended 30 June 2023 of £6,312 (2022: £5,750) was borne by Farradane Limited on behalf of
+all the subsidiaries of Davies Group Limited.
+
+The exceptional administrative expenses comprise costs of rationalization and restructuring projects.
+
+6 Directors’ emoluments
+
+Year ended Year ended
+
+30 June 2023 30 June 2022
+
+£ £
+
+Aggregate emoluments : 44,782
+
+No emoluments were paid to the directors for their services to the company (2022: £44,782). There are two (2022: two} directors
+who were remunerated through a fellow group undertaking for their services to the group as a whole. Those directors are directors
+of a number of fellow subsidiaries and it is not possible to make an accurate apportionment of their emoluments in respect of each
+of the subsidiaries. Accordingly, the above details include no emoluments in respect of those directors. Their total emoluments are
+included in the aggregate of directors’ emoluments disclosed in the financial statements of the parent company.
+
+7 Tax on profit on ordinary activities
+a) Analysis of the tax payment in the year
+
+The tax payment on the profit on ordinary activities for the year was as follows:
+
+Year ended Year ended
+30 June 2023 30 June 2022
+£ £
+Current tax:
+UK corporation tax on profits for the year . - -
+Adjustments in respect of previous years 5 ' -
+Total current tax - -
+Deferred tax:
+Origination and reversal of timing differences (4,195) (602)
+Adjustments in respect of previous years + (826)
+Total deferred tax * (4,195) (1,428)
+Total tax charge/(credit} on profit on ordinary activities (4,195) (1,428)
+
+Page 17
+
+DAVIES LEARNING SOLUTIONS LIMITED
+ANNUAL REPORT AND FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 JUNE 2023
+NOTES TO THE FINANCIAL STATEMENTS (continued)
+7 Tax on profit on ordinary activities (continued)
+b) Factors affecting the tax charge
+
+The tax assessed for the year is the standard rate of corporation tax in the UK of 20.50% (2022: 19.00%). The difference is explained
+
+below:
+Year ended Year ended
+30 June 2023 30 June 2022
+£ £
+Profit on ordinary activities before taxation 1,159,068 908,666
+Profit on ordinary activities multiplied by the standard rate of 237,561 172,647
+corporation tax in the UK of 19.00% (2021: 19.00%)
+Tax effects of:
+Expenses not deductible for tax purposes 257 1,564
+Group relief claimed (241,258) (174,669)
+Adjustment to previous years (deferred tax) - , (826)
+Remeasurement of deferred tax for changes in tax rates (755) (144)
+Items charged elsewhere
+Total current tax charge/(credit) || 995) (428)
+c) Provision for deferred tax
+Fixed asset timing differences (564) (564)
+Movement in provision:
+Provision at start of period (564) 864
+Deferred tax charged in the Profit and loss account (4,195) (1,428)
+for the period
+(Asset)/Provision at end of period (4,759) (564)
+8 Intangible fixed assets
+Other
+Intangibles
+£
+Cost
+At 1 July 2022 112,242
+Additions 260,244
+At 30 June 2023 372,486
+Accumulated amortisation
+At 1 July 2022 (29,459)
+Amortisation for year (62,447)
+At 30 June 2023 (91,906)
+Net book value
+At 30 June 2023 280,580
+At30 June 2022 82,783
+
+The other intangible assets comprise technology assets relating to internally generated development assets comprising staff and
+contractor costs.
+
+DAVIES LEARNING SOLUTIONS LIMITED
+ANNUAL REPORT AND FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 JUNE 2023
+
+NOTES TO THE FINANCIAL STATEMENTS (continued)
+
+9 Tangible fixed assets
+
+Fixtures and
+Fittings
+£
+Cost or valuation
+At 1 July 2022 oe 31,458
+Additions :
+At 30 June 2023 31,458
+Accumulated depreciation
+At 1 July 2022 (31,458)
+Charge for period a
+At 30 June 2023 (31,458)
+
+Net book value
+At 30 June 2023 -
+
+At 30 June 2022 -
+
+Fixed assets are stated at historical cost.
+
+10 Debtors due within one year
+
+Year ended Year ended
+
+30 June 2023 30 June 2022
+
+£ £
+
+Trade debtors 52,428 104,457
+Amounts owed by Group undertakings 3,715,687 | 6,815,182
+Other debtors 28,631 . 1,094
+Prepayments and accrued income 1,017,091 645,512
+od 4,813,837 7,566,245
+
+Amounts owed by group undertakings are unsecured, interest-free, have no fixed date of repayment and are repayable on demand.
+
+11 Called up share capital
+
+Year ended Year ended
+
+. 30 June 2023 30 June 2022
+Allotted, issued and fully paid £ £
+60 (2021: 60) Ordinary A Shares of £1.00 each 60 60
+
+* 60 (2021: 60) Ordinary B Shares of £1.00 each 60 60
+60 {2021: 60) Ordinary D Shares of £1.00 each 60 60
+
+; 180 180
+
+All classes of share rank pari passu with each other.
+
+Page 19
+
+DAVIES LEARNING SOLUTIONS LIMITED
+ANNUAL REPORT AND FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 JUNE 2023
+
+NOTES TO THE FINANCIAL STATEMENTS (continued)
+
+12 Creditors: amounts falling due within one year
+
+Year ended Year ended
+
+30 June 2023 30 June 2022
+
+£ £
+
+Trade creditors 49,495 54,645
+Amounts owed to Group undertakings 163,087 5,769,555
+Other taxation and social security 8,314 10,501
+Other creditors 12,000 85,000
+Accruals and deferred income 189,751 896,506.
+422,647 6,816,207
+
+Amounts owed to group undertakings are unsecured, interest-free, have no fixed date of repayment and are repayable on demand.
+
+13 Operating lease commitments
+
+At 30 June 2023, the company had no future minimum tease payments under non-cancellable operating leases (at 30 June 2022:
+nil).
+
+14 Defined contribution scheme
+The company operates a defined contribution scheme. The assets are held separately from those of the company in a separately-
+
+administered fund. The charge for the period represents contributions payable by the company to the fund and amounted to
+£176,333 (at 30 June 2022: £155,317).
+
+At 30 June 2023, the company had outstanding contributions of £nil (at 30 June 2022: Enil).
+
+15 Ultimate parent undertaking and controlling party
+
+The company is a wholly owned subsidiary of a Group whose parent company is Davies Group Limited which is the smallest Group
+to consolidate these financial statements. At 30 June 2023 Davies Group Limited was in turn ultimately owned by Tennessee Topco
+Limited which the directors considered to be the ultimate parent undertaking and the largest Group to consolidate these financial
+
+statements, ©
+
+Copies of Davies Group Limited and Tennessee Topco Limited consolidated financial statements can be obtained from the Company
+Secretary at Sth Floor, 20 Gracechurch Street, London, EC3V OBG. The directors consider BC Partners Management XI Limited as the
+portfolio manager of BC Partners Fund XI to be the ultimate controlling party of the Group.
+
+16 Related party disclosures
+
+The Group has taken advantage of the exemption confirmed by section 33 of FRS 102 not to disclose transactions with members of
+the Group headed by Davies Group Limited on the grounds that 100% of the voting rights in the company are controlled within that
+Group.
+
+Page 20
+

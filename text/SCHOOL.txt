@@ -1,0 +1,124 @@
+Micro-entity Accounts - SCHOOL OF COMMUNICATION ARTS 2.0 LIMITED
+Companies House
+2023-08-01
+2024-07-31
+false
+06647783
+2024-07-31
+06647783
+2023-08-01
+2024-07-31
+06647783
+2022-08-01
+2023-07-31
+06647783
+uk-bus:Director1
+2023-08-01
+2024-07-31
+06647783
+uk-bus:Director2
+2023-08-01
+2024-07-31
+06647783
+2023-08-01
+2024-07-31
+06647783
+uk-bus:Micro-entities
+2023-08-01
+2024-07-31
+06647783
+uk-bus:FullAccounts
+2023-08-01
+2024-07-31
+06647783
+uk-bus:AuditExempt-NoAccountantsReport
+2023-08-01
+2024-07-31
+06647783
+2023-07-31
+06647783
+uk-core:WithinOneYear
+2024-07-31
+06647783
+uk-core:WithinOneYear
+2023-07-31
+06647783
+uk-core:AfterOneYear
+2024-07-31
+06647783
+uk-core:AfterOneYear
+2023-07-31
+iso4217:GBP
+Registered Number
+06647783
+SCHOOL OF COMMUNICATION ARTS 2.0 LIMITED
+Micro-entity Accounts
+31 July 2024
+SCHOOL OF COMMUNICATION ARTS 2.0 LIMITED
+Registered Number 06647783
+Micro-entity Balance Sheet as at
+31 July 2024
+Notes
+2024
+2023
+£
+£
+Fixed Assets
+3,594
+5,405
+Current Assets
+199,576
+192,263
+Creditors: amounts falling due within one year
+(
+53,422
+)
+(
+53,493
+)
+Net current assets (liabilities)
+146,154
+138,770
+Total assets less current liabilities
+149,748
+144,175
+Creditors: amounts falling due after more than one year
+(
+165,496
+)
+(
+218,999
+)
+Total net assets (liabilities)
+(
+15,748
+)
+(
+74,824
+)
+Capital and reserves
+(
+15,748
+)
+(
+74,824
+)
+For the year ending 31 July 2024 the company was entitled to exemption under section 477 of the Companies Act 2006 relating to small companies.
+The members have not required the company to obtain an audit in accordance with section 476 of the Companies Act 2006.
+The directors acknowledge their responsibilities for complying with the requirements of the Companies Act 2006 with respect to accounting records and the preparation of accounts.
+The accounts have been prepared in accordance with the micro-entity provisions and delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+Approved by the Board on
+29 January 2025
+And signed on their behalf by:
+Marc Lewis
+, Director
+SCHOOL OF COMMUNICATION ARTS 2.0 LIMITED
+Registered Number 06647783
+Notes to the Micro-entity Accounts for the period ended 31 July 2024
+1
+Employees
+2024
+2023
+Average number of employees during the period
+3
+4

@@ -1,0 +1,2812 @@
+Essity UK Limited
+Annual report and financial statements
+for the year ended 31 December 2023
+
+Registered number: 03226403
+
+Hu
+
+A22 21/12/2024 #169
+COMPANIES HOUSE
+
+SATURDAY
+
+Contents
+
+Company information
+Strategic report for the year ended 31 December 2023
+Directors’ report for the year ended 31 December 2023.................
+Independent auditor’s report to the members of Essity UK Limited
+
+Income Statement
+Statement of comprehensive income
+Statement of financial position ........
+Statement of changes in equity
+Notes to the financial statements for the year ended 31 December 2023 ..
+
+
+Essity UK Limited
+
+Company information
+
+Directors
+
+K J Starr
+D Hall
+
+Company secretary and registered office
+P A Bailey
+
+Southfields Road
+
+Dunstable
+
+Bedfordshire
+
+LU6 3EJ
+
+Independent auditors
+Ermst & Young LLP
+
+400 Capability Green
+Luton
+LU1 3LU
+
+Solicitors
+Reynolds Porter Chamberlain
+
+Chichester House
+278/282 High Holborn
+London
+
+WC17 7HA
+
+Bankers
+BNP Paribas
+
+10 Harewood Avenue
+London
+NWI 6AA
+
+}|Page
+
+Essity UK Limited
+
+Strategic report for the year ended 31 December 2023
+
+Review of business and future developments
+The company manufactures and sells a range of disposable hygiene products across three business areas,
+
+Consumer Goods, Professional Hygiene and Health & Medical.
+
+Market conditions remain very competitive across the company’s business units. The company continues to
+focus on innovation and operational efficiency improvement programmes to remain competitive.
+
+The profitability of the business has recovered to 2021 levels and it is on track to recover to pre-2021 levels.
+This is a result of the review of contracts, which has also led to a decrease in revenues, combined with decreases
+in raw material, energy and freight costs.
+
+On 10 January 2024, the company announced the closure of its Oakenholt PM1 plant. Accelerated depreciation
+of £5,749k has been made against fixed assets at 31 December 2023.
+
+On | September 2024 the company acquired the net assets and trade of its sister company Essity Operations
+Manchester Limited, which was already selling all its production of finished goods to Essity UK Limited as part
+of its business with external customers. The transaction was done at book value for an amount of £51,155,000.
+On 1 September 2024 the company acquired the trade of its sister company BSN Medical Limited for an
+estimated value of £8,933,000 based on management accounts at 31 August 2024. The purchase price agreed is
+the sum of the value of the investments held in this company’s books (€42,950,000), less the value of net
+monetary retained in BSN Medical Limited following completion.
+
+These transactions were executed to simplify the structure of Essity’s business in the U.K., to integrate the
+medical business into the main trading company and processes of Essity in the U.K, and to reduce administrative
+costs.
+
+Key Performance Indicators (“KPIs”)
+The company relies on different key performance indicators at an operational level. Such KPIs are used by the
+management team to monitor performance on a regular basis and are monitored at business group level.
+
+The main KPIs are as follows:
+
+2023 2022
+Current Ratio — current assets divided by current liabilities ‘177 1.74
+External Current Ratio — 3rd party current assets divided by 3rd party
+current liabilities . 1.40 1.32
+Revenue (£000) 918,535 956,997
+Operating profit adjusted for Essity group effects (£000) 132,477 106,242
+Gross Margin - the ratio of gross profit to revenue expressed as a percentage 29.0% 26.0%
+Adjusted Operating Margin - the ratio of adjusted operating profit to revenue
+expressed as a percentage 14.4% 11.1%
+Pre-Tax Profit Margin — the ratio of the profit before tax to revenue \
+expressed as a percentage 5.4% 2.1%
+
+2|Page
+
+Essity UK Limited
+
+Strategic report for the year ended 31 December 2023 (continued)
+
+Key Performance Indicators (“KPIs”) (continued)
+
+Operating profit adjusted for Essity group effects is calculated as follows.
+
+2023 2022
+Operating profit 42,480 * 14,626
+Franchise fees and cost sharing charges from Essity group and internal mark
+ups excluded from Business unit performance calculations 89,997 91,616
+Operating profit adjusted for Essity group effects 132,477 106,242
+
+Results and dividends
+
+The results of the company show a profit before tax of £49,272,000(2022: £20,532,000). An interim dividend of
+£nil was paid during the year (2022: £nil). The directors do not propose the payment of a final dividend (2022:
+£nil).
+
+Principal risks and uncertainties
+The management of the business and execution of the company’s strategy are subject to a number of risks.
+
+The key business risks and uncertainties affecting the company are considered to relate to general
+macroeconomic fluctuation and the resulting changes to customer purchasing power and consumption patterns,
+the competitive nature of the market place, fluctuations in energy and raw materials costs and environmental
+impact and climate change.
+
+The board has overall responsibility for the company’s risk management and internal control systems and for
+reviewing their effectiveness. The systems are designed to provide reasonable control over the activities of the
+company and to enable the board to comply with the directors’ responsibilities.
+
+This has been further considered within the financial risk management section.
+
+Financial risk management
+
+The company has in place a risk management programme that secks to limit the adverse effects on the financial
+performance of the company by monitoring levels of debt finance and the related finance costs. The company
+does not use derivative financial instruments to manage interest rate costs and as such, no hedge accounting is
+applied.
+
+The finance department has a policy and procedure manual set by the Essity AB Board that sets out specific
+guidelines to manage interest rate risk, credit risk and circumstances where it would be appropriate to use
+financial instruments. .
+
+Currency risk — transaction exposure
+
+The company has export revenues and import costs in different currencies. This exposes the company to currency
+fluctuations. Essity’s financial policy provides guidelines for managing the company’s transaction exposure by
+hedging the part of its transaction exposure that corresponds to the net exposure per foreign currency for booked
+trade accounts receivables and trade accounts payables. See Note 2 Significant accounting policies, Accounting
+for derivatives used for hedging purposes on page 36 for the accounting policy for cash flow hedges relating to
+transaction exposure.
+
+Credit risk
+
+The company has implemented policies that require appropriate credit checks on potential customers before sales
+are made. Credit checks are carried out on major customers where information about the customers’ financial
+position is obtained from various credit rating companies. The amount of exposure to any individual counterparty
+is subject to a limit, which is reassessed on a continual basis by the credit manager.
+
+3[Page
+
+Essity UK Limited
+
+Strategic report for the year ended 31 December 2023 (continued) ,
+
+Financial risk management (continued)
+
+Liquidity risk and cash management
+
+The Essity group actively maintains a mixture of long term and short term debt finance that is designed to ensure
+that the group has sufficient available funds for operation and planned expansion for each subsidiary. For Essity
+UK Limited, liquidity is managed by the company’s participation in the Essity group cash pooling facility,
+managed by fellow group company, Essity Treasury AB.
+
+The Essity treasury function conducts an annual risk assessment exercise, taking into account credit rating
+information regarding the company, provided by an external credit rating agency. This information is used to
+provide a risk adjusted interest rate which is applied between the company and its parent in respect of any loans
+receivable or payable, on an arm’s length basis.
+
+Interest rate and cash flow risk
+
+The company has policies and procedures that set out the specific guidelines that must be followed to manage
+the interest rate risk. The directors monitor these interest rate risks periodically. The exposure to interest rate risk
+is minimal as this is monitored by a central group treasury function, which is responsible for identifying and
+managing interest rate exposure. .
+
+Energy price risk
+
+Due to its energy intensive operations, the company is exposed to risks relating to the changes in the price of
+energy, particularly gas and electricity. When the energy price risk is not hedged, price changes in the energy
+market have a direct impact on the company's operating result. The Essity group's energy price policy forms a
+framework of guidelines for managing energy price risk via a price hedging mandate designating a hedge corridor
+with minimum and maximum levels expressed as a percentage of forecasted future consumption, with minimum
+and maximum levels varying across future consumption for the current year and the following two years. See
+Note 2 Significant accounting policies, Accounting for derivatives used for hedging purposes on page 36 for the
+accounting policy for cash flow hedges relating to energy costs.
+
+Statement by the directors in performance of their statutory duties in accordance with Section 172(1) of
+the Companies Act 2006
+
+The directors consider that they have acted in the way they consider, in good faith, would be most likely to
+promote the success of the company for the benefit of its members as a whole, and in doing so having regard to
+the matters set out in section 172 (1) (a) to (f) below.
+
+The company is part of the Essity group and as such, the directors of the company benefit from and contribute
+to Essity’s global vision, Beliefs and Behaviours and Code of Conduct and apply these in promoting the success
+of the company.
+
+The likely consequences of any decision in the long term
+
+Essity’s vision is “Dedicated to improving well-being through leading hygiene and health solutions”. Using a
+sustainable business model and a focus on profitable growth, Essity strives to achieve group targets relating to
+organic sales growth, profitability and sustainability and to generate long-term value creation. The directors,
+through operational business units, ensure strategic decisions are taken with Essity’s vision and targets in focus.
+
+The interests of the company’s employees
+
+The company aims to provide an open, healthy and respectful workplace based on fair and responsible principles.
+With regards to safety, the company has a vision for zero accidents. The directors promote personal responsibility
+for health and safety, and ensure managers promote a safety culture that is embedded throughout the company.
+
+We place value on having a diverse workforce and our aspiration is to help every employee reach their full
+potential. We engage in a fair and open dialogue with all employees and their representatives. Please see the
+paragraph Social on section Environmental, Social and Governance topic on this report on pages 6 and 7 for
+more details regarding employee engagement.
+
+4|Paue
+
+Essity UK Limited
+
+Strategic report for the year ended 31 December 2023 (continued)
+
+Statement by the directors in performance of their statutory duties in accordance with Section 172(1) of
+the Companies Act 2006 (continued)
+
+The need to foster the company’s business relationships with suppliers, customers and others
+Essity’s Code of Conduct leads all employees to behave in a manner which will foster professional and
+constructive relationships with suppliers, customers and other stakeholders.
+
+The company’s products improve everyday life through Essity innovation and marketing teams developing
+solutions based on a unique insight into the needs, challenges and expectations of our customers and consumers.
+We break barriers through bold marketing of sensitive products.
+
+Essity’s digital strategy guides effective digital interaction with customers and consumers, digital channels are
+frequently used in marketing campaigns to reach the desired target audience.
+
+Essity conducts systematic customer and consumer follow-up, which includes external reports, independent
+surveys and global systems for feedback. Essity places high value on opportunities for direct customer contact.
+
+Customer feedback enables Essity to offer better products and services. Every business unit has processes to
+investigate customer satisfaction. Essity also offers expertise and support for the development of operations in,
+for example, nursing homes and professional environments, where the company can help make a difference and
+create value for its customers and users.
+
+All of our suppliers and other business partners are expected to follow principles equivalent to those included in
+the company’s Code of Conduct. Essity also has a Global Supplier Standard to ensure responsible business
+operations and respect for human rights in the company’s supply chain. This standard contains requirements
+concerning quality, product safety, the environment and chemicals. It also contains a Code of Conduct for
+Suppliers that includes Essity’s expectations as regards to human rights and employee relations, as well as health
+and safety. Compliance with these principles is a key factor when choosing suppliers and other business partners.
+
+The impact of the company’s operations on the community and the environment
+The company engages with local communities through charitable donations and encouraging employees to
+generate opportunities to involve each site in its local community.
+
+Demand for sustainable solutions is increasing among customers and consumers. Sustainability is a strategic
+priority for the Essity group. The company actively contributes towards Essity’s targets to reduce resource
+consumption, reduce water usage and for responsible sourcing.
+
+Essity subjects its suppliers to stringent demands and works throughout the supply chain to guarantee responsible
+sourcing.
+
+The desirability of the company maintaining a reputation for high standards of business conduct
+
+” The company aims to conduct all its business fairly and build relationships based upon honesty and integrity.
+Employees receive training in Essity’s Code of Conduct to ensure high standards of business conduct. The code
+of conduct ensures responsible sourcing, following the Essity group’s global supplier standard.
+
+The need to act fairly as between members of the company
+
+The company is ultimately a 100% subsidiary of its ultimate parent company and controlling party, Essity
+Aktiebolag (publ), a company incorporated in Sweden. The directors regard to promote the success of the
+company is held as part of the overall strategy of the Essity group.
+
+Decisions made during the year
+During this year, a new carers policy has been implemented allowing employees to take up to 6 days paid leave
+per year to carry out their caring responsibilities.
+
+5|[Page
+
+Essity UK Limited
+
+Strategic report for the year ended 31 Decémber 2023 (continued)
+
+Environmental, Social and Governance topics
+
+Governance
+The company is part of the Essity AB Group, and Group management has taken a lead in managing sustainability.
+
+Sustainability is incorporated throughout Essity’s operations and form an integrated part of the Group’s overall
+corporate governance. Targets and strategies are established by Essity Group management (see Group
+Govemance below). 7
+
+In 2022, Essity introduced its “Sustainability Playing Field” summarising Essity’s priorities within social and
+environmental sustainability. Essity is focusing on the social areas of hygiene and health, diversity, equity, and
+inclusion (DEI), occupational health and safety, product safety, business ethics and human rights, and the
+environmental areas of emissions, forest and fibre, plastics, waste and water.
+
+Social
+
+In hygiene and health, Essity acts through the brands to break taboos, increase awareness, increase access, raise
+standards, and contribute to a more diverse and inclusive society.
+
+In early 2023, Essity and in Kind Direct collaborated to form a Period Equity Advisory Group in the UK with
+the objective of raising awareness and influencing change that can help break barriers when it comes to period
+equity. To drive further awareness of the need for change, Essity has proactively generated a national PR
+campaign thorough the media highlighting the findings of the research and communicating the recommendations
+made by the Advisory Group to government.
+
+Internally, the Diversity, Equity and Inclusion (DE&!) provides an inclusive working culture for all, which is
+stipulated in Essity’s Code of Conduct and Diversity Policy.
+
+The company’s policy is to consult and discuss with employees, through unions, works councils, employees
+survey and at meetings, to raise common awareness on the part of all employees of the financial and economic
+factors affecting the company’s performance and to enable employees to raise views.
+
+Information on matters of concern to employees is given through information bulletins, briefings and reports
+which seek to achieve a common awareness on the part of all employees of the financial and economic factors
+affecting the company’s performance.
+
+The company’s policy is not to discriminate on grounds of sex, age, national origin, disability or sexual
+orientation in any aspect of the employment relationship, including recruitment, training, career development, or
+other employment benefits.
+
+As such incoming applications are selected based on professional qualifications and working values regardless
+of disability, ethnicity, religion, gender, sexual identity, nationality or age.
+
+Applications for employment by disabled persons are always fully considered, bearing in mind the respective
+aptitudes and abilities of the applicant concemed. In the event of members of staff becoming disabled every
+effort is: made to ensure that their employment with the company continues and the appropriate training is
+arranged. It is policy of the company that the training, career development and promotion of a disabled person
+should, as far as possible, be identical to that of a person who does not suffer from a disability.
+
+The vision for all Essity employees is that irrespective of background, everyone can thrive. Therefore, our aims
+
+are that employees feel a sense of belonging, are treated with dignity, respect and kindness by default and have
+the same opportunities for career progression as each other.
+
+6|Page
+
+Essity UK Limited
+
+Strategic report for the year ended 31 December 2023 (continued)
+
+Environmental, Social and Governance topics (continued)
+
+Social (continued)
+
+Essity has a zero tolerance policy for behaviour not aligned to our core values and employees are empowered to
+speak out, where this is experienced or observed. Employees can expect to work within a safe environment,
+where we aim for a policy of zero-accidents and Essity Directors promote a culture of personal health, safety
+and wellness. Our commitments in these areas are supported by comprehensive policies and programmes that
+employees are actively engaged in.
+
+In 2023, Essity activated a new global initiative aimed at increasing DE&I awareness, boosting inclusion, and
+reinforcing the Beliefs and Behaviours called “Courageous Conversations”.
+
+Environmental
+
+Essity has a direct and indirect negative impact on the climate due to the emission of greenhouse gases across its
+value chain, Impact occurs in all stages of the value chain, including raw materials procurement, production,
+waste and transportation. A significant share of the Essity’s emissions result from tissue production, the
+remaining impacts are caused by raw material production at suppliers and post-consumer waste. Reducing
+greenhouse gas emission and the carbon footprint of our operations has been a major focus for many years.
+Essity’s overall ambition is to achieve net zero greenhouse gas emission throughout the value chain by 2050 in
+line with science-based targets. A near-term emission -reduction target has been set-up to reduce our scope | and
+2 emissions by 35% and our scope 3 emissions by 18% by 2030 (compared to 2016). See below the Streamlined
+Energy and Carbon Reporting.
+
+Additional targets to lower the environmental impact have been launched at Group Level
+
+-  >50% sustainable innovations,
+
+- 85% renewable or recycled packaging materials (2025),
+
+- 100% packaging recyclability (2025),
+
+- 100% FSC and PEFC certified fresh wood-based fiber
+
+- 100% of production waste subject to material or energy recovery (2030)
+
+For further information on sustainability please refer to Essity’s sustainability information:
+https:/Avww.essity.com/sustainability/
+
+7T|Page
+
+Essity UK Limited
+
+Strategic report for the year ended 31 December 2023 (continued)
+Streamlined Energy and Carbon Reporting
+
+Energy consumption and Emissions
+
+2023 2022
+Scope | - Energy (MWh) 543,063 641,637
+Scope 2 - Energy (MWh) 253,449 307,291
+Scope 3 - Energy (MWh) 1,731 2,284
+Total energy (MWh) 798,243 951,212
+Scope | Emissions (tCO2e) 100,149 118,087
+Scope 2 Emissions (tCO2e) 52,535 59,440
+Scope 3 Emissions (tCO2e) 420 564
+
+Total Emissions (tCO2e) 153,104 178,091
+
+Emissions Intensity
+
+In order to facilitate year on year comparison of emissions taking into account fluctuations in activity levels
+Essity UK Limited has calculated the intensity ratio of emissions per tonne of finished product and per revenue.
+This is based on total finished products of 156.49Ktonnes (2022: 178.787Ktonnes) and revenue of £918,535,000
+(2022: £956,997,000).
+
+2023 2022
+Scope | and 2 Emissions per tonne of finished product (tCO2 per production
+tonne) 0.976 0.993
+Scope | and 2 Emissions per revenue (tCO2 per £million) 166 186
+
+Energy efficiency action taken
+
+As a leading global hygiene and health company, Essity plays an important role in contributing to the
+achievement of the UN Sustainable Development Goals (SDGs). We focus particularly on six goals where we
+have our expertise and can make the greatest contribution including the climate action goal. Essity supports the
+UN Global Compact and works to overcome global challenges through cooperation and partnerships.
+
+Essity prioritises climate action and has a long-term ambition to achieve net zero emissions of greenhouse gases
+by 2050 throughout the value chain, applicable to wholly owned companies. By 2030, the Essity group's
+validated SBTi near-term targets are to reduce scope | and 2 emissions by 35% and scope 3 by 18% compared
+to a 2016 baseline.
+
+At the end of 2023, Essity group achieved 26% reduction in combined Scope 1 and 2, emissions compared to
+the baseline year of 2016. This significant progress retlects Essity’s commitment to sustainability and
+
+environmental responsibility.
+
+essity.com/investors/reports/reportdetails/annual -reports/annual-and-sustainability-report-2023
+
+8[Page
+
+Essity UK Limited
+
+Strategic report for the year ended 31 December 2023 (continued)
+
+Streamlined Energy and Carbon Reporting (continued)
+
+Essity has a global company wide energy monitoring and reduction process, which is used by all the UK
+manufacturing sites. This process compares energy usage across the Essity group globally and provides proven
+energy saving techniques for the individual sites to invest in.
+
+In the year 2023, Essity UK Limited has undertaken the following energy efficiency measures.
+
+* Completed the installation of electronic control of the burner air/gas ratio.
+
+« — Installed the pre-heating burner combustion air using waste process heat.
+
+* Automation of hood system balance on several sites, still in progress
+
+© Generation of steam from waste process heat (Puffing Billy) in progress
+Efficiency upgrades to site steam boiler, in progress
+
+e Sites employed periodic maintenance activities to check and repair failures in utilities systems and
+improved air leaks on the paper machines.
+
+Methodology used for carbon footprint calculations
+
+All Essity UK tissue mills are regulated under UK ETS Regulations, Climate Change Agreement Scheme (CCA)
+and the Energy Savings Opportunity Scheme (ESOS). Each of these schemes requires the company to regularly
+monitor its energy usage and look for energy reduction opportunities.
+
+Carbon emissions for fossil fuels usage is calculated using the UK ETs methodology and this has been verified
+by an external verification company for manufacturing sites. For distribution sites where gas is used for heating,
+emissions are calculated using the 202! government GHG conversion factors. For electricity consumption a
+conversion factor of 0.21233 kg CO2e/K Wh is applied. For leased vehicles, the calculation of carbon emissions
+was based on miles per annum driven by each vehicle.
+
+The information on energy consumption data was derived from Essity’s internal energy reports and includes an
+overview of consumption figures for gas and electricity.
+
+The energy data is aligned with the 2019 UK Government Environmental Reporting Guidelines and meets the
+minimum requirements of SECR.
+
+9|Page
+
+Essity UK Limited
+
+Strategic report for the year ended 31 December 2023 (continued)
+
+Group Governance
+
+The company is a part of the Essity AB group, and Group management has taken a lead in managing all Climate
+Related activities within the group. This includes specification of risks and opportunities, strategy development
+in the light of these, and resulting reporting and control activities. In turn, this promotes greater success, overall
+senior focus and prioritization, and the availability of specialists for members of the group which would be
+difficult to replicate locally.
+
+Furthermore, we are part of a global organization with a global supply chain. As with the UK in general, the
+company can demonstrate a lead, but climate change solutions must be global in nature, and it is unrealistic and
+possibly misleading to focus solely on the company’s local part in the group process.
+
+Sustainability is incorporated throughout Essity’s operations and forms an integrated part of the Group’s overall
+corporate governance.
+
+Purpose, implementation, and follow-up
+
+Essity’s sustainability governance aims to ensure the company’s commitments to its stakeholders, including
+customers, consumers, employees, shareholders, suppliers, investors, decision-makers, and representatives from
+society. The Group’s commitments are expressed in targets, strategies, and approaches. The targets have been
+established by the Group Board, are regularly monitored, and reported annually. Delivery on the targets is
+ensured in the separate responsibility areas. To verify priorities and methods over time, Essily maintains an active
+and continuous dialogue with internal and extemal stakeholders. Based on this dialogue, Essity continuously
+develops its ambitions, strategies and approaches to tackle the growing sustainability challenges. As
+sustainability is an integrated part of Essity’s strategy and operations, the topic is covered by intemal audits.
+Essity’s Sustainability report is in accordance with GRI and has been reviewed by the external auditor.
+
+Public policies, regulations, and internal steering documents
+
+Essity’s prioritized sustainability topics, strategies, and targets result from the company’s internal work and
+dialogue with external stake holders and partners, such as businesses, policy makers, consumers, NGOs, media,
+and the academic world. These topics are also aligned with a range of different principles and guiding
+frameworks. In addition to external frameworks and principles, Essity has several external and ISO certificates,
+as well as internal policies and guidelines that ensure the company has well-defined management systems in
+place to monitor the company’s results. Essity has developed position papers stating the company’s views on
+key topics. These are available on essity.com/sustainability.
+
+Reliable management systems
+
+Essity has an ISO 27001-based Information Security Management System (ISMS) in place for several years to
+meet internal and external requirements on information security. Selected products and services have also been
+certified according to the ISO/IEC 27001:2013 standard. Reliable management systems, certified by a third party,
+play an essential role in Essity’s sustainability work. Essity uses TSO 14001 and EMAS (the EU’s Eco
+Management and Audit Scheme) as certified environmental management systems. Many production facilities
+are certified in accordance with ISO and/ or EMAS. For medical technical classification, ISO 9001 or ISO 13485
+is the most essential quality management system used by Essity. The company implements the international
+standard ISO 45001 (Occupational health and safety management systems) to ensure that uniform processes are
+used and that Essity’s production facilities continuously strive to improve workplace-related health and safety.
+Essity intends to implement ISO 45001 and ISO 14001 certifications as well at Group level.
+
+10|Page
+
+Essity UK Limited
+
+Strategic report for the year ended 31 December 2023 (continued)
+
+Essity’s sustainability governance .
+
+Board of Diractors
+
+intornal auditor Sustalnablllty auditor
+
+(D0 - Cross-functional working groups thal repart to the Executive Management Team (EMT)
+
+Risks and Opportunities
+
+Essity is exposed to a number of strategic, operational and financial business risks, which could have a negative
+impact on the Group’s operations. Accordingly, it is of major importance that the Group has a systematic and
+effective process to identify, manage and mitigate the effects of these risks.
+
+Processes for risk management
+
+The responsibility for the management of business risks follows the company’s delegation scheme, from the
+Group Board of Directors to the President, and from the President to each Business Unit President. The
+delegation scheme involves business risks being managed primarily by Essity’s business units with clear central
+coordination and follow-up. Responsibility for certain specific risks, such as financial risks, insurable operational
+risks, information security, and ethics and human rights, is managed centrally. Essity’s financial risk
+management is centralized. The Group’s internal bank handles financial risks and energy risks. The financial
+risks are managed in accordance with the Group’s Finance Policy, which is adopted by Essity Group’s Board of
+Directors. Together with Essity’s Energy Risk Policy, the Finance Policy constitutes a framework for financial
+risk management. The financial risks are compiled and continuously monitored. Responsibility for insurable
+operational risks is managed by the Group’s risk management department. Identification of business risks and
+tisk management are a key part of the annual strategy process. Identified risks are assessed according to the
+likelihood of these becoming a reality and the potential impact each risk could have on the Group. This process
+also includes specifying who is responsible for managing the respective risk, and measures for how these shall
+be mitigated and followed up. Development of the identified risks is monitored and assessed on an ongoing basis.
+Essity has an internal audit function, which ensures that the organization complies with the adopted policies.
+
+Environmental impact and climate change
+
+Overall Risk
+
+Essity’s operations and the products used in the manufacturing process have an impact on air, water, land,
+biodiversity and the climate. Essity is subject to extensive environmental regulations. More stringent
+environmental requirements, remediation of the environment in connection with plant closures or breaches of
+permits could incur higher costs.
+
+}|Page
+
+Essity UK Limited
+
+Strategic report for the year ended 31 December 2023 (continued)
+
+Risks and Opportunities (continued)
+Environmental impact and climate change (continued)
+Overall Action
+
+Essity’s strategy and sustainability targets stipulate guidelines for the Group’s measures within the
+environmental area. Environmental impact and the impact of climate change are part of the annual strategy
+process, which includes the identification, assessment and actions for managing these types of risks. Risks are
+managed, for example, through preventive work in the form of certified environmental management systems,
+environmental risk inspections in conjunction with acquisitions, and remediation projects in connection with
+plant closures. Essity has integrated a risk assessment of biodiversity into its risk management process. The use
+of energy, water, transport, production waste and raw materials is controlled using the company’s Resource
+Management System (RMS). The system also enables the simulation of investments on the basis of climate
+aspects. The data is used for internal control and follow-up of established targets. Essity also works continuously
+to reduce the volume of production waste. Read more about Essity Group’s actions on pages 49—91 of its Annual
+Report 2023.
+
+Climate-related risks and opportunities
+
+Climate change affects Essity and the company continuously maps the risks and opportunities this entails using,
+for example, scenario analyses. The purpose is to identify, manage and minimize the risks and to take strategic
+actions. Strengths and opportunities identified and agreed upon actions provide a basis for the company’s
+strategic priorities in the area of sustainability.
+
+Risk Management Strategy
+
+The identification and assessment of climate related risks and opportunities are part of Essity’s strategy process.
+Climate risks and opportunities are evaluated in each business unit and in a centrally coordinated internal expert
+group that represents key functional competencies for climate-related topics in Essity. Responsibility for
+managing climate risks follows the Group’s delegation scheme, which is described on page 40 of its Annual
+Report 2023 . Sustainability issues are discussed on an ongoing basis by Process Business intelligence and
+situation assessment from a climate perspective Essity’s Executive Management Team and Group Board of
+Directors and has also in 2023 com prised a focus area in the work of the Board of Directors. A steering
+committee has been appointed to ensure that Essity fulfils the Group’s ambitious climate and environmental
+targets. The steering committee is led by members of Essity’s Executive Management Team.
+
+Climate-risk analysis process
+
+Essity’s climate-risk analysis is based on the recommendations of the framework of the Task Force on Climate-
+related Financial Dis closures (TCFD) and has been conducted every other year since 2020. In 2022, a more in-
+depth scenario analysis was also conducted based on two different climate scenarios. The purpose of analysing
+climate-related risks and opportunities is to inform the strategy of the company. This is performed with a ten-
+year perspective to enable conclusions and identification of long-term strategic actions and priorities.
+
+12|Page
+
+Essity UK Limited
+
+Strategic report for the year ended 31 December 2023 (continued)
+
+Risk Management Strategy (continued)
+
+Climate-risk analysis process (continued)
+
+The climate risk and opportunities process used a scenario analysis of two key scenarios, valid both for the
+operations as well as for business continuity.
+
+* Scenario 1: Global warming of !.5°C
+* Scenario 2: Global warming of 4°C
+
+Within each scenario, key questions were defined to identify and understand risks and opportunities to Essity’s
+business related to climate change:
+
+Scenario 1: Global warming of 1.5°C — “transition scenario”
+
++ Key legislative drivers impacting Essity’s + business?
+
+* How will consumer/customer demand change and what are the underlying key drivers?
+
+* How can Essity differentiate, have the greatest impact and contribute the most to the green transformation?
+Scenario 2: Global warming of 4°C — “physical climate scenario”
+
++ Where and how will Essity’s business be affected by physical climate change impact and degradation of
+nature, and what are the biggest threats?
+
+Reporting is conducted based on the recommendations of the TCFD framework. Conclusions about the impact
+on Essity, assessment of risks and
+
+Scenario 1: Global warming of 1.5°
+
+Description: Global warming is limited to no more than 1.5°C by 2100 through, for example, global collaboration
+between governments, industries, companies and individuals pushing for tougher legislation, green innovation
+and rising demand for environmentally friendly products, solutions and services. Carbon emissions are strictly
+limited and carbon tax is extended, which promotes processes with low carbon emissions and greater use of
+circular material and products.
+
+Risks
+
++ — Shifting regulatory landscape
+* Changed consumption patterns
++ Shortage of green energy and sustainable materials
+
+Description and impacts
+
+Transitional effects will impose stricter legislation for manufacturing processes, energy sources and material
+
+use: :
+
++ Increased restrictions on carbon emissions through raised carbon taxes impact overall] operational
+costs.
+
++ Limitations or stricter post-use solutions for single-use products to reduce waste impact
+operational costs.
+
++ Limitations on water use in production impacts production costs.
+
+« Consumer behaviour and preferences move toward lower use of plastics.
+
+* Continued increase in demand leads to shortage of fresh wood based fibre, in turn resulting in raw
+materials shortages and increased prices for raw materials.
+
+13|Page
+
+Essity UK Limited
+
+Strategic report for the year ended 31 December 2023 (continued)
+
+Risk Management Strategy (continued) ,
+Climate-risk analysis process (continued)
+
+Opportunities
++ Development of new business models
+* Sustainable innovations
+
+Description and impacts
+
+* Competitive advantages through Essity’s long-term and robust efforts to achieve lower resource
+use, innovative green production methods and lower carbon emissions.
+
++ Customers, consumers, investors and employees are attracted by changed consumption pattems in
+the form of increased demand for sustainable solutions with a lower climate footprint, that
+companies with a strong sustainability profile are rewarded and investments in and development
+of new business models and environmentally conscious solutions.
+
+Scenario 2: Global warming of 4°C
+
+Description: Global warming of 4°C in 2100, due to for example the failure to effectively reduce emissions and
+other negative environmental impacts. Extreme weather becomes more frequent. Sea levels continue to rise,
+desertification and deforestation continue. Access to key resources such as raw materials, energy, water and food
+declines, resulting in greater volatility and uncertainty for prices and food security.
+
+Risks
++ Extreme weather
++ Permanent shortage of key raw materials and access to water
++ Linear consumption patterns continue
++ Dynamic and globally disharmonized regulatory landscape
+
+Description and impacts
+
+Extreme weather and the continued rise of carbon emissions into the atmosphere may impact Essity’s business
+in areas such as:
+
+* Water scarcity and excessively high-water temperatures impacting production stability and
+operational costs.
+
++ Rising insurance costs and costs for reconstruction following extreme weather.
+
+* Increased investments required to safeguard stable production and supply chain.
+
++ Deforestation continues and forest fires limit availability of good quality certified wood fibre,
+impacting prices negatively and leading to raw material shortages.
+
++ Lower living standards and changed consumption behaviour.
+
+* Permanent scarcity of natural resources, raw materials, energy and water may require site closures
+in specific areas and generally lead to higher prices for raw materials, energy, water and
+distribution.
+
++ Increasing amount of waste to be managed by communities and countries will impose higher waste
+costs.
+
++ Without bans, plastic use continues to increase resulting in higher costs.
+
++ Frequent shifis in the political landscape and regulations may impact cost of compliance and
+conducting business.
+
+14|Page
+
+Essity UK Limited
+
+Strategic report for the year ended 31 December 2023 (continued)
+
+Risk Management Strategy (continued)
+Climate-risk analysis process (continued)
+
+Opportunities
+* Competitive advantage
++ Leading hygiene and health solutions are prioritized
+
+Description and impacts
+
++ Safeguarded production and sourcing in regions at risk builds trust in and loyalty to Essity’s
+brands.
+
+Risk Management Strategy — Time periods over which Risks and Opportunities are considered, and
+frequency of update of strategy and actions
+
+Essity considers risks and opportunities based on impact on people and the environment (impact materiality) and
+financial materiality over the Short Term (up to 12 months), Medium Term (12 months to 5 years), and Long
+Term (5 to 10 years). Environmental topics considered to have at least a medium financial or impact risk/
+opportunity include water, extreme weather events, waste, forestry and fibre, emissions and energy, plastics and
+pollution.
+
+Targets are established by the board of Essity AB, are regularly monitored, and reported annually. Essity uses
+ISO 14001 and EMAS as certified environmental management systems and governance includes both internal
+and external audit. Emphasis is on continuous improvement rather than periodic review and update.
+
+Essity continuously develops its ambitions, strategies and operations.
+
+Risk Management strategy outcomes
+The following target areas have been identified.
+
+Sustainable innovations, Low-carbon materials, Fossil fuel-free tissue production, Resource efficiency,
+Breakthrough technology, Zero production waste, Clean transportation, Less waste after use.
+
+Readers are invited to read the Groups financial report page 63 to 76 to see detailed actions taken in these target
+areas.
+
+S[Page
+
+Essity UK Limited
+
+Strategic report for the year ended 31 December 2023 (continued)
+
+Targets and Key Performance Indicators
+
+Science - based targets
+
+Target 2030 (compared with 2016) Outcome 2023
+Scope 1 and 2 -35% Scope 1 and 2 -26%
+
+Scope 3 -18% Scope 3 -10%
+
+Essity's climate-affecting emissions are divided into three different classes (Scope)
+depending on origin.
+
+Scope 1 and 2 are directly linked to Essity’s production. Scope 3 reports indirect
+emissions in Essity's value chain.
+
+Sustainable Innovations
+
+Share that ylelded social and/or environmental improvements
+
+Target Outcome 2023
+
+750% 85%
+
+Sustainable Innovations are measured &s the share of revenue from Innovations
+launched In the most recent three years. For example, in 2023 Essity launched washable
+
+pads under the brands Saba and Nosotras, and naturat color paper towels and toltet
+made of 100% recycled flber under the Tork brand
+
+Gender Distribution at management levels
+Target Outcome 2023
+
+40/60 % 32/68 %
+
+Essity's target is that gender distribution at all management levels
+{Executive Management Team, senior management, middle management)
+is to be within the interval 40/60%, where the majority group based on
+gender is to constitute no more than 60%. The target is reported at an
+aggregate outcome level for the three management levels.
+
+16[Page
+
+Essity UK Limited
+
+Strategic report for the year ended 31 December 2023 (continued)
+
+Targets and Key Performance Indicators (continued)
+
+Fresh Fibre
+
+Share ai FSC™- or PEFC-centified fresh fibre
+
+Target Outcome 2023
+100% 98%
+
+Throush cenifications such as the Fores: Stewardship Council™ biodiversity
+
+(FSC 0003255) and the Programme for the Endorsement of Forest Cenification
+{PEFC/16-33-1405), Essity ensures sustainable fiber sourcing, thereby
+
+preventing déforestetion and promoting ’
+
+Health and Safety
+
+Decrease In total recordable Incident rate compared with 2019
+
+Target 2025 Outcome 2023
+-75% 58%
+
+The Total recordable injury (TRI) flgure includes Lost time accidents (LTA), Restricted work
+cases (RWC) and Madical trearment cases (MIC), All of Essitys production facilities are
+conducting purposeful and systematic work with safety issues.
+
+Production Waste
+
+Subject to material or energy recovery
+Target 2030 Outcome 2023
+100% 67%
+Resource efficiency and the reduction of waste are important in Essity's
+
+production facilities. The target is that all production waste will be subject to
+material and energy recovery by 2030, which reduces greenhouse gas emissions.
+
+I7|[Page
+
+Essity UK Limited
+
+Strategic report for the year ended 31 December 2023 (continued)
+
+Targets and Key Performance Indicators (continued)
+
+Packaging
+Share of packaging manufactured from renewable and/or recycled material
+Target 2025 Outcome 2023
+
+85% 78%
+
+Responsible Sourcing ,
+
+Share of total purchase cost from suppliers that comply with Essitys Global Supplier Standard
+Supplier Standard
+
+Target 2025 Outcome 2023
+
+95% 92%
+
+Business Ethics and Code Of Conduct
+
+Share of new employees who received training in the Code of Conduct
+Target 2025 Outcome 2023
+100% 88%
+The Code of Conduct describes how employees are to act, how the company operates,
+
+stakeholder expectations of Essity, and Essity’s commitment to human rights. All wholly
+owned subsidiaries are bound by the Code of Conduct.
+
+I8[Page
+
+Essity UK Limited
+
+Strategic report for the year ended 31 December 2023 (continued)
+
+- Resilience of the Company’s Business Model considering Global Warming
+
+Companies which demonstrate a clear commitment to minimising their impact on the climate, will increasingly
+reap the rewards through growth in their brand equity and customer loyalty. The company considers that it has
+demonstrated clear leadership and commitment to climate change and will continue to do so.
+
+This is critical if we are to overcome the cost headwinds that will inevitably arise due to raw material shortages
+and related cost increases due to climate change. Whilst the company will actively seek to reduce costs through
+new processes and systems, efficiency improvements, use of alternative materials, and development of new
+products it is unlikely these will fully insulate the company from cost inflation due to climate change.
+Therefore, strong brand equity and customer loyalty will assist us should some of the cost increase need to be
+shared with our customers.
+
+As evidence of our commitment to reduce costs and increase our competitiveness, the company is undertaking
+a major investment in ERP systems and business processes in 2025 designed to enhance efficiency and reduce
+cost through digitalization. The company is also simplifying its legal structure in 2025, reducing the number of
+active UK entities by two as the medical business currently operated by our sister entity BSN Medical Ltd, and
+the manufacturing operations conducted by Essity Operations Manchester Ltd will be transferred to the
+company. These significant actions demonstrate our commitment to invest in the business to reduce waste and
+cost and simplify our business model. In doing so we improve our competitive position to withstand the
+impacts of climate change in the future.
+
+By order of the board
+
+fo
+
+David Hall
+Director
+19 December 2024
+
+1I9|Page
+
+Essity UK Limited
+
+Directors’ report for the year ended 31 December 2023
+
+The directors present their annual report and the audited financial statements of the company for the year ended
+31 December 2023.
+
+Principal activities
+
+The principal activity of the company is the manufacture, distribution and sale of paper based hygiene products.
+Future developments
+
+See the Strategic report on page 2 for information on future developments.
+
+Dividends
+See the Strategic report on page 2 for information on dividends.
+
+Financial risk management
+See the Strategic report on page 3 for information on financial risk management.
+
+Directors
+The directors of the company who held office during the year and up to the date of signing of the financial
+
+statements are given below:
+
+P A Bailey (Resigned as Director on 12 July 2024)
+K J Starr
+
+A Richards (Resigned on 10 June 2024)
+
+D Hall (Appointed on 10 June 2024)
+
+Going concern
+The company is profitable and has net assets and net current assets at the balance sheet date.
+
+The company has access to significant cash reserves which are administered by the Essity group treasury function
+through its cash pool, which could be drawn upon by the company if needed. The Group continues to trade
+profitably and remains in a strong position.
+
+The directors have received confirmation that the intermediate parent company, Essity Group Holding BV,
+intends to support the company for a period of 12 months from signing the financial statements.
+
+The directors, having reviewed the company’s current performance, forecasts and in consideration of group
+financing arrangements including the intermediate parent company’s parental support letter confirming the
+parent company’s financial support for the company for a period of 12 months from signing the financial
+statements, consider that the company has sufficient resources to continue in operation and meet its liabilities as
+they fall due. Accordingly, the directors are satisfied that it is appropriate to adopt the going concern basis in
+preparing the financial statements. .
+
+Post balance sheet events .
+On 28 June 2024 the company assumed responsibility for the Pension plan of Essity Operations Manchester
+Ltd under a Flexible Apportionment Arrangement. On | July 2024 a Pension buy-in arrangement with Legal
+and General Assurance Society Limited was executed for the company pension plans.
+
+On | September 2024 the company acquired the net assets and trade of its sister company Essity Operations
+
+Manchester Limited, which was already selling all its production of finished goods to Essity UK Limited as part
+of its business with external customers. The transaction was done at book value for an amount of £51,155,000.
+
+20[Page
+
+Essity UK Limited
+
+Directors’ report for the year ended 31 December 2023 (continued)
+
+Post balance sheet events (continued)
+
+On 1 September 2024 the company acquired the trade of its sister company BSN Medical Limited for an
+estimated value of £8,933,000 based on management accounts at 31 August 2024. The purchase price agreed is
+the sum of the value of the investments held in this company’s books (€42,950,000), less the value of net
+monetary retained in BSN Medical Limited following completion.
+
+These transactions were executed to simplify the structure of Essity’s business in the U.K., to integrate the
+medical business into the main trading company and processes of Essity in the U.K, and to reduce administrative
+costs.
+
+Independent auditors
+In accordance with s485 of the Companies Act 2006, a resolution is to be / has been proposed at the Annual
+General Meeting for reappointment of Ernst & Young LLP as auditors of the Company.
+
+Statement of disclosure of information to auditors
+So far as each director is aware, there is no relevant audit information of which the company's auditors are
+
+unaware,
+
+Statement of directors’ responsibilitics
+The directors are responsible for preparing the Strategic report, Directors’ report and the financial statements in
+accordance with applicable law and regulations.
+
+Company law requires the directors to prepare financial statements for each financial year. Under that law the
+directors have elected to prepare the financial statements in accordance with applicable law and United Kingdom
+Accounting Standards (United Kingdom Generally Accepted Accounting Practice), including Financial
+Reporting Standard 101 ‘Reduced Disclosure Framework’.
+
+Under company law the directors must not approve the financial statements unless they are satisfied that they
+give a true and fair view of the state of affairs of the company and of the profit or loss of the company for that
+period. In preparing these financial statements, the directors are required to:
+
+select suitable accounting policies in accordance with FRS 101 and then apply them consistently;
+e make judgments and estimates that are reasonable and prudent;
+
+« present information, including accounting policies, in a manner that provides relevant, reliable,
+comparable and understandable information;
+e provide additional disclosures when compliance with specific requirements of FRS 101 is insufficient
+
+to enable users to understand the impact of particular transactions, other events and conditions on the
+company financial position and financial performance;
+
+« — state whether applicable UK Accounting Standards, including FRS 101, have been followed, subject to
+any material departures disclosed and explained in the financial statements; and
+
+© prepare the financial statements on the going concern basis unless it is inappropriate to presume that the
+company will continue in business.
+
+The directors are responsible for keeping adequate accounting records that are sufficient to show and explain the
+company’s transactions and disclose with reasonable accuracy at any time the financial position of the company
+and enable them to ensure that the financial statements comply with the Companies Act 2006. They are also
+responsible for safeguarding the assets of the company and hence for taking reasonable steps for the prevention
+and detection of fraud and other irregularities.
+
+[Page
+
+Essity UK Limited
+
+Directors’ report for the year ended 31 December 2023 (continued)
+
+Statement of directors’ responsibilities(continued)
+
+Under applicable law and regulations, the Directors are also responsible for preparing a Directors’ report that
+comply with that law and those regulations. The Directors are responsible for the maintenance and integrity of
+the corporate and financial information included on the Company’s website.
+
+By order of the board
+
+fo
+
+David Hall
+Director
+19 December 2024
+
+22[Page
+
+Independent auditor’s report to the members of Essity UK Limited
+
+Opinion
+
+We have audited the financial statements of Essity UK Limited for the year ended 31 December 2023
+which comprise the Income Statement, the Statement of comprehensive income, the Statement of
+financial position, the Statement of changes in equity and the related notes 1 to 24, including material
+accounting policy information. The financial reporting framework that has been applied in their
+preparation is applicable law and United Kingdom Accounting Standards including FRS 101 “Reduced
+Disclosure Framework (United Kingdom Generally Accepted Accounting Practice).
+
+In our opinion, the financial statements:
+
+¢ give a true and fair view of the company’s affairs as at 31 December 2023 and of its profit for the
+year then ended;
+
+¢ have been properly prepared in accordance with United Kingdom Generally Accepted Accounting
+Practice; and
+
+e have been prepared in accordance with the requirements of the Companies Act 2006.
+
+Basis for opinion
+
+We conducted our audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and
+applicable law. Our responsibilities under those standards are further described in the Auditor's
+responsibilities for the audit of the financial statements section of our report. We are independent of
+the company in accordance with the ethical requirements that are relevant to our audit of the financial
+statements in the UK, including the FRC’s Ethical Standard, and we have fulfilled our other ethical
+responsibilities in accordance with these requirements.
+
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis
+for our opinion...
+
+Conclusions relating to going concern
+
+In auditing the financial statements, we have concluded that the directors’ use of the going concern
+basis of accounting in the preparation of the financial statements is appropriate.
+
+Based on the work we have performed, we have not identified any material uncertainties relating to
+events or conditions that, individually or collectively, may cast significant doubt on the company's
+ability to continue as a going concern for a period of 12 months from when the financial statements are
+authorised for issue.
+
+Our responsibilities and the responsibilities of the directors with respect to going concern are
+described in the relevant sections of this report. However, because not all future events or conditions
+can be predicted, this statement is not a guarantee as to the company’s ability to continue as a going
+concern.
+
+Other information
+The other information comprises the information included in the annual report, other than the financial
+statements and our auditor's report thereon. The directors are responsible for the other information
+
+contained within the annual report.
+
+Our opinion on the financial statements does not cover the other information and, except to the extent
+otherwise explicitly stated in this report, we do not express any form of assurance conclusion thereon.
+
+23|Page
+
+Independent auditor’s report to the members of Essity UK Limited (continued)
+
+Our responsibility is to read the other information and, in doing so, consider whether the other
+information is materially inconsistent with the financial statements or our knowledge obtained in the
+course of the audit or otherwise appears to be materially misstated. If we identify such material
+inconsistencies or apparent material misstatements, we are required to determine whether this gives
+rise to a material misstatement in the financial statements themselves. If, based on the work we have
+performed, we conclude that there is a material misstatement of the other information, we are required
+to report that fact.
+
+We have nothing to report in this regard.
+
+Opinions on other matters prescribed by the Companies Act 2006
+In our opinion, based on the work undertaken in the course of the audit:
+
+e the information given in the strategic report and the directors’ report for the financial year for
+which the financial statements are prepared is consistent with the financial statements; and
+
+e the strategic report and directors’ report have been prepared in accordance with applicable legal
+requirements.
+
+Matters on which we are required to report by exception
+
+In the light of the knowledge and understanding of the company and its environment obtained in the
+course of the audit, we have not identified material misstatements in the strategic report or directors’
+report.
+
+We have nothing to report in respect of the following matters in relation to which the Companies Act
+
+2006 requires us to report to you if, in our opinion:
+
+* adequate accounting records have not been kept or returns adequate for our audit have not been
+received from branches not visited by us; or
+
++ the financial statements are not in agreement with the accounting records and returns; or
+
+* certain disclosures of directors’ remuneration specified by law are not made; or
+
+* we have not received all the information and explanations we require for our audit. —
+
+Responsibilities of directors
+
+As explained more fully in the directors’ responsibilities statement set out on page 21, the directors are
+responsible for the preparation of the financial statements and for being satisfied that they give a true
+and fair view, and for such internal control as the directors determine is necessary to enable the
+preparation of financial statements that are free from material misstatement, whether due to fraud or
+error.
+
+In preparing the financial statements, the directors are responsible for assessing the company’s ability
+to continue as a going concern, disclosing, as applicable, matters related to going concern and using
+the going concern basis of accounting unless the directors either intend to liquidate the company or to
+cease operations, or have no realistic alternative but to do so.
+
+Auditor’s responsibilities for the audit of the financial statements
+
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole
+are free from material misstatement, whether due to fraud or error, and to issue an auditor’s report that
+includes our opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that
+an audit conducted in accordance with ISAs (UK) will always detect a material misstatement when it
+exists. Misstatements can arise from fraud or error and are considered material if, individually or in the
+aggregate, they could reasonably be expected to influence the economic decisions of users taken on
+the basis of these financial statements.
+
+24|Pave
+
+Independent auditor’s report to the members of Essity UK Limited (continued)
+
+Explanation as to what extent the audit was considered capable of detecting irregularities,
+including fraud
+
+Irregularities, including fraud, are instances of non-compliance with laws and regulations. We design
+procedures in line with our responsibilities, outlined above, to detect irregularities, including fraud. The
+risk of not detecting a material misstatement due to fraud is higher than the risk of not detecting one
+resulting from error, as fraud may involve deliberate concealment by, for example, forgery or
+intentional misrepresentations, or through collusion. The extent to which our procedures are capable
+of detecting irregularities, including fraud is detailed below. However, the primary responsibility for the
+prevention and detection of fraud rests with both those charged with governance of the entity and
+management.
+
++ We obtained an understanding of the legal and regulatory frameworks that are applicable to the
+company and determined that the most significant are those related to the reporting framework
+(United Kingdom Generally Accepted Accounting Practice and the Companies Act 2006) and the
+relevant direct and indirect tax compliance regulations in the United Kingdom. In addition, the
+company must comply with the operational and employment laws and regulations including health
+and safety regulations, environmental regulations and data protection.
+
++ We understood how the company is complying with those frameworks by making enquiries of
+senior finance personnel and gaining an understanding of the entity level controls of the company
+in respect of these areas and the controls in place to reduce the opportunity for fraudulent
+transactions. We corroborated our enquiries through review of meeting minutes and any
+correspondence received from regulatory bodies. We further checked the application of
+accounting standards adopted and evidence of non-compliance with the above laws and
+regulations.
+
++ We assessed the susceptibility of the company’s financial statements to material misstatement,
+including how fraud might occur by meeting with management to understand where it considered
+there was susceptibility to fraud. We considered the procedures and controls that the company
+has established to address risks identified, or that otherwise prevent, deter and detect fraud and
+gained an understanding as to how those procedures and controls are implemented and
+monitored. We determined there to be a risk of management override in relation to posting of non-
+standard journals in respect of revenue and estimates in respect of rebate calculations. To
+address the risk of management override, we have used data analytics and obtained the entire
+population of journals for the year and identified specific transactions for further investigation
+based on certain criteria. We understood the transactions identified for testing and agreed them to
+source documentation. With respect to rebates, we performed substantive procedures to gain
+assurance over the balance, which included agreement to rebate contracts, vouching the
+appropriateness of assumptions made and/or confirming amounts settled pre and post year-end.
+
++ Based on this understanding we designed our audit procedures to identify noncompliance with
+such laws and regulations. Our procedures included obtaining and reading board and
+management meeting minutes and relevant approval documents, enquiries of senior finance
+personnel and agreement of samples of transactions throughout the audit to supporting source
+documentation.
+
+A further description of our responsibilities for the audit of the financial statements is located on the
+Financial Reporting Council’s website at https://www.frc.org.uk/auditorsresponsibilities. This
+
+description forms part of our auditor's report.
+
+25;Page
+
+Independent auditor’s report to the members of Essity UK Limited (continued)
+
+Use of our report
+
+This report is made solely to the company's members, as a body, in accordance with Chapter 3 of
+Part 16 of the Companies Act 2006. Our audit work has been undertaken so that we might state to
+the company’s members those matters we are required to state to them in an auditor's report and for
+no other purpose. To the fullest extent permitted by law, we do not accept or assume responsibility
+to anyone other than the company and the company’s members as a body, for our audit work, for
+this report, or for the opinions we have formed.
+
+Exot oney LLP
+
+Kester Rogers (Senior statutory auditor)
+
+for and on behalf of Ernst & Young LLP, Statutory Auditor
+Luton
+
+20 December 2024
+
+26[Paze
+
+Essity UK Limited
+
+Income Statement
+
+Revenue
+Cost of sales
+Gross profit
+
+Distribution costs
+
+Other expenses
+
+Year ended 31 December
+
+Operating profit
+Finance income
+
+Finance costs
+
+Income tax expense
+
+2023 2022
+
+Note £7000 £'000
+
+3 918,535 956,997
+(651,933) (708,188)
+
+266,602 248,809
+(83,305) (97,840)
+Administrative expenses (140,722) (135,533)
+(95) (810)
+
+6 42,480 14,626
+
+7 7,929 6,676
+8 (1,137) (770)
+
+Profit before income tax 49,272 20,532
+9 (10,379) (5,051)
+
+Profit for the financial year 38,893 15,481
+
+@Z|Page
+
+Essity UK Limited
+
+Statement of comprehensive income
+
+Year ended 31 December
+
+2023 2022
+Note £000 £7000
+Profit for the financial year 38,893 15,48]
+Items that will not be reclassified to profit or loss:
+Actuarial losses on pension scheme 21 (13,317) (47,147)
+Impact of asset ceiling on pension surplus 21 13,817 47,647
+Movement on deferred tax relating to pension scheme 18 (118) (95)
+Items that may be reclassified to profit or loss:
+Cash flow hedges
+Result from remeasurement of derivatives recognized in equity 20 (26,932) (1,250)
+Transferred to profit or loss for the period 20 (4,268) (30,269)
+Movement on deferred tax relating to cash flow hedges 18 7,736 5,797
+Other comprehensive expenses for the year (23,082) (25,317)
+Total comprehensive income/(expense) for the year 15,811 (9,836)
+
+28|Pauze
+
+Essity UK Limited
+
+Statement of financial position
+
+As at 31 December
+
+2023 2022
+Note £7000 £°000
+Fixed assets
+Intangible assets 10 16,102 15,245
+Property, plant and equipment ll 143,002 136,522
+Right-of-use assets 22° 23,447 19,254
+182,551 171,021
+Current assets
+Inventories 13 62,510 75,959
+Trade and other receivables 14 342,052 348,271
+Cash and cash equivalents - 40
+404,562 424,270
+Creditors — amounts falling due within one year 15 (228,188) (243,698)
+Net current assets 176,374 180,572
+Total assets less current liabilities 358,925 351,593
+Creditors - amounts falling due after more than one year 16 (21,991) (23,413)
+Provisions for liabilities 17 (13,647) (20,704)
+Net assets 323,287 307,476
+Equity
+Ordinary shares 19 288,325 288,325
+Cash flow hedge reserve 20 (20,199) 3,265
+Retained earnings 20 55,161 15,886
+Total shareholders’ funds 323,287 307,476
+
+The financial statements on pages 27 to 56 were approved by the board of directors on 19 December 2024 and
+were signed on its behalf by:
+
+fo-
+
+David Hall
+Director
+Essity UK Limited is registered in England and Wales under company number 03226403.
+
+29|Pave
+
+Essity UK Limited
+
+Statement of changes in equity
+
+Called up Cash flow
+
+. share hedge Retained Total
+capital reserve earnings equity
+£7000 £7000 £7000 £000
+As at 1 January 2022 288,325 28,987 75,782 393,094
+Profit for the financial year - - 15,481 - 15,481
+Actuarial gains on pension scheme - - (47,147) (47,147)
+Impact of asset ceiling on-pension surplus - - 47,647 47,647
+Movement on deferred tax relating to pension scheme - - (95) (95)
+Cash flow hedges:
+Result from remeasurement of derivatives
+recognized in equity - (1,250) - (1,250)
+Transferred to profit or loss for the period - (30,269) - (30,269)
+Movement on deferred tax relating to cash flow hedges - 5,797 - 5,797
+Total comprehensive income for the year - (25,722) 15,886 (9,836)
+Dividends paid - - (75,782) (75,782)
+As at 31 December 2022 288,325 3,265 15,886 307,476
+As at 1 January 2023 288,325 3,265 15,886 307,476
+Profit for the financial year - - 38,893 38,893
+Actuarial (losses)/gains on pension scheme - - (13,317) (13,317)
+Impact of asset ceiling on pension surplus - - 13,817 13,817
+Movement on deferred tax relating to pension scheme - - (118) (118)
+Cash flow hedges:
+Result from remeasurement of derivatives
+recognized in equity - (26,932) - (26,932)
+Transferred to profit or loss for the period - (4,268) - (4,268)
+Movement on deferred tax relating to cash flow hedges - 7,736 - 7,736
+Total comprehensive (expense)/ income for the year - (23,464) 39,275 15,811
+Dividends paid - - - -
+As at 31 December 2023 288,325 (20,199) 55,161 323,287
+
+30|Page
+
+Essity UK Limited
+
+Notes to the financial statements for the year ended 31 December 2023
+1 General information
+
+The principal activity of the company is the manufacture, distribution and sale of paper based hygiene products.
+The company is a private company limited by shares and is incorporated and domiciled in the United Kingdom. Its
+registered address is Southfields Road, Dunstable, Bedfordshire, LU6 3EJ.
+
+2 Significant accounting policies
+
+Basis of preparation
+These financial statements have been prepared in accordance with Financial Reporting Standard 101 “Reduced
+Disclosure Framework” (“FRS101“) and the Companies Act 2006.
+
+The financial statements are prepared in sterling which is also the functional currency. All amounts in the financial
+statements and notes have been rounded off to the nearest thousand Sterling Pound (‘“‘£’000s”), unless otherwise
+stated.
+
+The accounting policies set out below have been consistently applied to all the years presented unless otherwise
+stated. They have been prepared under the historical cost convention, as modified by the derivative financial assets
+and financial liabilities measured at fair value through other comprehensive income or profit or loss, and in
+accordance with the Companies Act 2006.
+
+The preparation of financial statements in conformity with FRS 101 requires the use of certain critical accounting
+estimates. It also requires management to exercise its judgement in the process of applying the company’s
+accounting policies. The areas involving a higher degree of judgement or complexity, or areas where assumptions
+and estimates are significant to the financial statements are disclosed in the statement of accounting policies.
+
+Exemptions
+The following exemptions from the requirements of IFRS have been applied in the preparation of these financial
+statements, in accordance with FRS 101, as the company is a member of a group where the parent prepares publicly
+available consolidated financial statements:
+- IFRS 7, ‘Financial Instruments: Disclosures’
+- Paragraphs 91 to 99 of IFRS 13, ‘Fair value measurement’ (disclosure of valuation techniques and inputs used
+for fair value measurement of assets and liabilities)
+- Paragraph 38 of IAS 1, ‘Presentation of financial statements’ comparative information requirements in respect
+of:
+© paragraph 79(a)(iv) of JAS 1
+co paragraph 73(e) of IAS 16 Property, plant and equipment
+© paragraph 118(e) of IAS 38 Intangible assets (reconciliations between the carrying amount at the
+beginning and end of the period)
+- The following paragraphs of IAS 1, ‘Presentation of financial statements’:
+oa 10(d), (statement of cash flows)
+co 10(f) (a statement of financial position as at the beginning of the preceding period when an entity
+applies an accounting policy retrospectively or makes a retrospective restatement of items in its
+financial statements, or when it reclassifies items in its financial statements)
+16 (statement of compliance with all IFRS)
+38A (requirement for minimum of two primary statements, including cash flow statements)
+38B-D (additional comparative information)
+40A-D (requirements for a third statement of financial position)
+111 (cash flow statement information)
+
+©0000 0
+
+134-136 (capital management disclosures
+
+31[Page
+
+Essity UK Limited
+
+Notes to the financial statements for the year ended 31 December 2023 (continued)
+2 Significant accounting policies (continued)
+
+Exemptions (continued)
+
+- TAS 7, ‘Statement of cash flows’
+
+- Paragraph 30 and 31 of IAS 8 ‘Accounting policies, changes in accounting estimates and errors’ (requirement
+for the disclosure of information when an entity has not applied a new IFRS that has been issued but is not yet
+effective)
+
+- Paragraph 17 of IAS 24, ‘Related party disclosures’ (key management compensation)
+
+- The requirements in IAS 24, ‘Related party disclosures’ to disclose related party transactions entered into
+between two or more members of a group.
+
+Going concern
+The company is profitable and has net assets and net current assets at the balance sheet date.
+
+The company has access to significant cash reserves which are administered by the Essity group treasury function
+through its cash pool, which could be drawn upon by the company if needed. The Group continues to trade
+profitably and remains in a strong position.
+
+The directors have received confirmation that the intermediate parent company, Essity Group Holding BV, intends
+to support the company for a period of 12 months from signing the financial statements.
+
+The directors, having reviewed the company’s current performance, forecasts and in consideration of group
+financing arrangements including the intermediate parent company’s parental support letter confirming the parent
+company’s financial support for the company for a period of 12 months from signing the financia] statements,
+consider that the company has sufficient resources to continue in operation and meet its liabilities as they fall due.
+Accordingly, the directors are satisfied that it is appropriate to adopt the going concern basis in preparing the
+financial statements.
+
+New standards, amendments and IFRIC interpretations
+There are no amendments to accounting standards, or IFRIC interpretations that are effective for the year ended
+31 December 2023 that have a material impact on the company’s financial statements.
+
+Standards issued but not yet effective .
+The new and amended standards and interpretations that are issued, but not yet effective, up to the date of issuance
+
+of the company’s financial statements are disclosed below. The company intends to adopt these new and amended .
+standards and interpretations, if applicable, when they become effective. None of them are expected to have a
+material effect on the financial statements.
+
+- Amendments to IFRS 16: Lease Liability in a Sale and Leaseback
+- Amendments to JAS 1: Classification of Liabilities as Current or Non-current
+- Supplier Finance Arrangements - Amendments to IAS 7 and IFRS 7
+
+32jPage
+
+Essity UK Limited
+Notes to the financial statements for the year ended 31 December 2023 (continued)
+2 Significant accounting policies (continued)
+
+Intangible assets .
+Goodwill represents the excess of the fair value of the consideration given over the fair value of the identifiable net
+
+assets acquired.
+
+The recoverable amount of goodwill is derived from measurement of the present value of the future cash flows of
+the cash generating units of which the goodwill is a part. Any impairment loss in respect of a CGU is allocated first
+to the goodwill attached to the CGU, and then to other assets within that CGU on a pro rata basis.
+
+In accordance with FRS 101, goodwill is not amortised and is instead subject to an annual impairment review. The
+requirement of the Companies Act 2006 is to amortise goodwill over its deemed useful life, however this
+requirement conflicts with the generally accepted accounting principles set out in FRS 101. The Directors consider
+that to amortise this goodwill would not give a true and fair view, but that a true and fair view is given by following
+FRS 101 as described above.
+
+Patents and licences represent the patents pursuant to any Patent Application and licences under any trademark
+licensing agreement. Patents and licences are eliminated by amortisation through profit or loss over 20 years on a
+straight-line basis, which is considered by the directors to be the useful economic life of these assets.
+
+Emissions rights
+
+Emission allowances relating to CO emissions are recognised as an intangible asset and as deferred income
+(liability) when they are received. Allowances are received free of charge and measured and reported at market
+value as of the day to which the allocation pertains. For allocated emission allowances, the reported cost and
+provisions for emissions amount to the market value as of the day to which the allocation pertains. For purchased
+emission allowances, the reported cost and provisions for emissions amount to the purchase price. During the year,
+the initial liability for emission allowances received is recognised through the profit and loss account as income in
+pace with CO; emissions made. If the market price of emission allowances on the balance sheet date is less than
+reported cost, any surplus emission allowances that are not required to cover emissions made are written down to
+the market price applying on the balance sheet date. In conjunction with this, the remaining part of the deferred
+income is recognised as income by a corresponding amount and therefore no net effect occurs in the income
+statement, The emissions allowances are used as payment in the settlement with the UK Government regarding
+liabilities for emissions. If the emission allowances received do not cover emissions made, Essity makes a provision
+to reserves for the deficit valued at the market value on the balance sheet date. Sales of surplus emission allowances
+are recognised as income on the settlement date.
+
+Property, plant and equipment
+The cost of property, plant and equipment is their purchase cost, together with any incidental costs of acquisition.
+Depreciation is calculated so as to write off the cost, or valuation, of property, plant and equipment, less their
+estimated residual values, on a straight-line basis over the expected useful economic lives of the assets concerned.
+The principal annual rates used for this purpose are:
+
+a
+
+%
+Freehold improvements 2-5
+Buildings 2-5
+Plant and machinery 3.33-33
+
+No depreciation is provided on freehold land or assets under construction.
+Assets held for sale are written down to net realisable value and reclassified to current assets.
+
+The Company assesses at each reporting date whether there is an indication that an asset may be impaired. If any
+such indication exists, the Company makes an estimate of the assets recoverable amount in order to determine the
+extent of the impairment loss. An asset’s recoverable amount is the higher of an asset’s fair value less costs to sell
+and its value in use and is determined for an individual asset, unless the asset does not generate cash inflows that
+are largely independent of those from other assets or groups of asset. When the carrying amount of an asset exceeds
+its recoverable amount, the asset is considered impaired and written down to its recoverable amount. Impairment
+losses are recognised in the income statement in those expense categories consistent with the function of the
+impaired asset.
+
+33|Page
+
+Essity UK Limited
+Notes to the financial statements for the year ended 31 December 2023 (continued)
+2 Significant accounting policies (continued)
+
+Leases
+When a contract is entered into, the company must first consider whether the contract is, or contains, a lease. A
+
+contract is, or contains, a lease if: '
+- it contains an identified asset
+- the lessee is entitled to essentially all the economic benefits arising from the use of the identified asset
+
+- the lessee is entitled to control the use of the asset.
+
+On the commencement date of the lease, a right-of-use asset and a liability are recognised in the statement of
+financial position. The right-of-use asset is measured at cost and includes the following:
+
++ the value of the amount of the lease liability
+
+* lease payments made on or before the commencement date, afler deductions for any benefits received in
+conjunction with signing the lease
+
+* initial direct fees
+
+* an estimate of expenses expected to be paid to restore the asset to the condition as stipulated in the terms of the
+lease
+
+The right-of-use asset is recognised in the statement of financial position under the heading Fixed assets. The asset
+is depreciated on a straight-line basis over the shorter period of the assets anticipated useful life and the lease term.
+
+The lease liability is measured at the present value of the following lease payments:
+
+* fixed fees, less any incentive receivables
+
++ variable lease payments due to an index or rate
+
+* amounts expected to be paid in accordance with residual value guarantees
+
+* the exercise price for a purchase option, if Essity is reasonably certain of exercising the option
+
+* financial penalties to be paid on termination of the lease, if the lease term reflects that Essity will utilize this
+option
+
+The lease liabilities are recognised in the statement of financial position under the headings Creditors — amounts
+falling due within one year and Creditors — amounts falling due after more than one year.
+
+Lease payments are normally discounted using the company’s incremental borrowing rate as the implicit rate of
+the lease cannot be readily determined in most cases. The incremental borrowing rate used is determined on the
+basis of the contract currency of the agreement and the length of the lease.
+
+When making lease payments, the contribution is allocated between interest expense and amortisation of the
+outstanding lease liability.
+
+In the Income statement, depreciation of the right-of-use asset is recognised in operating profit while interest
+expense is recognised within Interest payable and similar charges.
+
+The company has decided to apply the exemption rules for short-term leases and leases where the underlying asset
+has a low value. These leases are not included in the right-of-use asset or the lease liability. Lease payments for
+these contracts are expensed on a straight-line basis over the useful life.
+
+Inventories
+
+Inventories are stated at the lower of cost and net realisable value. In determining the cost of raw materials, work
+in progress, consumables and goods purchased for resale, the first in first out basis is used. In the case of
+manufactured products, cost includes all direct expenditure and production overheads based on the normal level of
+activity. Where necessary, provision is made for obsolete, slow moving and defective inventory.
+
+34[Page
+
+Essity UK Limited
+
+Notes to the financial statements for the year ended 31 December 2023 (continued)
+2 Significant accounting policies (continued)
+
+Trade receivables
+
+Trade receivables are recognised initially at the amount of consideration that is unconditional. The company holds
+the trade receivables with the objective of collecting the contractual cash flows and therefore measures them
+subsequently at amortised cost using the effective interest method.
+
+The company applies the IFRS 9 simplified approach to measuring expected credit losses which uses a lifetime
+expected loss allowance for all trade receivables. To measure the expected credit losses, trade receivables are
+grouped based on shared credit risk characteristics and the days past due.
+
+During this process the probability of non-payment of the trade debtors and intra-group debtors is assessed. The
+expected loss rates are based on the Company’s historical credit losses adjusted for current and forward-looking
+information on macroeconomic factors affecting the Company’s customers and fellow group undertakings.
+
+Creditors
+Creditors are obligations to pay for goods or services that have been acquired in the ordinary course of business
+from suppliers.
+
+Short term creditors are measured at the transaction price.
+
+Cash at bank and in hand .
+Cash and short term deposits in the balance sheet comprise cash at bank and in hand and short term deposits with
+an original maturity of three months or less.
+
+Provisions
+
+Provisions are recognised when the company has a present obligation, as result of a past event, and it is probable
+that an outflow of economic benefits will be required to settle the obligation, and a reliable estimate of that
+obligation can be made. Provisions for restructuring measures are made when a detailed, formal plan for the
+measures exists and well-founded expectations have been created among those who will be affected by the
+measures, Refer to Page 34 for the accounting policy for the provision for CO2 emissions.
+
+Foreign currencies
+
+Transactions in foreign currencies are recorded using the rate of exchange ruling at the date of the transaction.
+Monetary assets and liabilities denominated in foreign currencies are translated using the rate of exchange ruling
+at the balance sheet date and the gains or losses on translation are included in the profit and loss account.
+
+Derivative financial instruments
+
+The company uses derivative financial instruments such as forward currency and energy contracts to hedge its risks
+associated with foreign currency and energy prices. All derivatives are initially and continuously recognised at fair
+value in the balance sheet.
+
+The fair value of forward contracts is calculated by reference to current forward exchange rates/energy prices for
+contracts with similar maturity profiles.
+
+Accounting for derivatives used for hedging purposes
+All derivatives are initially and continuously measured at fair value in the balance sheet. Gains and losses on
+remeasurement of derivatives used for hedging purposes are recognized as described below.
+
+Cash flow hedges
+
+When using hedge accounting, the relationship between the hedge instrument and the hedged item is documented.
+
+Assessment of the effectiveness of the hedge is also documented, both when the transaction is initially executed
+
+and on an ongoing basis. Hedge effectiveness is the extent to which the hedging instrument offsets changes in value
+
+in a hedged item’s fair value or cash flow. Any ineffectiveness could, for example, be due to the time or the amount,
+of the forecast cash flow mismatching with the cash flow of the derivative. The ineffective portion is recognised
+directly in profit or loss. In 2023, £nil (2022: £nil) was recognized in profit or loss as ineffectiveness concerning
+
+the cash flow hedges.
+
+35|Page
+
+Essity UK Limited
+Notes to the financial statements for the year ended 31 December 2023 (continued)
+
+2 Significant accounting policies (continued)
+
+Accounting for derivatives used for hedging purposes (continued)
+Cash flow hedges (continued)
+
+The company establishes the hedge ratio as the value of energy price hedges in relation to forecast energy
+consumption.
+
+Gains and losses on remeasurement of derivatives intended for cash flow hedging are recognised in equity under
+other comprehensive income and reversed to profit or loss at the rate at which the hedged cash flow affects profit
+or loss.
+
+Cash flow hedges relating to energy affect cost of sales.
+
+Revenue
+
+The company applies IFRS 15 Revenue from Contracts with Customers that regulates revenue recognition and
+disclosure requirements for commercial agreements (contracts) with customers. The standard pertains to
+commercial agreements with customers in which delivery of goods/services is divided into separately identifiable
+performance obligations that are recognized independently.
+
+Revenue recognition
+
+The company generates revenues from the sale of finished products to, for example, the retail sector, industries and
+the healthcare sector. The product portfolio is diversified but the principles for revenue recognition are the same
+for all segments - Personal Care, Consumer Tissue and Professional Hygiene. Essity’s contracts with customers
+primarily comprise framework agreements without established minimum volumes, which means that a binding
+contract according to IFRS 15 criteria does not arise until the customer places an order.
+
+Performance obligations and timing of revenue recognition
+
+The company’s performance obligations in the contracts involve providing the goods specified in the contracts.
+The performance obligations are satisfied and the revenue recognized when control of the products is passed to the
+customer. The timing of when control is passed to the customer is determined by the terms of delivery (Incoterms)
+applied in the contract. For most supply contracts, control is passed when the goods have been delivered to the
+customer’s warehouse and the customer thereby can control the use and receive the benefits of the goods. Invoicing
+is normally done in connection with, or directly after, delivery and recognized at a specific point in time, no revenue
+is recognized over time. Essity has chosen to apply the practical expedient in IFRS 15 not to disclose the remaining
+performance obligations that have a term of less than one year.
+
+Determination of transaction price
+
+The transaction price primarily comprises the fixed price of the quantity sold less estimated volume discounts. The
+outcome of volume discounts is continuously assessed over the year and reduces recognized revenues in parallel
+with a provision being made that includes the estimated discounts for each customer. At year end, the final volume
+discounts are determined on the basis of the actual sales volume and the provision is reduced in the following year
+when the discount is credited to the customer. Marketing subsidies entail that the customer receives a discount for
+carrying out marketing activities. In certain cases, Essity reimburses customers in the retail sector in accordance
+with contracts for loss of income due to discount vouchers used by consumers. The probable outcome of used
+discount vouchers and thus discounts provided during the reporting period is assessed and revised every time the
+accounts are closed. Customers have only limited rights to return products and historically returned volumes have
+been low. The company essentially grants customers no right of return except when the products are faulty. Past
+experience is used to estimate the share of returns at the time of sale and revenue is only recognized for products
+that are not expected to be returned, The total transaction price is estimated at the amount that Essity deems will
+accrue to the company when the contract is signed with respect to volume discounts and any marketing subsidies,
+discount vouchers and returns. The transaction price is updated if the conditions forming the basis of the estimate
+have significantly changed.
+
+36|Puge
+
+Essity UK Limited
+
+Notes to the financial statements for the year ended 31 December 2023 (continued)
+
+2
+
+ignificant accounting policies (continued)
+
+Revenue (continued)
+
+Trade receivables
+
+Once the goods and services have been delivered and control has been passed to the customer, a trade receivable is
+recognized since this is the point in time when the consideration becomes unconditional, only the passage of time
+is required for payment to be made.
+
+Contract liabilities
+
+Contract liabilities pertain to liabilities for volume discounts and advance payments from customers. Both items
+are recognized under Trade and other payables. Advance payments from customers are normally recognized as
+revenue in the subsequent fiscal year.
+
+Asset recognised for costs to fulfil contracts with customers
+
+In the Professional Hygiene business area, the company supplies dispensers to customers to fulfil contracts for
+delivery of the business area’s other products. Expenses for these dispensers are recognised as ‘Asset recognised
+for costs to fulfil contracts with customers’ under Trade and other receivables since the company expects to recover
+these expenses through the sale of other products. The dispensers are depreciated over three years according to the
+average term of the contract with customers. Recognition takes place in accordance with the rules in IFRS 15 since
+the expense is directly linked to securing contracts with customers. The rules on Property, Plant and Equipment in
+TAS 16 and IAS 2 Inventories are not deemed to be applicable since there are no economic benefits associated with
+the dispenser after it has been delivered to the customer.
+
+Taxation
+
+The tax expense for the period comprises current and deferred tax. Tax is recognised in the income statement,
+except to the extent that it relates to items recognised in other comprchensive income or directly in shareholders”
+funds. In this case, the tax is also recognised in other comprehensive income or directly in shareholders’ funds,
+respectively.
+
+The current income tax charge is calculated on the basis of the tax laws enacted or substantively enacted at the
+balance sheet date in the countries where the company operates and generates taxable income, Management
+periodically evaluates positions taken in tax returns with respect to situations in which applicable tax regulation is
+subject to interpretation. It establishes provisions where appropriate on the basis of amounts expected to be paid
+to the tax authorities.
+
+Deferred income tax is recognised on temporary differences arising between the tax bases of assets and liabilities
+and their carrying amounts in the financial statements. However, deferred tax liabilities are not recognised if they
+arise from the initial recognition of goodwill; or arise from initial recognition of an asset or liability in a
+transaction other than a business combination that at the time of the transaction affects neither accounting nor
+taxable profit or loss. Deferred income tax is determined using tax rates (and laws) that have been enacted or
+substantively enacted by the balance sheet date and are expected to apply when the related deferred income tax
+asset is realised or the deferred income tax liability is settled.
+
+Deferred income tax assets are recognised only to the extent that it is probable that future taxable profit will be
+available against which the temporary differences can be utilised.
+
+Deferred income tax assets and liabilities are offset when there is a legally enforceable right to offset current tax
+assets against current tax liabilities and when the deferred income taxes assets and liabilities relate to income
+taxes levied by the same taxation authority on either the same taxable entity or different taxable entities where
+there is an intention to settle the balances on a net basis.
+
+A net deferred tax asset is recognised as recoverable and therefore recognised only when, on the basis of all
+available evidence, it can be regarded as more likely than not that there will be suitable taxable profits against
+which to recover carried forward tax losses and from which the future reversal of underlying timing differences
+can be deducted.
+
+Deferred tax is measured on an undiscounted basis.
+
+37|Page
+
+Essity UK Limited
+
+Notes to the financial statements for the year ended 31 December 2023 (continued)
+
+2 Significant accounting policies (continued)
+
+Employee benefits
+The company operates various post-employment schemes, including both defined benefit and a defined
+contribution pension plan.
+
+A defined contribution plan is a pension plan under which the company pays fixed contributions into a separate
+entity. The company has no legal or constructive obligations to pay further contributions if the fund does not hold
+sufficient assets to pay all employees the benefits relating to employee service in the current and prior periods. A
+defined benefit plan is a pension plan that is not a defined contribution plan.
+
+Typically, defined benefit plans define an amount of pension benefit that an employee will receive on retirement,
+usually dependent on one or more factors such as age, years of service and compensation.
+
+The liability recognised in the balance sheet in respect of defined benefit pension plans is the present value of the
+defined benefit obligation at the end of the reporting period less the fair value of plan assets. If the plan is in surplus,
+an assets ceiling is applied based on recoverability of the surplus. The defined benefit obligation is calculated
+annually by independent actuaries using the projected unit credit method. The present value of the defined benefit
+obligation is determined by discounting the estimated future cash outflows using interest rates of high-quality
+corporate bonds that are denominated in the currency in which the benefits will be paid, and that have terms to
+maturity approximating to the terms of the related pension obligation. In countries where there is no deep market
+in such bonds, the market rates on government bonds are used.
+
+Remeasurement gains and losses arising from experience adjustments and changes in actuarial assumptions are
+charged or credited to shareholders’ funds in other comprehensive income in the period in which they arise.
+
+The amount charged or credited to finance costs is a net interest amount calculated by applying the liability discount
+rate to the net defined benefit liability or asset.
+
+Past-service costs are recognised immediately in the income statement.
+
+For the defined contribution plan, the company pays contributions to publicly or privately administered pension
+insurance plans on a mandatory, contractual or voluntary basis. The company has no further payment obligations
+once the contributions have been paid. The contributions are recognised as employee benefit expense when they
+are due. Prepaid contributions are recognised as an asset to the extent that a cash refund or a reduction in the future
+payments is available.
+
+Critical accounting estimates and judgements
+
+The preparation of financial statements in accordance with FRS 101 requires directors to make judgements,
+estimates and assumptions about the carrying amount of assets and liabilities that are not readily apparent from
+other sources. Estimates and judgements are continually evaluated based on historical experience and other factors,
+including expectations of future events that are believed to be reasonable under the circumstances.
+
+Critical accounting estimates and assumptions
+
+The company makes estimates and assumptions concerning the future. The resulting accounting estimates will, by
+definition, seldom equal the related actual results. The estimates and assumptions that have a significant risk of
+causing a material adjustment to the carrying amounts of assets and liabilities within the next financial year are
+addressed below.
+
+Defined benefit pension scheme
+
+The company has an obligation to pay pension benefits to certain employees. The cost of these benefits and the
+present value of the obligation depend on a number of factors, including; life expectancy, salary increases, asset
+valuations and the discount rate on corporate bonds. Management estimates these factors in determining the net
+pension obligation in the balance sheet. The assumptions reflect historical experience and current trends. See note
+21 for the disclosures of the defined benefit pension scheme.
+
+Recoverability of receivables
+
+Management have estimated the recoverability of its trade receivables and made provisions accordingly.
+Estimations are also made with regard to accrued customer discounts and allowances which are typically driven by
+volume.
+
+38 [Page
+
+Essity UK Limited
+
+Notes to the financial statements for the year ended 31 December 2023 (continued)
+
+2 Significant accounting policies (continued)
+
+Critical accounting estimates and judgements (continued)
+
+Impairment of non-financial assets
+
+The company evaluates goodwill for impairment. Assessment for impairment involves comparing the book value
+of an asset with its recoverable amount (the higher of value in use and fair value less costs to sell). Value-in-use is
+determined with reference to projected future cash flows discounted at an appropriate rate. Both the cash flows and
+the discount rate involve a significant degree of estimation uncertainty.
+
+3 Revenue
+
+The analysis by geographical area of the destination of the company’s revenue is set out below.
+
+2023 2022
+
+£7000 £000
+
+United Kingdom 858,766 897,804
+Rest of Europe . 59,769 59,193
+918,535 956,997
+
+All revenue is derived from one class of business.
+
+See Note 14 for amounts due from external customers, in Trade receivables, and amounts due from other group
+companies derived from revenue.
+
+The closing balances of assets recognised for costs to fulfil contracts with customers are included in Trade and
+other receivables, see Note 14. The amount of amortisation recognised on the asset in the year was £2,544,000
+(2022: £2,543,000).
+
+Contract liabilities relating to volume discounts to customers included within Trade and other payables under
+Accruals and deferred income amounted to £42,050,000 (2022: £45,189,000).
+
+4 Directors’ emoluments
+
+2023 2022
+£000 £7000
+Aggregate emoluments for qualifying services 688 789
+Aggregate value of company contributions to pension schemes 79 40
+
+767 829
+
+The aggregate emoluments paid to the highest paid director in the year amounted to £322,000 (2022: £260,000). In
+addition, contributions made by the company to the pension scheme on behalf of the highest paid director were
+£11,000 (2022: nil), and the amount at the end of the year of the highest paid director’s accrued pension was £nil
+(2022: nil) .
+
+The number of directors who were members of the defined benefit scheme is 3 (2022: 3).
+
+The directors provide services to other fellow group companies. Costs cannot reasonably be allocated to these
+entities. Therefore, all directors’ emoluments for group companies are disclosed here.
+
+39[Page
+
+Essity UK Limited
+
+Notes to the financial statements for the year ended 31 December 2023 (continued)
+
+5 Employee Information
+
+The average monthly number of persons (including executive directors) employed by the company during the
+
+year was:
+2023 2022
+Number Number
+By activity
+Production and distribution 897 881
+Sales and marketing 388 349
+Administration 70 95
+1,355 1,325
+2023 2022
+£7000 £°000
+Staff costs (for the above persons):
+Wages and salaries 68,478 63,341
+Social security costs 7,686 7,318
+Other pension costs 8,109 7,440
+84,273 78,099
+6 Operating Profit
+2023 2022
+£7000 £7000
+Operating profit is stated after charging:
+Services provided by the company’s auditors:
+Fees payable for the audit — this company 302 241
+Fees payable for the audit — subsidiaries and associates of this company 70 59
+Depreciation charge for the year on property, plant and equipment: 13,837 14,284
+Impairment charge for the year on property, plant and equipment: 5,749 -
+Depreciation charge for the year on right of use assets 3,713 3,344
+Loss on disposal of property, plant and equipment 258 149
+Inventory recognised as an expense 470,592 548,059
+Foreign currency exchange losses/(gains) (163) 438
+
+40}Page
+
+Essity UK Limited
+
+Notes to the financial statements for the year ended 31 December 2023 (continued)
+
+7 Finance income
+
+2023 2022
+£7000 £°000
+On amounts owed by group undertakings 7,929 6,676
+8 Finance costs
+2023 2022
+£7000 £7000
+On amounts owed to group undertakings 808 310
+On lease liabilities 329 460
+1,137 770
+9 Income Tax
+Tax charge included in the income statement
+2023 2022
+£000 £7000
+Current tax:
+United Kingdom corporation tax on profit for the year
+- Current tax expense on profit 10,064 2,826
+- Adjustments in respect of prior year (476) 241
+Total current tax 9,588 3,067
+Deferred tax:
+- Origination and reversal of timing differences 1,643 1,283
+- Effect of increase in tax rate on opening liability 47 435
+- Adjustments in respect of prior year (899) 266
+Total deferred tax (note 18) 791 1,984
+Tax on profit 10,379 5,051
+
+41 [Page
+
+Essity UK Limited
+
+Notes to the financial statements for the year ended 31 December 2023 (continued)
+
+9 Income Tax (continued)
+
+Tax credit included in other comprehensive expense/income
+
+2023 2022
+
+£000 £000
+
+Current tax - -
+Deferred tax:
+
+- Origination and reversal of temporary differences (7,164) (5,510)
+
+- Effect of increase in tax rate on opening liability . (454) (492)
+
+Total tax credit included in other comprehensive loss/income (7,618) (5,702)
+
+The standard rate of tax for the year, based on the UK standard rate of corporation tax is 23.52% (2022: 19%). The
+actual tax charge for the year is lower (2022: higher) than the standard rate for the reasons set out in the following
+reconciliation:
+
+2023 2022
+
+£7000 £7000
+
+Profit before taxation 49,272 20,532
+
+Profit multiplied by the standard rate of corporation tax 23.52% (2022: 19%) 11,589 3,901
+Effects of: ;
+
+- Expenses not deductible for tax purposes 118 93
+
+- Imputed interest income - 115
+
+- Change in the standard rate of tax 47 435
+
+- Adjustments in respect of prior year (1,375) 507
+
+Tax charge 10,379 5,051
+
+Finance Act 2021 was substantively enacted on 24th May 2021. The Act included legislation to increase the main
+rate of Corporation Tax to 25% from | April 2023. Consequently deferred tax on temporary differences expected
+to reverse after that date have been recognised at a rate of 25% (2022: 25%).
+
+Finance Bill 2023 was enacted during the year which marked a significant step in the adoption of the OECD Pillar
+Two regime. The legislation in the United Kingdom will be effective for Essity Operations Manchester Limited
+financial year beginning | January 2024. Essity UK Limited is in scope of the enacted legislation and Essity UK
+Limited and the wider Essity Group have performed an assessment of its potential exposure to Pillar Two income
+taxes,
+
+This assessment is based on the most recent information available regarding the financial performance of the
+constituent entities in the wider UK Group. Based on the assessment performed, the Pillar Two effective tax rates
+in the jurisdictions in which the Group operates are above 15%. Therefore, Essity UK Limited does not expect a
+potential exposure to Pillar Two top-up taxes.
+
+. 42|Page
+
+Essity UK Limited
+
+Notes to the financial statements for the year ended 31 December 2023 (continued)
+
+10 Intangible assets
+
+Emission Patents and
+
+rights licences Goodwill Total
+£000 £000 £000 £000
+Cost ,
+At | January 2023 7,402 645 48,046 56,093
+Additions 7,683 - - 7,938
+Disposals -6,826 - - -6,826
+At 31 December 2023 8,259 645 48,046 56,950
+Accumulated amortisation
+At I January 2023 : - 645 40,203 40,848
+Charge for the year - - - -
+At 31 December 2023 - 645 40,203 40,848
+Net book amount
+At 31 December 2023 8,259 - 7,843 16,102
+At 31 December 2022 7,402 - 7,843 15,245
+
+The goodwill was generated on the acquisition of the Prudhoe site in 1996 (Cost: £38,765,000; Net book amount:
+£5,249,000), on the acquisition of the AM Paper Group in 1999 (Cost: £9,136,000; Net book amount:
+£2,516,000) and goodwill transferred in from another group company relating to the acquisition of the trade and
+assets of Oliver Marketing in 2001 (Cost: £145,000; Net book amount: £78,000).
+
+43|Pape
+
+Essity UK Limited
+
+Notes to the financial statements for the year ended 31 December 2023 (continued)
+
+iW Property, plant and equipment
+
+Freehold , Assets
+land and Plant and under
+improvements ___ Buildings machinery construction Total
+£7000 . £7000 £7000 £°000 £000
+Cost
+At | January 2023 11,218 81,593 270,768 13,562 ° 377,141
+Additions - 588 2,952 22,783 26,323
+Disposals - (178) (2,319) - (2,497)
+Reclassifications - 3,241 5,474 (8,715) -
+At 31 December 2023 11,218 85,244 276,875 27,630 400,967
+Accumulated depreciation
+At | January 2023 3,385 47,929 189,305 - 240,619
+Charge for the year 175 8,690 10,721 - 19,586
+Disposals - (146) (2,094) - (2,240)
+Reclassifications - 29 (29) - -
+At 31 December 2023 3,560 56,502 197,903 - 257,965
+Net book amount
+At 31 December 2023 7,658 28,742 78,972 27,630 143,002
+At 31 December 2022 7,833 33,664 81,463 13,562 136,522
+
+The value of freehold land not depreciated as at 31 December 2023 was £6,293 ,000 (2022: £6,293.000).
+
+On 10 January 2024, the company announced the closure of its Oakenholt PMI plant. Depreciation on affected
+fixed assets has been accelerated at a cost of £5,749k at 31 December, 2023. This is disclosed within depreciation
+charge for the year.
+
+44|Page
+
+Essity UK Limited
+
+Notes to the financial statements for the year ended 31 December 2023 (continued) -
+
+12 Financial assets and financial liabilities
+
+i. Financial assets
+
+2023 2022
+£000 £°000
+The company has the following derivative financial instruments:
+Energy price swaps — cash flow hedges 56 25,428
+Foreign exchange forward contracts — held for trading 51 182
+107 25,610
+Analysed as:
+Maturing within one year 69 20,509
+Maturing after more than one year 38 5,101
+107 25,610
+“i. Financialiiabilities  ts—C—=<CS~si‘“Ss*S*S*S*S”S”SSS
+2023 2022
+Note £7000 £7000
+The company has the following derivative financial instruments:
+Energy price swaps - cash flow hedges 26,988 21,161
+Foreign exchange forward contracts — held for trading 10 !
+26,998 21,162
+Analysed as:
+Maturing within one year 25,497 14,209
+Maturing after more than one year 1,501 6,953
+26,998 21,162
+
+Derivative financial instruments reflect the change in fair value of energy price swaps designated as cash flow
+hedges to hedge forecast energy consumption and foreign exchange forward contracts held for trading to hedge
+trade receivables and payables in Euros and US Dollars.
+
+Cash flow hedges are prepared for energy price risks in connection with purchases of electricity and gas. For cash
+flow hedges, hedges are prepared whereby critical terms match the hedged item. For the cash flow hedges prepared,
+this means that the change in fair value of the hedging instruments and the change in the hedged item are very
+highly correlated. Any ineffectiveness could, for example, be due to the time or the amount of the forecast cash
+flow mismatching with the cash flow of the derivative £nil (2022: £nil) was recognized in profit or loss as
+ineffectiveness concerning the cash flow hedges.
+
+45 [Page
+
+Essity UK Limited
+
+Notes to the financial statements for the year ended 31 December 2023 (continued)
+
+13. Inventories
+
+2023 2022
+
+£000 £7000
+
+Raw materials and consumables 10,123 17,869
+Work in progress 4,602 8,028
+Finished goods and goods for resale 32,407 36,566
+Engineering stores 15,378 13,496
+62,510 75,959
+
+The difference between purchase price or production cost of stocks and their replacement cost is not material.
+
+46(Page
+
+Essity UK Limited
+
+Notes to the financial statements for the year ended 31 December 2023 (continued)
+
+14‘ Trade and other receivables
+
+2023 2022
+£000 £7000
+Amounts falling due within one year:
+
+Trade receivables 123,346 141,035
+Amounts owed by group undertakings . 201,158 169,203
+Corporation Tax recoverable 8,897 4,472
+Prepayments and accrued income 4,670 4,058
+Derivative financial instruments (Note 12) 69 20,509
+Asset recognised for costs to fulfil contracts with customers 379 437
+338,519 339,714
+
+Amounts falling due after more than one year:
+Amounts owed by group undertakings - -
+Derivative financial instruments (Note 12) 38 5,101
+Asset recognised for costs to fulfil contracts with customers 3,495 3,456
+3,533 8,557
+342,052 348,271
+
+Trade receivables are stated after provisions for impairment of £1,367,000 (2022: £1,051 ,000).
+
+Amounts owed by group undertakings are comprised of the following balances.
+
+(i) Balances receivable from and payable to Essity Treasury AB have been presented net as follows.
+
+2023 2022
+£°000 £,000
+Cash held within the Essity group cash pool, on which interest is
+receivable at the 6 month GBP Libor rate (2022: 6 month GBP Libor
+rate), which is the internal group interest rate. This balance is a revolving
+cash pool balance with no fixed date of repayment. 193,031 155,195
+Settlement of energy price swap contracts which matured in December
+2023, payable in January 2024 (4,190) 3,118
+Trading balances 10,986 8,937
+Net debtor 199,827 167,250
+
+(ii) Amounts due from other group companies of £1,331,000 (2022: £1,953,000) which are interest free.
+
+47([Page
+
+Essity UK Limited
+
+Notes to the financial statements for the year ended 31 December 2023 (continued)
+
+15 Creditors: amounts falling due within one year
+
+2023 2022
+
+£°000 £7000
+
+Trade creditors 49,217 67,644
+Amounts owed to group undertakings : 57,488 55,767
+Lease liabilities (Note 22) 3,947 3,216
+Taxation and social security 22,352 20,860
+Other creditors 1,429 -
+Derivative financial instruments (Note 12) 25,497 14,209
+Accruals and deferred income 68,258 82,002
+228,188 243,698
+
+Amounts owed to group undertakings comprise:
+
+i)
+ii)
+
+iii)
+iv)
+vy)
+
+vi)
+
+vii)
+
+An amount due to Essity Treasury AB of £1,204,000 (2022: £1,041,000), a balance denominated in
+Euros, which represents an overdrawn balance in the Essity group cash pool. This balance has no
+fixed date of repayment and interest is payable at the 6-month EURIBOR rate plus 1.10%.
+
+An amount due to Essity Treasury AB of £1,106,000 (2022: £5,396,000), a balance denominated in
+US Dollars, which represents an overdrawn balance in the Essity group cash pool. This balance has
+no fixed date of repayment and interest is payable at the 6-month USD LIBOR rate plus 1.10%.
+
+A trading balance of £1,951,000 (2022: £566,000) due to Essity Operations Limited
+
+A trading balance of £35,684,000 (2022: £38,810,000) due to Essity Treasury AB
+
+A trading balance of £4,000 (2022: £125,000) due to Essity Hygiene and Health AB
+Trading balances of £10,373,000 (2022: £7,621,000) due to other Essity group companies
+Group relief payable of £6,906,000 (2022: £2,208,000)
+
+16 Creditors: amounts falling due after more than one year
+
+2023 2022
+£000 £000
+Lease liabilities (Note 22) 20,490 16,460
+Derivative financial instruments (Note 12) 1,501 6,953
+
+21,991 23,413
+
+48 [Page
+
+Essity UK Limited
+
+Notes to the financial statements for the year ended 31 December 2023 (continued)
+
+17 ___ Provisions for liabilities
+
+Employee Re- coz Deferred Total
+
+bonuses structuring emissions tax
+
+provision provision
+£000 £000 £000 £000 £000
+At | January 2023 148 363 8,039 12,154 20,704
+Amounts charged to the income statement 320 476 - 791 1,587
+Amounts credited to other comprehensive 7 - . (7,618) (7,618)
+
+income
+
+CO, emissions for the year - - 6,801 - 6,801
+Amount utilised (148) (181) (7,498) - (7,827)
+At 31 December 2023 320 658 7,342 §,327 13,647
+
+CO: emissions
+The emissions provision for each year is expected to be utilised in April of the following year.
+
+Restructuring provision
+
+The restructuring provision relates to projects to restructure the manufacturing and administrative operations of
+
+the company.
+
+The largest of these projects relates to an’Essity group wide restructuring of administrative operations still in
+
+progress.
+18 Deferred tax
+
+The provision for deferred tax consists of the following deferred tax liabilities (assets):
+
+2023 2022
+£7000 £7000
+Deferred tax assets due within 12 months (357) (1)
+Deferred tax liabilities due within 12 months 1 91
+Total deferred tax due within 12 months (356) 90
+2023 2022
+£°000 £7000
+Deferred tax assets due after more than 12 months (6,949) (1,088)
+Deferred tax liabilities due after more than 12 months 12,632 13,152
+Total deferred tax due after more than 12 months 5,683 12,064
+Total net liability 5,327 12,154
+
+49[Page
+
+Essity UK Limited
+Notes to the financial statements for the year ended 31 December 2023 (continued)
+
+18 Deferred tax (continued)
+
+Accelerated Cash
+capital flow
+allowances Pension hedges Other Total
+£°000 £7000 £000 £°000 £7000
+At 1 January 2022 . 8,856 - 7,071 (55) 15,872
+Charged/(credited) to the income statement 3,202 (95)- (90) (1,033) 1,984
+Charged/(credited) to other comprehensive ‘
+income - 95 (5,797) - (5,702)
+At 31 December 2022 12,058 - 1,184 1,088) 12,154
+At 1 January 2023 12,058 - 1,184 (1,088) 12,154
+Charged/(credited) to the income statement 574 (118) (271) 606 791
+Charged/(credited) to other comprehensive
+income - 118 (7,736) - (7,618)
+At 31 December 2023 12,632 - (6,823) (482) $,327
+
+There are no unused tax losses or unused tax credits.
+
+19 Share capital
+
+2023 2022
+£000 £000
+Authorised
+305,000,000 (2022: 305,000,000) ordinary shares of £1 each 305,000 305,000
+Alfotted and fully paid
+288,325,190 (2022: 288,325,190) ordinary shares of £1 each 288,325 288,325
+
+All shares rank pari passu for dividend rights and provide the holder with one vote.
+
+5S0|Page
+
+Essity UK Limited
+
+Notes to the financial statements for the year ended 31 December 2023 (continued)
+
+20 ~Reserves
+
+Cash flow
+
+hedge Retained Total
+
+. reserve earnings reserves
+
+£000 £7000 £000
+
+At } January 2023 3,265 15,886 19,151
+Profit for the financial year - 38,893 38,893
+Actuarial (losses)/gains on pension scheme - (13,317) (13,317)
+Impact of asset ceiling on pension surplus - 13,817 13,817
+Movement on deferred tax relating to pension scheme - (118) (118)
+
+Cash flow hedges:
+
+Result from remeasurement of derivatives recognized in equity (26,932) - (26,932)
+Transferred to profit or loss for the period (4,268) - (4,268)
+Movement on deferred tax relating to cash flow hedges 7,736 - 7,736
+Dividends paid - - -
+At 31 December 2023 (20,199) §5,161 , 34,962.
+
+The cash flow hedge reserve reflects deferred gains and losses on energy price swaps and foreign exchange forward
+contracts, where the contracts meet the criteria for hedge accounting. Such gains and losses are recognised in the
+income statement when the related hedged item is charged to income.
+
+21 + Post-employment benefits
+
+The company operated both a defined benefit and a defined contribution scheme during the year.
+
+Defined benefit scheme
+
+Plan assets held in the fund are governed by local regulations and practice in the United Kingdom. Responsibility
+for the governance of the plan — including investment decisions and contribution schedules — lies jointly with the
+company and the board of directors of the fund.
+
+On 30 September 2018, the defined benefit pension scheme was closed to future accrual for all members.
+The risks of the scheme are as follows:
+
+(a) Asset volatility
+
+The plan liabilities are calculated using a discount rate set with reference to corporate bond yields; if plan assets
+underperform this yield, this will create a deficit. The plan holds a significant proportion of equities, which are
+expected to outperform corporate bonds in the long-term while providing volatility and risk in the short-term.
+
+As the plans mature, the company intends to reduce the level of investment risk by investing more in assets that
+better match the liabilities. However, the company believes that due to the long-term nature of the plan liabilities
+and the strength of the supporting group, a level of continuing equity investment is an appropriate element of the
+group’s long-term strategy to manage the plans efficiently.
+
+(b) Changes in bond yields
+
+A decrease in corporate bond yields will increase plan liabitities, although this will be partially offset by an increase
+in the value of the plans’ bond holdings.
+
+5l|[Page
+
+Essity UK Limited
+
+Notes to the financial statements for the year ended 31 December 2023 (continued)
+
+21. +Post-employment benefits (continued)
+
+(c) Life expectancy
+The majority of the plan’s obligations are to provide benefits for the life of the member, so increases in life
+expectancy will result in an increase in the plan’s liabilities.
+
+(d) Inflation risk .
+
+The pension obligations are linked to inflation, and higher inflation will lead to higher liabilities (although, in most
+cases, caps on the level of inflationary increases are in place to protect the plan against extreme inflation). The
+majority of the plan’s assets are either unaffected by (fixed interest bonds) or loosely correlated with (equities)
+inflation, meaning that an increase in inflation will also increase the deficit.
+
+A comprehensive actuarial valuation of the company pension scheme, using the projected unit basis, was carried
+out at 5 April 2022 by Lane Clark & Peacock LLP, independent consulting actuaries. Adjustments to the valuation
+at that date have been made based on the following assumptions:
+
+At At
+31 December 31 December
+2023 2022
+% %
+Rate of increase in pensions 3.50% 3.30%
+Rate of increase for deferred pensions 3.50% 3.50%
+Salary increase - -
+Discount rate 462% - 4.77%
+Inflation assumptions (RP) 3.50% 3.50%
+
+Assumptions regarding future mortality are set based on actuarial advice in accordance with published statistics
+and experience in the UK. These assumptions translate into an average life expectancy in years for a pensioner
+retiring at age 65:
+
+31 December 31 December
+2023 . 2022
+Number of Number of
+‘ years years
+Longevity at age 65 for current pensioners
+- Men . 21.4 21.6
+- Women : 24.6 24.7
+Longevity at age 65 for future pensioners
+- Men 23.0 23,3
+- Women 26.4 26.4
+
+52[Pave
+
+Essity UK Limited
+
+Notes to the financial statements for the year ended 31 December 2023 (continued)
+21 Post-employment benefits (continued)
+
+Reconciliation of scheme assets and liabilities:
+
+Fair value Defined Impact of , Total
+of plan benefit asset
+assets , obligation ceiling
+£000 £°000 £000 £000
+At 1 January 2023 294,093 (247,757) (46,336) -
+Service cost (500) - - (500)
+Interest expense - (11,818) (2,210) (14,028)
+Benefits paid , (14,453) 14,453 - -
+Actuarial losses ; (8,002) (5,315) - (13,317)
+Interest Income on plan assets 14,028  e - 14,028
+Change in asset ceiling . - - 13,817 13,817
+At 31 December 2023 285,166 (250,437) (34,729) -
+
+Pension surplus
+
+In 2021, the directors undertook a study in relation to a potential scheme that had been expected to be used to secure
+the benefits of the pension surplus that had been recognised in previous periods. As a result of new information
+from this study the directors concluded that it was no longer appropriate to recognise the pension asset and therefore
+it was derecognised and an asset ceiling applied in financial statements for 2020 and 2021.
+
+At 31 December 2023, the total contributions to the defined benefit schemes in 2024 are expected to be £nil (2023:
+£nil) due the funding level of the pension scheme meeting the criteria for ni] contributions in line with the scheme’s
+schedule of contributions at 3] March 2021.
+
+Total amount recognised as an expense/(income) in the Income Statement:
+
+2023 2022
+
+£7000 £°000
+
+Current service cost 500 500
+The fair value of plan assets were:
+
+2023 2022
+
+£7000 £000
+
+Equities 15,630 13,540
+
+Corporate Bonds : 131,110 124,298
+
+Other Debt Instruments 135,806 152,196
+
+Cash/property 2,620 4,059
+
+Total market value of assets 285,166 ; 294,093
+
+53|Page
+
+Essity UK Limited
+Notes to the financial statements for the year ended 31 December 2023 (continued)
+
+21 ~+Post-employment benefits (continued)
+
+The sensitivity of the defined benefit obligation to changes in the weighted principal assumptions is shown in the
+following table as an increase/(decrease) in the liability:
+
+Change in Increase in Decrease in
+assumption assumption assumption
+£7000 £,000
+Discount rate 0.5% pa (17,928) ° 19,311
+Salary growth rate 0.5% pa - . -
+Pension growth rate 0.5% pa (16,373 (15,368)
+Life expectancy | year 9,010 (8,697)
+
+The above sensitivity analyses are based on a change in an assumption while holding al! other assumptions constant.
+In practice, this is unlikely to occur, and changes in some of the assumptions may be correlated.
+
+When calculating the sensitivity of the defined benefit obligation to significant actuarial assumptions the same
+method (present value of the defined benefit obligation calculated with the projected unit credit method at the end
+of the reporting year) has been applied as when calculating the pension liability recognised within the statement of
+financial position.
+
+The methods and types of assumptions used in preparing the sensitivity analysis did not change compared to the
+previous year.
+
+Defined contribution schemes
+
+The Group’s defined contribution schemes are funded by the payment of contributions to independently
+administered funds and the assets of the schemes are held separately from those of the company. The pension cost
+charges for the year amounted to £7,609,000 (2022: £6,940,000). Contributions totalling £nil (2022: £nil) were
+payable to the funds at the year end.
+
+22 Leases
+
+The carrying amounts of right-of-use assets are set out below.
+
+Property Motor Total
+Vehicles
+£000 £7000 £°000
+Carrying amount
+At | January 2023 17,464 1,790 19,254
+Additions 7,025 881 7,906
+Depreciation (2,880) (833) (3,713)
+At 31 December 2023 21,609 1,838 23,447
+
+5S4[Pave
+
+Essity UK Limited
+
+Notes to the financial statements for the year ended 31 December 2023 (continued)
+
+22 Leases (continued)
+
+The carrying amounts of lease liabilities are set out below.
+
+Lease
+liabilities
+
+£°000
+Cost or valuation
+At 1 January 2023 19,676
+Additions 7,906
+Interest expense : 808
+Payments (3,953)
+At 31 December 2023 24,437
+Maturity analysis of liability:
+2023 2022
+£°000 £7000
+Payable within | year . 3,947 3,216
+Payable after more than one year and up to 5 years 20,490 16,460
+At 31 December 2023 24,437 19,676
+The income statement shows the following amounts relating to leases.
+2023 2022
+£7000 £000
+Expense relating to short-term leases 1,457 1,651
+Expense relating to leases of low-value assets that are not shown above as
+short-term leases 33 15
+
+The total cash outflow for leases was £5,393,000 (2022: £4,492 ,000)
+
+S5[Page
+
+Essity UK Limited
+Notes to the financial statements for the year ended 31 December 2023 (continued)
+
+23 Post Balance Sheet events
+
+On 28 June 2024 the company assumed responsibility for the Pension plan of Essity Operations Manchester Ltd
+under a Flexible Apportionment Arrangement. On 1 July 2024 a Pension buy-in arrangement with Legal and
+General Assurance Society Limited was executed for the company pension plans.
+
+On 1 September 2024 the company acquired the net assets and trade of its sister company Essity Operations
+Manchester Limited, which was already selling all its production of finished goods to Essity UK Limited as part of
+its business with external customers. The transaction was done at book value for an amount of £51,155,000.
+
+On 1 September 2024 the company acquired the trade of its sister company BSN Medical Limited for an estimated
+value of £8,933,000 based on management accounts at 31 August 2024. The purchase price agreed is the sum of
+the value of the investments held in this company’s books (€42,950,000), less the value of net monetary retained
+in BSN Medical Limited following completion.
+
+These transactions were executed to simplify the structure of Essity’s business in the U.K., to integrate the medical
+business into the main trading company and processes of Essity in the U.K, and to reduce administrative costs.
+
+24 Immediate and ultimate parent undertaking and controlling party
+
+The company is a subsidiary of Essity Group Holding BV, a company registered in the Netherlands. By virtue of
+their shareholding, the ultimate parent company and controlling party of the company is Essity Aktiebolag (publ),
+a company incorporated in Sweden. The immediate parent company is Essity Holding UK Limited, a company
+registered in England and Wales.
+
+Essity Aktiebolag (pub!) was the parent company of the largest and smallest group to prepare consolidated financial
+statements for 2023. These financial statements for the year ended 31 December 2023 may be found on the website:
+
+www.essity.com/investors/reports/annual-reports
+
+56[Page
+

@@ -1,0 +1,444 @@
+Registration number: 10441329
+
+Heritage Skills Academy Limited
+
+RS Partnership Ltd
+
+Chartered Certified Accountants
+10 Prospect Place
+
+Welwyn
+
+Hertfordshire
+
+AL6 9EW
+
+formerly known as Formula | Marine Ltd
+Annual Report and Unaudited Financial Statements
+for the Year Ended 31 December 2023
+
+Company Information
+
+Balance Sheet
+
+Notes to the Financial Statements
+
+Heritage Skills Academy Limited
+
+Contents
+
+Directors
+
+Registered office
+
+Accountants
+
+Heritage Skills Academy Limited
+Company Information
+
+Mr John Howard Pitchforth
+Mrs Janice Pitchforth
+
+Building 90
+Bicester Heritage
+Buckingham Road
+Bicester
+Oxfordshire
+OX27 8AL
+
+RS Partnership Ltd
+
+Chartered Certified Accountants
+10 Prospect Place
+
+Welwyn
+
+Hertfordshire
+
+AL6 9EW
+
+Page |
+
+Heritage Skills Academy Limited
+
+(Registration number: 10441329)
+Balance Sheet as at 31 December 2023
+
+2023 2022
+Note £ £
+Fixed assets
+Intangible assets 4 7,500 8,333
+Tangible assets i 28,432 33,645
+35,932 41,978
+Current assets
+Debtors 6 103,103 120,098
+Cash at bank and in hand 115,922 34,023
+219,025 154,121
+Creditors: Amounts falling due within one year i (93,509) (67,562)
+Net current assets 125,516 86,559
+Total assets less current liabilities 161,448 128,537
+Creditors: Amounts falling due after more than one year i (14,000) (24,167)
+Provisions for liabilities (6,827) (7,976)
+Net assets 140,621 96,394
+Capital and reserves
+Called up share capital 8 103 103
+Capital redemption reserve 15 15
+Retained earnings 140,503 96,276
+Shareholders’ funds 140,621 96,394
+
+For the financial year ending 31 December 2023 the company was entitled to exemption from audit under section 477 of the
+Companies Act 2006 relating to small companies.
+
+Directors’ responsibilities:
+The members have not required the company to obtain an audit of its accounts for the year in question in accordance with
+section 476; and
+
+The directors acknowledge their responsibilities for complying with the requirements of the Act with respect to accounting
+records and the preparation of accounts.
+
+These financial statements have been prepared in accordance with the special provisions relating to companies subject to the small
+companies regime within Part 15 of the Companies Act 2006.
+
+These financial statements have been delivered in accordance with the provisions applicable to companies subject to the small
+companies regime and the option not to file the Profit and Loss Account has been taken.
+
+The notes on pages 4 to 10 form an integral part of these financial statements.
+7 7 age
+
+Heritage Skills Academy Limited
+
+(Registration number: 10441329)
+Balance Sheet as at 31 December 2023
+
+Approved and authorised by the Board on 4 March 2024 and signed on its behalf by:
+
+Mrs Janice Pitchforth
+Director
+
+The notes on pages 4 to 10 form an integral part of these financial statements.
+7 7 age
+
+Heritage Skills Academy Limited
+
+Notes to the Financial Statements for the Year Ended 31 December 2023
+
+1 General information
+The company is a private company limited by share capital, incorporated in England and Wales.
+
+The address of its registered office is:
+Building 90
+
+Bicester Heritage
+
+Buckingham Road
+
+Bicester
+
+Oxfordshire
+
+OX27 8AL
+
+The principal place of business is:
+Building 90
+
+Bicester Heritage
+
+Buckingham Road
+
+Bicester
+
+Oxfordshire
+
+OX27 8AL
+
+These financial statements were authorised for issue by the Board on 4 March 2024,
+
+2 Accounting policies
+
+Summary of significant accounting policies and key accounting estimates
+
+The principal accounting policies applied in the preparation of these financial statements are set out below. These policies have
+been consistently applied to all the ycars presented, unless otherwise stated.
+
+Statement of compliance
+
+These financial statements have been prepared in accordance with Financial Reporting Standard 102 Section 1A smaller entities -
+‘The Financial Reporting Standard applicable in the United Kingdom and Republic of Ireland’ and the Companies Act 2006 (as
+applicable to companies subject to the small companies' regime).
+
+Basis of preparation
+
+These financial statements have been prepared using the historical cost convention except that as disclosed in the accounting
+policies certain items are shown at fair value.
+
+These financial statements are presented in Pounds Sterling (£), which is the Company’s functional
+currency. All amounts have been rounded to the nearest pound, unless otherwise indicated.
+
+Revenue recognition
+
+Turnover comprises the fair value of the consideration received or receivable for the sale of goods and provision of services in the
+ordinary course of the company’s activities. Turnover is shown net of sales/value added tax, returns, rebates and discounts.
+
+The company recognises revenue when:
+
+The amount of revenue can be reliably measured;
+
+it is probable that future economic benefits will flow to the entity;
+
+and specific criteria have been met for each of the company's activities.
+
+Tax
+
+The tax expense for the period comprises current and deferred tax. Tax is recognised in profit or loss, except that a change
+attributable to an item of income or expense recognised as other comprehensive income is also recognised directly in other
+comprehensive income.
+
+Page 4
+
+Heritage Skills Academy Limited
+Notes to the Financial Statements for the Year Ended 31 December 2023
+
+The current income tax charge is calculated on the basis of tax rates and laws that have been enacted or substantively enacted by
+the reporting date in the countries where the company operates and generates taxable income.
+
+Deferred tax is recognised in respect of all timing differences between taxable profits and profits reported in the financial
+statements.
+
+Unrelieved tax losses and other deferred tax assets are recognised when it is probable that they will be recovered against the
+reversal of deferred tax liabilities or other future taxable profits.
+
+Deferred tax is measured using the tax rates and laws that have been enacted or substantively enacted by the reporting date and
+that are expected to apply to the reversal of the timing difference.
+
+Tangible assets
+
+Tangible assets are stated in the balance shect at cost, less any subsequent accumulated depreciation and subsequent accumulated
+impairment losses.
+The cost of tangible assets includes directly attributable incremental costs incurred in their acquisition and installation.
+
+Depreciation
+
+Depreciation is charged so as to write off the cost of assets, other than land and properties under construction over their estimated
+useful lives, as follows:
+
+Asset class Depreciation method and rate
+Motor Vehicle 25% reducing balance method
+Goodwill
+
+Goodwill arising on the acquisition of an entity represents the excess of the cost of acquisition over the company’s interest in the
+net fair value of the identifiable assets, liabilities and contingent liabilities of the entity recognised at the date of acquisition.
+Goodwill is initially recognised as an asset at cost and is subsequently measured at cost less accumulated amortisation and
+accumulated impairment losses. Goodwill is held in the currency of the acquired entity and revalued to the closing rate at each
+reporting period date. Goodwill is amortised over its useful life, which shall not exceed ten years if a reliable estimate of the
+useful life cannot be made.
+
+Amortisation
+
+Amortisation is provided on intangible assets so as to write off the cost, less any estimated residual value, over their useful life as
+follows:
+
+Asset class Amortisation method and rate
+Other intangible assets 25% straight line
+
+Cash and cash equivalents
+
+Cash and cash equivalents comprise cash on hand and call deposits, and other short-term highly liquid investments that are readily
+convertible to a known amount of cash and are subject to an insignificant risk of change in value.
+
+Page 5
+
+Heritage Skills Academy Limited
+Notes to the Financial Statements for the Year Ended 31 December 2023
+
+Trade debtors
+
+Trade debtors are amounts duc from customers for merchandise sold or services performed in the ordinary course of business.
+Trade debtors are recognised initially at the transaction price. They are subsequently measured at amortised cost using the
+effective interest method, less provision for impairment. A provision for the impairment of trade debtors is established when there
+is objective evidence that the company will not be able to collect all amounts due according to the original terms of the
+receivables.
+
+Trade creditors
+
+Trade creditors are obligations to pay for goods or services that have been acquired in the ordinary course of business from
+suppliers. Accounts payable are classified as current liabilities if the company does not have an unconditional right, at the end of
+the reporting period, to defer settlement of the creditor for at least twelve months after the reporting date. If there is an
+unconditional right to defer settlement for at least twelve months after the reporting date, they are presented as non-current
+liabilities.
+
+Trade creditors are recognised initially at the transaction price and subsequently measured at amortised cost using the effective
+interest method.
+
+Borrowings
+
+Interest-bearing borrowings are initially recorded at fair value, net of transaction costs. Interest-bearing borrowings are
+subsequently carried at amortised cost, with the difference between the proceeds, net of transaction costs, and the amount due on
+redemption being recognised as a charge to the profit and loss account over the period of the relevant borrowing.
+
+Interest expense is recognised on the basis of the effective interest method and is included in interest payable and similar charges.
+Borrowings are classified as current liabilities unless the company has an unconditional right to defer settlement of the liability for
+at least twelve months after the reporting date.
+
+Share capital
+
+Ordinary shares are classified as equity. Equity instruments are measured at the fair value of the cash or other resources received
+or receivable, net of the direct costs of issuing the equity instruments. If payment is deferred and the time value of money is
+material, the initial measurement is on a present value basis.
+
+Dividends
+
+Dividend distribution to the company’s shareholders is recognised as a liability in the financial statements in the reporting period
+in which the dividends are declared.
+
+Defined contribution pension obligation
+
+A defined contribution plan is a pension plan under which fixed contributions are paid into a pension fund and the company has
+no legal or constructive obligation to pay further contributions even if the fund does not hold sufficient assets to pay all employees
+the benefits relating to employee service in the current and prior periods.
+
+Contributions to defined contribution plans are recognised as employee benefit expense when they are due. If contribution
+payments exceed the contribution due for service, the excess is recognised as a prepayment.
+
+3. Staff numbers
+
+The average number of persons employed by the company (including directors) during the year, was 14 (2022 - 14).
+
+Page 6
+
+Heritage Skills Academy Limited
+
+Notes to the Financial Statements for the Year Ended 31 December 2023
+
+4 Intangible assets
+
+Other intangible
+assets Total
+£ £
+Cost or valuation
+At | January 2023 10,000 10,000
+At 31 December 2023 10,000 10,000
+Amortisation
+At | January 2023 1,667 1,667
+Amortisation charge 833 833
+At 31 December 2023 2,500 2,500
+Carrying amount
+At 31 December 2023 7,500 7,500
+At 31 December 2022 8,333 8,333
+
+Page 7
+
+Notes to the Financial Statements for the Year Ended 31 December 2023
+
+5 Tangible assets
+
+Cost or valuation
+At | January 2023
+
+At31 December 2023
+
+Depreciation
+At 1 January 2023
+Charge for the year
+
+At 31 December 2023
+Carrying amount
+At 31 December 2023
+
+At 31 December 2022
+
+6 Debtors
+
+Trade debtors
+Prepayments
+Other debtors
+
+Heritage Skills Academy Limited
+
+Furniture, Other property,
+fittings and plant and
+equipment Motor vehicles equipment Total
+£ £ £ £
+1,717 29,325 8,337 39,379
+1,717 29,325 8,337 39,379
+212 3,618 1,904 5,734
+376 3,229 1,608 5,213
+588 6,847 3,512 10,947
+1,129 22,478 4,825 28,432
+1,505 25,707 6,433 33,645
+2023 2022
+£ £
+6,619 24,316
+- 299
+96,484 95,483
+103,103 120,098
+
+Page 8
+
+
+Heritage Skills Academy Limited
+
+Notes to the Financial Statements for the Year Ended 31 December 2023
+
+7 Creditors
+
+Creditors: amounts falling due within one year
+
+2023 2022
+Note £ £
+Due within one year
+Bank loans and overdrafts 9 10,000 10,000
+Trade creditors 15,517 10,963
+Taxation and social security 10,526 17,190
+Accruals and deferred income 2,653 2,653
+Other creditors 14,561 3,571
+Corporation tax 40,251 23,184
+Directors Loan Account i i
+93,509 67,562
+Creditors: amounts falling due after more than one year
+2023 2022
+Note £ £
+Due after one year
+Loans and borrowings 9 14,000 24,167
+
+Creditors include bank loans repayable by instalments of £14,000 (2022 - £24,167) due after more than five years.
+
+8 Share capital
+Allotted, called up and fully paid shares
+
+2023 2022
+No. £ No. £
+Ordinary of £1 each 100 100 100 100
+Ordinary A of £1 cach 1 1 1 1
+Ordinary B of £1 cach 1 1 1 1
+Ordinary C of £1 each 1 1 1 1
+103 103 103 103
+
+Page 9
+
+Heritage Skills Academy Limited
+
+Notes to the Financial Statements for the Year Ended 31 December 2023
+
+9 Loans and borrowings
+
+2023 2022
+£ £
+Non-current loans and borrowings
+Bank borrowings 14,000 24,167
+2023 2022
+£ £
+Current loans and borrowings
+Bank borrowings 10,000 10,000
+
+10 Financial commitments, guarantees and contingencies
+
+Amounts not provided for in the balance sheet
+
+The total amount of financial commitments not included in the balance shect is £86,250 (2022 - £143,125).
+
+Page 10
+
+This document was delivered using electronic communications and authenticated in accordance with the
+registrar's rules relating to electronic form, authentication and manner of delivery under section 1072 of
+the Companies Act 2006.
+

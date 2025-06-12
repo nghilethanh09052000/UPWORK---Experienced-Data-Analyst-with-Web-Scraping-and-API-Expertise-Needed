@@ -1,0 +1,605 @@
+New Start - Accounts to registrar (filleted) - small 23.2.5
+IRIS Accounts Production
+v24.1.4.33
+03452521
+Board of Directors
+6.4.23
+5.4.24
+5.4.24
+false
+true
+false
+false
+true
+false
+iso4217:GBP
+iso4217:USD
+iso4217:EUR
+xbrli:shares
+xbrli:pure
+utr:tonnes
+utr:kWh
+03452521
+2023-04-05
+03452521
+2024-04-05
+03452521
+2023-04-06
+2024-04-05
+03452521
+2022-04-05
+03452521
+2022-04-06
+2023-04-05
+03452521
+2023-04-05
+03452521
+ns15:EnglandWales
+2023-04-06
+2024-04-05
+03452521
+ns14:PoundSterling
+2023-04-06
+2024-04-05
+03452521
+ns10:Director1
+2023-04-06
+2024-04-05
+03452521
+ns10:CompanyLimitedByGuarantee
+2023-04-06
+2024-04-05
+03452521
+ns10:SmallEntities
+2023-04-06
+2024-04-05
+03452521
+ns10:AuditExempt-NoAccountantsReport
+2023-04-06
+2024-04-05
+03452521
+ns10:SmallCompaniesRegimeForDirectorsReport
+2023-04-06
+2024-04-05
+03452521
+ns10:SmallCompaniesRegimeForAccounts
+2023-04-06
+2024-04-05
+03452521
+ns10:FullAccounts
+2023-04-06
+2024-04-05
+03452521
+ns10:Director2
+2023-04-06
+2024-04-05
+03452521
+ns10:Director3
+2023-04-06
+2024-04-05
+03452521
+ns10:Director4
+2023-04-06
+2024-04-05
+03452521
+ns10:CompanySecretary1
+2023-04-06
+2024-04-05
+03452521
+ns10:RegisteredOffice
+2023-04-06
+2024-04-05
+03452521
+ns5:CurrentFinancialInstruments
+2024-04-05
+03452521
+ns5:CurrentFinancialInstruments
+2023-04-05
+03452521
+ns5:Non-currentFinancialInstruments
+2024-04-05
+03452521
+ns5:Non-currentFinancialInstruments
+2023-04-05
+03452521
+ns5:RetainedEarningsAccumulatedLosses
+2024-04-05
+03452521
+ns5:RetainedEarningsAccumulatedLosses
+2023-04-05
+03452521
+ns5:LeaseholdImprovements
+2023-04-06
+2024-04-05
+03452521
+ns5:PlantMachinery
+2023-04-06
+2024-04-05
+03452521
+ns5:FurnitureFittings
+2023-04-06
+2024-04-05
+03452521
+ns5:MotorVehicles
+2023-04-06
+2024-04-05
+03452521
+ns5:ComputerEquipment
+2023-04-06
+2024-04-05
+03452521
+ns5:LandBuildings
+2023-04-05
+03452521
+ns5:LeaseholdImprovements
+2023-04-05
+03452521
+ns5:PlantMachinery
+2023-04-05
+03452521
+ns5:LandBuildings
+2023-04-06
+2024-04-05
+03452521
+ns5:LandBuildings
+2024-04-05
+03452521
+ns5:LeaseholdImprovements
+2024-04-05
+03452521
+ns5:PlantMachinery
+2024-04-05
+03452521
+ns5:LandBuildings
+2023-04-05
+03452521
+ns5:LeaseholdImprovements
+2023-04-05
+03452521
+ns5:PlantMachinery
+2023-04-05
+03452521
+ns5:FurnitureFittings
+2023-04-05
+03452521
+ns5:MotorVehicles
+2023-04-05
+03452521
+ns5:ComputerEquipment
+2023-04-05
+03452521
+ns5:FurnitureFittings
+2024-04-05
+03452521
+ns5:MotorVehicles
+2024-04-05
+03452521
+ns5:ComputerEquipment
+2024-04-05
+03452521
+ns5:FurnitureFittings
+2023-04-05
+03452521
+ns5:MotorVehicles
+2023-04-05
+03452521
+ns5:ComputerEquipment
+2023-04-05
+03452521
+ns5:CurrentFinancialInstruments
+ns5:WithinOneYear
+2024-04-05
+03452521
+ns5:CurrentFinancialInstruments
+ns5:WithinOneYear
+2023-04-05
+03452521
+ns5:Non-currentFinancialInstruments
+ns5:AfterOneYear
+2024-04-05
+03452521
+ns5:Non-currentFinancialInstruments
+ns5:AfterOneYear
+2023-04-05
+REGISTERED NUMBER:
+03452521
+(England and Wales)
+NEW START
+UNAUDITED FINANCIAL STATEMENTS FOR THE YEAR ENDED 5TH APRIL 2024
+Garner & Associates Ltd
+Liverpool Road Studios
+Suites 3 & 4
+113 Liverpool Road
+Crosby
+Merseyside
+L23 5TD
+NEW START (REGISTERED NUMBER: 03452521)
+CONTENTS OF THE FINANCIAL STATEMENTS
+for the Year Ended 5th April 2024
+Page
+Company Information
+1
+Balance Sheet
+2
+Notes to the Financial Statements
+4
+NEW START
+COMPANY INFORMATION
+for the Year Ended 5th April 2024
+DIRECTORS:
+R S Baynes
+A Baynes
+C Brannan
+M M Johnstone Doyle
+SECRETARY:
+N Baynes
+REGISTERED OFFICE:
+Heritage House
+9b Hoghton Street
+Southport
+Merseyside
+PR9 0TE
+REGISTERED NUMBER:
+03452521
+(England and Wales)
+ACCOUNTANTS:
+Garner & Associates Ltd
+Liverpool Road Studios
+Suites 3 & 4
+113 Liverpool Road
+Crosby
+Merseyside
+L23 5TD
+Page 1
+NEW START (REGISTERED NUMBER: 03452521)
+BALANCE SHEET
+5th April 2024
+2024
+2023
+Notes
+£
+£
+£
+£
+FIXED ASSETS
+Tangible assets
+4
+390,210
+429,274
+CURRENT ASSETS
+Debtors
+5
+591,210
+325,092
+Cash at bank and in hand
+1,272,037
+1,079,256
+1,863,247
+1,404,348
+CREDITORS
+Amounts falling due within one year
+6
+296,707
+148,057
+NET CURRENT ASSETS
+1,566,540
+1,256,291
+TOTAL ASSETS LESS CURRENT
+LIABILITIES
+1,956,750
+1,685,565
+CREDITORS
+Amounts falling due after more than one
+year
+7
+297,179
+341,377
+NET ASSETS
+1,659,571
+1,344,188
+RESERVES
+Income and expenditure account
+1,659,571
+1,344,188
+1,659,571
+1,344,188
+The company is entitled to exemption from audit under Section 477 of the Companies Act 2006 for the year ended 5th April 2024.
+The members have not required the company to obtain an audit of its financial statements for the year ended 5th April 2024 in accordance with Section 476 of the Companies Act 2006.
+The directors acknowledge their responsibilities for:
+(a)
+ensuring that the company keeps accounting records which comply with Sections 386 and 387 of the Companies
+Act 2006 and
+(b)
+preparing financial statements which give a true and fair view of the state of affairs of the company as at the end of
+each financial year and of its surplus or deficit for each financial year in accordance with the requirements of
+Sections 394 and 395 and which otherwise comply with the requirements of the Companies Act 2006 relating to
+financial statements, so far as applicable to the company.
+The notes form part of these financial statements
+Page 2
+continued...
+NEW START (REGISTERED NUMBER: 03452521)
+BALANCE SHEET - continued
+5th April 2024
+The financial statements have been prepared and delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+In accordance with Section 444 of the Companies Act 2006, the Income Statement has not been delivered.
+The financial statements were approved by the Board of Directors and authorised for issue on
+22nd August 2024
+and
+were signed on its behalf by:
+R S Baynes
+- Director
+The notes form part of these financial statements
+Page 3
+NEW START (REGISTERED NUMBER: 03452521)
+NOTES TO THE FINANCIAL STATEMENTS
+for the Year Ended 5th April 2024
+1.
+STATUTORY INFORMATION
+New Start is a
+private company, limited by guarantee
+, registered in England and Wales. The company's
+registered number and registered office address can be found on the Company Information page.
+2.
+ACCOUNTING POLICIES
+Basis of preparing the financial statements
+These financial statements have been prepared in accordance with Financial Reporting Standard 102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland" including the provisions of Section 1A "Small Entities" and the Companies Act 2006. The financial statements have been prepared under the historical cost convention.
+Turnover
+Turnover is derived from the company's ordinary activities and is stated net of Value Added Tax.
+Tangible fixed assets
+Depreciation is provided at the following annual rates in order to write off each asset over its estimated useful life.
+Improvements to property
+-
+33.33% on cost
+Plant and machinery
+-
+33.33% on cost
+Fixtures and fittings
+-
+33.33% on cost
+Motor vehicles
+-
+33.33% on cost
+Computer equipment
+-
+25% on reducing balance
+Taxation
+Taxation for the year comprises current and deferred tax. Tax is recognised in the Income Statement, except to
+the extent that it relates to items recognised in other comprehensive income or directly in equity.
+Current or deferred taxation assets and liabilities are not discounted.
+Current tax is recognised at the amount of tax payable using the tax rates and laws that have been enacted or
+substantively enacted by the balance sheet date.
+Deferred tax
+Deferred tax is recognised in respect of all timing differences that have originated but not reversed at the balance
+sheet date.
+Timing differences arise from the inclusion of income and expenses in tax assessments in periods different from
+those in which they are recognised in financial statements. Deferred tax is measured using tax rates and laws that
+have been enacted or substantively enacted by the year end and that are expected to apply to the reversal of the
+timing difference.
+Unrelieved tax losses and other deferred tax assets are recognised only to the extent that it is probable that they
+will be recovered against the reversal of deferred tax liabilities or other future taxable profits.
+Hire purchase and leasing commitments
+Rentals paid under operating leases are charged to surplus or deficit on a straight line basis over the period of the
+lease.
+Pension costs and other post-retirement benefits
+The company operates a defined contribution pension scheme.
+Contributions payable to the company's pension
+scheme are charged to profit or loss in the period to which they relate.
+3.
+EMPLOYEES AND DIRECTORS
+The average number of employees during the year was
+209
+(2023 -
+154
+) .
+Page 4
+continued...
+NEW START (REGISTERED NUMBER: 03452521)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+for the Year Ended 5th April 2024
+4.
+TANGIBLE FIXED ASSETS
+Improvements
+Freehold
+to
+Plant and
+property
+property
+machinery
+£
+£
+£
+COST
+At 6th April 2023
+350,179
+152,842
+50,000
+Disposals
+-
+-
+-
+At 5th April 2024
+350,179
+152,842
+50,000
+DEPRECIATION
+At 6th April 2023
+-
+109,899
+49,999
+Charge for year
+-
+14,313
+-
+Eliminated on disposal
+-
+-
+-
+At 5th April 2024
+-
+124,212
+49,999
+NET BOOK VALUE
+At 5th April 2024
+350,179
+28,630
+1
+At 5th April 2023
+350,179
+42,943
+1
+Fixtures
+and
+Motor
+Computer
+fittings
+vehicles
+equipment
+Totals
+£
+£
+£
+£
+COST
+At 6th April 2023
+695,755
+161,602
+9,249
+1,419,627
+Disposals
+-
+(
+124,188
+)
+-
+(
+124,188
+)
+At 5th April 2024
+695,755
+37,414
+9,249
+1,295,439
+DEPRECIATION
+At 6th April 2023
+690,603
+137,540
+2,312
+990,353
+Charge for year
+1,717
+1,380
+1,734
+19,144
+Eliminated on disposal
+-
+(
+104,268
+)
+-
+(
+104,268
+)
+At 5th April 2024
+692,320
+34,652
+4,046
+905,229
+NET BOOK VALUE
+At 5th April 2024
+3,435
+2,762
+5,203
+390,210
+At 5th April 2023
+5,152
+24,062
+6,937
+429,274
+5.
+DEBTORS
+2024
+2023
+£
+£
+Amounts falling due within one year:
+Trade debtors
+341,210
+264,524
+Other debtors
+250,000
+54,000
+591,210
+318,524
+Page 5
+continued...
+NEW START (REGISTERED NUMBER: 03452521)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+for the Year Ended 5th April 2024
+5.
+DEBTORS - continued
+2024
+2023
+£
+£
+Amounts falling due after more than one year:
+Other debtors
+-
+6,568
+Aggregate amounts
+591,210
+325,092
+6.
+CREDITORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+2024
+2023
+£
+£
+Bank loans and overdrafts
+17,763
+17,763
+Hire purchase contracts
+-
+18,895
+Trade creditors
+70,280
+34,849
+Taxation and social security
+208,664
+61,176
+Other creditors
+-
+15,374
+296,707
+148,057
+7.
+CREDITORS: AMOUNTS FALLING DUE AFTER MORE THAN ONE
+YEAR
+2024
+2023
+£
+£
+Bank loans
+297,179
+306,594
+Hire purchase contracts
+-
+34,783
+297,179
+341,377
+Amounts falling due in more than five years:
+Repayable by instalments
+Bank loans more 5 yr by instal
+222,291
+231,706
+8.
+SECURED DEBTS
+The following secured debts are included within creditors:
+2024
+2023
+£
+£
+Hire purchase contracts
+-
+53,678
+Hire purchase contracts are secured on the assets acquired.
+Page 6

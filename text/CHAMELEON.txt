@@ -1,0 +1,127 @@
+Chameleon Vocational Training Limited - Filleted accounts
+Registered number
+08047307
+Chameleon Vocational Training Limited
+Filleted Accounts
+31 March 2024
+Chameleon Vocational Training Limited
+Registered number:
+08047307
+Balance Sheet
+as at
+31 March 2024
+2024
+2023
+£
+£
+Fixed assets
+627,815
+629,050
+Current assets
+174,391
+181,674
+Creditors: amounts falling due within one year
+(
+43,814
+)
+(
+68,440
+)
+Net current assets
+130,577
+113,234
+Total assets less current liabilities
+758,392
+742,284
+Creditors: amounts falling due after more than one year
+(
+127,030
+)
+(
+145,217
+)
+Accruals and deferred income
+(
+4,963
+)
+(
+3,498
+)
+Net assets
+626,399
+593,569
+Capital and reserves
+626,399
+593,569
+Number
+Number
+Average number of employees
+4
+5
+The company is a private company limited by shares and incorporated in England. Its registered office is Unit 6c Glover Industrial Estate, Spire Road, Washington, Tyne & Wear, England, NE37 3ES.
+The director is satisfied that the company is entitled to exemption from the requirement to obtain an audit under section 477 of the Companies Act 2006.
+The members have not required the company to obtain an audit in accordance with section 476 of the Act.
+The director acknowledges her responsibilities for complying with the requirements of the Companies Act 2006 with respect to accounting records and the preparation of accounts.
+The accounts have been prepared in accordance with the micro entity provisions of the Companies Act 2006 and FRS 105, The Financial Reporting Standard applicable to the Micro-entities Regime. The accounts have been delivered in accordance with the provisions applicable to companies subject to the small companies regime. The profit and loss account has not been delivered to the Registrar of Companies.
+Mrs M Quinn
+Director
+Approved by the board on
+2 September 2024
+Chameleon Vocational Training Limited
+08047307
+false
+2023-04-01
+2024-03-31
+2024-03-31
+VT Final Accounts
+April 2024
+Mrs M Quinn
+No description of principal activity
+08047307
+2022-04-01
+2023-03-31
+08047307
+core:WithinOneYear
+2023-03-31
+08047307
+core:AfterOneYear
+2023-03-31
+08047307
+2023-04-01
+2024-03-31
+08047307
+bus:PrivateLimitedCompanyLtd
+2023-04-01
+2024-03-31
+08047307
+bus:AuditExemptWithAccountantsReport
+2023-04-01
+2024-03-31
+08047307
+countries:England
+2023-04-01
+2024-03-31
+08047307
+bus:Director40
+2023-04-01
+2024-03-31
+08047307
+bus:Micro-entities
+2023-04-01
+2024-03-31
+08047307
+bus:FilletedAccounts
+2023-04-01
+2024-03-31
+08047307
+2024-03-31
+08047307
+core:WithinOneYear
+2024-03-31
+08047307
+core:AfterOneYear
+2024-03-31
+08047307
+2023-03-31
+iso4217:GBP
+xbrli:pure

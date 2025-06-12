@@ -1,0 +1,455 @@
+Estu Global Ltd - Accounts to registrar (filleted) - small 23.2.5
+IRIS Accounts Production
+v24.1.0.578
+12879788
+Board of Directors
+Board of Directors
+1.1.23
+31.12.23
+31.12.23
+false
+true
+false
+false
+false
+true
+false
+Ordinary
+0.01000
+iso4217:GBP
+iso4217:USD
+iso4217:EUR
+xbrli:shares
+xbrli:pure
+utr:tonnes
+utr:kWh
+12879788
+2022-12-31
+12879788
+2023-12-31
+12879788
+2023-01-01
+2023-12-31
+12879788
+2021-12-31
+12879788
+2022-01-01
+2022-12-31
+12879788
+2022-12-31
+12879788
+ns15:EnglandWales
+2023-01-01
+2023-12-31
+12879788
+ns14:PoundSterling
+2023-01-01
+2023-12-31
+12879788
+ns10:Director1
+2023-01-01
+2023-12-31
+12879788
+ns10:Director2
+2023-01-01
+2023-12-31
+12879788
+ns10:PrivateLimitedCompanyLtd
+2023-01-01
+2023-12-31
+12879788
+ns10:SmallEntities
+2023-01-01
+2023-12-31
+12879788
+ns10:AuditExempt-NoAccountantsReport
+2023-01-01
+2023-12-31
+12879788
+ns10:SmallCompaniesRegimeForDirectorsReport
+2023-01-01
+2023-12-31
+12879788
+ns10:SmallCompaniesRegimeForAccounts
+2023-01-01
+2023-12-31
+12879788
+ns10:FullAccounts
+2023-01-01
+2023-12-31
+12879788
+1
+2023-01-01
+2023-12-31
+12879788
+ns10:OrdinaryShareClass1
+2023-01-01
+2023-12-31
+12879788
+ns10:RegisteredOffice
+2023-01-01
+2023-12-31
+12879788
+ns5:CurrentFinancialInstruments
+2023-12-31
+12879788
+ns5:CurrentFinancialInstruments
+2022-12-31
+12879788
+ns5:ShareCapital
+2023-12-31
+12879788
+ns5:ShareCapital
+2022-12-31
+12879788
+ns5:RetainedEarningsAccumulatedLosses
+2023-12-31
+12879788
+ns5:RetainedEarningsAccumulatedLosses
+2022-12-31
+12879788
+ns5:IntangibleAssetsOtherThanGoodwill
+2023-01-01
+2023-12-31
+12879788
+ns5:ComputerSoftware
+2023-01-01
+2023-12-31
+12879788
+ns5:PlantMachinery
+2023-01-01
+2023-12-31
+12879788
+ns5:IntangibleAssetsOtherThanGoodwill
+2022-12-31
+12879788
+ns5:IntangibleAssetsOtherThanGoodwill
+2023-12-31
+12879788
+ns5:IntangibleAssetsOtherThanGoodwill
+2022-12-31
+12879788
+ns5:PlantMachinery
+2022-12-31
+12879788
+ns5:PlantMachinery
+2023-12-31
+12879788
+ns5:PlantMachinery
+2022-12-31
+12879788
+ns5:CurrentFinancialInstruments
+ns5:WithinOneYear
+2023-12-31
+12879788
+ns5:CurrentFinancialInstruments
+ns5:WithinOneYear
+2022-12-31
+12879788
+ns10:OrdinaryShareClass1
+2023-12-31
+REGISTERED NUMBER:
+12879788
+(England and Wales)
+Financial Statements
+for the Year Ended 31 December 2023
+for
+ESTU GLOBAL LTD
+ESTU GLOBAL LTD (REGISTERED NUMBER: 12879788)
+Contents of the Financial Statements
+for the Year Ended 31 December 2023
+Page
+Company Information
+1
+Balance Sheet
+2
+Notes to the Financial Statements
+4
+ESTU GLOBAL LTD
+Company Information
+for the Year Ended 31 December 2023
+DIRECTORS:
+Mr K Eddy
+Mr S C Littlewood
+REGISTERED OFFICE:
+85 Great Portland Street
+First Floor
+London
+W1W 7LT
+REGISTERED NUMBER:
+12879788
+(England and Wales)
+ACCOUNTANTS:
+Jeff Lermer & Associates
+Chartered Accountants
+42 Lytton Road
+Barnet
+Hertfordshire
+EN5 5BY
+Page 1
+ESTU GLOBAL LTD (REGISTERED NUMBER: 12879788)
+Balance Sheet
+31 December 2023
+31.12.23
+31.12.22
+Notes
+£
+£
+£
+£
+FIXED ASSETS
+Intangible assets
+4
+2,707
+3,067
+Tangible assets
+5
+2,329
+579
+5,036
+3,646
+CURRENT ASSETS
+Debtors
+6
+75,580
+99,512
+Cash at bank
+60,123
+47,596
+135,703
+147,108
+CREDITORS
+Amounts falling due within one year
+7
+67,085
+111,657
+NET CURRENT ASSETS
+68,618
+35,451
+TOTAL ASSETS LESS CURRENT
+LIABILITIES
+73,654
+39,097
+PROVISIONS FOR LIABILITIES
+582
+110
+NET ASSETS
+73,072
+38,987
+CAPITAL AND RESERVES
+Called up share capital
+8
+1
+1
+Retained earnings
+73,071
+38,986
+SHAREHOLDERS' FUNDS
+73,072
+38,987
+The company is entitled to exemption from audit under Section 477 of the Companies Act 2006 for the year ended 31 December 2023.
+The members have not required the company to obtain an audit of its financial statements for the year ended 31 December 2023 in accordance with Section 476 of the Companies Act 2006.
+The directors acknowledge their responsibilities for:
+(a)
+ensuring that the company keeps accounting records which comply with Sections 386 and 387 of the Companies Act
+2006 and
+(b)
+preparing financial statements which give a true and fair view of the state of affairs of the company as at the end of
+each financial year and of its profit or loss for each financial year in accordance with the requirements of Sections 394
+and 395 and which otherwise comply with the requirements of the Companies Act 2006 relating to financial
+statements, so far as applicable to the company.
+The notes form part of these financial statements
+Page 2
+continued...
+ESTU GLOBAL LTD (REGISTERED NUMBER: 12879788)
+Balance Sheet - continued
+31 December 2023
+The financial statements have been prepared and delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+In accordance with Section 444 of the Companies Act 2006, the Income Statement has not been delivered.
+The financial statements were approved by the Board of Directors and authorised for issue on
+18 April 2024
+and were signed
+on its behalf by:
+Mr S C Littlewood
+- Director
+Mr K Eddy
+- Director
+The notes form part of these financial statements
+Page 3
+ESTU GLOBAL LTD (REGISTERED NUMBER: 12879788)
+Notes to the Financial Statements
+for the Year Ended 31 December 2023
+1.
+STATUTORY INFORMATION
+Estu Global Ltd is a
+private company, limited by shares
+, registered in England and Wales. The company's registered
+number and registered office address can be found on the Company Information page.
+The presentation currency of the financial statements is the Pound Sterling (£).
+2.
+ACCOUNTING POLICIES
+Basis of preparing the financial statements
+These financial statements have been prepared in accordance with Financial Reporting Standard 102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland" including the provisions of Section 1A "Small Entities" and the Companies Act 2006. The financial statements have been prepared under the historical cost convention.
+Turnover
+Turnover is measured at the fair value of the consideration received or receivable, excluding discounts, rebates, value
+added tax and other sales taxes.
+Intangible assets
+Intangible assets are initially measured at cost. After initial recognition, intangible assets are measured at cost less
+any accumulated amortisation and any accumulated impairment losses.
+Website development is being amortised evenly over its estimated useful life of ten years.
+Tangible fixed assets
+Depreciation is provided at the following annual rates in order to write off each asset over its estimated useful life.
+Plant and machinery etc
+-
+33% on cost
+Taxation
+Taxation for the year comprises current and deferred tax. Tax is recognised in the Income Statement, except to the
+extent that it relates to items recognised in other comprehensive income or directly in equity.
+Current or deferred taxation assets and liabilities are not discounted.
+Current tax is recognised at the amount of tax payable using the tax rates and laws that have been enacted or
+substantively enacted by the balance sheet date.
+Deferred tax
+Deferred tax is recognised in respect of all timing differences that have originated but not reversed at the balance
+sheet date.
+Timing differences arise from the inclusion of income and expenses in tax assessments in periods different from those
+in which they are recognised in financial statements. Deferred tax is measured using tax rates and laws that have
+been enacted or substantively enacted by the year end and that are expected to apply to the reversal of the timing
+difference.
+Unrelieved tax losses and other deferred tax assets are recognised only to the extent that it is probable that they will
+be recovered against the reversal of deferred tax liabilities or other future taxable profits.
+Hire purchase and leasing commitments
+Rentals paid under operating leases are charged to profit or loss on a straight line basis over the period of the lease.
+3.
+EMPLOYEES AND DIRECTORS
+The average number of employees during the year was
+2
+(2022 -
+2
+) .
+Page 4
+continued...
+ESTU GLOBAL LTD (REGISTERED NUMBER: 12879788)
+Notes to the Financial Statements - continued
+for the Year Ended 31 December 2023
+4.
+INTANGIBLE FIXED ASSETS
+Other
+intangible
+assets
+£
+COST
+At 1 January 2023
+and 31 December 2023
+3,600
+AMORTISATION
+At 1 January 2023
+533
+Charge for year
+360
+At 31 December 2023
+893
+NET BOOK VALUE
+At 31 December 2023
+2,707
+At 31 December 2022
+3,067
+5.
+TANGIBLE FIXED ASSETS
+Plant and
+machiner
+etc
+£
+COST
+At 1 January 2023
+2,519
+Additions
+2,461
+At 31 December 2023
+4,980
+DEPRECIATION
+At 1 January 2023
+1,940
+Charge for year
+711
+At 31 December 2023
+2,651
+NET BOOK VALUE
+At 31 December 2023
+2,329
+At 31 December 2022
+579
+6.
+DEBTORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+31.12.23
+31.12.22
+£
+£
+Trade debtors
+3,420
+-
+Other debtors
+-
+24,317
+VAT
+-
+1,135
+Prepayments and accrued income
+72,160
+74,060
+75,580
+99,512
+Page 5
+continued...
+ESTU GLOBAL LTD (REGISTERED NUMBER: 12879788)
+Notes to the Financial Statements - continued
+for the Year Ended 31 December 2023
+7.
+CREDITORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+31.12.23
+31.12.22
+£
+£
+Trade creditors
+-
+4,453
+Tax
+8,055
+3,436
+Social security and other taxes
+721
+-
+VAT
+696
+-
+Directors' current accounts
+56,696
+81,972
+Accruals and deferred income
+-
+19,000
+Accrued expenses
+917
+2,796
+67,085
+111,657
+8.
+CALLED UP SHARE CAPITAL
+Allotted, issued and fully paid:
+Number:
+Class:
+Nominal
+31.12.23
+31.12.22
+value:
+£
+£
+100
+Ordinary
+1p
+1
+1
+9.
+RELATED PARTY DISCLOSURES
+As at the balance sheet date, the company owed an amount of £56,696 (2022 £81,972) to the directors. The amount
+is interest free and repayable on demand.
+Page 6

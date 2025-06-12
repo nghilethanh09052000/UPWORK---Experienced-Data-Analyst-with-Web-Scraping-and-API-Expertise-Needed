@@ -1,0 +1,200 @@
+A S Training (International) Limited 28/02/2024 iXBRL
+6
+01/03/2023
+28/02/2024
+2024-02-28
+false
+false
+false
+false
+false
+false
+false
+true
+false
+false
+true
+false
+false
+false
+false
+false
+false
+false
+No description of principal activities is disclosed
+2023-03-01
+Sage Accounts Production 23.0 - FRS102_2023
+xbrli:pure
+xbrli:shares
+iso4217:GBP
+07942100
+2023-03-01
+2024-02-28
+07942100
+2024-02-28
+07942100
+2023-02-28
+07942100
+2022-03-01
+2023-02-28
+07942100
+2023-02-28
+07942100
+2022-02-28
+07942100
+bus:RegisteredOffice
+2023-03-01
+2024-02-28
+07942100
+bus:Director1
+2023-03-01
+2024-02-28
+07942100
+bus:Director2
+2023-03-01
+2024-02-28
+07942100
+core:WithinOneYear
+2024-02-28
+07942100
+core:WithinOneYear
+2023-02-28
+07942100
+core:AfterOneYear
+2024-02-28
+07942100
+core:AfterOneYear
+2023-02-28
+07942100
+bus:Micro-entities
+2023-03-01
+2024-02-28
+07942100
+bus:AuditExempt-NoAccountantsReport
+2023-03-01
+2024-02-28
+07942100
+bus:SmallCompaniesRegimeForAccounts
+2023-03-01
+2024-02-28
+07942100
+bus:CompanyLimitedByGuarantee
+2023-03-01
+2024-02-28
+07942100
+bus:FullAccounts
+2023-03-01
+2024-02-28
+Company registration number:
+07942100
+A S Training (International) Limited
+Company limited by guarantee
+Unaudited filleted financial statements
+28 February 2024
+A S Training (International) Limited
+Company limited by guarantee
+Contents
+Directors and other information
+Statement of financial position and notes to the financial statements
+A S Training (International) Limited
+Company limited by guarantee
+Directors and other information
+Directors
+Mr Stephen Foster
+Mrs Michelle Van Sprang
+(Appointed 17 October 2023)
+Company number
+07942100
+Registered office
+C/o Vision Accountancy
+154 Station Road
+Barton
+West Lancashire
+L39 7JW
+A S Training (International) Limited
+Company limited by guarantee
+Statement of financial position
+28 February 2024
+2024
+2023
+£
+£
+Fixed assets
+181
+2,332
+_______
+_______
+Current assets
+73,235
+56,848
+Creditors: amounts falling due within one year
+(
+23,016
+)
+(
+13,196
+)
+_______
+_______
+Net current assets
+50,219
+43,652
+_______
+_______
+Total assets less current liabilities
+50,400
+45,984
+Creditors: amounts falling due after more than one year
+(
+14,079
+)
+(
+20,477
+)
+Accruals and deferred income
+(
+2,413
+)
+(
+1,213
+)
+_______
+_______
+Net assets
+33,908
+24,294
+_______
+_______
+Capital and reserves
+33,908
+24,294
+_______
+_______
+Notes to the financial statements
+A S Training (International) Limited
+Company limited by guarantee
+Year ended 28 February 2024
+1.
+Employee numbers
+The average number of persons employed by the company during the year amounted to
+6
+(2023:
+4
+).
+For the year ending 28 February 2024 the company was entitled to exemption from audit under section 477 of the Companies Act 2006 relating to small companies.
+Directors responsiblities:
+-
+The members have not required the company to obtain an audit of its accounts for the year in question in accordance with section 476.
+-
+The directors acknowledge their responsibilities for complying with the requirements of the Act with respect to accounting records and the preparation of accounts.
+The financial statements have been prepared in accordance with the micro-entity provisions and have been delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+These financial statements were approved by the
+board of directors
+and authorised for issue on
+28 November 2024
+, and are signed on behalf of the board by:
+Mrs Michelle Van Sprang
+Director
+Company registration number:
+07942100
+The company is a private company limited by guarantee, registered in ENgland & Wales.

@@ -1,0 +1,289 @@
+Live Better Locations Limited
+1 November 2022
+false
+No description of principal activity
+Taxfiler
+2023.14
+7406490
+business:PrivateLimitedCompanyLtd
+2022-11-01
+2023-10-31
+7406490
+2022-10-31
+7406490
+2022-11-01
+2023-10-31
+7406490
+business:AuditExemptWithAccountantsReport
+2022-11-01
+2023-10-31
+7406490
+business:FilletedAccounts
+2022-11-01
+2023-10-31
+7406490
+2023-10-31
+7406490
+business:Director1
+2022-11-01
+2023-10-31
+7406490
+business:Director2
+2022-11-01
+2023-10-31
+7406490
+business:Director3
+2022-11-01
+2023-10-31
+7406490
+business:RegisteredOffice
+2022-11-01
+2023-10-31
+7406490
+2022-10-31
+7406490
+core:WithinOneYear
+2023-10-31
+7406490
+core:WithinOneYear
+2022-10-31
+7406490
+core:AfterOneYear
+2023-10-31
+7406490
+core:AfterOneYear
+2022-10-31
+7406490
+core:ShareCapital
+core:PreviouslyStatedAmount
+2023-10-31
+7406490
+core:ShareCapital
+core:PreviouslyStatedAmount
+2022-10-31
+7406490
+core:RetainedEarningsAccumulatedLosses
+core:PreviouslyStatedAmount
+2023-10-31
+7406490
+core:RetainedEarningsAccumulatedLosses
+core:PreviouslyStatedAmount
+2022-10-31
+7406490
+core:PreviouslyStatedAmount
+2023-10-31
+7406490
+core:PreviouslyStatedAmount
+2022-10-31
+7406490
+business:SmallEntities
+2022-11-01
+2023-10-31
+7406490
+countries:EnglandWales
+2022-11-01
+2023-10-31
+7406490
+2021-11-01
+2022-10-31
+iso4217:GBP
+xbrli:pure
+Company Registration No.
+7406490
+(England and Wales)
+Live Better Locations Limited
+Unaudited accounts
+for the year ended
+31 October 2023
+Live Better Locations Limited
+Unaudited accounts
+Contents
+Page
+Company information
+3
+Statement of financial position
+4
+Notes to the accounts
+5
+- 2 -
+Live Better Locations Limited
+Company Information
+for the year ended
+31 October 2023
+Directors
+Oliver Henry
+Annette Henry
+Leigha Allebone
+Company Number
+7406490
+(England and Wales)
+Registered Office
+151 GOLD STREET
+WELLINGBOROUGH
+NORTHANTS
+NN8 4EG
+Accountants
+Accountancy Gems Limited
+29 Andrew Road
+St Neots
+Cambs
+PE19 2QE
+- 3 -
+Live Better Locations Limited
+Statement of financial position
+as at
+31 October 2023
+2023
+2022
+Notes
+£
+£
+Current assets
+Debtors
+4
+14,739
+26,500
+Cash at bank and in hand
+34,312
+8,221
+49,051
+34,721
+Creditors: amounts falling due within one year
+5
+(
+25,866
+)
+(
+22,677
+)
+Net current assets
+23,185
+12,044
+Total assets less current liabilities
+23,185
+12,044
+Creditors: amounts falling due after more than one year
+6
+(
+9,554
+)
+(
+13,092
+)
+Net assets/(liabilities)
+13,631
+(
+1,048
+)
+Capital and reserves
+Called up share capital
+2
+2
+Profit and loss account
+13,629
+(
+1,050
+)
+Shareholders' funds
+13,631
+(
+1,048
+)
+For the year ending
+31 October 2023
+the company was entitled to exemption from audit under section 477 of the Companies Act 2006 relating to small companies.
+The members have not required the company to obtain an audit in accordance with section 476 of the Companies Act 2006.
+The directors acknowledge their responsibilities for complying with the requirements of the Act with respect to accounting records and the preparation of accounts.
+These accounts have been prepared and delivered in accordance with the provisions applicable to companies subject to the small companies' regime and in accordance with the provisions of FRS 102 Section 1A - Small Entities. The profit and loss account has not been delivered to the Registrar of Companies.
+The financial statements were approved by the Board of Directors and authorised for issue on
+26 February 2024
+and were signed on its behalf by
+Oliver Henry
+Director
+Company Registration No.
+7406490
+- 4 -
+Live Better Locations Limited
+Notes to the Accounts
+for the year ended
+31 October 2023
+1
+Statutory information
+Live Better Locations Limited
+is a private company, limited by shares, registered in England and Wales
+, registration number
+7406490
+. The registered office is
+151 GOLD STREET
+,
+WELLINGBOROUGH
+,
+NORTHANTS
+,
+NN8 4EG
+.
+2
+Compliance with accounting standards
+The accounts have been prepared in accordance with the provisions of FRS 102 Section 1A Small Entities. There were no material departures from that standard.
+3
+Accounting policies
+The principal accounting policies adopted in the preparation of the financial statements are set out below and have remained unchanged from the previous year, and also have been consistently applied within the same accounts.
+Basis of preparation
+The accounts have been prepared under the historical cost convention as modified by the revaluation of certain fixed assets.
+Presentation currency
+The accounts are presented in £ sterling.
+4
+Debtors
+2023
+2022
+£
+£
+Amounts falling due within one year
+Trade debtors
+14,365
+22,022
+Other debtors
+374
+4,478
+14,739
+26,500
+5
+Creditors: amounts falling due within one year
+2023
+2022
+£
+£
+VAT
+3,978
+5,079
+Trade creditors
+10,800
+11,262
+Taxes and social security
+10,511
+5,866
+Other creditors
+327
+220
+Accruals
+250
+250
+25,866
+22,677
+6
+Creditors: amounts falling due after more than one year
+2023
+2022
+£
+£
+Bank loans
+9,554
+13,092
+7
+Average number of employees
+During the year the average number of employees was
+7
+(2022:
+5
+).
+- 5 -

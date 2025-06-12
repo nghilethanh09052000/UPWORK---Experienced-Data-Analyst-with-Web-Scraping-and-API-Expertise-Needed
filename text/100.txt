@@ -1,0 +1,434 @@
+100% EFFECTIVE LIMITED - Accounts to registrar (filleted) - small 23.2.5
+IRIS Accounts Production
+v24.1.4.33
+04407150
+director
+1.1.23
+31.12.23
+31.12.23
+false
+true
+false
+false
+false
+true
+false
+iso4217:GBP
+iso4217:USD
+iso4217:EUR
+xbrli:shares
+xbrli:pure
+utr:tonnes
+utr:kWh
+04407150
+2022-12-31
+04407150
+2023-12-31
+04407150
+2023-01-01
+2023-12-31
+04407150
+2021-12-31
+04407150
+2022-01-01
+2022-12-31
+04407150
+2022-12-31
+04407150
+ns15:EnglandWales
+2023-01-01
+2023-12-31
+04407150
+ns14:PoundSterling
+2023-01-01
+2023-12-31
+04407150
+ns10:Director1
+2023-01-01
+2023-12-31
+04407150
+ns10:PrivateLimitedCompanyLtd
+2023-01-01
+2023-12-31
+04407150
+ns10:SmallEntities
+2023-01-01
+2023-12-31
+04407150
+ns10:AuditExempt-NoAccountantsReport
+2023-01-01
+2023-12-31
+04407150
+ns10:SmallCompaniesRegimeForDirectorsReport
+2023-01-01
+2023-12-31
+04407150
+ns10:SmallCompaniesRegimeForAccounts
+2023-01-01
+2023-12-31
+04407150
+ns10:FullAccounts
+2023-01-01
+2023-12-31
+04407150
+1
+2023-01-01
+2023-12-31
+04407150
+ns10:RegisteredOffice
+2023-01-01
+2023-12-31
+04407150
+ns5:CurrentFinancialInstruments
+2023-12-31
+04407150
+ns5:CurrentFinancialInstruments
+2022-12-31
+04407150
+ns5:ShareCapital
+2023-12-31
+04407150
+ns5:ShareCapital
+2022-12-31
+04407150
+ns5:RetainedEarningsAccumulatedLosses
+2023-12-31
+04407150
+ns5:RetainedEarningsAccumulatedLosses
+2022-12-31
+04407150
+ns5:FurnitureFittings
+2023-01-01
+2023-12-31
+04407150
+ns5:ComputerEquipment
+2023-01-01
+2023-12-31
+04407150
+ns5:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2022-12-31
+04407150
+ns5:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2023-01-01
+2023-12-31
+04407150
+ns5:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2023-12-31
+04407150
+ns5:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2022-12-31
+04407150
+ns5:FurnitureFittings
+2022-12-31
+04407150
+ns5:ComputerEquipment
+2022-12-31
+04407150
+ns5:FurnitureFittings
+2023-12-31
+04407150
+ns5:ComputerEquipment
+2023-12-31
+04407150
+ns5:FurnitureFittings
+2022-12-31
+04407150
+ns5:ComputerEquipment
+2022-12-31
+04407150
+ns5:CurrentFinancialInstruments
+ns5:WithinOneYear
+2023-12-31
+04407150
+ns5:CurrentFinancialInstruments
+ns5:WithinOneYear
+2022-12-31
+REGISTERED NUMBER:
+04407150
+(England and Wales)
+100% EFFECTIVE LIMITED
+Unaudited Financial Statements
+for the Year Ended 31 December 2023
+Maclean & Company
+1 Park View Court
+St Paul's Road
+Shipley
+West Yorkshire
+BD18 3DZ
+100% EFFECTIVE LIMITED (Registered number: 04407150)
+Contents of the Financial Statements
+for the Year Ended 31 December 2023
+Page
+Company Information
+1
+Balance Sheet
+2
+Notes to the Financial Statements
+3
+100% EFFECTIVE LIMITED
+Company Information
+for the Year Ended 31 December 2023
+DIRECTOR:
+J M Wellwood
+REGISTERED OFFICE:
+1 Park View Court
+St Pauls Road
+Shipley
+West Yorkshire
+BD18 3DZ
+REGISTERED NUMBER:
+04407150
+(England and Wales)
+ACCOUNTANTS:
+Maclean & Company
+1 Park View Court
+St Paul's Road
+Shipley
+West Yorkshire
+BD18 3DZ
+Page 1
+100% EFFECTIVE LIMITED (Registered number: 04407150)
+Balance Sheet
+31 December 2023
+31.12.23
+31.12.22
+Notes
+£
+£
+£
+£
+FIXED ASSETS
+Intangible assets
+4
+-
+8,245
+Tangible assets
+5
+2,312
+2,718
+2,312
+10,963
+CURRENT ASSETS
+Stocks
+6
+2,500
+1,750
+Debtors
+7
+20,818
+14,295
+Cash at bank
+1,247,598
+1,051,377
+1,270,916
+1,067,422
+CREDITORS
+Amounts falling due within one year
+8
+106,072
+21,595
+NET CURRENT ASSETS
+1,164,844
+1,045,827
+TOTAL ASSETS LESS CURRENT
+LIABILITIES
+1,167,156
+1,056,790
+CAPITAL AND RESERVES
+Called up share capital
+100
+100
+Retained earnings
+1,167,056
+1,056,690
+SHAREHOLDERS' FUNDS
+1,167,156
+1,056,790
+The company is entitled to exemption from audit under Section 477 of the Companies Act 2006 for the year ended 31 December 2023.
+The members have not required the company to obtain an audit of its financial statements for the year ended 31 December 2023 in accordance with Section 476 of the Companies Act 2006.
+The director acknowledges his responsibilities for:
+(a)
+ensuring that the company keeps accounting records which comply with Sections 386 and 387 of the Companies
+Act 2006 and
+(b)
+preparing financial statements which give a true and fair view of the state of affairs of the company as at the end of
+each financial year and of its profit or loss for each financial year in accordance with the requirements of Sections
+394 and 395 and which otherwise comply with the requirements of the Companies Act 2006 relating to financial
+statements, so far as applicable to the company.
+The financial statements have been prepared and delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+In accordance with Section 444 of the Companies Act 2006, the Income Statement has not been delivered.
+The financial statements were approved by the director and authorised for issue on
+22 April 2024
+and were signed by:
+J M Wellwood
+- Director
+The notes form part of these financial statements
+Page 2
+100% EFFECTIVE LIMITED (Registered number: 04407150)
+Notes to the Financial Statements
+for the Year Ended 31 December 2023
+1.
+STATUTORY INFORMATION
+100% EFFECTIVE LIMITED is a
+private company, limited by shares
+, registered in England and Wales. The
+company's registered number and registered office address can be found on the Company Information page.
+2.
+ACCOUNTING POLICIES
+Basis of preparing the financial statements
+These financial statements have been prepared in accordance with Financial Reporting Standard 102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland" including the provisions of Section 1A "Small Entities" and the Companies Act 2006. The financial statements have been prepared under the historical cost convention.
+Turnover
+Turnover is measured at the fair value of the consideration received or receivable, excluding discounts, rebates,
+value added tax and other sales taxes.
+Tangible fixed assets
+Depreciation is provided at the following annual rates in order to write off each asset over its estimated useful life.
+Office equipment
+-
+15% on reducing balance
+Computer equipment
+-
+33% on cost
+Stocks
+Work in progress is valued at the lower of cost and net realisable value.
+Cost is calculated using the first-in, first-out method and includes all purchase, transport, and handling costs in
+bringing stocks to their present location and condition.
+Taxation
+Taxation for the year comprises current and deferred tax. Tax is recognised in the Income Statement, except to
+the extent that it relates to items recognised in other comprehensive income or directly in equity.
+Current or deferred taxation assets and liabilities are not discounted.
+Current tax is recognised at the amount of tax payable using the tax rates and laws that have been enacted or
+substantively enacted by the balance sheet date.
+Deferred tax
+Deferred tax is recognised in respect of all timing differences that have originated but not reversed at the balance
+sheet date.
+Timing differences arise from the inclusion of income and expenses in tax assessments in periods different from
+those in which they are recognised in financial statements. Deferred tax is measured using tax rates and laws that
+have been enacted or substantively enacted by the year end and that are expected to apply to the reversal of the
+timing difference.
+Unrelieved tax losses and other deferred tax assets are recognised only to the extent that it is probable that they
+will be recovered against the reversal of deferred tax liabilities or other future taxable profits.
+Research and development
+Expenditure on the specific design and implementation of new enhanced processes and procedures is amortised
+evenly over their estimated useful lives of five years.
+Pension costs and other post-retirement benefits
+The company operates a defined contribution pension scheme.
+Contributions payable to the company's pension
+scheme are charged to profit or loss in the period to which they relate.
+Page 3
+continued...
+100% EFFECTIVE LIMITED (Registered number: 04407150)
+Notes to the Financial Statements - continued
+for the Year Ended 31 December 2023
+3.
+EMPLOYEES AND DIRECTORS
+The average number of employees during the year was
+6
+(2022 -
+6
+) .
+4.
+INTANGIBLE FIXED ASSETS
+Research
+& development
+costs
+£
+COST
+At 1 January 2023
+and 31 December 2023
+401,827
+AMORTISATION
+At 1 January 2023
+393,582
+Amortisation for year
+8,245
+At 31 December 2023
+401,827
+NET BOOK VALUE
+At 31 December 2023
+-
+At 31 December 2022
+8,245
+5.
+TANGIBLE FIXED ASSETS
+Office
+Computer
+equipment
+equipment
+Totals
+£
+£
+£
+COST
+At 1 January 2023
+and 31 December 2023
+18,176
+11,051
+29,227
+DEPRECIATION
+At 1 January 2023
+15,459
+11,050
+26,509
+Charge for year
+406
+-
+406
+At 31 December 2023
+15,865
+11,050
+26,915
+NET BOOK VALUE
+At 31 December 2023
+2,311
+1
+2,312
+At 31 December 2022
+2,717
+1
+2,718
+6.
+STOCKS
+31.12.23
+31.12.22
+£
+£
+Work-in-progress
+2,500
+1,750
+7.
+DEBTORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+31.12.23
+31.12.22
+£
+£
+Trade debtors
+20,818
+14,295
+Page 4
+continued...
+100% EFFECTIVE LIMITED (Registered number: 04407150)
+Notes to the Financial Statements - continued
+for the Year Ended 31 December 2023
+8.
+CREDITORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+31.12.23
+31.12.22
+£
+£
+Trade creditors
+9,388
+13,591
+Taxation
+39,996
+4,519
+Other creditors
+56,688
+3,485
+106,072
+21,595
+9.
+PENSION COMMITMENTS
+The company operates defined contribution pension schemes, the assets of which are held separately from those
+of the company in independently administered funds. The pension charge for the year was £23,562 (2022-
+£20,784).
+Page 5

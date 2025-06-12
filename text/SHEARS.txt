@@ -1,0 +1,411 @@
+Shears Academy Limited - Accounts to registrar (filleted) - small 23.2.5
+IRIS Accounts Production
+v24.2.0.383
+06123200
+director
+1.8.23
+31.7.24
+31.7.24
+false
+true
+false
+false
+true
+false
+iso4217:GBP
+iso4217:USD
+iso4217:EUR
+xbrli:shares
+xbrli:pure
+utr:tonnes
+utr:kWh
+06123200
+2023-07-31
+06123200
+2024-07-31
+06123200
+2023-08-01
+2024-07-31
+06123200
+2022-07-31
+06123200
+2022-08-01
+2023-07-31
+06123200
+2023-07-31
+06123200
+ns15:EnglandWales
+2023-08-01
+2024-07-31
+06123200
+ns14:PoundSterling
+2023-08-01
+2024-07-31
+06123200
+ns10:Director1
+2023-08-01
+2024-07-31
+06123200
+ns10:PrivateLimitedCompanyLtd
+2023-08-01
+2024-07-31
+06123200
+ns10:SmallEntities
+2023-08-01
+2024-07-31
+06123200
+ns10:AuditExempt-NoAccountantsReport
+2023-08-01
+2024-07-31
+06123200
+ns10:SmallCompaniesRegimeForDirectorsReport
+2023-08-01
+2024-07-31
+06123200
+ns10:SmallCompaniesRegimeForAccounts
+2023-08-01
+2024-07-31
+06123200
+ns10:FullAccounts
+2023-08-01
+2024-07-31
+06123200
+ns10:RegisteredOffice
+2023-08-01
+2024-07-31
+06123200
+ns5:CurrentFinancialInstruments
+2024-07-31
+06123200
+ns5:CurrentFinancialInstruments
+2023-07-31
+06123200
+ns5:Non-currentFinancialInstruments
+2024-07-31
+06123200
+ns5:Non-currentFinancialInstruments
+2023-07-31
+06123200
+ns5:ShareCapital
+2024-07-31
+06123200
+ns5:ShareCapital
+2023-07-31
+06123200
+ns5:RetainedEarningsAccumulatedLosses
+2024-07-31
+06123200
+ns5:RetainedEarningsAccumulatedLosses
+2023-07-31
+06123200
+ns5:PlantMachinery
+2023-08-01
+2024-07-31
+06123200
+ns5:PlantMachinery
+2023-07-31
+06123200
+ns5:PlantMachinery
+2024-07-31
+06123200
+ns5:PlantMachinery
+2023-07-31
+06123200
+ns5:WithinOneYear
+ns5:CurrentFinancialInstruments
+2024-07-31
+06123200
+ns5:WithinOneYear
+ns5:CurrentFinancialInstruments
+2023-07-31
+06123200
+ns5:BetweenOneTwoYears
+ns5:Non-currentFinancialInstruments
+2024-07-31
+06123200
+ns5:BetweenOneTwoYears
+ns5:Non-currentFinancialInstruments
+2023-07-31
+06123200
+ns5:RetainedEarningsAccumulatedLosses
+2023-07-31
+06123200
+ns5:RetainedEarningsAccumulatedLosses
+2023-08-01
+2024-07-31
+REGISTERED NUMBER:
+06123200
+(England and Wales)
+UNAUDITED FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2024
+FOR
+SHEARS ACADEMY LIMITED
+SHEARS ACADEMY LIMITED (REGISTERED NUMBER: 06123200)
+CONTENTS OF THE FINANCIAL STATEMENTS
+For The Year Ended 31 July 2024
+Page
+Company Information
+1
+Balance Sheet
+2
+Notes to the Financial Statements
+4
+SHEARS ACADEMY LIMITED
+COMPANY INFORMATION
+For The Year Ended 31 July 2024
+DIRECTOR:
+P Brooker
+REGISTERED OFFICE:
+Shop 2
+Eros House
+Brownhill Road
+London
+London
+SE6 2EF
+REGISTERED NUMBER:
+06123200
+(England and Wales)
+ACCOUNTANTS:
+Robsons Accountants
+19 Montpelier Avenue
+Bexley
+Kent
+DA5 3AP
+Page 1
+SHEARS ACADEMY LIMITED (REGISTERED NUMBER: 06123200)
+BALANCE SHEET
+31 July 2024
+2024
+2023
+Notes
+£
+£
+FIXED ASSETS
+Tangible assets
+4
+1,347
+1,796
+CURRENT ASSETS
+Debtors
+5
+12,929
+7,586
+Cash at bank and in hand
+14,391
+6,874
+27,320
+14,460
+CREDITORS
+Amounts falling due within one year
+6
+(
+16,728
+)
+(
+13,223
+)
+NET CURRENT ASSETS
+10,592
+1,237
+TOTAL ASSETS LESS CURRENT
+LIABILITIES
+11,939
+3,033
+CREDITORS
+Amounts falling due after more than one year
+7
+(
+10,833
+)
+(
+14,579
+)
+NET ASSETS/(LIABILITIES)
+1,106
+(
+11,546
+)
+CAPITAL AND RESERVES
+Called up share capital
+1,000
+1,000
+Retained earnings
+8
+106
+(
+12,546
+)
+1,106
+(
+11,546
+)
+The company is entitled to exemption from audit under Section 477 of the Companies Act 2006 for the year ended 31 July 2024.
+The members have not required the company to obtain an audit of its financial statements for the year ended 31 July 2024 in accordance with Section 476 of the Companies Act 2006.
+The director acknowledges her responsibilities for:
+(a)
+ensuring that the company keeps accounting records which comply with Sections 386 and 387 of the Companies Act
+2006 and
+(b)
+preparing financial statements which give a true and fair view of the state of affairs of the company as at the end of
+each financial year and of its profit or loss for each financial year in accordance with the requirements of Sections 394
+and 395 and which otherwise comply with the requirements of the Companies Act 2006 relating to financial
+statements, so far as applicable to the company.
+The notes form part of these financial statements
+Page 2
+continued...
+SHEARS ACADEMY LIMITED (REGISTERED NUMBER: 06123200)
+BALANCE SHEET - continued
+31 July 2024
+The financial statements have been prepared and delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+In accordance with Section 444 of the Companies Act 2006, the Income Statement has not been delivered.
+The financial statements were approved by the director and authorised for issue on
+26 September 2024
+and were signed by:
+P Brooker
+- Director
+The notes form part of these financial statements
+Page 3
+SHEARS ACADEMY LIMITED (REGISTERED NUMBER: 06123200)
+NOTES TO THE FINANCIAL STATEMENTS
+For The Year Ended 31 July 2024
+1.
+STATUTORY INFORMATION
+Shears Academy Limited is a
+private company, limited by shares
+, registered in England and Wales. The company's
+registered number and registered office address can be found on the Company Information page.
+2.
+ACCOUNTING POLICIES
+Basis of preparing the financial statements
+These financial statements have been prepared in accordance with Financial Reporting Standard 102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland" including the provisions of Section 1A "Small Entities" and the Companies Act 2006. The financial statements have been prepared under the historical cost convention.
+Turnover
+Turnover is measured at the fair value of the consideration received or receivable, excluding discounts, rebates,
+value added tax and other sales taxes.
+Tangible fixed assets
+Depreciation is provided at the following annual rates in order to write off each asset over its estimated useful life.
+Plant and machinery etc
+-
+25% on reducing balance
+Taxation
+Taxation for the year comprises current and deferred tax. Tax is recognised in the Income Statement, except to the
+extent that it relates to items recognised in other comprehensive income or directly in equity.
+Current or deferred taxation assets and liabilities are not discounted.
+Current tax is recognised at the amount of tax payable using the tax rates and laws that have been enacted or
+substantively enacted by the balance sheet date.
+Deferred tax
+Deferred tax is recognised in respect of all timing differences that have originated but not reversed at the balance
+sheet date.
+Timing differences arise from the inclusion of income and expenses in tax assessments in periods different from
+those in which they are recognised in financial statements. Deferred tax is measured using tax rates and laws that
+have been enacted or substantively enacted by the year end and that are expected to apply to the reversal of the
+timing difference.
+Unrelieved tax losses and other deferred tax assets are recognised only to the extent that it is probable that they will
+be recovered against the reversal of deferred tax liabilities or other future taxable profits.
+Hire purchase and leasing commitments
+Rentals paid under operating leases are charged to profit or loss on a straight line basis over the period of the lease.
+Pension costs and other post-retirement benefits
+The company operates a defined contribution pension scheme.
+Contributions payable to the company's pension
+scheme are charged to profit or loss in the period to which they relate.
+3.
+EMPLOYEES AND DIRECTORS
+The average number of employees during the year was
+5
+(2023 -
+5
+) .
+Page 4
+continued...
+SHEARS ACADEMY LIMITED (REGISTERED NUMBER: 06123200)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+For The Year Ended 31 July 2024
+4.
+TANGIBLE FIXED ASSETS
+Plant and
+machinery
+etc
+£
+COST
+At 1 August 2023
+and 31 July 2024
+20,737
+DEPRECIATION
+At 1 August 2023
+18,941
+Charge for year
+449
+At 31 July 2024
+19,390
+NET BOOK VALUE
+At 31 July 2024
+1,347
+At 31 July 2023
+1,796
+5.
+DEBTORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+2024
+2023
+£
+£
+Trade debtors
+10,028
+7,586
+Directors' current accounts
+2,901
+-
+12,929
+7,586
+6.
+CREDITORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+2024
+2023
+£
+£
+Bank loans and overdrafts
+5,000
+5,000
+Trade creditors
+-
+(
+2
+)
+Social security and other taxes
+2,149
+499
+Other creditors and accruals
+3,003
+3,389
+Accrued expenses
+6,576
+4,337
+16,728
+13,223
+7.
+CREDITORS: AMOUNTS FALLING DUE AFTER MORE THAN ONE
+YEAR
+2024
+2023
+£
+£
+Bank loans - 1-2 years
+10,833
+14,579
+Page 5
+continued...
+SHEARS ACADEMY LIMITED (REGISTERED NUMBER: 06123200)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+For The Year Ended 31 July 2024
+8.
+RESERVES
+Retained
+earnings
+£
+At 1 August 2023
+(
+12,546
+)
+Profit for the year
+12,652
+At 31 July 2024
+106
+Page 6

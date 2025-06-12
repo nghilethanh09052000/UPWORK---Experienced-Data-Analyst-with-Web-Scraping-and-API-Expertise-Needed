@@ -1,0 +1,146 @@
+Construct Training Services Limited Accounts
+Construct Training Services Limited
+Filleted Accounts Cover
+Construct Training Services Limited
+Company No. 11787105
+Unaudited Accounts
+31 March 2024
+Construct Training Services Limited
+Balance Sheet Registrar
+at
+31 March 2024
+Company No.
+11787105
+2024
+2023
+£
+£
+Fixed assets
+1,526
+1,496
+Current assets
+91,598
+111,158
+Creditors: Amounts falling due within one year
+(
+55,412
+)
+(
+56,695
+)
+Net current assets
+36,186
+54,463
+Total assets less current liabilities
+37,712
+55,959
+Creditors: Amounts falling due after more than one year
+(
+6,497
+)
+(
+11,734
+)
+Accruals and deferred income
+(
+1,101
+)
+(
+1,100
+)
+30,114
+43,125
+Capital and reserves
+30,114
+43,125
+NOTES TO THE ACCOUNTS
+1
+Basis of preparation
+These accounts have been prepared in accordance with the micro-entity provisions of the small companies regime.
+2
+Employees
+2024
+2023
+Number
+Number
+The average monthly number of employees (including directors) during the period:
+2
+1
+3
+General information
+Construct Training Services Limited is a private company limited by shares and incorporated in England and Wales.
+Its registered number is:
+11787105
+Its registered office is:
+72 Boston Road
+Leicester
+LE4 1HB
+For the period ended 31 March 2024 the company was entitled to exemption from audit under section 477 of the Companies Act 2006 relating to small companies.
+The members have not required the company to obtain an audit in accordance with section 476 of the Companies Act 2006.
+The directors acknowledge their responsibilities for complying with the requirements of the Companies Act 2006 with respect to accounting records and the preparation of accounts.
+As permitted by section 444 (5A)of the Companies Act 2006 the directors have not delivered to the Registrar a copy of the company's profit and loss account.
+The accounts were approved by the board of directors on 30 May 2024 and signed on its behalf by:
+P. Pownall - Director
+Construct Training Services Limited
+11787105
+31 March 2024
+01 February 2023
+false
+30 May 2024
+BTCSoftware AP Solution 2024 11.1.03
+11.1.03
+The principal activity of the company during the period under review was provision of training courses.
+11787105
+2023-02-01
+2024-03-31
+11787105
+2024-03-31
+11787105
+2023-01-31
+11787105
+core:WithinOneYear
+2024-03-31
+11787105
+core:WithinOneYear
+2023-01-31
+11787105
+core:AfterOneYear
+2024-03-31
+11787105
+core:AfterOneYear
+2023-01-31
+11787105
+2022-02-01
+2023-01-31
+11787105
+countries:UnitedKingdom
+2023-02-01
+2024-03-31
+11787105
+bus:RegisteredOffice
+2023-02-01
+2024-03-31
+11787105
+2023-02-01
+11787105
+bus:Micro-entities
+2023-02-01
+2024-03-31
+11787105
+bus:FullAccounts
+2023-02-01
+2024-03-31
+11787105
+bus:AuditExempt-NoAccountantsReport
+2023-02-01
+2024-03-31
+11787105
+bus:Director1
+2023-02-01
+2024-03-31
+11787105
+bus:PrivateLimitedCompanyLtd
+2023-02-01
+2024-03-31
+iso4217:GBP
+xbrli:pure

@@ -1,0 +1,356 @@
+Docusign Envelope ID: 1AB0C812-0A41-4F60-8217-AEC4FC20758E
+
+Registered number: 07556591
+
+DECODED LIMITED
+UNAUDITED FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MARCH 2024
+
+mig
+
+29/11/2024 #300
+COMPANIES HOUSE
+
+Cound & Co LLP
+
+Docusign Envelope 1D: 1ABOC812-0A41-4F60-8217-AEC4FC20758E
+
+Decoded Limited
+Contents
+
+Balance Sheet
+
+Notes to the Financial Statements
+
+Docusign Envelope 1D: 1AB0C812-0A41-4F60-8217-AEC4FC20758E
+
+Decoded Limited
+Balance Sheet
+As At 31 March 2024
+
+Registered number: 07556591
+
+2024 2023
+Notes £ £ £ £
+FIXED ASSETS
+Intangible Assets 4 22,872 21,935
+Tangible Assets 5 23,935 10,874
+Investments 6 : 110 110
+46,917 32,919
+
+CURRENT ASSETS
+Debtors 7 1,220,319 1,251,187
+Cash at bank and in hand 286,478 91,618
+
+1,506,797 1,342,805
+Creditors: Amounts Falling Due Within One 8 (947,506) (968,974)
+NET CURRENT ASSETS (LIABILITIES) 559,291 373,834
+TOTAL ASSETS LESS CURRENT LIABILITIES 606,208 406,753
+Creditors: Amounts Falling Due After More
+Than One Year 9 (556,418) (668,395)
+NET ASSETS/(LIABILITIES) 49,790 (261,642)
+CAPITAL AND RESERVES
+Called up share capital “41 47 47
+Retained earnings 49,743 (261,689)
+SHAREHOLDERS’ FUNDS 49,790 (261,642)
+
+Page 1
+
+Docusign Envelope ID: 1AB0C812-0A41-4F60-8217-AEC4FC20758E
+
+Decoded Limited
+Balance Sheet (continued)
+As At 31 March 2024
+
+For the year ending 31 March 2024 the company was entitled to exemption from audit under section 477 of the
+Companies Act 2006 relating to small companies.
+
+The members have not required the company to obtain an audit in accordance with section 476 of the Companies Act
+2006.
+
+The directors acknowledge their responsibilities for complying with the requirements of the Act with respect to accounting
+records and the preparation of accounts.
+
+These accounts have been prepared and delivered in accordance with the provisions applicable to companies subject to
+the small companies' regime.
+
+The company has taken advantage of section 444(1) of the Companies Act 2006 and opted not to deliver to the registrar
+a copy of the company's Profit and Loss Account.
+
+On behalf of the board
+
+‘Signed by:
+
+Kidard, Puss
+
+Mr R Peters
+Director
+Date 11/8/2024
+
+The notes on pages 3 to 7 form part of these financial statements.
+
+Page 2
+
+Docusign Envelope ID: 1ABOC812-0A41-4F60-8217-AEC4FC20758E
+
+Decoded Limited
+Notes to the Financial Statements
+For The Year Ended 31 March 2024
+
+1. General Information
+
+Decoded Limited is a private company, limited by shares, incorporated in England & Wales, registered number 07556591.
+The registered office is 1 Princes Court, Royal Way, Loughborough, Leicestershire, LE11 5XR. ,
+
+2. Accounting Policies
+
+2.1. Basis of Preparation of Financial Statements
+
+The financial statements have been prepared under the historical cost convention and in accordance with Financial
+Reporting Standard 102 section 1A Small Entities "The Financial Reporting Standard applicable in the UK and
+Republic of Ireland" and the Companies Act 2006.
+
+2.2. Going Concern Disclosure
+
+The company is expected to be profitable for the year ended 31 March 2025 and is able to meet its liabilities as
+they fall due. The preparation of the financial statements on a going concern basis therefore remains appropriate.
+
+2.3. Turnover
+Turnover from the rendering of services is recognised when the services are provided.
+Rendering of services
+
+Turnover from the rendering of services is recognised by reference to the stage of completion of the contract. The
+stage of completion of a contract is measured by comparing the costs incurred for work performed to date to the
+total estimated contract costs. Turnover is only recognised to the extent of recoverable expenses when the
+outcome of a contract cannot be estimated reliably.
+
+2.4. Intangible Fixed Assets and Amortisation - Other Intangible
+
+Other intangible assets are a domain name and website. The domain name is amortised to the profit and loss
+account over its estimated economic life of 20 years. The website is amortised to the profit and loss account over
+its estimated economic life of 5 years.
+
+2.5. Tangible Fixed Assets and Depreciation
+Tangible fixed assets are measured at cost less accumulated depreciation and any accumulated impairment
+
+losses. Depreciation is provided at rates calculated to write off the cost of the fixed assets, less their estimated
+residual value, over their expected useful lives on the following bases:
+
+Leasehold 15% straight line
+Office Equipment 15% straight line
+Fixtures & Fittings 15% straight line
+Computer Equipment 20% straight line
+
+2.6. Foreign Currencies
+
+Monetary assets and liabilities in foreign currencies are translated into sterling at the rates of exchange ruling at
+the balance sheet date. Transactions in foreign currencies are translated into sterling at the rate ruling on the date
+of the transaction, Exchange differences are taken into account in arriving at the operating profit.
+
+3. Average Number of Employees
+
+Average number of employees, including directors, during the year was: 70 (2023: 88)
+
+Page 3
+
+Docusign Envelope ID: 1ABO0C812-0A41-4F60-8217-AEC4FC20758E
+
+Decoded Limited
+Notes to the Financial Statements (continued)
+For The Year Ended 31 March 2024
+
+4. Intangible Assets
+
+Other
+£
+
+Cost : vk
+As at 1 April 2023 77,523
+Additions 3,752
+As at 31 March 2024 81,275
+Amortisation
+As at 1 April 2023 55,588
+Provided during the period 2,815
+As at 31 March 2024 58,403
+Net Book Value
+As at 31 March 2024 22,872
+As at 1 April 2023 21,935
+
+5. Tangible Assets
+Office Computer
+
+Equipment Equipment Total
+£ £ £
+
+Cost
+As at 1 April 2023 1,012 123,743 124,755
+Additions 165 22,664 22,829
+Disposals - _ (1,065) (1,065)
+As at 31 March 2024 . 1,177 145,342 146,519
+Depreciation
+As at 1 April 2023 288 113,593 113,881
+Provided during the period 176 9,592 9,768
+Disposals - (1,065) (1,065)
+As at 31 March 2024 464 122,120 122,584
+Net Book Value
+As at 31 March 2024 713 23,222 23,935
+As at 1 April 2023 724 10,150 10,874
+
+Page 4
+
+Docusign Envelope ID: 1AB0C812-0A41-4F60-8217-AEC4FC20758E
+
+Decoded Limited
+Notes to the Financial Statements (continued)
+For The Year Ended 31 March 2024
+
+6. Investments
+
+Unlisted
+£
+
+Cost
+As at 1 April 2023 110
+As at 31 March 2024 110
+Provision
+As at 1 April 2023 :
+As at 31 March 2024 -
+Net Book Value
+As at 31 March 2024 110
+As at 1 April 2023 110
+
+Digital Enlightenment LLC was incorporated on 13 November 2016 in New York State with NYS DOS ID 4486625.
+
+At the balance sheet date, the company had net liabilities of US$911,159, which is equivalent to £721,328 (2023:
+£756,287 net liabilities) and had a profit for the year ended 31 March 2024 of US$20,769, which is equivalent to £16, 633
+(2023: £147,390 loss).
+
+The financial statements of Digital Enlightenment LLC for the year ended 31 March 2024 were prepared under US GAAP
+and were exempt from audit.
+Decoded Australia Pty Limited was incorporated on 2 February 2017 in Australia with the ACN 610502522.
+
+At the balance sheet date the company had net assets of AU$199,487, which is equivalent to £102,974 (2023: £112,675)
+and had a loss for the year ended 31 March 2024 of AU$2,949, which is equivalent to £1,559 (2023: £11,183 loss).
+
+The financial statements of Decoded Australia Pty Limited for the year ended 31 March 2024 were prepared under
+Australian Accounting Standards and were exempt from audit.
+
+Decoded Hong Kong Limited was incorporated on 15 February 2019 in Hong Kong with the company registration number
+2795689.
+
+Decoded Hong Kong Limited was acquired by Decoded Limited on 30 September 2020.
+
+At the balance sheet date the company had net liabilities of HK$387,980 which is equivalent to £39,249 (2023: £17,582
+net assets), and had a loss for the year ended 31 March 2024 of HK$544,753 which is equivalent to £55,662 (2023:
+£28,167 loss).
+
+The financial statements of Decoded Hong Kong Limited for the year ended 31 March 2024 were prepared under Hong
+Kong Accounting Standards and were yet to be audited at the date of sign off.
+
+Page 5
+
+Docusign Envelope ID: 1AB0C812-0A41-4F60-8217-AEC4FC20758E
+
+Decoded Limited
+Notes to the Financial Statements (continued)
+For The Year Ended 31 March 2024
+
+7. Debtors
+2024 2023
+£ £
+Due within one year
+Trade debtors 449,373 303,120
+Prepayments and accrued income 84,959 100,098
+Employee loans 624 471 —
+Security deposits 13,533 13,600
+Withholding tax asset 3,960 -
+Corporation tax recoverable 8,125 8,125
+Directors' loan accounts . 20,755 + 24,257
+Amounts owed by subsidiaries 638,990 801,516
+
+1,220,319 1,251,187
+
+8. Creditors: Amounts Falling Due Within One Year
+
+2024 2023
+£ £
+Trade creditors 97,729 118,227
+Bank loans and overdrafts 120,355 464,143
+Other taxes and social security 113,996 323,326
+VAT : 77,564 8,568
+Pension contributions due 10,170 41,172
+Accruals and deferred income 514,021 229,603
+Amounts owed to subsidiaries 13,671 123,932
+947,506 968,971
+9. Creditors: Amounts Falling Due After More Than One Year
+2024 2023
+£ £
+Bank loans 556,418 668,395
+
+10. Secured Creditors
+
+Security has been given on the bank loans in the form of a fixed and floating charge on the assets of the company.
+
+Page 6
+
+nl
+
+Docusign Envelope ID: 1AB0C812-0A41-4F60-8217-AEC4FC20758E
+Decoded Limited
+
+Notes to the Financial Statements (continued)
+For The Year Ended 31 March 2024
+
+11. Share Capital
+
+Value Number 2024 2023
+£
+Allotted, called up and fully paid £ £
+Ordinary Shares 0.0001 395,800 39.58 39.58
+Ordinary Shares held in Treasury 0.0001 4,200 0.42 0.42
+Preference Shares 0.0001 70,600 7.06 7.06
+
+470,600 47.06 47.06
+
+12. Other Commitments
+
+The company had total commitments at the year end, not included on the balance sheet, of £36,540 (2023: £6,277).
+
+13. Related Party Transactions
+a) During the year, the company sold services to Digital Enlightenment LLC (a subsidiary of the company) of £284,051
+(2023: £884,945) and purchased services from Digital Enlightenment LLC of £14,354 (2023: £9,293). At the year ended
+31 March 2024 the balance owing from Digital Enlightenment LLC was £638,990 (2023: £801,516).
+b) During the year the company sold services to Decoded Australia Pty Ltd (a subsidiary of the company) of £63 (2023:
+£14) and purchased services from Decoded Australia Pty Ltd of £20,832 (2023: Enil). At the year ended 31 March 2024
+the balance owing to Decoded Australia Pty Ltd was £6,844 (2023: £29,442).
+c) During the year the company sold services to Decoded Hong Kong Limited (a subsidiary of the company) of £10,419
+
+" (2023: £56,348) and purchased services from Decoded Hong Kong Pty Ltd of £14,032 (2023: £769). At the year ended
+31 March 2024 the balance owing to Decoded Hong Kong Limited was £6,827 (2023: £94,490).
+d) During the year the directors made repayments towards outstanding loans of £3,502. At the year ended 31 March 2024
+the total balance outstanding on loans made to directors was £20,755. The maximum amount outstanding during the year
+was £24,257.
+
+No interest has been charged on the loans and there were no other terms.
+
+14. Share Option Scheme
+
+The company operates an EMi share option scheme.
+
+The original share options were granted on 15 December 2014 for a price of £2.23 per share.
+
+Additional share options have been granted as follows:
+
+On 22 September 2017 for a price of £3.44 per share and on 30 April 2019 for a price of £5.00 per share.
+
+The share options will become exercisable if an event occurs, such as a flotation or takeover, provided the employee is
+still working for the company at the date of exercise.
+
+As at the year end date the scheme is available to 4 employees with options to purchase a total of 5,388 shares that
+would be allotted for the purpose of the scheme.
+
+A further 17,321 share options have been granted that are not part of the EMI scheme, but adhere to the same conditions
+as those options granted under the EMI scheme.
+
+Page 7
+

@@ -1,0 +1,327 @@
+SOUTH WEST ASSOCIATION OF TRAINING PROVIDERS LIMITED
+Silverfin
+false
+false
+31/07/2024
+01/08/2023
+31/07/2024
+R E Davis
+09/12/2011
+C R Marshall
+09/12/2010
+17 April 2025
+The principal activity of the Company during the financial year was the operation of a membership organisation for training providers.
+07465523
+2024-07-31
+07465523
+bus:Director1
+2024-07-31
+07465523
+bus:Director2
+2024-07-31
+07465523
+2023-07-31
+07465523
+core:CurrentFinancialInstruments
+2024-07-31
+07465523
+core:CurrentFinancialInstruments
+2023-07-31
+07465523
+core:RetainedEarningsAccumulatedLosses
+2024-07-31
+07465523
+core:RetainedEarningsAccumulatedLosses
+2023-07-31
+07465523
+core:FurnitureFittings
+2023-07-31
+07465523
+core:OfficeEquipment
+2023-07-31
+07465523
+core:FurnitureFittings
+2024-07-31
+07465523
+core:OfficeEquipment
+2024-07-31
+07465523
+2023-08-01
+2024-07-31
+07465523
+bus:FilletedAccounts
+2023-08-01
+2024-07-31
+07465523
+bus:SmallEntities
+2023-08-01
+2024-07-31
+07465523
+bus:AuditExemptWithAccountantsReport
+2023-08-01
+2024-07-31
+07465523
+bus:CompanyLimitedByGuarantee
+2023-08-01
+2024-07-31
+07465523
+bus:Director1
+2023-08-01
+2024-07-31
+07465523
+bus:Director2
+2023-08-01
+2024-07-31
+07465523
+core:FurnitureFittings
+core:BottomRangeValue
+2023-08-01
+2024-07-31
+07465523
+core:FurnitureFittings
+core:TopRangeValue
+2023-08-01
+2024-07-31
+07465523
+core:OfficeEquipment
+core:BottomRangeValue
+2023-08-01
+2024-07-31
+07465523
+core:OfficeEquipment
+core:TopRangeValue
+2023-08-01
+2024-07-31
+07465523
+2022-08-01
+2023-07-31
+07465523
+core:FurnitureFittings
+2023-08-01
+2024-07-31
+07465523
+core:OfficeEquipment
+2023-08-01
+2024-07-31
+iso4217:GBP
+xbrli:pure
+Company No:
+07465523
+(England and Wales)
+SOUTH WEST ASSOCIATION OF TRAINING PROVIDERS LIMITED
+(A company limited by guarantee)
+Unaudited Financial Statements
+For the financial year ended 31 July 2024
+Pages for filing with the registrar
+SOUTH WEST ASSOCIATION OF TRAINING PROVIDERS LIMITED
+Unaudited Financial Statements
+For the financial year ended 31 July 2024
+Contents
+Balance Sheet
+Notes to the Financial Statements
+SOUTH WEST ASSOCIATION OF TRAINING PROVIDERS LIMITED
+BALANCE SHEET
+As at 31 July 2024
+SOUTH WEST ASSOCIATION OF TRAINING PROVIDERS LIMITED
+BALANCE SHEET (continued)
+As at 31 July 2024
+Note
+2024
+2023
+£
+£
+Fixed assets
+Tangible assets
+3
+44,873
+58,585
+44,873
+58,585
+Current assets
+Debtors
+4
+224,100
+434,787
+Cash at bank and in hand
+439,428
+405,641
+663,528
+840,428
+Creditors: amounts falling due within one year
+5
+(
+212,327
+)
+(
+317,135
+)
+Net current assets
+451,201
+523,293
+Total assets less current liabilities
+496,074
+581,878
+Net assets
+496,074
+581,878
+Reserves
+Profit and loss account
+496,074
+581,878
+Total reserves
+496,074
+581,878
+For the financial year ending 31 July 2024 the Company was entitled to exemption from audit under section 477 of the Companies Act 2006 relating to small companies.
+Directors' responsibilities:
+The members have not required the Company to obtain an audit of its financial statements for the financial year in accordance with section 476;
+The directors acknowledge their responsibilities for complying with the requirements of the Companies Act 2006 with respect to accounting records and the preparation of financial statements; and
+These financial statements have been prepared and delivered in accordance with the provisions applicable to companies subject to the small companies regime and a copy of the Profit and Loss Account has not been delivered.
+These financial statements have been prepared in accordance with the provisions of FRS 102 Section 1A – small entities. The financial statements of
+South West Association of Training Providers Limited (registered number:
+07465523
+) were approved and authorised for issue by
+the Board of Directors
+on
+17 April 2025
+.
+They were signed on its behalf by:
+R E Davis
+Director
+C R Marshall
+Director
+SOUTH WEST ASSOCIATION OF TRAINING PROVIDERS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+For the financial year ended 31 July 2024
+SOUTH WEST ASSOCIATION OF TRAINING PROVIDERS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+For the financial year ended 31 July 2024
+1. Accounting policies
+The principal accounting policies are summarised below. They have all been applied consistently throughout the financial year and to the preceding financial year, unless otherwise stated.
+General information and basis of accounting
+South West Association of Training Providers Limited (the Company) is a private company, limited by guarantee, incorporated in the United Kingdom under the Companies Act 2006 and is registered in England and Wales. The address of the Company's registered office is Goodwood House, Blackbrook Park Avenue, Taunton, TA1 2PX, United Kingdom.
+The financial statements have been prepared under the historical cost convention, modified to include certain items at fair value, and in accordance with Section 1A of Financial Reporting Standard 102 (FRS 102) ‘The Financial Reporting Standard applicable in the UK and Republic of Ireland’ issued by the Financial Reporting Council and the requirements of the Companies Act 2006 as applicable to companies subject to the small companies regime.
+The financial statements are presented in pounds sterling which is the functional currency of the Company and rounded to the nearest £.
+Turnover
+Turnover comprises the fair value of the consideration received or receivable in respect of training contracts in the ordinary course of the company’s activities.
+The company recognises revenue when: the amount of revenue can be reliably measured; it is probable that future economic benefits will flow to the entity; and specific criteria have been met for each of the company's activities.
+Interest income
+Interest income is recognised when it is probable that the economic benefits will flow to the Company and the amount of revenue can be measured reliably. Interest income is accrued on a time basis, by reference to the principal outstanding at the effective interest rate applicable, which is the rate that exactly discounts estimated future cash receipts through the expected life of the financial asset to that asset's net carrying amount on initial recognition.
+Employee benefits
+Defined contribution schemes
+The Company operates a defined contribution scheme. The amount charged to the Profit and Loss Account in respect of pension costs and other post-retirement benefits is the contributions payable in the financial year. Differences between contributions payable in the financial year and contributions actually paid are included as either accruals or prepayments in the Balance Sheet.
+Taxation
+Current tax
+Current tax is provided at amounts expected to be paid (or recoverable) using the tax rates and laws that have been enacted or substantively enacted at the Balance Sheet date. Tax is recognised in the profit and loss account, except that a change attributable to an item of income or expense recognised as other comprehensive income is also recognised directly in other comprehensive income.
+Deferred tax
+Deferred tax arises as a result of including items of income and expenditure in taxation computations in periods different from those in which they are included in the Company's financial statements. Deferred tax is provided in full on timing differences which result in an obligation to pay more or less tax at a future date, at the tax rates and laws that have been enacted or substantively enacted by the Balance Sheet date that are expected to apply when the timing differences reverse. Deferred tax assets and liabilities are not discounted.
+The carrying amount of deferred tax assets are reviewed at each reporting date and a valuation allowance is set up against deferred tax assets so that the net carrying amount equals the highest amount that is more likely than not to be recovered based on current or future taxable profit. Deferred tax liabilities are presented within provisions for liabilities on the balance sheet.
+Tangible fixed assets
+Tangible fixed assets are stated at cost or valuation, net of depreciation and any provision for impairment. The cost of tangible assets includes directly attributable incremental costs incurred in their acquisition and installation. Depreciation is provided on all tangible fixed assets, other than investment property and freehold land, at rates calculated to write off the cost or valuation, less estimated residual value, of each asset on a straight-line or reducing balance basis over its expected useful life, as follows:
+Fixtures and fittings
+4
+-
+5
+years straight line
+Office equipment
+4
+-
+5
+years straight line
+Residual value represents the estimated amount which would currently be obtained from disposal of an asset, after deducting estimated costs of disposal, if the asset were already of the age and in the condition expected at the end of its useful life.
+The gain or loss arising on the disposal of an asset is determined as the difference between the sale proceeds and the carrying value of the asset, and is credited or charged to profit or loss.
+Impairment of assets
+Assets, other than those measured at fair value, are assessed for indicators of impairment at each Balance Sheet date. If there is objective evidence of impairment, an impairment loss is recognised in the Profit and Loss Account as described below.
+Trade and other debtors
+Trade and other debtors are initially recognised at fair value and thereafter stated at amortised cost using the effective interest method less impairment losses for bad and doubtful debts, except where the effect of discounting would be immaterial. In such cases the receivables are stated at cost less impairment losses for bad and doubtful debts.
+Cash and cash equivalents
+Cash and cash equivalents are basic financial assets and include cash in hand, deposits held at call with banks, other short-term liquid investments with original maturities of three months or less, and bank overdrafts. Bank overdrafts are shown within borrowings in creditors: amounts falling due within one year.
+Trade and other creditors
+Trade and other creditors are initially recognised at fair value and thereafter stated at amortised cost using the effective interest rate method, unless the effect of discounting would be immaterial, in which case they are stated at cost. If there is an unconditional right to defer settlement for at least twelve months after the reporting date, they are presented as non-current liabilities.
+Government grants
+Government grants are recognised based on the accrual model and are measured at the fair value of the asset received or receivable.
+Grants are classified as relating either to revenue or to assets.
+Grants relating to revenue are recognised in other operating income over the period in which the related costs are recognised, and timing differences are presented as other debtors or deferred income within the balance sheet. Grants relating to assets are recognised over the expected useful life of the asset. Where part of a grant relating to an asset is deferred, it is recognised as deferred income.
+2. Employees
+2024
+2023
+Number
+Number
+Monthly average number of persons employed by the Company during the year, including directors
+22
+22
+3. Tangible assets
+Fixtures and fittings
+Office equipment
+Total
+£
+£
+£
+Cost
+At 01 August 2023
+56,000
+35,368
+91,368
+Additions
+0
+2,937
+2,937
+At 31 July 2024
+56,000
+38,305
+94,305
+Accumulated depreciation
+At 01 August 2023
+15,167
+17,616
+32,783
+Charge for the financial year
+10,000
+6,649
+16,649
+At 31 July 2024
+25,167
+24,265
+49,432
+Net book value
+At 31 July 2024
+30,833
+14,040
+44,873
+At 31 July 2023
+40,833
+17,752
+58,585
+4. Debtors
+2024
+2023
+£
+£
+Trade debtors
+198,983
+411,887
+Corporation tax
+882
+0
+Other debtors
+24,235
+22,900
+224,100
+434,787
+5. Creditors: amounts falling due within one year
+2024
+2023
+£
+£
+Trade creditors
+162,496
+246,309
+Taxation and social security
+0
+17,323
+Other creditors
+49,831
+53,503
+212,327
+317,135
+6. Liability of members
+The members of the South West Association of Training Providers Limited have undertaken to contribute a sum not exceeding £1 each to meet the liabilities of the Company if it should be wound up.

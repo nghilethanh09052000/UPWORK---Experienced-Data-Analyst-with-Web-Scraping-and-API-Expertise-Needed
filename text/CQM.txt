@@ -1,0 +1,519 @@
+‘uu
+
+COMPANIES HOUSE
+
+CQM TRAINING & CONSULTANCY LTD
+
+CONTENTS OF THE FINANCIAL STATEMENTS
+For The Year Ended 31 July 2024
+
+Page
+Company Information 1
+Balance Sheet 2
+
+Notes to the Financial Statements 3
+
+CQM TRAINING & CONSULTANCY LTD
+
+DIRECTORS:
+
+SECRETARY:
+
+REGISTERED OFFICE:
+
+REGISTERED NUMBER:
+
+AUDITORS:
+
+_ COMPANY INFORMATION
+For The Year Ended 31 July 2024
+
+A Cheshire
+
+A Hammond
+
+J AHumphreys
+R J Smelt
+
+A Hammond
+
+Suite 103A Harborough Enterprise Centre
+Northampton Road
+
+Market Hrborough
+
+Leicestershire
+
+LE16 9HW.
+
+02782477 (England and Wales)
+
+TC Group
+
+31 High View Close
+Hamilton Office Park
+Leicester
+Leicestershire
+
+LE4 9LJ
+
+Page |
+
+CQM TRAINING & CONSULTANCY LTD (REGISTERED NUMBER: 02782477)
+
+BALANCE SHEET
+31 July 2024
+
+2024 2023
+Notes & Ea £ £
+FIXED ASSETS
+Intangible assets 4 6,000 8,000
+Tangible assets 5 8,822 11,655
+14,822 19,655
+
+CURRENT ASSETS
+Debtors 6 188,640 210,806
+Cash at bank 95,853 120,805
+
+284,493 331,611
+CREDITORS
+Amounis falling due within one year 7 179,830 215,117
+NET CURRENT ASSETS 104,663 116,494
+TOTAL ASSETS LESS CURRENT LIABILITIES 119,485 136,149
+CREDITORS
+Amounts falling due after more than one
+year 8 (34,667) (66,667)
+PROVISIONS FOR LIABILITIES VW {1,874) (2,133)
+NET ASSETS 82,944 67,349
+CAPITAL AND RESERVES
+Called up share capital 12 211 211
+Share premium 13 11,500 11,500
+Retained earnings 13 71,233 55,638
+SHAREHOLDERS’ FUNDS 82,944 67,349
+
+The financial statements have been prepared and delivered in accordance with the provisions applicable to
+companies subject to the small companies regime.
+
+In accordance with Section 444 of the Companies Act 2006, the Income Statement has not been delivered.
+
+The financial statements were approved by the Board of Directors and authorised for issue on
+
+and were signed on its behalf by:
+
+A Cheshire - Director
+
+The notes form part of these financial statements
+
+Page 2
+
+27/01/2025
+
+CQM TRAINING & CONSULTANCY LTD
+
+NOTES TO THE FINANCIAL STATEMENTS
+For The Year Ended 31 July 2024
+
+STATUTORY INFORMATION
+
+CQM Training & Consultancy Ltd is a private company, limited by shares, registered in England and Wales. The
+company's registered number and registered office address can be found on the Company Information page.
+
+The presentation currency of the financial statements is the Pound Sterling (2).
+ACCOUNTING POLICIES
+
+8asis of preparing the financial statements
+
+These financial statements have been prepared in accordance with Financial Reporting Standard 102 ‘The
+Financial Reporting Standard applicable in the UK and Republic of Ireland" including the provisions of Section 1A
+“Small Entities" and the Companies Act 2006. The financial statements have been prepared under the historical
+cost convention.
+
+The preparation of the financial statements requires the use of certain critical accounting estimates. It also
+requires management to exercise judgement in applying the Company's accounting policies. These estimates
+and judgements are continually reviewed and are based on experience and other factors, including
+expectations of future events that are believed to be reasonable under the circumstances.
+
+In the opinion of management, there are no key areas of judgement of key sources of estimation uncertainty
+that have a significant effect on the financial statements.
+
+Going concern
+
+The board recieved detailed forecasts as part of the budget setting exercise for 2024/25. These have been
+reviewed alongside an updated forecast with no material changes. The board is also assured that performance
+in Pl & P2 is tracking in line with the forecast position. Budgets have also been stress tested looking at worst case
+scenarios. Based on the analysis, the board concluded that CQM remains a going concern well beyond the next
+12 months.
+
+Turnover
+
+Turnover is recognised to the extent that it is probable that the economic benefits will flow to the Company and
+the turnover can be reliably measured. Turnover is measured as the fair value of the consideration received or
+receivable, excluding discounts, rebates, value added tax and other sales taxes. the following criteria must also
+be met before turnover is recognised: :
+
+Rendering of services:
+
+Tumover from a contract to provide services is recognised in the period in which the services are provided in
+accordance with the stage of completion of the contract when all of the following conditions are satisfied:
+
+- the amount of turnover can be measured reliably:
+
+- it is probable the the Company will receive the consideration due under the contract:
+
+- the stage of completion of the contract at the end of the reporting period can be measured reliably: and
+- the costs incurred and the costs to complete the contract can be measured reliably.
+
+Intangible assets
+Intangible assets are initially measured at cost. After initial recognition, under the cost model, intangible assets
+are measured at cost less any accumulated amortisation and any accumulated impairment losses.
+
+Assets under the course of construction are stated at cost and are not amortised until the are brought into use at
+the following rates:
+
+Software - 20% straight line
+
+Page 3 continued...
+
+CQM TRAINING & CONSULTANCY LTD
+
+NOTES TO THE FINANCIAL STATEMENTS - continued
+For The Year Ended 31 July 2024
+
+ACCOUNTING POLICIES - continued
+
+Tangible fixed assets
+
+Tangible assets under the cost model are stated at historical cost less accumulated deprecation and any
+accumulated impairment losses. Historical cost includes expenditure that is directly attributable to bringing the
+assets to the location and condition necessary for it to be capable of operating in the manner intended by
+management.
+
+Deprecation is charged as to allocate the cost of assets less their residual value over their estimated useful lives,
+using straight line method.
+
+- Furniture and fittings : 20% straight line
+- Office equipment : 25% straight line
+
+The asset's residual values, useful lives and deprecation methods are reviewed, and adjusted prospectively if
+appropriate, or if there is an indication of a significant change since the last reporting date.
+
+Gains and losses on disposals are determined by comparing the proceeds with the carrying amount and are
+recognised in profit and loss.
+
+impairment of fixed assets
+
+A review for indicators of impairment is carried out at each reporting date, with the recoverable amount being
+estimates where such indicators exist. Where the carrying value exceeds the recoverable amount, the asset is
+impaired accordingly.
+
+Financial instruments
+
+The Company only enters into basic financial instrument transactions that result in the recognition of financial
+assets and liabilities like trade and other debtors and creditors, loans from banks and other third parties, loans to
+related parties and investments in ordinary shares.
+
+Taxation
+Taxation for the year comprises current and deferred tax. Tax is recognised in the Income Statement, except to
+the extent that it relates to items recognised in other comprehensive income or directly in equity.
+
+Current or deferred taxation assets and liabilities are not discounted.
+
+Current tax is recognised at the amount of tax payable using the tax rates and laws that have been enacted or
+substantively enacted by the balance sheet date.
+
+Deferred tax
+Deferred tax is recognised in respect of all timing differences that have originated but not reversed at the
+balance sheet date.
+
+Timing differences arise from the inclusion of income and expenses in tax assessments in periods different from
+those in which they are recognised in financial statements. Deferred tax is measured using tax rates and laws that
+have been enacted or substantively enacted by the year end and that are expected to apply to the reversal of
+the timing difference.
+
+Unrelieved tax losses and other deferred tax assets are recognised only to the extent that it is probable that they
+will be recovered against the reversal of deferred tax liabilities or other future taxable profits.
+
+Hire purchase and leasing commitments
+
+Rentals paid under operating leases are charged to profit or loss on a straight line basis over the period of the
+lease.
+
+Page 4 continued...
+
+CQM TRAINING & CONSULTANCY LTD
+
+NOTES TO THE FINANCIAL STATEMENTS - continued
+For The Year Ended 31 July 2024
+
+ACCOUNTING POLICIES - continued
+
+Pensions
+
+The Company operates a defined contribution pension plan for its employees. A defined contribution plan as
+pension plan under which the Company pays fixed contributions into a separate entity. Once contribution have
+been paid the Company has not further payment obligations,
+
+The contributions are recognised as an expense in the profit or loss when they fall due. Amounts not paid are
+shown in accrual as a liability in the Statement of Financial Position. The assets of the plan are held separately
+from the Company in independently administered funds.
+
+Provisions
+
+Provisions are recognised when the Company has an obligation at the reporting date as a result of a past event,
+it is probable that the entity will be required to transfer economic benefits in settlement and the amount of the
+obligation can be estimated reliably. Provisions are recognised as a liability in the statement of financial position
+and the amount of the provision as an expense in the statement of comprehensive income.
+
+Provisions are initially measured at the best estimate of the amount required to settle the obligation at the
+reporting date and subsequently reviewed at each reporting date and adjusted to reflect the best estimate of
+the amount the would be required to settle the obligation. Any adjustments to the amounts previously recognised
+in profit or loss unless the provision was originally recognised as part of the cost of an asset. Where a provision is
+measured at the present value of the amount expected to be required to settle the obligation, the unwinding of
+the discount is recognised as a finance cost in the statement of comprehensive income in the period it arises.
+
+EMPLOYEES AND DIRECTORS
+
+The average number of employees during the year was 21 (2023 - 22).
+
+INTANGIBLE FIXED ASSETS
+Computer
+software
+£
+
+cost
+At 1 August 2023
+and 31 July 2024 10,000
+AMORTISATION
+At 1 August 2023 2,000
+Amortisation for year 2,000
+At 31 July 2024 4,000
+NET BOOK VALUE
+At 31 July 2024 6,000
+At 31 July 2023 8,000
+
+Page 5 continued...
+
+CQM TRAINING & CONSULTANCY LTD
+
+NOTES TO THE FINANCIAL STATEMENTS - continued
+For The Year Ended 31 July 2024
+
+TANGIBLE FIXED ASSETS
+
+COST
+
+At 1 August 2023
+Additions
+Disposals
+
+At 31 July 2024
+DEPRECIATION
+
+At 1 August 2023
+Charge for year
+Eliminated on disposal
+At 31 July 2024
+
+NET BOOK VALUE
+At 31 July 2024
+
+At 31 July 2023
+
+DEBTORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+Trade debtors
+
+Other debtors
+
+CREDITORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+
+Bank loans and overdrafts (see note 9)
+Trade creditors
+
+Amounts owed to group undertakings
+Social security and other taxes
+
+VAT
+
+Other creditors
+
+Accruals and deferred income
+
+CREDITORS: AMOUNTS FALLING DUE AFTER MORE THAN ONE YEAR
+
+Bank loans (see note 9}
+
+Page 6
+
+Fixtures
+Plant and and
+machinery fittings Totals
+& £ £
+86,375 28,764 115,139
+2,421 217 2,638
+- (250) (250)
+88,796 28,731 117,527
+78,961 24,523 103,484
+3,867 1,583 $,450
+- (229) (229)
+82,828 25,877 108,705
+5,968 2,854 8,822
+7,Al4 4,241 11,655
+2024 2023
+£ &
+6,988 40,872
+181,652 169,934
+188,640 210,806
+2024 2023
+£ £
+32,000 32,000
+27,804 64,907
+4,777 36,407
+23,926 28,661
+16,991 2,848
+10,351 5,468
+63,981 44,826
+179,830 215,117
+2024 2023
+£ &
+34,667 66,667
+continued...
+
+
+CQM TRAINING & CONSULTANCY LTD
+
+NOTES TO THE FINANCIAL STATEMENTS - continued
+
+For The Year Ended 31 July 2024
+
+LOANS
+
+An analysis of the maturity of loans is given below:
+
+Amounts falling due within one year or on demand:
+Bank loans
+
+Amounts falling due between one and two years:
+Bank loans - 1-2 years
+
+Amounts falling due between two and five years:
+Bank loans - 2-5 years
+
+SECURED DEBTS
+
+The following secured debts are included within creditors:
+
+Bank loans
+
+The bank loans are secured by a debenture comprising fixed and floating charges over all assets.
+
+The loan attracts interest of 3.99% per annum above the base rate.
+
+PROVISIONS FOR LIABILITIES
+
+Deferred tax
+
+Balance at 1 August 2023
+Credit to Income Statement during year
+
+Balance at 31 July 2024
+
+CALLED UP SHARE CAPITAL
+
+Allotted, issued and fully paid:
+
+Number: Class: Nominal
+value:
+
+211 Ordinary 1
+
+Page 7
+
+34,667
+
+2024
+£
+66,667
+
+2024
+
+1,874
+
+2024
+
+211
+
+2023
+
+32,000
+
+34,667
+
+2023
+
+98,667
+
+2023
+
+211
+
+continued...
+
+13.
+
+14.
+
+15.
+
+16.
+
+CQM TRAINING & CONSULTANCY LTD
+
+NOTES TO THE FINANCIAL STATEMENTS - continued
+For The Year Ended 31 July 2024
+
+RESERVES
+Share premium account
+
+The share premium account represents the additional amount shareholders paid for the issued shares that was in
+excess of the par value of those shares.
+
+Profit and loss account
+
+The profit and loss account represents cumulative profits and losses of the Company.
+DISCLOSURE UNDER SECTION 444(5B) OF THE COMPANIES ACT 2006
+
+The Report of the Auditors was unqualified.
+
+Dilun Mistry FCA (Senior Statutory Auditor}
+for and on behalf of TC Group
+
+PENSION COMMITMENTS
+
+The Company operates a defined contributions pension scheme. The assets of the scheme are held separately
+from those of the Company in an independently administered fund. The pension cost charge represents
+contribution payable by the Company to the fund and amounted to £64,043 (2023: £77,634}. Contributions
+totalling £7,186 (2023: £7,005) were payable to the fund at the reporting date and ae included in creditors.
+RELATED PARTY DISCLOSURES
+
+The company has taken advantage of exemption, conferred by section 33 of Financial Reporting Standard 102
+‘The Financial Reporting Standard applicable in the UK and Republic of Ireland’, not to disclose related party
+transactions with other group entities whose voting rights are 100% owned within the group.
+
+Total emoluments {including employers pension contributions) paid to directors during the period was £185,959
+(2023: £236,426).
+
+ULTIMATE CONTROLLING PARTY
+
+The immediate and ultimate parent undertaking of the company is Instructus, a charitable company registered in
+England and Wales, of Suite 103a Harborough Enterprise Centre Compass Point Business Park, Northampton
+Road, Market Harborough, Leicestershire, England, LE16 9HW.
+
+The parent undertaking of the largest and smallest group in which the company is consolidated is Instructus.
+Copies of consolidated financial statements can be obtained from companies house, Crowne Way, Maindy,
+Carditt.
+
+The directors consider there to be no controlling party.
+
+Page 8
+
+

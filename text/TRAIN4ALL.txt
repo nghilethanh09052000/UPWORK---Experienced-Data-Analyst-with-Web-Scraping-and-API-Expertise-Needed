@@ -1,0 +1,858 @@
+Train4All Ltd
+2023-09-01
+2024-08-31
+2024-08-31
+false
+06500036
+Train4All Ltd
+2025-01-08
+96090
+false
+iso4217:GBP
+xbrli:pure
+06500036
+2023-09-01
+06500036
+2024-08-31
+06500036
+2023-09-01
+2024-08-31
+06500036
+2022-09-01
+06500036
+2023-08-31
+06500036
+2022-09-01
+2023-08-31
+06500036
+bus:SmallEntities
+2023-09-01
+2024-08-31
+06500036
+bus:AuditExempt-NoAccountantsReport
+2023-09-01
+2024-08-31
+06500036
+bus:AbridgedAccounts
+2023-09-01
+2024-08-31
+06500036
+bus:PrivateLimitedCompanyLtd
+2023-09-01
+2024-08-31
+06500036
+core:WithinOneYear
+2024-08-31
+06500036
+core:AfterOneYear
+2024-08-31
+06500036
+core:WithinOneYear
+2023-08-31
+06500036
+core:AfterOneYear
+2023-08-31
+06500036
+core:ShareCapital
+2024-08-31
+06500036
+core:SharePremium
+2024-08-31
+06500036
+core:RevaluationReserve
+2024-08-31
+06500036
+core:OtherReservesSubtotal
+2024-08-31
+06500036
+core:RetainedEarningsAccumulatedLosses
+2024-08-31
+06500036
+core:ShareCapital
+2023-08-31
+06500036
+core:SharePremium
+2023-08-31
+06500036
+core:RevaluationReserve
+2023-08-31
+06500036
+core:OtherReservesSubtotal
+2023-08-31
+06500036
+core:RetainedEarningsAccumulatedLosses
+2023-08-31
+06500036
+core:LandBuildings
+2024-08-31
+06500036
+core:PlantMachinery
+2024-08-31
+06500036
+core:Vehicles
+2024-08-31
+06500036
+core:FurnitureFittings
+2024-08-31
+06500036
+core:OfficeEquipment
+2024-08-31
+06500036
+core:NetGoodwill
+2024-08-31
+06500036
+core:IntangibleAssetsOtherThanGoodwill
+2024-08-31
+06500036
+core:ListedExchangeTraded
+2024-08-31
+06500036
+core:UnlistedNon-exchangeTraded
+2024-08-31
+06500036
+core:LandBuildings
+2023-08-31
+06500036
+core:PlantMachinery
+2023-08-31
+06500036
+core:Vehicles
+2023-08-31
+06500036
+core:FurnitureFittings
+2023-08-31
+06500036
+core:OfficeEquipment
+2023-08-31
+06500036
+core:NetGoodwill
+2023-08-31
+06500036
+core:IntangibleAssetsOtherThanGoodwill
+2023-08-31
+06500036
+core:ListedExchangeTraded
+2023-08-31
+06500036
+core:UnlistedNon-exchangeTraded
+2023-08-31
+06500036
+core:LandBuildings
+2023-09-01
+2024-08-31
+06500036
+core:PlantMachinery
+2023-09-01
+2024-08-31
+06500036
+core:Vehicles
+2023-09-01
+2024-08-31
+06500036
+core:FurnitureFittings
+2023-09-01
+2024-08-31
+06500036
+core:OfficeEquipment
+2023-09-01
+2024-08-31
+06500036
+core:NetGoodwill
+2023-09-01
+2024-08-31
+06500036
+core:IntangibleAssetsOtherThanGoodwill
+2023-09-01
+2024-08-31
+06500036
+core:ListedExchangeTraded
+2023-09-01
+2024-08-31
+06500036
+core:UnlistedNon-exchangeTraded
+2023-09-01
+2024-08-31
+06500036
+core:MoreThanFiveYears
+2023-09-01
+2024-08-31
+06500036
+core:Non-currentFinancialInstruments
+2024-08-31
+06500036
+core:Non-currentFinancialInstruments
+2023-08-31
+06500036
+dpl:CostSales
+2023-09-01
+2024-08-31
+06500036
+dpl:DistributionCosts
+2023-09-01
+2024-08-31
+06500036
+core:LandBuildings
+2023-09-01
+2024-08-31
+06500036
+core:PlantMachinery
+2023-09-01
+2024-08-31
+06500036
+core:Vehicles
+2023-09-01
+2024-08-31
+06500036
+core:FurnitureFittings
+2023-09-01
+2024-08-31
+06500036
+core:OfficeEquipment
+2023-09-01
+2024-08-31
+06500036
+dpl:AdministrativeExpenses
+2023-09-01
+2024-08-31
+06500036
+core:NetGoodwill
+2023-09-01
+2024-08-31
+06500036
+core:IntangibleAssetsOtherThanGoodwill
+2023-09-01
+2024-08-31
+06500036
+dpl:GroupUndertakings
+2023-09-01
+2024-08-31
+06500036
+dpl:ParticipatingInterests
+2023-09-01
+2024-08-31
+06500036
+dpl:GroupUndertakings
+core:ListedExchangeTraded
+2023-09-01
+2024-08-31
+06500036
+core:ListedExchangeTraded
+2023-09-01
+2024-08-31
+06500036
+dpl:GroupUndertakings
+core:UnlistedNon-exchangeTraded
+2023-09-01
+2024-08-31
+06500036
+core:UnlistedNon-exchangeTraded
+2023-09-01
+2024-08-31
+06500036
+dpl:CostSales
+2022-09-01
+2023-08-31
+06500036
+dpl:DistributionCosts
+2022-09-01
+2023-08-31
+06500036
+core:LandBuildings
+2022-09-01
+2023-08-31
+06500036
+core:PlantMachinery
+2022-09-01
+2023-08-31
+06500036
+core:Vehicles
+2022-09-01
+2023-08-31
+06500036
+core:FurnitureFittings
+2022-09-01
+2023-08-31
+06500036
+core:OfficeEquipment
+2022-09-01
+2023-08-31
+06500036
+dpl:AdministrativeExpenses
+2022-09-01
+2023-08-31
+06500036
+core:NetGoodwill
+2022-09-01
+2023-08-31
+06500036
+core:IntangibleAssetsOtherThanGoodwill
+2022-09-01
+2023-08-31
+06500036
+dpl:GroupUndertakings
+2022-09-01
+2023-08-31
+06500036
+dpl:ParticipatingInterests
+2022-09-01
+2023-08-31
+06500036
+dpl:GroupUndertakings
+core:ListedExchangeTraded
+2022-09-01
+2023-08-31
+06500036
+core:ListedExchangeTraded
+2022-09-01
+2023-08-31
+06500036
+dpl:GroupUndertakings
+core:UnlistedNon-exchangeTraded
+2022-09-01
+2023-08-31
+06500036
+core:UnlistedNon-exchangeTraded
+2022-09-01
+2023-08-31
+06500036
+core:NetGoodwill
+2024-08-31
+06500036
+core:IntangibleAssetsOtherThanGoodwill
+2024-08-31
+06500036
+core:LandBuildings
+2024-08-31
+06500036
+core:PlantMachinery
+2024-08-31
+06500036
+core:Vehicles
+2024-08-31
+06500036
+core:FurnitureFittings
+2024-08-31
+06500036
+core:OfficeEquipment
+2024-08-31
+06500036
+core:AfterOneYear
+2024-08-31
+06500036
+core:WithinOneYear
+2024-08-31
+06500036
+core:ListedExchangeTraded
+2024-08-31
+06500036
+core:UnlistedNon-exchangeTraded
+2024-08-31
+06500036
+core:ShareCapital
+2024-08-31
+06500036
+core:SharePremium
+2024-08-31
+06500036
+core:RevaluationReserve
+2024-08-31
+06500036
+core:OtherReservesSubtotal
+2024-08-31
+06500036
+core:RetainedEarningsAccumulatedLosses
+2024-08-31
+06500036
+core:NetGoodwill
+2023-08-31
+06500036
+core:IntangibleAssetsOtherThanGoodwill
+2023-08-31
+06500036
+core:LandBuildings
+2023-08-31
+06500036
+core:PlantMachinery
+2023-08-31
+06500036
+core:Vehicles
+2023-08-31
+06500036
+core:FurnitureFittings
+2023-08-31
+06500036
+core:OfficeEquipment
+2023-08-31
+06500036
+core:AfterOneYear
+2023-08-31
+06500036
+core:WithinOneYear
+2023-08-31
+06500036
+core:ListedExchangeTraded
+2023-08-31
+06500036
+core:UnlistedNon-exchangeTraded
+2023-08-31
+06500036
+core:ShareCapital
+2023-08-31
+06500036
+core:SharePremium
+2023-08-31
+06500036
+core:RevaluationReserve
+2023-08-31
+06500036
+core:OtherReservesSubtotal
+2023-08-31
+06500036
+core:RetainedEarningsAccumulatedLosses
+2023-08-31
+06500036
+core:NetGoodwill
+2022-09-01
+06500036
+core:IntangibleAssetsOtherThanGoodwill
+2022-09-01
+06500036
+core:LandBuildings
+2022-09-01
+06500036
+core:PlantMachinery
+2022-09-01
+06500036
+core:Vehicles
+2022-09-01
+06500036
+core:FurnitureFittings
+2022-09-01
+06500036
+core:OfficeEquipment
+2022-09-01
+06500036
+core:AfterOneYear
+2022-09-01
+06500036
+core:WithinOneYear
+2022-09-01
+06500036
+core:ListedExchangeTraded
+2022-09-01
+06500036
+core:UnlistedNon-exchangeTraded
+2022-09-01
+06500036
+core:ShareCapital
+2022-09-01
+06500036
+core:SharePremium
+2022-09-01
+06500036
+core:RevaluationReserve
+2022-09-01
+06500036
+core:OtherReservesSubtotal
+2022-09-01
+06500036
+core:RetainedEarningsAccumulatedLosses
+2022-09-01
+06500036
+core:AfterOneYear
+2023-09-01
+2024-08-31
+06500036
+core:WithinOneYear
+2023-09-01
+2024-08-31
+06500036
+core:Non-currentFinancialInstruments
+core:CostValuation
+2023-09-01
+2024-08-31
+06500036
+core:Non-currentFinancialInstruments
+core:AdditionsToInvestments
+2023-09-01
+2024-08-31
+06500036
+core:Non-currentFinancialInstruments
+core:RevaluationsIncreaseDecreaseInInvestments
+2023-09-01
+2024-08-31
+06500036
+core:Non-currentFinancialInstruments
+core:DisposalsDecreaseInInvestments
+2023-09-01
+2024-08-31
+06500036
+core:Non-currentFinancialInstruments
+core:ProvidedReleasedInPeriodProvisionsForImpairmentInvestments
+2023-09-01
+2024-08-31
+06500036
+core:Non-currentFinancialInstruments
+core:ImpairmentLossReversalProvisionsForImpairmentInvestments
+2023-09-01
+2024-08-31
+06500036
+core:Non-currentFinancialInstruments
+core:AcquisitionsIncreaseInProvisionsForImpairmentInvestments
+2023-09-01
+2024-08-31
+06500036
+core:Non-currentFinancialInstruments
+core:DisposalsDecreaseInProvisionsForImpairmentInvestments
+2023-09-01
+2024-08-31
+06500036
+core:Non-currentFinancialInstruments
+core:OtherIncreaseDecreaseInProvisionsForImpairmentInvestments
+2023-09-01
+2024-08-31
+06500036
+core:Non-currentFinancialInstruments
+core:CostValuation
+2024-08-31
+06500036
+core:Non-currentFinancialInstruments
+core:AdditionsToInvestments
+2024-08-31
+06500036
+core:Non-currentFinancialInstruments
+core:RevaluationsIncreaseDecreaseInInvestments
+2024-08-31
+06500036
+core:Non-currentFinancialInstruments
+core:DisposalsDecreaseInInvestments
+2024-08-31
+06500036
+core:Non-currentFinancialInstruments
+core:ProvidedReleasedInPeriodProvisionsForImpairmentInvestments
+2024-08-31
+06500036
+core:Non-currentFinancialInstruments
+core:ImpairmentLossReversalProvisionsForImpairmentInvestments
+2024-08-31
+06500036
+core:Non-currentFinancialInstruments
+core:AcquisitionsIncreaseInProvisionsForImpairmentInvestments
+2024-08-31
+06500036
+core:Non-currentFinancialInstruments
+core:DisposalsDecreaseInProvisionsForImpairmentInvestments
+2024-08-31
+06500036
+core:Non-currentFinancialInstruments
+core:OtherIncreaseDecreaseInProvisionsForImpairmentInvestments
+2024-08-31
+06500036
+core:Non-currentFinancialInstruments
+core:CostValuation
+2023-08-31
+06500036
+core:Non-currentFinancialInstruments
+core:AdditionsToInvestments
+2023-08-31
+06500036
+core:Non-currentFinancialInstruments
+core:RevaluationsIncreaseDecreaseInInvestments
+2023-08-31
+06500036
+core:Non-currentFinancialInstruments
+core:DisposalsDecreaseInInvestments
+2023-08-31
+06500036
+core:Non-currentFinancialInstruments
+core:ProvidedReleasedInPeriodProvisionsForImpairmentInvestments
+2023-08-31
+06500036
+core:Non-currentFinancialInstruments
+core:ImpairmentLossReversalProvisionsForImpairmentInvestments
+2023-08-31
+06500036
+core:Non-currentFinancialInstruments
+core:AcquisitionsIncreaseInProvisionsForImpairmentInvestments
+2023-08-31
+06500036
+core:Non-currentFinancialInstruments
+core:DisposalsDecreaseInProvisionsForImpairmentInvestments
+2023-08-31
+06500036
+core:Non-currentFinancialInstruments
+core:OtherIncreaseDecreaseInProvisionsForImpairmentInvestments
+2023-08-31
+06500036
+bus:Director1
+2023-09-01
+2024-08-31
+06500036
+bus:Director2
+2023-09-01
+2024-08-31
+Train4All Ltd
+Registered Number
+06500036
+(England and Wales)
+Unaudited Financial Statements for the Year ended
+31 August 2024
+Train4All Ltd
+Company Information
+for the year from 1 September 2023 to 31 August 2024
+Directors
+ALLEN, Jonathan
+ALLEN, Rachel Louise
+Company Secretary
+ALLEN, Rachel Louise
+Registered Address
+107 North Street
+Martock
+TA12 6EJ
+Place of Business
+Units 1-4 Jubilee Park
+Badgers Cross Lane
+Somerton
+TA11 7JF
+Registered Number
+06500036
+(England and Wales)
+Train4All Ltd
+Balance Sheet
+as at
+31 August 2024
+Notes
+2024
+2023
+£
+£
+£
+£
+Fixed assets
+Tangible assets
+3
+80,256
+87,480
+80,256
+87,480
+Current assets
+Stocks
+36,548
+42,730
+Debtors
+4
+46,123
+21,330
+Cash at bank and on hand
+25,436
+47
+108,107
+64,107
+Creditors amounts falling due within one year
+5
+(
+261,846
+)
+(
+283,613
+)
+Net current assets (liabilities)
+(
+153,739
+)
+(
+219,506
+)
+Total assets less current liabilities
+(
+73,483
+)
+(
+132,026
+)
+Creditors amounts falling due after one year
+6
+(
+35,812
+)
+(
+63,306
+)
+Provisions for liabilities
+(
+2,829
+)
+-
+Net assets
+(
+112,124
+)
+(
+195,332
+)
+Capital and reserves
+Called up share capital
+100
+100
+Profit and loss account
+(
+112,224
+)
+(
+195,432
+)
+Shareholders' funds
+(
+112,124
+)
+(
+195,332
+)
+The company was entitled to exemption from audit for this reporting period under section 477 of the Companies Act 2006 relating to small companies.
+The members have not required the company to obtain an audit in accordance with section 476 of the Companies Act 2006.
+The Directors acknowledge their responsibilities for complying with the requirements of the Act with respect to accounting records and the preparation of accounts.
+These accounts have been prepared in accordance with the provisions applicable to companies subject to the small companies regime.
+The directors have chosen to not file a copy of the company’s profit and loss account under section 444 (5A) Companies Act 2006.
+The members have agreed to the preparation of abridged accounts for this accounting period in accordance with section 444(2A).
+The financial statements were approved and authorised for issue by the Board of Directors on 8 January 2025, and are signed on its behalf by:
+ALLEN, Rachel Louise
+Director
+Registered Company No. 06500036
+Train4All Ltd
+Notes to the Financial Statements
+for the year ended 31 August 2024
+1.
+Accounting policies
+Statutory information
+The company is a private company limited by shares and registered in England and Wales. The company's registered number and registered office address can be found on the Company Information page.
+Statement of compliance
+The financial statements have been prepared in compliance with FRS 102 Section 1A as it applies to the financial statements for the period and there were no material departures from the reporting standard.
+Revenue from sale of goods
+Turnover from the sale of goods is recognised when the significant risks and rewards of ownership of the goods have transferred to the buyer. Turnover from the rendering of services is recognised by reference to the stage of completion of the contract. The stage of completion of a contract is measured by comparing the costs incurred for work performed to date to the total estimated contract costs.
+Employee benefits
+Contributions to defined contribution plans are expensed in the period to which they relate.
+Deferred tax
+Deferred tax is recognised in respect of all timing differences between the recognition of income and expenses in the financial statements and their inclusion in tax assessments. Unrelieved tax losses and other deferred tax assets are recognised only to the extent that it is probable that they will be recovered against the reversal of deferred tax liabilities or other future taxable profits. Deferred tax is measured using the tax rates and laws that have been enacted or substantively enacted by the reporting date and that are expected to apply to the reversal of the timing difference, except for revalued land and investment property where the tax rate that applies to the sale of the asset is used. Current and deferred tax assets and liabilities are not discounted.
+Tangible fixed assets and depreciation
+Tangible fixed assets are stated at cost or valuation less depreciation. Depreciation is provided on all tangible fixed assets as follows:
+Reducing balance (%)
+Straight line (years)
+Land and buildings
+-
+100
+Plant and machinery
+15
+-
+Fixtures and fittings
+15
+-
+Vehicles
+15
+-
+Office Equipment
+-
+5
+Stocks and work in progress
+Inventories are valued at the lower of cost and estimated selling price (less any associated costs to enable such sales to complete).
+Government grants or assistance
+Government grants are recognised at the fair value of the asset received or receivable. Grants are not recognised until there is reasonable assurance that the company will comply with the conditions attaching to them and the grants will be received.
+2.
+Average number of employees
+2024
+2023
+Average number of employees during the year
+6
+10
+3.
+Tangible fixed assets
+Total
+£
+Cost or valuation
+At 01 September 23
+163,956
+Additions
+4,273
+Disposals
+(
+4,000
+)
+At 31 August 24
+163,704
+Depreciation and impairment
+At 01 September 23
+76,476
+Charge for year
+9,988
+On disposals
+(
+2,491
+)
+At 31 August 24
+83,448
+Net book value
+At 31 August 24
+80,256
+At 31 August 23
+87,480
+4.
+Debtors: amounts due within one year
+2024
+2023
+£
+£
+Trade debtors / trade receivables
+25,743
+3,180
+Amounts owed by group undertakings
+15,388
+-
+Other debtors
+-
+13,706
+Prepayments and accrued income
+4,992
+4,444
+Total
+46,123
+21,330
+Short term debtors are measured at transaction price (which is usually the invoice price), less any impairment losses for bad and doubtful debts. Loans and other financial assets are initially recognised at transaction price including any transaction costs and subsequently measured at amortised cost determined using the effective interest method, less any impairment losses for bad and doubtful debts.
+5.
+Creditors: amounts due within one year
+2024
+2023
+£
+£
+Trade creditors / trade payables
+26,116
+19,345
+Bank borrowings and overdrafts
+1,031
+47,001
+Amounts owed to related parties
+-
+3,381
+Taxation and social security
+217,691
+193,461
+Other creditors
+761
+2,602
+Accrued liabilities and deferred income
+16,247
+17,823
+Total
+261,846
+283,613
+Short term creditors are measured at transaction price (which is usually the invoice price). Loans and other financial liabilities are initially recognised at transaction price net of any transaction costs and subsequently measured at amortised cost determined using the effective interest method.
+6.
+Creditors: amounts due after one year
+2024
+2023
+£
+£
+Bank borrowings and overdrafts
+35,812
+63,306
+Total
+35,812
+63,306

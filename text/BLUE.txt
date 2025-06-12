@@ -1,0 +1,237 @@
+Blue Sky Professional Development Ltd 31/03/2024 iXBRL
+12
+01/04/2023
+31/03/2024
+2024-03-31
+false
+false
+false
+false
+false
+false
+false
+true
+false
+false
+true
+false
+false
+false
+false
+false
+false
+false
+No description of principal activities is disclosed
+2023-04-01
+Sage Accounts Production 23.0 - FRS102_2023
+xbrli:pure
+xbrli:shares
+iso4217:GBP
+08270412
+2023-04-01
+2024-03-31
+08270412
+2024-03-31
+08270412
+2023-03-31
+08270412
+2022-04-01
+2023-03-31
+08270412
+2023-03-31
+08270412
+2022-03-31
+08270412
+bus:RegisteredOffice
+2023-04-01
+2024-03-31
+08270412
+bus:LeadAgentIfApplicable
+2023-04-01
+2024-03-31
+08270412
+bus:Director1
+2023-04-01
+2024-03-31
+08270412
+bus:Director2
+2023-04-01
+2024-03-31
+08270412
+core:WithinOneYear
+2024-03-31
+08270412
+core:WithinOneYear
+2023-03-31
+08270412
+core:AfterOneYear
+2024-03-31
+08270412
+core:AfterOneYear
+2023-03-31
+08270412
+bus:Micro-entities
+2023-04-01
+2024-03-31
+08270412
+bus:AuditExemptWithAccountantsReport
+2023-04-01
+2024-03-31
+08270412
+bus:SmallCompaniesRegimeForAccounts
+2023-04-01
+2024-03-31
+08270412
+bus:PrivateLimitedCompanyLtd
+2023-04-01
+2024-03-31
+08270412
+bus:FullAccounts
+2023-04-01
+2024-03-31
+Company registration number:
+08270412
+Blue Sky Professional Development Ltd
+Unaudited filleted financial statements
+31 March 2024
+Blue Sky Professional Development Ltd
+Contents
+Directors and other information
+Accountants report
+Statement of financial position and notes to the financial statements
+Blue Sky Professional Development Ltd
+Directors and other information
+Directors
+Kate Woods
+Beth Russell
+Company number
+08270412
+Registered office
+51 Ivy Road
+Norwich
+Norfolk
+NR5 8BF
+Accountants
+i-Accounting Solutions Ltd
+The Enterprise Centre
+University of East Anglia
+Norwich
+Norfolk
+NR4 7TJ
+Blue Sky Professional Development Ltd
+Report to the board of directors on the preparation of the
+unaudited statutory financial statements of Blue Sky Professional Development Ltd
+Year ended 31 March 2024
+In order to assist you to fulfil your duties under the Companies Act 2006, we have prepared for your approval the financial statements of Blue Sky Professional Development Ltd for the year ended 31 March 2024 which comprise the statement of financial position and related notes from the company's accounting records and from information and explanations you have given us.
+As a practising member firm of the Association of Chartered Certified Accountants , we are subject to its ethical and other professional requirements which are detailed at http://www.accaglobal.com/en/member/ professional-standards/ rules-standards/acca-rulebook.html.
+This report is made solely to the board of directors of Blue Sky Professional Development Ltd, as a body, in accordance with the terms of our engagement letter dated 10 November 2017. Our work has been undertaken solely to prepare for your approval the financial statements of Blue Sky Professional Development Ltd and state those matters that we have agreed to state to the board of directors of Blue Sky Professional Development Ltd as a body, in this report in accordance with the requirements of the Association of Chartered Certified Accountants as detailed at http://www.accaglobal.com/content/dam/ACCA_Global /Technical/fact/technical-factsheet-163.pdf. To the fullest extent permitted by law, we do not accept or assume responsibility to anyone other than Blue Sky Professional Development Ltd and its board of directors as a body for our work or for this report.
+It is your duty to ensure that Blue Sky Professional Development Ltd has kept adequate accounting records and to prepare statutory financial statements that give a true and fair view of the assets, liabilities, financial position and profit of Blue Sky Professional Development Ltd. You consider that Blue Sky Professional Development Ltd is exempt from the statutory audit requirement for the year.
+We have not been instructed to carry out an audit or a review of the financial statements of Blue Sky Professional Development Ltd. For this reason, we have not verified the accuracy or completeness of the accounting records or information and explanations you have given to us and we do not, therefore, express any opinion on the statutory financial statements.
+i-Accounting Solutions Ltd
+Chartered Certified Accountants
+The Enterprise Centre
+University of East Anglia
+Norwich
+Norfolk
+NR4 7TJ
+30 October 2024
+Blue Sky Professional Development Ltd
+Statement of financial position
+31 March 2024
+2024
+2023
+£
+£
+£
+£
+Fixed assets
+877
+976
+_______
+_______
+Current assets
+56,337
+51,911
+Prepayments and accrued income
+44,650
+49,219
+_______
+_______
+100,987
+101,130
+Creditors: amounts falling due within one year
+(
+57,623
+)
+(
+63,559
+)
+_______
+_______
+Net current assets
+43,364
+37,571
+_______
+_______
+Total assets less current liabilities
+44,241
+38,547
+Creditors: amounts falling due after more than one year
+(
+33,000
+)
+(
+38,000
+)
+Accruals and deferred income
+(
+2,966
+)
+(
+2,504
+)
+_______
+_______
+Net assets/(liabilities)
+8,275
+(
+1,957
+)
+_______
+_______
+Capital and reserves
+8,275
+(
+1,957
+)
+_______
+_______
+Notes to the financial statements
+Blue Sky Professional Development Ltd
+Year ended 31 March 2024
+1.
+Employee numbers
+The average number of persons employed by the company during the year amounted to
+12
+(2023:
+12
+).
+For the year ending 31 March 2024 the company was entitled to exemption from audit under section 477 of the Companies Act 2006 relating to small companies.
+Directors responsiblities:
+-
+The members have not required the company to obtain an audit of its accounts for the year in question in accordance with section 476.
+-
+The directors acknowledge their responsibilities for complying with the requirements of the Act with respect to accounting records and the preparation of accounts.
+The financial statements have been prepared in accordance with the micro-entity provisions and have been delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+These financial statements were approved by the
+board of directors
+and authorised for issue on
+23 October 2024
+, and are signed on behalf of the board by:
+Kate Woods
+Beth Russell
+Director
+Director
+Company registration number:
+08270412
+The company is a private company limited by shares, registered in England and Wales.

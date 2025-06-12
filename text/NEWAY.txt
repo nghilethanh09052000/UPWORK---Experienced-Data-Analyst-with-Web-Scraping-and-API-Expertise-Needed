@@ -1,0 +1,752 @@
+NEWAY TRAINING SOLUTIONS LIMITED
+2023-11-01
+2024-10-31
+2024-10-31
+false
+04566581
+NEWAY TRAINING SOLUTIONS LIMITED
+2025-03-03
+85320
+false
+iso4217:GBP
+xbrli:pure
+04566581
+2023-11-01
+04566581
+2024-10-31
+04566581
+2023-11-01
+2024-10-31
+04566581
+2022-11-01
+04566581
+2023-10-31
+04566581
+2022-11-01
+2023-10-31
+04566581
+bus:SmallEntities
+2023-11-01
+2024-10-31
+04566581
+bus:AuditExempt-NoAccountantsReport
+2023-11-01
+2024-10-31
+04566581
+bus:AbridgedAccounts
+2023-11-01
+2024-10-31
+04566581
+bus:PrivateLimitedCompanyLtd
+2023-11-01
+2024-10-31
+04566581
+core:WithinOneYear
+2024-10-31
+04566581
+core:AfterOneYear
+2024-10-31
+04566581
+core:WithinOneYear
+2023-10-31
+04566581
+core:AfterOneYear
+2023-10-31
+04566581
+core:ShareCapital
+2024-10-31
+04566581
+core:SharePremium
+2024-10-31
+04566581
+core:RevaluationReserve
+2024-10-31
+04566581
+core:OtherReservesSubtotal
+2024-10-31
+04566581
+core:RetainedEarningsAccumulatedLosses
+2024-10-31
+04566581
+core:ShareCapital
+2023-10-31
+04566581
+core:SharePremium
+2023-10-31
+04566581
+core:RevaluationReserve
+2023-10-31
+04566581
+core:OtherReservesSubtotal
+2023-10-31
+04566581
+core:RetainedEarningsAccumulatedLosses
+2023-10-31
+04566581
+core:LandBuildings
+2024-10-31
+04566581
+core:PlantMachinery
+2024-10-31
+04566581
+core:Vehicles
+2024-10-31
+04566581
+core:FurnitureFittings
+2024-10-31
+04566581
+core:OfficeEquipment
+2024-10-31
+04566581
+core:NetGoodwill
+2024-10-31
+04566581
+core:IntangibleAssetsOtherThanGoodwill
+2024-10-31
+04566581
+core:ListedExchangeTraded
+2024-10-31
+04566581
+core:UnlistedNon-exchangeTraded
+2024-10-31
+04566581
+core:LandBuildings
+2023-10-31
+04566581
+core:PlantMachinery
+2023-10-31
+04566581
+core:Vehicles
+2023-10-31
+04566581
+core:FurnitureFittings
+2023-10-31
+04566581
+core:OfficeEquipment
+2023-10-31
+04566581
+core:NetGoodwill
+2023-10-31
+04566581
+core:IntangibleAssetsOtherThanGoodwill
+2023-10-31
+04566581
+core:ListedExchangeTraded
+2023-10-31
+04566581
+core:UnlistedNon-exchangeTraded
+2023-10-31
+04566581
+core:LandBuildings
+2023-11-01
+2024-10-31
+04566581
+core:PlantMachinery
+2023-11-01
+2024-10-31
+04566581
+core:Vehicles
+2023-11-01
+2024-10-31
+04566581
+core:FurnitureFittings
+2023-11-01
+2024-10-31
+04566581
+core:OfficeEquipment
+2023-11-01
+2024-10-31
+04566581
+core:NetGoodwill
+2023-11-01
+2024-10-31
+04566581
+core:IntangibleAssetsOtherThanGoodwill
+2023-11-01
+2024-10-31
+04566581
+core:ListedExchangeTraded
+2023-11-01
+2024-10-31
+04566581
+core:UnlistedNon-exchangeTraded
+2023-11-01
+2024-10-31
+04566581
+core:MoreThanFiveYears
+2023-11-01
+2024-10-31
+04566581
+core:Non-currentFinancialInstruments
+2024-10-31
+04566581
+core:Non-currentFinancialInstruments
+2023-10-31
+04566581
+dpl:CostSales
+2023-11-01
+2024-10-31
+04566581
+dpl:DistributionCosts
+2023-11-01
+2024-10-31
+04566581
+core:LandBuildings
+2023-11-01
+2024-10-31
+04566581
+core:PlantMachinery
+2023-11-01
+2024-10-31
+04566581
+core:Vehicles
+2023-11-01
+2024-10-31
+04566581
+core:FurnitureFittings
+2023-11-01
+2024-10-31
+04566581
+core:OfficeEquipment
+2023-11-01
+2024-10-31
+04566581
+dpl:AdministrativeExpenses
+2023-11-01
+2024-10-31
+04566581
+core:NetGoodwill
+2023-11-01
+2024-10-31
+04566581
+core:IntangibleAssetsOtherThanGoodwill
+2023-11-01
+2024-10-31
+04566581
+dpl:GroupUndertakings
+2023-11-01
+2024-10-31
+04566581
+dpl:ParticipatingInterests
+2023-11-01
+2024-10-31
+04566581
+dpl:GroupUndertakings
+core:ListedExchangeTraded
+2023-11-01
+2024-10-31
+04566581
+core:ListedExchangeTraded
+2023-11-01
+2024-10-31
+04566581
+dpl:GroupUndertakings
+core:UnlistedNon-exchangeTraded
+2023-11-01
+2024-10-31
+04566581
+core:UnlistedNon-exchangeTraded
+2023-11-01
+2024-10-31
+04566581
+dpl:CostSales
+2022-11-01
+2023-10-31
+04566581
+dpl:DistributionCosts
+2022-11-01
+2023-10-31
+04566581
+core:LandBuildings
+2022-11-01
+2023-10-31
+04566581
+core:PlantMachinery
+2022-11-01
+2023-10-31
+04566581
+core:Vehicles
+2022-11-01
+2023-10-31
+04566581
+core:FurnitureFittings
+2022-11-01
+2023-10-31
+04566581
+core:OfficeEquipment
+2022-11-01
+2023-10-31
+04566581
+dpl:AdministrativeExpenses
+2022-11-01
+2023-10-31
+04566581
+core:NetGoodwill
+2022-11-01
+2023-10-31
+04566581
+core:IntangibleAssetsOtherThanGoodwill
+2022-11-01
+2023-10-31
+04566581
+dpl:GroupUndertakings
+2022-11-01
+2023-10-31
+04566581
+dpl:ParticipatingInterests
+2022-11-01
+2023-10-31
+04566581
+dpl:GroupUndertakings
+core:ListedExchangeTraded
+2022-11-01
+2023-10-31
+04566581
+core:ListedExchangeTraded
+2022-11-01
+2023-10-31
+04566581
+dpl:GroupUndertakings
+core:UnlistedNon-exchangeTraded
+2022-11-01
+2023-10-31
+04566581
+core:UnlistedNon-exchangeTraded
+2022-11-01
+2023-10-31
+04566581
+core:NetGoodwill
+2024-10-31
+04566581
+core:IntangibleAssetsOtherThanGoodwill
+2024-10-31
+04566581
+core:LandBuildings
+2024-10-31
+04566581
+core:PlantMachinery
+2024-10-31
+04566581
+core:Vehicles
+2024-10-31
+04566581
+core:FurnitureFittings
+2024-10-31
+04566581
+core:OfficeEquipment
+2024-10-31
+04566581
+core:AfterOneYear
+2024-10-31
+04566581
+core:WithinOneYear
+2024-10-31
+04566581
+core:ListedExchangeTraded
+2024-10-31
+04566581
+core:UnlistedNon-exchangeTraded
+2024-10-31
+04566581
+core:ShareCapital
+2024-10-31
+04566581
+core:SharePremium
+2024-10-31
+04566581
+core:RevaluationReserve
+2024-10-31
+04566581
+core:OtherReservesSubtotal
+2024-10-31
+04566581
+core:RetainedEarningsAccumulatedLosses
+2024-10-31
+04566581
+core:NetGoodwill
+2023-10-31
+04566581
+core:IntangibleAssetsOtherThanGoodwill
+2023-10-31
+04566581
+core:LandBuildings
+2023-10-31
+04566581
+core:PlantMachinery
+2023-10-31
+04566581
+core:Vehicles
+2023-10-31
+04566581
+core:FurnitureFittings
+2023-10-31
+04566581
+core:OfficeEquipment
+2023-10-31
+04566581
+core:AfterOneYear
+2023-10-31
+04566581
+core:WithinOneYear
+2023-10-31
+04566581
+core:ListedExchangeTraded
+2023-10-31
+04566581
+core:UnlistedNon-exchangeTraded
+2023-10-31
+04566581
+core:ShareCapital
+2023-10-31
+04566581
+core:SharePremium
+2023-10-31
+04566581
+core:RevaluationReserve
+2023-10-31
+04566581
+core:OtherReservesSubtotal
+2023-10-31
+04566581
+core:RetainedEarningsAccumulatedLosses
+2023-10-31
+04566581
+core:NetGoodwill
+2022-11-01
+04566581
+core:IntangibleAssetsOtherThanGoodwill
+2022-11-01
+04566581
+core:LandBuildings
+2022-11-01
+04566581
+core:PlantMachinery
+2022-11-01
+04566581
+core:Vehicles
+2022-11-01
+04566581
+core:FurnitureFittings
+2022-11-01
+04566581
+core:OfficeEquipment
+2022-11-01
+04566581
+core:AfterOneYear
+2022-11-01
+04566581
+core:WithinOneYear
+2022-11-01
+04566581
+core:ListedExchangeTraded
+2022-11-01
+04566581
+core:UnlistedNon-exchangeTraded
+2022-11-01
+04566581
+core:ShareCapital
+2022-11-01
+04566581
+core:SharePremium
+2022-11-01
+04566581
+core:RevaluationReserve
+2022-11-01
+04566581
+core:OtherReservesSubtotal
+2022-11-01
+04566581
+core:RetainedEarningsAccumulatedLosses
+2022-11-01
+04566581
+core:AfterOneYear
+2023-11-01
+2024-10-31
+04566581
+core:WithinOneYear
+2023-11-01
+2024-10-31
+04566581
+core:Non-currentFinancialInstruments
+core:CostValuation
+2023-11-01
+2024-10-31
+04566581
+core:Non-currentFinancialInstruments
+core:AdditionsToInvestments
+2023-11-01
+2024-10-31
+04566581
+core:Non-currentFinancialInstruments
+core:RevaluationsIncreaseDecreaseInInvestments
+2023-11-01
+2024-10-31
+04566581
+core:Non-currentFinancialInstruments
+core:DisposalsDecreaseInInvestments
+2023-11-01
+2024-10-31
+04566581
+core:Non-currentFinancialInstruments
+core:ProvidedReleasedInPeriodProvisionsForImpairmentInvestments
+2023-11-01
+2024-10-31
+04566581
+core:Non-currentFinancialInstruments
+core:ImpairmentLossReversalProvisionsForImpairmentInvestments
+2023-11-01
+2024-10-31
+04566581
+core:Non-currentFinancialInstruments
+core:AcquisitionsIncreaseInProvisionsForImpairmentInvestments
+2023-11-01
+2024-10-31
+04566581
+core:Non-currentFinancialInstruments
+core:DisposalsDecreaseInProvisionsForImpairmentInvestments
+2023-11-01
+2024-10-31
+04566581
+core:Non-currentFinancialInstruments
+core:OtherIncreaseDecreaseInProvisionsForImpairmentInvestments
+2023-11-01
+2024-10-31
+04566581
+core:Non-currentFinancialInstruments
+core:CostValuation
+2024-10-31
+04566581
+core:Non-currentFinancialInstruments
+core:AdditionsToInvestments
+2024-10-31
+04566581
+core:Non-currentFinancialInstruments
+core:RevaluationsIncreaseDecreaseInInvestments
+2024-10-31
+04566581
+core:Non-currentFinancialInstruments
+core:DisposalsDecreaseInInvestments
+2024-10-31
+04566581
+core:Non-currentFinancialInstruments
+core:ProvidedReleasedInPeriodProvisionsForImpairmentInvestments
+2024-10-31
+04566581
+core:Non-currentFinancialInstruments
+core:ImpairmentLossReversalProvisionsForImpairmentInvestments
+2024-10-31
+04566581
+core:Non-currentFinancialInstruments
+core:AcquisitionsIncreaseInProvisionsForImpairmentInvestments
+2024-10-31
+04566581
+core:Non-currentFinancialInstruments
+core:DisposalsDecreaseInProvisionsForImpairmentInvestments
+2024-10-31
+04566581
+core:Non-currentFinancialInstruments
+core:OtherIncreaseDecreaseInProvisionsForImpairmentInvestments
+2024-10-31
+04566581
+core:Non-currentFinancialInstruments
+core:CostValuation
+2023-10-31
+04566581
+core:Non-currentFinancialInstruments
+core:AdditionsToInvestments
+2023-10-31
+04566581
+core:Non-currentFinancialInstruments
+core:RevaluationsIncreaseDecreaseInInvestments
+2023-10-31
+04566581
+core:Non-currentFinancialInstruments
+core:DisposalsDecreaseInInvestments
+2023-10-31
+04566581
+core:Non-currentFinancialInstruments
+core:ProvidedReleasedInPeriodProvisionsForImpairmentInvestments
+2023-10-31
+04566581
+core:Non-currentFinancialInstruments
+core:ImpairmentLossReversalProvisionsForImpairmentInvestments
+2023-10-31
+04566581
+core:Non-currentFinancialInstruments
+core:AcquisitionsIncreaseInProvisionsForImpairmentInvestments
+2023-10-31
+04566581
+core:Non-currentFinancialInstruments
+core:DisposalsDecreaseInProvisionsForImpairmentInvestments
+2023-10-31
+04566581
+core:Non-currentFinancialInstruments
+core:OtherIncreaseDecreaseInProvisionsForImpairmentInvestments
+2023-10-31
+04566581
+bus:Director1
+2023-11-01
+2024-10-31
+04566581
+bus:Director2
+2023-11-01
+2024-10-31
+NEWAY TRAINING SOLUTIONS LIMITED
+Registered Number
+04566581
+(England and Wales)
+Unaudited Financial Statements for the Year ended
+31 October 2024
+NEWAY TRAINING SOLUTIONS LIMITED
+Company Information
+for the year from 1 November 2023 to 31 October 2024
+Directors
+BONNEY, Richard Trevor
+STEVENSON, Lisa
+Company Secretary
+STEVENSON, Lisa
+Registered Address
+Kelvin House
+R T C Business Park London Road
+Derby
+DE24 8UP
+Registered Number
+04566581
+(England and Wales)
+NEWAY TRAINING SOLUTIONS LIMITED
+Balance Sheet
+as at
+31 October 2024
+Notes
+2024
+2023
+£
+£
+£
+£
+Fixed assets
+Tangible assets
+3
+46,265
+54,515
+46,265
+54,515
+Current assets
+Debtors
+370,418
+324,046
+Cash at bank and on hand
+261,917
+283,963
+632,335
+608,009
+Creditors amounts falling due within one year
+(
+199,332
+)
+(
+175,235
+)
+Net current assets (liabilities)
+433,003
+432,774
+Total assets less current liabilities
+479,268
+487,289
+Provisions for liabilities
+(
+11,566
+)
+(
+10,358
+)
+Net assets
+467,702
+476,931
+Capital and reserves
+Called up share capital
+100
+100
+Profit and loss account
+467,602
+476,831
+Shareholders' funds
+467,702
+476,931
+The company was entitled to exemption from audit for this reporting period under section 477 of the Companies Act 2006 relating to small companies.
+The members have not required the company to obtain an audit in accordance with section 476 of the Companies Act 2006.
+The Directors acknowledge their responsibilities for complying with the requirements of the Act with respect to accounting records and the preparation of accounts.
+These accounts have been prepared in accordance with the provisions applicable to companies subject to the small companies regime.
+The directors have chosen to not file a copy of the company’s profit and loss account under section 444 (5A) Companies Act 2006.
+The members have agreed to the preparation of abridged accounts for this accounting period in accordance with section 444(2A).
+The financial statements were approved and authorised for issue by the Board of Directors on 3 March 2025, and are signed on its behalf by:
+BONNEY, Richard Trevor
+Director
+Registered Company No. 04566581
+NEWAY TRAINING SOLUTIONS LIMITED
+Notes to the Financial Statements
+for the year ended 31 October 2024
+1.
+Accounting policies
+Statutory information
+The company is a private company limited by shares and registered in England and Wales. The company's registered number and registered office address can be found on the Company Information page.
+Statement of compliance
+The financial statements have been prepared in accordance with the Companies Act 2006 and FRS 102 The Financial Reporting Standard applicable in the UK and Republic of Ireland including Section 1A Small Entities.
+Turnover policy
+Turnover is measured at the fair value of the consideration received or receivable, net of discounts and value added taxes. Turnover includes revenue earned from the sale of goods and from the rendering of services.
+Employee benefits
+Short-term employee benefits are measured at the undiscounted amount expected to be paid in exchange for the employee's services to the company. Where employees have accrued short-term benefits which the entity has not paid by the balance sheet date, an accrual is recognised within creditors: amounts falling due within one year together with an associated expense in profit or loss. The liabilities are classified as current obligations in the statement of financial position because they are expected to be settled wholly within twelve months after the end of the period.
+Defined contribution pension plan
+The company operates a defined contribution pension plan for the benefit of its employees. Contributions are recognised as expenses as they become payable. Differences between contributions payable in the year and those actually paid are recognised as either prepayments or accruals in the balance sheet. The assets of the defined contribution pension scheme are held separately from those of the company in an independently administered fund.
+Foreign currency translation
+Transactions in foreign currencies are initially recognised at the rate of exchange ruling at the date of the transaction. At the end of each reporting period foreign currency monetary items are translated at the closing rate of exchange. Non-monetary items that are measured at historical cost are translated at the rate ruling at the date of the transaction. All differences are charged to profit or loss.
+Current taxation
+Current tax is recognised in profit or loss, except for taxes related to revaluations of land and buildings which are recognised in other comprehensive income.
+Current tax represents the amount of tax payable (receivable) in respect of taxable profit (loss) for the current, or past, reporting periods. Current tax is measured at the amount expected to be paid (recovered) using the tax rates and laws which have been enacted, or substantively enacted, by the balance sheet date. Where payments to HM Revenue and Customs exceed liabilities owed, an asset is recognised to the extent of the amount of tax recoverable.
+Deferred tax
+Deferred tax is recognised in respect of all timing differences between the recognition of income and expenses in the financial statements and their inclusion in tax assessments. Unrelieved tax losses and other deferred tax assets are recognised only to the extent that it is probable that they will be recovered against the reversal of deferred tax liabilities or other future taxable profits. Deferred tax is measured using the tax rates and laws that have been enacted or substantively enacted by the reporting date and that are expected to apply to the reversal of the timing difference, except for revalued land and investment property where the tax rate that applies to the sale of the asset is used. Current and deferred tax assets and liabilities are not discounted.
+Tangible fixed assets and depreciation
+All fixed assets are initially recorded at cost. Property, plant and equipment is used in the company's principal activity for the production and supply of goods or for administrative purposes and is stated in the balance sheet under the historic cost model. This model requires the assets to be stated at cost less amounts in respect of depreciation and less any accumulated impairment losses. Depreciation is calculated so as to write off the cost of an asset, less its estimated residual value (which is the expected amount that would currently be obtained from disposal of an asset, after deducting the estimated costs of disposal, if the asset were already of the age and in the condition expected at the end of its useful life), over the useful economic life of the respective asset as follows:
+Reducing balance (%)
+Fixtures and fittings
+15
+Office Equipment
+25
+2.
+Average number of employees
+2024
+2023
+Average number of employees during the year
+14
+14
+3.
+Tangible fixed assets
+Total
+£
+Cost or valuation
+At 01 November 23
+181,353
+Additions
+7,214
+Disposals
+(
+700
+)
+At 31 October 24
+187,867
+Depreciation and impairment
+At 01 November 23
+126,837
+Charge for year
+15,341
+On disposals
+(
+576
+)
+At 31 October 24
+141,602
+Net book value
+At 31 October 24
+46,265
+At 31 October 23
+54,515

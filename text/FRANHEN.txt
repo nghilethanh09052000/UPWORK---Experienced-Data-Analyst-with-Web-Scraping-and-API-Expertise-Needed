@@ -1,0 +1,113 @@
+Micro-entity Accounts - FRANHEN CONSULTANCY LTD
+Companies House
+2023-04-01
+2024-03-31
+false
+11242230
+2024-03-31
+11242230
+2023-04-01
+2024-03-31
+11242230
+2022-04-01
+2023-03-31
+11242230
+uk-bus:Director1
+2023-04-01
+2024-03-31
+11242230
+uk-bus:Director2
+2023-04-01
+2024-03-31
+11242230
+2023-04-01
+2024-03-31
+11242230
+uk-bus:Micro-entities
+2023-04-01
+2024-03-31
+11242230
+uk-bus:FullAccounts
+2023-04-01
+2024-03-31
+11242230
+uk-bus:AuditExempt-NoAccountantsReport
+2023-04-01
+2024-03-31
+11242230
+2023-03-31
+11242230
+uk-core:WithinOneYear
+2024-03-31
+11242230
+uk-core:WithinOneYear
+2023-03-31
+11242230
+uk-core:AfterOneYear
+2024-03-31
+11242230
+uk-core:AfterOneYear
+2023-03-31
+iso4217:GBP
+Registered Number
+11242230
+FRANHEN CONSULTANCY LTD
+Micro-entity Accounts
+31 March 2024
+FRANHEN CONSULTANCY LTD
+Registered Number 11242230
+Micro-entity Balance Sheet as at
+31 March 2024
+Notes
+2024
+2023
+£
+£
+Current Assets
+25,146
+25,365
+Creditors: amounts falling due within one year
+(
+8,178
+)
+(
+4,973
+)
+Net current assets (liabilities)
+16,968
+20,392
+Total assets less current liabilities
+16,968
+20,392
+Creditors: amounts falling due after more than one year
+(
+7,385
+)
+(
+11,673
+)
+Total net assets (liabilities)
+9,583
+8,719
+Capital and reserves
+9,583
+8,719
+For the year ending 31 March 2024 the company was entitled to exemption under section 477 of the Companies Act 2006 relating to small companies.
+The members have not required the company to obtain an audit in accordance with section 476 of the Companies Act 2006.
+The directors acknowledge their responsibilities for complying with the requirements of the Companies Act 2006 with respect to accounting records and the preparation of accounts.
+The accounts have been prepared in accordance with the micro-entity provisions and delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+Approved by the Board on
+17 May 2024
+And signed on their behalf by:
+Dennis Okyere OFINAM
+, Director
+FRANHEN CONSULTANCY LTD
+Registered Number 11242230
+Notes to the Micro-entity Accounts for the period ended 31 March 2024
+1
+Employees
+2024
+2023
+Average number of employees during the period
+2
+2

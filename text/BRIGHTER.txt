@@ -1,0 +1,322 @@
+BRIGHTER BEGINNINGS DAY NURSERY LIMITED - Filleted accounts
+Registered number
+04607295
+BRIGHTER BEGINNINGS DAY NURSERY LIMITED
+Filleted Accounts
+31 December 2023
+BRIGHTER BEGINNINGS DAY NURSERY LIMITED
+Registered number:
+04607295
+Balance Sheet
+as at
+31 December 2023
+Notes
+2023
+2022
+£
+£
+Fixed assets
+Intangible assets
+3
+101,562
+117,812
+Tangible assets
+4
+351,314
+362,744
+452,876
+480,556
+Current assets
+Cash at bank and in hand
+430,266
+555,310
+Creditors: amounts falling due within one year
+5
+(
+213,751
+)
+(
+167,189
+)
+Net current assets
+216,515
+388,121
+Total assets less current liabilities
+669,391
+868,677
+Creditors: amounts falling due after more than one year
+6
+-
+(
+83,627
+)
+Provisions for liabilities
+(
+5,196
+)
+(
+5,196
+)
+Net assets
+664,195
+779,854
+Capital and reserves
+Called up share capital
+202
+202
+Profit and loss account
+663,993
+779,652
+Shareholders' funds
+664,195
+779,854
+The directors are satisfied that the company is entitled to exemption from the requirement to obtain an audit under section 477 of the Companies Act 2006.
+The members have not required the company to obtain an audit in accordance with section 476 of the Act.
+The directors acknowledge their responsibilities for complying with the requirements of the Companies Act 2006 with respect to accounting records and the preparation of accounts.
+The accounts have been prepared and delivered in accordance with the special provisions applicable to companies subject to the small companies regime. The profit and loss account has not been delivered to the Registrar of Companies.
+D Race
+Director
+Approved by the board on
+24 September 2024
+BRIGHTER BEGINNINGS DAY NURSERY LIMITED
+Notes to the Accounts
+for the year ended
+31 December 2023
+1
+Accounting policies
+Basis of preparation
+The accounts have been prepared under the historical cost convention and in accordance with FRS 102, The Financial Reporting Standard applicable in the UK and Republic of Ireland (as applied to small entities by section 1A of the standard).
+Turnover
+Turnover is measured at the fair value of the consideration received or receivable, net of discounts and value added taxes. Turnover includes revenue earned from the sale of goods and from the rendering of services. Turnover from the sale of goods is recognised when the significant risks and rewards of ownership of the goods have transferred to the buyer. Turnover from the rendering of services is recognised by reference to the stage of completion of the contract. The stage of completion of a contract is measured by comparing the costs incurred for work performed to date to the total estimated contract costs.
+Intangible fixed assets
+Intangible fixed assets are measured at cost less accumulative amortisation and any accumulative impairment losses.
+Tangible
+fixed assets
+Tangible fixed assets are measured at cost less accumulative depreciation and any accumulative impairment losses. Depreciation is provided on all tangible fixed assets, other than freehold land, at rates calculated to write off the cost, less estimated residual value, of each asset evenly over its expected useful life, as follows:
+Freehold buildings
+over 50 years
+Leasehold land and buildings
+over the lease term
+Plant and machinery
+over 5 years
+Fixtures, fittings, tools and equipment
+over 5 years
+Stocks
+Stocks are measured at the lower of cost and estimated selling price less costs to complete and sell. Cost is determined using the first in first out method. The carrying amount of stock sold is recognised as an expense in the period in which the related revenue is recognised.
+Taxation
+A current tax liability is recognised for the tax payable on the taxable profit of the current and past periods. A current tax asset is recognised in respect of a tax loss that can be carried back to recover tax paid in a previous period. Deferred tax is recognised in respect of all timing differences between the recognition of income and expenses in the financial statements and their inclusion in tax assessments. Unrelieved tax losses and other deferred tax assets are recognised only to the extent that it is probable that they will be recovered against the reversal of deferred tax liabilities or other future taxable profits. Deferred tax is measured using the tax rates and laws that have been enacted or substantively enacted by the reporting date and that are expected to apply to the reversal of the timing difference, except for revalued land and investment property where the tax rate that applies to the sale of the asset is used. Current and deferred tax assets and liabilities are not discounted.
+Leased assets
+A lease is classified as a finance lease if it transfers substantially all the risks and rewards incidental to ownership. All other leases are classified as operating leases. The rights of use and obligations under finance leases are initially recognised as assets and liabilities at amounts equal to the fair value of the leased assets or, if lower, the present value of the minimum lease payments. Minimum lease payments are apportioned between the finance charge and the reduction in the outstanding liability using the effective interest rate method. The finance charge is allocated to each period during the lease so as to produce a constant periodic rate of interest on the remaining balance of the liability. Leased assets are depreciated in accordance with the company's policy for tangible fixed assets. If there is no reasonable certainty that ownership will be obtained at the end of the lease term, the asset is depreciated over the lower of the lease term and its useful life. Operating lease payments are recognised as an expense on a straight line basis over the lease term.
+Pensions
+Contributions to defined contribution plans are expensed in the period to which they relate.
+2
+Employees
+2023
+2022
+Number
+Number
+Average number of persons employed by the company
+246
+264
+3
+Intangible fixed assets
+£
+Goodwill:
+Cost
+At 1 January 2023
+325,000
+At 31 December 2023
+325,000
+Amortisation
+At 1 January 2023
+207,188
+Provided during the year
+16,250
+At 31 December 2023
+223,438
+Net book value
+At 31 December 2023
+101,562
+At 31 December 2022
+117,812
+Goodwill is being written off in equal annual instalments over its estimated economic life of 20 years.
+4
+Tangible fixed assets
+Land and buildings
+Plant and machinery etc
+Total
+£
+£
+£
+Cost
+At 1 January 2023
+188,480
+844,630
+1,033,110
+Additions
+18,624
+102,709
+121,333
+At 31 December 2023
+207,104
+947,339
+1,154,443
+Depreciation
+At 1 January 2023
+47,954
+622,412
+670,366
+Charge for the year
+4,142
+128,621
+132,763
+At 31 December 2023
+52,096
+751,033
+803,129
+Net book value
+At 31 December 2023
+155,008
+196,306
+351,314
+At 31 December 2022
+140,526
+222,218
+362,744
+5
+Creditors: amounts falling due within one year
+2023
+2022
+£
+£
+Bank loans and overdrafts
+27,881
+32,064
+Trade creditors
+21,886
+99
+Taxation and social security costs
+53,497
+36,267
+Other creditors
+110,487
+98,759
+213,751
+167,189
+6
+Creditors: amounts falling due after one year
+2023
+2022
+£
+£
+Bank loans
+-
+83,627
+7
+Other information
+BRIGHTER BEGINNINGS DAY NURSERY LIMITED is a private company limited by shares and incorporated in England. Its registered office is:
+Newhall Lodge
+Stocks Lane
+Over Peover
+Knutsford
+WA16 9HA
+BRIGHTER BEGINNINGS DAY NURSERY LIMITED
+04607295
+false
+2023-01-01
+2023-12-31
+2023-12-31
+VT Final Accounts
+April 2022
+D Race
+No description of principal activity
+04607295
+2022-01-01
+2022-12-31
+04607295
+core:WithinOneYear
+2022-12-31
+04607295
+core:AfterOneYear
+2022-12-31
+04607295
+core:ShareCapital
+2022-12-31
+04607295
+core:RetainedEarningsAccumulatedLosses
+2022-12-31
+04607295
+2023-01-01
+2023-12-31
+04607295
+bus:PrivateLimitedCompanyLtd
+2023-01-01
+2023-12-31
+04607295
+bus:AuditExemptWithAccountantsReport
+2023-01-01
+2023-12-31
+04607295
+bus:Director40
+2023-01-01
+2023-12-31
+04607295
+core:Goodwill
+2023-01-01
+2023-12-31
+04607295
+core:LandBuildings
+2023-01-01
+2023-12-31
+04607295
+core:PlantMachinery
+2023-01-01
+2023-12-31
+04607295
+countries:England
+2023-01-01
+2023-12-31
+04607295
+bus:FRS102
+2023-01-01
+2023-12-31
+04607295
+bus:FullAccounts
+2023-01-01
+2023-12-31
+04607295
+2023-12-31
+04607295
+core:WithinOneYear
+2023-12-31
+04607295
+core:AfterOneYear
+2023-12-31
+04607295
+core:ShareCapital
+2023-12-31
+04607295
+core:RetainedEarningsAccumulatedLosses
+2023-12-31
+04607295
+core:Goodwill
+2023-12-31
+04607295
+core:LandBuildings
+2023-12-31
+04607295
+core:PlantMachinery
+2023-12-31
+04607295
+2022-12-31
+04607295
+core:Goodwill
+2022-12-31
+04607295
+core:LandBuildings
+2022-12-31
+04607295
+core:PlantMachinery
+2022-12-31
+iso4217:GBP
+xbrli:pure

@@ -1,0 +1,475 @@
+Searegs Training Ltd
+Acorah Software Products - Accounts Production
+16.1.300
+false
+true
+31 December 2023
+1 January 2023
+false
+1 January 2024
+31 December 2024
+31 December 2024
+09337318
+Mr Simon Jinks
+Mrs Victoria Jinks
+iso4217:GBP
+iso4217:EUR
+iso4217:USD
+xbrli:shares
+xbrli:pure
+xbrli:pure
+09337318
+2023-12-31
+09337318
+2024-12-31
+09337318
+2024-01-01
+2024-12-31
+09337318
+frs-core:CurrentFinancialInstruments
+2024-12-31
+09337318
+frs-core:Non-currentFinancialInstruments
+2024-12-31
+09337318
+frs-core:ComputerEquipment
+2024-12-31
+09337318
+frs-core:ComputerEquipment
+2024-01-01
+2024-12-31
+09337318
+frs-core:ComputerEquipment
+2023-12-31
+09337318
+frs-core:FurnitureFittings
+2024-12-31
+09337318
+frs-core:FurnitureFittings
+2024-01-01
+2024-12-31
+09337318
+frs-core:FurnitureFittings
+2023-12-31
+09337318
+frs-core:NetGoodwill
+2024-12-31
+09337318
+frs-core:NetGoodwill
+2024-01-01
+2024-12-31
+09337318
+frs-core:NetGoodwill
+2023-12-31
+09337318
+frs-core:MotorVehicles
+2024-12-31
+09337318
+frs-core:MotorVehicles
+2024-01-01
+2024-12-31
+09337318
+frs-core:MotorVehicles
+2023-12-31
+09337318
+frs-core:PlantMachinery
+2024-12-31
+09337318
+frs-core:PlantMachinery
+2024-01-01
+2024-12-31
+09337318
+frs-core:PlantMachinery
+2023-12-31
+09337318
+frs-core:ShareCapital
+2024-12-31
+09337318
+frs-core:RetainedEarningsAccumulatedLosses
+2024-12-31
+09337318
+frs-bus:PrivateLimitedCompanyLtd
+2024-01-01
+2024-12-31
+09337318
+frs-bus:FilletedAccounts
+2024-01-01
+2024-12-31
+09337318
+frs-bus:SmallEntities
+2024-01-01
+2024-12-31
+09337318
+frs-bus:AuditExempt-NoAccountantsReport
+2024-01-01
+2024-12-31
+09337318
+frs-bus:SmallCompaniesRegimeForAccounts
+2024-01-01
+2024-12-31
+09337318
+frs-bus:Director1
+2024-01-01
+2024-12-31
+09337318
+frs-bus:Director2
+2024-01-01
+2024-12-31
+09337318
+frs-core:CurrentFinancialInstruments
+1
+2024-12-31
+09337318
+frs-countries:EnglandWales
+2024-01-01
+2024-12-31
+09337318
+2022-12-31
+09337318
+2023-12-31
+09337318
+2023-01-01
+2023-12-31
+09337318
+frs-core:CurrentFinancialInstruments
+2023-12-31
+09337318
+frs-core:Non-currentFinancialInstruments
+2023-12-31
+09337318
+frs-core:ShareCapital
+2023-12-31
+09337318
+frs-core:RetainedEarningsAccumulatedLosses
+2023-12-31
+09337318
+frs-core:CurrentFinancialInstruments
+1
+2023-12-31
+Registered number: 09337318
+Searegs Training Ltd
+Unaudited Financial Statements
+For The Year Ended 31 December 2024
+Mayers
+33 Mary Seacole Road
+The Millfields
+Plymouth
+PL1 3JY
+Searegs Training Ltd
+Contents
+Contents
+Page
+Balance Sheet
+1—2
+Notes to the Financial Statements
+3—5
+Page 1
+Searegs Training Ltd
+Balance Sheet
+As At
+31 December 2024
+Balance Sheet
+Registered number:
+09337318
+2024
+2023
+Notes
+£
+£
+£
+£
+FIXED ASSETS
+Intangible Assets
+4
+3,250
+3,500
+Tangible Assets
+5
+66,735
+77,377
+69,985
+80,877
+CURRENT ASSETS
+Debtors
+6
+183,610
+234,287
+Cash at bank and in hand
+706,792
+468,509
+890,402
+702,796
+Creditors: Amounts Falling Due Within One Year
+7
+(
+308,574
+)
+(
+281,580
+)
+NET CURRENT ASSETS (LIABILITIES)
+581,828
+421,216
+TOTAL ASSETS LESS CURRENT LIABILITIES
+651,813
+502,093
+Creditors: Amounts Falling Due After More Than One Year
+8
+(
+14,166
+)
+(
+24,167
+)
+PROVISIONS FOR LIABILITIES
+Deferred Taxation
+(
+12,679
+)
+(
+14,702
+)
+NET ASSETS
+624,968
+463,224
+CAPITAL AND RESERVES
+Called up share capital
+9
+100
+100
+Profit and Loss Account
+624,868
+463,124
+SHAREHOLDERS' FUNDS
+624,968
+463,224
+Page 1
+Page 2
+Searegs Training Ltd
+Balance Sheet (continued)
+As At
+31 December 2024
+For the year ending 31 December 2024 the company was entitled to exemption from audit under section 477 of the Companies Act 2006 relating to small companies.
+The members have not required the company to obtain an audit in accordance with section 476 of the Companies Act 2006.
+The directors acknowledge their responsibilities for complying with the requirements of the Act with respect to accounting records and the preparation of accounts.
+These accounts have been prepared and delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+The company has taken advantage of section 444(1) of the Companies Act 2006 and opted not to deliver to the registrar a copy of the company's Profit and Loss Account.
+On behalf of the board
+Mr Simon Jinks
+Director
+7 March 2025
+The notes on
+pages 3 to 5
+form part of these financial statements.
+Page 2
+Page 3
+Searegs Training Ltd
+Notes to the Financial Statements
+For The Year Ended 31 December 2024
+Notes to the Financial Statements
+1.
+General Information
+Searegs Training Ltd
+is a private company, limited by shares, incorporated in England & Wales, registered number
+09337318
+. The registered office is Turnchapel Wharf, Barton Road, Plymouth, PL9 9RQ.
+2.
+Accounting Policies
+2.1.
+Basis of Preparation of Financial Statements
+The financial statements have been prepared under the historical cost convention and in accordance with Financial Reporting Standard 102 section 1A Small Entities "The Financial Reporting Standard applicable in the UK and Republic of Ireland" and the Companies Act 2006.
+2.2.
+Turnover
+Turnover is measured at the fair value of the consideration received or receivable, net of discounts and value added taxes. Turnover includes revenue earned from the sale of goods and from the rendering of services. Turnover is reduced for estimated customer returns, rebates and other similar allowances.
+Sale of goods
+Turnover from the sale of goods is recognised when the significant risks and rewards of ownership of the goods has transferred to the buyer. This is usually at the point that the customer has signed for the delivery of the goods.
+Rendering of services
+Turnover from the rendering of services is recognised by reference to the stage of completion of the contract. The stage of completion of a contract is measured by comparing the costs incurred for work performed to date to the total estimated contract costs. Turnover is only recognised to the extent of recoverable expenses when the outcome of a contract cannot be estimated reliably.
+2.3.
+Intangible Fixed Assets and Amortisation - Goodwill
+Goodwill is the difference between amounts paid on the acquisition of a business and the fair value of the separable net assets. It is amortised to profit and loss account over its estimated economic life of .... years.
+2.4.
+Tangible Fixed Assets and Depreciation
+Tangible fixed assets are measured at cost less accumulated depreciation and any accumulated impairment losses. Depreciation is provided at rates calculated to write off the cost of the fixed assets, less their estimated residual value, over their expected useful lives on the following bases:
+Plant & Machinery
+15% straight line
+Motor Vehicles
+20% straight line
+Fixtures & Fittings
+20% straight line
+Computer Equipment
+33% straight line
+2.5.
+Taxation
+Income tax expense represents the sum of the tax currently payable and deferred tax.
+The tax currently payable is based on taxable profit for the year. Taxable profit differs from profit as reported in the statement of comprehensive income because of items of income or expense that are taxable or deductible in other years and items that are never taxable or deductible. The company's liability for current tax is calculated using tax rates that have been enacted or substantively enacted by the end of the reporting period.
+Deferred tax is recognised on timing differences between the carrying amounts of assets and liabilities in the financial statements and the corresponding tax bases used in the computation of taxable profit. Deferred tax liabilities are generally recognised for all taxable timing differences. Deferred tax assets are generally recognised for all deductible temporary differences to the extent that it is probable that taxable profits will be available against which those deductible timing differences can be utilised. The carrying amount of deferred tax assets is reviewed at the end of each reporting period and reduced to the extent that it is no longer probable that sufficient taxable profits will be available to allow all or part of the asset to be recovered.
+Deferred tax assets and liabilities are measured at the tax rates that are expected to apply in the period in which the liability is settled or the asset realised, based on tax rates (and tax laws) that have been enacted or substantively enacted by the end of the reporting period. Deferred tax liabilities are presented within provisions for liabilities and deferred tax assets within debtors. The measurement of deferred tax liabilities and assets reflect the tax consequences that would follow from the manner in which the Company expects, at the end of the reporting period, to recover or settle the carrying amount of its assets and liabilities.
+Current and deferred tax are recognised in profit or loss for the year, except when they relate to items that are recognised in other comprehensive income or directly in equity, in which case current and deferred tax are recognised in other comprehensive income or directly in equity respectively.
+Page 3
+Page 4
+Searegs Training Ltd
+Notes to the Financial Statements (continued)
+For The Year Ended 31 December 2024
+3.
+Average Number of Employees
+Average number of employees, including directors, during the year was:
+11 (2023: 11)
+11
+11
+4.
+Intangible Assets
+Goodwill
+£
+Cost
+As at 1 January 2024
+5,000
+As at 31 December 2024
+5,000
+Amortisation
+As at 1 January 2024
+1,500
+Provided during the period
+250
+As at 31 December 2024
+1,750
+Net Book Value
+As at 31 December 2024
+3,250
+As at 1 January 2024
+3,500
+5.
+Tangible Assets
+Plant & Machinery
+Motor Vehicles
+Fixtures & Fittings
+Computer Equipment
+Total
+£
+£
+£
+£
+£
+Cost
+As at 1 January 2024
+145,535
+-
+123,447
+19,870
+288,852
+Additions
+11,686
+5,000
+303
+2,045
+19,034
+As at 31 December 2024
+157,221
+5,000
+123,750
+21,915
+307,886
+Depreciation
+As at 1 January 2024
+80,899
+-
+122,882
+7,694
+211,475
+Provided during the period
+23,158
+167
+76
+6,275
+29,676
+As at 31 December 2024
+104,057
+167
+122,958
+13,969
+241,151
+Net Book Value
+As at 31 December 2024
+53,164
+4,833
+792
+7,946
+66,735
+As at 1 January 2024
+64,636
+-
+565
+12,176
+77,377
+6.
+Debtors
+2024
+2023
+£
+£
+Due within one year
+Trade debtors
+35,401
+63,228
+Due after more than one year
+Amounts owed by joint-ventures
+148,209
+171,059
+183,610
+234,287
+Page 4
+Page 5
+Searegs Training Ltd
+Notes to the Financial Statements (continued)
+For The Year Ended 31 December 2024
+7.
+Creditors: Amounts Falling Due Within One Year
+2024
+2023
+£
+£
+Bank loans and overdrafts
+6,435
+3,687
+Corporation tax
+80,071
+69,069
+Other taxes and social security
+10,869
+4,824
+VAT
+35,301
+29,084
+Other creditors
+4,544
+5,308
+Income in advance
+550
+-
+Accrued expenses
+1,400
+1,340
+Directors' loan accounts
+169,404
+168,268
+308,574
+281,580
+8.
+Creditors: Amounts Falling Due After More Than One Year
+2024
+2023
+£
+£
+Bank loans
+14,166
+24,167
+9.
+Share Capital
+2024
+2023
+£
+£
+Allotted, Called up and fully paid
+100
+100
+Page 5

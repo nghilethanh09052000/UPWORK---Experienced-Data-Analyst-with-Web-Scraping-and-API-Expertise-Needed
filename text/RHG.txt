@@ -1,0 +1,416 @@
+Rhg Consult Ltd
+1 April 2023
+false
+No description of principal activity
+Taxfiler
+2024.4
+04776603
+business:PrivateLimitedCompanyLtd
+2023-04-01
+2024-03-31
+04776603
+2023-03-31
+04776603
+2023-04-01
+2024-03-31
+04776603
+business:AuditExempt-NoAccountantsReport
+2023-04-01
+2024-03-31
+04776603
+business:FilletedAccounts
+2023-04-01
+2024-03-31
+04776603
+2024-03-31
+04776603
+business:Director1
+2023-04-01
+2024-03-31
+04776603
+business:Director2
+2023-04-01
+2024-03-31
+04776603
+business:Director3
+2023-04-01
+2024-03-31
+04776603
+business:CompanySecretary1
+2023-04-01
+2024-03-31
+04776603
+business:RegisteredOffice
+2023-04-01
+2024-03-31
+04776603
+2023-03-31
+04776603
+core:WithinOneYear
+2024-03-31
+04776603
+core:WithinOneYear
+2023-03-31
+04776603
+core:ShareCapital
+core:PreviouslyStatedAmount
+2024-03-31
+04776603
+core:ShareCapital
+core:PreviouslyStatedAmount
+2023-03-31
+04776603
+core:RetainedEarningsAccumulatedLosses
+core:PreviouslyStatedAmount
+2024-03-31
+04776603
+core:RetainedEarningsAccumulatedLosses
+core:PreviouslyStatedAmount
+2023-03-31
+04776603
+core:PreviouslyStatedAmount
+2024-03-31
+04776603
+core:PreviouslyStatedAmount
+2023-03-31
+04776603
+business:SmallEntities
+2023-04-01
+2024-03-31
+04776603
+countries:EnglandWales
+2023-04-01
+2024-03-31
+04776603
+core:ComputerEquipment
+2023-04-01
+2024-03-31
+04776603
+core:IntangibleAssetsOtherThanGoodwill
+2023-03-31
+04776603
+core:IntangibleAssetsOtherThanGoodwill
+2024-03-31
+04776603
+core:ComputerEquipment
+2023-03-31
+04776603
+core:ComputerEquipment
+2024-03-31
+04776603
+core:AcceleratedTaxDepreciationDeferredTax
+2024-03-31
+04776603
+core:AcceleratedTaxDepreciationDeferredTax
+2023-03-31
+04776603
+2022-03-31
+04776603
+2022-04-01
+2023-03-31
+iso4217:GBP
+xbrli:pure
+Company Registration No.
+04776603
+(England and Wales)
+Rhg Consult Ltd
+Unaudited accounts
+for the year ended
+31 March 2024
+Rhg Consult Ltd
+Unaudited accounts
+Contents
+Page
+Company information
+3
+Statement of financial position
+4
+Notes to the accounts
+5
+- 2 -
+Rhg Consult Ltd
+Company Information
+for the year ended
+31 March 2024
+Directors
+Sarah Patterson
+Lee John Patterson
+Samuel Elliot Patterson
+Secretary
+Sarah Patterson
+Company Number
+04776603
+(England and Wales)
+Registered Office
+Harborough Innovation Centre
+Airfield Business Park
+Market Harborough
+LE16 7WB
+England
+Accountants
+The Business Hut Ltd
+Millers House
+Roman Way
+Market Harborough
+Leicestershire
+LE16 7PQ
+- 3 -
+Rhg Consult Ltd
+Statement of financial position
+as at
+31 March 2024
+2024
+2023
+Notes
+£
+£
+Fixed assets
+Tangible assets
+5
+16,370
+18,853
+Current assets
+Inventories
+121,039
+89,831
+Debtors
+6
+6,373
+20,843
+Cash at bank and in hand
+592,889
+497,856
+720,301
+608,530
+Creditors: amounts falling due within one year
+7
+(
+103,566
+)
+(
+72,099
+)
+Net current assets
+616,735
+536,431
+Total assets less current liabilities
+633,105
+555,284
+Provisions for liabilities
+Deferred tax
+8
+(
+4,219
+)
+(
+3,582
+)
+Net assets
+628,886
+551,702
+Capital and reserves
+Called up share capital
+1,000
+1,000
+Profit and loss account
+627,886
+550,702
+Shareholders' funds
+628,886
+551,702
+For the year ending
+31 March 2024
+the company was entitled to exemption from audit under section 477 of the Companies Act 2006 relating to small companies.
+The members have not required the company to obtain an audit in accordance with section 476 of the Companies Act 2006.
+The directors acknowledge their responsibilities for complying with the requirements of the Act with respect to accounting records and the preparation of accounts.
+These accounts have been prepared and delivered in accordance with the provisions applicable to companies subject to the small companies' regime and in accordance with the provisions of FRS 102 Section 1A - Small Entities. The profit and loss account has not been delivered to the Registrar of Companies.
+The financial statements were approved by the Board of Directors and authorised for issue on
+28 June 2024
+and were signed on its behalf by
+Lee John Patterson
+Director
+Company Registration No.
+04776603
+- 4 -
+Rhg Consult Ltd
+Notes to the Accounts
+for the year ended
+31 March 2024
+1
+Statutory information
+Rhg Consult Ltd
+is a private company, limited by shares, registered in England and Wales
+, registration number
+04776603
+. The registered office is
+Harborough Innovation Centre
+,
+Airfield Business Park
+,
+Market Harborough
+,
+LE16 7WB
+, England.
+2
+Compliance with accounting standards
+The accounts have been prepared in accordance with the provisions of FRS 102 Section 1A Small Entities. There were no material departures from that standard.
+3
+Accounting policies
+The principal accounting policies adopted in the preparation of the financial statements are set out below and have remained unchanged from the previous year, and also have been consistently applied within the same accounts.
+Basis of preparation
+The accounts have been prepared under the historical cost convention as modified by the revaluation of certain fixed assets.
+Presentation currency
+The accounts are presented in £ sterling.
+Tangible fixed assets and depreciation
+Tangible assets are included at cost less depreciation and impairment. Depreciation has been provided at the following rates in order to write off the assets over their estimated useful lives:
+Computer equipment
+25% reducing balance
+Intangible fixed assets
+Intangible fixed assets (including purchased goodwill and patents) are included at cost less accumulated amortisation.
+Turnover
+Turnover comprises the fair value of the consideration received or receivable for the sale of goods and provision of services in the ordinary course of the company’s activities. Turnover is shown net of sales/value added tax, returns, rebates and discounts.
+The company recognises revenue when:
+The amount of revenue can be reliably measured;
+it is probable that future economic benefits will flow to the entity;
+and specific criteria have been met for each of the company's activities.
+Deferred taxation
+Deferred tax arises as a result of including items of income and expenditure in taxation computations in periods different from those in which they are included in the company's accounts. Deferred tax is provided in full on timing differences which result in an obligation to pay more (or less) tax at a future date, at the average tax rates that are expected to apply when the timing differences reverse, based on current tax rates and laws.
+Deferred tax assets and liabilities are not discounted.
+Pension costs
+The company operates a defined contribution scheme for the benefit of its employees. Contributions payable are recognised in the profit and loss account when due.
+- 5 -
+Rhg Consult Ltd
+Notes to the Accounts
+for the year ended
+31 March 2024
+4
+Intangible fixed assets
+Other
+£
+Cost
+At 1 April 2023
+14,180
+At
+31 March 2024
+14,180
+Amortisation
+At 1 April 2023
+14,180
+At
+31 March 2024
+14,180
+Net book value
+At
+31 March 2024
+-
+5
+Tangible fixed assets
+Computer equipment
+£
+Cost or valuation
+At cost
+At 1 April 2023
+32,169
+Additions
+2,931
+At
+31 March 2024
+35,100
+Depreciation
+At 1 April 2023
+13,316
+Charge for the year
+5,414
+At
+31 March 2024
+18,730
+Net book value
+At
+31 March 2024
+16,370
+At 31 March 2023
+18,853
+6
+Debtors
+2024
+2023
+£
+£
+Amounts falling due within one year
+Trade debtors
+2,827
+3,271
+Accrued income and prepayments
+3,306
+2,414
+Other debtors
+240
+15,158
+6,373
+20,843
+- 6 -
+Rhg Consult Ltd
+Notes to the Accounts
+for the year ended
+31 March 2024
+7
+Creditors: amounts falling due within one year
+2024
+2023
+£
+£
+Bank loans and overdrafts
+719
+-
+VAT
+3,151
+368
+Trade creditors
+16,271
+13,251
+Taxes and social security
+77,958
+52,503
+Other creditors
+2,490
+3,186
+Loans from directors
+1,370
+(
+697
+)
+Accruals
+1,607
+3,488
+103,566
+72,099
+8
+Deferred taxation
+2024
+2023
+£
+£
+Accelerated capital allowances
+4,219
+3,582
+2024
+2023
+£
+£
+Provision at start of year
+3,582
+-
+Charged to the profit and loss account
+637
+3,582
+Provision at end of year
+4,219
+3,582
+9
+Average number of employees
+During the year the average number of employees was
+20
+(2023:
+21
+).
+- 7 -

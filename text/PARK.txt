@@ -1,0 +1,323 @@
+Park Education and Training Centre Limited
+Acorah Software Products - Accounts Production
+14.6.300
+false
+true
+30 November 2022
+1 December 2021
+false
+1 December 2022
+30 November 2023
+30 November 2023
+06415600
+Mr Aiah Kanda
+iso4217:GBP
+iso4217:EUR
+iso4217:USD
+xbrli:shares
+xbrli:pure
+xbrli:pure
+06415600
+2022-11-30
+06415600
+2023-11-30
+06415600
+2022-12-01
+2023-11-30
+06415600
+frs-core:CurrentFinancialInstruments
+2023-11-30
+06415600
+frs-core:Non-currentFinancialInstruments
+2023-11-30
+06415600
+frs-core:ComputerEquipment
+2023-11-30
+06415600
+frs-core:ComputerEquipment
+2022-12-01
+2023-11-30
+06415600
+frs-core:ComputerEquipment
+2022-11-30
+06415600
+frs-core:ShareCapital
+2023-11-30
+06415600
+frs-core:RetainedEarningsAccumulatedLosses
+2023-11-30
+06415600
+frs-bus:PrivateLimitedCompanyLtd
+2022-12-01
+2023-11-30
+06415600
+frs-bus:FilletedAccounts
+2022-12-01
+2023-11-30
+06415600
+frs-bus:SmallEntities
+2022-12-01
+2023-11-30
+06415600
+frs-bus:AuditExempt-NoAccountantsReport
+2022-12-01
+2023-11-30
+06415600
+frs-bus:SmallCompaniesRegimeForAccounts
+2022-12-01
+2023-11-30
+06415600
+frs-bus:Director1
+2022-12-01
+2023-11-30
+06415600
+1
+2022-12-01
+2023-11-30
+06415600
+frs-countries:EnglandWales
+2022-12-01
+2023-11-30
+06415600
+2021-11-30
+06415600
+2022-11-30
+06415600
+2021-12-01
+2022-11-30
+06415600
+frs-core:CurrentFinancialInstruments
+2022-11-30
+06415600
+frs-core:Non-currentFinancialInstruments
+2022-11-30
+06415600
+frs-core:ShareCapital
+2022-11-30
+06415600
+frs-core:RetainedEarningsAccumulatedLosses
+2022-11-30
+06415600
+1
+2021-12-01
+2022-11-30
+Registered number: 06415600
+Park Education and Training Centre Limited
+Unaudited Financial Statements
+For The Year Ended 30 November 2023
+KLS tax & Accounting Limited
+Park Education and Training Centre Limited
+Contents
+Contents
+Page
+Balance Sheet
+1—2
+Notes to the Financial Statements
+3—4
+Page 1
+Park Education and Training Centre Limited
+Balance Sheet
+As At
+30 November 2023
+Balance Sheet
+Registered number:
+06415600
+2023
+2022
+Notes
+£
+£
+£
+£
+FIXED ASSETS
+Tangible Assets
+4
+185
+1,057
+185
+1,057
+CURRENT ASSETS
+Debtors
+5
+69,226
+63,485
+Cash at bank and in hand
+90,426
+68,005
+159,652
+131,490
+Creditors: Amounts Falling Due Within One Year
+6
+(
+24,076
+)
+(
+25,024
+)
+NET CURRENT ASSETS (LIABILITIES)
+135,576
+106,466
+TOTAL ASSETS LESS CURRENT LIABILITIES
+135,761
+107,523
+Creditors: Amounts Falling Due After More Than One Year
+7
+(
+26,897
+)
+(
+35,042
+)
+NET ASSETS
+108,864
+72,481
+CAPITAL AND RESERVES
+Called up share capital
+8
+3
+3
+Profit and Loss Account
+108,861
+72,478
+SHAREHOLDERS' FUNDS
+108,864
+72,481
+Page 1
+Page 2
+Park Education and Training Centre Limited
+Balance Sheet (continued)
+As At
+30 November 2023
+For the year ending 30 November 2023 the company was entitled to exemption from audit under section 477 of the Companies Act 2006 relating to small companies.
+The member has not required the company to obtain an audit in accordance with section 476 of the Companies Act 2006.
+The director acknowledges his responsibilities for complying with the requirements of the Act with respect to accounting records and the preparation of accounts.
+These accounts have been prepared and delivered in accordance with the provisions applicable to companies subject to the small companies' regime.
+The company has taken advantage of section 444(1) of the Companies Act 2006 and opted not to deliver to the registrar a copy of the company's Profit and Loss Account.
+On behalf of the board
+Mr Aiah Kanda
+Director
+29/08/2024
+The notes on
+pages 3 to 4
+form part of these financial statements.
+Page 2
+Page 3
+Park Education and Training Centre Limited
+Notes to the Financial Statements
+For The Year Ended 30 November 2023
+Notes to the Financial Statements
+1.
+General Information
+Park Education and Training Centre Limited
+is a private company, limited by shares, incorporated in England & Wales, registered number
+06415600
+. The registered office is Kingsbury House, 468 Church Lane, London, NW9 8UA.
+2.
+Accounting Policies
+2.1.
+Basis of Preparation of Financial Statements
+The financial statements have been prepared under the historical cost convention and in accordance with Financial Reporting Standard 102 section 1A Small Entities "The Financial Reporting Standard applicable in the UK and Republic of Ireland" and the Companies Act 2006.
+2.2.
+Turnover
+Turnover is measured at the fair value of the consideration received or receivable, net of discounts and value added taxes. Turnover includes revenue earned from the sale of goods and from the rendering of services. Turnover is reduced for estimated customer returns, rebates and other similar allowances.
+Sale of goods
+Turnover from the sale of goods is recognised when the significant risks and rewards of ownership of the goods has transferred to the buyer. This is usually at the point that the customer has signed for the delivery of the goods.
+Rendering of services
+Turnover from the rendering of services is recognised by reference to the stage of completion of the contract. The stage of completion of a contract is measured by comparing the costs incurred for work performed to date to the total estimated contract costs. Turnover is only recognised to the extent of recoverable expenses when the outcome of a contract cannot be estimated reliably.
+2.3.
+Tangible Fixed Assets and Depreciation
+Tangible fixed assets are measured at cost less accumulated depreciation and any accumulated impairment losses. Depreciation is provided at rates calculated to write off the cost of the fixed assets, less their estimated residual value, over their expected useful lives on the following bases:
+Computer Equipment
+20%
+2.4.
+Taxation
+Income tax expense represents the sum of the tax currently payable and deferred tax.
+The tax currently payable is based on taxable profit for the year. Taxable profit differs from profit as reported in the statement of comprehensive income because of items of income or expense that are taxable or deductible in other years and items that are never taxable or deductible. The company's liability for current tax is calculated using tax rates that have been enacted or substantively enacted by the end of the reporting period.
+Deferred tax is recognised on timing differences between the carrying amounts of assets and liabilities in the financial statements and the corresponding tax bases used in the computation of taxable profit. Deferred tax liabilities are generally recognised for all taxable timing differences. Deferred tax assets are generally recognised for all deductible temporary differences to the extent that it is probable that taxable profits will be available against which those deductible timing differences can be utilised. The carrying amount of deferred tax assets is reviewed at the end of each reporting period and reduced to the extent that it is no longer probable that sufficient taxable profits will be available to allow all or part of the asset to be recovered.
+Deferred tax assets and liabilities are measured at the tax rates that are expected to apply in the period in which the liability is settled or the asset realised, based on tax rates (and tax laws) that have been enacted or substantively enacted by the end of the reporting period. Deferred tax liabilities are presented within provisions for liabilities and deferred tax assets within debtors. The measurement of deferred tax liabilities and assets reflect the tax consequences that would follow from the manner in which the Company expects, at the end of the reporting period, to recover or settle the carrying amount of its assets and liabilities.
+Current or deferred tax for the year is recognised in profit or loss, except when they related to items that are recognised in other comprehensive income or directly in equity, in which case, the current and deferred tax is also recognised in other comprehensive income or directly in equity respectively.
+Page 3
+Page 4
+Park Education and Training Centre Limited
+Notes to the Financial Statements (continued)
+For The Year Ended 30 November 2023
+3.
+Average Number of Employees
+Average number of employees, including directors, during the year was:
+2023
+2022
+Office and administration
+3
+3
+Teaching Staff
+7
+5
+10
+8
+4.
+Tangible Assets
+Computer Equipment
+£
+Cost
+As at 1 December 2022
+7,331
+As at 30 November 2023
+7,331
+Depreciation
+As at 1 December 2022
+6,274
+Provided during the period
+872
+As at 30 November 2023
+7,146
+Net Book Value
+As at 30 November 2023
+185
+As at 1 December 2022
+1,057
+5.
+Debtors
+2023
+2022
+£
+£
+Due within one year
+Trade debtors
+69,226
+63,485
+6.
+Creditors: Amounts Falling Due Within One Year
+2023
+2022
+£
+£
+Bank loans and overdrafts
+-
+9,008
+Corporation tax
+16,402
+15,763
+Credit Card Account
+7,674
+253
+24,076
+25,024
+7.
+Creditors: Amounts Falling Due After More Than One Year
+2023
+2022
+£
+£
+Bank loans
+26,897
+35,042
+8.
+Share Capital
+2023
+2022
+£
+£
+Allotted, Called up and fully paid
+3
+3
+Page 4

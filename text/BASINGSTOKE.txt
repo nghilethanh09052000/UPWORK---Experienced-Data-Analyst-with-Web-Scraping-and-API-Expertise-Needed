@@ -1,0 +1,977 @@
+REGISTERED COMPANY NUMBER: 02868750 (England and Wales)
+REGISTERED CHARITY NUMBER: 1029526
+
+Report of the Trustees and
+Unaudited Financial Statements
+for the Year Ended 31 July 2024
+
+for
+
+Basingstoke ITEC Limited
+
+Turner & Co
+Chartered Accountants
+10a White Hart Parade
+
+London Road
+
+Blackwater
+Camberley
+Surrey
+GU17 9AD
+
+Basingstoke ITEC Limited
+
+Contents of the Financial Statements
+for the Year Ended 31 July 2024
+
+Reference and Administrative Details
+Chairman's Report
+
+Report of the Trustees
+
+Independent Examiner's Report
+Statement of Financial Activities
+Balance Sheet
+
+Notes to the Financial Statements
+
+14 to
+
+16 to
+
+Basingstoke ITEC Limited
+
+Reference and Administrative Details
+for the Year Ended 31 July 2024
+
+TRUSTEES
+
+REGISTERED OFFICE
+
+REGISTERED COMPANY
+NUMBER
+
+REGISTERED CHARITY
+NUMBER
+
+INDEPENDENT EXAMINER
+
+SOLICITORS
+
+M Jones
+
+H Putty (resigned 26.4.24)
+
+Ms M L Hart (resigned 26.4.24)
+
+M Garvey Trustee
+
+J D Lance Trustee (resigned 26.4.24)
+K M Easton (appointed 26.3.24)
+
+T Rogers (appointed 19.7.24)
+
+MD Roberts (appointed 26.4.24)
+
+Biz Space
+Basing View
+Basingstoke
+Hampshire
+RG21 4HG
+
+02868750 (England and Wales)
+
+1029526
+
+Turner & Co
+
+Chartered Accountants
+10a White Hart Parade
+London Road
+Blackwater
+Camberley
+
+Surrey
+
+GU17 9AD
+
+gunnercooke LLP
+1 Cornhill
+London
+
+EC3V 3ND
+
+Page |
+
+BANKERS
+
+Basingstoke ITEC Limited
+
+Reference and Administrative Details
+for the Year Ended 31 July 2024
+
+Page 2
+
+Metro Bank
+Unit 1
+Chiswick House
+Festival Place
+Basingstoke
+RG21 7LD
+
+Basingstoke ITEC Limited
+
+Chairman's Report
+for the Year Ended 31 July 2024
+
+This is my first report as Chair of Trustees at Basingstoke ITEC having succeeded Maxine Hart who was a
+highly effective and well-liked leader for the charity during an especially demanding period of financial
+rectitude and Ofsted inspection. I'd like to thank Maxine and indeed all our previous trustees for their
+stewardship in guiding Basingstoke ITEC to the eve of its 40th birthday in 2025.
+
+Small charitable providers like Basingstoke ITEC are fast disappearing from our skills landscape which is a
+shame as they provide carefully planned programmes to local learners often with an increased focus on
+wellbeing. As providers like us disappear, it is remarkable that Basingstoke ITEC has continued to flourish
+despite a very challenging economic and skills funding landscape which so often benefits larger commercial
+enterprise than the not-for-profile sector. That is not to say that the charity hasn't experienced severe
+challenges this last year. We have reorganized our workforce and adapted our strategy to better equip us to
+navigate the financial headwinds we've faced for some years. While some of this change has been difficult
+for us, it has resulted in a leaner and more consolidated offer in which we specialize in IT apprenticeships
+while diversifying into other emerging digilal opportunities. Financially, the charity returned its first
+operating surplus in some years and looks ahead with renewed confidence.
+
+The team at Basingstoke ITEC have secured new contracts to support the apprenticeship programme of a
+world-renowned international IT company, a contract to be the preferred IT trainer for a world class
+university and won tenders to deliver IT training for new county councils. The organisation's commitment to
+quality is also reflected in our apprenticeship achievement rates which are significantly above the national
+average. This is evidence of the carefully designed programmes, high quality advice & guidance and expert
+teaching that our learners enjoy. Learners continue to feel safe and valued both in learning and in their
+workplaces and are motivated to achieve merits or distinctions in the apprenticeship standards.
+
+This year we welcomed two new trustees, Tom Rogers and Tina Easton. Tom has a wealth of experience in
+the apprenticeship sector. His knowledge of the sector will be of great assistance to the board and the CEO.
+Tina has worked for many years in the IT Sector having had a successful career at IBM. Her knowledge of
+IT companies and business development will provide great support to the board and the CEO
+
+We said goodbye to Jordan Lance and Dan Putty. Jordan has been a supportive of ITEC as a trustee and was
+an ex-apprentice of ITEC so brought a unique view to his role. We wish him luck in his new role as a
+director with a new company. After an incredible 20 years we said goodbye to Dan, Dan joined the board of
+trustees in October 1994 and has enabled and supported the growth and development of ITEC. His
+experience as a magistrate and a local councillor enabled him to provide knowledge and guidance to ITEC in
+many challenging areas.
+
+‘The future for our learners, employers and other stakeholders looks very promising. We shall continue to be
+at the heart of Basingstoke supporting young people as well as working with employers further afield who
+want to access our highly specialist IT training services. We will continue to deliver high quality outcomes
+for our apprentices while also diversifying our offer to keep us relevant in a fast moving digital economy.
+
+Page 3
+
+Basingstoke ITEC Limited (Registered number: 02868750)
+
+Report of the Trustees
+for the Year Ended 31 July 2024
+
+Basingstoke ITEC was established in 1985 and was a division of the Basingstoke Youth Action Trust Ltd (a
+registered charity), to offer all young people, irrespective of their academic record or social issues a chance
+to fulfil their potential. In 2017 the BYAT name was removed.
+
+There is a Board of Trustees, this includes non-salaried Directors, Secretary, and a Chairman.
+
+Basingstoke ITEC specialises in the delivery of Business Services with a particular focus on Information
+Technology and Digital Skills. A range of apprenticeships standards are provided to meet the local and
+national skill shortages.
+
+The Local Enterprise Partnerships have listed digital skills, analytical and in particular cyber security and
+software development as priority subjects for the country and in particular the regional M3 corridor and
+Thames Valley in which ITEC predominantly operate. Additional data continues to demonstrate significant
+digital and IT skills shortages for the M3 corridor, Thames Valley and across the home counties. The
+number of jobs is increasing each quarter and salaries are increasing faster than other occupations, however
+this significantly slowed in the last quarter of this academic year.
+
+The trustees with the support of the Chief Executive Officer have a vision and strategic priorities to create a
+curriculum based on the skills shortages for the employers we aim to serve.
+
+Our curriculum offer is developed in conjunction with our vision, mission and strategic priorities that are
+approved by our trustees and are developed to meet recognised and recorded skills shortages and needs of
+the employers we support.
+
+Page 4
+
+Basingstoke ITEC Limited (Registered number: 02868750)
+
+Report of the Trustees
+for the Year Ended 31 July 2024
+
+OBJECTIVES AND ACTIVITIES
+
+Objectives and activities
+
+The Charity's aims, and differences it seeks to make through its activities.
+
+The advancement, education, and training of young people (and the upskilling of older workers)
+
+through the development of their IT and business skills thus providing a solid foundation for their future
+careers.
+
+The Charity's strategies for achieving these aims.
+
+Supporting the recruitment and training of apprentices for learners in skill shortage areas such as IT and
+business-related areas.
+
+The advancement, education, and training of adults on selected courses only. We will provide enrichment
+training courses in addition to the apprenticeship.
+
+requirements. Including mental health, sexual health, sexual harassment, and career development.
+Achievement of these objectives encourages employers to retain apprenticeship learners and to integrate
+them into their companies.
+
+Allowing companies to retain and grow which allows us to draw down planned Education and Skills
+Funding Agency ("EFSA")
+
+Maximising EFSA funding and procuring income from non levy payers, levy payers, through levy transfer,
+and our subcontract account with West Berkshire Training Consortium.
+
+The significant activities undertaken to contribute to the achievement of the aims and objectives.
+
+The company trains and finds employment for approximately 60 apprentices' a year in Information
+communication technician, IT solutions, Cyber Security, Digital Support technician, IT Salesperson,
+Business Administration, and Digital Marketing.
+
+The directors have paid due regard to guidance issued by the Charity Commission in deciding what activities
+the company should undertake and the measures it uses to assess success against planned aims.
+
+The achievement and performance of the strategic priorities, aims and objectives are reviewed at board
+meetings and measured against the ESFA contract and associated agencies performance measures.
+
+The company is funded by the ESFA depending on how many apprentices are recruited by the
+
+employers we create relationships with. The amount we can draw down for apprenticeships is based on the
+number of employers we can contract with to deliver apprenticeships for their staff. There are many external
+factors beyond the control of the organisation that can affect the number of apprenticeships we deliver. This
+can include the wider economy and government policies.
+
+All Apprenticeship standards have different funding levels which are decided by the ESFA in consultation
+with Institute for apprenticeships.
+
+The organisation has a strategy document in place which sets out the steps needed to achieve its aims,
+including targets for tendering, recruiting apprentices and trainees, both levy
+
+and non-levy, obtaining transfers of unspent levy funding. The board review progress against these targets
+monthly.
+
+The organisation has a marketing strategy which sets expectations for the regular business.
+
+Page 5
+
+Basingstoke ITEC Limited (Registered number: 02868750)
+
+Report of the Trustees
+for the Year Ended 31 July 2024
+
+development activities and promotion of the ITEC brand to levy and non-levy employers including a social
+media strategy, and continuous development of the website. The board review progress against these targets
+at quarterly board meeting.
+
+Public benefit
+
+In reviewing the reporting year and considering objectives for the year ahead the Trustees have
+
+had regard to the Charity Commission guidance on public benefit and the duty under S 17(5) of
+
+the Charities Act 2011 and confirm that that public benefit is being achieved by:
+
+" Delivering technical digital learning to 60 apprentices
+
+" Demonstrating and outstanding pass rate of 100% and an achievement rate of 69%
+
+" Developing new curriculums and programmes to support known skills shortages.
+
+" During 2022/24 we continued to use our hardship fund to support young learners, this included providing
+food parcels, laptops and additional software to support learning.
+
+ACHIEVEMENT AND PERFORMANCE
+
+Charitable activities
+
+The aims of the company in training young people were vigorously pursued in line with our objectives and
+those of the Education and Skills Funding Agency. 28 learners were enrolled during the accounting period.
+Although the number of enrolments are down this is offset by higher funding levels for each enrolment.
+
+75% of new learner starts is repeat business. 75% of our starts are from levy paying organisation and 25%
+from SMEs.
+
+The overall completion rate for this accounting period is 69%; this is compared a national average of 51%.
+Our retention rate 66% is compared to the national average of 53%. This is distorted by low numbers Digital
+Marketer for example has a retention rate of 100% , but ICT (4 people had a retention rate of 50%).
+
+The aims of the company in training young people were vigorously pursued in line with our objectives and
+those of the Education and Skills Funding Agency.
+
+CASE STUDIES
+
+Sally - Joined us as a Digital Marketer apprentice in 2020 working with a small military charity. After
+studying hard, Sally achieved a distinction and went on to secure a marketing role with Mamma Mia.
+
+Jordan - Joined us as an ICT apprentice in 2019, he achieved a pass in 2020 and progressed to a Level 4
+Cyber Security apprenticeship and secured a great role in the industry.
+
+Sundas - Joined as an IT Solutions apprentice in 2021 and achieved a distinction, At the end of her
+apprenticeship, she was offered a role with Google.
+
+Jack - Joined as Software Developer apprentice, unfortunately Jack was made redundant in the spring of
+2023. Through support of food parcels, travel expenses and a new laptop from Basingstoke ITEC Jack was
+able to complete his apprenticeship and secure a new role.
+
+Page 6
+
+Basingstoke ITEC Limited (Registered number: 02868750)
+
+Report of the Trustees
+for the Year Ended 31 July 2024
+
+FINANCIAL REVIEW
+
+Financial position
+
+Financial position Against the backdrop of limited resources and uncertainties over funding, it is difficult to
+plan more than one year ahead. At the year end the company had net assets of £116,597 and made a profit/
+(loss) of £2,691 (2023(55,164)). Accordingly, the Board of Management had to implement a redundancy
+plan to assure the long-term survival of the charity. The have had regular monthly meetings and are
+confident that the outlook is more positive
+
+Employers
+
+Employer contributions count for approximately 1.1% of our annual income and we received.
+Approximately 14.9% of income through delivery of subcontracted contracts.
+
+The company plans continuing the activities outlined above in the forthcoming years subject to
+
+satisfactory funding arrangements.
+
+The directors meet quarterly and are updated regularly on the surplus and deficit and the effects of the new
+funding and are confident of that although the next year might be challenging the projections are looking
+favourable and will be constantly monitored. For the coming year.,
+
+Reserves policy
+
+The reserves policy for the company is to hold 3-6 month's expenditure as free reserves. Currently reserves
+are within this range.
+
+There are two sources of funding: Education Skills Funding Agency. Around 84% of our funding comes
+from the ESFA, this funding is paid on the number of learners in training and the outcomes of these learners.
+
+FUTURE PLANS
+New trustees (once DBS checked) will also be invited to meet the learners to gain a good understanding of
+our client base and their needs.
+
+STRUCTURE, GOVERNANCE AND MANAGEMENT
+
+Governing document
+
+The charity is controlled by its governing document, a deed of trust, and constitutes a limited company,
+limited by guarantee, as defined by the Companies Act 2006.
+
+Page 7
+
+Basingstoke ITEC Limited (Registered number: 02868750)
+
+Report of the Trustees
+for the Year Ended 31 July 2024
+
+The charity is controlled by its governing document, a deed of trust, and constitutes a limited company,
+limited by guarantee, as defined by the Companies Act 2006.
+
+The charity is a Charitable Incorporated Organisation, registered on 3rd November 1993. It is governed by
+its constitution. The charity is controlled by its governing document, a deed of trust, and constitutes a limited
+company, limited by guarantee, as defined by the Companies Act 2006.
+
+The charity is controlled by its governing document, a deed of trust, and constitutes a limited.
+
+company, limited by guarantee, as defined by the Companies Act 2006.
+
+The organisation is a registered charity number 1029526 started in 1984 and incorporated on 3rd November
+1993.
+
+The company was established under a Memorandum and Articles of Association, which set out the
+objectives and rules of the company. In the event of the company being wound up members are required to
+contribute an amount not exceeding £1.
+
+Trustees
+
+The Trustees meet at least quarterly, to discuss matters affecting the charity, review the financial position of
+the charity, and review the charity's activities and performance against its objectives.
+
+New trustees may be put forward by current trustees and are considered according to relevant experience,
+qualifications, or specialist knowledge.
+
+Potential risks of all events, projects and engagements are carefully considered as part of the
+
+charity's standard governance procedures, and suitable oversight and contracts are put in place.
+
+The charity takes out an annual Public Liability and professional indemnity insurance policy.
+
+The directors who served during the year and up to the end of the year were as follows:
+
+M Jones
+
+H Putty Resigned April 2024
+
+M Garvey Chairman
+
+M Roberts Appointed April 2024
+Maxine Hart Resigned April 2024
+T Rogers Appointed July 2024
+
+T Easton Appointed March 2024
+J D Lance Resigned April 2024
+
+Recruitment and appointment of directors
+
+The directors of the company are also the trustees for the purpose of Charity Law. The company is governed
+by a Board of Management. Members are elected to serve for a period of one year after which they must be
+re-elected at the next Annual General Meeting. Recruitment of new members is carried out by the existing
+members and the aim is to include a balance of members, for example: business, local council and other
+interested parties. We also try to ensure we represent the community in terms of equality and diversity.
+
+Qualifying third party indemnity provisions
+
+The company has made qualifying third-party indemnity provisions for the benefit of its directors during the
+year. These provisions remain in force at the reporting date.
+
+Page 8
+
+Basingstoke ITEC Limited (Registered number: 02868750)
+
+Report of the Trustees
+for the Year Ended 31 July 2024
+
+STRUCTURE, GOVERNANCE AND MANAGEMENT
+
+Recruitment and appointment of directors
+
+The directors of the company are also the trustees for the purpose of Charity Law. The company is governed
+by a Board of Management. Members are elected to serve for a period of one year after which they must be
+re-elected at the next Annual General Meeting. Recruitment of new members is carried out by the existing
+members and the aim is to include a balance of members, for example: business, local council and other
+interested parties. We also try to ensure we represent the community in terms of equality and diversity.
+
+Qualifying third party indemnity provisions
+The company has made qualifying third-party indemnity provisions for the benefit of its directors during the
+year. These provisions remain in force at the reporting date.
+
+Organisational structure
+
+At present Basingstoke ITEC Limited has a Board of Management of six members (2022 -six), which
+includes the Chair. The Board of Management have delegated the day-to-day responsibilities of the
+company to the Chief Executive Office (Mr Mark Hammond). The Board of Management meets every
+quarter, and the Chairman meets with the CEO every four weeks to discuss day to day issues.
+
+Management
+
+The organisation is operationally managed by the Chief Executive Officer (Mark Hammond).
+
+Remuneration
+
+The trustees approve renumeration for annual salary increases, and new staff (when required).
+
+Policies
+
+The following policies are in place and reviewed at least annually or when changes are made to working
+practices or agency rules. The trustees are committed to the pastoral care and safeguarding of staff and
+learners.
+
+Main policies
+
+" Safeguarding and Prevent
+
+" Health and Safety
+
+" Complaints
+
+" Subcontracting Strategy and Provision Overview
+
+"TTEC continuity Plan
+
+" Equality and Diversity Inclusion Plan
+
+" ICT acceptable use policy for staff and learners
+
+" Anti-Harassment Policy
+
+" Data Protection
+
+All policies can be found on our website. www.basingstokeitec.co.uk
+
+Page 9
+
+Basingstoke ITEC Limited (Registered number: 02868750)
+
+Report of the Trustees
+for the Year Ended 31 July 2024
+
+STRUCTURE, GOVERNANCE AND MANAGEMENT
+Induction and training of new trustees
+
+All new trustees attend induction training, which is carried out by the manager of the company.
+This includes the following:
+
+Background of the company
+
+Obligation of Board of Management Committee Members
+Accounts
+
+Current statistics
+
+Safeguarding Training
+
+Criminal and DBS checks
+
+Strategic and Marketing aims.
+
+Related parties
+
+Most funding is received from central Government (via the Education Skills Funding Agency). This is the
+main partner of the company. Other parties are local employers who work with our learners and the local
+council Basingstoke and Deane Borough Council.
+
+Approved by order of the board of trustees on 7 March 2025 and signed on its behalf by:
+
+M Garvey - Trustee
+
+Page 10
+
+Independent Examiner's Report to the Trustees of
+Basingstoke ITEC Limited
+
+Independent examiner's report to the trustees of Basingstoke ITEC Limited (‘the Company')
+T report to the charity trustees on my examination of the accounts of the Company for the year ended 31 July
+2024.
+
+Responsibilities and basis of report
+
+As the charity's trustees of the Company (and also its directors for the purposes of company law) you are
+responsible for the preparation of the accounts in accordance with the requirements of the Companies Act
+2006 (‘the 2006 Act’).
+
+Having satisfied myself that the accounts of the Company are not required to be audited under Part 16 of the
+2006 Act and are eligible for independent examination, | report in respect of my examination of your
+charity's accounts as carried out under Section 145 of the Charities Act 2011 (‘the 2011 Act’). In carrying out
+my examination I have followed the Directions given by the Charity Commission under Section 145(5) (b)
+of the 2011 Act.
+
+Page 11
+
+Independent Examiner's Report to the Trustees of
+Basingstoke ITEC Limited
+
+Independent examiner's statement
+
+Since your charity's gross income exceeded £250,000 your examiner must be a member of a listed body. I
+can confirm that I am qualified to undertake the examination because I am a member of the Institute of
+Chartered Accountants in England and Wales, which is one of the listed bodies.
+
+I have completed my examination. I confirm that no matters have come to my attention in connection with
+the examination giving me cause to believe:
+
+1.
+
+tod
+
+accounting records were not kept in respect of the Company as required by Section 386 of the 2006
+Act; or
+
+the accounts do not accord with those records; or
+
+the accounts do not comply with the accounting requirements of Section 396 of the 2006 Act other
+than any requirement that the accounts give a true and fair view which is not a matter considered as
+part of an independent examination; or
+
+the accounts have not been prepared in accordance with the methods and principles of the Statement
+of Recommended Practice for accounting and reporting by charities (applicable to charities preparing
+their accounts in accordance with the Financial Reporting Standard applicable in the UK and
+Republic of Ireland (FRS 102)).
+
+I have no concerns and have come across no other matters in connection with the examination to which
+attention should be drawn in this report in order to enable a proper understanding of the accounts to be
+reached.
+
+Margaret Turner
+
+Turner & Co
+Chartered Accountants
+10a White Hart Parade
+London Road
+Blackwater
+Camberley
+
+Surrey
+
+GU17 9AD
+
+7 March 2025
+
+Page 12
+
+INCOME AND ENDOWMENTS
+Charitable activities
+Charitable activities
+
+EXPENDITURE ON
+Charitable activities
+Charitable activities
+
+Other
+Total
+
+NET INCOME/(EXPENDITURE)
+RECONCILIATION OF FUNDS
+Total funds brought forward
+
+TOTAL FUNDS CARRIED
+FORWARD
+
+The notes form part of these financial statements
+
+Basingstoke ITEC Limited
+
+Statement of Financial Activities
+for the Year Ended 31 July 2024
+
+Notes
+FROM
+
+Page 13
+
+31.7.24 31.7.23
+Unrestricted Total
+fund funds
+£ £
+322,793 354,227
+320,100 409,391
+2 -
+320,102 409,391
+2,691 (55,164)
+113,906 169,070
+116,597 113,906
+
+
+Basingstoke ITEC Limited (Registered number:
+
+Balance Sheet
+
+02868750)
+
+31 July 2024
+31.7.24 31.7.23
+Unrestricted Total
+fund funds
+Notes £ £
+FIXED ASSETS
+Tangible assets 6 36 566
+CURRENT ASSETS
+Debtors 7 48,779 45,282
+Cash at bank 97,940 92,888
+146,719 138,170
+CREDITORS
+Amounts falling due within one year 8 (30,158) (24,830)
+NET CURRENT ASSETS 116,561 113,340
+TOTAL ASSETS LESS CURRENT
+LIABILITIES 116,597 113,906
+NET ASSETS 116,597 113,906
+FUNDS 9
+Unrestricted funds 116,597 113,906
+TOTAL FUNDS 116,597 113,906
+
+The charitable company is entitled to exemption from audit under Section 477 of the Companies Act 2006
+
+for the year ended 31 July 2024.
+
+The members have not required the company to obtain an audit of its financial statements for the year ended
+
+31 July 2024 in accordance with Section 476 of the Companies Act 2006.
+
+The notes form part of these financial statements
+
+Page 14 continued...
+
+Basingstoke ITEC Limited (Registered number: 02868750)
+
+Balance Sheet - continued
+31 July 2024
+
+The trustees acknowledge their responsibilities for
+
+(a) — ensuring that the charitable company keeps accounting records that comply with Sections 386 and
+387 of the Companies Act 2006 and
+
+(b) preparing financial statements which give a true and fair view of the state of affairs of the charitable
+company as at the end of each financial year and of its surplus or deficit for each financial year in
+accordance with the requirements of Sections 394 and 395 and which otherwise comply with the
+requirements of the Companies Act 2006 relating to financial statements, so far as applicable to the
+charitable company.
+
+These financial statements have been prepared in accordance with the provisions applicable to charitable
+companies subject to the small companies regime.
+
+The financial statements were approved by the Board of Trustees and authorised for issue on 7 March 2025
+and were signed on its behalf by:
+
+M Garvey - Trustee
+
+The notes form part of these financial statements
+
+Page 15
+
+Basingstoke ITEC Limited
+
+Notes to the Financial Statements
+for the Year Ended 31 July 2024
+
+ACCOUNTING POLICIES
+
+Basis of preparing the financial statements
+
+The financial statements of the charitable company, which is a public benefit entity under FRS 102,
+have been prepared in accordance with the Charities SORP (FRS 102) ‘Accounting and Reporting by
+Charities: Statement of Recommended Practice applicable to charities preparing their accounts in
+accordance with the Financial Reporting Standard applicable in the UK and Republic of Ireland (FRS
+102) (effective | January 2019)', Financial Reporting Standard 102 'The Financial Reporting Standard
+applicable in the UK and Republic of Ireland’ and the Companies Act 2006. The financial statements
+have been prepared under the historical cost convention.
+
+Income
+All income is recognised in the Statement of Financial Activities once the charity has entitlement to
+the funds, it is probable that the income will be received and the amount can be measured reliably.
+
+Expenditure
+
+Liabilities are recognised as expenditure as soon as there is a legal or constructive obligation
+committing the charity to that expenditure, it is probable that a transfer of economic benetits will be
+required in settlement and the amount of the obligation can be measured reliably. Expenditure is
+accounted for on an accruals basis and has been classified under headings that aggregate all cost
+related to the category. Where costs cannot be directly attributed to particular headings they have been
+allocated to activities on a basis consistent with the use of resources.
+
+Tangible fixed assets
+Depreciation is provided at the following annual rates in order to write off each asset over its
+estimated useful life.
+
+Fixtures and fittings - 20% on cost
+Computer equipment - 33% on cost
+Taxation
+
+The charity is exempt from corporation tax on its charitable activities.
+
+Fund accounting
+Unrestricted funds can be used in accordance with the charitable objectives at the discretion of the
+trustees.
+
+Restricted funds can only be used for particular restricted purposes within the objects of the charity.
+Restrictions arise when specified by the donor or when funds are raised for particular restricted
+
+purposes.
+
+Further explanation of the nature and purpose of each fund is included in the notes to the financial
+statements.
+
+Page 16 continued...
+
+Basingstoke ITEC Limited
+
+Notes to the Financial Statements - continued
+for the Year Ended 31 July 2024
+
+ACCOUNTING POLICIES - continued
+
+Hire purchase and leasing commitments
+Rentals paid under operating leases are charged to the Statement of Financial Activities on a straight
+line basis over the period of the lease.
+
+Pension costs and other post-retirement benefits
+
+The charitable company operates a defined contribution pension scheme. Contributions payable to the
+charitable company's pension scheme are charged to the Statement of Financial Activities in the
+period to which they relate.
+
+NET INCOME/(EXPENDITURE)
+
+Net income/(expenditure) is stated after charging/(crediting):
+
+31.7.24 31.7.23
+
+£ £
+Depreciation - owned assets 529 970
+Other operating leases 18,648 38,791
+
+TRUSTEES' REMUNERATION AND BENEFITS
+
+There were no trustees’ remuneration or other benefits for the year ended 31 July 2024 nor for the
+year ended 31 July 2023.
+
+Trustees' expenses
+
+There were no trustees’ expenses paid for the year ended 31 July 2024 nor for the year ended 31 July
+2023.
+
+Page 17 continued...
+
+Basingstoke ITEC Limited
+
+Notes to the Financial Statements - continued
+for the Year Ended 31 July 2024
+
+STAFF COSTS
+The average monthly number of employees during the year was as follows:
+
+31.7.24 31.7.23
+Administration 5 9
+
+No employees received emoluments in excess of £60,000.
+
+COMPARATIVES FOR THE STATEMENT OF FINANCIAL ACTIVITIES
+Unrestricted
+
+fund
+£
+
+INCOME AND ENDOWMENTS FROM
+Charitable activities
+Charitable activities 354,227
+EXPENDITURE ON
+Charitable activities
+Charitable activities 409,391
+NET INCOME/(EXPENDITURE) (55,164)
+RECONCILIATION OF FUNDS
+Total funds brought forward 169,070
+TOTAL FUNDS CARRIED
+FORWARD 113,906
+
+Page 18 continued...
+
+Basingstoke ITEC Limited
+
+Notes to the Financial Statements - continued
+for the Year Ended 31 July 2024
+
+TANGIBLE FIXED ASSETS
+Fixtures
+and Computer
+fittings equipment Totals
+£ £ £
+COST
+At | August 2023 1,166 17,545 18,711
+Disposals (36) (73) (109)
+At 31 July 2024 1,130 17,472 18,602
+DEPRECIATION
+At | August 2023 1,166 16,979 18,145
+Charge for year - 529 529
+Eliminated on disposal (36) (72) (108)
+At 31 July 2024 1,130 17,436 18,566
+NET BOOK VALUE
+At 31 July 2024 - 36 36
+At 31 July 2023 - 566 566
+DEBTORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+31.7.24 31.7.23
+£ £
+Trade debtors 40,243 25,434
+Deferred income 3,923 6,756
+Prepayments 4,613 13,092
+48,779 45,282
+Page 19 continued...
+
+Basingstoke ITEC Limited
+
+Notes to the Financial Statements - continued
+for the Year Ended 31 July 2024
+
+CREDITORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+
+31.7.24 31.7.23
+£ £
+Trade creditors 14,090 9,087
+Accruals and deferred income 1,012 3,775
+Accrued expenses 15,056 11,968
+30,158 24,830
+MOVEMENT IN FUNDS
+Net
+movement At
+At 1.8.23 in funds 31.7.24
+£ £ £
+Unrestricted funds
+General fund 113,906 2,691 116,597
+TOTAL FUNDS 113,906 2,691 116,597
+Net movement in funds, included in the above are as follows:
+Incoming Resources Movement
+resources expended in funds
+£ £ £
+Unrestricted funds
+General fund 322,793 (320,102) 2,691
+TOTAL FUNDS 322,793 (320,102) 2,691
+Comparatives for movement in funds
+Net
+movement At
+At 1.8.22 in funds 31.7.23
+£ £ £
+Unrestricted funds
+General fund 169,070 (55,164) 113,906
+TOTAL FUNDS 169,070 (55,164) 113,906
+Page 20 continued...
+
+Basingstoke ITEC Limited
+
+Notes to the Financial Statements - continued
+for the Year Ended 31 July 2024
+
+MOVEMENT IN FUNDS - continued
+
+Comparative net movement in funds, included in the above are as follows:
+
+Incoming Resources Movement
+resources expended in funds
+£ £ £
+Unrestricted funds
+General fund 354,227 (409,391) (55,164)
+TOTAL FUNDS 354,227 (409,391) (55,164)
+A current year 12 months and prior year 12 months combined position is as follows:
+Net
+movement At
+At 1.8.22 in funds 31.7.24
+£ £ £
+Unrestricted funds
+General fund 169,070 (52,473) 116,597
+TOTAL FUNDS 169,070 (52,473) 116,597
+
+A current year 12 months and prior year 12 months combined net movement in funds, included in the
+
+above are as follows:
+
+Incoming Resources Movement
+resources expended in funds
+£ £ £
+Unrestricted funds
+General fund 677,020 (729,493) (52,473)
+TOTAL FUNDS 677,020 (729,493) (52,473)
+Page 21 continued...
+
+10.
+
+Basingstoke ITEC Limited
+
+Notes to the Financial Statements - continued
+for the Year Ended 31 July 2024
+
+RELATED PARTY DISCLOSURES
+Remuneration of key management personnel
+
+The remuneration of key personnel is as follows:
+
+Aggregate compensation 2024 £ 54,610 2023 £ 50,490
+
+Page 22
+
+This document was delivered using electronic communications and authenticated in
+accordance with the registrar's rules relating to electronic form, authentication and
+manner of delivery under section 1072 of the Companies Act 2006.
+

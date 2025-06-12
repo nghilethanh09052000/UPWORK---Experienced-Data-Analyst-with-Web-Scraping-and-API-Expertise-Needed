@@ -1,0 +1,2870 @@
+{
+  "data": {
+    "data": {
+      "searchDashClustersByAll": {
+        "metadata": {
+          "entityResultAttributes": null,
+          "bserpPaginationContext": null,
+          "totalResultCount": 66,
+          "searchAlert": null,
+          "secondaryFilterCluster": null,
+          "$recipeTypes": [
+            "com.linkedin.dfce49e2c6bb412fb4161cbbc7190d0d"
+          ],
+          "lazyRightRail": null,
+          "queryType": null,
+          "$type": "com.linkedin.voyager.dash.search.SearchClusterCollectionMetadata",
+          "primaryResultType": "COMPANIES",
+          "paginationToken": null,
+          "primaryFilterCluster": null,
+          "blockedQuery": false,
+          "entityActionButtonStyle": null,
+          "searchId": "a2107de0-24e3-4d69-b970-27f9c8b18cbc",
+          "filterAppliedCount": 0,
+          "clusterTitleFontSize": null,
+          "simpleInsightAttributes": null,
+          "desktopNavigationPanelTrackingId": null,
+          "knowledgeCardRightRail": null
+        },
+        "paging": {
+          "count": 10,
+          "start": 0,
+          "total": 66,
+          "$recipeTypes": [
+            "com.linkedin.81b214c2cdd4f02cdb7d827958d2f3a1"
+          ],
+          "$type": "com.linkedin.restli.common.CollectionMetadata"
+        },
+        "$recipeTypes": [
+          "com.linkedin.5f1d22f924ecb6a031ee124b8b767900"
+        ],
+        "elements": [
+          {
+            "image": null,
+            "quickFilterActions": [],
+            "clusterRenderType": "LIST",
+            "dismissable": false,
+            "totalResultCount": null,
+            "controlName": null,
+            "description": null,
+            "title": null,
+            "$recipeTypes": [
+              "com.linkedin.5c853aba2154c55483e72bf6cdfaaf3e"
+            ],
+            "$type": "com.linkedin.voyager.dash.search.SearchClusterViewModel",
+            "actionTypeName": null,
+            "navigationText": null,
+            "feature": null,
+            "navigationCardAction": null,
+            "position": 1,
+            "items": [
+              {
+                "item": {
+                  "entityResult": null,
+                  "cluster": null,
+                  "bannerCard": null,
+                  "searchAlert": null,
+                  "upsellSlot": null,
+                  "coachRealtimeResponse": null,
+                  "searchSuggestionCard": null,
+                  "coachPromptCluster": null,
+                  "feedbackCard": null,
+                  "knowledgeCardV2": null,
+                  "keywordsSuggestionCard": null,
+                  "queryClarificationCard": null,
+                  "topicalQuestionCard": null,
+                  "simpleTextV2": {
+                    "showDashes": false,
+                    "textAlignment": "LEFT",
+                    "numDashes": 0,
+                    "text": {
+                      "textDirection": "USER_LOCALE",
+                      "text": "66 results",
+                      "attributesV2": [],
+                      "accessibilityTextAttributesV2": [],
+                      "accessibilityText": null,
+                      "$recipeTypes": [
+                        "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+                      ],
+                      "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                    },
+                    "$recipeTypes": [
+                      "com.linkedin.5bbb553a55f0e4d13343716ac69b5f48"
+                    ],
+                    "$type": "com.linkedin.voyager.dash.search.SimpleText"
+                  },
+                  "promoCard": null,
+                  "searchFeedUpdate": null,
+                  "searchQuestionAndAnswerCard": null,
+                  "centeredText": null,
+                  "simpleImage": null
+                },
+                "position": 1,
+                "$recipeTypes": [
+                  "com.linkedin.edd11a570456ce19ca1f5ec3c9bb03c1"
+                ],
+                "$type": "com.linkedin.voyager.dash.search.SearchItem"
+              }
+            ],
+            "results": [],
+            "trackingId": "p\u0017\u0012rk\u0013H\u0015\u0085,<\u0017\t\u00b6\u000bC"
+          },
+          {
+            "image": null,
+            "quickFilterActions": [],
+            "clusterRenderType": "LIST",
+            "dismissable": false,
+            "totalResultCount": null,
+            "controlName": null,
+            "description": null,
+            "title": null,
+            "$recipeTypes": [
+              "com.linkedin.5c853aba2154c55483e72bf6cdfaaf3e"
+            ],
+            "$type": "com.linkedin.voyager.dash.search.SearchClusterViewModel",
+            "actionTypeName": null,
+            "navigationText": null,
+            "feature": null,
+            "navigationCardAction": null,
+            "position": 2,
+            "items": [
+              {
+                "item": {
+                  "cluster": null,
+                  "bannerCard": null,
+                  "searchAlert": null,
+                  "upsellSlot": null,
+                  "coachRealtimeResponse": null,
+                  "searchSuggestionCard": null,
+                  "coachPromptCluster": null,
+                  "feedbackCard": null,
+                  "knowledgeCardV2": null,
+                  "keywordsSuggestionCard": null,
+                  "queryClarificationCard": null,
+                  "topicalQuestionCard": null,
+                  "*entityResult": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_company:4553415,SEARCH_SRP,DEFAULT)",
+                  "simpleTextV2": null,
+                  "promoCard": null,
+                  "searchFeedUpdate": null,
+                  "searchQuestionAndAnswerCard": null,
+                  "centeredText": null,
+                  "simpleImage": null
+                },
+                "position": 1,
+                "$recipeTypes": [
+                  "com.linkedin.edd11a570456ce19ca1f5ec3c9bb03c1"
+                ],
+                "$type": "com.linkedin.voyager.dash.search.SearchItem"
+              },
+              {
+                "item": {
+                  "cluster": null,
+                  "bannerCard": null,
+                  "searchAlert": null,
+                  "upsellSlot": null,
+                  "coachRealtimeResponse": null,
+                  "searchSuggestionCard": null,
+                  "coachPromptCluster": null,
+                  "feedbackCard": null,
+                  "knowledgeCardV2": null,
+                  "keywordsSuggestionCard": null,
+                  "queryClarificationCard": null,
+                  "topicalQuestionCard": null,
+                  "*entityResult": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_company:11292013,SEARCH_SRP,DEFAULT)",
+                  "simpleTextV2": null,
+                  "promoCard": null,
+                  "searchFeedUpdate": null,
+                  "searchQuestionAndAnswerCard": null,
+                  "centeredText": null,
+                  "simpleImage": null
+                },
+                "position": 2,
+                "$recipeTypes": [
+                  "com.linkedin.edd11a570456ce19ca1f5ec3c9bb03c1"
+                ],
+                "$type": "com.linkedin.voyager.dash.search.SearchItem"
+              },
+              {
+                "item": {
+                  "entityResult": null,
+                  "cluster": null,
+                  "bannerCard": null,
+                  "searchAlert": null,
+                  "coachRealtimeResponse": null,
+                  "searchSuggestionCard": null,
+                  "coachPromptCluster": null,
+                  "feedbackCard": null,
+                  "knowledgeCardV2": null,
+                  "keywordsSuggestionCard": null,
+                  "*upsellSlot": "urn:li:fsd_premiumUpsellSlot:ADVANCED_COMPANY_SEARCH_FILTER_INLINE_RESULT",
+                  "queryClarificationCard": null,
+                  "topicalQuestionCard": null,
+                  "simpleTextV2": null,
+                  "promoCard": null,
+                  "searchFeedUpdate": null,
+                  "searchQuestionAndAnswerCard": null,
+                  "centeredText": null,
+                  "simpleImage": null
+                },
+                "position": 3,
+                "$recipeTypes": [
+                  "com.linkedin.edd11a570456ce19ca1f5ec3c9bb03c1"
+                ],
+                "$type": "com.linkedin.voyager.dash.search.SearchItem"
+              },
+              {
+                "item": {
+                  "cluster": null,
+                  "bannerCard": null,
+                  "searchAlert": null,
+                  "upsellSlot": null,
+                  "coachRealtimeResponse": null,
+                  "searchSuggestionCard": null,
+                  "coachPromptCluster": null,
+                  "feedbackCard": null,
+                  "knowledgeCardV2": null,
+                  "keywordsSuggestionCard": null,
+                  "queryClarificationCard": null,
+                  "topicalQuestionCard": null,
+                  "*entityResult": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_company:89774913,SEARCH_SRP,DEFAULT)",
+                  "simpleTextV2": null,
+                  "promoCard": null,
+                  "searchFeedUpdate": null,
+                  "searchQuestionAndAnswerCard": null,
+                  "centeredText": null,
+                  "simpleImage": null
+                },
+                "position": 4,
+                "$recipeTypes": [
+                  "com.linkedin.edd11a570456ce19ca1f5ec3c9bb03c1"
+                ],
+                "$type": "com.linkedin.voyager.dash.search.SearchItem"
+              },
+              {
+                "item": {
+                  "cluster": null,
+                  "bannerCard": null,
+                  "searchAlert": null,
+                  "upsellSlot": null,
+                  "coachRealtimeResponse": null,
+                  "searchSuggestionCard": null,
+                  "coachPromptCluster": null,
+                  "feedbackCard": null,
+                  "knowledgeCardV2": null,
+                  "keywordsSuggestionCard": null,
+                  "queryClarificationCard": null,
+                  "topicalQuestionCard": null,
+                  "*entityResult": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_company:593864,SEARCH_SRP,DEFAULT)",
+                  "simpleTextV2": null,
+                  "promoCard": null,
+                  "searchFeedUpdate": null,
+                  "searchQuestionAndAnswerCard": null,
+                  "centeredText": null,
+                  "simpleImage": null
+                },
+                "position": 5,
+                "$recipeTypes": [
+                  "com.linkedin.edd11a570456ce19ca1f5ec3c9bb03c1"
+                ],
+                "$type": "com.linkedin.voyager.dash.search.SearchItem"
+              },
+              {
+                "item": {
+                  "cluster": null,
+                  "bannerCard": null,
+                  "searchAlert": null,
+                  "upsellSlot": null,
+                  "coachRealtimeResponse": null,
+                  "searchSuggestionCard": null,
+                  "coachPromptCluster": null,
+                  "feedbackCard": null,
+                  "knowledgeCardV2": null,
+                  "keywordsSuggestionCard": null,
+                  "queryClarificationCard": null,
+                  "topicalQuestionCard": null,
+                  "*entityResult": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_company:13759438,SEARCH_SRP,DEFAULT)",
+                  "simpleTextV2": null,
+                  "promoCard": null,
+                  "searchFeedUpdate": null,
+                  "searchQuestionAndAnswerCard": null,
+                  "centeredText": null,
+                  "simpleImage": null
+                },
+                "position": 6,
+                "$recipeTypes": [
+                  "com.linkedin.edd11a570456ce19ca1f5ec3c9bb03c1"
+                ],
+                "$type": "com.linkedin.voyager.dash.search.SearchItem"
+              },
+              {
+                "item": {
+                  "cluster": null,
+                  "bannerCard": null,
+                  "searchAlert": null,
+                  "upsellSlot": null,
+                  "coachRealtimeResponse": null,
+                  "searchSuggestionCard": null,
+                  "coachPromptCluster": null,
+                  "feedbackCard": null,
+                  "knowledgeCardV2": null,
+                  "keywordsSuggestionCard": null,
+                  "queryClarificationCard": null,
+                  "topicalQuestionCard": null,
+                  "*entityResult": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_company:9393813,SEARCH_SRP,DEFAULT)",
+                  "simpleTextV2": null,
+                  "promoCard": null,
+                  "searchFeedUpdate": null,
+                  "searchQuestionAndAnswerCard": null,
+                  "centeredText": null,
+                  "simpleImage": null
+                },
+                "position": 7,
+                "$recipeTypes": [
+                  "com.linkedin.edd11a570456ce19ca1f5ec3c9bb03c1"
+                ],
+                "$type": "com.linkedin.voyager.dash.search.SearchItem"
+              },
+              {
+                "item": {
+                  "cluster": null,
+                  "bannerCard": null,
+                  "searchAlert": null,
+                  "upsellSlot": null,
+                  "coachRealtimeResponse": null,
+                  "searchSuggestionCard": null,
+                  "coachPromptCluster": null,
+                  "feedbackCard": null,
+                  "knowledgeCardV2": null,
+                  "keywordsSuggestionCard": null,
+                  "queryClarificationCard": null,
+                  "topicalQuestionCard": null,
+                  "*entityResult": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_company:152360,SEARCH_SRP,DEFAULT)",
+                  "simpleTextV2": null,
+                  "promoCard": null,
+                  "searchFeedUpdate": null,
+                  "searchQuestionAndAnswerCard": null,
+                  "centeredText": null,
+                  "simpleImage": null
+                },
+                "position": 8,
+                "$recipeTypes": [
+                  "com.linkedin.edd11a570456ce19ca1f5ec3c9bb03c1"
+                ],
+                "$type": "com.linkedin.voyager.dash.search.SearchItem"
+              },
+              {
+                "item": {
+                  "cluster": null,
+                  "bannerCard": null,
+                  "searchAlert": null,
+                  "upsellSlot": null,
+                  "coachRealtimeResponse": null,
+                  "searchSuggestionCard": null,
+                  "coachPromptCluster": null,
+                  "feedbackCard": null,
+                  "knowledgeCardV2": null,
+                  "keywordsSuggestionCard": null,
+                  "queryClarificationCard": null,
+                  "topicalQuestionCard": null,
+                  "*entityResult": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_company:2614765,SEARCH_SRP,DEFAULT)",
+                  "simpleTextV2": null,
+                  "promoCard": null,
+                  "searchFeedUpdate": null,
+                  "searchQuestionAndAnswerCard": null,
+                  "centeredText": null,
+                  "simpleImage": null
+                },
+                "position": 9,
+                "$recipeTypes": [
+                  "com.linkedin.edd11a570456ce19ca1f5ec3c9bb03c1"
+                ],
+                "$type": "com.linkedin.voyager.dash.search.SearchItem"
+              },
+              {
+                "item": {
+                  "cluster": null,
+                  "bannerCard": null,
+                  "searchAlert": null,
+                  "upsellSlot": null,
+                  "coachRealtimeResponse": null,
+                  "searchSuggestionCard": null,
+                  "coachPromptCluster": null,
+                  "feedbackCard": null,
+                  "knowledgeCardV2": null,
+                  "keywordsSuggestionCard": null,
+                  "queryClarificationCard": null,
+                  "topicalQuestionCard": null,
+                  "*entityResult": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_company:1323541,SEARCH_SRP,DEFAULT)",
+                  "simpleTextV2": null,
+                  "promoCard": null,
+                  "searchFeedUpdate": null,
+                  "searchQuestionAndAnswerCard": null,
+                  "centeredText": null,
+                  "simpleImage": null
+                },
+                "position": 10,
+                "$recipeTypes": [
+                  "com.linkedin.edd11a570456ce19ca1f5ec3c9bb03c1"
+                ],
+                "$type": "com.linkedin.voyager.dash.search.SearchItem"
+              },
+              {
+                "item": {
+                  "cluster": null,
+                  "bannerCard": null,
+                  "searchAlert": null,
+                  "upsellSlot": null,
+                  "coachRealtimeResponse": null,
+                  "searchSuggestionCard": null,
+                  "coachPromptCluster": null,
+                  "feedbackCard": null,
+                  "knowledgeCardV2": null,
+                  "keywordsSuggestionCard": null,
+                  "queryClarificationCard": null,
+                  "topicalQuestionCard": null,
+                  "*entityResult": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_company:3582034,SEARCH_SRP,DEFAULT)",
+                  "simpleTextV2": null,
+                  "promoCard": null,
+                  "searchFeedUpdate": null,
+                  "searchQuestionAndAnswerCard": null,
+                  "centeredText": null,
+                  "simpleImage": null
+                },
+                "position": 11,
+                "$recipeTypes": [
+                  "com.linkedin.edd11a570456ce19ca1f5ec3c9bb03c1"
+                ],
+                "$type": "com.linkedin.voyager.dash.search.SearchItem"
+              }
+            ],
+            "results": [],
+            "trackingId": "RR\u0019\u0088\u0085\u0000K\u0019\u008f\u00f8\u00edv(<=H"
+          },
+          {
+            "image": null,
+            "quickFilterActions": [],
+            "clusterRenderType": "LIST",
+            "dismissable": false,
+            "totalResultCount": null,
+            "controlName": null,
+            "description": null,
+            "title": null,
+            "$recipeTypes": [
+              "com.linkedin.5c853aba2154c55483e72bf6cdfaaf3e"
+            ],
+            "$type": "com.linkedin.voyager.dash.search.SearchClusterViewModel",
+            "actionTypeName": null,
+            "navigationText": null,
+            "feature": null,
+            "navigationCardAction": null,
+            "position": 3,
+            "items": [
+              {
+                "item": {
+                  "entityResult": null,
+                  "cluster": null,
+                  "bannerCard": null,
+                  "searchAlert": null,
+                  "*feedbackCard": "urn:li:fsd_feedbackCard:SRP_FEEDBACK_COMPANIES",
+                  "upsellSlot": null,
+                  "coachRealtimeResponse": null,
+                  "searchSuggestionCard": null,
+                  "coachPromptCluster": null,
+                  "knowledgeCardV2": null,
+                  "keywordsSuggestionCard": null,
+                  "queryClarificationCard": null,
+                  "topicalQuestionCard": null,
+                  "simpleTextV2": null,
+                  "promoCard": null,
+                  "searchFeedUpdate": null,
+                  "searchQuestionAndAnswerCard": null,
+                  "centeredText": null,
+                  "simpleImage": null
+                },
+                "position": 12,
+                "$recipeTypes": [
+                  "com.linkedin.edd11a570456ce19ca1f5ec3c9bb03c1"
+                ],
+                "$type": "com.linkedin.voyager.dash.search.SearchItem"
+              }
+            ],
+            "results": [],
+            "trackingId": "\u0000Y\u0006So=I\u008b\u00a0\u00f4`I\u0002\u00af!\u008b"
+          }
+        ],
+        "$type": "com.linkedin.restli.common.CollectionResponse"
+      },
+      "$recipeTypes": [
+        "com.linkedin.c293aa010e51bae32433eeb13b1682fa"
+      ],
+      "$type": "com.linkedin.c293aa010e51bae32433eeb13b1682fa"
+    }
+  },
+  "included": [
+    {
+      "entityUrn": "urn:li:fsd_company:89774913",
+      "$recipeTypes": [
+        "com.linkedin.2c2374bef3eaba3e079b4a11e2f7bea8"
+      ],
+      "$type": "com.linkedin.voyager.dash.organization.Company"
+    },
+    {
+      "entityUrn": "urn:li:fsd_company:4553415",
+      "$recipeTypes": [
+        "com.linkedin.2c2374bef3eaba3e079b4a11e2f7bea8"
+      ],
+      "$type": "com.linkedin.voyager.dash.organization.Company"
+    },
+    {
+      "entityUrn": "urn:li:fsd_company:1323541",
+      "$recipeTypes": [
+        "com.linkedin.2c2374bef3eaba3e079b4a11e2f7bea8"
+      ],
+      "$type": "com.linkedin.voyager.dash.organization.Company"
+    },
+    {
+      "entityUrn": "urn:li:fsd_company:3582034",
+      "$recipeTypes": [
+        "com.linkedin.2c2374bef3eaba3e079b4a11e2f7bea8"
+      ],
+      "$type": "com.linkedin.voyager.dash.organization.Company"
+    },
+    {
+      "entityUrn": "urn:li:fsd_company:9393813",
+      "$recipeTypes": [
+        "com.linkedin.2c2374bef3eaba3e079b4a11e2f7bea8"
+      ],
+      "$type": "com.linkedin.voyager.dash.organization.Company"
+    },
+    {
+      "entityUrn": "urn:li:fsd_company:13759438",
+      "$recipeTypes": [
+        "com.linkedin.2c2374bef3eaba3e079b4a11e2f7bea8"
+      ],
+      "$type": "com.linkedin.voyager.dash.organization.Company"
+    },
+    {
+      "entityUrn": "urn:li:fsd_company:152360",
+      "$recipeTypes": [
+        "com.linkedin.2c2374bef3eaba3e079b4a11e2f7bea8"
+      ],
+      "$type": "com.linkedin.voyager.dash.organization.Company"
+    },
+    {
+      "entityUrn": "urn:li:fsd_company:2614765",
+      "$recipeTypes": [
+        "com.linkedin.2c2374bef3eaba3e079b4a11e2f7bea8"
+      ],
+      "$type": "com.linkedin.voyager.dash.organization.Company"
+    },
+    {
+      "entityUrn": "urn:li:fsd_company:11292013",
+      "$recipeTypes": [
+        "com.linkedin.2c2374bef3eaba3e079b4a11e2f7bea8"
+      ],
+      "$type": "com.linkedin.voyager.dash.organization.Company"
+    },
+    {
+      "entityUrn": "urn:li:fsd_company:593864",
+      "$recipeTypes": [
+        "com.linkedin.2c2374bef3eaba3e079b4a11e2f7bea8"
+      ],
+      "$type": "com.linkedin.voyager.dash.organization.Company"
+    },
+    {
+      "entityUrn": "urn:li:fsd_premiumUpsellSlot:ADVANCED_COMPANY_SEARCH_FILTER_INLINE_RESULT",
+      "$recipeTypes": [
+        "com.linkedin.0b2f76bd70fd4528e6bb2b0121d2241f"
+      ],
+      "upsellCard": null,
+      "$type": "com.linkedin.voyager.dash.premium.PremiumUpsellSlotContent"
+    },
+    {
+      "template": "UNIVERSAL",
+      "actorNavigationContext": null,
+      "bserpEntityNavigationalUrl": "https://www.linkedin.com/search/results/all/?keywords=Solutions%204%20Polymers%20Limited&origin=ENTITY_SEARCH_HOME_HISTORY&heroEntityKey=urn%3Ali%3Aorganization%3A4553415",
+      "trackingUrn": "urn:li:company:4553415",
+      "controlName": null,
+      "interstitialComponent": null,
+      "primaryActions": [],
+      "entityCustomTrackingInfo": null,
+      "badgeData": null,
+      "title": {
+        "textDirection": "USER_LOCALE",
+        "text": "Solutions 4 Polymers Limited",
+        "attributesV2": [],
+        "accessibilityTextAttributesV2": [],
+        "accessibilityText": null,
+        "$recipeTypes": [
+          "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+        ],
+        "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+      },
+      "overflowActions": [],
+      "*lazyLoadedActions": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:4553415,COMPANIES,SEARCH_SRP)",
+      "searchActionType": null,
+      "actorInsights": [],
+      "insightsResolutionResults": [],
+      "badgeIcon": null,
+      "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_company:4553415,SEARCH_SRP,DEFAULT)",
+      "showAdditionalCluster": false,
+      "ringStatus": null,
+      "primarySubtitle": {
+        "textDirection": "USER_LOCALE",
+        "text": "Plastics Manufacturing \u2022 Burntwood",
+        "attributesV2": [],
+        "accessibilityTextAttributesV2": [],
+        "accessibilityText": null,
+        "$recipeTypes": [
+          "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+        ],
+        "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+      },
+      "badgeText": null,
+      "trackingId": "twEwV5L5Ray79nZTsKOdKw==",
+      "addEntityToSearchHistory": true,
+      "actorNavigationUrl": null,
+      "summary": null,
+      "image": {
+        "attributes": [
+          {
+            "scalingType": null,
+            "detailData": {
+              "profilePictureWithoutFrame": null,
+              "profilePictureWithRingStatus": null,
+              "companyLogo": null,
+              "icon": null,
+              "systemImage": null,
+              "nonEntityGroupLogo": null,
+              "vectorImage": null,
+              "nonEntityProfessionalEventLogo": null,
+              "profilePicture": null,
+              "imageUrl": null,
+              "professionalEventLogo": null,
+              "nonEntityCompanyLogo": {
+                "*company": "urn:li:fsd_company:4553415",
+                "$recipeTypes": [
+                  "com.linkedin.3be27b5a0eb7edd91e98b14c0290096c"
+                ],
+                "vectorImage": null,
+                "$type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo"
+              },
+              "nonEntitySchoolLogo": null,
+              "groupLogo": null,
+              "schoolLogo": null,
+              "ghostImage": null,
+              "nonEntityProfilePicture": null
+            },
+            "tintColor": null,
+            "$recipeTypes": [
+              "com.linkedin.eb94fbb1518f790c4545aafdf571c64e"
+            ],
+            "tapTargets": [],
+            "displayAspectRatio": null,
+            "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+          }
+        ],
+        "editableAccessibilityText": false,
+        "actionTarget": null,
+        "accessibilityTextAttributes": [],
+        "totalCount": null,
+        "accessibilityText": "Solutions 4 Polymers Limited",
+        "$recipeTypes": [
+          "com.linkedin.fe5b8a3ac5a4a165c17f53b7eae4209b"
+        ],
+        "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+      },
+      "secondarySubtitle": {
+        "textDirection": "USER_LOCALE",
+        "text": "8 followers",
+        "attributesV2": [],
+        "accessibilityTextAttributesV2": [],
+        "accessibilityText": null,
+        "$recipeTypes": [
+          "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+        ],
+        "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+      },
+      "navigationUrl": "https://www.linkedin.com/company/solutions-4-polymers-limited/",
+      "entityEmbeddedObject": null,
+      "unreadIndicatorDetails": null,
+      "$recipeTypes": [
+        "com.linkedin.cf4b25c18907ea8eafe915c8bfa24109"
+      ],
+      "target": null,
+      "$type": "com.linkedin.voyager.dash.search.EntityResultViewModel",
+      "actorTrackingUrn": null,
+      "navigationContext": {
+        "openExternally": false,
+        "$recipeTypes": [
+          "com.linkedin.55ee9afd4182671fe7e271f615659525"
+        ],
+        "url": "https://www.linkedin.com/company/solutions-4-polymers-limited/",
+        "$type": "com.linkedin.voyager.dash.search.NavigationContext"
+      }
+    },
+    {
+      "template": "UNIVERSAL",
+      "actorNavigationContext": null,
+      "bserpEntityNavigationalUrl": "https://www.linkedin.com/search/results/all/?keywords=4%20Lens%20Partnerships%20Mfg%2E&origin=ENTITY_SEARCH_HOME_HISTORY&heroEntityKey=urn%3Ali%3Aorganization%3A89774913",
+      "trackingUrn": "urn:li:company:89774913",
+      "controlName": null,
+      "interstitialComponent": null,
+      "primaryActions": [],
+      "entityCustomTrackingInfo": null,
+      "badgeData": null,
+      "title": {
+        "textDirection": "USER_LOCALE",
+        "text": "4 Lens Partnerships Mfg.",
+        "attributesV2": [],
+        "accessibilityTextAttributesV2": [],
+        "accessibilityText": null,
+        "$recipeTypes": [
+          "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+        ],
+        "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+      },
+      "overflowActions": [],
+      "*lazyLoadedActions": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:89774913,COMPANIES,SEARCH_SRP)",
+      "searchActionType": null,
+      "actorInsights": [],
+      "insightsResolutionResults": [],
+      "badgeIcon": null,
+      "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_company:89774913,SEARCH_SRP,DEFAULT)",
+      "showAdditionalCluster": false,
+      "ringStatus": null,
+      "primarySubtitle": {
+        "textDirection": "USER_LOCALE",
+        "text": "Industrial Machinery Manufacturing \u2022 Indianapolis, IN",
+        "attributesV2": [],
+        "accessibilityTextAttributesV2": [],
+        "accessibilityText": null,
+        "$recipeTypes": [
+          "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+        ],
+        "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+      },
+      "badgeText": null,
+      "trackingId": "T9tDvbTkQV+ENPsClO6POQ==",
+      "summary": {
+        "textDirection": "USER_LOCALE",
+        "text": "4 Lens Manufacturing (Mfg.) is a partnership advisory and contract manufacturing service. Over the past decade we have created long term business relationships...",
+        "attributesV2": [
+          {
+            "start": 0,
+            "length": 1,
+            "detailData": {
+              "jobPostingName": null,
+              "hyperlink": null,
+              "profileFamiliarName": null,
+              "color": null,
+              "companyName": null,
+              "icon": null,
+              "epoch": null,
+              "systemImage": null,
+              "textLink": null,
+              "listItemStyle": null,
+              "groupName": null,
+              "hyperlinkOpenExternally": null,
+              "listStyle": null,
+              "profileFullName": null,
+              "stringFieldReference": null,
+              "learningCourseName": null,
+              "profileMention": null,
+              "style": "BOLD",
+              "schoolName": null,
+              "hashtag": null
+            },
+            "$recipeTypes": [
+              "com.linkedin.b8a09c2c7547138a1c3aebdda8a94e12"
+            ],
+            "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+          }
+        ],
+        "accessibilityTextAttributesV2": [],
+        "accessibilityText": null,
+        "$recipeTypes": [
+          "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+        ],
+        "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+      },
+      "addEntityToSearchHistory": true,
+      "actorNavigationUrl": null,
+      "image": {
+        "attributes": [
+          {
+            "scalingType": null,
+            "detailData": {
+              "profilePictureWithoutFrame": null,
+              "profilePictureWithRingStatus": null,
+              "companyLogo": null,
+              "icon": null,
+              "systemImage": null,
+              "nonEntityGroupLogo": null,
+              "vectorImage": null,
+              "nonEntityProfessionalEventLogo": null,
+              "profilePicture": null,
+              "imageUrl": null,
+              "professionalEventLogo": null,
+              "nonEntityCompanyLogo": {
+                "*company": "urn:li:fsd_company:89774913",
+                "$recipeTypes": [
+                  "com.linkedin.3be27b5a0eb7edd91e98b14c0290096c"
+                ],
+                "vectorImage": {
+                  "digitalmediaAsset": null,
+                  "attribution": null,
+                  "c2paManifestData": null,
+                  "$recipeTypes": [
+                    "com.linkedin.28db8575bcf1c65bdc4bc15948d50ee9"
+                  ],
+                  "artifacts": [
+                    {
+                      "width": 100,
+                      "$recipeTypes": [
+                        "com.linkedin.f0f435b4425ee2990eba8f0a4d614944"
+                      ],
+                      "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/v2/D560BAQEklQEj3jrAAQ/company-logo_100_100/company-logo_100_100/0/1667507036775?e=1753920000&v=beta&t=F6ugph5jbO5hLCmqCKUTtuKQrYI6A5Jfhp_P1Zj4Eok",
+                      "expiresAt": 1753920000000,
+                      "height": 100,
+                      "$type": "com.linkedin.common.VectorArtifact"
+                    }
+                  ],
+                  "rootUrl": "",
+                  "$type": "com.linkedin.common.VectorImage"
+                },
+                "$type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo"
+              },
+              "nonEntitySchoolLogo": null,
+              "groupLogo": null,
+              "schoolLogo": null,
+              "ghostImage": null,
+              "nonEntityProfilePicture": null
+            },
+            "tintColor": null,
+            "$recipeTypes": [
+              "com.linkedin.eb94fbb1518f790c4545aafdf571c64e"
+            ],
+            "tapTargets": [],
+            "displayAspectRatio": null,
+            "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+          }
+        ],
+        "editableAccessibilityText": false,
+        "actionTarget": null,
+        "accessibilityTextAttributes": [],
+        "totalCount": null,
+        "accessibilityText": "4 Lens Partnerships Mfg.",
+        "$recipeTypes": [
+          "com.linkedin.fe5b8a3ac5a4a165c17f53b7eae4209b"
+        ],
+        "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+      },
+      "secondarySubtitle": {
+        "textDirection": "USER_LOCALE",
+        "text": "181 followers",
+        "attributesV2": [],
+        "accessibilityTextAttributesV2": [],
+        "accessibilityText": null,
+        "$recipeTypes": [
+          "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+        ],
+        "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+      },
+      "navigationUrl": "https://www.linkedin.com/company/4lensmfg/",
+      "entityEmbeddedObject": null,
+      "unreadIndicatorDetails": null,
+      "$recipeTypes": [
+        "com.linkedin.cf4b25c18907ea8eafe915c8bfa24109"
+      ],
+      "target": null,
+      "$type": "com.linkedin.voyager.dash.search.EntityResultViewModel",
+      "actorTrackingUrn": null,
+      "navigationContext": {
+        "openExternally": false,
+        "$recipeTypes": [
+          "com.linkedin.55ee9afd4182671fe7e271f615659525"
+        ],
+        "url": "https://www.linkedin.com/company/4lensmfg/",
+        "$type": "com.linkedin.voyager.dash.search.NavigationContext"
+      }
+    },
+    {
+      "template": "UNIVERSAL",
+      "actorNavigationContext": null,
+      "bserpEntityNavigationalUrl": "https://www.linkedin.com/search/results/all/?keywords=Eigenmann%20%26%20Veronelli%20Group&origin=ENTITY_SEARCH_HOME_HISTORY&heroEntityKey=urn%3Ali%3Aorganization%3A152360",
+      "trackingUrn": "urn:li:company:152360",
+      "controlName": null,
+      "interstitialComponent": null,
+      "primaryActions": [],
+      "entityCustomTrackingInfo": null,
+      "badgeData": null,
+      "title": {
+        "textDirection": "USER_LOCALE",
+        "text": "Eigenmann & Veronelli Group",
+        "attributesV2": [],
+        "accessibilityTextAttributesV2": [],
+        "accessibilityText": null,
+        "$recipeTypes": [
+          "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+        ],
+        "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+      },
+      "overflowActions": [],
+      "*lazyLoadedActions": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:152360,COMPANIES,SEARCH_SRP)",
+      "searchActionType": null,
+      "actorInsights": [],
+      "insightsResolutionResults": [],
+      "badgeIcon": null,
+      "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_company:152360,SEARCH_SRP,DEFAULT)",
+      "showAdditionalCluster": false,
+      "ringStatus": null,
+      "primarySubtitle": {
+        "textDirection": "USER_LOCALE",
+        "text": "Chemical Manufacturing \u2022 Pero, Milan",
+        "attributesV2": [],
+        "accessibilityTextAttributesV2": [],
+        "accessibilityText": null,
+        "$recipeTypes": [
+          "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+        ],
+        "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+      },
+      "badgeText": null,
+      "trackingId": "SKD3rfvcQvulYBQ55V3bUg==",
+      "summary": {
+        "textDirection": "USER_LOCALE",
+        "text": "...to our success. We are more than 350 people, having a direct presence in 4 countries and working to become an established international solutions provider by combining...",
+        "attributesV2": [
+          {
+            "start": 76,
+            "length": 1,
+            "detailData": {
+              "jobPostingName": null,
+              "hyperlink": null,
+              "profileFamiliarName": null,
+              "color": null,
+              "companyName": null,
+              "icon": null,
+              "epoch": null,
+              "systemImage": null,
+              "textLink": null,
+              "listItemStyle": null,
+              "groupName": null,
+              "hyperlinkOpenExternally": null,
+              "listStyle": null,
+              "profileFullName": null,
+              "stringFieldReference": null,
+              "learningCourseName": null,
+              "profileMention": null,
+              "style": "BOLD",
+              "schoolName": null,
+              "hashtag": null
+            },
+            "$recipeTypes": [
+              "com.linkedin.b8a09c2c7547138a1c3aebdda8a94e12"
+            ],
+            "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+          },
+          {
+            "start": 139,
+            "length": 9,
+            "detailData": {
+              "jobPostingName": null,
+              "hyperlink": null,
+              "profileFamiliarName": null,
+              "color": null,
+              "companyName": null,
+              "icon": null,
+              "epoch": null,
+              "systemImage": null,
+              "textLink": null,
+              "listItemStyle": null,
+              "groupName": null,
+              "hyperlinkOpenExternally": null,
+              "listStyle": null,
+              "profileFullName": null,
+              "stringFieldReference": null,
+              "learningCourseName": null,
+              "profileMention": null,
+              "style": "BOLD",
+              "schoolName": null,
+              "hashtag": null
+            },
+            "$recipeTypes": [
+              "com.linkedin.b8a09c2c7547138a1c3aebdda8a94e12"
+            ],
+            "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+          }
+        ],
+        "accessibilityTextAttributesV2": [],
+        "accessibilityText": null,
+        "$recipeTypes": [
+          "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+        ],
+        "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+      },
+      "addEntityToSearchHistory": true,
+      "actorNavigationUrl": null,
+      "image": {
+        "attributes": [
+          {
+            "scalingType": null,
+            "detailData": {
+              "profilePictureWithoutFrame": null,
+              "profilePictureWithRingStatus": null,
+              "companyLogo": null,
+              "icon": null,
+              "systemImage": null,
+              "nonEntityGroupLogo": null,
+              "vectorImage": null,
+              "nonEntityProfessionalEventLogo": null,
+              "profilePicture": null,
+              "imageUrl": null,
+              "professionalEventLogo": null,
+              "nonEntityCompanyLogo": {
+                "*company": "urn:li:fsd_company:152360",
+                "$recipeTypes": [
+                  "com.linkedin.3be27b5a0eb7edd91e98b14c0290096c"
+                ],
+                "vectorImage": {
+                  "digitalmediaAsset": null,
+                  "attribution": null,
+                  "c2paManifestData": null,
+                  "$recipeTypes": [
+                    "com.linkedin.28db8575bcf1c65bdc4bc15948d50ee9"
+                  ],
+                  "artifacts": [
+                    {
+                      "width": 100,
+                      "$recipeTypes": [
+                        "com.linkedin.f0f435b4425ee2990eba8f0a4d614944"
+                      ],
+                      "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/v2/C4E0BAQH5ORE5_omYdA/company-logo_100_100/company-logo_100_100/0/1638453198017/eigenmann__veronelli_logo?e=1753920000&v=beta&t=PK73suQzm3JGTRcZ4Ny40hULWi18jKR6XlxPayujEH0",
+                      "expiresAt": 1753920000000,
+                      "height": 100,
+                      "$type": "com.linkedin.common.VectorArtifact"
+                    }
+                  ],
+                  "rootUrl": "",
+                  "$type": "com.linkedin.common.VectorImage"
+                },
+                "$type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo"
+              },
+              "nonEntitySchoolLogo": null,
+              "groupLogo": null,
+              "schoolLogo": null,
+              "ghostImage": null,
+              "nonEntityProfilePicture": null
+            },
+            "tintColor": null,
+            "$recipeTypes": [
+              "com.linkedin.eb94fbb1518f790c4545aafdf571c64e"
+            ],
+            "tapTargets": [],
+            "displayAspectRatio": null,
+            "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+          }
+        ],
+        "editableAccessibilityText": false,
+        "actionTarget": null,
+        "accessibilityTextAttributes": [],
+        "totalCount": null,
+        "accessibilityText": "Eigenmann & Veronelli Group",
+        "$recipeTypes": [
+          "com.linkedin.fe5b8a3ac5a4a165c17f53b7eae4209b"
+        ],
+        "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+      },
+      "secondarySubtitle": {
+        "textDirection": "USER_LOCALE",
+        "text": "13K followers",
+        "attributesV2": [],
+        "accessibilityTextAttributesV2": [],
+        "accessibilityText": null,
+        "$recipeTypes": [
+          "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+        ],
+        "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+      },
+      "navigationUrl": "https://www.linkedin.com/company/eigenmann-veronelli/",
+      "entityEmbeddedObject": null,
+      "unreadIndicatorDetails": null,
+      "$recipeTypes": [
+        "com.linkedin.cf4b25c18907ea8eafe915c8bfa24109"
+      ],
+      "target": null,
+      "$type": "com.linkedin.voyager.dash.search.EntityResultViewModel",
+      "actorTrackingUrn": null,
+      "navigationContext": {
+        "openExternally": false,
+        "$recipeTypes": [
+          "com.linkedin.55ee9afd4182671fe7e271f615659525"
+        ],
+        "url": "https://www.linkedin.com/company/eigenmann-veronelli/",
+        "$type": "com.linkedin.voyager.dash.search.NavigationContext"
+      }
+    },
+    {
+      "template": "UNIVERSAL",
+      "actorNavigationContext": null,
+      "bserpEntityNavigationalUrl": "https://www.linkedin.com/search/results/all/?keywords=HARKE%20GROUP&origin=ENTITY_SEARCH_HOME_HISTORY&heroEntityKey=urn%3Ali%3Aorganization%3A3582034",
+      "trackingUrn": "urn:li:company:3582034",
+      "controlName": null,
+      "interstitialComponent": null,
+      "primaryActions": [],
+      "entityCustomTrackingInfo": null,
+      "badgeData": null,
+      "title": {
+        "textDirection": "USER_LOCALE",
+        "text": "HARKE GROUP",
+        "attributesV2": [],
+        "accessibilityTextAttributesV2": [],
+        "accessibilityText": null,
+        "$recipeTypes": [
+          "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+        ],
+        "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+      },
+      "overflowActions": [],
+      "*lazyLoadedActions": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:3582034,COMPANIES,SEARCH_SRP)",
+      "searchActionType": null,
+      "actorInsights": [],
+      "insightsResolutionResults": [
+        {
+          "jobPostingInsight": null,
+          "relationshipsInsight": null,
+          "serviceProviderRatingInsight": null,
+          "simpleInsight": {
+            "image": {
+              "attributes": [
+                {
+                  "scalingType": "ASPECT_FIT",
+                  "detailData": {
+                    "profilePictureWithoutFrame": null,
+                    "profilePictureWithRingStatus": null,
+                    "companyLogo": null,
+                    "icon": "IC_BRIEFCASE_16DP",
+                    "systemImage": null,
+                    "nonEntityGroupLogo": null,
+                    "vectorImage": null,
+                    "nonEntityProfessionalEventLogo": null,
+                    "profilePicture": null,
+                    "imageUrl": null,
+                    "professionalEventLogo": null,
+                    "nonEntityCompanyLogo": null,
+                    "nonEntitySchoolLogo": null,
+                    "groupLogo": null,
+                    "schoolLogo": null,
+                    "ghostImage": null,
+                    "nonEntityProfilePicture": null
+                  },
+                  "tintColor": null,
+                  "$recipeTypes": [
+                    "com.linkedin.eb94fbb1518f790c4545aafdf571c64e"
+                  ],
+                  "tapTargets": [],
+                  "displayAspectRatio": null,
+                  "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+                }
+              ],
+              "editableAccessibilityText": false,
+              "actionTarget": null,
+              "accessibilityTextAttributes": [],
+              "totalCount": null,
+              "accessibilityText": null,
+              "$recipeTypes": [
+                "com.linkedin.fe5b8a3ac5a4a165c17f53b7eae4209b"
+              ],
+              "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+            },
+            "controlName": null,
+            "navigationUrl": "https://www.linkedin.com/jobs/search?geoId=92000000&f_C=3582034",
+            "title": {
+              "textDirection": "USER_LOCALE",
+              "text": "2 jobs",
+              "attributesV2": [],
+              "accessibilityTextAttributesV2": [],
+              "accessibilityText": null,
+              "$recipeTypes": [
+                "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+              ],
+              "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+            },
+            "$recipeTypes": [
+              "com.linkedin.bd9a707a5b119c1f331373113f57344a"
+            ],
+            "$type": "com.linkedin.voyager.dash.search.SimpleInsight",
+            "searchActionType": "SEE_JOBS_AT_COMPANY",
+            "subtitleMaxNumLines": 1,
+            "titleFontSize": null,
+            "subtitle": null,
+            "subtitleFontSize": null,
+            "titleMaxNumLines": 1
+          },
+          "jobPostingFooterInsight": null,
+          "socialActivityCountsInsight": null,
+          "labelsInsight": null,
+          "premiumCustomCtaInsight": null
+        }
+      ],
+      "badgeIcon": null,
+      "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_company:3582034,SEARCH_SRP,DEFAULT)",
+      "showAdditionalCluster": false,
+      "ringStatus": null,
+      "primarySubtitle": {
+        "textDirection": "USER_LOCALE",
+        "text": "Chemical Manufacturing \u2022 M\u00fclheim an der Ruhr",
+        "attributesV2": [],
+        "accessibilityTextAttributesV2": [],
+        "accessibilityText": null,
+        "$recipeTypes": [
+          "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+        ],
+        "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+      },
+      "badgeText": null,
+      "trackingId": "BuxH59XbRU2KWzze5r/hTw==",
+      "summary": {
+        "textDirection": "USER_LOCALE",
+        "text": "...on 4 continents, in more than 50 countries, for more than 30 industries through our skilled technical sales, formulation and logistics experts in 16...",
+        "attributesV2": [
+          {
+            "start": 6,
+            "length": 1,
+            "detailData": {
+              "jobPostingName": null,
+              "hyperlink": null,
+              "profileFamiliarName": null,
+              "color": null,
+              "companyName": null,
+              "icon": null,
+              "epoch": null,
+              "systemImage": null,
+              "textLink": null,
+              "listItemStyle": null,
+              "groupName": null,
+              "hyperlinkOpenExternally": null,
+              "listStyle": null,
+              "profileFullName": null,
+              "stringFieldReference": null,
+              "learningCourseName": null,
+              "profileMention": null,
+              "style": "BOLD",
+              "schoolName": null,
+              "hashtag": null
+            },
+            "$recipeTypes": [
+              "com.linkedin.b8a09c2c7547138a1c3aebdda8a94e12"
+            ],
+            "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+          }
+        ],
+        "accessibilityTextAttributesV2": [],
+        "accessibilityText": null,
+        "$recipeTypes": [
+          "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+        ],
+        "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+      },
+      "addEntityToSearchHistory": true,
+      "actorNavigationUrl": null,
+      "image": {
+        "attributes": [
+          {
+            "scalingType": null,
+            "detailData": {
+              "profilePictureWithoutFrame": null,
+              "profilePictureWithRingStatus": null,
+              "companyLogo": null,
+              "icon": null,
+              "systemImage": null,
+              "nonEntityGroupLogo": null,
+              "vectorImage": null,
+              "nonEntityProfessionalEventLogo": null,
+              "profilePicture": null,
+              "imageUrl": null,
+              "professionalEventLogo": null,
+              "nonEntityCompanyLogo": {
+                "*company": "urn:li:fsd_company:3582034",
+                "$recipeTypes": [
+                  "com.linkedin.3be27b5a0eb7edd91e98b14c0290096c"
+                ],
+                "vectorImage": {
+                  "digitalmediaAsset": null,
+                  "attribution": null,
+                  "c2paManifestData": null,
+                  "$recipeTypes": [
+                    "com.linkedin.28db8575bcf1c65bdc4bc15948d50ee9"
+                  ],
+                  "artifacts": [
+                    {
+                      "width": 100,
+                      "$recipeTypes": [
+                        "com.linkedin.f0f435b4425ee2990eba8f0a4d614944"
+                      ],
+                      "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/v2/C560BAQFO22Ut-3UpWg/company-logo_100_100/company-logo_100_100/0/1631382337130?e=1753920000&v=beta&t=6odE9moh8OdZsImNyX-bJNRBXnmVu0gk5-mAUVmo808",
+                      "expiresAt": 1753920000000,
+                      "height": 100,
+                      "$type": "com.linkedin.common.VectorArtifact"
+                    }
+                  ],
+                  "rootUrl": "",
+                  "$type": "com.linkedin.common.VectorImage"
+                },
+                "$type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo"
+              },
+              "nonEntitySchoolLogo": null,
+              "groupLogo": null,
+              "schoolLogo": null,
+              "ghostImage": null,
+              "nonEntityProfilePicture": null
+            },
+            "tintColor": null,
+            "$recipeTypes": [
+              "com.linkedin.eb94fbb1518f790c4545aafdf571c64e"
+            ],
+            "tapTargets": [],
+            "displayAspectRatio": null,
+            "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+          }
+        ],
+        "editableAccessibilityText": false,
+        "actionTarget": null,
+        "accessibilityTextAttributes": [],
+        "totalCount": null,
+        "accessibilityText": "HARKE GROUP",
+        "$recipeTypes": [
+          "com.linkedin.fe5b8a3ac5a4a165c17f53b7eae4209b"
+        ],
+        "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+      },
+      "secondarySubtitle": {
+        "textDirection": "USER_LOCALE",
+        "text": "6K followers",
+        "attributesV2": [],
+        "accessibilityTextAttributesV2": [],
+        "accessibilityText": null,
+        "$recipeTypes": [
+          "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+        ],
+        "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+      },
+      "navigationUrl": "https://www.linkedin.com/company/harke-group/",
+      "entityEmbeddedObject": null,
+      "unreadIndicatorDetails": null,
+      "$recipeTypes": [
+        "com.linkedin.cf4b25c18907ea8eafe915c8bfa24109"
+      ],
+      "target": null,
+      "$type": "com.linkedin.voyager.dash.search.EntityResultViewModel",
+      "actorTrackingUrn": null,
+      "navigationContext": {
+        "openExternally": false,
+        "$recipeTypes": [
+          "com.linkedin.55ee9afd4182671fe7e271f615659525"
+        ],
+        "url": "https://www.linkedin.com/company/harke-group/",
+        "$type": "com.linkedin.voyager.dash.search.NavigationContext"
+      }
+    },
+    {
+      "template": "UNIVERSAL",
+      "actorNavigationContext": null,
+      "bserpEntityNavigationalUrl": "https://www.linkedin.com/search/results/all/?keywords=Solutions%204%20Polymers%20Ltd&origin=ENTITY_SEARCH_HOME_HISTORY&heroEntityKey=urn%3Ali%3Aorganization%3A11292013",
+      "trackingUrn": "urn:li:company:11292013",
+      "controlName": null,
+      "interstitialComponent": null,
+      "primaryActions": [],
+      "entityCustomTrackingInfo": null,
+      "badgeData": null,
+      "title": {
+        "textDirection": "USER_LOCALE",
+        "text": "Solutions 4 Polymers Ltd",
+        "attributesV2": [],
+        "accessibilityTextAttributesV2": [],
+        "accessibilityText": null,
+        "$recipeTypes": [
+          "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+        ],
+        "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+      },
+      "overflowActions": [],
+      "*lazyLoadedActions": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:11292013,COMPANIES,SEARCH_SRP)",
+      "searchActionType": null,
+      "actorInsights": [],
+      "insightsResolutionResults": [],
+      "badgeIcon": null,
+      "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_company:11292013,SEARCH_SRP,DEFAULT)",
+      "showAdditionalCluster": false,
+      "ringStatus": null,
+      "primarySubtitle": {
+        "textDirection": "USER_LOCALE",
+        "text": "Plastics Manufacturing \u2022 Burntwood, Staffs",
+        "attributesV2": [],
+        "accessibilityTextAttributesV2": [],
+        "accessibilityText": null,
+        "$recipeTypes": [
+          "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+        ],
+        "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+      },
+      "badgeText": null,
+      "trackingId": "DfunK798TV2ozrhxaeuarQ==",
+      "summary": {
+        "textDirection": "USER_LOCALE",
+        "text": "Our aim is to provide a skilled, technical workforce for the polymer processing industries that will enable them to compete in a global market.  Solutions 4 Polymers firmly believes that Apprenticeship Standards should equip the individual with all the necessary knowledge, skills and behaviours to perform...",
+        "attributesV2": [
+          {
+            "start": 145,
+            "length": 9,
+            "detailData": {
+              "jobPostingName": null,
+              "hyperlink": null,
+              "profileFamiliarName": null,
+              "color": null,
+              "companyName": null,
+              "icon": null,
+              "epoch": null,
+              "systemImage": null,
+              "textLink": null,
+              "listItemStyle": null,
+              "groupName": null,
+              "hyperlinkOpenExternally": null,
+              "listStyle": null,
+              "profileFullName": null,
+              "stringFieldReference": null,
+              "learningCourseName": null,
+              "profileMention": null,
+              "style": "BOLD",
+              "schoolName": null,
+              "hashtag": null
+            },
+            "$recipeTypes": [
+              "com.linkedin.b8a09c2c7547138a1c3aebdda8a94e12"
+            ],
+            "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+          },
+          {
+            "start": 155,
+            "length": 1,
+            "detailData": {
+              "jobPostingName": null,
+              "hyperlink": null,
+              "profileFamiliarName": null,
+              "color": null,
+              "companyName": null,
+              "icon": null,
+              "epoch": null,
+              "systemImage": null,
+              "textLink": null,
+              "listItemStyle": null,
+              "groupName": null,
+              "hyperlinkOpenExternally": null,
+              "listStyle": null,
+              "profileFullName": null,
+              "stringFieldReference": null,
+              "learningCourseName": null,
+              "profileMention": null,
+              "style": "BOLD",
+              "schoolName": null,
+              "hashtag": null
+            },
+            "$recipeTypes": [
+              "com.linkedin.b8a09c2c7547138a1c3aebdda8a94e12"
+            ],
+            "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+          },
+          {
+            "start": 157,
+            "length": 8,
+            "detailData": {
+              "jobPostingName": null,
+              "hyperlink": null,
+              "profileFamiliarName": null,
+              "color": null,
+              "companyName": null,
+              "icon": null,
+              "epoch": null,
+              "systemImage": null,
+              "textLink": null,
+              "listItemStyle": null,
+              "groupName": null,
+              "hyperlinkOpenExternally": null,
+              "listStyle": null,
+              "profileFullName": null,
+              "stringFieldReference": null,
+              "learningCourseName": null,
+              "profileMention": null,
+              "style": "BOLD",
+              "schoolName": null,
+              "hashtag": null
+            },
+            "$recipeTypes": [
+              "com.linkedin.b8a09c2c7547138a1c3aebdda8a94e12"
+            ],
+            "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+          }
+        ],
+        "accessibilityTextAttributesV2": [],
+        "accessibilityText": null,
+        "$recipeTypes": [
+          "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+        ],
+        "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+      },
+      "addEntityToSearchHistory": true,
+      "actorNavigationUrl": null,
+      "image": {
+        "attributes": [
+          {
+            "scalingType": null,
+            "detailData": {
+              "profilePictureWithoutFrame": null,
+              "profilePictureWithRingStatus": null,
+              "companyLogo": null,
+              "icon": null,
+              "systemImage": null,
+              "nonEntityGroupLogo": null,
+              "vectorImage": null,
+              "nonEntityProfessionalEventLogo": null,
+              "profilePicture": null,
+              "imageUrl": null,
+              "professionalEventLogo": null,
+              "nonEntityCompanyLogo": {
+                "*company": "urn:li:fsd_company:11292013",
+                "$recipeTypes": [
+                  "com.linkedin.3be27b5a0eb7edd91e98b14c0290096c"
+                ],
+                "vectorImage": {
+                  "digitalmediaAsset": null,
+                  "attribution": null,
+                  "c2paManifestData": null,
+                  "$recipeTypes": [
+                    "com.linkedin.28db8575bcf1c65bdc4bc15948d50ee9"
+                  ],
+                  "artifacts": [
+                    {
+                      "width": 100,
+                      "$recipeTypes": [
+                        "com.linkedin.f0f435b4425ee2990eba8f0a4d614944"
+                      ],
+                      "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/v2/C560BAQEyrK9GAL83Lw/company-logo_100_100/company-logo_100_100/0/1630609310489/solutions_4_polymers_ltd_logo?e=1753920000&v=beta&t=-mUFrbBDJm8eQnZz7GiH3Fuii_X7pDRV8pvnmyJBgwE",
+                      "expiresAt": 1753920000000,
+                      "height": 100,
+                      "$type": "com.linkedin.common.VectorArtifact"
+                    }
+                  ],
+                  "rootUrl": "",
+                  "$type": "com.linkedin.common.VectorImage"
+                },
+                "$type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo"
+              },
+              "nonEntitySchoolLogo": null,
+              "groupLogo": null,
+              "schoolLogo": null,
+              "ghostImage": null,
+              "nonEntityProfilePicture": null
+            },
+            "tintColor": null,
+            "$recipeTypes": [
+              "com.linkedin.eb94fbb1518f790c4545aafdf571c64e"
+            ],
+            "tapTargets": [],
+            "displayAspectRatio": null,
+            "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+          }
+        ],
+        "editableAccessibilityText": false,
+        "actionTarget": null,
+        "accessibilityTextAttributes": [],
+        "totalCount": null,
+        "accessibilityText": "Solutions 4 Polymers Ltd",
+        "$recipeTypes": [
+          "com.linkedin.fe5b8a3ac5a4a165c17f53b7eae4209b"
+        ],
+        "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+      },
+      "secondarySubtitle": {
+        "textDirection": "USER_LOCALE",
+        "text": "420 followers",
+        "attributesV2": [],
+        "accessibilityTextAttributesV2": [],
+        "accessibilityText": null,
+        "$recipeTypes": [
+          "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+        ],
+        "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+      },
+      "navigationUrl": "https://www.linkedin.com/company/solutions-4-polymers-ltd/",
+      "entityEmbeddedObject": null,
+      "unreadIndicatorDetails": null,
+      "$recipeTypes": [
+        "com.linkedin.cf4b25c18907ea8eafe915c8bfa24109"
+      ],
+      "target": null,
+      "$type": "com.linkedin.voyager.dash.search.EntityResultViewModel",
+      "actorTrackingUrn": null,
+      "navigationContext": {
+        "openExternally": false,
+        "$recipeTypes": [
+          "com.linkedin.55ee9afd4182671fe7e271f615659525"
+        ],
+        "url": "https://www.linkedin.com/company/solutions-4-polymers-ltd/",
+        "$type": "com.linkedin.voyager.dash.search.NavigationContext"
+      }
+    },
+    {
+      "template": "UNIVERSAL",
+      "actorNavigationContext": null,
+      "bserpEntityNavigationalUrl": "https://www.linkedin.com/search/results/all/?keywords=SEQENS%20Pharmaceutical%20Solutions&origin=ENTITY_SEARCH_HOME_HISTORY&heroEntityKey=urn%3Ali%3Aorganization%3A593864",
+      "trackingUrn": "urn:li:company:593864",
+      "controlName": null,
+      "interstitialComponent": null,
+      "primaryActions": [],
+      "entityCustomTrackingInfo": null,
+      "badgeData": null,
+      "title": {
+        "textDirection": "USER_LOCALE",
+        "text": "SEQENS Pharmaceutical Solutions",
+        "attributesV2": [],
+        "accessibilityTextAttributesV2": [],
+        "accessibilityText": null,
+        "$recipeTypes": [
+          "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+        ],
+        "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+      },
+      "overflowActions": [],
+      "*lazyLoadedActions": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:593864,COMPANIES,SEARCH_SRP)",
+      "searchActionType": null,
+      "actorInsights": [],
+      "insightsResolutionResults": [],
+      "badgeIcon": null,
+      "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_company:593864,SEARCH_SRP,DEFAULT)",
+      "showAdditionalCluster": false,
+      "ringStatus": null,
+      "primarySubtitle": {
+        "textDirection": "USER_LOCALE",
+        "text": "Pharmaceutical Manufacturing \u2022 \u00c9cully, Auvergne-Rh\u00f4ne-Alpes",
+        "attributesV2": [],
+        "accessibilityTextAttributesV2": [],
+        "accessibilityText": null,
+        "$recipeTypes": [
+          "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+        ],
+        "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+      },
+      "badgeText": null,
+      "trackingId": "CwxpAeb6RpaNjGxqxM0ovA==",
+      "summary": {
+        "textDirection": "USER_LOCALE",
+        "text": "...Ingredients (APIs) & intermediates. Seqens offer technical excellence, continuous improvement plans and innovative tailor-made solutions from a network of 4 R&D centers serving the Pharmaceutical market, 4 pilot units and 12 cGMP sites, including 6 cGMP multi-purposes manufacturing sites.",
+        "attributesV2": [
+          {
+            "start": 130,
+            "length": 9,
+            "detailData": {
+              "jobPostingName": null,
+              "hyperlink": null,
+              "profileFamiliarName": null,
+              "color": null,
+              "companyName": null,
+              "icon": null,
+              "epoch": null,
+              "systemImage": null,
+              "textLink": null,
+              "listItemStyle": null,
+              "groupName": null,
+              "hyperlinkOpenExternally": null,
+              "listStyle": null,
+              "profileFullName": null,
+              "stringFieldReference": null,
+              "learningCourseName": null,
+              "profileMention": null,
+              "style": "BOLD",
+              "schoolName": null,
+              "hashtag": null
+            },
+            "$recipeTypes": [
+              "com.linkedin.b8a09c2c7547138a1c3aebdda8a94e12"
+            ],
+            "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+          },
+          {
+            "start": 158,
+            "length": 1,
+            "detailData": {
+              "jobPostingName": null,
+              "hyperlink": null,
+              "profileFamiliarName": null,
+              "color": null,
+              "companyName": null,
+              "icon": null,
+              "epoch": null,
+              "systemImage": null,
+              "textLink": null,
+              "listItemStyle": null,
+              "groupName": null,
+              "hyperlinkOpenExternally": null,
+              "listStyle": null,
+              "profileFullName": null,
+              "stringFieldReference": null,
+              "learningCourseName": null,
+              "profileMention": null,
+              "style": "BOLD",
+              "schoolName": null,
+              "hashtag": null
+            },
+            "$recipeTypes": [
+              "com.linkedin.b8a09c2c7547138a1c3aebdda8a94e12"
+            ],
+            "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+          },
+          {
+            "start": 207,
+            "length": 1,
+            "detailData": {
+              "jobPostingName": null,
+              "hyperlink": null,
+              "profileFamiliarName": null,
+              "color": null,
+              "companyName": null,
+              "icon": null,
+              "epoch": null,
+              "systemImage": null,
+              "textLink": null,
+              "listItemStyle": null,
+              "groupName": null,
+              "hyperlinkOpenExternally": null,
+              "listStyle": null,
+              "profileFullName": null,
+              "stringFieldReference": null,
+              "learningCourseName": null,
+              "profileMention": null,
+              "style": "BOLD",
+              "schoolName": null,
+              "hashtag": null
+            },
+            "$recipeTypes": [
+              "com.linkedin.b8a09c2c7547138a1c3aebdda8a94e12"
+            ],
+            "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+          }
+        ],
+        "accessibilityTextAttributesV2": [],
+        "accessibilityText": null,
+        "$recipeTypes": [
+          "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+        ],
+        "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+      },
+      "addEntityToSearchHistory": true,
+      "actorNavigationUrl": null,
+      "image": {
+        "attributes": [
+          {
+            "scalingType": null,
+            "detailData": {
+              "profilePictureWithoutFrame": null,
+              "profilePictureWithRingStatus": null,
+              "companyLogo": null,
+              "icon": null,
+              "systemImage": null,
+              "nonEntityGroupLogo": null,
+              "vectorImage": null,
+              "nonEntityProfessionalEventLogo": null,
+              "profilePicture": null,
+              "imageUrl": null,
+              "professionalEventLogo": null,
+              "nonEntityCompanyLogo": {
+                "*company": "urn:li:fsd_company:593864",
+                "$recipeTypes": [
+                  "com.linkedin.3be27b5a0eb7edd91e98b14c0290096c"
+                ],
+                "vectorImage": {
+                  "digitalmediaAsset": null,
+                  "attribution": null,
+                  "c2paManifestData": null,
+                  "$recipeTypes": [
+                    "com.linkedin.28db8575bcf1c65bdc4bc15948d50ee9"
+                  ],
+                  "artifacts": [
+                    {
+                      "width": 100,
+                      "$recipeTypes": [
+                        "com.linkedin.f0f435b4425ee2990eba8f0a4d614944"
+                      ],
+                      "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/v2/C560BAQENnQtw61IiPQ/company-logo_100_100/company-logo_100_100/0/1639593476037/seqens_cdmo_logo?e=1753920000&v=beta&t=tMgWiHDNyytMoribyiuH_ccSiY41uGAyQaUje1UzOXw",
+                      "expiresAt": 1753920000000,
+                      "height": 100,
+                      "$type": "com.linkedin.common.VectorArtifact"
+                    }
+                  ],
+                  "rootUrl": "",
+                  "$type": "com.linkedin.common.VectorImage"
+                },
+                "$type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo"
+              },
+              "nonEntitySchoolLogo": null,
+              "groupLogo": null,
+              "schoolLogo": null,
+              "ghostImage": null,
+              "nonEntityProfilePicture": null
+            },
+            "tintColor": null,
+            "$recipeTypes": [
+              "com.linkedin.eb94fbb1518f790c4545aafdf571c64e"
+            ],
+            "tapTargets": [],
+            "displayAspectRatio": null,
+            "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+          }
+        ],
+        "editableAccessibilityText": false,
+        "actionTarget": null,
+        "accessibilityTextAttributes": [],
+        "totalCount": null,
+        "accessibilityText": "SEQENS Pharmaceutical Solutions",
+        "$recipeTypes": [
+          "com.linkedin.fe5b8a3ac5a4a165c17f53b7eae4209b"
+        ],
+        "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+      },
+      "secondarySubtitle": {
+        "textDirection": "USER_LOCALE",
+        "text": "10K followers",
+        "attributesV2": [],
+        "accessibilityTextAttributesV2": [],
+        "accessibilityText": null,
+        "$recipeTypes": [
+          "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+        ],
+        "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+      },
+      "navigationUrl": "https://www.linkedin.com/company/seqens-cdmo/",
+      "entityEmbeddedObject": null,
+      "unreadIndicatorDetails": null,
+      "$recipeTypes": [
+        "com.linkedin.cf4b25c18907ea8eafe915c8bfa24109"
+      ],
+      "target": null,
+      "$type": "com.linkedin.voyager.dash.search.EntityResultViewModel",
+      "actorTrackingUrn": null,
+      "navigationContext": {
+        "openExternally": false,
+        "$recipeTypes": [
+          "com.linkedin.55ee9afd4182671fe7e271f615659525"
+        ],
+        "url": "https://www.linkedin.com/company/seqens-cdmo/",
+        "$type": "com.linkedin.voyager.dash.search.NavigationContext"
+      }
+    },
+    {
+      "template": "UNIVERSAL",
+      "actorNavigationContext": null,
+      "bserpEntityNavigationalUrl": "https://www.linkedin.com/search/results/all/?keywords=JAKA%20Robotics&origin=ENTITY_SEARCH_HOME_HISTORY&heroEntityKey=urn%3Ali%3Aorganization%3A13759438",
+      "trackingUrn": "urn:li:company:13759438",
+      "controlName": null,
+      "interstitialComponent": null,
+      "primaryActions": [],
+      "entityCustomTrackingInfo": null,
+      "badgeData": null,
+      "title": {
+        "textDirection": "USER_LOCALE",
+        "text": "JAKA Robotics",
+        "attributesV2": [],
+        "accessibilityTextAttributesV2": [],
+        "accessibilityText": null,
+        "$recipeTypes": [
+          "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+        ],
+        "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+      },
+      "overflowActions": [],
+      "*lazyLoadedActions": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:13759438,COMPANIES,SEARCH_SRP)",
+      "searchActionType": null,
+      "actorInsights": [],
+      "insightsResolutionResults": [
+        {
+          "jobPostingInsight": null,
+          "relationshipsInsight": null,
+          "serviceProviderRatingInsight": null,
+          "simpleInsight": {
+            "image": {
+              "attributes": [
+                {
+                  "scalingType": "ASPECT_FIT",
+                  "detailData": {
+                    "profilePictureWithoutFrame": null,
+                    "profilePictureWithRingStatus": null,
+                    "companyLogo": null,
+                    "icon": "IC_BRIEFCASE_16DP",
+                    "systemImage": null,
+                    "nonEntityGroupLogo": null,
+                    "vectorImage": null,
+                    "nonEntityProfessionalEventLogo": null,
+                    "profilePicture": null,
+                    "imageUrl": null,
+                    "professionalEventLogo": null,
+                    "nonEntityCompanyLogo": null,
+                    "nonEntitySchoolLogo": null,
+                    "groupLogo": null,
+                    "schoolLogo": null,
+                    "ghostImage": null,
+                    "nonEntityProfilePicture": null
+                  },
+                  "tintColor": null,
+                  "$recipeTypes": [
+                    "com.linkedin.eb94fbb1518f790c4545aafdf571c64e"
+                  ],
+                  "tapTargets": [],
+                  "displayAspectRatio": null,
+                  "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+                }
+              ],
+              "editableAccessibilityText": false,
+              "actionTarget": null,
+              "accessibilityTextAttributes": [],
+              "totalCount": null,
+              "accessibilityText": null,
+              "$recipeTypes": [
+                "com.linkedin.fe5b8a3ac5a4a165c17f53b7eae4209b"
+              ],
+              "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+            },
+            "controlName": null,
+            "navigationUrl": "https://www.linkedin.com/jobs/search?geoId=92000000&f_C=13759438",
+            "title": {
+              "textDirection": "USER_LOCALE",
+              "text": "1 job",
+              "attributesV2": [],
+              "accessibilityTextAttributesV2": [],
+              "accessibilityText": null,
+              "$recipeTypes": [
+                "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+              ],
+              "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+            },
+            "$recipeTypes": [
+              "com.linkedin.bd9a707a5b119c1f331373113f57344a"
+            ],
+            "$type": "com.linkedin.voyager.dash.search.SimpleInsight",
+            "searchActionType": "SEE_JOBS_AT_COMPANY",
+            "subtitleMaxNumLines": 1,
+            "titleFontSize": null,
+            "subtitle": null,
+            "subtitleFontSize": null,
+            "titleMaxNumLines": 1
+          },
+          "jobPostingFooterInsight": null,
+          "socialActivityCountsInsight": null,
+          "labelsInsight": null,
+          "premiumCustomCtaInsight": null
+        }
+      ],
+      "badgeIcon": null,
+      "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_company:13759438,SEARCH_SRP,DEFAULT)",
+      "showAdditionalCluster": false,
+      "ringStatus": null,
+      "primarySubtitle": {
+        "textDirection": "USER_LOCALE",
+        "text": "Automation Machinery Manufacturing \u2022 Penang",
+        "attributesV2": [],
+        "accessibilityTextAttributesV2": [],
+        "accessibilityText": null,
+        "$recipeTypes": [
+          "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+        ],
+        "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+      },
+      "badgeText": null,
+      "trackingId": "8ITEzqViTtuA7we7gBghMg==",
+      "summary": {
+        "textDirection": "USER_LOCALE",
+        "text": "At JAKA we automate, simplify and make your business smarter. Our cobots facilitate your transition to Industry 4.0.",
+        "attributesV2": [
+          {
+            "start": 112,
+            "length": 1,
+            "detailData": {
+              "jobPostingName": null,
+              "hyperlink": null,
+              "profileFamiliarName": null,
+              "color": null,
+              "companyName": null,
+              "icon": null,
+              "epoch": null,
+              "systemImage": null,
+              "textLink": null,
+              "listItemStyle": null,
+              "groupName": null,
+              "hyperlinkOpenExternally": null,
+              "listStyle": null,
+              "profileFullName": null,
+              "stringFieldReference": null,
+              "learningCourseName": null,
+              "profileMention": null,
+              "style": "BOLD",
+              "schoolName": null,
+              "hashtag": null
+            },
+            "$recipeTypes": [
+              "com.linkedin.b8a09c2c7547138a1c3aebdda8a94e12"
+            ],
+            "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+          }
+        ],
+        "accessibilityTextAttributesV2": [],
+        "accessibilityText": null,
+        "$recipeTypes": [
+          "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+        ],
+        "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+      },
+      "addEntityToSearchHistory": true,
+      "actorNavigationUrl": null,
+      "image": {
+        "attributes": [
+          {
+            "scalingType": null,
+            "detailData": {
+              "profilePictureWithoutFrame": null,
+              "profilePictureWithRingStatus": null,
+              "companyLogo": null,
+              "icon": null,
+              "systemImage": null,
+              "nonEntityGroupLogo": null,
+              "vectorImage": null,
+              "nonEntityProfessionalEventLogo": null,
+              "profilePicture": null,
+              "imageUrl": null,
+              "professionalEventLogo": null,
+              "nonEntityCompanyLogo": {
+                "*company": "urn:li:fsd_company:13759438",
+                "$recipeTypes": [
+                  "com.linkedin.3be27b5a0eb7edd91e98b14c0290096c"
+                ],
+                "vectorImage": {
+                  "digitalmediaAsset": null,
+                  "attribution": null,
+                  "c2paManifestData": null,
+                  "$recipeTypes": [
+                    "com.linkedin.28db8575bcf1c65bdc4bc15948d50ee9"
+                  ],
+                  "artifacts": [
+                    {
+                      "width": 100,
+                      "$recipeTypes": [
+                        "com.linkedin.f0f435b4425ee2990eba8f0a4d614944"
+                      ],
+                      "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/v2/D4D0BAQEovICQaHeRyw/company-logo_100_100/B4DZbx7M2mH8AU-/0/1747815550837/jakarobotics_logo?e=1753920000&v=beta&t=hXZrWl2WA0VUDSoMzSLxeml6npHEfz04RoCc6ohP_9o",
+                      "expiresAt": 1753920000000,
+                      "height": 100,
+                      "$type": "com.linkedin.common.VectorArtifact"
+                    }
+                  ],
+                  "rootUrl": "",
+                  "$type": "com.linkedin.common.VectorImage"
+                },
+                "$type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo"
+              },
+              "nonEntitySchoolLogo": null,
+              "groupLogo": null,
+              "schoolLogo": null,
+              "ghostImage": null,
+              "nonEntityProfilePicture": null
+            },
+            "tintColor": null,
+            "$recipeTypes": [
+              "com.linkedin.eb94fbb1518f790c4545aafdf571c64e"
+            ],
+            "tapTargets": [],
+            "displayAspectRatio": null,
+            "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+          }
+        ],
+        "editableAccessibilityText": false,
+        "actionTarget": null,
+        "accessibilityTextAttributes": [],
+        "totalCount": null,
+        "accessibilityText": "JAKA Robotics",
+        "$recipeTypes": [
+          "com.linkedin.fe5b8a3ac5a4a165c17f53b7eae4209b"
+        ],
+        "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+      },
+      "secondarySubtitle": {
+        "textDirection": "USER_LOCALE",
+        "text": "161K followers",
+        "attributesV2": [],
+        "accessibilityTextAttributesV2": [],
+        "accessibilityText": null,
+        "$recipeTypes": [
+          "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+        ],
+        "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+      },
+      "navigationUrl": "https://www.linkedin.com/company/jakarobotics/",
+      "entityEmbeddedObject": null,
+      "unreadIndicatorDetails": null,
+      "$recipeTypes": [
+        "com.linkedin.cf4b25c18907ea8eafe915c8bfa24109"
+      ],
+      "target": null,
+      "$type": "com.linkedin.voyager.dash.search.EntityResultViewModel",
+      "actorTrackingUrn": null,
+      "navigationContext": {
+        "openExternally": false,
+        "$recipeTypes": [
+          "com.linkedin.55ee9afd4182671fe7e271f615659525"
+        ],
+        "url": "https://www.linkedin.com/company/jakarobotics/",
+        "$type": "com.linkedin.voyager.dash.search.NavigationContext"
+      }
+    },
+    {
+      "template": "UNIVERSAL",
+      "actorNavigationContext": null,
+      "bserpEntityNavigationalUrl": "https://www.linkedin.com/search/results/all/?keywords=AMT%20PostPro&origin=ENTITY_SEARCH_HOME_HISTORY&heroEntityKey=urn%3Ali%3Aorganization%3A9393813",
+      "trackingUrn": "urn:li:company:9393813",
+      "controlName": null,
+      "interstitialComponent": null,
+      "primaryActions": [],
+      "entityCustomTrackingInfo": null,
+      "badgeData": null,
+      "title": {
+        "textDirection": "USER_LOCALE",
+        "text": "AMT PostPro",
+        "attributesV2": [],
+        "accessibilityTextAttributesV2": [],
+        "accessibilityText": null,
+        "$recipeTypes": [
+          "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+        ],
+        "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+      },
+      "overflowActions": [],
+      "*lazyLoadedActions": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:9393813,COMPANIES,SEARCH_SRP)",
+      "searchActionType": null,
+      "actorInsights": [],
+      "insightsResolutionResults": [],
+      "badgeIcon": null,
+      "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_company:9393813,SEARCH_SRP,DEFAULT)",
+      "showAdditionalCluster": false,
+      "ringStatus": null,
+      "primarySubtitle": {
+        "textDirection": "USER_LOCALE",
+        "text": "Industrial Machinery Manufacturing \u2022 Sheffield, South Yorkshire",
+        "attributesV2": [],
+        "accessibilityTextAttributesV2": [],
+        "accessibilityText": null,
+        "$recipeTypes": [
+          "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+        ],
+        "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+      },
+      "badgeText": null,
+      "trackingId": "DxFqOsgsTB+rxunTnsTePQ==",
+      "summary": {
+        "textDirection": "USER_LOCALE",
+        "text": "...to providing automated finishing technology for every 3D printer. Our expertise lies in chemical vapor smoothing and end-to-end automation, offering solutions...",
+        "attributesV2": [
+          {
+            "start": 152,
+            "length": 9,
+            "detailData": {
+              "jobPostingName": null,
+              "hyperlink": null,
+              "profileFamiliarName": null,
+              "color": null,
+              "companyName": null,
+              "icon": null,
+              "epoch": null,
+              "systemImage": null,
+              "textLink": null,
+              "listItemStyle": null,
+              "groupName": null,
+              "hyperlinkOpenExternally": null,
+              "listStyle": null,
+              "profileFullName": null,
+              "stringFieldReference": null,
+              "learningCourseName": null,
+              "profileMention": null,
+              "style": "BOLD",
+              "schoolName": null,
+              "hashtag": null
+            },
+            "$recipeTypes": [
+              "com.linkedin.b8a09c2c7547138a1c3aebdda8a94e12"
+            ],
+            "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+          }
+        ],
+        "accessibilityTextAttributesV2": [],
+        "accessibilityText": null,
+        "$recipeTypes": [
+          "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+        ],
+        "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+      },
+      "addEntityToSearchHistory": true,
+      "actorNavigationUrl": null,
+      "image": {
+        "attributes": [
+          {
+            "scalingType": null,
+            "detailData": {
+              "profilePictureWithoutFrame": null,
+              "profilePictureWithRingStatus": null,
+              "companyLogo": null,
+              "icon": null,
+              "systemImage": null,
+              "nonEntityGroupLogo": null,
+              "vectorImage": null,
+              "nonEntityProfessionalEventLogo": null,
+              "profilePicture": null,
+              "imageUrl": null,
+              "professionalEventLogo": null,
+              "nonEntityCompanyLogo": {
+                "*company": "urn:li:fsd_company:9393813",
+                "$recipeTypes": [
+                  "com.linkedin.3be27b5a0eb7edd91e98b14c0290096c"
+                ],
+                "vectorImage": {
+                  "digitalmediaAsset": null,
+                  "attribution": null,
+                  "c2paManifestData": null,
+                  "$recipeTypes": [
+                    "com.linkedin.28db8575bcf1c65bdc4bc15948d50ee9"
+                  ],
+                  "artifacts": [
+                    {
+                      "width": 100,
+                      "$recipeTypes": [
+                        "com.linkedin.f0f435b4425ee2990eba8f0a4d614944"
+                      ],
+                      "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/v2/D4D0BAQH_gFOewu5Tsg/company-logo_100_100/company-logo_100_100/0/1710148359082/additive_manufacturing_technologies_logo?e=1753920000&v=beta&t=sMNsCrrojMpK2EicxPq9R8tDZOOmgEezlSvinqHS-j8",
+                      "expiresAt": 1753920000000,
+                      "height": 100,
+                      "$type": "com.linkedin.common.VectorArtifact"
+                    }
+                  ],
+                  "rootUrl": "",
+                  "$type": "com.linkedin.common.VectorImage"
+                },
+                "$type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo"
+              },
+              "nonEntitySchoolLogo": null,
+              "groupLogo": null,
+              "schoolLogo": null,
+              "ghostImage": null,
+              "nonEntityProfilePicture": null
+            },
+            "tintColor": null,
+            "$recipeTypes": [
+              "com.linkedin.eb94fbb1518f790c4545aafdf571c64e"
+            ],
+            "tapTargets": [],
+            "displayAspectRatio": null,
+            "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+          }
+        ],
+        "editableAccessibilityText": false,
+        "actionTarget": null,
+        "accessibilityTextAttributes": [],
+        "totalCount": null,
+        "accessibilityText": "AMT PostPro",
+        "$recipeTypes": [
+          "com.linkedin.fe5b8a3ac5a4a165c17f53b7eae4209b"
+        ],
+        "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+      },
+      "secondarySubtitle": {
+        "textDirection": "USER_LOCALE",
+        "text": "18K followers",
+        "attributesV2": [],
+        "accessibilityTextAttributesV2": [],
+        "accessibilityText": null,
+        "$recipeTypes": [
+          "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+        ],
+        "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+      },
+      "navigationUrl": "https://www.linkedin.com/company/additive-manufacturing-technologies/",
+      "entityEmbeddedObject": null,
+      "unreadIndicatorDetails": null,
+      "$recipeTypes": [
+        "com.linkedin.cf4b25c18907ea8eafe915c8bfa24109"
+      ],
+      "target": null,
+      "$type": "com.linkedin.voyager.dash.search.EntityResultViewModel",
+      "actorTrackingUrn": null,
+      "navigationContext": {
+        "openExternally": false,
+        "$recipeTypes": [
+          "com.linkedin.55ee9afd4182671fe7e271f615659525"
+        ],
+        "url": "https://www.linkedin.com/company/additive-manufacturing-technologies/",
+        "$type": "com.linkedin.voyager.dash.search.NavigationContext"
+      }
+    },
+    {
+      "template": "UNIVERSAL",
+      "actorNavigationContext": null,
+      "bserpEntityNavigationalUrl": "https://www.linkedin.com/search/results/all/?keywords=Andaltec%20Centro%20Tecnol%C3%B3gico&origin=ENTITY_SEARCH_HOME_HISTORY&heroEntityKey=urn%3Ali%3Aorganization%3A1323541",
+      "trackingUrn": "urn:li:company:1323541",
+      "controlName": null,
+      "interstitialComponent": null,
+      "primaryActions": [],
+      "entityCustomTrackingInfo": null,
+      "badgeData": null,
+      "title": {
+        "textDirection": "USER_LOCALE",
+        "text": "Andaltec Centro Tecnol\u00f3gico",
+        "attributesV2": [],
+        "accessibilityTextAttributesV2": [],
+        "accessibilityText": null,
+        "$recipeTypes": [
+          "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+        ],
+        "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+      },
+      "overflowActions": [],
+      "*lazyLoadedActions": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:1323541,COMPANIES,SEARCH_SRP)",
+      "searchActionType": null,
+      "actorInsights": [],
+      "insightsResolutionResults": [],
+      "badgeIcon": null,
+      "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_company:1323541,SEARCH_SRP,DEFAULT)",
+      "showAdditionalCluster": false,
+      "ringStatus": null,
+      "primarySubtitle": {
+        "textDirection": "USER_LOCALE",
+        "text": "Research Services \u2022 Martos, Ja\u00e9n",
+        "attributesV2": [],
+        "accessibilityTextAttributesV2": [],
+        "accessibilityText": null,
+        "$recipeTypes": [
+          "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+        ],
+        "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+      },
+      "badgeText": null,
+      "trackingId": "W9RYMwooRpmuBXmON+slHw==",
+      "summary": {
+        "textDirection": "USER_LOCALE",
+        "text": "..., PhD students, Engineers, Designers, Chemistry and Physics Graduates.     In addition, ANDALTEC personnel include experts in the field of polymers who know the industrial reality in depth and provide appropriate solutions which best meet the needs of enterprises.     www.andaltec.org    2. Our main expertise areas...",
+        "attributesV2": [
+          {
+            "start": 142,
+            "length": 8,
+            "detailData": {
+              "jobPostingName": null,
+              "hyperlink": null,
+              "profileFamiliarName": null,
+              "color": null,
+              "companyName": null,
+              "icon": null,
+              "epoch": null,
+              "systemImage": null,
+              "textLink": null,
+              "listItemStyle": null,
+              "groupName": null,
+              "hyperlinkOpenExternally": null,
+              "listStyle": null,
+              "profileFullName": null,
+              "stringFieldReference": null,
+              "learningCourseName": null,
+              "profileMention": null,
+              "style": "BOLD",
+              "schoolName": null,
+              "hashtag": null
+            },
+            "$recipeTypes": [
+              "com.linkedin.b8a09c2c7547138a1c3aebdda8a94e12"
+            ],
+            "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+          },
+          {
+            "start": 216,
+            "length": 9,
+            "detailData": {
+              "jobPostingName": null,
+              "hyperlink": null,
+              "profileFamiliarName": null,
+              "color": null,
+              "companyName": null,
+              "icon": null,
+              "epoch": null,
+              "systemImage": null,
+              "textLink": null,
+              "listItemStyle": null,
+              "groupName": null,
+              "hyperlinkOpenExternally": null,
+              "listStyle": null,
+              "profileFullName": null,
+              "stringFieldReference": null,
+              "learningCourseName": null,
+              "profileMention": null,
+              "style": "BOLD",
+              "schoolName": null,
+              "hashtag": null
+            },
+            "$recipeTypes": [
+              "com.linkedin.b8a09c2c7547138a1c3aebdda8a94e12"
+            ],
+            "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+          }
+        ],
+        "accessibilityTextAttributesV2": [],
+        "accessibilityText": null,
+        "$recipeTypes": [
+          "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+        ],
+        "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+      },
+      "addEntityToSearchHistory": true,
+      "actorNavigationUrl": null,
+      "image": {
+        "attributes": [
+          {
+            "scalingType": null,
+            "detailData": {
+              "profilePictureWithoutFrame": null,
+              "profilePictureWithRingStatus": null,
+              "companyLogo": null,
+              "icon": null,
+              "systemImage": null,
+              "nonEntityGroupLogo": null,
+              "vectorImage": null,
+              "nonEntityProfessionalEventLogo": null,
+              "profilePicture": null,
+              "imageUrl": null,
+              "professionalEventLogo": null,
+              "nonEntityCompanyLogo": {
+                "*company": "urn:li:fsd_company:1323541",
+                "$recipeTypes": [
+                  "com.linkedin.3be27b5a0eb7edd91e98b14c0290096c"
+                ],
+                "vectorImage": {
+                  "digitalmediaAsset": null,
+                  "attribution": null,
+                  "c2paManifestData": null,
+                  "$recipeTypes": [
+                    "com.linkedin.28db8575bcf1c65bdc4bc15948d50ee9"
+                  ],
+                  "artifacts": [
+                    {
+                      "width": 100,
+                      "$recipeTypes": [
+                        "com.linkedin.f0f435b4425ee2990eba8f0a4d614944"
+                      ],
+                      "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/v2/D4D0BAQEsaeOh9xe1fw/company-logo_100_100/company-logo_100_100/0/1718280973800/fundacion_andaltec_i_d_i_centro_tecnologico_del_plastico_logo?e=1753920000&v=beta&t=v_f7Jb6bLZ4V546X2QzIHuigkeqblKyXwd2k3JJ_jVQ",
+                      "expiresAt": 1753920000000,
+                      "height": 100,
+                      "$type": "com.linkedin.common.VectorArtifact"
+                    }
+                  ],
+                  "rootUrl": "",
+                  "$type": "com.linkedin.common.VectorImage"
+                },
+                "$type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo"
+              },
+              "nonEntitySchoolLogo": null,
+              "groupLogo": null,
+              "schoolLogo": null,
+              "ghostImage": null,
+              "nonEntityProfilePicture": null
+            },
+            "tintColor": null,
+            "$recipeTypes": [
+              "com.linkedin.eb94fbb1518f790c4545aafdf571c64e"
+            ],
+            "tapTargets": [],
+            "displayAspectRatio": null,
+            "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+          }
+        ],
+        "editableAccessibilityText": false,
+        "actionTarget": null,
+        "accessibilityTextAttributes": [],
+        "totalCount": null,
+        "accessibilityText": "Andaltec Centro Tecnol\u00f3gico",
+        "$recipeTypes": [
+          "com.linkedin.fe5b8a3ac5a4a165c17f53b7eae4209b"
+        ],
+        "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+      },
+      "secondarySubtitle": {
+        "textDirection": "USER_LOCALE",
+        "text": "7K followers",
+        "attributesV2": [],
+        "accessibilityTextAttributesV2": [],
+        "accessibilityText": null,
+        "$recipeTypes": [
+          "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+        ],
+        "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+      },
+      "navigationUrl": "https://www.linkedin.com/company/fundacion-andaltec-i-d-i-centro-tecnologico-del-plastico/",
+      "entityEmbeddedObject": null,
+      "unreadIndicatorDetails": null,
+      "$recipeTypes": [
+        "com.linkedin.cf4b25c18907ea8eafe915c8bfa24109"
+      ],
+      "target": null,
+      "$type": "com.linkedin.voyager.dash.search.EntityResultViewModel",
+      "actorTrackingUrn": null,
+      "navigationContext": {
+        "openExternally": false,
+        "$recipeTypes": [
+          "com.linkedin.55ee9afd4182671fe7e271f615659525"
+        ],
+        "url": "https://www.linkedin.com/company/fundacion-andaltec-i-d-i-centro-tecnologico-del-plastico/",
+        "$type": "com.linkedin.voyager.dash.search.NavigationContext"
+      }
+    },
+    {
+      "template": "UNIVERSAL",
+      "actorNavigationContext": null,
+      "bserpEntityNavigationalUrl": "https://www.linkedin.com/search/results/all/?keywords=NanoXplore%20Inc%2E&origin=ENTITY_SEARCH_HOME_HISTORY&heroEntityKey=urn%3Ali%3Aorganization%3A2614765",
+      "trackingUrn": "urn:li:company:2614765",
+      "controlName": null,
+      "interstitialComponent": null,
+      "primaryActions": [],
+      "entityCustomTrackingInfo": null,
+      "badgeData": null,
+      "title": {
+        "textDirection": "USER_LOCALE",
+        "text": "NanoXplore Inc.",
+        "attributesV2": [],
+        "accessibilityTextAttributesV2": [],
+        "accessibilityText": null,
+        "$recipeTypes": [
+          "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+        ],
+        "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+      },
+      "overflowActions": [],
+      "*lazyLoadedActions": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:2614765,COMPANIES,SEARCH_SRP)",
+      "searchActionType": null,
+      "actorInsights": [],
+      "insightsResolutionResults": [
+        {
+          "jobPostingInsight": null,
+          "relationshipsInsight": null,
+          "serviceProviderRatingInsight": null,
+          "simpleInsight": {
+            "image": {
+              "attributes": [
+                {
+                  "scalingType": "ASPECT_FIT",
+                  "detailData": {
+                    "profilePictureWithoutFrame": null,
+                    "profilePictureWithRingStatus": null,
+                    "companyLogo": null,
+                    "icon": "IC_BRIEFCASE_16DP",
+                    "systemImage": null,
+                    "nonEntityGroupLogo": null,
+                    "vectorImage": null,
+                    "nonEntityProfessionalEventLogo": null,
+                    "profilePicture": null,
+                    "imageUrl": null,
+                    "professionalEventLogo": null,
+                    "nonEntityCompanyLogo": null,
+                    "nonEntitySchoolLogo": null,
+                    "groupLogo": null,
+                    "schoolLogo": null,
+                    "ghostImage": null,
+                    "nonEntityProfilePicture": null
+                  },
+                  "tintColor": null,
+                  "$recipeTypes": [
+                    "com.linkedin.eb94fbb1518f790c4545aafdf571c64e"
+                  ],
+                  "tapTargets": [],
+                  "displayAspectRatio": null,
+                  "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+                }
+              ],
+              "editableAccessibilityText": false,
+              "actionTarget": null,
+              "accessibilityTextAttributes": [],
+              "totalCount": null,
+              "accessibilityText": null,
+              "$recipeTypes": [
+                "com.linkedin.fe5b8a3ac5a4a165c17f53b7eae4209b"
+              ],
+              "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+            },
+            "controlName": null,
+            "navigationUrl": "https://www.linkedin.com/jobs/search?geoId=92000000&f_C=2614765",
+            "title": {
+              "textDirection": "USER_LOCALE",
+              "text": "9 jobs",
+              "attributesV2": [],
+              "accessibilityTextAttributesV2": [],
+              "accessibilityText": null,
+              "$recipeTypes": [
+                "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+              ],
+              "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+            },
+            "$recipeTypes": [
+              "com.linkedin.bd9a707a5b119c1f331373113f57344a"
+            ],
+            "$type": "com.linkedin.voyager.dash.search.SimpleInsight",
+            "searchActionType": "SEE_JOBS_AT_COMPANY",
+            "subtitleMaxNumLines": 1,
+            "titleFontSize": null,
+            "subtitle": null,
+            "subtitleFontSize": null,
+            "titleMaxNumLines": 1
+          },
+          "jobPostingFooterInsight": null,
+          "socialActivityCountsInsight": null,
+          "labelsInsight": null,
+          "premiumCustomCtaInsight": null
+        }
+      ],
+      "badgeIcon": null,
+      "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_company:2614765,SEARCH_SRP,DEFAULT)",
+      "showAdditionalCluster": false,
+      "ringStatus": null,
+      "primarySubtitle": {
+        "textDirection": "USER_LOCALE",
+        "text": "Nanotechnology Research \u2022 Montreal, Quebec",
+        "attributesV2": [],
+        "accessibilityTextAttributesV2": [],
+        "accessibilityText": null,
+        "$recipeTypes": [
+          "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+        ],
+        "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+      },
+      "badgeText": null,
+      "trackingId": "QbOBk4tHS5WYC+DaJspHLQ==",
+      "summary": {
+        "textDirection": "USER_LOCALE",
+        "text": "Performance Through Carbon Chemistry \u2022 Specialties: Graphene-enhanced polymers",
+        "attributesV2": [
+          {
+            "start": 70,
+            "length": 8,
+            "detailData": {
+              "jobPostingName": null,
+              "hyperlink": null,
+              "profileFamiliarName": null,
+              "color": null,
+              "companyName": null,
+              "icon": null,
+              "epoch": null,
+              "systemImage": null,
+              "textLink": null,
+              "listItemStyle": null,
+              "groupName": null,
+              "hyperlinkOpenExternally": null,
+              "listStyle": null,
+              "profileFullName": null,
+              "stringFieldReference": null,
+              "learningCourseName": null,
+              "profileMention": null,
+              "style": "BOLD",
+              "schoolName": null,
+              "hashtag": null
+            },
+            "$recipeTypes": [
+              "com.linkedin.b8a09c2c7547138a1c3aebdda8a94e12"
+            ],
+            "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+          }
+        ],
+        "accessibilityTextAttributesV2": [],
+        "accessibilityText": null,
+        "$recipeTypes": [
+          "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+        ],
+        "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+      },
+      "addEntityToSearchHistory": true,
+      "actorNavigationUrl": null,
+      "image": {
+        "attributes": [
+          {
+            "scalingType": null,
+            "detailData": {
+              "profilePictureWithoutFrame": null,
+              "profilePictureWithRingStatus": null,
+              "companyLogo": null,
+              "icon": null,
+              "systemImage": null,
+              "nonEntityGroupLogo": null,
+              "vectorImage": null,
+              "nonEntityProfessionalEventLogo": null,
+              "profilePicture": null,
+              "imageUrl": null,
+              "professionalEventLogo": null,
+              "nonEntityCompanyLogo": {
+                "*company": "urn:li:fsd_company:2614765",
+                "$recipeTypes": [
+                  "com.linkedin.3be27b5a0eb7edd91e98b14c0290096c"
+                ],
+                "vectorImage": {
+                  "digitalmediaAsset": null,
+                  "attribution": null,
+                  "c2paManifestData": null,
+                  "$recipeTypes": [
+                    "com.linkedin.28db8575bcf1c65bdc4bc15948d50ee9"
+                  ],
+                  "artifacts": [
+                    {
+                      "width": 100,
+                      "$recipeTypes": [
+                        "com.linkedin.f0f435b4425ee2990eba8f0a4d614944"
+                      ],
+                      "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/v2/C510BAQGOAS9vanBvPQ/company-logo_100_100/company-logo_100_100/0/1631311847610?e=1753920000&v=beta&t=9xNb4GRLyzu-4AKoBun-nPA4hij9Djvt4jLovyvNw20",
+                      "expiresAt": 1753920000000,
+                      "height": 100,
+                      "$type": "com.linkedin.common.VectorArtifact"
+                    }
+                  ],
+                  "rootUrl": "",
+                  "$type": "com.linkedin.common.VectorImage"
+                },
+                "$type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo"
+              },
+              "nonEntitySchoolLogo": null,
+              "groupLogo": null,
+              "schoolLogo": null,
+              "ghostImage": null,
+              "nonEntityProfilePicture": null
+            },
+            "tintColor": null,
+            "$recipeTypes": [
+              "com.linkedin.eb94fbb1518f790c4545aafdf571c64e"
+            ],
+            "tapTargets": [],
+            "displayAspectRatio": null,
+            "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+          }
+        ],
+        "editableAccessibilityText": false,
+        "actionTarget": null,
+        "accessibilityTextAttributes": [],
+        "totalCount": null,
+        "accessibilityText": "NanoXplore Inc.",
+        "$recipeTypes": [
+          "com.linkedin.fe5b8a3ac5a4a165c17f53b7eae4209b"
+        ],
+        "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+      },
+      "secondarySubtitle": {
+        "textDirection": "USER_LOCALE",
+        "text": "11K followers",
+        "attributesV2": [],
+        "accessibilityTextAttributesV2": [],
+        "accessibilityText": null,
+        "$recipeTypes": [
+          "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+        ],
+        "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+      },
+      "navigationUrl": "https://www.linkedin.com/company/nanoxplore-inc/",
+      "entityEmbeddedObject": null,
+      "unreadIndicatorDetails": null,
+      "$recipeTypes": [
+        "com.linkedin.cf4b25c18907ea8eafe915c8bfa24109"
+      ],
+      "target": null,
+      "$type": "com.linkedin.voyager.dash.search.EntityResultViewModel",
+      "actorTrackingUrn": null,
+      "navigationContext": {
+        "openExternally": false,
+        "$recipeTypes": [
+          "com.linkedin.55ee9afd4182671fe7e271f615659525"
+        ],
+        "url": "https://www.linkedin.com/company/nanoxplore-inc/",
+        "$type": "com.linkedin.voyager.dash.search.NavigationContext"
+      }
+    },
+    {
+      "entityUrn": "urn:li:fsd_feedbackCard:SRP_FEEDBACK_COMPANIES",
+      "$recipeTypes": [
+        "com.linkedin.2d3e7b4bccc9c85f103b0dc9fdfd3669"
+      ],
+      "trackingId": "\u00c9\u00a1\u0094\u00033\u0013AI\u0099(\u00b5\u0081A\u008c\u00e8\u00bc",
+      "$type": "com.linkedin.voyager.dash.search.FeedbackCard"
+    },
+    {
+      "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:9393813,COMPANIES,SEARCH_SRP)",
+      "$recipeTypes": [
+        "com.linkedin.92ece182782ae4412e712925cd97f9fe"
+      ],
+      "$type": "com.linkedin.voyager.dash.search.LazyLoadedActions"
+    },
+    {
+      "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:3582034,COMPANIES,SEARCH_SRP)",
+      "$recipeTypes": [
+        "com.linkedin.92ece182782ae4412e712925cd97f9fe"
+      ],
+      "$type": "com.linkedin.voyager.dash.search.LazyLoadedActions"
+    },
+    {
+      "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:152360,COMPANIES,SEARCH_SRP)",
+      "$recipeTypes": [
+        "com.linkedin.92ece182782ae4412e712925cd97f9fe"
+      ],
+      "$type": "com.linkedin.voyager.dash.search.LazyLoadedActions"
+    },
+    {
+      "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:593864,COMPANIES,SEARCH_SRP)",
+      "$recipeTypes": [
+        "com.linkedin.92ece182782ae4412e712925cd97f9fe"
+      ],
+      "$type": "com.linkedin.voyager.dash.search.LazyLoadedActions"
+    },
+    {
+      "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:4553415,COMPANIES,SEARCH_SRP)",
+      "$recipeTypes": [
+        "com.linkedin.92ece182782ae4412e712925cd97f9fe"
+      ],
+      "$type": "com.linkedin.voyager.dash.search.LazyLoadedActions"
+    },
+    {
+      "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:13759438,COMPANIES,SEARCH_SRP)",
+      "$recipeTypes": [
+        "com.linkedin.92ece182782ae4412e712925cd97f9fe"
+      ],
+      "$type": "com.linkedin.voyager.dash.search.LazyLoadedActions"
+    },
+    {
+      "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:89774913,COMPANIES,SEARCH_SRP)",
+      "$recipeTypes": [
+        "com.linkedin.92ece182782ae4412e712925cd97f9fe"
+      ],
+      "$type": "com.linkedin.voyager.dash.search.LazyLoadedActions"
+    },
+    {
+      "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:1323541,COMPANIES,SEARCH_SRP)",
+      "$recipeTypes": [
+        "com.linkedin.92ece182782ae4412e712925cd97f9fe"
+      ],
+      "$type": "com.linkedin.voyager.dash.search.LazyLoadedActions"
+    },
+    {
+      "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:11292013,COMPANIES,SEARCH_SRP)",
+      "$recipeTypes": [
+        "com.linkedin.92ece182782ae4412e712925cd97f9fe"
+      ],
+      "$type": "com.linkedin.voyager.dash.search.LazyLoadedActions"
+    },
+    {
+      "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:2614765,COMPANIES,SEARCH_SRP)",
+      "$recipeTypes": [
+        "com.linkedin.92ece182782ae4412e712925cd97f9fe"
+      ],
+      "$type": "com.linkedin.voyager.dash.search.LazyLoadedActions"
+    }
+  ]
+}

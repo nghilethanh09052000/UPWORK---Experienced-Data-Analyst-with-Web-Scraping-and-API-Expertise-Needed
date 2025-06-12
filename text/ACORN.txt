@@ -1,0 +1,620 @@
+ACORN_TRAINING_LTD - Accounts
+Company registration number
+06517343
+(England and Wales)
+ACORN TRAINING LTD
+UNAUDITED FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MARCH 2024
+PAGES FOR FILING WITH REGISTRAR
+ACORN TRAINING LTD
+CONTENTS
+Page
+Balance sheet
+1 - 2
+Notes to the financial statements
+3 - 7
+ACORN TRAINING LTD
+BALANCE SHEET
+AS AT
+31 MARCH 2024
+31 March 2024
+- 1 -
+2024
+2023
+Notes
+£
+£
+£
+£
+Fixed assets
+Intangible assets
+3
+13,061
+26,121
+Tangible assets
+4
+502,657
+314,859
+515,718
+340,980
+Current assets
+Debtors
+5
+2,272,940
+2,799,508
+Cash at bank and in hand
+668,257
+1,192,349
+2,941,197
+3,991,857
+Creditors: amounts falling due within one year
+6
+(
+1,167,894
+)
+(
+2,145,438
+)
+Net current assets
+1,773,303
+1,846,419
+Total assets less current liabilities
+2,289,021
+2,187,399
+Creditors: amounts falling due after more than one year
+7
+(
+221,808
+)
+-
+0
+Provisions for liabilities
+Deferred tax liability
+103,432
+47,310
+(103,432)
+(47,310)
+Net assets
+1,963,781
+2,140,089
+Capital and reserves
+Called up share capital
+100
+100
+Profit and loss reserves
+1,963,681
+2,139,989
+Total equity
+1,963,781
+2,140,089
+ACORN TRAINING LTD
+BALANCE SHEET (CONTINUED)
+AS AT
+31 MARCH 2024
+31 March 2024
+- 2 -
+For the financial year ended 31 March 2024 the company was entitled to exemption from audit under section 477 of the Companies Act 2006
+relating to small companies.
+T
+he members have not required the company to obtain an audit of its financial statements for the year in question in accordance with section 476
+.
+The director acknowledges his responsibilities for complying with the requirements of the Companies Act 2006 with respect to accounting records and the preparation of financial statements.
+These financial statements have been prepared and delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+The director of the company has elected not to include a copy of the profit and loss account within the financial statements.
+true
+The financial statements were approved and signed by the director and authorised for issue on
+19 December 2024
+Mr G Saldanha - Fallows
+Director
+Company registration number
+06517343
+(England and Wales)
+ACORN TRAINING LTD
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MARCH 2024
+- 3 -
+1
+Accounting policies
+Company information
+Acorn Training Ltd is a
+private
+company
+limited by shares
+incorporated in
+England and Wales
+.
+The registered office is
+Acorn House, 140 Brownhills Road, Tunstall, Stoke on Trent, ST6 4JU.
+1.1
+Accounting convention
+These financial statements have been prepared in accordance with FRS 102 “The Financial Reporting Standard applicable in the UK and Republic of Ireland” (“FRS 102”) and the requirements of the Companies Act 2006.
+The financial statements are prepared in
+sterling
+, which is the functional currency of the company.
+Monetary a
+mounts
+in these financial statements are
+rounded to the nearest £.
+The financial statements have been prepared under the historical cost convention. The principal accounting policies adopted are set out below.
+1.2
+Turnover
+Turnover is recognised at the fair value of the consideration received or receivable for goods and services provided in the normal course of business
+, and
+is shown net of VAT and other sales related taxes
+.
+When cash inflows are deferred and represent a financing arrangement, the fair value of the consideration is the present value of the future receipts. The difference between the fair value of the consideration and the nominal amount received is recognised as interest income.
+Revenue from contracts for the provision of professional services is recognised by reference to the stage of completion when the stage of completion, costs incurred and costs to complete can be estimated reliably. The stage of completion is calculated by comparing costs incurred, mainly in relation to contractual hourly staff rates and materials, as a proportion of total costs.
+Where the outcome cannot be estimated reliably, revenue is recognised only to the extent of the expenses recognised that
+it is probable will be
+recover
+ed
+.
+1.3
+Intangible fixed assets other than goodwill
+Intangible assets acquired separately from a business are recognised at cost and are subsequently measured at cost less accumulated amortisation and accumulated impairment losses.
+Intangible assets acquired on business combinations are recognised separately from goodwill at the acquisition date
+where
+it is probable that the expected future economic benefits that are attributable to the asset will flow to the entity and the
+fair
+value of the asset can be measured reliably; the intangible asset arises from contractual or other legal rights; and the intangible asset is separable from the entity.
+Amortisation is recognised so as to write off the cost or valuation of assets less their residual values over their useful lives on the following bases:
+Development costs
+Over its estimated useful economic life of 5 years
+1.4
+Tangible fixed assets
+Tangible fixed assets
+are initially measured at cost and subsequently measured at cost or valuation, net of depreciation and any impairment losses.
+ACORN TRAINING LTD
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 MARCH 2024
+1
+Accounting policies
+(Continued)
+- 4 -
+Depreciation is recognised so as to write off the cost or valuation of assets less their residual values over their useful lives on the following bases:
+Freehold land and buildings
+2% on a reducing balance basis
+Leasehold improvements
+Over the term of the lease
+Fixtures and fittings
+5 years straight line basis
+Computers
+3 years straight line basis
+Motor vehicles
+25% on a reducing balance basis
+The gain or loss arising on the disposal of an asset is determined as the difference between the sale proceeds and the carrying value of the asset, and
+is credited or charged to profit or loss
+.
+1.5
+Taxation
+The tax expense represents the sum of the tax currently payable and deferred tax.
+Current tax
+The tax currently payable is based on taxable profit for the year. Taxable profit differs from net profit as reported in the
+profit and loss account
+because it excludes items of income or expense that are taxable or deductible in other years and it further excludes items that are never taxable or deductible. The
+company’s
+liability for current tax is calculated using tax rates that have been enacted or substantively enacted by the reporting end date.
+Deferred tax
+Deferred tax liabilities are generally recognised for all timing differences and deferred tax assets are recognised to the extent that it is probable that they will be recovered against the reversal of deferred tax liabilities or other future taxable profits. Such assets and liabilities are not recognised if the timing difference arises from goodwill or from the initial recognition of other assets and liabilities in a transaction that affects neither the tax profit nor the accounting profit.
+The carrying amount of deferred tax assets is reviewed at each reporting end date and reduced to the extent that it is no longer probable that sufficient taxable profits will be available to allow all or part of the asset to be recovered. Deferred tax is calculated at the tax rates that are expected to apply in the period when the liability is settled or the asset is realised. Deferred tax is charged or credited in the
+profit and loss account
+, except when it relates to items charged or credited directly to equity, in which case the deferred tax is also dealt with in equity. Deferred tax assets and liabilities are offset when the
+company
+has a legally enforceable right to offset current tax assets and liabilities and the deferred tax assets and liabilities relate to taxes levied by the same tax authority.
+1.6
+Employee benefits
+The costs of short-term employee benefits are recognised as a liability and an expense, unless those costs are required to be recognised as part of the cost of stock or
+fixed assets
+.
+The cost of any unused holiday entitlement is recognised in the period in which the employee’s services are received.
+Termination benefits are recognised immediately as an expense when the company is demonstrably committed to terminate the employment of an employee or to provide termination benefits.
+ACORN TRAINING LTD
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 MARCH 2024
+1
+Accounting policies
+(Continued)
+- 5 -
+1.7
+Leases
+Leases are classified as finance leases whenever the terms of the lease transfer substantially all the risks and rewards of ownership to the lessees. All other leases are classified as operating leases.
+Assets held under finance leases are recognised as assets at the lower of the assets fair
+value at the date of inception and the present value of the minimum lease payments. The related liability is included in the balance sheet as a finance lease obligation. Lease payments are treated as consisting of capital and interest elements. The interest is charged to profit or loss so as to produce a constant periodic rate of interest on the remaining balance of the liability.
+Rentals payable under operating leases,
+including
+any lease incentives received, are charged to
+profit or loss
+on a straight line basis over the term of the relevant lease except where another more systematic basis is more representative of the time pattern in which economic benefits from the lease
+s
+asset are consumed.
+1.8
+Government grants
+Government grants are recognised at the fair value of the asset receive
+d
+or receivable when there is reasonable assurance that the grant conditions will be met and the grants will be received.
+A grant that specifies performance conditions is recognised in income when the performance conditions are met
+.
+Where a
+grant does not specify performance conditions
+it
+is recognised in income when the proceeds are received or receivable
+. A grant received before the recognition criteria are satisfied is recognised as a liability.
+2
+Employees
+The average monthly number of persons (including directors) employed by the company during the year was:
+2024
+2023
+Number
+Number
+Total
+158
+160
+3
+Intangible fixed assets
+Development costs
+£
+Cost
+At 1 April 2023 and 31 March 2024
+65,303
+Amortisation and impairment
+At 1 April 2023
+39,182
+Amortisation charged for the year
+13,061
+At 31 March 2024
+52,242
+Carrying amount
+At 31 March 2024
+13,061
+At 31 March 2023
+26,121
+ACORN TRAINING LTD
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 MARCH 2024
+- 6 -
+4
+Tangible fixed assets
+Freehold land and buildings
+Leasehold improvements
+Fixtures and fittings
+Computers
+Motor vehicles
+Total
+£
+£
+£
+£
+£
+£
+Cost
+At 1 April 2023
+150,870
+199,360
+16,884
+134,427
+11,015
+512,556
+Additions
+-
+0
+167,422
+21,631
+37,515
+75,990
+302,558
+At 31 March 2024
+150,870
+366,782
+38,515
+171,942
+87,005
+815,114
+Depreciation and impairment
+At 1 April 2023
+30,532
+58,915
+4,973
+95,022
+8,255
+197,697
+Depreciation charged in the year
+3,017
+73,074
+2,227
+31,003
+5,439
+114,760
+At 31 March 2024
+33,549
+131,989
+7,200
+126,025
+13,694
+312,457
+Carrying amount
+At 31 March 2024
+117,321
+234,793
+31,315
+45,917
+73,311
+502,657
+At 31 March 2023
+120,338
+140,445
+11,911
+39,405
+2,760
+314,859
+5
+Debtors
+2024
+2023
+Amounts falling due within one year:
+£
+£
+Trade debtors
+1,346,390
+1,713,989
+Other debtors
+729,776
+924,520
+Prepayments and accrued income
+196,774
+160,999
+2,272,940
+2,799,508
+6
+Creditors: amounts falling due within one year
+2024
+2023
+Notes
+£
+£
+Obligations under finance leases
+10,923
+-
+0
+Trade creditors
+224,982
+253,492
+Taxation and social security
+360,468
+647,322
+Other creditors
+322,157
+51,748
+Accruals and deferred income
+249,364
+1,192,876
+1,167,894
+2,352,631
+ACORN TRAINING LTD
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 MARCH 2024
+- 7 -
+7
+Creditors: amounts falling due after more than one year
+2024
+2023
+Notes
+£
+£
+Obligations under finance leases
+57,336
+-
+0
+Other creditors
+164,472
+-
+0
+221,808
+-
+0
+Within creditors are secured debts of £68,259 (2023 £Nil) relating to hire purchase contracts.
+The liability is secured against the assets to which it relates.
+8
+Operating lease commitments
+Lessee
+At the reporting end date the company had outstanding commitments for future minimum lease payments under non-cancellable operating leases, which fall due as follows:
+2024
+2023
+£
+£
+98,052
+96,478
+2024-03-31
+2023-04-01
+false
+false
+false
+19 December 2024
+CCH Software
+CCH Accounts Production 2024.310
+No description of principal activity
+Mr G Saldanha - Fallows
+06517343
+2023-04-01
+2024-03-31
+06517343
+2024-03-31
+06517343
+core:OtherResidualIntangibleAssets
+2024-03-31
+06517343
+core:OtherResidualIntangibleAssets
+2023-03-31
+06517343
+core:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2024-03-31
+06517343
+core:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2023-03-31
+06517343
+2023-03-31
+06517343
+core:LandBuildings
+core:OwnedOrFreeholdAssets
+2024-03-31
+06517343
+core:LeaseholdImprovements
+2024-03-31
+06517343
+core:FurnitureFittings
+2024-03-31
+06517343
+core:ComputerEquipment
+2024-03-31
+06517343
+core:MotorVehicles
+2024-03-31
+06517343
+core:LandBuildings
+core:OwnedOrFreeholdAssets
+2023-03-31
+06517343
+core:LeaseholdImprovements
+2023-03-31
+06517343
+core:FurnitureFittings
+2023-03-31
+06517343
+core:ComputerEquipment
+2023-03-31
+06517343
+core:MotorVehicles
+2023-03-31
+06517343
+core:CurrentFinancialInstruments
+core:WithinOneYear
+2024-03-31
+06517343
+core:CurrentFinancialInstruments
+core:WithinOneYear
+2023-03-31
+06517343
+core:Non-currentFinancialInstruments
+core:AfterOneYear
+2024-03-31
+06517343
+core:Non-currentFinancialInstruments
+core:AfterOneYear
+2023-03-31
+06517343
+core:CurrentFinancialInstruments
+2023-03-31
+06517343
+core:Non-currentFinancialInstruments
+2024-03-31
+06517343
+core:Non-currentFinancialInstruments
+2023-03-31
+06517343
+core:ShareCapital
+2024-03-31
+06517343
+core:ShareCapital
+2023-03-31
+06517343
+core:RetainedEarningsAccumulatedLosses
+2024-03-31
+06517343
+core:RetainedEarningsAccumulatedLosses
+2023-03-31
+06517343
+bus:Director1
+2023-04-01
+2024-03-31
+06517343
+core:IntangibleAssetsOtherThanGoodwill
+2023-04-01
+2024-03-31
+06517343
+core:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2023-04-01
+2024-03-31
+06517343
+core:LandBuildings
+core:OwnedOrFreeholdAssets
+2023-04-01
+2024-03-31
+06517343
+core:LeaseholdImprovements
+2023-04-01
+2024-03-31
+06517343
+core:FurnitureFittings
+2023-04-01
+2024-03-31
+06517343
+core:ComputerEquipment
+2023-04-01
+2024-03-31
+06517343
+core:MotorVehicles
+2023-04-01
+2024-03-31
+06517343
+2022-04-01
+2023-03-31
+06517343
+core:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2023-03-31
+06517343
+core:LandBuildings
+core:OwnedOrFreeholdAssets
+2023-03-31
+06517343
+core:LeaseholdImprovements
+2023-03-31
+06517343
+core:FurnitureFittings
+2023-03-31
+06517343
+core:ComputerEquipment
+2023-03-31
+06517343
+core:MotorVehicles
+2023-03-31
+06517343
+2023-03-31
+06517343
+core:CurrentFinancialInstruments
+2024-03-31
+06517343
+core:Non-currentFinancialInstruments
+1
+2024-03-31
+06517343
+core:Non-currentFinancialInstruments
+1
+2023-03-31
+06517343
+core:WithinOneYear
+2024-03-31
+06517343
+core:WithinOneYear
+2023-03-31
+06517343
+bus:PrivateLimitedCompanyLtd
+2023-04-01
+2024-03-31
+06517343
+bus:SmallCompaniesRegimeForAccounts
+2023-04-01
+2024-03-31
+06517343
+bus:FRS102
+2023-04-01
+2024-03-31
+06517343
+bus:AuditExemptWithAccountantsReport
+2023-04-01
+2024-03-31
+06517343
+bus:FullAccounts
+2023-04-01
+2024-03-31
+xbrli:pure
+xbrli:shares
+iso4217:GBP

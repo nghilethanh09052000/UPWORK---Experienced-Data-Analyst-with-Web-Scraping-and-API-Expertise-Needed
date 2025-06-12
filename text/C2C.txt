@@ -1,0 +1,175 @@
+C2C Group Limited - Accounts to registrar (filleted) - small 23.1.5
+IRIS Accounts Production
+v23.1.5.20
+11014319
+director
+1.8.23
+31.7.24
+31.7.24
+false
+true
+false
+false
+false
+iso4217:GBP
+iso4217:USD
+iso4217:EUR
+xbrli:shares
+xbrli:pure
+utr:tonnes
+utr:kWh
+11014319
+2023-07-31
+11014319
+2024-07-31
+11014319
+2023-08-01
+2024-07-31
+11014319
+2022-07-31
+11014319
+2022-08-01
+2023-07-31
+11014319
+2023-07-31
+11014319
+ns15:EnglandWales
+2023-08-01
+2024-07-31
+11014319
+ns14:PoundSterling
+2023-08-01
+2024-07-31
+11014319
+ns10:Director1
+2023-08-01
+2024-07-31
+11014319
+ns10:PrivateLimitedCompanyLtd
+2023-08-01
+2024-07-31
+11014319
+ns10:Micro-entities
+2023-08-01
+2024-07-31
+11014319
+ns10:AuditExempt-NoAccountantsReport
+2023-08-01
+2024-07-31
+11014319
+ns10:FullAccounts
+2023-08-01
+2024-07-31
+11014319
+ns5:CurrentFinancialInstruments
+2024-07-31
+11014319
+ns5:CurrentFinancialInstruments
+2023-07-31
+11014319
+ns5:Non-currentFinancialInstruments
+2024-07-31
+11014319
+ns5:Non-currentFinancialInstruments
+2023-07-31
+11014319
+ns10:RegisteredOffice
+2023-08-01
+2024-07-31
+REGISTERED NUMBER:
+11014319
+(England and Wales)
+Unaudited Financial Statements for the Year Ended 31 July 2024
+for
+C2C Group Limited
+C2C Group Limited (Registered number: 11014319)
+Contents of the Financial Statements
+for the Year Ended 31 July 2024
+Page
+Balance Sheet
+1
+C2C Group Limited (Registered number: 11014319)
+Balance Sheet
+31 July 2024
+31.7.24
+31.7.23
+£
+£
+£
+£
+FIXED ASSETS
+2,086
+2,715
+CURRENT ASSETS
+136,016
+109,981
+CREDITORS
+Amounts falling due within one year
+(
+66,917
+)
+(
+83,794
+)
+NET CURRENT ASSETS
+69,099
+26,187
+TOTAL ASSETS LESS CURRENT
+LIABILITIES
+71,185
+28,902
+CREDITORS
+Amounts falling due after more than
+one year
+55,271
+25,554
+NET ASSETS
+15,914
+3,348
+RESERVES
+15,914
+3,348
+NOTES TO THE FINANCIAL STATEMENTS
+1.
+STATUTORY INFORMATION
+C2C Group Limited is a
+private company, limited by shares
+, registered in England and
+Wales. The company's registered number and registered office address are as below:
+Registered number:
+11014319
+Registered office:
+9 Warboys Close
+Buntingford
+SG9 9GA
+2.
+AVERAGE NUMBER OF EMPLOYEES
+The average number of employees during the year was
+8
+(2023 -
+6
+) .
+Page 1
+continued...
+C2C Group Limited (Registered number: 11014319)
+Balance Sheet - continued
+31 July 2024
+The company is entitled to exemption from audit under Section 477 of the Companies Act 2006 for the year ended 31 July 2024.
+The members have not required the company to obtain an audit of its financial statements for the year ended 31 July 2024 in accordance with Section 476 of the Companies Act 2006.
+The director acknowledges her responsibilities for:
+(a)
+ensuring that the company keeps accounting records which comply with Sections 386 and
+387 of the Companies Act 2006 and
+(b)
+preparing financial statements which give a true and fair view of the state of affairs of the
+company as at the end of each financial year and of its profit or loss for each financial year in
+accordance with the requirements of Sections 394 and 395 and which otherwise comply with
+the requirements of the Companies Act 2006 relating to financial statements, so far as
+applicable to the company.
+The financial statements have been prepared in accordance with the micro-entity provisions and delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+The financial statements were approved by the director and authorised for issue on
+29 August 2024
+and were signed by:
+Ms J Strahan
+- Director
+Page 2

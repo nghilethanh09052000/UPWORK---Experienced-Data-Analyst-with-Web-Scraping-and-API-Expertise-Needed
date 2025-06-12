@@ -1,0 +1,421 @@
+Workforce Training & Development Ltd - Accounts to registrar (filleted) - small 23.2.5
+IRIS Accounts Production
+v24.1.0.578
+05052803
+Board of Directors
+1.4.23
+31.3.24
+31.3.24
+false
+true
+false
+false
+true
+false
+Ordinary
+1.00000
+iso4217:GBP
+iso4217:USD
+iso4217:EUR
+xbrli:shares
+xbrli:pure
+utr:tonnes
+utr:kWh
+05052803
+2023-03-31
+05052803
+2024-03-31
+05052803
+2023-04-01
+2024-03-31
+05052803
+2022-03-31
+05052803
+2022-04-01
+2023-03-31
+05052803
+2023-03-31
+05052803
+ns15:EnglandWales
+2023-04-01
+2024-03-31
+05052803
+ns14:PoundSterling
+2023-04-01
+2024-03-31
+05052803
+ns10:Director1
+2023-04-01
+2024-03-31
+05052803
+ns10:PrivateLimitedCompanyLtd
+2023-04-01
+2024-03-31
+05052803
+ns10:SmallEntities
+2023-04-01
+2024-03-31
+05052803
+ns10:AuditExempt-NoAccountantsReport
+2023-04-01
+2024-03-31
+05052803
+ns10:SmallCompaniesRegimeForDirectorsReport
+2023-04-01
+2024-03-31
+05052803
+ns10:SmallCompaniesRegimeForAccounts
+2023-04-01
+2024-03-31
+05052803
+ns10:FullAccounts
+2023-04-01
+2024-03-31
+05052803
+ns10:OrdinaryShareClass1
+2023-04-01
+2024-03-31
+05052803
+ns10:Director2
+2023-04-01
+2024-03-31
+05052803
+ns10:CompanySecretary1
+2023-04-01
+2024-03-31
+05052803
+ns10:RegisteredOffice
+2023-04-01
+2024-03-31
+05052803
+ns5:CurrentFinancialInstruments
+2024-03-31
+05052803
+ns5:CurrentFinancialInstruments
+2023-03-31
+05052803
+ns5:ShareCapital
+2024-03-31
+05052803
+ns5:ShareCapital
+2023-03-31
+05052803
+ns5:RetainedEarningsAccumulatedLosses
+2024-03-31
+05052803
+ns5:RetainedEarningsAccumulatedLosses
+2023-03-31
+05052803
+ns5:PlantMachinery
+2023-04-01
+2024-03-31
+05052803
+ns5:FurnitureFittings
+2023-03-31
+05052803
+ns5:FurnitureFittings
+2023-04-01
+2024-03-31
+05052803
+ns5:FurnitureFittings
+2024-03-31
+05052803
+ns5:FurnitureFittings
+2023-03-31
+05052803
+ns5:CurrentFinancialInstruments
+ns5:WithinOneYear
+2024-03-31
+05052803
+ns5:CurrentFinancialInstruments
+ns5:WithinOneYear
+2023-03-31
+05052803
+ns5:DeferredTaxation
+2023-03-31
+05052803
+ns5:DeferredTaxation
+2023-04-01
+2024-03-31
+05052803
+ns5:DeferredTaxation
+2024-03-31
+05052803
+ns10:OrdinaryShareClass1
+2024-03-31
+REGISTERED NUMBER:
+05052803
+(England and Wales)
+Unaudited Financial Statements For The Year Ended 31 March 2024
+for
+Workforce Training & Development Ltd
+Workforce Training & Development Ltd (Registered number: 05052803)
+Contents of the Financial Statements
+For The Year Ended 31 March 2024
+Page
+Company information
+1
+Balance sheet
+2
+Notes to the financial statements
+4
+Workforce Training & Development Ltd
+Company Information
+For The Year Ended 31 March 2024
+Directors:
+Mrs L C Faulkner
+J T Faulkner
+Secretary:
+Mrs L C Faulkner
+Registered office:
+Ironstone House
+4 Ironstone Way
+Brixworth
+Northampton
+Northamptonshire
+NN6 9UD
+Registered number:
+05052803
+(England and Wales)
+Accountants:
+R Vann Ltd
+Chartered Certified Accountants
+Ironstone House
+Ironstone Way
+Brixworth
+Northamptonshire
+NN6 9UD
+Page 1
+Workforce Training & Development Ltd (Registered number: 05052803)
+Balance Sheet
+31 March 2024
+31.3.24
+31.3.23
+Notes
+£
+£
+£
+£
+Fixed assets
+Tangible assets
+4
+16,133
+17,482
+Current assets
+Debtors
+5
+11,029
+10,985
+Cash at bank
+86,275
+83,829
+97,304
+94,814
+Creditors
+Amounts falling due within one year
+6
+7,640
+7,008
+Net current assets
+89,664
+87,806
+Total assets less current liabilities
+105,797
+105,288
+Provisions for liabilities
+7
+2,028
+2,218
+Net assets
+103,769
+103,070
+Capital and reserves
+Called up share capital
+8
+200
+200
+Retained earnings
+103,569
+102,870
+Shareholders' funds
+103,769
+103,070
+The company is entitled to exemption from audit under Section 477 of the Companies Act 2006 for the year ended 31 March 2024.
+The members have not required the company to obtain an audit of its financial statements for the year ended 31 March 2024 in accordance with Section 476 of the Companies Act 2006.
+The directors acknowledge their responsibilities for:
+(a)
+ensuring that the company keeps accounting records which comply with Sections 386 and 387 of the
+Companies Act 2006 and
+(b)
+preparing financial statements which give a true and fair view of the state of affairs of the company as
+at the end of each financial year and of its profit or loss for each financial year in accordance with the
+requirements of Sections 394 and 395 and which otherwise comply with the requirements of the
+Companies Act 2006 relating to financial statements, so far as applicable to the company.
+The notes form part of these financial statements
+Page 2
+continued...
+Workforce Training & Development Ltd (Registered number: 05052803)
+Balance Sheet - continued
+31 March 2024
+The financial statements have been prepared and delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+In accordance with Section 444 of the Companies Act 2006, the Income statement has not been delivered.
+The financial statements were approved by the Board of Directors and authorised for issue on
+26 April 2024
+and were signed on its behalf by:
+J T Faulkner
+- Director
+The notes form part of these financial statements
+Page 3
+Workforce Training & Development Ltd (Registered number: 05052803)
+Notes to the Financial Statements
+For The Year Ended 31 March 2024
+1.
+Statutory information
+Workforce Training & Development Ltd is a
+private company, limited by shares
+, registered in
+England and Wales. The company's registered number and registered office address can be found
+on the Company Information page.
+2.
+Accounting policies
+Basis of preparing the financial statements
+These financial statements have been prepared in accordance with Financial Reporting Standard 102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland" including the provisions of Section 1A "Small Entities" and the Companies Act 2006. The financial statements have been prepared under the historical cost convention.
+Turnover
+Turnover is measured at the fair value of the consideration received or receivable, excluding
+discounts, rebates, value added tax and other sales taxes.
+Tangible fixed assets
+Depreciation is provided at the following annual rates in order to write off each asset over its estimated useful life.
+Plant and machinery etc
+-
+25% on cost and 25% on reducing balance
+Taxation
+Taxation for the year comprises current and deferred tax. Tax is recognised in the Income
+Statement, except to the extent that it relates to items recognised in other comprehensive income or
+directly in equity.
+Current or deferred taxation assets and liabilities are not discounted.
+Current tax is recognised at the amount of tax payable using the tax rates and laws that have been
+enacted or substantively enacted by the balance sheet date.
+Page 4
+continued...
+Workforce Training & Development Ltd (Registered number: 05052803)
+Notes to the Financial Statements - continued
+For The Year Ended 31 March 2024
+2.
+Accounting policies - continued
+Deferred tax
+Deferred tax is recognised in respect of all timing differences that have originated but not reversed
+at the balance sheet date.
+Timing differences arise from the inclusion of income and expenses in tax assessments in periods
+different from those in which they are recognised in financial statements. Deferred tax is measured
+using tax rates and laws that have been enacted or substantively enacted by the year end and that are
+expected to apply to the reversal of the timing difference.
+Unrelieved tax losses and other deferred tax assets are recognised only to the extent that it is
+probable that they will be recovered against the reversal of deferred tax liabilities or other future
+taxable profits.
+Pension costs and other post-retirement benefits
+The company operates a defined contribution pension scheme.
+Contributions payable to the
+company's pension scheme are charged to profit or loss in the period to which they relate.
+3.
+Employees and directors
+The average number of employees during the year was
+4
+(2023 -
+4
+) .
+Page 5
+continued...
+Workforce Training & Development Ltd (Registered number: 05052803)
+Notes to the Financial Statements - continued
+For The Year Ended 31 March 2024
+4.
+Tangible fixed assets
+Fixtures,
+fittings
+& computer
+equipment
+£
+Cost
+At 1 April 2023
+50,547
+Additions
+4,198
+At 31 March 2024
+54,745
+Depreciation
+At 1 April 2023
+33,065
+Charge for year
+5,547
+At 31 March 2024
+38,612
+Net book value
+At 31 March 2024
+16,133
+At 31 March 2023
+17,482
+5.
+Debtors: amounts falling due within one year
+31.3.24
+31.3.23
+£
+£
+Other debtors
+11,029
+10,985
+6.
+Creditors: amounts falling due within one year
+31.3.24
+31.3.23
+£
+£
+Taxation and social security
+5,525
+5,023
+Other creditors
+2,115
+1,985
+7,640
+7,008
+Page 6
+continued...
+Workforce Training & Development Ltd (Registered number: 05052803)
+Notes to the Financial Statements - continued
+For The Year Ended 31 March 2024
+7.
+Provisions for liabilities
+31.3.24
+31.3.23
+£
+£
+Deferred tax
+2,028
+2,218
+Deferred
+tax
+£
+Balance at 1 April 2023
+2,218
+Provided during year
+(
+190
+)
+Balance at 31 March 2024
+2,028
+8.
+Called up share capital
+Allotted, issued and fully paid:
+Number:
+Class:
+Nominal
+31.3.24
+31.3.23
+value:
+£
+£
+200
+Ordinary
+1
+200
+200
+Page 7
